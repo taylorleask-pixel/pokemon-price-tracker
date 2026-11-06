@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:21+10:00",
+ "updated": "2026-11-06T21:58+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -9,22 +9,22 @@
   "evo": {
    "ok": true,
    "found": 60,
-   "kept": 24
+   "kept": 41
   },
   "eden": {
    "ok": true,
    "found": 77,
-   "kept": 26
+   "kept": 52
   },
   "sidequest": {
    "ok": true,
    "found": 60,
-   "kept": 15
+   "kept": 60
   },
   "raptor": {
    "ok": true,
    "found": 393,
-   "kept": 294
+   "kept": 304
   },
   "everson": {
    "ok": true,
@@ -33,8 +33,8 @@
   },
   "dorky": {
    "ok": true,
-   "found": 35,
-   "kept": 27
+   "found": 0,
+   "kept": 0
   },
   "jojos": {
    "ok": true,
@@ -44,7 +44,7 @@
   "gatekeepers": {
    "ok": true,
    "found": 21,
-   "kept": 12
+   "kept": 21
   }
  }
 }
