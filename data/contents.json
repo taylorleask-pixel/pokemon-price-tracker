@@ -566,5 +566,96 @@
    "60-card tournament deck replica (not tournament legal)"
   ],
   "separate_rows": true
+ },
+ "Iono Premium Tournament Collection": {
+  "category": "other",
+  "match": [
+   "iono",
+   "premium tournament"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "4 foil Iono cards",
+   "65 sleeves",
+   "deck box",
+   "metal coin",
+   "dice and markers"
+  ]
+ },
+ "Charizard ex Special Collection": {
+  "category": "other",
+  "match": [
+   "charizard ex special collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "etched Charizard ex promo",
+   "Charmander and Charmeleon foils",
+   "oversize lenticular Charizard ex"
+  ]
+ },
+ "Paldean Fates Premium Collection": {
+  "category": "other",
+  "match": [
+   "paldean fates",
+   "premium collection"
+  ],
+  "packs": [
+   {
+    "set": "Paldean Fates",
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "3 etched shiny promos",
+   "oversize promo",
+   "magnetic card protector"
+  ]
+ },
+ "Battle Decks (no packs)": {
+  "category": "other",
+  "match": [
+   "battle deck"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card ready-to-play deck"
+  ],
+  "separate_rows": true
+ },
+ "Battle Arena Decks": {
+  "category": "other",
+  "match": [
+   "battle arena deck"
+  ],
+  "packs": [],
+  "extras": [
+   "two 60-card decks"
+  ],
+  "separate_rows": true
+ },
+ "Sword & Shield Theme Deck": {
+  "category": "other",
+  "match": [
+   "sword",
+   "shield",
+   "theme deck"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card deck",
+   "coin, damage counters, playmat, deck box"
+  ],
+  "separate_rows": true
  }
 }

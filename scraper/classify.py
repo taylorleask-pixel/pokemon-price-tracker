@@ -95,6 +95,23 @@ def find_set(title: str):
     return pick[0] if pick else None
 
 
+FAMILY_PACKS = [  # (pattern on the cleaned title, booster packs)
+    (r"poke ball tin", 3),              # Target listing: "Poké Ball Tin, 3 packs"
+    (r"stacking tins?\b", 3),           # Pokémon Wizard: 3 packs + coin
+    (r"trainer'?s toolkit", 4),         # Wayland Games: 4 packs
+    (r"paradox destinies tin", 5),      # Paradox TCG: 5 packs
+    (r"holiday calendar 2025|holiday 2025 calendar", 6),  # Card Codex: 6 packs
+    (r"fall 2025 collector'?s? chest", 6),
+    (r"\bshowcase\b", 3),              # Card Codex: Pikachu V Showcase 3 packs
+    (r"\b(ex|v|gx|vmax|vstar)\s+box\b(?!.*(premium|collection))", 4),  # V/ex Boxes: 4 packs
+    (r"^(?!.*deluxe)(?!.*legends of johto).*\bpin collection\b", 3),  # Pin Collections: 3 packs
+    (r"legends of johto pin collection", 9),
+]
+
+
+def is_family(t: str) -> bool:
+    return not re.search(r"display|case|bundle of|set of|\+|and .* tins", t) and any(re.search(p, t) for p, _ in FAMILY_PACKS)
+
 VARIANTS = [("1st edition", "1st Edition"), ("pokemon center", "Pokémon Center"), ("pokemon centre", "Pokémon Center"),
             ("enhanced", "Enhanced"), ("shadowless", "Shadowless")]
 CAT = {c["id"]: c for c in CATEGORIES}
@@ -155,6 +172,11 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
             return 2  # every English mini tin has 2 packs
         if re.search(r"build and battle box\b", t) and "display" not in t:
             return 4  # every Build & Battle Box has 4 packs of its set
+        # Product families checked once (sources in README): same count for every product in the family
+        if not re.search(r"display|case|bundle of|set of|\+|and .* tins", t):
+            for pat, n in FAMILY_PACKS:
+                if re.search(pat, t):
+                    return n
     if cat["id"] == "box" and "enhanced" in t:
         return 18  # Enhanced booster boxes hold 18 packs
     if cat["packs"]:
@@ -200,7 +222,8 @@ def classify(title: str) -> dict:
     packs = pack_count(cat, s, title, c_info)
     auto = None
     if not c_name and packs and cat["id"] in ("other", "blister-multi"):
-        auto = [{"set": s["name"] if s else None, "qty": packs}]
+        # a family count (e.g. any V Box = 4 packs) doesn't say which sets; a stated count with a set does
+        auto = [{"set": s["name"] if s and not is_family(t) else None, "qty": packs}]
     return {
         "lang": lang,
         "auto_packs": auto,
