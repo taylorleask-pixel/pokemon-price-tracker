@@ -138,13 +138,14 @@ function render() {
 function sortRows(rows) {
   const { col, dir } = S.sort;
   const val = {
-    default: (r) => [-(r.year ?? 0), D.setOrder[r.set] ?? 9999, r.name],
+    // in-stock first, then newest set first
+    default: (r) => [r.low == null ? 1 : 0, -(r.year ?? 0), D.setOrder[r.set] ?? 9999, r.name],
     name: (r) => r.name.toLowerCase(), year: (r) => r.year ?? 0,
     low: (r) => r.low ?? Infinity, per: (r) => r.perPack ?? Infinity, packs: (r) => r.packs ?? 0,
   }[col] ?? ((r) => r.byStore[col]?.available ? r.byStore[col].price : Infinity);
   return rows.sort((a, b) => {
     const A = val(a), B = val(b);
-    if (col === "default") { for (let i = 0; i < 3; i++) if (A[i] !== B[i]) return A[i] < B[i] ? -1 : 1; return 0; }
+    if (col === "default") { for (let i = 0; i < 4; i++) if (A[i] !== B[i]) return A[i] < B[i] ? -1 : 1; return 0; }
     if (A === B) return 0;
     const asc = ["low", "per", "name"].includes(col) || D.storeName[col] ? 1 : -1;
     return (A < B ? -1 : 1) * asc * (dir === -1 ? 1 : -1);
@@ -176,8 +177,8 @@ function renderTable(rows, { showPacks }) {
   };
   const head = `<tr>${th("year", "Year")}${th("name", showPacks ? "Product" : "Set", "namecol")}${
     showPacks ? th("packs", "Packs included") : ""}${
-    stores.map((s) => th(s.id, s.name, "store")).join("")}${
-    th("low", "Lowest")}<th>Cheapest at</th>${th("per", "Per pack")}</tr>`;
+    th("low", "Lowest")}<th>Cheapest at</th>${th("per", "Per pack")}${
+    stores.map((s) => th(s.id, s.name, "store")).join("")}</tr>`;
   const cols = stores.length + (showPacks ? 6 : 5);
   const body = rows.map((r) => {
     const cells = stores.map((s) => {
@@ -194,11 +195,11 @@ function renderTable(rows, { showPacks }) {
     const row = `<tr class="row" data-key="${esc(r.key)}" tabindex="0" aria-expanded="${S.open.has(r.key)}">
       <td class="year">${r.year ?? ""}</td>
       <td class="namecol"><span class="name">${esc(r.name)}</span>${sub}</td>
-      ${showPacks ? `<td>${esc(packsText(r))}</td>` : ""}
-      ${cells}
+      ${showPacks ? `<td class="packs">${esc(packsText(r))}</td>` : ""}
       <td class="best">${money(r.low) || '<span class="per">Sold out</span>'}</td>
       <td>${esc(D.storeName[r.lowStore] ?? "")}</td>
-      <td class="per">${r.perPack != null ? money(r.perPack) : ""}</td></tr>`;
+      <td class="per">${r.perPack != null ? money(r.perPack) : ""}</td>
+      ${cells}</tr>`;
     return row + (S.open.has(r.key) ? detailRow(r, cols) : "");
   }).join("");
   $("#view").innerHTML = `<div class="wrap"><table><thead>${head}</thead><tbody>${body}</tbody></table></div>`;

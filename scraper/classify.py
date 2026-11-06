@@ -90,6 +90,9 @@ def find_category(title: str, set_obj=None) -> dict:
 def find_contents(title: str):
     t = norm(title)
     for name, info in CONTENTS.items():
+        # a "case" or "display" of a product is a different (bigger) product
+        if any(_pattern(w).search(t) for w in info.get("exclude", ["case", "display", "set of"])):
+            continue
         if all(norm(w) in t for w in info.get("match", [name])):
             return name, info
     return None, None

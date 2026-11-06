@@ -256,6 +256,11 @@ def main():
                 info = classify(it["title"])
                 if info["skip"]:
                     continue
+                # "Delta Reign Booster" for $320 is a booster box, not one pack
+                if (info["category"] == "pack" and (info["year"] or 0) >= 2020 and (it["price"] or 0) >= 100
+                        and "pack" not in it["title"].lower()):
+                    info.update(category="box", packs=36,
+                                key=info["key"].replace("pack|", "box|", 1))
                 listings.append({"store": store["id"], **it, **info})
                 kept += 1
             report[store["id"]] = {"ok": True, "found": len(items), "kept": kept}
