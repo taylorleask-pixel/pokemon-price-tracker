@@ -1,0 +1,46 @@
+name: Check prices
+
+on:
+  schedule:
+    # times are UTC: 21:17, 03:17, 09:17 UTC = 7:17am, 1:17pm, 7:17pm Brisbane
+    - cron: "17 21,3,9 * * *"
+  workflow_dispatch: {}   # adds a "Run workflow" button on GitHub
+  push:
+    paths:
+      - "scraper/**"
+      - "data/stores.json"
+      - "data/sets.json"
+      - "data/categories.json"
+      - "data/contents.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-prices
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests beautifulsoup4
+
+      - name: Check every store
+        run: python scraper/scrape.py
+
+      - name: Save results
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add data/prices.json data/history.json data/report.json
+          git diff --cached --quiet || git commit -m "Update prices $(TZ=Australia/Brisbane date '+%Y-%m-%d %H:%M')"
+          git pull --rebase
+          git push
