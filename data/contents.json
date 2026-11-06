@@ -304,7 +304,7 @@
  "Mega Moonlit Tin": {
   "category": "other",
   "match": [
-   "moonlit",
+   "moonli",
    "tin"
   ],
   "packs": [
@@ -1202,6 +1202,496 @@
   "extras": [
    "Hydreigon ex and Dragapult ex promos",
    "oversize card"
+  ]
+ },
+ "Iono's Bellibolt ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "bellibolt",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Iono's Bellibolt ex full-art promo",
+   "Iono's Tadbulb foil",
+   "acrylic standees",
+   "backdrop display",
+   "photo sticker"
+  ]
+ },
+ "Lugia ex & Latias ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "lugia",
+   "latias",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "2 promo cards",
+   "oversize card"
+  ]
+ },
+ "Masks of Ogerpon Premium Collection": {
+  "category": "other",
+  "match": [
+   "masks of ogerpon"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "Hearthflame and Wellspring Mask Ogerpon ex foils",
+   "oversize Hearthflame Mask Ogerpon ex"
+  ]
+ },
+ "Ascended Heroes Tin": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "tin"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Meganium ex, Mega Emboar ex or Mega Feraligatr ex foil promo"
+  ],
+  "exclude": [
+   "mini",
+   "case",
+   "display",
+   "set of"
+  ]
+ },
+ "Mega Forces Tin": {
+  "category": "other",
+  "match": [
+   "mega forces tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Dragonite ex, Mega Darkrai ex or Mega Zeraora ex foil promo"
+  ]
+ },
+ "Mega Greninja ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega greninja",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Mega Greninja ex foil promo",
+   "oversize lenticular promo",
+   "tech sticker"
+  ]
+ },
+ "Mega Venusaur ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega venusaur",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Mega Venusaur ex foil promo",
+   "oversize lenticular promo",
+   "tech sticker"
+  ]
+ },
+ "Lucario VSTAR Premium Collection": {
+  "category": "other",
+  "match": [
+   "lucario vstar premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Lucario VSTAR promos"
+  ]
+ },
+ "Lucario VSTAR Special Collection": {
+  "category": "other",
+  "match": [
+   "lucario vstar special"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Lucario VSTAR promos"
+  ]
+ },
+ "Meddling Sparks Premium Collection": {
+  "category": "other",
+  "match": [
+   "meddling sparks"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 12
+   }
+  ],
+  "extras": [
+   "Scizor ex, Luxray ex, Scizor and Luxray foils",
+   "oversize Luxray ex"
+  ]
+ },
+ "Mimikyu ex & Alcremie ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "mimikyu",
+   "alcremie"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "2 promos",
+   "oversize card"
+  ]
+ },
+ "Mythical Squishy Premium Collection": {
+  "category": "other",
+  "match": [
+   "mythical squishy"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Mew V, Celebi V and Victini V cards",
+   "Mew, Celebi and Victini squishies"
+  ]
+ },
+ "Ogerpon ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "ogerpon ex premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Teal Mask Ogerpon ex promo",
+   "Teal Mask Ogerpon and Ogre's Mask foils",
+   "magnetic card protector",
+   "65 sleeves"
+  ]
+ },
+ "Paradox Fury Premium Collection": {
+  "category": "other",
+  "match": [
+   "paradox fury"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 7
+   }
+  ],
+  "extras": [
+   "3 promos",
+   "oversize promo"
+  ]
+ },
+ "Paradox Wisdom Premium Collection": {
+  "category": "other",
+  "match": [
+   "paradox wisdom"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 7
+   }
+  ],
+  "extras": [
+   "Iron Leaves ex, Iron Crown ex and Iron Boulder ex promos",
+   "oversize Iron Crown ex",
+   "magnetic 3-card holder"
+  ]
+ },
+ "Paradox Powers ex Special Collection": {
+  "category": "other",
+  "match": [
+   "paradox powers"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "promos"
+  ]
+ },
+ "Prismatic Evolutions Poster Collection": {
+  "category": "other",
+  "match": [
+   "prismatic",
+   "poster"
+  ],
+  "packs": [
+   {
+    "set": "Prismatic Evolutions",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "promos",
+   "poster"
+  ]
+ },
+ "Prismatic Evolutions Surprise Box": {
+  "category": "other",
+  "match": [
+   "prismatic",
+   "surprise"
+  ],
+  "packs": [
+   {
+    "set": "Prismatic Evolutions",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "random Stellar Eeveelution ex promo",
+   "storage box with dividers"
+  ]
+ },
+ "Prismatic Evolutions Tech Sticker Collection": {
+  "category": "other",
+  "match": [
+   "prismatic",
+   "tech sticker"
+  ],
+  "packs": [
+   {
+    "set": "Prismatic Evolutions",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Leafeon, Glaceon or Sylveon promo",
+   "tech sticker sheet"
+  ]
+ },
+ "151 Poster Collection": {
+  "category": "other",
+  "match": [
+   "151",
+   "poster"
+  ],
+  "packs": [
+   {
+    "set": "151",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Bulbasaur, Charmander and Squirtle foil promos",
+   "poster"
+  ]
+ },
+ "Unova Poster Collection": {
+  "category": "other",
+  "match": [
+   "unova",
+   "poster"
+  ],
+  "packs": [
+   {
+    "set": "Black Bolt",
+    "qty": 2
+   },
+   {
+    "set": "White Flare",
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Snivy, Tepig and Oshawott promos",
+   "double-sided poster"
+  ]
+ },
+ "Unova Victini Illustration Collection": {
+  "category": "other",
+  "match": [
+   "victini",
+   "illustration"
+  ],
+  "packs": [
+   {
+    "set": "Black Bolt",
+    "qty": 2
+   },
+   {
+    "set": "White Flare",
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Victini illustration rare promo",
+   "Poké Ball parallel Victini",
+   "oversize Victini"
+  ]
+ },
+ "White Flare Tech Sticker Collection": {
+  "category": "other",
+  "match": [
+   "white flare",
+   "tech sticker"
+  ],
+  "packs": [
+   {
+    "set": "White Flare",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "foil promo",
+   "tech sticker sheet"
+  ]
+ },
+ "Shrouded Fable Special Illustration Collection": {
+  "category": "other",
+  "match": [
+   "special illustration collection"
+  ],
+  "packs": [
+   {
+    "set": "Shrouded Fable",
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Greninja ex or Kingdra ex full-art promo",
+   "2 foil cards of its evolution line"
+  ]
+ },
+ "Slashing Legends Tin": {
+  "category": "other",
+  "match": [
+   "slashing legends"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Zacian ex or Koraidon ex foil promo"
+  ]
+ },
+ "Small But Mighty Premium Collection": {
+  "category": "other",
+  "match": [
+   "small but mighty"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "Togepi & Cleffa & Igglybuff-GX special art",
+   "enamel pin",
+   "metal coin",
+   "dangler"
+  ]
+ },
+ "Team Rocket's Mewtwo ex Box": {
+  "category": "other",
+  "match": [
+   "team rocket",
+   "mewtwo ex box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Team Rocket's Mewtwo ex promo",
+   "Team Rocket's Meowth and Giovanni foils",
+   "oversize Mewtwo ex",
+   "photo sticker"
+  ]
+ },
+ "Team Rocket Tin": {
+  "category": "other",
+  "match": [
+   "team rocket",
+   "tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Team Rocket ex foil promo"
+  ],
+  "exclude": [
+   "mini",
+   "case",
+   "display",
+   "set of"
   ]
  }
 }

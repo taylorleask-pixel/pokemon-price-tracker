@@ -110,7 +110,7 @@ FAMILY_PACKS = [  # (pattern on the cleaned title, booster packs)
 
 
 def is_family(t: str) -> bool:
-    return not re.search(r"display|case|bundle of|set of|\+|and .* tins", t) and any(re.search(p, t) for p, _ in FAMILY_PACKS)
+    return not re.search(r"display|\bcase\b|bundle of|set of|\+|and .* tins", t) and any(re.search(p, t) for p, _ in FAMILY_PACKS)
 
 VARIANTS = [("1st edition", "1st Edition"), ("pokemon center", "Pokémon Center"), ("pokemon centre", "Pokémon Center"),
             ("enhanced", "Enhanced"), ("shadowless", "Shadowless")]
@@ -168,12 +168,15 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
             return None  # bundle case sizes vary, fill in via contents.json
         return 6 * 36
     if cat["id"] in ("other", "blister-multi"):
-        if re.search(r"\bmini tin\b", t) and not re.search(r"display|set of|\d+ tins|case", t):
+        multi = re.search(r"mini tins?\s+(\d+)[\s-]*pack", t)
+        if multi:
+            return 2 * int(multi.group(1))  # a bundle of mini tins, 2 packs each
+        if re.search(r"\bmini tins?\b", t) and not re.search(r"display|set of|\d+ tins|\bcase\b|\d+-pack|\+|poke ball", t):
             return 2  # every English mini tin has 2 packs
         if re.search(r"build and battle box\b", t) and "display" not in t:
             return 4  # every Build & Battle Box has 4 packs of its set
         # Product families checked once (sources in README): same count for every product in the family
-        if not re.search(r"display|case|bundle of|set of|\+|and .* tins", t):
+        if not re.search(r"display|\bcase\b|bundle of|set of|\+|and .* tins", t):
             for pat, n in FAMILY_PACKS:
                 if re.search(pat, t):
                     return n
