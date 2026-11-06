@@ -204,6 +204,10 @@ def scrape_square(store):
         clues.append(f"{page_url}: {len(html)} chars, user={'y' if user else 'n'} site={'y' if site else 'n'}, "
                      + "; ".join(sorted(set(m[:60] for m in re.findall(r'[^"\s]*(?:site|user|editmysite)[^"\s]{0,40}', html, re.I)))[:12]))
     if not (user and site):
+        # save the page so the IDs can be found by hand and the reader fixed
+        dbg = DATA / "debug"
+        dbg.mkdir(exist_ok=True)
+        (dbg / f"{store['id']}.html").write_text(html, encoding="utf-8")
         raise RuntimeError("couldn't find Square site IDs. Clues: " + " | ".join(clues))
     user, site = user.group(1), site.group(1)
     api = f"https://cdn5.editmysite.com/app/store/api/v28/editor/users/{user}/sites/{site}/products"
