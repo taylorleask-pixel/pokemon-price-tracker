@@ -1,0 +1,48 @@
+{
+ "updated": "2026-11-06T20:37+10:00",
+ "stores": {
+  "misty": {
+   "ok": true,
+   "found": 992,
+   "kept": 974
+  },
+  "evo": {
+   "ok": true,
+   "found": 82,
+   "kept": 40
+  },
+  "eden": {
+   "ok": false,
+   "error": "RuntimeError: couldn't find Square site IDs in the page"
+  },
+  "sidequest": {
+   "ok": true,
+   "found": 60,
+   "kept": 18
+  },
+  "raptor": {
+   "ok": true,
+   "found": 393,
+   "kept": 309
+  },
+  "everson": {
+   "ok": true,
+   "found": 10,
+   "kept": 8
+  },
+  "dorky": {
+   "ok": true,
+   "found": 35,
+   "kept": 32
+  },
+  "jojos": {
+   "ok": false,
+   "error": "RuntimeError: couldn't find Square site IDs in the page"
+  },
+  "gatekeepers": {
+   "ok": true,
+   "found": 21,
+   "kept": 21
+  }
+ }
+}
