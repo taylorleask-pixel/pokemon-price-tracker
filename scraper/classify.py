@@ -215,7 +215,7 @@ def classify(title: str) -> dict:
     cat = next((c for c in CATEGORIES if c["id"] == c_info["category"]), None) if c_info else None
     cat = cat or find_category(title, s)
     variant = find_variant(title) if cat["id"] in ("pack", "box", "etb", "bundle", "blister-single") else None
-    if cat["id"] in ("pack", "box", "bundle", "etb", "blister-single", "case") and not s and lang == "EN":
+    if cat["id"] in ("pack", "box", "bundle", "etb", "blister-single", "case") and not s and lang == "EN" and not c_info:
         cat = CAT["other"]  # e.g. "2 Booster Packs & Celebi Pin": no single set, so it's a one-off product
     # A product named in contents.json is its own row; otherwise sealed set product rows are set+type.
     if c_name and c_info.get("separate_rows"):

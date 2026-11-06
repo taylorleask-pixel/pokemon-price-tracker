@@ -4399,5 +4399,192 @@
    "Jungle theme deck",
    "playmat"
   ]
+ },
+ "Charizard ex Super-Premium Collection Case": {
+  "category": "case",
+  "match": [
+   "charizard",
+   "super",
+   "premium",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 40
+   }
+  ],
+  "extras": [
+   "4 x Charizard ex Super-Premium Collection"
+  ],
+  "exclude": [
+   "set of"
+  ]
+ },
+ "Combined Powers Premium Collection Case": {
+  "category": "case",
+  "match": [
+   "combined powers",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 66
+   }
+  ],
+  "extras": [
+   "6 x Combined Powers Premium Collection"
+  ],
+  "exclude": [
+   "set of"
+  ]
+ },
+ "Dark Powers ex Special Collection Case": {
+  "category": "case",
+  "match": [
+   "dark powers",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 30
+   }
+  ],
+  "extras": [
+   "6 x Dark Powers ex Special Collection"
+  ],
+  "exclude": [
+   "set of"
+  ]
+ },
+ "Iono Premium Tournament Collection Display": {
+  "category": "case",
+  "match": [
+   "iono",
+   "tournament",
+   "display"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 24
+   }
+  ],
+  "extras": [
+   "4 x Iono Premium Tournament Collection"
+  ],
+  "exclude": [
+   "set of"
+  ]
+ },
+ "Professor Juniper Premium Tournament Collection Case": {
+  "category": "case",
+  "match": [
+   "juniper",
+   "tournament",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 28
+   }
+  ],
+  "extras": [
+   "4 x Professor Juniper Premium Tournament Collection"
+  ],
+  "exclude": [
+   "set of"
+  ]
+ },
+ "Lillie Premium Tournament Collection Display": {
+  "category": "case",
+  "match": [
+   "lillie",
+   "tournament",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 24
+   }
+  ],
+  "extras": [
+   "4 x Lillie Premium Tournament Collection"
+  ],
+  "exclude": [
+   "set of",
+   "6 box"
+  ]
+ },
+ "Poké Ball Tin Display": {
+  "category": "case",
+  "match": [
+   "ball tin display"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 18
+   }
+  ],
+  "extras": [
+   "6 Poké Ball tins (3 packs and a coin each)"
+  ],
+  "exclude": [
+   "set of",
+   "case"
+  ],
+  "separate_rows": true,
+  "note": "Every Poké Ball Tin Display checked (2019 to 2024) has 6 tins."
+ },
+ "Build & Battle Box Display": {
+  "category": "case",
+  "match": [
+   "build",
+   "battle",
+   "display"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 40
+   }
+  ],
+  "extras": [
+   "10 Build & Battle Boxes"
+  ],
+  "exclude": [
+   "set of",
+   "stadium",
+   "case"
+  ],
+  "separate_rows": true,
+  "note": "10 boxes x 4 packs of the set."
+ },
+ "Mini Tin Display": {
+  "category": "case",
+  "match": [
+   "mini tin",
+   "display"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 20
+   }
+  ],
+  "extras": [
+   "10 mini tins (2 packs each)"
+  ],
+  "exclude": [
+   "set of",
+   "display case"
+  ],
+  "separate_rows": true,
+  "note": "Checked 151, Paldea Friends, Paldean Fates, Lumiose City, Kanto Power, Mega Heroes and Galar Pals displays: 10 tins each."
  }
 }
