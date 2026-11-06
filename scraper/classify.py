@@ -103,7 +103,7 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
         return sum(p["qty"] for p in contents["packs"])
     t = norm(title)
     t = re.sub(r"\btwo\b", "2", re.sub(r"\bthree\b", "3", re.sub(r"\bdouble\b", "2 pack", t)))
-    m = re.search(r"(\d+)[\s-]*(?:x\s*)?(?:booster\s*)?packs?\b", t) or re.search(r"set of (\d+)", t)
+    m = re.search(r"(\d+)[\s-]*(?:x\s*)?(?:booster\s*)?(?:packs?|boosters?)\b", t) or re.search(r"set of (\d+)", t)
     if cat["id"] == "etb":
         base = 9 if s and s["year"] >= 2023 else 8
         return base + 2 if "pokemon cent" in t else base  # Pokémon Center ETBs have 2 extra packs
@@ -121,6 +121,9 @@ def classify(title: str) -> dict:
     skip = None
     if any(w in t for w in FOREIGN):
         skip = "foreign"
+    elif re.search(r"(?<![\d/])\d{1,3}/\d{2,3}(?![\d/])|\breverse holo\b|\bholo\b(?!.*(box|pack|tin|collection))", t) \
+            or re.match(r"^\d{3}\s", t):
+        skip = "single"  # a single card, e.g. "082/94 Linoone Reverse Holo" - kept for the Gengar tracker
     elif any(w in t for w in NOT_SEALED):
         skip = "not-sealed"
     s = find_set(title)

@@ -15,7 +15,8 @@
   "id": "eden",
   "name": "Eden Hunters",
   "platform": "square",
-  "url": "https://www.edenhunter.com.au/shop/pokemon/O7MZU3S2ZZWAQWGKDO7YXHMW"
+  "url": "https://www.edenhunter.com.au/shop/pokemon/O7MZU3S2ZZWAQWGKDO7YXHMW",
+  "square_user": "140825015"
  },
  {
   "id": "sidequest",
@@ -45,7 +46,8 @@
   "id": "jojos",
   "name": "JoJo's Hobbyhouse",
   "platform": "square",
-  "url": "https://www.jojoshobbyhouse.com.au/shop/pokemon/TBJRM355AWMDB5SY5TYK53GM"
+  "url": "https://www.jojoshobbyhouse.com.au/shop/pokemon/TBJRM355AWMDB5SY5TYK53GM",
+  "square_user": "153888666"
  },
  {
   "id": "gatekeepers",

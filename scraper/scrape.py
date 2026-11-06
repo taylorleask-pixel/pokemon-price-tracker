@@ -272,7 +272,7 @@ SCRAPERS = {"shopify": scrape_shopify, "misty": scrape_misty,
 def main():
     stores = json.loads((DATA / "stores.json").read_text(encoding="utf-8"))
     now = datetime.now(BRISBANE)
-    listings, report = [], {}
+    listings, singles, report = [], [], {}
     for store in stores:
         print(f"Checking {store['name']} ({store['platform']})...")
         try:
@@ -282,6 +282,9 @@ def main():
                 if it.get("price") is None and it.get("available"):
                     continue
                 info = classify(it["title"])
+                if info["skip"] == "single":
+                    singles.append({"store": store["id"], **it, "set": info["set"], "year": info["year"]})
+                    continue
                 if info["skip"]:
                     continue
                 # "Delta Reign Booster" for $320 is a booster box, not one pack
@@ -312,6 +315,8 @@ def main():
     (DATA / "prices.json").write_text(json.dumps(
         {"updated": now.isoformat(timespec="minutes"), "listings": listings},
         ensure_ascii=False, indent=0), encoding="utf-8")
+    (DATA / "singles.json").write_text(json.dumps(
+        {"updated": now.isoformat(timespec="minutes"), "singles": singles}, ensure_ascii=False, indent=0), encoding="utf-8")
     (DATA / "report.json").write_text(json.dumps(
         {"updated": now.isoformat(timespec="minutes"), "stores": report}, indent=1), encoding="utf-8")
 
