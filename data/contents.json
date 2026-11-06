@@ -832,7 +832,7 @@
   ]
  },
  "Back to School Eraser Blister 2024": {
-  "category": "other",
+  "category": "blister-multi",
   "match": [
    "eraser blister",
    "2024"
@@ -4144,7 +4144,7 @@
   ]
  },
  "Premium Checklane Blister (Gardevoir / Gallade)": {
-  "category": "other",
+  "category": "blister-multi",
   "match": [
    "premium checklane blister"
   ],
@@ -4174,7 +4174,7 @@
   "separate_rows": true
  },
  "Checklane 2 Mini-Pack Blister": {
-  "category": "other",
+  "category": "blister-multi",
   "match": [
    "checklane 2 mini"
   ],
@@ -4250,5 +4250,154 @@
    "damage counters"
   ],
   "separate_rows": true
+ },
+ "Poké Ball Tin + 2 Mini Tins (Sam's Club)": {
+  "category": "other",
+  "match": [
+   "ball with two mini tins"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 7
+   }
+  ],
+  "extras": [
+   "2 mini tin coins and art cards",
+   "Poké Ball coin"
+  ],
+  "note": "2 mini tins x 2 packs plus 3 packs in the Poké Ball."
+ },
+ "Paldean Fates Mini Tins + Poké Ball Tin": {
+  "category": "other",
+  "match": [
+   "paldean fates",
+   "mini tins",
+   "ball tin"
+  ],
+  "packs": [
+   {
+    "set": "Paldean Fates",
+    "qty": 4
+   },
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "3 coins",
+   "2 art cards"
+  ],
+  "note": "2 Paldean Fates mini tins x 2 packs plus 3 packs in the Poké Ball."
+ },
+ "Thunderstorm / Tempest Gift Box": {
+  "category": "other",
+  "match": [
+   "gift box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Thunderstorm theme deck",
+   "Pikachu metal coin",
+   "felt bag",
+   "damage counters",
+   "Play It! v2 CD-ROM"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "holiday",
+   "christmas"
+  ],
+  "note": "Tempest is the UK name for the Thunderstorm Gift Box. 3 random packs from Jungle to Gym Heroes."
+ },
+ "Back to School Eraser Blister": {
+  "category": "blister-multi",
+  "match": [
+   "eraser blister"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Pokémon eraser"
+  ],
+  "separate_rows": true
+ },
+ "Back to School Bundle (2022)": {
+  "category": "other",
+  "match": [
+   "back to school bundle"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Pikachu and Eevee erasers",
+   "pencil case tin"
+  ],
+  "note": "2 eraser blisters (2 packs each) plus the pencil case (2 packs)."
+ },
+ "Alola Trio Pin Blister": {
+  "category": "blister-multi",
+  "match": [
+   "alola trio"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Absol foil promo",
+   "Rowlet, Litten and Popplio pin"
+  ]
+ },
+ "Ascended Heroes Tech Sticker Blister": {
+  "category": "blister-multi",
+  "match": [
+   "tech sticker blister"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Charmander or Gastly foil promo",
+   "tech sticker sheet"
+  ]
+ },
+ "Starter Gift Set (1999)": {
+  "category": "other",
+  "match": [
+   "starter gift set"
+  ],
+  "packs": [
+   {
+    "set": "Jungle",
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Base Set 2-Player Starter Set",
+   "Jungle theme deck",
+   "playmat"
+  ]
  }
 }
