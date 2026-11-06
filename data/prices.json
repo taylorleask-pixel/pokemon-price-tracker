@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-06T22:03+10:00",
+"updated": "2026-11-06T22:14+10:00",
 "listings": [
 {
 "store": "misty",
@@ -2779,13 +2779,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/aegislash-ex-box-eu-exclusive",
 "image": "https://images.scrydex.com/pokemon/miscp-s38/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|aegislash ex box eu exclusive",
 "skip": null,
 "first_seen": null,
@@ -2839,13 +2844,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/alolan-sandslash-gx-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s570/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|alolan sandslash gx box",
 "skip": null,
 "first_seen": null,
@@ -2914,7 +2924,7 @@
 "category": "other",
 "set": "Ancient Origins",
 "year": 2015,
-"product": null,
+"product": "Battle Arena Decks",
 "packs": null,
 "key": "other|ancient origins battle arena decks mewtwo ex vs darkrai ex",
 "skip": null,
@@ -3029,13 +3039,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/ancient-origins-shiny-rayquaza-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy7-s3/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Ancient Origins",
 "year": 2015,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|ancient origins shiny rayquaza ex box",
 "skip": null,
 "first_seen": null,
@@ -3174,13 +3189,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/ancient-origins-tyrantrum-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy7-s9/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Ancient Origins",
 "year": 2015,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|ancient origins tyrantrum ex box",
 "skip": null,
 "first_seen": null,
@@ -3194,13 +3214,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/annihilape-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s320/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|annihilape ex box",
 "skip": null,
 "first_seen": null,
@@ -3214,13 +3239,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/archaludon-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s59/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|archaludon ex box",
 "skip": null,
 "first_seen": null,
@@ -3589,7 +3619,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Arena Decks",
 "packs": null,
 "key": "other|battle arena deck rayquaza gx",
 "skip": null,
@@ -3609,7 +3639,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Arena Decks",
 "packs": null,
 "key": "other|battle arena deck ultra necrozma gx",
 "skip": null,
@@ -3629,7 +3659,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Arena Decks",
 "packs": null,
 "key": "other|battle arena deck ultra necrozma gx and rayquaza gx",
 "skip": null,
@@ -3844,13 +3874,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/black-kyurem-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s55/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|black kyurem ex box",
 "skip": null,
 "first_seen": null,
@@ -3924,13 +3959,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/bloodmoon-ursaluna-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s198/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|bloodmoon ursaluna ex box",
 "skip": null,
 "first_seen": null,
@@ -3944,13 +3984,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/boltund-v-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s435/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|boltund v box",
 "skip": null,
 "first_seen": null,
@@ -4059,13 +4104,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/breakthrough-aurorus-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy8-s23/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "BREAKthrough",
 "year": 2015,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|breakthrough aurorus ex box",
 "skip": null,
 "first_seen": null,
@@ -4464,13 +4514,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/breakthrough-pin-collection-zoroark",
 "image": "https://images.scrydex.com/pokemon/xy8-s24/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": "BREAKthrough",
 "year": 2015,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|breakthrough pin collection - zoroark",
 "skip": null,
 "first_seen": null,
@@ -5489,9 +5544,9 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
-"packs": null,
-"key": "other|charizard ex special collection",
+"product": "Charizard ex Special Collection",
+"packs": 5,
+"key": "other|Charizard ex Special Collection",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -6079,13 +6134,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/cyclizar-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s329/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|cyclizar ex box",
 "skip": null,
 "first_seen": null,
@@ -6309,13 +6369,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/decidueye-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s192/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|decidueye ex box",
 "skip": null,
 "first_seen": null,
@@ -7189,13 +7254,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/evolutions-dragonite-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy12-s17/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Evolutions",
 "year": 2016,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|evolutions dragonite ex box",
 "skip": null,
 "first_seen": null,
@@ -7229,13 +7299,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/evolutions-gengar-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy12-s8/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Evolutions",
 "year": 2016,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|evolutions gengar ex box",
 "skip": null,
 "first_seen": null,
@@ -7349,13 +7424,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/evolutions-mewtwo-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy12-s21/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Evolutions",
 "year": 2016,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|evolutions mewtwo ex box",
 "skip": null,
 "first_seen": null,
@@ -7389,13 +7469,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/evolutions-pin-collection-mega-blastoise",
 "image": "https://images.scrydex.com/pokemon/xy12-s24/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": "Evolutions",
 "year": 2016,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|evolutions pin collection - mega blastoise",
 "skip": null,
 "first_seen": null,
@@ -7409,13 +7494,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/evolutions-pin-collection-mega-venusaur",
 "image": "https://images.scrydex.com/pokemon/xy12-s23/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": "Evolutions",
 "year": 2016,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|evolutions pin collection - mega venusaur",
 "skip": null,
 "first_seen": null,
@@ -7984,13 +8074,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/fall-2025-collector-chest",
 "image": "https://images.scrydex.com/pokemon/miscp-s61/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 6
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 6,
 "key": "other|chests fall 2025 collector chest",
 "skip": null,
 "first_seen": null,
@@ -8079,13 +8174,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/fates-collide-ash-greninja-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy10-s4/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Fates Collide",
 "year": 2016,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|fates collide ash-greninja ex box",
 "skip": null,
 "first_seen": null,
@@ -8629,13 +8729,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/flashfire-krookodile-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy2-s12/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Flashfire",
 "year": 2014,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|flashfire krookodile ex box",
 "skip": null,
 "first_seen": null,
@@ -8994,13 +9099,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/fusion-strike-dragonite-v-box",
 "image": "https://images.scrydex.com/pokemon/swsh8-s11/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Fusion Strike",
 "year": 2021,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|fusion strike dragonite v box",
 "skip": null,
 "first_seen": null,
@@ -9114,13 +9224,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/fusion-strike-hisuian-electrode-v-box",
 "image": "https://images.scrydex.com/pokemon/swsh8-s12/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Fusion Strike",
 "year": 2021,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|fusion strike hisuian electrode v box",
 "skip": null,
 "first_seen": null,
@@ -9134,13 +9249,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/fusion-strike-hoopa-v-box",
 "image": "https://images.scrydex.com/pokemon/swsh8-s13/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Fusion Strike",
 "year": 2021,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|fusion strike hoopa v box",
 "skip": null,
 "first_seen": null,
@@ -10014,13 +10134,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/grafaiai-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s265/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|grafaiai ex box",
 "skip": null,
 "first_seen": null,
@@ -10569,13 +10694,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/holiday-calendar-2025",
 "image": "https://images.scrydex.com/pokemon/miscp-s111/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 6
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 6,
 "key": "other|holiday calendar 2025",
 "skip": null,
 "first_seen": null,
@@ -10609,13 +10739,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/hop-s-zacian-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s154/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|hop's zacian ex box",
 "skip": null,
 "first_seen": null,
@@ -10629,13 +10764,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/houndstone-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s221/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|houndstone ex box",
 "skip": null,
 "first_seen": null,
@@ -10709,13 +10849,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/infernape-v-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s383/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|infernape v box",
 "skip": null,
 "first_seen": null,
@@ -10754,9 +10899,9 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
-"packs": null,
-"key": "other|iono premium tournament collection box",
+"product": "Iono Premium Tournament Collection",
+"packs": 6,
+"key": "other|Iono Premium Tournament Collection",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -10809,13 +10954,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/iron-valiant-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s288/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|iron valiant ex box",
 "skip": null,
 "first_seen": null,
@@ -10849,13 +10999,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/jirachi-v-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s24/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|jirachi v box",
 "skip": null,
 "first_seen": null,
@@ -11329,13 +11484,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/kyurem-v-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s361/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|kyurem v box",
 "skip": null,
 "first_seen": null,
@@ -11524,13 +11684,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/legends-of-johto-pin-collection",
 "image": "https://images.scrydex.com/pokemon/miscp-s543/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 9
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 9,
 "key": "other|legends of johto pin collection",
 "skip": null,
 "first_seen": null,
@@ -11849,13 +12014,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/lycanroc-ex-box-eu-exclusive",
 "image": "https://images.scrydex.com/pokemon/miscp-s39/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|lycanroc ex box eu exclusive",
 "skip": null,
 "first_seen": null,
@@ -11869,13 +12039,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/mabosstiff-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s279/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|mabosstiff ex box",
 "skip": null,
 "first_seen": null,
@@ -12214,13 +12389,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/mega-kangaskhan-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s64/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|mega kangaskhan ex box",
 "skip": null,
 "first_seen": null,
@@ -12234,13 +12414,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/mega-latias-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s84/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|mega latias ex box",
 "skip": null,
 "first_seen": null,
@@ -12274,13 +12459,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/melmetal-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s54/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|melmetal ex box",
 "skip": null,
 "first_seen": null,
@@ -12334,13 +12524,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/mew-v-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s362/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|mew v box",
 "skip": null,
 "first_seen": null,
@@ -12459,13 +12654,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/mimikyu-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s343/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|mimikyu ex box",
 "skip": null,
 "first_seen": null,
@@ -12639,13 +12839,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/oinkologne-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s291/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|oinkologne ex box",
 "skip": null,
 "first_seen": null,
@@ -12659,13 +12864,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/palafin-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s245/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|palafin ex box",
 "skip": null,
 "first_seen": null,
@@ -13509,13 +13719,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/paradox-destinies-tin-gouging-fire-ex",
 "image": "https://images.scrydex.com/pokemon/miscp-s227/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 5
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 5,
 "key": "other|paradox destinies tin gouging fire ex",
 "skip": null,
 "first_seen": null,
@@ -13529,13 +13744,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/paradox-destinies-tin-iron-boulder-ex",
 "image": "https://images.scrydex.com/pokemon/miscp-s229/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 5
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 5,
 "key": "other|paradox destinies tin iron boulder ex",
 "skip": null,
 "first_seen": null,
@@ -13549,13 +13769,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/paradox-destinies-tin-iron-crown-ex",
 "image": "https://images.scrydex.com/pokemon/miscp-s230/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 5
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 5,
 "key": "other|paradox destinies tin iron crown ex",
 "skip": null,
 "first_seen": null,
@@ -13569,13 +13794,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/paradox-destinies-tin-raging-bolt-ex",
 "image": "https://images.scrydex.com/pokemon/miscp-s228/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 5
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 5,
 "key": "other|paradox destinies tin raging bolt ex",
 "skip": null,
 "first_seen": null,
@@ -14084,13 +14314,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-gallade-ex-box",
 "image": "https://images.scrydex.com/pokemon/xy4-s10/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Phantom Forces",
 "year": 2014,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|phantom forces gallade ex box",
 "skip": null,
 "first_seen": null,
@@ -14304,13 +14539,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pikachu-v-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s443/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pikachu v box",
 "skip": null,
 "first_seen": null,
@@ -14784,13 +15024,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-dive-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s534/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - dive ball",
 "skip": null,
 "first_seen": null,
@@ -14804,13 +15049,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-dusk-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s533/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - dusk ball",
 "skip": null,
 "first_seen": null,
@@ -14824,13 +15074,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-great-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s473/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - great ball",
 "skip": null,
 "first_seen": null,
@@ -14844,13 +15099,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-great-ball-q4-2024",
 "image": "https://images.scrydex.com/pokemon/miscp-s218/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - great ball q4 2024",
 "skip": null,
 "first_seen": null,
@@ -14864,13 +15124,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-great-ball-q4-2025",
 "image": "https://images.scrydex.com/pokemon/miscp-s27/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - great ball q4 2025",
 "skip": null,
 "first_seen": null,
@@ -14884,13 +15149,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-level-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s535/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - level ball",
 "skip": null,
 "first_seen": null,
@@ -14904,13 +15174,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-love-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s425/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - love ball",
 "skip": null,
 "first_seen": null,
@@ -14924,13 +15199,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-lure-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s296/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - lure ball",
 "skip": null,
 "first_seen": null,
@@ -14944,13 +15224,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-luxury-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s472/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - luxury ball",
 "skip": null,
 "first_seen": null,
@@ -14964,13 +15249,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-moon-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s31/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - moon ball",
 "skip": null,
 "first_seen": null,
@@ -14984,13 +15274,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-moon-ball-q4-2024",
 "image": "https://images.scrydex.com/pokemon/miscp-s215/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - moon ball q4 2024",
 "skip": null,
 "first_seen": null,
@@ -15004,13 +15299,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-pok-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s471/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - poke ball",
 "skip": null,
 "first_seen": null,
@@ -15024,13 +15324,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-pok-ball-q4-2024",
 "image": "https://images.scrydex.com/pokemon/miscp-s219/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - poke ball q4 2024",
 "skip": null,
 "first_seen": null,
@@ -15044,13 +15349,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-pok-ball-q4-2025",
 "image": "https://images.scrydex.com/pokemon/miscp-s29/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - poke ball q4 2025",
 "skip": null,
 "first_seen": null,
@@ -15064,13 +15374,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-premier-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s470/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - premier ball",
 "skip": null,
 "first_seen": null,
@@ -15084,13 +15399,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-premier-ball-q4-2024",
 "image": "https://images.scrydex.com/pokemon/miscp-s217/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - premier ball q4 2024",
 "skip": null,
 "first_seen": null,
@@ -15104,13 +15424,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-premier-ball-q4-2025",
 "image": "https://images.scrydex.com/pokemon/miscp-s26/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - premier ball q4 2025",
 "skip": null,
 "first_seen": null,
@@ -15124,13 +15449,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-quick-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s469/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - quick ball",
 "skip": null,
 "first_seen": null,
@@ -15144,13 +15474,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-repeat-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s56/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - repeat ball",
 "skip": null,
 "first_seen": null,
@@ -15164,13 +15499,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-repeat-ball-q4-2025",
 "image": "https://images.scrydex.com/pokemon/miscp-s25/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - repeat ball q4 2025",
 "skip": null,
 "first_seen": null,
@@ -15184,13 +15524,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-ultra-ball",
 "image": "https://images.scrydex.com/pokemon/miscp-s532/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - ultra ball",
 "skip": null,
 "first_seen": null,
@@ -15204,13 +15549,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-ultra-ball-q4-2024",
 "image": "https://images.scrydex.com/pokemon/miscp-s216/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - ultra ball q4 2024",
 "skip": null,
 "first_seen": null,
@@ -15224,13 +15574,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-pok-ball-tin-ultra-ball-q4-2025",
 "image": "https://images.scrydex.com/pokemon/miscp-s28/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon - poke ball tin - ultra ball q4 2025",
 "skip": null,
 "first_seen": null,
@@ -15364,13 +15719,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-dragon",
 "image": "https://images.scrydex.com/pokemon/miscp-s276/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": "EX Dragon",
 "year": 2003,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin dragon",
 "skip": null,
 "first_seen": null,
@@ -15384,13 +15744,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-electric",
 "image": "https://images.scrydex.com/pokemon/miscp-s461/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin electric",
 "skip": null,
 "first_seen": null,
@@ -15404,13 +15769,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-grass",
 "image": "https://images.scrydex.com/pokemon/miscp-s460/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin grass",
 "skip": null,
 "first_seen": null,
@@ -15424,13 +15794,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-metal",
 "image": "https://images.scrydex.com/pokemon/miscp-s274/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin metal",
 "skip": null,
 "first_seen": null,
@@ -15444,13 +15819,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-ogerpon",
 "image": "https://images.scrydex.com/pokemon/miscp-s163/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin ogerpon",
 "skip": null,
 "first_seen": null,
@@ -15464,13 +15844,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-paradox-pok-mon",
 "image": "https://images.scrydex.com/pokemon/miscp-s165/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin paradox pokemon",
 "skip": null,
 "first_seen": null,
@@ -15484,13 +15869,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-psychic",
 "image": "https://images.scrydex.com/pokemon/miscp-s275/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin psychic",
 "skip": null,
 "first_seen": null,
@@ -15504,13 +15894,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-treasures-of-ruin",
 "image": "https://images.scrydex.com/pokemon/miscp-s164/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin treasures of ruin",
 "skip": null,
 "first_seen": null,
@@ -15524,13 +15919,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-stacking-tin-water",
 "image": "https://images.scrydex.com/pokemon/miscp-s459/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon stacking tin water",
 "skip": null,
 "first_seen": null,
@@ -16019,13 +16419,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-tcg-trainer-s-toolkit-2020",
 "image": "https://images.scrydex.com/pokemon/miscp-s519/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg trainer's toolkit 2020",
 "skip": null,
 "first_seen": null,
@@ -16039,13 +16444,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-tcg-trainer-s-toolkit-2021",
 "image": "https://images.scrydex.com/pokemon/miscp-s509/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg trainer's toolkit 2021",
 "skip": null,
 "first_seen": null,
@@ -16079,13 +16489,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-tcg-trainer-s-toolkit-2022",
 "image": "https://images.scrydex.com/pokemon/miscp-s401/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg trainer's toolkit 2022",
 "skip": null,
 "first_seen": null,
@@ -16099,13 +16514,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-tcg-trainer-s-toolkit-2023",
 "image": "https://images.scrydex.com/pokemon/miscp-s322/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg trainer's toolkit 2023",
 "skip": null,
 "first_seen": null,
@@ -16119,13 +16539,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-tcg-trainer-s-toolkit-2024",
 "image": "https://images.scrydex.com/pokemon/miscp-s211/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg trainer's toolkit 2024",
 "skip": null,
 "first_seen": null,
@@ -16139,13 +16564,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/pok-mon-tcg-trainer-s-toolkit-2025",
 "image": "https://images.scrydex.com/pokemon/miscp-s81/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg trainer's toolkit 2025",
 "skip": null,
 "first_seen": null,
@@ -16359,13 +16789,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/roaring-moon-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s289/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|roaring moon ex box",
 "skip": null,
 "first_seen": null,
@@ -17389,7 +17824,7 @@
 "category": "other",
 "set": "Steam Siege",
 "year": 2016,
-"product": null,
+"product": "Battle Arena Decks",
 "packs": null,
 "key": "other|steam siege battle arena decks keldeo ex vs rayquaza ex",
 "skip": null,
@@ -18544,13 +18979,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/tsareena-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s196/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|tsareena ex box",
 "skip": null,
 "first_seen": null,
@@ -18584,13 +19024,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/tyranitar-ex-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s195/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|tyranitar ex box",
 "skip": null,
 "first_seen": null,
@@ -19599,13 +20044,18 @@
 "url": "https://mistyscollectables.com.au/sealed/product/virizion-v-box",
 "image": "https://images.scrydex.com/pokemon/miscp-s379/large",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|virizion v box",
 "skip": null,
 "first_seen": null,
@@ -21626,7 +22076,7 @@
 "lang": "EN",
 "auto_packs": [
 {
-"set": "Shining Legends",
+"set": null,
 "qty": 3
 }
 ],
@@ -21981,7 +22431,7 @@
 "lang": "EN",
 "auto_packs": [
 {
-"set": "Evolutions",
+"set": null,
 "qty": 4
 }
 ],
@@ -23529,7 +23979,7 @@
 "category": "other",
 "set": "Rebel Clash",
 "year": 2020,
-"product": null,
+"product": "Sword & Shield Theme Deck",
 "packs": null,
 "key": "other|pokemon tcg sword and shield rebel clash zamazenta theme deck",
 "skip": null,
@@ -23914,13 +24364,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-black-kyurem-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/POK1010255101_1.jpg?v=1784705170",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg black kyurem ex box",
 "skip": null,
 "first_seen": null,
@@ -24179,13 +24634,18 @@
 "url": "https://raptorgames.com/products/pokemon-go-pin-collection-charmander-pokemon-go",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/275826_in_1000x1000_1.jpg?v=1781072419",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": "Pokémon GO",
 "year": 2022,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon go pin collection charmander - pokemon go",
 "skip": null,
 "first_seen": null,
@@ -24199,13 +24659,18 @@
 "url": "https://raptorgames.com/products/pokemon-go-pin-collection-bulbasaur-pokemon-go",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/275825_in_1000x1000_19639e8f-9d68-45b5-86a5-691c3c657077.jpg?v=1781072317",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": "Pokémon GO",
 "year": 2022,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon go pin collection bulbasaur - pokemon go",
 "skip": null,
 "first_seen": null,
@@ -24219,13 +24684,18 @@
 "url": "https://raptorgames.com/products/pokemon-go-pin-collection-squirtle-pokemon-go",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/275827_in_1000x1000_1d4fbbf7-945c-47b8-b05c-8866b7583831.jpg?v=1781072194",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": "Pokémon GO",
 "year": 2022,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon go pin collection squirtle - pokemon go",
 "skip": null,
 "first_seen": null,
@@ -24369,7 +24839,7 @@
 "category": "other",
 "set": "Rebel Clash",
 "year": 2020,
-"product": null,
+"product": "Sword & Shield Theme Deck",
 "packs": null,
 "key": "other|pokemon tcg sword and shield-rebel clash zamazenta theme deck",
 "skip": null,
@@ -24389,7 +24859,7 @@
 "category": "other",
 "set": "Rebel Clash",
 "year": 2020,
-"product": null,
+"product": "Sword & Shield Theme Deck",
 "packs": null,
 "key": "other|pokemon tcg sword and shield-rebel clash zacian theme deck",
 "skip": null,
@@ -24409,7 +24879,7 @@
 "category": "other",
 "set": "Sword & Shield",
 "year": 2020,
-"product": null,
+"product": "Sword & Shield Theme Deck",
 "packs": null,
 "key": "other|pokemon tcg sword and shield inteleon theme deck",
 "skip": null,
@@ -24429,7 +24899,7 @@
 "category": "other",
 "set": "Sword & Shield",
 "year": 2020,
-"product": null,
+"product": "Sword & Shield Theme Deck",
 "packs": null,
 "key": "other|pokemon tcg sword and shield rillaboom theme deck",
 "skip": null,
@@ -24449,7 +24919,7 @@
 "category": "other",
 "set": "Sword & Shield",
 "year": 2020,
-"product": null,
+"product": "Sword & Shield Theme Deck",
 "packs": null,
 "key": "other|pokemon tcg sword and shield cinderace theme deck",
 "skip": null,
@@ -24469,7 +24939,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg victini v battle deck",
 "skip": null,
@@ -24489,7 +24959,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg blastoise v battle deck",
 "skip": null,
@@ -24509,7 +24979,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg noivern v battle deck",
 "skip": null,
@@ -24529,7 +24999,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg rayquaza v battle deck",
 "skip": null,
@@ -25604,7 +26074,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg victini ex battle deck",
 "skip": null,
@@ -25624,7 +26094,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg miraidon ex battle deck",
 "skip": null,
@@ -25684,7 +26154,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg mega diancie ex battle deck",
 "skip": null,
@@ -25699,13 +26169,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-2025-trainers-toolkit",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokemon-TCG-Trainers-Toolkit-2025_EN-1024x617.jpg?v=1759722236",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg 2025 trainer's toolkit",
 "skip": null,
 "first_seen": null,
@@ -25719,13 +26194,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-latias-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokemon-TCG-Mega-Latias-ex-Box_EN-1024x913.jpg?v=1759721137",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg mega latias ex box",
 "skip": null,
 "first_seen": null,
@@ -25779,13 +26259,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-kangaskhan-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokemon-TCG-Mega-Kangaskhan-ex-Box_EN-1024x913.jpg?v=1759720213",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg mega kangaskhan ex box",
 "skip": null,
 "first_seen": null,
@@ -25949,7 +26434,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg mega gengar ex battle deck",
 "skip": null,
@@ -27619,13 +28104,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-roaring-moon-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_e64c9c86-35dd-49cd-9a9c-3987cc1a005b.jpg?v=1755325596",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg roaring moon ex box",
 "skip": null,
 "first_seen": null,
@@ -28024,7 +28514,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg rival battle deck marnie",
 "skip": null,
@@ -28044,9 +28534,9 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
-"packs": null,
-"key": "other|pokemon tcg charizard ex special collection",
+"product": "Charizard ex Special Collection",
+"packs": 5,
+"key": "other|Charizard ex Special Collection",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -28059,13 +28549,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-team-rockets-mewtwo-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_897b6177-694f-46e6-bdf2-b73508d48836.jpg?v=1753759118",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Team Rocket",
 "year": 2000,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg team rocket's mewtwo ex box",
 "skip": null,
 "first_seen": null,
@@ -28084,7 +28579,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg rival battle deck - steven",
 "skip": null,
@@ -28304,7 +28799,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg kangaskhan ex or greninja ex battle deck",
 "skip": null,
@@ -28659,13 +29154,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-stacking-tins-q1-2025-assorted",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_00cb104d-b3b0-4f0c-a675-a1ef76d0043f.jpg?v=1749729161",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon tcg stacking tins q1 2025 assorted",
 "skip": null,
 "first_seen": null,
@@ -28699,13 +29199,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-stacking-tin-spring-2024-assorted",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_2af64d0f-2e00-40dc-ab97-ad63df3d8159.jpg?v=1750830941",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon tcg stacking tin spring 2024 assorted",
 "skip": null,
 "first_seen": null,
@@ -28839,13 +29344,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-paradox-destinies-tin",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_1c4e5d32-6385-4634-9a54-4dd7a004fb3e.png?v=1755056859",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 5
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 5,
 "key": "other|pokemon tcg paradox destinies tin",
 "skip": null,
 "first_seen": null,
@@ -28964,7 +29474,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg melmetal or houndoom ex battle deck",
 "skip": null,
@@ -29019,13 +29529,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-hops-zacian-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_19b89d78-4a35-4186-b141-47de8110f801.jpg?v=1753759359",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg hop's zacian ex box",
 "skip": null,
 "first_seen": null,
@@ -29119,13 +29634,18 @@
 "url": "https://raptorgames.com/products/pokemon-trading-card-game-trainers-toolkit-2023",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_2be99672-894d-42eb-965d-0ed263ec394d.jpg?v=1750831433",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg trainer's toolkit 2023",
 "skip": null,
 "first_seen": null,
@@ -29259,13 +29779,18 @@
 "url": "https://raptorgames.com/products/pokemon-trading-card-game-trainers-toolkit",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_adb6220c-36c1-47f6-bd84-81f279b6a41d.jpg?v=1753760560",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg trainer's toolkit 2024",
 "skip": null,
 "first_seen": null,
@@ -29364,13 +29889,18 @@
 "url": "https://raptorgames.com/products/pokemon-tcg-bloodmoon-ursaluna-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_d17dca2f-b9a6-45e8-be77-7024c60cb08e.jpg?v=1749728797",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg bloodmoon ursaluna ex box",
 "skip": null,
 "first_seen": null,
@@ -30504,13 +31034,18 @@
 "url": "https://www.jojoshobbyhouse.com.au/product/pokemon-tcg-stacking-tin-assorted-/5YENIHYS2UEDIGZIRN2NGJHL",
 "image": null,
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 3
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 3,
 "key": "other|pokemon tcg stacking tin assorted",
 "skip": null,
 "first_seen": null,
@@ -30629,13 +31164,18 @@
 "url": "https://www.jojoshobbyhouse.com.au/product/pokemon-tcg-me2-5-ascended-heroes-ex-box-assorted-/7OK3UNRP7VWKHNPDSDKUDXLU",
 "image": "https://153888666.cdn6.editmysite.com/uploads/1/5/3/8/153888666/W2FCA2SEJOKMYB736WQ7SWPQ.jpeg",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Ascended Heroes",
 "year": 2026,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg me2.5 ascended heroes ex box *assorted*",
 "skip": null,
 "first_seen": null,
@@ -30669,13 +31209,18 @@
 "url": "https://www.jojoshobbyhouse.com.au/product/pokemon-tcg-team-rocket-s-mewtwo-ex-box/A7QOYW4FMBDU4VAABZEIAAXN",
 "image": "https://153888666.cdn6.editmysite.com/uploads/1/5/3/8/153888666/2RPEFLSUKLPJX4AN3IGPO7P2.png",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": "Team Rocket",
 "year": 2000,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg team rocket's mewtwo ex box",
 "skip": null,
 "first_seen": null,
@@ -31054,13 +31599,18 @@
 "url": "https://www.jojoshobbyhouse.com.au/product/pokemon-tcg-black-kyurem-ex-box/F6FJX4KVSLOJQJWFUGDGIQY7",
 "image": "https://153888666.cdn6.editmysite.com/uploads/1/5/3/8/153888666/G5XTW2Z4JAKU54GIF5II6HJA.png",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg black kyurem ex box",
 "skip": null,
 "first_seen": null,
@@ -31279,13 +31829,18 @@
 "url": "https://www.jojoshobbyhouse.com.au/product/pokemon-tcg-paradox-destinies-tin-assorted-/GQTSNPQTTJ4PVKR6LGEHN5WW",
 "image": "https://153888666.cdn6.editmysite.com/uploads/1/5/3/8/153888666/OMRRLTG6HDKFW4O5J5VIAF5R.jpeg",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 5
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 5,
 "key": "other|pokemon tcg paradox destinies tin *assorted*",
 "skip": null,
 "first_seen": null,
@@ -31429,7 +31984,7 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
+"product": "Battle Decks (no packs)",
 "packs": null,
 "key": "other|pokemon tcg mega diancie ex battle deck",
 "skip": null,
@@ -31464,13 +32019,18 @@
 "url": "https://www.jojoshobbyhouse.com.au/product/pokemon-tcg-roaring-moon-iron-valiant-ex-box-assorted-/JXUFSDZI2RI5UXEYPWJDDUOD",
 "image": "https://153888666.cdn6.editmysite.com/uploads/1/5/3/8/153888666/QZJVUYIB3QOCKT34WRBUDIAD.jpeg",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon tcg roaring moon iron valiant ex box *assorted*",
 "skip": null,
 "first_seen": null,
@@ -31554,9 +32114,9 @@
 "category": "other",
 "set": null,
 "year": null,
-"product": null,
-"packs": null,
-"key": "other|pokemon tcg charizard ex special collection",
+"product": "Charizard ex Special Collection",
+"packs": 5,
+"key": "other|Charizard ex Special Collection",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -32289,13 +32849,18 @@
 "url": "https://www.jojoshobbyhouse.com.au/product/pokemon-tcg-holiday-2025-calendar/Y3JGXUGQICHOYDZ7IPR34NLJ",
 "image": "https://153888666.cdn6.editmysite.com/uploads/1/5/3/8/153888666/WXZK53QHGEXOBVLQTYLXHUX6.png",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 6
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 6,
 "key": "other|pokemon tcg holiday 2025 calendar",
 "skip": null,
 "first_seen": null,
@@ -32734,13 +33299,18 @@
 "url": "https://gatekeeperstcg.com/products/pokemon-ash-greninja-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/s-l640.jpg?v=1784022437",
 "lang": "EN",
-"auto_packs": null,
+"auto_packs": [
+{
+"set": null,
+"qty": 4
+}
+],
 "variant": null,
 "category": "other",
 "set": null,
 "year": null,
 "product": null,
-"packs": null,
+"packs": 4,
 "key": "other|pokemon ash-greninja ex box",
 "skip": null,
 "first_seen": null,
