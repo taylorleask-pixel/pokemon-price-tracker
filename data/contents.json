@@ -3555,5 +3555,198 @@
    "coin",
    "playmat"
   ]
+ },
+ "Summer 2023 Collector Chest": {
+  "category": "other",
+  "match": [
+   "summer 2023",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Sprigatito, Fuecoco and Quaxly foils",
+   "coin",
+   "4 sticker sheets",
+   "mini portfolio"
+  ]
+ },
+ "Epic Collection ex Deck": {
+  "category": "other",
+  "match": [
+   "epic collection"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card deck",
+   "coin",
+   "damage counters",
+   "playmat"
+  ]
+ },
+ "EX Power Tin (Keldeo / Kyurem)": {
+  "category": "other",
+  "match": [
+   "ex",
+   "tin",
+   "keldeo"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Keldeo-EX foil",
+   "Meloetta card"
+  ]
+ },
+ "EX Trainer Kit 2 (Plusle & Minun)": {
+  "category": "other",
+  "match": [
+   "ex trainer kit",
+   "plusle"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Plusle and Minun 30-card half decks",
+   "rulebook",
+   "damage counters",
+   "coin",
+   "playmat"
+  ]
+ },
+ "Legendary Dragons of Unova Collection": {
+  "category": "other",
+  "match": [
+   "legendary dragons of unova"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Kyurem, Reshiram and Zekrom figures",
+   "3 foil promos"
+  ]
+ },
+ "Alolan Raichu Box": {
+  "category": "other",
+  "match": [
+   "alolan raichu box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "oversize Alolan Raichu card",
+   "Alolan Raichu foil promo"
+  ]
+ },
+ "Black / White Kyurem Box (2013)": {
+  "category": "other",
+  "match": [
+   "kyurem box"
+  ],
+  "packs": [
+   {
+    "set": "Dragons Exalted",
+    "qty": 1
+   },
+   {
+    "set": "Plasma Storm",
+    "qty": 1
+   },
+   {
+    "set": "Emerging Powers",
+    "qty": 1
+   },
+   {
+    "set": "Boundaries Crossed",
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Kyurem figure",
+   "Kyurem foil promo"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   " ex"
+  ],
+  "separate_rows": true
+ },
+ "Keldeo Box": {
+  "category": "other",
+  "match": [
+   "keldeo box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Keldeo figure",
+   "Keldeo foil promo",
+   "oversize Keldeo card"
+  ]
+ },
+ "Marshadow Box": {
+  "category": "other",
+  "match": [
+   "marshadow box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Marshadow foil promo",
+   "oversize Marshadow-GX card"
+  ]
+ },
+ "Tapu Koko Box": {
+  "category": "other",
+  "match": [
+   "tapu koko box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Tapu Koko foil promo",
+   "oversize Tapu Koko-GX card"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "shiny",
+   "gx box"
+  ]
  }
 }
