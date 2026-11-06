@@ -57,7 +57,7 @@ function buildRows() {
   const rows = {};
   for (const l of D.prices.listings) {
     const r = rows[l.key] ??= {
-      key: l.key, category: l.category, set: l.set, year: l.year, product: l.product,
+      key: l.key, category: l.category, set: l.set, year: l.year, product: l.product, variant: l.variant,
       packs: l.packs, titles: {}, byStore: {}, listings: [] };
     r.listings.push(l);
     r.titles[l.title] = (r.titles[l.title] || 0) + 1;
@@ -74,7 +74,7 @@ function finishRow(r) {
   r.contents = c;
   if (c?.packs?.length) r.packs = c.packs.reduce((a, p) => a + p.qty, 0);
   if (r.product) r.name = r.product;
-  else if (SET_TABS.includes(r.category) && r.set) r.name = r.set;
+  else if (SET_TABS.includes(r.category) && r.set) r.name = r.variant ? `${r.set} (${r.variant})` : r.set;
   else r.name = Object.entries(r.titles).sort((a, b) => b[1] - a[1])[0]?.[0] ?? r.key;
   const inStock = Object.values(r.byStore).filter((l) => l.available);
   const best = inStock.sort((a, b) => a.price - b.price)[0];
