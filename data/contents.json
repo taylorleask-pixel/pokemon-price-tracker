@@ -2538,5 +2538,558 @@
    "notepad"
   ],
   "note": "Celebrations packs have 4 cards each."
+ },
+ "Crown Zenith Special Collection (Unown V & Lugia V)": {
+  "category": "other",
+  "match": [
+   "unown",
+   "lugia",
+   "special"
+  ],
+  "packs": [
+   {
+    "set": "Crown Zenith",
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Unown V and Lugia V promos",
+   "oversize Lugia V",
+   "Lugia pin",
+   "metal coin"
+  ]
+ },
+ "Crown Zenith Collection (Regidrago V / Regieleki V)": {
+  "category": "other",
+  "match": [
+   "crown zenith",
+   "collection"
+  ],
+  "packs": [
+   {
+    "set": "Crown Zenith",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Regidrago V or Regieleki V promo",
+   "matching foil",
+   "oversize V"
+  ],
+  "exclude": [
+   "special",
+   "morpeko",
+   "v union",
+   "v-union",
+   "premium",
+   "pin",
+   "case",
+   "display",
+   "tin",
+   "elite"
+  ]
+ },
+ "Morpeko V-UNION Premium Playmat Collection": {
+  "category": "other",
+  "match": [
+   "morpeko",
+   "v union"
+  ],
+  "packs": [
+   {
+    "set": "Crown Zenith",
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "4 Morpeko V-UNION promos",
+   "oversize V-UNION",
+   "Professor Burnet",
+   "Marnie & Morpeko playmat"
+  ],
+  "exclude": [
+   "special",
+   "case",
+   "display"
+  ]
+ },
+ "V-UNION Special Collection (Mewtwo / Greninja / Zacian / Morpeko)": {
+  "category": "other",
+  "match": [
+   "v-union special"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "4 V-UNION promos",
+   "oversize V-UNION",
+   "Professor Burnet"
+  ],
+  "separate_rows": true
+ },
+ "Galar Collection": {
+  "category": "other",
+  "match": [
+   "galar collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "starter foil promo",
+   "oversize Zacian V or Zamazenta V",
+   "starter pin"
+  ]
+ },
+ "Urshifu VMAX Premium Collection (Single / Rapid Strike)": {
+  "category": "other",
+  "match": [
+   "urshifu vmax premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Urshifu V foil",
+   "etched Urshifu VMAX",
+   "special energy",
+   "oversize Urshifu VMAX"
+  ]
+ },
+ "Meowth VMAX Special Collection": {
+  "category": "other",
+  "match": [
+   "meowth vmax special"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Meowth V and VMAX promos",
+   "oversize Meowth VMAX"
+  ]
+ },
+ "Snorlax & Lapras VMAX Collection": {
+  "category": "other",
+  "match": [
+   "snorlax",
+   "lapras",
+   "vmax"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Lapras V/VMAX and Snorlax V/VMAX foils",
+   "4-pocket binder",
+   "2 pins"
+  ]
+ },
+ "Shining Fates Collection (Pikachu V)": {
+  "category": "other",
+  "match": [
+   "shining fates",
+   "collection",
+   "pikachu"
+  ],
+  "packs": [
+   {
+    "set": "Shining Fates",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Pikachu V promo",
+   "oversize Pikachu V"
+  ]
+ },
+ "Glaceon / Leafeon VSTAR Special Collection": {
+  "category": "other",
+  "match": [
+   "vstar special collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "V promo",
+   "etched VSTAR promo",
+   "etched oversize VSTAR",
+   "VSTAR marker"
+  ],
+  "exclude": [
+   "kleavor",
+   "lucario",
+   "case",
+   "display"
+  ]
+ },
+ "Klara / Cyrus Premium Tournament Collection": {
+  "category": "other",
+  "match": [
+   "premium tournament"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 7
+   }
+  ],
+  "extras": [
+   "4 foil Supporter cards",
+   "65 sleeves",
+   "deck box",
+   "metal coin",
+   "dice and markers"
+  ],
+  "exclude": [
+   "iono",
+   "marnie",
+   "lillie",
+   "juniper",
+   "case",
+   "display"
+  ],
+  "separate_rows": true
+ },
+ "Professor Juniper Premium Tournament Collection": {
+  "category": "other",
+  "match": [
+   "juniper",
+   "premium tournament"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 7
+   }
+  ],
+  "extras": [
+   "4 foil Professor's Research",
+   "65 sleeves",
+   "deck box",
+   "metal coin",
+   "dice and markers"
+  ]
+ },
+ "Marnie Premium Tournament Collection": {
+  "category": "other",
+  "match": [
+   "marnie",
+   "premium tournament"
+  ],
+  "packs": [
+   {
+    "set": "Chilling Reign",
+    "qty": 3
+   },
+   {
+    "set": "Battle Styles",
+    "qty": 2
+   },
+   {
+    "set": "Vivid Voltage",
+    "qty": 1
+   },
+   {
+    "set": "Darkness Ablaze",
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "full-art Marnie promo",
+   "signed cosmos holo Marnie",
+   "Marnie coin",
+   "sleeves",
+   "deck box"
+  ]
+ },
+ "Lillie Premium Tournament Collection": {
+  "category": "other",
+  "match": [
+   "lillie",
+   "premium tournament"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Lillie's Clefairy ex full-art",
+   "3 Lillie's Pearl foils",
+   "65 sleeves",
+   "deck box",
+   "metal coin",
+   "photo sticker"
+  ]
+ },
+ "Brilliant Stars Build & Battle Stadium": {
+  "category": "other",
+  "match": [
+   "brilliant stars",
+   "build",
+   "stadium"
+  ],
+  "packs": [
+   {
+    "set": "Brilliant Stars",
+    "qty": 12
+   }
+  ],
+  "extras": [
+   "2 Build & Battle Boxes (40-card decks)"
+  ],
+  "note": "4 loose packs plus 4 in each of the 2 Build & Battle Boxes."
+ },
+ "Obsidian Flames Build & Battle Stadium": {
+  "category": "other",
+  "match": [
+   "obsidian flames",
+   "build",
+   "stadium"
+  ],
+  "packs": [
+   {
+    "set": "Obsidian Flames",
+    "qty": 11
+   }
+  ],
+  "extras": [
+   "2 Build & Battle Boxes (40-card decks)"
+  ],
+  "note": "3 loose packs plus 4 in each of the 2 Build & Battle Boxes."
+ },
+ "VMAX Battle Box (Venusaur / Blastoise)": {
+  "category": "other",
+  "match": [
+   "vmax battle box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Venusaur VMAX or Blastoise VMAX promo",
+   "oversize VMAX",
+   "65 sleeves"
+  ]
+ },
+ "VMAX & VSTAR Battle Box (Deoxys / Zeraora)": {
+  "category": "other",
+  "match": [
+   "vmax",
+   "vstar",
+   "battle box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "V, etched VMAX and etched VSTAR promos",
+   "oversize VSTAR",
+   "strategy guide",
+   "VSTAR marker"
+  ]
+ },
+ "Fusion Strike Build & Battle Stadium": {
+  "category": "other",
+  "match": [
+   "fusion strike",
+   "build",
+   "stadium"
+  ],
+  "packs": [
+   {
+    "set": "Fusion Strike",
+    "qty": 12
+   }
+  ],
+  "extras": [
+   "2 Build & Battle Boxes (with evolution packs)"
+  ],
+  "note": "4 loose packs plus 4 in each of the 2 Build & Battle Boxes."
+ },
+ "Sword & Shield Ultra-Premium Collection (Charizard)": {
+  "category": "other",
+  "match": [
+   "charizard",
+   "ultra",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 16
+   }
+  ],
+  "extras": [
+   "etched Charizard V, VMAX and VSTAR",
+   "playmat",
+   "65 sleeves",
+   "metal coin",
+   "metal dice and markers",
+   "VSTAR marker"
+  ],
+  "exclude": [
+   "x ex",
+   "mega",
+   "case",
+   "display",
+   "super"
+  ]
+ },
+ "Sword & Shield Ultra-Premium Collection (Zacian & Zamazenta)": {
+  "category": "other",
+  "match": [
+   "zacian",
+   "zamazenta",
+   "ultra"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 16
+   }
+  ],
+  "extras": [
+   "gold Zacian V and Zamazenta V",
+   "2 metal coins",
+   "12 metal dice",
+   "130 sleeves",
+   "metal markers"
+  ]
+ },
+ "Pokémon Trading Card Game Classic": {
+  "category": "other",
+  "match": [
+   "classic collection"
+  ],
+  "packs": [],
+  "extras": [
+   "3 x 60-card decks (Venusaur, Charizard, Blastoise)",
+   "game board",
+   "toolbox",
+   "3 deck boxes and sleeves"
+  ],
+  "exclude": [
+   "celebrations",
+   "case",
+   "display"
+  ]
+ },
+ "Pokémon Champions Tin (Gengar)": {
+  "category": "other",
+  "match": [
+   "champions tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "promo card"
+  ]
+ },
+ "Pikachu & Eevee Poké Ball Collection": {
+  "category": "other",
+  "match": [
+   "pikachu",
+   "eevee",
+   "poke ball collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Pikachu and Eevee figure",
+   "Pikachu and Eevee promos",
+   "Poké Ball card storage"
+  ]
+ },
+ "Reshiram & Charizard-GX Premium Collection": {
+  "category": "other",
+  "match": [
+   "reshiram",
+   "charizard",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "gold Reshiram & Charizard-GX",
+   "oversize gold Reshiram & Charizard-GX"
+  ]
+ },
+ "TAG TEAM Generations Premium Collection": {
+  "category": "other",
+  "match": [
+   "tag team generations"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 7
+   }
+  ],
+  "extras": [
+   "Charizard & Braixen-GX and Venusaur & Snivy-GX promos",
+   "oversize promo",
+   "playmat",
+   "metal coin"
+  ]
+ },
+ "TAG TEAM Powers Collection": {
+  "category": "other",
+  "match": [
+   "tag team powers"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Espeon & Deoxys-GX and Umbreon & Darkrai-GX full arts",
+   "oversize card",
+   "Eevee-GX",
+   "Carracosta-GX",
+   "Leafeon, Glaceon and Regigigas promos"
+  ]
  }
 }
