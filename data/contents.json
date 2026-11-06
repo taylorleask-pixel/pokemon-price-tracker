@@ -1693,5 +1693,392 @@
    "display",
    "set of"
   ]
+ },
+ "Paldea Collection": {
+  "category": "other",
+  "match": [
+   "paldea collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Sprigatito, Fuecoco and Quaxly foil promos",
+   "oversize Koraidon ex or Miraidon ex",
+   "collector pin"
+  ]
+ },
+ "Paldea Legends Tin": {
+  "category": "other",
+  "match": [
+   "paldea legends tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Koraidon ex or Miraidon ex foil promo"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "bundle of",
+   "set of"
+  ]
+ },
+ "Paldea Partners Tin": {
+  "category": "other",
+  "match": [
+   "paldea partners tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Meowscarada ex, Skeledirge ex or Quaquaval ex foil promo"
+  ]
+ },
+ "Paradox Clash Tin": {
+  "category": "other",
+  "match": [
+   "paradox clash tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Walking Wake ex or Iron Leaves ex foil promo"
+  ]
+ },
+ "Terapagos ex Ultra-Premium Collection": {
+  "category": "other",
+  "match": [
+   "terapagos",
+   "ultra"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 18
+   }
+  ],
+  "extras": [
+   "Terapagos ex, Lapras ex and Cinderace ex promos",
+   "8 foil energy",
+   "magnetic 3-card protector",
+   "playmat",
+   "deck box",
+   "coin",
+   "dice"
+  ]
+ },
+ "Tera Team Premium Collection": {
+  "category": "other",
+  "match": [
+   "tera team premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 9
+   }
+  ],
+  "extras": [
+   "Arcanine ex, Mewtwo ex, Garchomp ex, Hoopa ex and Espathra ex foils"
+  ]
+ },
+ "Play! Pokémon Prize Pack": {
+  "category": "other",
+  "match": [
+   "prize pack"
+  ],
+  "packs": [],
+  "extras": [
+   "tournament prize pack (not a standard booster)"
+  ],
+  "separate_rows": true
+ },
+ "General Mills Promo Pack": {
+  "category": "other",
+  "match": [
+   "general mills"
+  ],
+  "packs": [],
+  "extras": [
+   "cereal promo mini pack (not a standard booster)"
+  ],
+  "separate_rows": true
+ },
+ "Venusaur ex & Blastoise ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "venusaur ex",
+   "blastoise ex",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "stamped Venusaur ex and Blastoise ex promos",
+   "oversize Venusaur ex"
+  ]
+ },
+ "Tera Brawlers Premium Collection": {
+  "category": "other",
+  "match": [
+   "tera brawlers"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 9
+   }
+  ],
+  "extras": [
+   "Charizard ex, Dragonite ex, Dedenne ex, Greedent ex and Skeledirge ex foils"
+  ]
+ },
+ "Triple Whammy Tin": {
+  "category": "other",
+  "match": [
+   "triple whammy"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "3 foil cards"
+  ]
+ },
+ "V Forces Tin": {
+  "category": "other",
+  "match": [
+   "v forces tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mew V, Lucario V or Galarian Slowbro V card"
+  ]
+ },
+ "V Heroes Tin": {
+  "category": "other",
+  "match": [
+   "v heroes tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Umbreon V, Espeon V or Sylveon V foil"
+  ]
+ },
+ "V Powers Tin": {
+  "category": "other",
+  "match": [
+   "v powers tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Eternatus V, Pikachu V or Eevee V foil"
+  ]
+ },
+ "Divergent Powers Tin": {
+  "category": "other",
+  "match": [
+   "divergent powers tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Hisuian Typhlosion V, Samurott V or Decidueye V foil promo"
+  ]
+ },
+ "Hidden Potential Tin": {
+  "category": "other",
+  "match": [
+   "hidden potential tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Rotom V, Gallade V or Giratina V foil promo"
+  ]
+ },
+ "Galar Challengers Tin": {
+  "category": "other",
+  "match": [
+   "galar challengers tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Toxtricity V, Copperajah V or Polteageist V foil"
+  ]
+ },
+ "Crown Zenith Tin": {
+  "category": "other",
+  "match": [
+   "crown zenith tin"
+  ],
+  "packs": [
+   {
+    "set": "Crown Zenith",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Galarian Articuno, Zapdos or Moltres full-art promo"
+  ],
+  "exclude": [
+   "mini",
+   "case",
+   "display",
+   "set of"
+  ]
+ },
+ "Mighty Mysterious Tin": {
+  "category": "other",
+  "match": [
+   "mighty mysterious tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "foil card"
+  ]
+ },
+ "Shining Fates V Tin": {
+  "category": "other",
+  "match": [
+   "shining fates",
+   "tin"
+  ],
+  "packs": [
+   {
+    "set": "Shining Fates",
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "shiny Pokémon V foil"
+  ],
+  "exclude": [
+   "mini",
+   "case",
+   "display",
+   "set of"
+  ]
+ },
+ "Hidden Fates Tin": {
+  "category": "other",
+  "match": [
+   "hidden fates tin"
+  ],
+  "packs": [
+   {
+    "set": "Hidden Fates",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "GX promo"
+  ]
+ },
+ "Elemental Power Tin": {
+  "category": "other",
+  "match": [
+   "elemental power tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Flareon GX, Jolteon GX or Vaporeon GX foil"
+  ]
+ },
+ "Strong Bonds Tin": {
+  "category": "other",
+  "match": [
+   "strong bonds tin"
+  ],
+  "packs": [],
+  "extras": [
+   "10 three-card mini packs (not standard boosters)",
+   "cosmos holo Gardevoir or Blissey promo"
+  ]
+ },
+ "Dragons Tin (Dragonite / Salamence)": {
+  "category": "other",
+  "match": [
+   "dragons tin"
+  ],
+  "packs": [
+   {
+    "set": "Crimson Invasion",
+    "qty": 1
+   },
+   {
+    "set": "Burning Shadows",
+    "qty": 1
+   },
+   {
+    "set": "Evolutions",
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "cosmos holo Dragonite or Salamence promo"
+  ]
  }
 }

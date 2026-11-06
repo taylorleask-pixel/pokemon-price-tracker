@@ -96,7 +96,7 @@ def find_set(title: str):
 
 
 FAMILY_PACKS = [  # (pattern on the cleaned title, booster packs)
-    (r"poke ball tin", 3),              # Target listing: "Poké Ball Tin, 3 packs"
+    (r"poke ?ball tin", 3),             # Target listing: "Poké Ball Tin, 3 packs"
     (r"stacking tins?\b", 3),           # Pokémon Wizard: 3 packs + coin
     (r"trainer'?s toolkit", 4),         # Wayland Games: 4 packs
     (r"paradox destinies tin", 5),      # Paradox TCG: 5 packs
@@ -168,6 +168,11 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
             return None  # bundle case sizes vary, fill in via contents.json
         return 6 * 36
     if cat["id"] in ("other", "blister-multi"):
+        if re.search(r"poke ?ball tin \+ 2 .*mini tins", t):
+            return 3 + 2 * 2  # a Poké Ball Tin (3) plus two mini tins (2 each)
+        bundle = re.search(r"paldea legends tins \(?bundle of (\d+)", t)
+        if bundle:
+            return 4 * int(bundle.group(1))
         multi = re.search(r"mini tins?\s+(\d+)[\s-]*pack", t)
         if multi:
             return 2 * int(multi.group(1))  # a bundle of mini tins, 2 packs each
