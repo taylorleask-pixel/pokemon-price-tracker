@@ -111,6 +111,8 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
         if "bundle" in t:
             return None  # bundle case sizes vary, fill in via contents.json
         return 6 * 36
+    if cat["id"] == "box" and "enhanced" in t:
+        return 18  # Enhanced booster boxes hold 18 packs
     if cat["packs"]:
         return cat["packs"]
     return int(m.group(1)) if m else None

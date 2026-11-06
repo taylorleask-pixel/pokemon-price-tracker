@@ -290,7 +290,7 @@ def main():
                 # "Delta Reign Booster" for $320 is a booster box, not one pack
                 if (info["category"] == "pack" and (info["year"] or 0) >= 2020 and (it["price"] or 0) >= 100
                         and "pack" not in it["title"].lower()):
-                    info.update(category="box", packs=36,
+                    info.update(category="box", packs=18 if "enhanced" in it["title"].lower() else 36,
                                 key=info["key"].replace("pack|", "box|", 1))
                 listings.append({"store": store["id"], **it, **info})
                 kept += 1
