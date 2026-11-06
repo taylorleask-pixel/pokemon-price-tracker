@@ -29,7 +29,8 @@ JP_SETS = ["mega dream", "abyss eye", "mega symphonia", "mega brave", "munikis z
            "future flash", "scarlet ex", "violet ex", "pokemon card 151", "eevee heroes", "fusion arts", "blue sky stream",
            "skyscraping perfect", "lost abyss", "dark phantasma", "incandescent arcana", "paradigm trigger", "star birth",
            "time gazer", "space juggler", "battle region", "tag all stars", "dream league", "sky legend",
-           "pokemon center hiroshima", "pokemon center tohoku", "pokemon center fukuoka"]
+           "pokemon center hiroshima", "pokemon center tohoku", "pokemon center fukuoka",
+           "special deck set", "high-class deck", "yu nagaba", "11th movie commemoration"]
 LANGS = [  # first match wins
     ("SCH", ["simplified chinese", "s-chinese", "schinese", "(sc)", "[sc]", "simplified", "gem pack"]),
     ("TCH", ["traditional chinese", "t-chinese", "tchinese", "(tc)", "[tc]", "traditional", "taiwan"]),

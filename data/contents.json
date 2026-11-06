@@ -1082,9 +1082,16 @@
    }
   ],
   "extras": [
-   "Gyarados ex and Magikarp foils",
+   "Gyarados ex foil",
+   "Magikarp card",
    "magnetic card protector",
    "65 sleeves"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "mega"
   ]
  },
  "Heavy Hitters Premium Collection (Fall 2023)": {
@@ -2029,7 +2036,7 @@
    }
   ],
   "extras": [
-   "GX promo"
+   "Pokémon-GX foil (Charizard, Gyarados or Raichu)"
   ]
  },
  "Elemental Power Tin": {
@@ -3090,6 +3097,463 @@
    "Eevee-GX",
    "Carracosta-GX",
    "Leafeon, Glaceon and Regigigas promos"
+  ]
+ },
+ "Theme Deck (XY / Sun & Moon era)": {
+  "category": "other",
+  "match": [
+   "theme deck"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card deck",
+   "coin",
+   "damage counters",
+   "playmat",
+   "deck box"
+  ],
+  "separate_rows": true,
+  "note": "Checked for the Flashfire and Sword & Shield theme decks; theme decks of this era have no booster pack."
+ },
+ "XY Prerelease Kit": {
+  "category": "other",
+  "match": [
+   "prerelease kit"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "23-card Evolution pack with a stamped prerelease promo"
+  ],
+  "separate_rows": true,
+  "note": "Checked for Evolutions and Steam Siege; the 4 packs are from that set."
+ },
+ "BREAKthrough Mega EX Premium Collection (Blaziken / Swampert)": {
+  "category": "other",
+  "match": [
+   "breakthrough",
+   "mega",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": "BREAKthrough",
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Mega EX and EX promos",
+   "playmat",
+   "metal coin"
+  ],
+  "exclude": [
+   "aerodactyl",
+   "case",
+   "display"
+  ]
+ },
+ "Kalos Power Tin": {
+  "category": "other",
+  "match": [
+   "kalos power tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Pokémon-EX foil"
+  ],
+  "exclude": [
+   "bundle of",
+   "case",
+   "display"
+  ]
+ },
+ "Hoenn Power Tin": {
+  "category": "other",
+  "match": [
+   "hoenn power tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Pokémon-EX foil (Blaziken, Sceptile or Swampert)"
+  ]
+ },
+ "Legend of Kalos Tin": {
+  "category": "other",
+  "match": [
+   "legend of kalos tin"
+  ],
+  "packs": [
+   {
+    "set": "XY",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Xerneas-EX or Yveltal-EX promo"
+  ]
+ },
+ "Shiny Kalos Tin": {
+  "category": "other",
+  "match": [
+   "shiny kalos tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Shiny Xerneas-EX or Yveltal-EX foil"
+  ]
+ },
+ "Powers Beyond Tin": {
+  "category": "other",
+  "match": [
+   "powers beyond tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Pokémon-EX foil"
+  ]
+ },
+ "BREAKthrough Legendary Collection (Hoopa EX / Pikachu EX)": {
+  "category": "other",
+  "match": [
+   "breakthrough",
+   "legendary collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "EX foil promo",
+   "5 full-art Legendary cards",
+   "collector pin"
+  ]
+ },
+ "BREAKthrough Mega Mewtwo Collection": {
+  "category": "other",
+  "match": [
+   "mega mewtwo collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Mewtwo figure",
+   "Mewtwo foil"
+  ]
+ },
+ "Kanto Power Collection": {
+  "category": "other",
+  "match": [
+   "kanto power collection"
+  ],
+  "packs": [
+   {
+    "set": "Evolutions",
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "2 Pokémon-EX",
+   "oversize Mewtwo-EX or Dragonite-EX"
+  ]
+ },
+ "Mega Beedrill EX Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega beedrill",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Mega Beedrill-EX and Beedrill-EX promos",
+   "Spirit Link",
+   "pin",
+   "oversize card",
+   "coin"
+  ]
+ },
+ "Mega Salamence EX Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega salamence",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Mega Salamence-EX and Salamence-EX promos",
+   "Spirit Link",
+   "playmat",
+   "oversize card",
+   "coin"
+  ]
+ },
+ "Mega Mawile EX Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega mawile",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Mega Mawile-EX and Mawile-EX promos",
+   "Spirit Link",
+   "pin",
+   "oversize card",
+   "coin"
+  ]
+ },
+ "Battle Heart Tin": {
+  "category": "other",
+  "match": [
+   "battle heart tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Pokémon-EX foil"
+  ]
+ },
+ "Mega Rayquaza Collection (Roaring Skies)": {
+  "category": "other",
+  "match": [
+   "mega rayquaza collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Rayquaza figure",
+   "Rayquaza foil promo"
+  ]
+ },
+ "Mega Latios Collection": {
+  "category": "other",
+  "match": [
+   "mega latios collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Latios figure",
+   "Latios foil promo"
+  ]
+ },
+ "Hoenn Collection (Primal Groudon / Kyogre)": {
+  "category": "other",
+  "match": [
+   "hoenn collection",
+   "primal"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "oversize Primal EX card",
+   "3 Hoenn starter foils",
+   "collector pin"
+  ]
+ },
+ "Mega Diancie EX Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega diancie",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Mega Diancie-EX and Diancie-EX promos",
+   "pin",
+   "oversize card",
+   "coin"
+  ]
+ },
+ "Mega Metagross EX Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega metagross",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Shiny Mega Metagross-EX and Metagross-EX promos",
+   "oversize card",
+   "playmat",
+   "coin"
+  ]
+ },
+ "Mega Aerodactyl EX Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega aerodactyl",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Mega Aerodactyl-EX and Aerodactyl-EX promos",
+   "Spirit Link",
+   "pin",
+   "oversize card",
+   "coin"
+  ]
+ },
+ "Mega Gyarados Collection Box": {
+  "category": "other",
+  "match": [
+   "mega gyarados collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Gyarados figure",
+   "Gyarados foil promo"
+  ]
+ },
+ "Mega Camerupt EX Premium Collection": {
+  "category": "other",
+  "match": [
+   "mega camerupt",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Mega Camerupt-EX and Camerupt-EX promos",
+   "Spirit Link",
+   "pin",
+   "oversize card",
+   "coin"
+  ]
+ },
+ "EX Collector's Box (Deoxys / Rayquaza)": {
+  "category": "other",
+  "match": [
+   "ex collector",
+   "box"
+  ],
+  "packs": [
+   {
+    "set": "EX Deoxys",
+    "qty": 2
+   },
+   {
+    "set": "EX Team Rocket Returns",
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "2 POP Series 1 packs"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "chest",
+   "tin",
+   "xy",
+   "sun",
+   "sword",
+   "scarlet"
+  ]
+ },
+ "EX Trainer Kit (Latias & Latios)": {
+  "category": "other",
+  "match": [
+   "ex trainer kit",
+   "latias"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Latias and Latios 30-card half decks",
+   "2 rule books",
+   "damage counters",
+   "coin",
+   "playmat"
   ]
  }
 }
