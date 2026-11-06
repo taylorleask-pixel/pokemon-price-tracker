@@ -31,7 +31,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install requests beautifulsoup4
+      - run: pip install requests beautifulsoup4 playwright
+
+      - name: Install a hidden browser (for newer Square stores)
+        run: python -m playwright install --with-deps chromium
 
       - name: Check every store
         run: python scraper/scrape.py

@@ -180,6 +180,28 @@ def scrape_woocommerce(store):
     return items
 
 
+def square_user_from_browser(url):
+    """Open the shop in a hidden browser and read the user ID from the requests it makes."""
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("   playwright isn't installed, can't open the page in a browser")
+        return None
+    found = []
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page(user_agent=HEADERS["User-Agent"])
+        page.on("request", lambda r: found.extend(re.findall(r"/users/(\d+)/sites/", r.url)))
+        try:
+            page.goto(url, wait_until="networkidle", timeout=60000)
+            page.mouse.wheel(0, 3000)
+            page.wait_for_timeout(2000)
+        except Exception as e:  # noqa: BLE001
+            print(f"   browser had trouble loading the page: {e}")
+        browser.close()
+    return found[0] if found else None
+
+
 # ---------------------------------------------------------------- Square Online
 def scrape_square(store):
     """Square Online loads products with JavaScript from a hidden API.
@@ -197,19 +219,25 @@ def scrape_square(store):
                 or re.search(r"/users/(\d+)/sites/", html)
                 or re.search(r"(\d{6,})\.cdn\d*\.editmysite\.com", html))
         site = (re.search(r'"site_?[iI]d"\s*:\s*"?(\d{6,})', html)
-                or re.search(r"/sites/(\d+)", html)
-                or re.search(r'"site"\s*:\s*\{\s*"id"\s*:\s*"?(\d+)', html))
+                or re.search(r'"(?:classicSiteID|catalogSiteId)"\s*:\s*"(\d{6,})', html)
+                or re.search(r"/sites/(\d{6,})", html))
         if user and site:
             break
-        clues.append(f"{page_url}: {len(html)} chars, user={'y' if user else 'n'} site={'y' if site else 'n'}, "
-                     + "; ".join(sorted(set(m[:60] for m in re.findall(r'[^"\s]*(?:site|user|editmysite)[^"\s]{0,40}', html, re.I)))[:12]))
+        if site and not user:
+            break  # newer Square Online: the user ID only shows up once the page runs, see below
+        clues.append(f"{page_url}: {len(html)} chars, user={'y' if user else 'n'} site={'y' if site else 'n'}")
+    user = store.get("square_user") or (user.group(1) if user else None)
+    site = site.group(1) if site else None
+    if site and not user:
+        user = square_user_from_browser(store["url"])
+        if user:
+            store["_found_user"] = user
+            print(f"   found Square user ID {user} - you can add \"square_user\": \"{user}\" to stores.json")
     if not (user and site):
-        # save the page so the IDs can be found by hand and the reader fixed
         dbg = DATA / "debug"
         dbg.mkdir(exist_ok=True)
         (dbg / f"{store['id']}.html").write_text(html, encoding="utf-8")
         raise RuntimeError("couldn't find Square site IDs. Clues: " + " | ".join(clues))
-    user, site = user.group(1), site.group(1)
     api = f"https://cdn5.editmysite.com/app/store/api/v28/editor/users/{user}/sites/{site}/products"
     items = []
     for page in range(1, MAX_PAGES + 1):
@@ -264,6 +292,8 @@ def main():
                 listings.append({"store": store["id"], **it, **info})
                 kept += 1
             report[store["id"]] = {"ok": True, "found": len(items), "kept": kept}
+            if store.get("_found_user"):
+                report[store["id"]]["square_user"] = store["_found_user"]
             print(f"   found {len(items)}, kept {kept}")
         except Exception as e:  # noqa: BLE001
             report[store["id"]] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:1500]}
