@@ -153,7 +153,9 @@ def scrape_woocommerce(store):
                     "url": p.get("permalink"),
                     "image": (p.get("images") or [{}])[0].get("src"),
                 })
-        return items
+        if items:
+            return items
+        print("   Store API returned nothing, reading pages instead")
     except Exception as e:  # noqa: BLE001
         print(f"   Store API didn't work ({e}), reading pages instead")
     url = store["url"]
@@ -272,10 +274,20 @@ def main():
     stores = json.loads((DATA / "stores.json").read_text(encoding="utf-8"))
     now = datetime.now(BRISBANE)
     listings, singles, report = [], [], {}
+    try:
+        _prev = json.loads((DATA / "prices.json").read_text(encoding="utf-8")).get("listings", [])
+    except Exception:  # noqa: BLE001
+        _prev = []
+    had_before = {}
+    for _l in _prev:
+        had_before[_l["store"]] = had_before.get(_l["store"], 0) + 1
     for store in stores:
         print(f"Checking {store['name']} ({store['platform']})...")
         try:
             items = SCRAPERS[store["platform"]](store)
+            if not items and had_before.get(store["id"], 0) > 5:
+                raise RuntimeError(f"returned no products (had {had_before[store['id']]} last time) - "
+                                   "the site may be down or have changed, keeping last good prices")
             kept = 0
             for it in items:
                 if it.get("price") is None and it.get("available"):

@@ -166,7 +166,9 @@ def classify(title: str) -> dict:
     t = norm(title)
     skip = None
     lang = find_lang(t)
-    if re.search(r"(?<![\d/])\d{1,3}/\d{2,3}(?![\d/])|\breverse holo\b|\bholo\b(?!.*(box|pack|tin|collection))", t) \
+    raw = title.lower()
+    if re.search(r"(?<![\d/])\d{1,3}/\d{2,3}(?![\d/])", raw) or re.search(r"\bgrad(ing|ed)\b|\bpsa\s?\d|\bcgc\s?\d|\bbgs\s?\d", raw) \
+            or re.search(r"\breverse holo\b|\bholo\b(?!.*(box|pack|tin|collection))", t) \
             or (re.match(r"^\d{3}\s", t) and re.search(r"\b(holo|promo|foil)\b", t)):
         skip = "single"  # a single card, e.g. "082/94 Linoone Reverse Holo" - kept for the Gengar tracker
     elif re.search(r"dragon ball|one piece|digimon|my hero academia|gundam|transformers|teenage mutant|disney|"
