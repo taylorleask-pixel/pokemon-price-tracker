@@ -71,13 +71,14 @@ function buildRows() {
 
 function finishRow(r) {
   const c = r.product ? D.contents[r.product] : null;
+  r.separate = c?.separate_rows;
   // contents.json wins; otherwise use what the title says (e.g. "Ancient Origins 3-Pack Blister")
   if (!c?.packs) {
     const auto = r.listings.find((l) => l.auto_packs)?.auto_packs;
     r.contents = auto ? { packs: auto, auto: true } : c;
   } else r.contents = c;
   if (r.contents?.packs?.length) r.packs = r.contents.packs.reduce((a, p) => a + p.qty, 0);
-  if (r.product) r.name = r.product;
+  if (r.product && !c?.separate_rows) r.name = r.product;
   else if (SET_TABS.includes(r.category) && r.set) r.name = r.variant ? `${r.set} (${r.variant})` : r.set;
   else r.name = Object.entries(r.titles).sort((a, b) => b[1] - a[1])[0]?.[0] ?? r.key;
   const inStock = Object.values(r.byStore).filter((l) => l.available);

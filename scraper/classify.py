@@ -161,7 +161,9 @@ def classify(title: str) -> dict:
     if cat["id"] in ("pack", "box", "bundle", "etb", "blister-single", "case") and not s:
         cat = CAT["other"]  # e.g. "2 Booster Packs & Celebi Pin": no single set, so it's a one-off product
     # A product named in contents.json is its own row; otherwise sealed set product rows are set+type.
-    if c_name:
+    if c_name and c_info.get("separate_rows"):
+        key = f"{cat['id']}|{t}"
+    elif c_name:
         key = f"{cat['id']}|{c_name}"
     elif cat["id"] in ("other", "blister-multi") or not s:
         key = f"{cat['id']}|{t}"

@@ -1,5 +1,5 @@
 {
- "_how": "Add products here to record what's inside them. key = product name as shown. 'match' words must ALL appear in a store's title. 'exclude' words (default: case, display, set of) stop bigger versions matching. set null = packs whose sets aren't published. packs [] = confirmed no booster packs. 'note' shows on the site.",
+ "_how": "Add products here to record what's inside them. key = product name as shown. 'match' words must ALL appear in a store's title. 'exclude' words (default: case, display, set of) stop bigger versions matching. set null = packs whose sets aren't published. packs [] = confirmed no booster packs. 'note' shows on the site. 'separate_rows': true = share these contents but keep each store title as its own row (e.g. different decks).",
  "Charizard ex Super-Premium Collection": {
   "category": "other",
   "match": [
@@ -298,7 +298,8 @@
    "60-card all-foil deck (Espeon ex or Umbreon ex)",
    "playmat",
    "deck box"
-  ]
+  ],
+  "separate_rows": true
  },
  "Mega Moonlit Tin": {
   "category": "other",
@@ -407,7 +408,8 @@
   "extras": [
    "promo pack (3 of 9 illustration rare promos)",
    "sticker sheet"
-  ]
+  ],
+  "separate_rows": true
  },
  "Kingambit Illustration Collection": {
   "category": "other",
@@ -525,7 +527,8 @@
   "extras": [
    "foil promo(s)",
    "coin or sticker sheet (varies by wave)"
-  ]
+  ],
+  "separate_rows": true
  },
  "League Battle Deck": {
   "category": "other",
@@ -538,7 +541,8 @@
    "sleeves",
    "deck box",
    "accessories"
-  ]
+  ],
+  "separate_rows": true
  },
  "Deluxe Battle Deck": {
   "category": "other",
@@ -549,7 +553,8 @@
   "extras": [
    "60-card ready-to-play deck",
    "accessories"
-  ]
+  ],
+  "separate_rows": true
  },
  "World Championships Deck": {
   "category": "other",
@@ -559,6 +564,7 @@
   "packs": [],
   "extras": [
    "60-card tournament deck replica (not tournament legal)"
-  ]
+  ],
+  "separate_rows": true
  }
 }
