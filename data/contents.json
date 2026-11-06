@@ -2080,5 +2080,463 @@
   "extras": [
    "cosmos holo Dragonite or Salamence promo"
   ]
+ },
+ "Eeveelution VMAX Premium Collection (Flareon / Jolteon / Vaporeon)": {
+  "category": "other",
+  "match": [
+   "vmax premium collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "etched oversize VMAX",
+   "full-art V",
+   "etched VMAX",
+   "collector pin"
+  ],
+  "note": "5 packs in the international version sold in Australia; the US version has 6 plus a coin.",
+  "exclude": [
+   "case",
+   "display",
+   "dragons",
+   "urshifu"
+  ]
+ },
+ "Eevee Evolutions Premium Collection": {
+  "category": "other",
+  "match": [
+   "eevee evolutions premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 9
+   }
+  ],
+  "extras": [
+   "9 foil V promos (Eevee and all Eeveelutions)"
+  ]
+ },
+ "Darkrai VSTAR Premium Collection": {
+  "category": "other",
+  "match": [
+   "darkrai vstar premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "etched Darkrai VSTAR",
+   "Darkrai V foil",
+   "oversize Darkrai VSTAR",
+   "VSTAR marker"
+  ]
+ },
+ "Shaymin VSTAR Premium Collection": {
+  "category": "other",
+  "match": [
+   "shaymin vstar premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "etched Shaymin VSTAR",
+   "Shaymin V foil",
+   "oversize Shaymin VSTAR",
+   "VSTAR marker"
+  ]
+ },
+ "Kleavor VSTAR Premium Collection": {
+  "category": "other",
+  "match": [
+   "kleavor vstar premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "etched Kleavor V and VSTAR",
+   "oversize Kleavor VSTAR",
+   "pin",
+   "coin",
+   "VSTAR marker"
+  ]
+ },
+ "Kleavor VSTAR Special Collection": {
+  "category": "other",
+  "match": [
+   "kleavor vstar special"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "etched Kleavor V and VSTAR",
+   "oversize Kleavor VSTAR",
+   "pin",
+   "coin",
+   "VSTAR marker"
+  ]
+ },
+ "VMAX Dragons Premium Collection": {
+  "category": "other",
+  "match": [
+   "vmax dragons"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 11
+   }
+  ],
+  "extras": [
+   "etched Rayquaza VMAX and Duraludon VMAX",
+   "Rayquaza V and Duraludon V foils",
+   "2 oversize VMAX"
+  ]
+ },
+ "Combined Powers Premium Collection": {
+  "category": "other",
+  "match": [
+   "combined power"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 11
+   }
+  ],
+  "extras": [
+   "Lugia ex, Ho-Oh ex and Suicune ex foils",
+   "Mr. Mime foil",
+   "3 foil Tool cards",
+   "oversize Lugia ex"
+  ]
+ },
+ "Legendary Warriors Premium Collection": {
+  "category": "other",
+  "match": [
+   "legendary warriors"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 14
+   }
+  ],
+  "extras": [
+   "4 foil cards",
+   "oversize card"
+  ]
+ },
+ "Grand Adventure Collection": {
+  "category": "other",
+  "match": [
+   "grand adventure"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Sprigatito and Fuecoco foil promos",
+   "oversize Terapagos & Friends"
+  ]
+ },
+ "Evolving Powers Premium Collection": {
+  "category": "other",
+  "match": [
+   "evolving powers"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 7
+   }
+  ],
+  "extras": [
+   "Magnezone ex, V and VSTAR foils",
+   "Gardevoir ex, V and VMAX foils",
+   "Magnemite, Magneton, Ralts and Kirlia"
+  ]
+ },
+ "Celebrations Collection (Dark Sylveon V / Lance's Charizard V)": {
+  "category": "other",
+  "match": [
+   "celebrations",
+   "collection"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 4
+   },
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "V promo",
+   "oversize V"
+  ],
+  "note": "Celebrations packs have 4 cards each; the other 2 are regular boosters.",
+  "exclude": [
+   "ultra",
+   "premium",
+   "deluxe",
+   "pin",
+   "dragapult",
+   "prime",
+   "case",
+   "display",
+   "elite",
+   "tin",
+   "chest",
+   "figure",
+   "v-union",
+   "first partner"
+  ],
+  "separate_rows": true
+ },
+ "Celebrations Collection (Dragapult Prime)": {
+  "category": "other",
+  "match": [
+   "celebrations",
+   "dragapult"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 2
+   },
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Dragapult Prime promo",
+   "oversize Dragapult Prime",
+   "4-pocket binder",
+   "25th coin"
+  ],
+  "note": "Celebrations packs have 4 cards each."
+ },
+ "Celebrations Deluxe Pin Collection": {
+  "category": "other",
+  "match": [
+   "celebrations",
+   "deluxe pin"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 4
+   },
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Zacian LV.X promo",
+   "Surfing/Flying Pikachu enamel pin"
+  ],
+  "note": "Celebrations packs have 4 cards each."
+ },
+ "Celebrations Ultra-Premium Collection": {
+  "category": "other",
+  "match": [
+   "celebrations",
+   "ultra",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 17
+   },
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "metal Base Set Pikachu and Charizard",
+   "gold Pikachu V",
+   "gold Poké Ball",
+   "enamel pin",
+   "metal coin"
+  ],
+  "note": "Celebrations packs have 4 cards each."
+ },
+ "Celebrations Elite Trainer Box": {
+  "category": "etb",
+  "match": [
+   "celebrations",
+   "elite trainer"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 10
+   },
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Greninja ☆ promo",
+   "65 sleeves",
+   "45 energy",
+   "dice"
+  ],
+  "note": "Celebrations packs have 4 cards each.",
+  "exclude": [
+   "pokemon center",
+   "pokemon centre",
+   "case",
+   "display"
+  ]
+ },
+ "Celebrations Pokémon Center Elite Trainer Box": {
+  "category": "etb",
+  "match": [
+   "celebrations",
+   "elite trainer",
+   "pokemon cent"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 13
+   },
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Greninja ☆ promo",
+   "65 sleeves",
+   "45 energy",
+   "metal dice and coin",
+   "deck box"
+  ],
+  "note": "Celebrations packs have 4 cards each."
+ },
+ "Celebrations Mini Tin": {
+  "category": "other",
+  "match": [
+   "celebrations",
+   "mini tin"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 2
+   },
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "anniversary coin",
+   "art card"
+  ],
+  "note": "Celebrations packs have 4 cards each."
+ },
+ "Celebrations Pikachu V-UNION Special Collection": {
+  "category": "other",
+  "match": [
+   "celebrations",
+   "v-union"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 4
+   },
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "4 Pikachu V-UNION promos",
+   "oversize V-UNION",
+   "Professor Burnett promo"
+  ],
+  "note": "Celebrations packs have 4 cards each."
+ },
+ "Celebrations Premium Figure Collection (Pikachu VMAX)": {
+  "category": "other",
+  "match": [
+   "celebrations",
+   "figure"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 8
+   },
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "etched Pikachu VMAX",
+   "Pikachu V",
+   "Gigantamax Pikachu figure"
+  ],
+  "note": "Celebrations packs have 4 cards each."
+ },
+ "Celebrations Collector Chest": {
+  "category": "other",
+  "match": [
+   "celebrations",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": "Celebrations",
+    "qty": 6
+   },
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Mimikyu δ, Light Toxtricity and Hydreigon C promos",
+   "4 sticker sheets",
+   "mini portfolio",
+   "coin",
+   "notepad"
+  ],
+  "note": "Celebrations packs have 4 cards each."
  }
 }
