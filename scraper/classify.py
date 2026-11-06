@@ -20,13 +20,36 @@ CONTENTS = {k: v for k, v in json.loads((DATA / "contents.json").read_text(encod
 ERA_NAMES = {"Scarlet & Violet", "Sword & Shield", "Sun & Moon", "XY", "Black & White",
              "Diamond & Pearl", "HeartGold & SoulSilver", "Mega Evolution", "Platinum", "EX Ruby & Sapphire"}
 
-FOREIGN = ["mega dream", "abyss eye", "mega symphonia", "mega brave", "munikis zero", "ninja spinner", "inferno x",
-           "terastal festival", "storm emeralda", "nullify", "gem pack", "pokemon center hiroshima",
-           "pokemon center tohoku", "pokemon center fukuoka", "vstar universe", "shiny treasure", "cyber judge",
-           "wild force", "crimson haze", "mask of change", "night wanderer", "paradise dragona", "super electric breaker",
-           "battle partners", "heat wave arena", "glory of team rocket", "black bolt (jp", "white flare (jp",
-           "japanese", "chinese", "korean", "simplified", "traditional", "thai", "indonesian",
-           "(jp)", "[jp]", "jpn", "(cn)", "s-chinese", "t-chinese", "german", "french", "spanish", "italian"]
+# Japanese sets often get English names in Aussie shops ("Ninja Spinner Booster Box"), so they're recognised by name.
+JP_SETS = ["mega dream", "abyss eye", "mega symphonia", "mega brave", "munikis zero", "ninja spinner", "inferno x",
+           "terastal festival", "storm emeralda", "vstar universe", "vmax climax", "shiny treasure", "shiny star v",
+           "cyber judge", "wild force", "crimson haze", "mask of change", "night wanderer", "stellar miracle",
+           "paradise dragona", "super electric breaker", "battle partners", "heat wave arena", "glory of team rocket",
+           "triplet beat", "snow hazard", "clay burst", "ruler of the black flame", "raging surf", "ancient roar",
+           "future flash", "scarlet ex", "violet ex", "pokemon card 151", "eevee heroes", "fusion arts", "blue sky stream",
+           "skyscraping perfect", "lost abyss", "dark phantasma", "incandescent arcana", "paradigm trigger", "star birth",
+           "time gazer", "space juggler", "battle region", "tag all stars", "dream league", "sky legend",
+           "pokemon center hiroshima", "pokemon center tohoku", "pokemon center fukuoka"]
+LANGS = [  # first match wins
+    ("SCH", ["simplified chinese", "s-chinese", "schinese", "(sc)", "[sc]", "simplified", "gem pack"]),
+    ("TCH", ["traditional chinese", "t-chinese", "tchinese", "(tc)", "[tc]", "traditional", "taiwan"]),
+    ("CN", ["chinese", "(cn)", "[cn]"]),  # Chinese, but the store doesn't say which script
+    ("KOR", ["korean", "(kr)", "[kr]", "(kor)", "[kor]"]),
+    ("JP", ["japanese", "(jp)", "[jp]", "(jpn)", "[jpn]", " jpn", "japan exclusive", *JP_SETS]),
+    ("TH", ["thai"]), ("ID", ["indonesian"]), ("DE", ["german"]), ("FR", ["french"]),
+    ("ES", ["spanish"]), ("IT", ["italian"]),
+]
+
+
+def find_lang(t: str) -> str:
+    for code, pats in _LANG_PATTERNS:
+        if any(p.search(t) for p in pats):
+            return code
+    if re.search(r"\bjp\b", t):
+        return "JP"
+    return "EN"
+
+
 NOT_SEALED = ["socks", "mug", "tumbler", "pop!", "bitty pop", "coin purse", "purse", "stationery", "jewellery",
               "bar bell", "vinyl", "dvd", " cap", "key chain", "keychain", "dice", "damage counter", "coin marker",
               "face washer", "face towel", "textile", "t-shirt", "ichiban kuji", "puzzle", "jigsaw", "piggy bank",
@@ -49,6 +72,8 @@ def norm(text: str) -> str:
 def _pattern(phrase: str) -> re.Pattern:
     return re.compile(r"(?<![a-z0-9])" + re.escape(norm(phrase)) + r"(?![a-z0-9])")
 
+
+_LANG_PATTERNS = [(code, [_pattern(w) for w in words if norm(w)]) for code, words in LANGS]
 
 # Build (pattern, set) pairs, longest phrase first so "Team Rocket Returns" beats "Team Rocket".
 _SET_PATTERNS = []
@@ -140,9 +165,8 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
 def classify(title: str) -> dict:
     t = norm(title)
     skip = None
-    if any(w in t for w in FOREIGN):
-        skip = "foreign"
-    elif re.search(r"(?<![\d/])\d{1,3}/\d{2,3}(?![\d/])|\breverse holo\b|\bholo\b(?!.*(box|pack|tin|collection))", t) \
+    lang = find_lang(t)
+    if re.search(r"(?<![\d/])\d{1,3}/\d{2,3}(?![\d/])|\breverse holo\b|\bholo\b(?!.*(box|pack|tin|collection))", t) \
             or (re.match(r"^\d{3}\s", t) and re.search(r"\b(holo|promo|foil)\b", t)):
         skip = "single"  # a single card, e.g. "082/94 Linoone Reverse Holo" - kept for the Gengar tracker
     elif re.search(r"dragon ball|one piece|digimon|my hero academia|gundam|transformers|teenage mutant|disney|"
@@ -158,7 +182,7 @@ def classify(title: str) -> dict:
     cat = next((c for c in CATEGORIES if c["id"] == c_info["category"]), None) if c_info else None
     cat = cat or find_category(title, s)
     variant = find_variant(title) if cat["id"] in ("pack", "box", "etb", "bundle", "blister-single") else None
-    if cat["id"] in ("pack", "box", "bundle", "etb", "blister-single", "case") and not s:
+    if cat["id"] in ("pack", "box", "bundle", "etb", "blister-single", "case") and not s and lang == "EN":
         cat = CAT["other"]  # e.g. "2 Booster Packs & Celebi Pin": no single set, so it's a one-off product
     # A product named in contents.json is its own row; otherwise sealed set product rows are set+type.
     if c_name and c_info.get("separate_rows"):
@@ -169,11 +193,14 @@ def classify(title: str) -> dict:
         key = f"{cat['id']}|{t}"
     else:
         key = f"{cat['id']}|{s['name']}" + (f"|{variant}" if variant else "")
+    if lang != "EN":
+        key = f"{lang}|{cat['id']}|{t}" if not s else f"{lang}|{key}"
     packs = pack_count(cat, s, title, c_info)
     auto = None
     if not c_name and packs and cat["id"] in ("other", "blister-multi"):
         auto = [{"set": s["name"] if s else None, "qty": packs}]
     return {
+        "lang": lang,
         "auto_packs": auto,
         "variant": variant,
         "category": cat["id"],

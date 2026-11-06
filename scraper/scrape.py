@@ -303,13 +303,14 @@ def main():
 
     # If a store failed this time, keep its last good results so the site doesn't go blank
     old_path = DATA / "prices.json"
-    if old_path.exists():
-        old = json.loads(old_path.read_text(encoding="utf-8"))
-        for sid, r in report.items():
-            if not r["ok"]:
-                carried = [l for l in old.get("listings", []) if l["store"] == sid]
-                listings += [{**l, "stale": True} for l in carried]
-                r["carried_over"] = len(carried)
+    old = json.loads(old_path.read_text(encoding="utf-8")) if old_path.exists() else {"listings": []}
+    for sid, r in report.items():
+        if not r["ok"]:
+            carried = [l for l in old.get("listings", []) if l["store"] == sid]
+            listings += [{**l, "stale": True} for l in carried]
+            r["carried_over"] = len(carried)
+
+    events = track_changes(old.get("listings", []), listings, report, now)
 
     (DATA / "prices.json").write_text(json.dumps(
         {"updated": now.isoformat(timespec="minutes"), "listings": listings},
@@ -334,7 +335,53 @@ def main():
         else:
             h.append([day, low])
     hist_path.write_text(json.dumps(history, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"Done: {len(listings)} listings saved.")
+    print(f"Done: {len(listings)} listings saved, {len(events)} changes since the last check.")
+
+
+def track_changes(old_listings, listings, report, now):
+    """Compare this check with the last one. Adds 'changed' / 'first_seen' times to each listing
+    and saves what happened to data/changes.json (kept for 30 days)."""
+    stamp = now.isoformat(timespec="minutes")
+    ident = lambda l: (l["store"], l.get("url") or l["title"])  # noqa: E731
+    before = {ident(l): l for l in old_listings}
+    stores_seen_before = {l["store"] for l in old_listings}
+    events, now_ids = [], set()
+    for l in listings:
+        if l.get("stale"):
+            continue
+        now_ids.add(ident(l))
+        o = before.get(ident(l))
+        base = {"time": stamp, "store": l["store"], "key": l["key"], "title": l["title"], "url": l.get("url"),
+                "category": l["category"], "lang": l.get("lang", "EN")}
+        happened = []
+        if o is None:
+            if l["store"] in stores_seen_before:  # a brand-new store isn't "new products"
+                happened.append({**base, "type": "new", "new": l.get("price"), "available": l.get("available")})
+        else:
+            if l.get("available") and not o.get("available"):
+                happened.append({**base, "type": "in-stock", "new": l.get("price")})
+            elif o.get("available") and not l.get("available"):
+                happened.append({**base, "type": "sold-out", "old": o.get("price")})
+            op, np_ = o.get("price"), l.get("price")
+            if op is not None and np_ is not None and abs(op - np_) >= 0.01:
+                happened.append({**base, "type": "price-up" if np_ > op else "price-down", "old": op, "new": np_})
+        # existing products from before tracking started have no times yet (None), rather than "just now"
+        l["first_seen"] = o.get("first_seen") if o else stamp
+        l["changed"] = stamp if happened else (o.get("changed") if o else stamp)
+        events += happened
+    # listings that disappeared from a store that worked this time
+    for i, o in before.items():
+        if i not in now_ids and report.get(o["store"], {}).get("ok"):
+            events.append({"time": stamp, "store": o["store"], "key": o["key"], "title": o["title"],
+                           "url": o.get("url"), "category": o["category"], "lang": o.get("lang", "EN"),
+                           "type": "removed", "old": o.get("price")})
+
+    path = DATA / "changes.json"
+    log = json.loads(path.read_text(encoding="utf-8")).get("events", []) if path.exists() else []
+    cutoff = (now - timedelta(days=30)).isoformat(timespec="minutes")
+    log = (events + [e for e in log if e["time"] >= cutoff])[:6000]
+    path.write_text(json.dumps({"updated": stamp, "events": log}, ensure_ascii=False, indent=0), encoding="utf-8")
+    return events
 
 
 if __name__ == "__main__":
