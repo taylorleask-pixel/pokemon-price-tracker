@@ -5,8 +5,79 @@
   "packs": null,
   "note": "Case of boxes or bundles",
   "keywords": [
-   "case",
-   "bundle display"
+   "booster box case",
+   "bundle case",
+   "booster bundle case",
+   "display case",
+   "etb case",
+   "elite trainer box case",
+   "case of",
+   "bundle display",
+   "booster bundle display"
+  ]
+ },
+ {
+  "id": "blister-single",
+  "name": "Single Blisters",
+  "packs": 1,
+  "keywords": [
+   "sleeved",
+   "checklane",
+   "single pack blister",
+   "single blister",
+   "1-pack blister",
+   "1 pack blister"
+  ]
+ },
+ {
+  "id": "blister-multi",
+  "name": "Multi-pack Blisters",
+  "packs": null,
+  "keywords": [
+   "blister",
+   "blisters",
+   "double blister",
+   "2-pack",
+   "3-pack",
+   "two pack",
+   "three pack"
+  ]
+ },
+ {
+  "id": "other",
+  "name": "Other",
+  "packs": null,
+  "keywords": [
+   "tin",
+   "tins",
+   "mini tin",
+   "collection",
+   "box set",
+   "gift set",
+   "build and battle",
+   "stadium",
+   "theme deck",
+   "battle deck",
+   "league battle deck",
+   "trainer kit",
+   "starter deck",
+   "calendar",
+   "advent",
+   "prize pack",
+   "general mills",
+   "costco",
+   "collector's pin",
+   "collector pin",
+   "pin collection",
+   "art bundle",
+   "poster",
+   "binder collection",
+   "ex box",
+   "v box",
+   "gx box",
+   "premium",
+   "figure collection",
+   "bundle (set of"
   ]
  },
  {
@@ -18,7 +89,8 @@
    "booster display",
    "display box",
    "36 pack",
-   "36-pack"
+   "36-pack",
+   "enhanced booster box"
   ]
  },
  {
@@ -41,30 +113,6 @@
   ]
  },
  {
-  "id": "blister-single",
-  "name": "Single Blisters",
-  "packs": 1,
-  "keywords": [
-   "sleeved",
-   "checklane",
-   "single blister",
-   "1 pack blister",
-   "1-pack blister"
-  ]
- },
- {
-  "id": "blister-multi",
-  "name": "Multi-pack Blisters",
-  "packs": null,
-  "keywords": [
-   "blister",
-   "2-pack",
-   "3-pack",
-   "3 pack",
-   "2 pack"
-  ]
- },
- {
   "id": "pack",
   "name": "Booster Packs",
   "packs": 1,
@@ -72,14 +120,8 @@
    "booster pack",
    "booster (single)",
    "single pack",
-   "pack",
-   "booster"
+   "booster",
+   "pack"
   ]
- },
- {
-  "id": "other",
-  "name": "Other",
-  "packs": null,
-  "keywords": []
  }
 ]

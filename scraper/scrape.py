@@ -69,37 +69,55 @@ def scrape_shopify(store):
 
 
 # ---------------------------------------------------------------- Misty's (custom site)
+MISTY_LABELS = sorted(["Booster Bundles", "Booster Packs", "Booster Boxes", "Elite Trainer Boxes", "Tins",
+    "Collections", "Collection Boxes", "Blisters", "Others", "Other Sealeds", "Build & Battles",
+    "Theme Decks", "Battle Decks", "Trainer Kits", "Starter Decks", "Premium Collections"], key=len, reverse=True)
+STOCK_RE = re.compile(r"\b(in stock|out of stock|sold out|pre-?order|coming soon|notify me)\b", re.I)
+
+
+def clean_misty_title(text):
+    text = re.sub(r"\$\s*[\d,]+(?:\.\d{1,2})?", " ", text)
+    text = STOCK_RE.sub(" ", text)
+    text = re.sub(r"(add to cart|choose options)\s*\u2192?", " ", text, flags=re.I)
+    text = re.sub(r"\s+", " ", text).strip()
+    for label in MISTY_LABELS:
+        if text.lower().startswith(label.lower() + " "):
+            text = text[len(label):].strip()
+            break
+    return text
+
+
 def scrape_misty(store):
-    """Product pages live at /sealed/product/<name>; each card shows price + 'In stock'."""
+    """Product pages live at /sealed/product/<name>. Each product box shows its category,
+    name, 'In stock' (only when in stock) and a price. We only trust text inside that one box."""
     items, seen = [], set()
     for page in range(1, MAX_PAGES + 1):
-        html = get(store["url"], params={"page": page}).text
-        soup = BeautifulSoup(html, "html.parser")
-        links = [a for a in soup.select("a[href*='/sealed/product/']")]
+        soup = BeautifulSoup(get(store["url"], params={"page": page}).text, "html.parser")
         new = 0
-        for a in links:
-            url = urljoin(store["url"], a["href"].split("#")[0])
+        for a in soup.select("a[href*='/sealed/product/']"):
+            url = urljoin(store["url"], a["href"].split("#")[0].split("?")[0])
             if url in seen:
                 continue
+            # climb to the biggest box that still contains only THIS product
             card = a
-            # walk up until we reach the box that holds the price
-            for _ in range(6):
-                if card.parent is None:
+            while card.parent is not None:
+                links = {urljoin(store["url"], x["href"].split("#")[0].split("?")[0])
+                         for x in card.parent.select("a[href*='/sealed/product/']")}
+                if len(links) > 1:
                     break
                 card = card.parent
-                if "$" in card.get_text():
-                    break
             text = card.get_text(" ", strip=True)
-            title = a.get("title") or a.get_text(" ", strip=True)
-            if not title or price_from(text) is None:
+            title = clean_misty_title(a.get("title") or a.get_text(" ", strip=True)) or clean_misty_title(text)
+            price = price_from(text)
+            if not title:
                 continue
             seen.add(url)
             new += 1
             img = card.find("img")
             items.append({
                 "title": title,
-                "price": price_from(text),
-                "available": not re.search(r"out of stock|sold out", text, re.I),
+                "price": price,
+                "available": bool(re.search(r"\bin stock\b", text, re.I)) and price is not None,
                 "url": url,
                 "image": urljoin(store["url"], img["src"]) if img and img.get("src") else None,
             })
@@ -166,13 +184,28 @@ def scrape_woocommerce(store):
 def scrape_square(store):
     """Square Online loads products with JavaScript from a hidden API.
     The shop page contains the IDs we need to call that API directly."""
-    html = get(store["url"]).text
-    user = re.search(r'"user_?[iI]d"\s*:\s*"?(\d+)', html) or re.search(r"(\d{6,})\.cdn\d*\.editmysite\.com", html)
-    site = re.search(r'"site_?[iI]d"\s*:\s*"?(\d+)', html)
-    if not (user and site):
-        raise RuntimeError("couldn't find Square site IDs in the page")
-    user, site = user.group(1), site.group(1)
     root = f"{urlparse(store['url']).scheme}://{urlparse(store['url']).netloc}"
+    user = site = None
+    clues = []
+    for page_url in (store["url"], root + "/", root + "/s/shop"):
+        try:
+            html = get(page_url).text
+        except Exception as e:  # noqa: BLE001
+            clues.append(f"{page_url}: {e}")
+            continue
+        user = (re.search(r'"user_?[iI]d"\s*:\s*"?(\d+)', html)
+                or re.search(r"/users/(\d+)/sites/", html)
+                or re.search(r"(\d{6,})\.cdn\d*\.editmysite\.com", html))
+        site = (re.search(r'"site_?[iI]d"\s*:\s*"?(\d{6,})', html)
+                or re.search(r"/sites/(\d+)", html)
+                or re.search(r'"site"\s*:\s*\{\s*"id"\s*:\s*"?(\d+)', html))
+        if user and site:
+            break
+        clues.append(f"{page_url}: {len(html)} chars, user={'y' if user else 'n'} site={'y' if site else 'n'}, "
+                     + "; ".join(sorted(set(m[:60] for m in re.findall(r'[^"\s]*(?:site|user|editmysite)[^"\s]{0,40}', html, re.I)))[:12]))
+    if not (user and site):
+        raise RuntimeError("couldn't find Square site IDs. Clues: " + " | ".join(clues))
+    user, site = user.group(1), site.group(1)
     api = f"https://cdn5.editmysite.com/app/store/api/v28/editor/users/{user}/sites/{site}/products"
     items = []
     for page in range(1, MAX_PAGES + 1):
@@ -214,7 +247,7 @@ def main():
             items = SCRAPERS[store["platform"]](store)
             kept = 0
             for it in items:
-                if it.get("price") is None:
+                if it.get("price") is None and it.get("available"):
                     continue
                 info = classify(it["title"])
                 if info["skip"]:
@@ -224,7 +257,7 @@ def main():
             report[store["id"]] = {"ok": True, "found": len(items), "kept": kept}
             print(f"   found {len(items)}, kept {kept}")
         except Exception as e:  # noqa: BLE001
-            report[store["id"]] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:300]}
+            report[store["id"]] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:1500]}
             print(f"   FAILED: {e}")
 
     # If a store failed this time, keep its last good results so the site doesn't go blank
@@ -249,7 +282,7 @@ def main():
     day = now.strftime("%Y-%m-%d")
     lows = {}
     for l in listings:
-        if l.get("available") and not l.get("stale"):
+        if l.get("available") and not l.get("stale") and l.get("price") is not None:
             lows[l["key"]] = min(lows.get(l["key"], 1e12), l["price"])
     for key, low in lows.items():
         h = history.setdefault(key, [])

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pack Watch</title>
+<meta name="description" content="Pokémon TCG sealed prices across Brisbane stores">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <h1>Pack Watch</h1>
+    <p id="updated">Loading prices…</p>
+  </div>
+  <div id="store-dots" class="store-dots" aria-label="Store status"></div>
+</header>
+
+<nav class="tabs" id="tabs" role="tablist"></nav>
+
+<section class="controls" id="controls">
+  <label class="search">
+    <span class="sr">Search</span>
+    <input id="q" type="search" placeholder="Search sets or products" autocomplete="off">
+  </label>
+  <label class="check"><input type="checkbox" id="instock"> In stock only</label>
+  <label class="check" id="empty-wrap"><input type="checkbox" id="showempty"> Show sets no store has</label>
+  <label class="select">Year
+    <select id="year"><option value="">All</option></select>
+  </label>
+</section>
+
+<main id="view"></main>
+
+<footer class="foot">
+  Prices are checked about 7am, 1pm and 7pm Brisbane time. Always confirm on the store's site before buying.
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

@@ -22,7 +22,9 @@ ERA_NAMES = {"Scarlet & Violet", "Sword & Shield", "Sun & Moon", "XY", "Black & 
 
 FOREIGN = ["japanese", "chinese", "korean", "simplified", "traditional", "thai", "indonesian",
            "(jp)", "[jp]", "jpn", "(cn)", "s-chinese", "t-chinese", "german", "french", "spanish", "italian"]
-NOT_SEALED = ["psa ", "psa-", "cgc", "bgs ", "graded", "slab", "single card", "sleeves", "deck box",
+NOT_SEALED = ["loungefly", "acryshield", "backpack", "crossbody", " bag", "pencil case", "meta zoo", "brick",
+              "keychain", "plushie", "protector", "magnetic", "ultra pro", "dragon shield", "storage box",
+              "playmat", "psa ", "psa-", "cgc", "bgs ", "graded", "slab", "single card", "sleeves", "deck box",
               "playmat", "binder", "portfolio", "toploader", "plush", "figure", "card sleeve"]
 
 
@@ -59,15 +61,30 @@ def find_set(title: str):
     return pick[0] if pick else None
 
 
-def find_category(title: str) -> dict:
+VARIANTS = [("1st edition", "1st Edition"), ("pokemon center", "Pokémon Center"), ("pokemon centre", "Pokémon Center"),
+            ("enhanced", "Enhanced"), ("shadowless", "Shadowless")]
+CAT = {c["id"]: c for c in CATEGORIES}
+
+
+def find_variant(title: str):
     t = norm(title)
-    for cat in CATEGORIES:
+    return next((label for key, label in VARIANTS if key in t), None)
+
+
+def find_category(title: str, set_obj=None) -> dict:
+    t = norm(title)
+    # take the set name out first, so "Legendary Collection" or "Platinum" can't look like product words
+    if set_obj:
+        for phrase in [set_obj["name"], *set_obj.get("aliases", [])]:
+            t = _pattern(phrase).sub(" ", t)
+    if re.search(r"art bundle|set of \d", t):
+        return CAT["other"]  # bundles of several packs/products sold together
+    for cat in CATEGORIES:  # order matters: case, blisters, other, box, bundle, ETB, pack
         if any(_pattern(k).search(t) for k in cat["keywords"]):
-            # a "case" is only a case if it's a case of boxes/bundles/ETBs, not a "carry case"
-            if cat["id"] == "case" and not re.search(r"(box|bundle|etb|display|trainer).{0,20}case|case of|bundle display", t):
-                continue
+            if cat["id"] == "case" and "acrylic" in t:
+                continue  # an acrylic display case, not a case of boxes
             return cat
-    return CATEGORIES[-1]  # Other
+    return CAT["other"]
 
 
 def find_contents(title: str):
@@ -82,9 +99,11 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
     if contents and contents.get("packs"):
         return sum(p["qty"] for p in contents["packs"])
     t = norm(title)
-    m = re.search(r"(\d+)[\s-]*(?:x\s*)?(?:booster\s*)?packs?\b", t)
+    t = re.sub(r"\btwo\b", "2", re.sub(r"\bthree\b", "3", re.sub(r"\bdouble\b", "2 pack", t)))
+    m = re.search(r"(\d+)[\s-]*(?:x\s*)?(?:booster\s*)?packs?\b", t) or re.search(r"set of (\d+)", t)
     if cat["id"] == "etb":
-        return 9 if s and s["year"] >= 2023 else 8
+        base = 9 if s and s["year"] >= 2023 else 8
+        return base + 2 if "pokemon cent" in t else base  # Pokémon Center ETBs have 2 extra packs
     if cat["id"] == "case":
         if "bundle" in t:
             return None  # bundle case sizes vary, fill in via contents.json
@@ -104,15 +123,19 @@ def classify(title: str) -> dict:
     s = find_set(title)
     c_name, c_info = find_contents(title)
     cat = next((c for c in CATEGORIES if c["id"] == c_info["category"]), None) if c_info else None
-    cat = cat or find_category(title)
+    cat = cat or find_category(title, s)
+    variant = find_variant(title) if cat["id"] in ("pack", "box", "etb", "bundle", "blister-single") else None
+    if cat["id"] in ("pack", "box", "bundle", "etb", "blister-single", "case") and not s:
+        cat = CAT["other"]  # e.g. "2 Booster Packs & Celebi Pin": no single set, so it's a one-off product
     # A product named in contents.json is its own row; otherwise sealed set product rows are set+type.
     if c_name:
         key = f"{cat['id']}|{c_name}"
     elif cat["id"] in ("other", "blister-multi") or not s:
         key = f"{cat['id']}|{t}"
     else:
-        key = f"{cat['id']}|{s['name']}"
+        key = f"{cat['id']}|{s['name']}" + (f"|{variant}" if variant else "")
     return {
+        "variant": variant,
         "category": cat["id"],
         "set": s["name"] if s else None,
         "year": s["year"] if s else None,
