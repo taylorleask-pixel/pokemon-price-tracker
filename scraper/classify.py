@@ -50,7 +50,7 @@ def find_lang(t: str) -> str:
     return "EN"
 
 
-NOT_SEALED = ["socks", "mug", "tumbler", "pop!", "bitty pop", "coin purse", "purse", "stationery", "jewellery",
+NOT_SEALED = ["deck case", "flat brim", " hat", "magnet", "energy box", "booster box acrylic", "socks", "mug", "tumbler", "pop!", "bitty pop", "coin purse", "purse", "stationery", "jewellery",
               "bar bell", "vinyl", "dvd", " cap", "key chain", "keychain", "dice", "damage counter", "coin marker",
               "face washer", "face towel", "textile", "t-shirt", "ichiban kuji", "puzzle", "jigsaw", "piggy bank",
               "cosplay", "drink bottle", "poster board", "acrylic stand", "file folder", "diorama", "card display frame",

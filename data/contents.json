@@ -657,5 +657,551 @@
    "coin, damage counters, playmat, deck box"
   ],
   "separate_rows": true
+ },
+ "151 ex Collection (Alakazam / Zapdos)": {
+  "category": "other",
+  "match": [
+   "151",
+   "collection"
+  ],
+  "packs": [
+   {
+    "set": "151",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "ex foil promo",
+   "2 foil cards of its evolution line"
+  ],
+  "exclude": [
+   "ultra",
+   "premium",
+   "poster",
+   "binder",
+   "case",
+   "display",
+   "booster",
+   "tin",
+   "bundle",
+   "elite"
+  ],
+  "separate_rows": true
+ },
+ "151 Ultra-Premium Collection": {
+  "category": "other",
+  "match": [
+   "151",
+   "ultra",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": "151",
+    "qty": 16
+   }
+  ],
+  "extras": [
+   "etched Mew ex and full-art Mewtwo promos",
+   "metal Mew ex card",
+   "playmat",
+   "deck box",
+   "metal coin",
+   "dice and markers"
+  ]
+ },
+ "Paldea Adventure Chest": {
+  "category": "other",
+  "match": [
+   "paldea adventure chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "7 foil promos",
+   "tech sticker sheet",
+   "mini portfolio",
+   "squishy Pikachu"
+  ]
+ },
+ "Trick or Trade BOOster Bundle": {
+  "category": "other",
+  "match": [
+   "trick or trade"
+  ],
+  "packs": [],
+  "extras": [
+   "35 mini packs of 3 cards (Halloween promo packs, not regular boosters)"
+  ]
+ },
+ "30th Celebration ex Tin": {
+  "category": "other",
+  "match": [
+   "30th",
+   "celebration",
+   "tin"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Sylveon ex or Greninja ex foil promo"
+  ],
+  "exclude": [
+   "mini",
+   "case",
+   "display",
+   "set of"
+  ]
+ },
+ "Mega Charizard ex Tin": {
+  "category": "other",
+  "match": [
+   "mega charizard",
+   "tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Charizard X ex or Y ex foil promo"
+  ]
+ },
+ "Armarouge ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "armarouge",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "etched Armarouge ex promo",
+   "Charcadet and Ceruledge promos",
+   "magnetic card protector",
+   "65 sleeves"
+  ]
+ },
+ "Azure Legends Tin": {
+  "category": "other",
+  "match": [
+   "azure legends tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Kyogre ex, Xerneas ex or Dialga ex foil promo"
+  ]
+ },
+ "Back-to-School 2024 Collector Chest": {
+  "category": "other",
+  "match": [
+   "back",
+   "school",
+   "2024",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Scream Tail and Iron Valiant foils and coins",
+   "4 sticker sheets",
+   "mini portfolio"
+  ]
+ },
+ "Back to School Eraser Blister 2024": {
+  "category": "other",
+  "match": [
+   "eraser blister",
+   "2024"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Gengar or Bellibolt eraser"
+  ]
+ },
+ "Back to School Pencil Case 2024": {
+  "category": "other",
+  "match": [
+   "pencil case",
+   "2024"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "pencil tin"
+  ]
+ },
+ "Black Bolt Tech Sticker Collection": {
+  "category": "other",
+  "match": [
+   "black bolt",
+   "tech sticker"
+  ],
+  "packs": [
+   {
+    "set": "Black Bolt",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Reuniclus foil promo",
+   "tech sticker sheet"
+  ]
+ },
+ "Cynthias Garchomp ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "garchomp",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "3 foil cards"
+  ]
+ },
+ "Charizard ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "charizard ex premium collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Charizard ex promos",
+   "oversize card"
+  ],
+  "exclude": [
+   "super",
+   "ultra",
+   "case",
+   "display"
+  ]
+ },
+ "Blaziken ex & Volcanion ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "blaziken",
+   "volcanion",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "Blaziken ex and Volcanion ex promos",
+   "oversize Blaziken ex"
+  ]
+ },
+ "Blaziken ex Special Collection": {
+  "category": "other",
+  "match": [
+   "blaziken ex special collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Blaziken ex foil promo",
+   "oversize Blaziken ex"
+  ]
+ },
+ "Latias ex Special Collection": {
+  "category": "other",
+  "match": [
+   "latias ex special collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Latias ex foil promo",
+   "oversize Latias ex"
+  ]
+ },
+ "Lugia ex Special Collection": {
+  "category": "other",
+  "match": [
+   "lugia ex special collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Lugia ex foil promo",
+   "oversize Lugia ex"
+  ]
+ },
+ "Greninja ex & Kingdra ex Special Collection": {
+  "category": "other",
+  "match": [
+   "greninja",
+   "kingdra"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Greninja ex and Kingdra ex promos",
+   "oversize Greninja ex"
+  ]
+ },
+ "Snorlax ex & Blissey ex Special Collection": {
+  "category": "other",
+  "match": [
+   "snorlax",
+   "blissey"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Snorlax ex and Blissey ex promos",
+   "oversize Snorlax ex"
+  ]
+ },
+ "Incineroar ex & Torterra ex Special Collection": {
+  "category": "other",
+  "match": [
+   "incineroar",
+   "torterra"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Incineroar ex and Torterra ex promos",
+   "oversize Incineroar ex"
+  ]
+ },
+ "Dark Powers ex Special Collection": {
+  "category": "other",
+  "match": [
+   "dark powers"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "3 promo cards"
+  ]
+ },
+ "Greninja ex Ultra-Premium Collection": {
+  "category": "other",
+  "match": [
+   "greninja ex ultra"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 16
+   }
+  ],
+  "extras": [
+   "etched Tera Greninja ex and Greninja ex promos",
+   "metal card",
+   "playmat",
+   "deck box",
+   "coin",
+   "dice"
+  ]
+ },
+ "Gyarados ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "gyarados ex premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Gyarados ex and Magikarp foils",
+   "magnetic card protector",
+   "65 sleeves"
+  ]
+ },
+ "Heavy Hitters Premium Collection (Fall 2023)": {
+  "category": "other",
+  "match": [
+   "heavy hitters premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 14
+   }
+  ],
+  "extras": [
+   "Lucario V, Tyranitar V, Lucario and Tyranitar foils",
+   "oversize Lucario V",
+   "4 metal coins"
+  ],
+  "exclude": [
+   "unova",
+   "case",
+   "display"
+  ]
+ },
+ "Holiday Calendar 2024": {
+  "category": "other",
+  "match": [
+   "holiday calendar",
+   "2024"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "8 foil holiday cards",
+   "7 three-card fun packs",
+   "2 coins",
+   "2 sticker sheets",
+   "Chien-Pao dangler"
+  ]
+ },
+ "Holiday Calendar 2023": {
+  "category": "other",
+  "match": [
+   "holiday calendar",
+   "2023"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "8 foil holiday cards",
+   "7 three-card fun packs",
+   "2 coins",
+   "2 sticker sheets",
+   "Pikachu and Glaceon dangler"
+  ]
+ },
+ "Fall 2023 Collector Chest": {
+  "category": "other",
+  "match": [
+   "fall 2023",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Meowscarada, Skeledirge and Quaquaval foils",
+   "coin",
+   "4 sticker sheets",
+   "mini portfolio"
+  ]
+ },
+ "Fall 2024 Collector Chest": {
+  "category": "other",
+  "match": [
+   "fall 2024",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Pikachu, Dipplin and Teal Mask Ogerpon foils",
+   "Terapagos coin",
+   "4 sticker sheets",
+   "mini portfolio"
+  ]
+ },
+ "Hydreigon ex & Dragapult ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "hydreigon",
+   "dragapult"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "Hydreigon ex and Dragapult ex promos",
+   "oversize card"
+  ]
  }
 }
