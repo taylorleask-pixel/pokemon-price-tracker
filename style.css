@@ -1,3 +1,4 @@
+[hidden] { display: none !important; }
 :root {
   --bg: #F2EFF7;
   --surface: #FFFFFF;
@@ -156,7 +157,8 @@ body.on-product .controls { display: none; }
 .product h2 { font-family: "Bricolage Grotesque", sans-serif; font-size: clamp(26px, 4vw, 38px); line-height: 1.05;
   letter-spacing: -0.02em; margin: 0 0 12px; max-width: 26ch; }
 .kicker { margin: 0 0 4px; color: var(--muted); }
-.facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 10px 22px; margin: 0; max-width: 760px; }
+.phead > div { flex: 1 1 280px; min-width: 0; }
+.facts { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 10px 22px; margin: 0; max-width: 760px; }
 .facts div { min-width: 0; }
 .facts dt { font-size: 13px; color: var(--muted); }
 .facts dd { margin: 0; font-weight: 600; }
