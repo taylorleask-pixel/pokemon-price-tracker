@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:44+10:00",
+ "updated": "2026-11-06T20:48+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -12,9 +12,10 @@
    "kept": 35
   },
   "eden": {
-   "ok": false,
-   "error": "RuntimeError: couldn't find Square site IDs. Clues: https://www.edenhunter.com.au/shop/pokemon/O7MZU3S2ZZWAQWGKDO7YXHMW: 68848 chars, user=n site=y, '/app/cms/api/v1/sites/41f83db0-8ff7-11ec-9086-4336e79abafc/; '/app/website';; 'ec.editmysite.com',; 'https://170b1de606da70d897a7.cdn6.editmysite.com';; 'https://cdn3.editmysite.com/app/website/';; 'https://cdn5.editmysite.com';; 'https://drafts.editmysite.com';; 'https://images.editor.website';; 'https://www.editmysite.com';; 'publishedsite-xsrf';; 'square.site';; /resources/assets/js/prime/src/site/components/ui/circle.svg | https://www.edenhunter.com.au/: 70281 chars, user=n site=y, '/app/cms/api/v1/sites/41f83db0-8ff7-11ec-9086-4336e79abafc/; '/app/website';; 'ec.editmysite.com',; 'https://170b1de606da70d897a7.cdn6.editmysite.com';; 'https://cdn3.editmysite.com/app/website/';; 'https://cdn5.editmysite.com';; 'https://drafts.editmysite.com';; 'https://images.editor.website';; 'https://www.editmysite.com';; 'publishedsite-xsrf';; 'square.site';; /resources/assets/js/prime/src/site/components/ui/circle.svg | https://www.edenhunter.com.au/s/shop: 68539 chars, user=n site=y, '/app/cms/api/v1/sites/41f83db0-8ff7-11ec-9086-4336e79abafc/; '/app/website';; 'ec.editmysite.com',; 'https://170b1de606da70d897a7.cdn6.editmysite.com';; 'https://cdn3.editmysite.com/app/website/';; 'https://cdn5.editmysite.com';; 'https://drafts.editmysite.com';; 'https://images.editor.website';; 'https://www.editmysite.com';; 'publishedsite-xsrf';; 'square.",
-   "carried_over": 0
+   "ok": true,
+   "found": 1221,
+   "kept": 1094,
+   "square_user": "140825015"
   },
   "sidequest": {
    "ok": true,
@@ -37,9 +38,10 @@
    "kept": 32
   },
   "jojos": {
-   "ok": false,
-   "error": "RuntimeError: couldn't find Square site IDs. Clues: https://www.jojoshobbyhouse.com.au/shop/pokemon/TBJRM355AWMDB5SY5TYK53GM: 70658 chars, user=n site=y, '/app/website';; 'ec.editmysite.com',; 'https://63d4e100b9376635ab1f.cdn6.editmysite.com';; 'https://cdn3.editmysite.com/app/website/';; 'https://cdn5.editmysite.com';; 'https://drafts.editmysite.com';; 'https://images.editor.website';; 'https://www.editmysite.com';; 'publishedsite-xsrf';; 'square.site';; /resources/assets/js/prime/src/site/components/ui/circle.svg; ='/app/website/cms'; | https://www.jojoshobbyhouse.com.au/: 78311 chars, user=n site=y, '/app/website';; 'ec.editmysite.com',; 'https://63d4e100b9376635ab1f.cdn6.editmysite.com';; 'https://cdn3.editmysite.com/app/website/';; 'https://cdn5.editmysite.com';; 'https://drafts.editmysite.com';; 'https://images.editor.website';; 'https://www.editmysite.com';; 'publishedsite-xsrf';; 'square.site';; /resources/assets/js/prime/src/site/components/ui/circle.svg; ='/app/website/cms'; | https://www.jojoshobbyhouse.com.au/s/shop: 70358 chars, user=n site=y, '/app/website';; 'ec.editmysite.com',; 'https://63d4e100b9376635ab1f.cdn6.editmysite.com';; 'https://cdn3.editmysite.com/app/website/';; 'https://cdn5.editmysite.com';; 'https://drafts.editmysite.com';; 'https://images.editor.website';; 'https://www.editmysite.com';; 'publishedsite-xsrf';; 'square.site';; /resources/assets/js/prime/src/site/components/ui/circle.svg; ='/app/website/cms';",
-   "carried_over": 0
+   "ok": true,
+   "found": 417,
+   "kept": 136,
+   "square_user": "153888666"
   },
   "gatekeepers": {
    "ok": true,
