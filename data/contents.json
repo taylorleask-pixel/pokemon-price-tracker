@@ -3171,9 +3171,10 @@
    "Pokémon-EX foil"
   ],
   "exclude": [
-   "bundle of",
    "case",
-   "display"
+   "display",
+   "set of",
+   "bundle"
   ]
  },
  "Hoenn Power Tin": {
@@ -4046,5 +4047,208 @@
    "4 sticker sheets"
   ],
   "note": "6 packs from the calendar plus 3 from the Great Ball."
+ },
+ "Pyroar Box": {
+  "category": "other",
+  "match": [
+   "pyroar box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Pyroar foil promo",
+   "Blacksmith and Fiery Torch foils",
+   "Fire deck quick guide"
+  ]
+ },
+ "Jirachi GX Collection": {
+  "category": "other",
+  "match": [
+   "jirachi",
+   "gx",
+   "collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "full-art Jirachi-GX",
+   "Lucario and Decidueye foils",
+   "2 coins"
+  ]
+ },
+ "Let's Play Pokémon TCG Box": {
+  "category": "other",
+  "match": [
+   "play pok",
+   "tcg box"
+  ],
+  "packs": [],
+  "extras": [
+   "2 x 60-card decks",
+   "2 rulebooks",
+   "2 coins",
+   "2 deck boxes",
+   "2 playmats"
+  ]
+ },
+ "Trainer's Legendary Box": {
+  "category": "other",
+  "match": [
+   "legendary box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "60-card deck (Lugia or Ho-Oh)",
+   "2 Pokémon-EX",
+   "8 foil energy",
+   "coin",
+   "playmat",
+   "deck box"
+  ],
+  "separate_rows": true,
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "mythical",
+   "jumbo"
+  ]
+ },
+ "World of Illusions Box": {
+  "category": "other",
+  "match": [
+   "world of illusions"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Celebi Prime foil",
+   "oversize Zoroark foil"
+  ]
+ },
+ "Premium Checklane Blister (Gardevoir / Gallade)": {
+  "category": "other",
+  "match": [
+   "premium checklane blister"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "3 promos (Ralts, Kirlia, Gardevoir or Gallade)",
+   "coin"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "silver tempest",
+   "lost origin",
+   "evolving skies",
+   "battle styles",
+   "scarlet",
+   "violet",
+   "sword",
+   "shield"
+  ],
+  "separate_rows": true
+ },
+ "Checklane 2 Mini-Pack Blister": {
+  "category": "other",
+  "match": [
+   "checklane 2 mini"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "promo card",
+   "coin"
+  ],
+  "note": "2 mini packs of 3 cards each",
+  "separate_rows": true
+ },
+ "XY Sylveon Collection": {
+  "category": "other",
+  "match": [
+   "sylveon collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Sylveon and Eevee evolution foils",
+   "Fairy Energy",
+   "Sylveon figure"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "premium",
+   "vmax",
+   "ex"
+  ]
+ },
+ "Kalos Power Tins (Bundle of 3)": {
+  "category": "other",
+  "match": [
+   "kalos power tin",
+   "bundle"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 12
+   }
+  ],
+  "extras": [
+   "3 tins, each with a Pokémon-EX foil"
+  ]
+ },
+ "Kalos Starter Set Deck": {
+  "category": "other",
+  "match": [
+   "kalos starter set"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "60-card deck",
+   "playmat",
+   "coin",
+   "damage counters"
+  ],
+  "separate_rows": true
  }
 }
