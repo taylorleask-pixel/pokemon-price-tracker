@@ -149,6 +149,8 @@ def classify(title: str) -> dict:
                    r"magic the gathering|mtg|yu-gi-oh|yugioh|lorcana|riftbound|vanguard|flesh and blood|"
                    r"weiss schwarz|union arena|star wars|heropath|how to train your dragon|ravensburger|clementoni", t):
         skip = "not-pokemon"
+    elif re.search(r"\bpin$", t) and "collection" not in t:
+        skip = "not-sealed"  # a pin on its own
     elif any(w in t for w in NOT_SEALED):
         skip = "not-sealed"
     s = find_set(title)

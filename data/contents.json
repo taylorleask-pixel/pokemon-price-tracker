@@ -526,5 +526,39 @@
    "foil promo(s)",
    "coin or sticker sheet (varies by wave)"
   ]
+ },
+ "League Battle Deck": {
+  "category": "other",
+  "match": [
+   "league battle deck"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card ready-to-play deck",
+   "sleeves",
+   "deck box",
+   "accessories"
+  ]
+ },
+ "Deluxe Battle Deck": {
+  "category": "other",
+  "match": [
+   "deluxe battle deck"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card ready-to-play deck",
+   "accessories"
+  ]
+ },
+ "World Championships Deck": {
+  "category": "other",
+  "match": [
+   "world championships deck"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card tournament deck replica (not tournament legal)"
+  ]
  }
 }
