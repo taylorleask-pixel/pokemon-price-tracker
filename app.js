@@ -71,8 +71,12 @@ function buildRows() {
 
 function finishRow(r) {
   const c = r.product ? D.contents[r.product] : null;
-  r.contents = c;
-  if (c?.packs?.length) r.packs = c.packs.reduce((a, p) => a + p.qty, 0);
+  // contents.json wins; otherwise use what the title says (e.g. "Ancient Origins 3-Pack Blister")
+  if (!c?.packs) {
+    const auto = r.listings.find((l) => l.auto_packs)?.auto_packs;
+    r.contents = auto ? { packs: auto, auto: true } : c;
+  } else r.contents = c;
+  if (r.contents?.packs?.length) r.packs = r.contents.packs.reduce((a, p) => a + p.qty, 0);
   if (r.product) r.name = r.product;
   else if (SET_TABS.includes(r.category) && r.set) r.name = r.variant ? `${r.set} (${r.variant})` : r.set;
   else r.name = Object.entries(r.titles).sort((a, b) => b[1] - a[1])[0]?.[0] ?? r.key;
@@ -82,19 +86,21 @@ function finishRow(r) {
   r.lowStore = best?.store ?? null;
   r.perPack = r.low != null && r.packs ? r.low / r.packs : null;
   r.prices = inStock.map((l) => l.price);
-  r.needsContents = (r.category === "other" || r.category === "blister-multi") && !c?.packs?.length;
+  r.needsContents = (r.category === "other" || r.category === "blister-multi") &&
+    (!r.contents?.packs || r.contents.packs.some((p) => !p.set));
   return r;
 }
 
 function packsText(r) {
-  if (r.contents?.packs?.length) return r.contents.packs.map((p) => `x${p.qty} ${p.set}`).join(" ");
+  if (r.contents?.packs && !r.contents.packs.length) return "No booster packs";
+  if (r.contents?.packs?.length) return r.contents.packs.map((p) => `x${p.qty} ${p.set ?? "(sets not listed)"}`).join(" ");
   if (SET_TABS.includes(r.category) && r.set && r.packs) return `x${r.packs} ${r.set}`;
   return "";
 }
 
 function renderTabs() {
   const count = (id) => D.rows.filter((r) => r.category === id).length;
-  const needs = D.rows.filter((r) => r.needsContents).length;
+  const needs = D.rows.filter((r) => r.needsContents && !r.contents?.packs).length;
   $("#tabs").innerHTML =
     TAB_ORDER.map((id) => tabBtn(id, D.catName[id], count(id))).join("") + '<span class="gap"></span>' +
     EXTRA_TABS.map(([id, name]) => tabBtn(id, name, id === "needs" ? needs : null)).join("");
@@ -190,7 +196,8 @@ function renderTable(rows, { showPacks }) {
         title="${esc(l.title)}${l.available ? "" : " (sold out)"}${l.stale ? " · from last good check" : ""}"
         ${bg ? `style="background:${bg}"` : ""} onclick="event.stopPropagation()">${money(l.price)}</a></td>`;
     }).join("");
-    const sub = r.needsContents ? `<span class="sub warn">Contents unknown</span>` :
+    const sub = !r.contents?.packs && r.needsContents ? `<span class="sub warn">Contents unknown</span>` :
+      r.needsContents ? `<span class="sub warn">Sets not listed</span>` :
       (!showPacks && r.packs ? `<span class="sub">${r.packs} pack${r.packs > 1 ? "s" : ""}</span>` : "");
     const row = `<tr class="row" data-key="${esc(r.key)}" tabindex="0" aria-expanded="${S.open.has(r.key)}">
       <td class="year">${r.year ?? ""}</td>
@@ -221,7 +228,8 @@ function detailRow(r, cols) {
     <li><span><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(D.storeName[l.store])}</a>
       <span class="lt"> ${esc(l.title)}</span></span>
       <span>${money(l.price)} ${l.available ? "" : '<span class="per">sold out</span>'}</span></li>`).join("");
-  const extras = r.contents?.extras?.length ? `<p class="note">Also includes: ${esc(r.contents.extras.join(", "))}</p>` : "";
+  const extras = (r.contents?.extras?.length ? `<p class="note">Also includes: ${esc(r.contents.extras.join(", "))}</p>` : "") +
+    (r.contents?.note ? `<p class="note">${esc(r.contents.note)}</p>` : "");
   return `<tr class="detail"><td colspan="${cols}"><div class="detail-grid">
     <div><h3>Every listing</h3><ul class="listings">${list || "<li>No store lists this right now.</li>"}</ul>${extras}</div>
     <div><h3>Lowest price over time</h3>${spark(D.history[r.key])}</div></div></td></tr>`;
@@ -273,7 +281,8 @@ function renderSearch() {
 
 // ---- Products whose contents aren't known yet, ready to copy to Claude
 function renderNeeds() {
-  const rows = D.rows.filter((r) => r.needsContents).sort((a, b) => a.name.localeCompare(b.name));
+  // only products with no contents at all; "sets not listed" ones are as known as they'll get
+  const rows = D.rows.filter((r) => r.needsContents && !r.contents?.packs).sort((a, b) => a.name.localeCompare(b.name));
   const text = rows.map((r) => `- ${r.name}`).join("\n");
   $("#view").innerHTML = `<div class="panel">
     <p class="note">These products are on sale, but it isn't known which packs are inside. Copy the list and ask Claude

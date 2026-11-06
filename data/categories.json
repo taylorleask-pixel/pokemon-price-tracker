@@ -26,7 +26,8 @@
    "single pack blister",
    "single blister",
    "1-pack blister",
-   "1 pack blister"
+   "1 pack blister",
+   "booster blister pack"
   ]
  },
  {
@@ -40,7 +41,9 @@
    "2-pack",
    "3-pack",
    "two pack",
-   "three pack"
+   "three pack",
+   "2pk",
+   "3pk"
   ]
  },
  {

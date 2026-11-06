@@ -261,8 +261,7 @@ def scrape_square(store):
         if page >= int(meta.get("total_pages", page)):
             break
     # Square returns the whole shop, so keep only Pokémon things
-    return [i for i in items if "pokemon" in i["title"].lower().replace("é", "e")
-            or classify(i["title"])["set"]]
+    return [i for i in items if "pokemon" in i["title"].lower().replace("é", "e").replace("pokmon", "pokemon")]
 
 
 SCRAPERS = {"shopify": scrape_shopify, "misty": scrape_misty,

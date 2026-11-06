@@ -1,5 +1,5 @@
 {
- "_how": "Add products here to record what's inside them. key = product name as you want it shown. Matching store listings are found by 'match' words (all must appear in the title).",
+ "_how": "Add products here to record what's inside them. key = product name as shown. 'match' words must ALL appear in a store's title. 'exclude' words (default: case, display, set of) stop bigger versions matching. set null = packs whose sets aren't published. packs [] = confirmed no booster packs. 'note' shows on the site.",
  "Charizard ex Super-Premium Collection": {
   "category": "other",
   "match": [
@@ -30,5 +30,501 @@
    }
   ],
   "extras": []
+ },
+ "Ascended Heroes Mega Meganium ex Box": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "meganium",
+   "box"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Meganium ex foil promo",
+   "oversize lenticular promo"
+  ]
+ },
+ "Ascended Heroes Mega Feraligatr ex Box": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "feraligatr",
+   "box"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Feraligatr ex foil promo",
+   "oversize lenticular promo"
+  ]
+ },
+ "Ascended Heroes Mega Emboar ex Box": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "emboar",
+   "box"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Emboar ex foil promo",
+   "oversize lenticular promo"
+  ]
+ },
+ "Ascended Heroes First Partners Deluxe Pin Collection": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "deluxe pin"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "3 foil promos (Chikorita, Tepig, Totodile)",
+   "deluxe pin"
+  ]
+ },
+ "Ascended Heroes Tech Sticker Collection": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "tech sticker collection"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "foil promo (Charmander or Gastly)",
+   "tech sticker sheet"
+  ]
+ },
+ "Ascended Heroes Premium Poster Collection": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "poster collection"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "foil promo (Mega Lucario ex or Mega Gardevoir ex)",
+   "double-sided poster"
+  ]
+ },
+ "Ascended Heroes Collection (Erika)": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "collection",
+   "erika"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Erika's Tangela promo",
+   "Erika coin"
+  ]
+ },
+ "Ascended Heroes Collection (Larry)": {
+  "category": "other",
+  "match": [
+   "ascended heroes",
+   "collection",
+   "larry"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Larry promo",
+   "Larry coin"
+  ]
+ },
+ "30th Celebration Ultra-Premium Collection": {
+  "category": "other",
+  "match": [
+   "30th",
+   "celebration",
+   "ultra",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 29
+   },
+   {
+    "set": "Classic Collection",
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Pikachu ex and Eeveelution promos",
+   "playmat",
+   "case"
+  ]
+ },
+ "30th Celebration Ditto Premium Collection": {
+  "category": "other",
+  "match": [
+   "30th",
+   "celebration",
+   "ditto"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Ditto promo",
+   "acrylic display stand"
+  ]
+ },
+ "30th Celebration ex Box": {
+  "category": "other",
+  "match": [
+   "30th",
+   "celebration",
+   "ex box"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Sylveon ex or Greninja ex foil promo",
+   "oversize promo"
+  ]
+ },
+ "30th Celebration Poster Collection": {
+  "category": "other",
+  "match": [
+   "30th",
+   "celebration",
+   "poster"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Articuno, Zapdos and Moltres foil promos",
+   "wall poster"
+  ]
+ },
+ "30th Celebration Tech Sticker Collection": {
+  "category": "other",
+  "match": [
+   "30th",
+   "celebration",
+   "tech sticker"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Alolan Exeggutor or Lucario foil promo",
+   "tech stickers"
+  ]
+ },
+ "30th Celebration Knock Out Collection": {
+  "category": "other",
+  "match": [
+   "30th",
+   "celebration",
+   "knock"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Eevee foil promo",
+   "plastic coin"
+  ]
+ },
+ "30th Celebration Battle Deck": {
+  "category": "other",
+  "match": [
+   "30th",
+   "celebration",
+   "battle deck"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card all-foil deck (Espeon ex or Umbreon ex)",
+   "playmat",
+   "deck box"
+  ]
+ },
+ "Mega Moonlit Tin": {
+  "category": "other",
+  "match": [
+   "moonlit",
+   "tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Mega Gengar ex or Mega Clefable ex foil promo"
+  ],
+  "note": "Packs are from Mega Evolution-era sets (e.g. Chaos Rising, Perfect Order, Ascended Heroes); the mix varies."
+ },
+ "Mega Zygarde ex Premium Collection": {
+  "category": "other",
+  "match": [
+   "zygarde",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 8
+   }
+  ],
+  "extras": [
+   "Mega Zygarde ex foil promo",
+   "oversize lenticular promo",
+   "tech sticker"
+  ]
+ },
+ "Mega Charizard X ex Ultra-Premium Collection": {
+  "category": "other",
+  "match": [
+   "charizard x",
+   "ultra"
+  ],
+  "packs": [
+   {
+    "set": "Phantasmal Flames",
+    "qty": 4
+   },
+   {
+    "set": "Mega Evolution",
+    "qty": 4
+   },
+   {
+    "set": "Destined Rivals",
+    "qty": 4
+   },
+   {
+    "set": "Journey Together",
+    "qty": 4
+   },
+   {
+    "set": "Surging Sparks",
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Mega Charizard X ex and Oricorio ex promos",
+   "playmat",
+   "deck box",
+   "metal coin",
+   "65 sleeves",
+   "dice"
+  ],
+  "note": "18 packs. Pokémon doesn't name the sets; this is the typical mix seen in opened boxes."
+ },
+ "Unova Heavy Hitters Premium Collection": {
+  "category": "other",
+  "match": [
+   "unova heavy hitters"
+  ],
+  "packs": [
+   {
+    "set": "Black Bolt",
+    "qty": 6
+   },
+   {
+    "set": "White Flare",
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Zekrom ex, Reshiram ex, Victini and Zoroark promos",
+   "oversize Kyurem ex promo"
+  ]
+ },
+ "First Partner Illustration Collection": {
+  "category": "other",
+  "match": [
+   "first partner illustration"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "promo pack (3 of 9 illustration rare promos)",
+   "sticker sheet"
+  ]
+ },
+ "Kingambit Illustration Collection": {
+  "category": "other",
+  "match": [
+   "kingambit",
+   "illustration"
+  ],
+  "packs": [
+   {
+    "set": "Shrouded Fable",
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Kingambit full-art promo",
+   "Pawniard and Bisharp foil cards"
+  ]
+ },
+ "Prismatic Evolutions Super-Premium Collection": {
+  "category": "other",
+  "match": [
+   "prismatic",
+   "super",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": "Prismatic Evolutions",
+    "qty": 15
+   }
+  ],
+  "extras": [
+   "Eevee ex full-art promo",
+   "fuzzy Eevee deck box",
+   "playmat",
+   "65 sleeves"
+  ]
+ },
+ "Prismatic Evolutions Accessory Pouch Special Collection": {
+  "category": "other",
+  "match": [
+   "prismatic",
+   "pouch"
+  ],
+  "packs": [
+   {
+    "set": "Prismatic Evolutions",
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Eevee accessory pouch"
+  ]
+ },
+ "Blooming Waters Premium Collection": {
+  "category": "other",
+  "match": [
+   "blooming waters"
+  ],
+  "packs": [
+   {
+    "set": "151",
+    "qty": 12
+   }
+  ],
+  "extras": [
+   "Venusaur ex, Blastoise ex, Bulbasaur and Squirtle promos",
+   "oversize Blastoise ex"
+  ]
+ },
+ "Paldean Fates Tech Sticker Collection": {
+  "category": "other",
+  "match": [
+   "paldean fates",
+   "tech sticker"
+  ],
+  "packs": [
+   {
+    "set": "Paldean Fates",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Shiny Maschiff promo",
+   "tech sticker"
+  ]
+ },
+ "Pokémon Day 2026 Collection": {
+  "category": "other",
+  "match": [
+   "pokemon day 2026"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "Pokémon Day Pikachu promo",
+   "30th anniversary metal coin"
+  ]
+ },
+ "Knock Out Collection": {
+  "category": "other",
+  "match": [
+   "knock out collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "foil promo(s)",
+   "coin or sticker sheet (varies by wave)"
+  ]
  }
 }

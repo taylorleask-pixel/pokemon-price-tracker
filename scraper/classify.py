@@ -20,9 +20,18 @@ CONTENTS = {k: v for k, v in json.loads((DATA / "contents.json").read_text(encod
 ERA_NAMES = {"Scarlet & Violet", "Sword & Shield", "Sun & Moon", "XY", "Black & White",
              "Diamond & Pearl", "HeartGold & SoulSilver", "Mega Evolution", "Platinum", "EX Ruby & Sapphire"}
 
-FOREIGN = ["japanese", "chinese", "korean", "simplified", "traditional", "thai", "indonesian",
+FOREIGN = ["mega dream", "abyss eye", "mega symphonia", "mega brave", "munikis zero", "ninja spinner", "inferno x",
+           "terastal festival", "storm emeralda", "nullify", "gem pack", "pokemon center hiroshima",
+           "pokemon center tohoku", "pokemon center fukuoka", "vstar universe", "shiny treasure", "cyber judge",
+           "wild force", "crimson haze", "mask of change", "night wanderer", "paradise dragona", "super electric breaker",
+           "battle partners", "heat wave arena", "glory of team rocket", "black bolt (jp", "white flare (jp",
+           "japanese", "chinese", "korean", "simplified", "traditional", "thai", "indonesian",
            "(jp)", "[jp]", "jpn", "(cn)", "s-chinese", "t-chinese", "german", "french", "spanish", "italian"]
-NOT_SEALED = ["loungefly", "acryshield", "backpack", "crossbody", " bag", "pencil case", "meta zoo", "brick",
+NOT_SEALED = ["socks", "mug", "tumbler", "pop!", "bitty pop", "coin purse", "purse", "stationery", "jewellery",
+              "bar bell", "vinyl", "dvd", " cap", "key chain", "keychain", "dice", "damage counter", "coin marker",
+              "face washer", "face towel", "textile", "t-shirt", "ichiban kuji", "puzzle", "jigsaw", "piggy bank",
+              "cosplay", "drink bottle", "poster board", "acrylic stand", "file folder", "diorama", "card display frame",
+              "league challenge", "tournament entry", "event ticket", "mystery pack", "loungefly", "acryshield", "backpack", "crossbody", " bag", "pencil case", "meta zoo", "brick",
               "keychain", "plushie", "protector", "magnetic", "ultra pro", "dragon shield", "storage box",
               "playmat", "psa ", "psa-", "cgc", "bgs ", "graded", "slab", "single card", "sleeves", "deck box",
               "playmat", "binder", "portfolio", "toploader", "plush", "figure", "card sleeve"]
@@ -103,7 +112,12 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
         return sum(p["qty"] for p in contents["packs"])
     t = norm(title)
     t = re.sub(r"\btwo\b", "2", re.sub(r"\bthree\b", "3", re.sub(r"\bdouble\b", "2 pack", t)))
-    m = re.search(r"(\d+)[\s-]*(?:x\s*)?(?:booster\s*)?(?:packs?|boosters?)\b", t) or re.search(r"set of (\d+)", t)
+    bundles = re.search(r"booster bundles?.*set of (\d+)", t)
+    if bundles:
+        return 6 * int(bundles.group(1))  # a set of booster bundles, 6 packs each
+    m = re.search(r"(\d+)[\s-]*(?:x\s*)?(?:booster\s*)?(?:packs?|boosters?|pk|blisters?)\b", t) or re.search(r"set of (\d+)", t)
+    if cat["id"] == "etb" and m and int(m.group(1)) > 1:
+        return int(m.group(1))  # the title says how many packs
     if cat["id"] == "etb":
         base = 9 if s and s["year"] >= 2023 else 8
         return base + 2 if "pokemon cent" in t else base  # Pokémon Center ETBs have 2 extra packs
@@ -111,6 +125,11 @@ def pack_count(cat: dict, s: dict | None, title: str, contents: dict | None):
         if "bundle" in t:
             return None  # bundle case sizes vary, fill in via contents.json
         return 6 * 36
+    if cat["id"] in ("other", "blister-multi"):
+        if re.search(r"\bmini tin\b", t) and not re.search(r"display|set of|\d+ tins|case", t):
+            return 2  # every English mini tin has 2 packs
+        if re.search(r"build and battle box\b", t) and "display" not in t:
+            return 4  # every Build & Battle Box has 4 packs of its set
     if cat["id"] == "box" and "enhanced" in t:
         return 18  # Enhanced booster boxes hold 18 packs
     if cat["packs"]:
@@ -124,8 +143,12 @@ def classify(title: str) -> dict:
     if any(w in t for w in FOREIGN):
         skip = "foreign"
     elif re.search(r"(?<![\d/])\d{1,3}/\d{2,3}(?![\d/])|\breverse holo\b|\bholo\b(?!.*(box|pack|tin|collection))", t) \
-            or re.match(r"^\d{3}\s", t):
+            or (re.match(r"^\d{3}\s", t) and re.search(r"\b(holo|promo|foil)\b", t)):
         skip = "single"  # a single card, e.g. "082/94 Linoone Reverse Holo" - kept for the Gengar tracker
+    elif re.search(r"dragon ball|one piece|digimon|my hero academia|gundam|transformers|teenage mutant|disney|"
+                   r"magic the gathering|mtg|yu-gi-oh|yugioh|lorcana|riftbound|vanguard|flesh and blood|"
+                   r"weiss schwarz|union arena|star wars|heropath|how to train your dragon|ravensburger|clementoni", t):
+        skip = "not-pokemon"
     elif any(w in t for w in NOT_SEALED):
         skip = "not-sealed"
     s = find_set(title)
@@ -142,13 +165,18 @@ def classify(title: str) -> dict:
         key = f"{cat['id']}|{t}"
     else:
         key = f"{cat['id']}|{s['name']}" + (f"|{variant}" if variant else "")
+    packs = pack_count(cat, s, title, c_info)
+    auto = None
+    if not c_name and packs and cat["id"] in ("other", "blister-multi"):
+        auto = [{"set": s["name"] if s else None, "qty": packs}]
     return {
+        "auto_packs": auto,
         "variant": variant,
         "category": cat["id"],
         "set": s["name"] if s else None,
         "year": s["year"] if s else None,
         "product": c_name,
-        "packs": pack_count(cat, s, title, c_info),
+        "packs": packs,
         "key": key,
         "skip": skip,
     }
