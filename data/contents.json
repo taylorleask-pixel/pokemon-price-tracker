@@ -3748,5 +3748,303 @@
    "shiny",
    "gx box"
   ]
+ },
+ "BREAK Evolution Box": {
+  "category": "other",
+  "match": [
+   "break evolution box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "3 BREAK foil promos",
+   "oversize BREAK card"
+  ],
+  "separate_rows": true,
+  "note": "Checked Empoleon, Arcanine and Ho-Oh versions: all 5 packs."
+ },
+ "BW Sneak-Peek Tin": {
+  "category": "other",
+  "match": [
+   "sneak",
+   "peek tin"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "starter figure",
+   "starter promo",
+   "Black & White preview pack"
+  ],
+  "note": "4 packs from Call of Legends, HeartGold SoulSilver series or Platinum series"
+ },
+ "Clash of Legends Box": {
+  "category": "other",
+  "match": [
+   "clash of legends"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "2 LV.X cards",
+   "oversize LEGEND card"
+  ],
+  "separate_rows": true
+ },
+ "Alola Collection (Solgaleo / Lunala)": {
+  "category": "other",
+  "match": [
+   "alola collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Rowlet, Litten and Popplio foils",
+   "oversize GX card",
+   "figure",
+   "pin"
+  ],
+  "separate_rows": true
+ },
+ "Mythical Collection (Volcanion)": {
+  "category": "other",
+  "match": [
+   "mythical collection",
+   "volcanion"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "6 foil promos (Volcanion full art, Celebi, Jirachi, Darkrai, Victini, Keldeo)"
+  ]
+ },
+ "BREAKthrough Collector Chest": {
+  "category": "other",
+  "match": [
+   "breakthrough",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Hoopa, Pikachu and Chespin foils",
+   "coin",
+   "2 sticker sheets",
+   "mini album",
+   "notepad and 4 pencils"
+  ]
+ },
+ "Flashfire Collector Chest": {
+  "category": "other",
+  "match": [
+   "flashfire",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "3 foil promos",
+   "coin",
+   "2 sticker sheets",
+   "mini album",
+   "notepad and 4 pencils"
+  ]
+ },
+ "Phantom Forces Collector Chest": {
+  "category": "other",
+  "match": [
+   "phantom forces",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Treecko, Torchic and Mudkip foils",
+   "coin",
+   "2 sticker sheets",
+   "mini portfolio",
+   "notepad and 4 pencils"
+  ]
+ },
+ "Fall 2019 Collector Chest": {
+  "category": "other",
+  "match": [
+   "fall 2019",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Armored Mewtwo, Pikachu and Charizard foils",
+   "coin",
+   "2 sticker sheets",
+   "mini portfolio",
+   "notepad and 4 pencils"
+  ]
+ },
+ "Spring 2022 Collector Chest": {
+  "category": "other",
+  "match": [
+   "spring 2022",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Rowlet, Cyndaquil and Oshawott foils",
+   "coin",
+   "4 sticker sheets",
+   "mini portfolio",
+   "notebook"
+  ]
+ },
+ "Spring 2022 Collector Bundle": {
+  "category": "other",
+  "match": [
+   "spring 2022",
+   "collector bundle"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 7
+   }
+  ],
+  "extras": [
+   "Rowlet, Cyndaquil and Oshawott foils",
+   "coin",
+   "4 sticker sheets",
+   "notebook"
+  ]
+ },
+ "Deck Crafter's Collection": {
+  "category": "other",
+  "match": [
+   "deck crafter"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Meowth ex foil",
+   "39 Trainer cards",
+   "Deck Crafter's Guide",
+   "9 dividers"
+  ]
+ },
+ "Eevee Treasure Chest Tin": {
+  "category": "other",
+  "match": [
+   "eevee",
+   "treasure chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 5
+   }
+  ],
+  "extras": [
+   "Vaporeon, Jolteon and Flareon foils",
+   "coin",
+   "4 sticker sheets",
+   "mini portfolio",
+   "notepad"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "3-pack",
+   "3 pack",
+   "poke ball",
+   "poké ball"
+  ]
+ },
+ "Costco Evolving Skies ETB + Eevee Evolutions Tin": {
+  "category": "other",
+  "match": [
+   "costco",
+   "evolving skies",
+   "tin"
+  ],
+  "packs": [
+   {
+    "set": "Evolving Skies",
+    "qty": 8
+   },
+   {
+    "set": null,
+    "qty": 4
+   }
+  ],
+  "extras": [
+   "Evolving Skies ETB extras (65 sleeves, 45 energy, dice, guide)",
+   "Eevee Evolutions tin V card"
+  ],
+  "note": "8 packs from the ETB plus 4 from the Eevee Evolutions tin (tin version varies)."
+ },
+ "Costco Holiday Calendar + Great Ball Bundle": {
+  "category": "other",
+  "match": [
+   "holiday calendar",
+   "great ball"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 9
+   }
+  ],
+  "extras": [
+   "8 festive foils",
+   "7 three-card packs",
+   "2 coins",
+   "4 sticker sheets"
+  ],
+  "note": "6 packs from the calendar plus 3 from the Great Ball."
  }
 }
