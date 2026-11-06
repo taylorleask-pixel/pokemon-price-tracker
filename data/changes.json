@@ -1,6 +1,83 @@
 {
-"updated": "2026-11-06T22:14+10:00",
+"updated": "2026-11-06T22:20+10:00",
 "events": [
+{
+"time": "2026-11-06T22:20+10:00",
+"store": "misty",
+"key": "other|pokemon tcg swsh basic energy box",
+"title": "Pokémon TCG: SWSH Basic Energy Box",
+"url": "https://mistyscollectables.com.au/sealed/product/pok-mon-tcg-swsh-basic-energy-box",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 17.64
+},
+{
+"time": "2026-11-06T22:20+10:00",
+"store": "raptor",
+"key": "other|pokemon booster box acrylic case",
+"title": "Pokemon Booster Box Acrylic Case",
+"url": "https://raptorgames.com/products/pokemon-booster-box-acrylic-case",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 35.0
+},
+{
+"time": "2026-11-06T22:20+10:00",
+"store": "raptor",
+"key": "other|pokemon center euic psyduck magnet",
+"title": "Pokemon Center: EUIC Psyduck Magnet",
+"url": "https://raptorgames.com/products/pokemon-center-euic-psyduck-magnet",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 30.0
+},
+{
+"time": "2026-11-06T22:20+10:00",
+"store": "raptor",
+"key": "other|pokemon center deck case region art",
+"title": "Pokemon Center: Deck Case Region Art",
+"url": "https://raptorgames.com/products/pokemon-center-deck-case-region-art",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 10.0
+},
+{
+"time": "2026-11-06T22:20+10:00",
+"store": "raptor",
+"key": "other|pokemon center world championship 2025 socal pikachu flat brim hat",
+"title": "POKEMON CENTER World Championship 2025 SoCal Pikachu Flat Brim Hat",
+"url": "https://raptorgames.com/products/pokemon-center-world-championship-2025-socal-pikachu-flat-brim-hat",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 50.0
+},
+{
+"time": "2026-11-06T22:20+10:00",
+"store": "jojos",
+"key": "other|pokemon card game double deck case kouki hikari and teru sho",
+"title": "Pokemon Card Game Double Deck Case Kouki Hikari & Teru Sho",
+"url": "https://www.jojoshobbyhouse.com.au/product/pokemon-card-game-double-deck-case-kouki-hikari-teru-sho/3X67RHPUNH4BO3ZRMNGRUEBB",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 58.0
+},
+{
+"time": "2026-11-06T22:20+10:00",
+"store": "jojos",
+"key": "other|pokemon card game deck case erika's holiday tangela",
+"title": "Pokemon Card Game Deck Case Erika's Holiday Tangela",
+"url": "https://www.jojoshobbyhouse.com.au/product/pokemon-card-game-deck-case-erika-s-holiday-tangela/TDKPKUXGRKMRZRBVSQCIPROX",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 20.0
+},
 {
 "time": "2026-11-06T22:03+10:00",
 "store": "eden",
