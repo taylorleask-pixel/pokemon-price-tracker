@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:58+10:00",
+ "updated": "2026-11-06T22:03+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -14,7 +14,7 @@
   "eden": {
    "ok": true,
    "found": 77,
-   "kept": 52
+   "kept": 46
   },
   "sidequest": {
    "ok": true,
@@ -33,8 +33,8 @@
   },
   "dorky": {
    "ok": true,
-   "found": 0,
-   "kept": 0
+   "found": 35,
+   "kept": 27
   },
   "jojos": {
    "ok": true,

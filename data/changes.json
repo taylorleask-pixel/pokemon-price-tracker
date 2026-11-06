@@ -1,6 +1,72 @@
 {
-"updated": "2026-11-06T21:58+10:00",
+"updated": "2026-11-06T22:03+10:00",
 "events": [
+{
+"time": "2026-11-06T22:03+10:00",
+"store": "eden",
+"key": "JP|other|pokemon tcg - zeraora vstar 042 172 japanese tcg grading 10 fls card single",
+"title": "Pokemon TCG - Zeraora Vstar 042/172 Japanese TCG Grading 10 FLS Card Single",
+"url": "https://www.edenhunter.com.au/product/pokemon-tcg-zeraora-vstar-042-172-japanese-tcg-grading-10-fls-card-single/49052",
+"category": "other",
+"lang": "JP",
+"type": "removed",
+"old": 80.0
+},
+{
+"time": "2026-11-06T22:03+10:00",
+"store": "eden",
+"key": "KOR|other|pokemon - cresselia 30th anniversary korean 152 103",
+"title": "Pokemon - cresselia 30th anniversary Korean 152/103",
+"url": "https://www.edenhunter.com.au/product/pokemon-cresselia-30th-anniversary-korean-152-103/57IYVGD4IGNILKM75XF7MBUJ",
+"category": "other",
+"lang": "KOR",
+"type": "removed",
+"old": 39.0
+},
+{
+"time": "2026-11-06T22:03+10:00",
+"store": "eden",
+"key": "KOR|other|pokemon - pikachu ex 30th anniversary korean 047 103",
+"title": "Pokemon - Pikachu EX 30th Anniversary Korean 047/103",
+"url": "https://www.edenhunter.com.au/product/pokemon-pikachu-ex-30th-anniversary-korean-047-103/63QQZQS77PHEJJBCC6Z4S3S6",
+"category": "other",
+"lang": "KOR",
+"type": "removed",
+"old": 13.0
+},
+{
+"time": "2026-11-06T22:03+10:00",
+"store": "eden",
+"key": "KOR|other|pokemon - greninja ex 30th anniversary korean 015 103",
+"title": "Pokemon - Greninja EX 30th Anniversary Korean 015/103",
+"url": "https://www.edenhunter.com.au/product/pokemon-greninja-ex-30th-anniversary-korean-015-103/DEAP6OWAH2ZJR22SQU36Y6IS",
+"category": "other",
+"lang": "KOR",
+"type": "removed",
+"old": 24.0
+},
+{
+"time": "2026-11-06T22:03+10:00",
+"store": "eden",
+"key": "KOR|other|pokemon - mew 30th anniversary korean 135 103",
+"title": "Pokemon - Mew 30th Anniversary Korean 135/103",
+"url": "https://www.edenhunter.com.au/product/pokemon-mew-30th-anniversary-korean-135-103/UKXICRZW26JA4W2LDPC6FRF3",
+"category": "other",
+"lang": "KOR",
+"type": "removed",
+"old": 98.0
+},
+{
+"time": "2026-11-06T22:03+10:00",
+"store": "eden",
+"key": "KOR|other|pokemon - solgaleo 30th anniversary korean 158 103",
+"title": "Pokemon - Solgaleo 30th Anniversary Korean 158/103",
+"url": "https://www.edenhunter.com.au/product/pokemon-solgaleo-30th-anniversary-korean-158-103/V4C3VZ47CHBR3NUMOFUVPNV4",
+"category": "other",
+"lang": "KOR",
+"type": "removed",
+"old": 25.0
+},
 {
 "time": "2026-11-06T21:58+10:00",
 "store": "misty",
