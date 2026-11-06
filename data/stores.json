@@ -1,0 +1,56 @@
+[
+ {
+  "id": "misty",
+  "name": "Misty's Collectables",
+  "platform": "misty",
+  "url": "https://mistyscollectables.com.au/sealed?game=pokemon"
+ },
+ {
+  "id": "evo",
+  "name": "Evo Games",
+  "platform": "square",
+  "url": "https://www.evogames.com.au/shop/pokemon-tcg/2"
+ },
+ {
+  "id": "eden",
+  "name": "Eden Hunters",
+  "platform": "square",
+  "url": "https://www.edenhunter.com.au/shop/pokemon/O7MZU3S2ZZWAQWGKDO7YXHMW"
+ },
+ {
+  "id": "sidequest",
+  "name": "Side Quest",
+  "platform": "shopify",
+  "url": "https://sidequestcards.com.au/collections/pokemon"
+ },
+ {
+  "id": "raptor",
+  "name": "Raptor Games",
+  "platform": "shopify",
+  "url": "https://raptorgames.com/collections/pokemon-trading-card-game"
+ },
+ {
+  "id": "everson",
+  "name": "Everson Emporium",
+  "platform": "shopify",
+  "url": "https://eetcg.com.au/collections/pokemon-tcg"
+ },
+ {
+  "id": "dorky",
+  "name": "Dorky Desires",
+  "platform": "woocommerce",
+  "url": "https://www.dorkydesires.com.au/product-category/trading-card-games/pokemon/"
+ },
+ {
+  "id": "jojos",
+  "name": "JoJo's Hobbyhouse",
+  "platform": "square",
+  "url": "https://www.jojoshobbyhouse.com.au/shop/pokemon/TBJRM355AWMDB5SY5TYK53GM"
+ },
+ {
+  "id": "gatekeepers",
+  "name": "Gate Keepers",
+  "platform": "shopify",
+  "url": "https://gatekeeperstcg.com/collections/pokemon"
+ }
+]

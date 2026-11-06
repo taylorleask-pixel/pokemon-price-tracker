@@ -1,0 +1,34 @@
+{
+ "_how": "Add products here to record what's inside them. key = product name as you want it shown. Matching store listings are found by 'match' words (all must appear in the title).",
+ "Charizard ex Super-Premium Collection": {
+  "category": "other",
+  "match": [
+   "charizard",
+   "super",
+   "premium"
+  ],
+  "packs": [
+   {
+    "set": "Paradox Rift",
+    "qty": 2
+   },
+   {
+    "set": "Stellar Crown",
+    "qty": 2
+   },
+   {
+    "set": "Obsidian Flames",
+    "qty": 2
+   },
+   {
+    "set": "Temporal Forces",
+    "qty": 2
+   },
+   {
+    "set": "Twilight Masquerade",
+    "qty": 2
+   }
+  ],
+  "extras": []
+ }
+}

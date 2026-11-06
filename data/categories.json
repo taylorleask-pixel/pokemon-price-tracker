@@ -1,0 +1,83 @@
+[
+ {
+  "id": "case",
+  "name": "Booster Cases",
+  "packs": null,
+  "note": "Case of boxes or bundles",
+  "keywords": [
+   "case"
+  ]
+ },
+ {
+  "id": "box",
+  "name": "Booster Boxes",
+  "packs": 36,
+  "keywords": [
+   "booster box",
+   "booster display",
+   "display box",
+   "36 pack",
+   "36-pack"
+  ]
+ },
+ {
+  "id": "bundle",
+  "name": "Booster Bundles",
+  "packs": 6,
+  "keywords": [
+   "booster bundle",
+   "6 pack bundle",
+   "6-pack bundle"
+  ]
+ },
+ {
+  "id": "etb",
+  "name": "Elite Trainer Boxes",
+  "packs": null,
+  "keywords": [
+   "elite trainer box",
+   "etb"
+  ]
+ },
+ {
+  "id": "blister-single",
+  "name": "Single Blisters",
+  "packs": 1,
+  "keywords": [
+   "sleeved",
+   "checklane",
+   "single blister",
+   "1 pack blister",
+   "1-pack blister"
+  ]
+ },
+ {
+  "id": "blister-multi",
+  "name": "Multi-pack Blisters",
+  "packs": null,
+  "keywords": [
+   "blister",
+   "2-pack",
+   "3-pack",
+   "3 pack",
+   "2 pack"
+  ]
+ },
+ {
+  "id": "pack",
+  "name": "Booster Packs",
+  "packs": 1,
+  "keywords": [
+   "booster pack",
+   "booster (single)",
+   "single pack",
+   "pack"
+  ]
+ },
+ {
+  "id": "other",
+  "name": "Other",
+  "packs": null,
+  "keywords": []
+ }
+]

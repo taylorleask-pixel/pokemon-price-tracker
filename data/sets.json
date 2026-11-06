@@ -1,0 +1,689 @@
+[
+ {
+  "year": 2026,
+  "name": "Delta Reign",
+  "aliases": []
+ },
+ {
+  "year": 2026,
+  "name": "30th Celebration",
+  "aliases": [
+   "30th anniversary celebration",
+   "30th celebration"
+  ]
+ },
+ {
+  "year": 2026,
+  "name": "Pitch Black",
+  "aliases": []
+ },
+ {
+  "year": 2026,
+  "name": "Chaos Rising",
+  "aliases": []
+ },
+ {
+  "year": 2026,
+  "name": "Perfect Order",
+  "aliases": []
+ },
+ {
+  "year": 2026,
+  "name": "Ascended Heroes",
+  "aliases": []
+ },
+ {
+  "year": 2025,
+  "name": "Phantasmal Flames",
+  "aliases": [
+   "phantasmal flame"
+  ]
+ },
+ {
+  "year": 2025,
+  "name": "Mega Evolution",
+  "aliases": [
+   "mega evolution base",
+   "mega evolution booster",
+   "me01"
+  ]
+ },
+ {
+  "year": 2025,
+  "name": "White Flare",
+  "aliases": []
+ },
+ {
+  "year": 2025,
+  "name": "Black Bolt",
+  "aliases": []
+ },
+ {
+  "year": 2025,
+  "name": "Destined Rivals",
+  "aliases": []
+ },
+ {
+  "year": 2025,
+  "name": "Journey Together",
+  "aliases": []
+ },
+ {
+  "year": 2025,
+  "name": "Prismatic Evolutions",
+  "aliases": []
+ },
+ {
+  "year": 2024,
+  "name": "Surging Sparks",
+  "aliases": []
+ },
+ {
+  "year": 2024,
+  "name": "Stellar Crown",
+  "aliases": []
+ },
+ {
+  "year": 2024,
+  "name": "Shrouded Fable",
+  "aliases": []
+ },
+ {
+  "year": 2024,
+  "name": "Twilight Masquerade",
+  "aliases": []
+ },
+ {
+  "year": 2024,
+  "name": "Temporal Forces",
+  "aliases": []
+ },
+ {
+  "year": 2024,
+  "name": "Paldean Fates",
+  "aliases": []
+ },
+ {
+  "year": 2023,
+  "name": "Paradox Rift",
+  "aliases": []
+ },
+ {
+  "year": 2023,
+  "name": "151",
+  "aliases": [
+   "scarlet & violet 151",
+   "sv 151",
+   "151 "
+  ]
+ },
+ {
+  "year": 2023,
+  "name": "Obsidian Flames",
+  "aliases": []
+ },
+ {
+  "year": 2023,
+  "name": "Paldea Evolved",
+  "aliases": []
+ },
+ {
+  "year": 2023,
+  "name": "Scarlet & Violet",
+  "aliases": [
+   "scarlet and violet base",
+   "sv base",
+   "scarlet & violet base",
+   "sv01"
+  ]
+ },
+ {
+  "year": 2023,
+  "name": "Crown Zenith",
+  "aliases": []
+ },
+ {
+  "year": 2022,
+  "name": "Silver Tempest",
+  "aliases": []
+ },
+ {
+  "year": 2022,
+  "name": "Lost Origin",
+  "aliases": []
+ },
+ {
+  "year": 2022,
+  "name": "Pokémon GO",
+  "aliases": [
+   "pokemon go"
+  ]
+ },
+ {
+  "year": 2022,
+  "name": "Astral Radiance",
+  "aliases": []
+ },
+ {
+  "year": 2022,
+  "name": "Brilliant Stars",
+  "aliases": []
+ },
+ {
+  "year": 2021,
+  "name": "Fusion Strike",
+  "aliases": []
+ },
+ {
+  "year": 2021,
+  "name": "Celebrations",
+  "aliases": []
+ },
+ {
+  "year": 2021,
+  "name": "Evolving Skies",
+  "aliases": []
+ },
+ {
+  "year": 2021,
+  "name": "Chilling Reign",
+  "aliases": []
+ },
+ {
+  "year": 2021,
+  "name": "Battle Styles",
+  "aliases": []
+ },
+ {
+  "year": 2021,
+  "name": "Shining Fates",
+  "aliases": []
+ },
+ {
+  "year": 2020,
+  "name": "Vivid Voltage",
+  "aliases": []
+ },
+ {
+  "year": 2020,
+  "name": "Champion's Path",
+  "aliases": [
+   "champions path"
+  ]
+ },
+ {
+  "year": 2020,
+  "name": "Darkness Ablaze",
+  "aliases": []
+ },
+ {
+  "year": 2020,
+  "name": "Rebel Clash",
+  "aliases": []
+ },
+ {
+  "year": 2020,
+  "name": "Sword & Shield",
+  "aliases": [
+   "sword and shield base",
+   "swsh base"
+  ]
+ },
+ {
+  "year": 2019,
+  "name": "Cosmic Eclipse",
+  "aliases": []
+ },
+ {
+  "year": 2019,
+  "name": "Hidden Fates",
+  "aliases": []
+ },
+ {
+  "year": 2019,
+  "name": "Unified Minds",
+  "aliases": []
+ },
+ {
+  "year": 2019,
+  "name": "Unbroken Bonds",
+  "aliases": []
+ },
+ {
+  "year": 2019,
+  "name": "Detective Pikachu",
+  "aliases": []
+ },
+ {
+  "year": 2019,
+  "name": "Team Up",
+  "aliases": []
+ },
+ {
+  "year": 2018,
+  "name": "Lost Thunder",
+  "aliases": []
+ },
+ {
+  "year": 2018,
+  "name": "Dragon Majesty",
+  "aliases": []
+ },
+ {
+  "year": 2018,
+  "name": "Celestial Storm",
+  "aliases": []
+ },
+ {
+  "year": 2018,
+  "name": "Forbidden Light",
+  "aliases": []
+ },
+ {
+  "year": 2018,
+  "name": "Ultra Prism",
+  "aliases": []
+ },
+ {
+  "year": 2017,
+  "name": "Crimson Invasion",
+  "aliases": []
+ },
+ {
+  "year": 2017,
+  "name": "Shining Legends",
+  "aliases": []
+ },
+ {
+  "year": 2017,
+  "name": "Burning Shadows",
+  "aliases": []
+ },
+ {
+  "year": 2017,
+  "name": "Guardians Rising",
+  "aliases": []
+ },
+ {
+  "year": 2017,
+  "name": "Sun & Moon",
+  "aliases": [
+   "sun and moon base",
+   "sm base"
+  ]
+ },
+ {
+  "year": 2016,
+  "name": "Evolutions",
+  "aliases": []
+ },
+ {
+  "year": 2016,
+  "name": "Steam Siege",
+  "aliases": []
+ },
+ {
+  "year": 2016,
+  "name": "Fates Collide",
+  "aliases": []
+ },
+ {
+  "year": 2016,
+  "name": "Generations",
+  "aliases": []
+ },
+ {
+  "year": 2016,
+  "name": "BREAKpoint",
+  "aliases": []
+ },
+ {
+  "year": 2015,
+  "name": "BREAKthrough",
+  "aliases": []
+ },
+ {
+  "year": 2015,
+  "name": "Ancient Origins",
+  "aliases": []
+ },
+ {
+  "year": 2015,
+  "name": "Roaring Skies",
+  "aliases": []
+ },
+ {
+  "year": 2015,
+  "name": "Double Crisis",
+  "aliases": []
+ },
+ {
+  "year": 2015,
+  "name": "Primal Clash",
+  "aliases": []
+ },
+ {
+  "year": 2014,
+  "name": "Phantom Forces",
+  "aliases": []
+ },
+ {
+  "year": 2014,
+  "name": "Furious Fists",
+  "aliases": []
+ },
+ {
+  "year": 2014,
+  "name": "Flashfire",
+  "aliases": []
+ },
+ {
+  "year": 2014,
+  "name": "XY",
+  "aliases": [
+   "xy base"
+  ]
+ },
+ {
+  "year": 2013,
+  "name": "Legendary Treasures",
+  "aliases": []
+ },
+ {
+  "year": 2013,
+  "name": "Plasma Blast",
+  "aliases": []
+ },
+ {
+  "year": 2013,
+  "name": "Plasma Freeze",
+  "aliases": []
+ },
+ {
+  "year": 2013,
+  "name": "Plasma Storm",
+  "aliases": []
+ },
+ {
+  "year": 2012,
+  "name": "Boundaries Crossed",
+  "aliases": []
+ },
+ {
+  "year": 2012,
+  "name": "Dragon Vault",
+  "aliases": []
+ },
+ {
+  "year": 2012,
+  "name": "Dragons Exalted",
+  "aliases": []
+ },
+ {
+  "year": 2012,
+  "name": "Dark Explorers",
+  "aliases": []
+ },
+ {
+  "year": 2012,
+  "name": "Next Destinies",
+  "aliases": []
+ },
+ {
+  "year": 2011,
+  "name": "Noble Victories",
+  "aliases": []
+ },
+ {
+  "year": 2011,
+  "name": "Emerging Powers",
+  "aliases": []
+ },
+ {
+  "year": 2011,
+  "name": "Black & White",
+  "aliases": [
+   "black and white base"
+  ]
+ },
+ {
+  "year": 2011,
+  "name": "Call of Legends",
+  "aliases": []
+ },
+ {
+  "year": 2010,
+  "name": "Triumphant",
+  "aliases": []
+ },
+ {
+  "year": 2010,
+  "name": "Undaunted",
+  "aliases": []
+ },
+ {
+  "year": 2010,
+  "name": "Unleashed",
+  "aliases": []
+ },
+ {
+  "year": 2010,
+  "name": "HeartGold & SoulSilver",
+  "aliases": [
+   "heartgold soulsilver",
+   "hgss"
+  ]
+ },
+ {
+  "year": 2009,
+  "name": "Arceus",
+  "aliases": []
+ },
+ {
+  "year": 2009,
+  "name": "Supreme Victors",
+  "aliases": []
+ },
+ {
+  "year": 2009,
+  "name": "Rising Rivals",
+  "aliases": []
+ },
+ {
+  "year": 2009,
+  "name": "Platinum",
+  "aliases": []
+ },
+ {
+  "year": 2008,
+  "name": "Stormfront",
+  "aliases": []
+ },
+ {
+  "year": 2008,
+  "name": "Legends Awakened",
+  "aliases": []
+ },
+ {
+  "year": 2008,
+  "name": "Majestic Dawn",
+  "aliases": []
+ },
+ {
+  "year": 2008,
+  "name": "Great Encounters",
+  "aliases": []
+ },
+ {
+  "year": 2007,
+  "name": "Secret Wonders",
+  "aliases": []
+ },
+ {
+  "year": 2007,
+  "name": "Mysterious Treasures",
+  "aliases": []
+ },
+ {
+  "year": 2007,
+  "name": "Diamond & Pearl",
+  "aliases": [
+   "diamond and pearl base"
+  ]
+ },
+ {
+  "year": 2007,
+  "name": "EX Power Keepers",
+  "aliases": []
+ },
+ {
+  "year": 2006,
+  "name": "EX Dragon Frontiers",
+  "aliases": []
+ },
+ {
+  "year": 2006,
+  "name": "EX Crystal Guardians",
+  "aliases": []
+ },
+ {
+  "year": 2006,
+  "name": "EX Holon Phantoms",
+  "aliases": []
+ },
+ {
+  "year": 2006,
+  "name": "EX Legend Maker",
+  "aliases": []
+ },
+ {
+  "year": 2005,
+  "name": "EX Delta Species",
+  "aliases": []
+ },
+ {
+  "year": 2005,
+  "name": "EX Unseen Forces",
+  "aliases": []
+ },
+ {
+  "year": 2005,
+  "name": "EX Emerald",
+  "aliases": []
+ },
+ {
+  "year": 2005,
+  "name": "EX Deoxys",
+  "aliases": []
+ },
+ {
+  "year": 2004,
+  "name": "EX Team Rocket Returns",
+  "aliases": []
+ },
+ {
+  "year": 2004,
+  "name": "EX FireRed & LeafGreen",
+  "aliases": []
+ },
+ {
+  "year": 2004,
+  "name": "EX Hidden Legends",
+  "aliases": []
+ },
+ {
+  "year": 2004,
+  "name": "EX Team Magma vs Team Aqua",
+  "aliases": []
+ },
+ {
+  "year": 2003,
+  "name": "EX Dragon",
+  "aliases": []
+ },
+ {
+  "year": 2003,
+  "name": "EX Sandstorm",
+  "aliases": []
+ },
+ {
+  "year": 2003,
+  "name": "EX Ruby & Sapphire",
+  "aliases": []
+ },
+ {
+  "year": 2003,
+  "name": "Skyridge",
+  "aliases": []
+ },
+ {
+  "year": 2003,
+  "name": "Aquapolis",
+  "aliases": []
+ },
+ {
+  "year": 2002,
+  "name": "Expedition Base Set",
+  "aliases": []
+ },
+ {
+  "year": 2002,
+  "name": "Legendary Collection",
+  "aliases": []
+ },
+ {
+  "year": 2002,
+  "name": "Neo Destiny",
+  "aliases": []
+ },
+ {
+  "year": 2001,
+  "name": "Neo Revelation",
+  "aliases": []
+ },
+ {
+  "year": 2001,
+  "name": "Neo Discovery",
+  "aliases": []
+ },
+ {
+  "year": 2000,
+  "name": "Neo Genesis",
+  "aliases": []
+ },
+ {
+  "year": 2000,
+  "name": "Gym Challenge",
+  "aliases": []
+ },
+ {
+  "year": 2000,
+  "name": "Gym Heroes",
+  "aliases": []
+ },
+ {
+  "year": 2000,
+  "name": "Team Rocket",
+  "aliases": []
+ },
+ {
+  "year": 2000,
+  "name": "Base Set 2",
+  "aliases": []
+ },
+ {
+  "year": 1999,
+  "name": "Fossil",
+  "aliases": []
+ },
+ {
+  "year": 1999,
+  "name": "Jungle",
+  "aliases": []
+ },
+ {
+  "year": 1999,
+  "name": "Base Set",
+  "aliases": []
+ }
+]
