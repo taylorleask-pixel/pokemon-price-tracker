@@ -1,6 +1,30 @@
 {
-"updated": "2026-11-07T20:12+10:00",
+"updated": "2026-11-08T08:49+10:00",
 "events": [
+{
+"time": "2026-11-08T08:49+10:00",
+"store": "misty",
+"key": "box|Scarlet & Violet",
+"title": "Scarlet & Violet Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 493.66,
+"new": 492.67
+},
+{
+"time": "2026-11-08T08:49+10:00",
+"store": "sidequest",
+"key": "etb|Fusion Strike",
+"title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
+"url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
+"category": "etb",
+"lang": "EN",
+"type": "price-up",
+"old": 829.5,
+"new": 846.3
+},
 {
 "time": "2026-11-07T20:12+10:00",
 "store": "raptor",
