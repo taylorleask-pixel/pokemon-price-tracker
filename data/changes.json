@@ -1,6 +1,17 @@
 {
-"updated": "2026-11-07T11:01+10:00",
+"updated": "2026-11-07T20:12+10:00",
 "events": [
+{
+"time": "2026-11-07T20:12+10:00",
+"store": "raptor",
+"key": "pack|Pitch Black",
+"title": "Pokemon TCG: Mega Evolution Pitch Black Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "sold-out",
+"old": 12.0
+},
 {
 "time": "2026-11-07T11:01+10:00",
 "store": "misty",

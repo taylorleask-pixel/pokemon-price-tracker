@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-07T11:01+10:00",
+"updated": "2026-11-07T20:12+10:00",
 "listings": [
 {
 "store": "misty",
@@ -20706,8 +20706,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -20731,8 +20731,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -24890,7 +24890,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution Pitch Black Booster Pack",
 "price": 12.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-pitch-black-booster-pack",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/a4f1d9edaaaf4fce9d9978141f4b23a8_Original.jpg?v=1783911928",
 "lang": "EN",
@@ -24904,7 +24904,7 @@
 "key": "pack|Pitch Black",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-07T20:12+10:00"
 },
 {
 "store": "raptor",
