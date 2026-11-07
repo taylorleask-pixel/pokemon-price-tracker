@@ -4418,7 +4418,8 @@
    "4 x Charizard ex Super-Premium Collection"
   ],
   "exclude": [
-   "set of"
+   "set of",
+   "showcase"
   ]
  },
  "Combined Powers Premium Collection Case": {
@@ -4437,7 +4438,8 @@
    "6 x Combined Powers Premium Collection"
   ],
   "exclude": [
-   "set of"
+   "set of",
+   "showcase"
   ]
  },
  "Dark Powers ex Special Collection Case": {
@@ -4456,7 +4458,8 @@
    "6 x Dark Powers ex Special Collection"
   ],
   "exclude": [
-   "set of"
+   "set of",
+   "showcase"
   ]
  },
  "Iono Premium Tournament Collection Display": {
@@ -4496,7 +4499,8 @@
    "4 x Professor Juniper Premium Tournament Collection"
   ],
   "exclude": [
-   "set of"
+   "set of",
+   "showcase"
   ]
  },
  "Lillie Premium Tournament Collection Display": {
@@ -4517,7 +4521,8 @@
   ],
   "exclude": [
    "set of",
-   "6 box"
+   "6 box",
+   "showcase"
   ]
  },
  "Poké Ball Tin Display": {
@@ -4586,5 +4591,880 @@
   ],
   "separate_rows": true,
   "note": "Checked 151, Paldea Friends, Paldean Fates, Lumiose City, Kanto Power, Mega Heroes and Galar Pals displays: 10 tins each."
+ },
+ "Journey Together Blister Pack (single)": {
+  "category": "blister-single",
+  "match": [
+   "journey together",
+   "blister pack"
+  ],
+  "packs": [
+   {
+    "set": "Journey Together",
+    "qty": 1
+   }
+  ],
+  "extras": [],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "3 pack",
+   "3-pack",
+   "three",
+   "checklane",
+   "premium",
+   "2 pack",
+   "2-pack"
+  ],
+  "note": "Store gives no description; priced like a single sleeved booster pack."
+ },
+ "Scarlet & Violet Blister Pack (single)": {
+  "category": "blister-single",
+  "match": [
+   "base set",
+   "blister pack"
+  ],
+  "packs": [
+   {
+    "set": "Scarlet & Violet",
+    "qty": 1
+   }
+  ],
+  "extras": [],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "3 pack",
+   "3-pack",
+   "three",
+   "checklane",
+   "premium",
+   "2 pack",
+   "2-pack"
+  ],
+  "note": "Store gives no description; priced like a single sleeved booster pack."
+ },
+ "Stellar Crown Blister Pack (single)": {
+  "category": "blister-single",
+  "match": [
+   "stellar crown",
+   "blister pack"
+  ],
+  "packs": [
+   {
+    "set": "Stellar Crown",
+    "qty": 1
+   }
+  ],
+  "extras": [],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "3 pack",
+   "3-pack",
+   "three",
+   "checklane",
+   "premium",
+   "2 pack",
+   "2-pack"
+  ],
+  "note": "Store gives no description; priced like a single sleeved booster pack."
+ },
+ "Surging Sparks Blister Pack (single)": {
+  "category": "blister-single",
+  "match": [
+   "surging sparks",
+   "blister pack"
+  ],
+  "packs": [
+   {
+    "set": "Surging Sparks",
+    "qty": 1
+   }
+  ],
+  "extras": [],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "3 pack",
+   "3-pack",
+   "three",
+   "checklane",
+   "premium",
+   "2 pack",
+   "2-pack"
+  ],
+  "note": "Store gives no description; priced like a single sleeved booster pack."
+ },
+ "Twilight Masquerade Blister Pack (single)": {
+  "category": "blister-single",
+  "match": [
+   "twilight masquerade",
+   "blister pack"
+  ],
+  "packs": [
+   {
+    "set": "Twilight Masquerade",
+    "qty": 1
+   }
+  ],
+  "extras": [],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "3 pack",
+   "3-pack",
+   "three",
+   "checklane",
+   "premium",
+   "2 pack",
+   "2-pack"
+  ],
+  "note": "Store gives no description; priced like a single sleeved booster pack."
+ },
+ "Destined Rivals Blister Pack (single)": {
+  "category": "blister-single",
+  "match": [
+   "destined rivals",
+   "blister pack"
+  ],
+  "packs": [
+   {
+    "set": "Destined Rivals",
+    "qty": 1
+   }
+  ],
+  "extras": [],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "3 pack",
+   "3-pack",
+   "three",
+   "checklane",
+   "premium",
+   "2 pack",
+   "2-pack"
+  ],
+  "note": "Store gives no description; priced like a single sleeved booster pack."
+ },
+ "December 2025 Collector Chest": {
+  "category": "other",
+  "match": [
+   "december 25",
+   "chest"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "Ralts, Kirlia and Riolu foils",
+   "Mega Lucario coin",
+   "4 sticker sheets",
+   "mini portfolio"
+  ],
+  "note": "Same as the Fall 2025 Collector Chest."
+ },
+ "Holiday Calendar (Sword & Shield)": {
+  "category": "other",
+  "match": [
+   "holiday calendar"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 6
+   }
+  ],
+  "extras": [
+   "8 festive foils (2 V, 1 VMAX)",
+   "6 three-card fun packs",
+   "2 coins",
+   "2 sticker sheets",
+   "sidekick dangler"
+  ],
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "2023",
+   "2024",
+   "2025",
+   "2026",
+   "great ball",
+   "costco"
+  ],
+  "note": "Misty's listing: 6 Sword & Shield series booster packs."
+ },
+ "Celebrations First Partner Complete Collection": {
+  "category": "other",
+  "match": [
+   "first partner complete collection"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 16
+   }
+  ],
+  "extras": [
+   "all 8 First Partner Packs (24 oversize cards)",
+   "Pikachu binder",
+   "display"
+  ],
+  "note": "8 First Partner Packs x 2 booster packs each."
+ },
+ "Eevee Evolution VMAX Premium Collection Case": {
+  "category": "case",
+  "match": [
+   "eevee evolution vmax premium",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 30
+   }
+  ],
+  "extras": [
+   "6 VMAX Premium Collections (2 each of Jolteon, Flareon, Vaporeon)"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Eevee Evolutions Premium Collection Case": {
+  "category": "case",
+  "match": [
+   "eevee evolutions premium collection",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 54
+   }
+  ],
+  "extras": [
+   "6 x Eevee Evolutions Premium Collection"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Eevee Evolutions Tin Case": {
+  "category": "case",
+  "match": [
+   "eevee evolutions tin",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 24
+   }
+  ],
+  "extras": [
+   "6 tins (2 of each), each with a foil promo"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Holiday Calendar 2025 Case": {
+  "category": "case",
+  "match": [
+   "holiday calendar 2025",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 36
+   }
+  ],
+  "extras": [
+   "6 x 2025 Holiday Calendar"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Houndstone ex Box Case": {
+  "category": "case",
+  "match": [
+   "houndstone",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 24
+   }
+  ],
+  "extras": [
+   "6 x Houndstone ex Box"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Mabosstiff ex Box Case": {
+  "category": "case",
+  "match": [
+   "mabosstiff",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 24
+   }
+  ],
+  "extras": [
+   "6 x Mabosstiff ex Box"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Mega Charizard Tin Case": {
+  "category": "case",
+  "match": [
+   "mega charizard",
+   "tin case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 24
+   }
+  ],
+  "extras": [
+   "6 Mega Charizard X/Y ex tins"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ],
+  "note": "Misty's text says 3 Y + 2 X tins, but every other listing says 6 tins per case."
+ },
+ "Mega Greninja ex Premium Collection Case": {
+  "category": "case",
+  "match": [
+   "mega greninja",
+   "premium",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 48
+   }
+  ],
+  "extras": [
+   "6 x Mega Greninja ex Premium Collection"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Paldea Friends Mini Tin Display Case": {
+  "category": "case",
+  "match": [
+   "paldea friends",
+   "display case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 80
+   }
+  ],
+  "extras": [
+   "4 displays of 10 mini tins"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Stacking Tins Display (Treasures of Ruin / Paradox / Ogerpon)": {
+  "category": "case",
+  "match": [
+   "stacking tins",
+   "display"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 18
+   }
+  ],
+  "extras": [
+   "6 stacking tins (2 of each), 2 sticker sheets each"
+  ],
+  "exclude": [
+   "set of"
+  ]
+ },
+ "Trainer's Toolkit 2021 Case": {
+  "category": "case",
+  "match": [
+   "toolkit",
+   "2021",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 24
+   }
+  ],
+  "extras": [
+   "6 x Trainer's Toolkit (2021)"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Triple Whammy Tin Case": {
+  "category": "case",
+  "match": [
+   "triple whammy",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 18
+   }
+  ],
+  "extras": [
+   "6 Triple Whammy tins (Slaking, Tyranitar, Darkrai)"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "V Forces Tin Display": {
+  "category": "case",
+  "match": [
+   "v forces",
+   "display"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 36
+   }
+  ],
+  "extras": [
+   "9 V Forces tins (3 of each)"
+  ],
+  "exclude": [
+   "set of"
+  ]
+ },
+ "Paldea Adventure Chest Case": {
+  "category": "case",
+  "match": [
+   "paldea adventure chest",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 24
+   }
+  ],
+  "extras": [
+   "4 x Paldea Adventure Chest"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Pokémon Day 2026 Collection Case": {
+  "category": "case",
+  "match": [
+   "day 2026",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 18
+   }
+  ],
+  "extras": [
+   "6 x Pokémon Day 2026 Collection"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Ascended Heroes First Partners Deluxe Pin Collection Case": {
+  "category": "case",
+  "match": [
+   "first partners deluxe pin",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 30
+   }
+  ],
+  "extras": [
+   "6 x First Partners Deluxe Pin Collection"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Ascended Heroes Tech Sticker Collection Case": {
+  "category": "case",
+  "match": [
+   "tech sticker collection",
+   "case"
+  ],
+  "packs": [
+   {
+    "set": "Ascended Heroes",
+    "qty": 36
+   }
+  ],
+  "extras": [
+   "12 x Tech Sticker Collection"
+  ],
+  "exclude": [
+   "set of",
+   "showcase"
+  ]
+ },
+ "Cyrus / Klara Premium Tournament Collection Display": {
+  "category": "case",
+  "match": [
+   "cyrus",
+   "klara",
+   "display"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 28
+   }
+  ],
+  "extras": [
+   "4 Premium Tournament Collections"
+  ],
+  "exclude": [
+   "set of"
+  ]
+ },
+ "Southern Islands Sealed Set (Japanese)": {
+  "category": "other",
+  "match": [
+   "southern islands",
+   "sealed set"
+  ],
+  "packs": [],
+  "extras": [
+   "3 Southern Islands cards"
+  ],
+  "separate_rows": true,
+  "note": "3-card vintage set, no booster packs."
+ },
+ "Pokémon Center 2025 Special Collection Box (Japanese)": {
+  "category": "other",
+  "match": [
+   "center",
+   "2025 special collection box"
+  ],
+  "packs": [],
+  "extras": [
+   "regional Pikachu promo",
+   "64 sleeves",
+   "deck box",
+   "long storage box"
+  ],
+  "separate_rows": true
+ },
+ "Ruler of the Black Flame Deck Build Box (Japanese)": {
+  "category": "other",
+  "match": [
+   "black flame",
+   "deck build box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 10
+   }
+  ],
+  "extras": [
+   "170 fixed cards (incl. 104 basic Energy)",
+   "4 deck dividers",
+   "VSTAR marker"
+  ]
+ },
+ "Old Maid Deck (Japanese)": {
+  "category": "other",
+  "match": [
+   "old maid"
+  ],
+  "packs": [],
+  "extras": [
+   "36-card Old Maid deck (not TCG cards)"
+  ]
+ },
+ "11th Movie Commemoration Set (Japanese)": {
+  "category": "other",
+  "match": [
+   "11th movie commemoration"
+  ],
+  "packs": [],
+  "extras": [
+   "9 movie promo cards"
+  ]
+ },
+ "Special Deck Set Charizard VSTAR vs Rayquaza VMAX (Japanese)": {
+  "category": "other",
+  "match": [
+   "special deck set",
+   "charizard"
+  ],
+  "packs": [],
+  "extras": [
+   "2 x 60-card decks",
+   "2 deck boxes",
+   "2 coins",
+   "2 VSTAR markers",
+   "paper playmat"
+  ]
+ },
+ "VSTAR & VMAX High-Class Deck (Japanese)": {
+  "category": "other",
+  "match": [
+   "high-class deck"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card deck",
+   "coin",
+   "VSTAR marker",
+   "damage counters"
+  ],
+  "separate_rows": true
+ },
+ "Starter Set VSTAR Darkrai / Lucario (Japanese)": {
+  "category": "other",
+  "match": [
+   "vstar",
+   "deck",
+   "japanese"
+  ],
+  "packs": [],
+  "extras": [
+   "60-card deck",
+   "playmat",
+   "coin",
+   "VSTAR marker",
+   "damage counters"
+  ],
+  "separate_rows": true,
+  "exclude": [
+   "case",
+   "display",
+   "set of",
+   "high class",
+   "special deck"
+  ]
+ },
+ "Shiny Treasure ex Booster Pack (Japanese)": {
+  "category": "pack",
+  "match": [
+   "shining treasures"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [],
+  "note": "Store gives no description; priced like one Japanese Shiny Treasure ex pack."
+ },
+ "30th Celebration First Partner Display Set (Simplified Chinese)": {
+  "category": "other",
+  "match": [
+   "first partner display set"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "random First Partner promo",
+   "acrylic magnetic display frame"
+  ],
+  "separate_rows": true,
+  "exclude": [
+   "case"
+  ]
+ },
+ "Mew Frame Gift Set (Simplified Chinese)": {
+  "category": "other",
+  "match": [
+   "mew frame"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "Mew display frame"
+  ],
+  "note": "1 jumbo (25-card) pack + 1 slim pack."
+ },
+ "Terastal Gathering Sylveon Coin Set (Simplified Chinese)": {
+  "category": "other",
+  "match": [
+   "sylveon coin set"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Sylveon holo promo",
+   "Sylveon coin"
+  ]
+ },
+ "Espeon ex & Umbreon ex Collector's Display Gift Box (Chinese)": {
+  "category": "other",
+  "match": [
+   "espeon",
+   "umbreon",
+   "display gift box"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 15
+   }
+  ],
+  "extras": [
+   "Espeon ex and Umbreon ex foil promos",
+   "dual-card display frame",
+   "2 fridge magnets"
+  ],
+  "exclude": [
+   "case"
+  ]
+ },
+ "30th Celebration ex Gift Set (Greninja / Sylveon, Simplified Chinese)": {
+  "category": "other",
+  "match": [
+   "30th",
+   "ex gift set"
+  ],
+  "packs": [
+   {
+    "set": "30th Celebration",
+    "qty": 3
+   }
+  ],
+  "extras": [
+   "ex foil promo",
+   "card display sleeve"
+  ],
+  "separate_rows": true
+ },
+ "Card Display Gift Box V.2 (Simplified Chinese)": {
+  "category": "other",
+  "match": [
+   "card display gift box"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "card display case & keyring",
+   "matching Character Rare promo"
+  ],
+  "note": "1 Brave Stars jumbo pack (25 cards).",
+  "exclude": [
+   "case"
+  ]
+ },
+ "Pikachu Legendary Celebration Gift Set (Simplified Chinese)": {
+  "category": "other",
+  "match": [
+   "legendary celebration pikachu"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 1
+   }
+  ],
+  "extras": [
+   "Poké Ball or Great Ball tin",
+   "Pikachu card",
+   "Legendary/Mythical card"
+  ],
+  "separate_rows": true,
+  "note": "1 Vivid Portrayals jumbo pack (25 cards)."
+ },
+ "Grand Gathering Eevee Quicksand Display Charm Gift Box (Simplified Chinese)": {
+  "category": "other",
+  "match": [
+   "quicksand display charm"
+  ],
+  "packs": [
+   {
+    "set": null,
+    "qty": 2
+   }
+  ],
+  "extras": [
+   "random holo card",
+   "Eeveelution quicksand charm"
+  ],
+  "exclude": [
+   "case"
+  ]
  }
 }
