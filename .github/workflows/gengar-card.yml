@@ -1,0 +1,46 @@
+name: GengarFinder - record a card
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: check-prices
+  cancel-in-progress: false
+
+jobs:
+  record:
+    if: contains(github.event.issue.labels.*.name, 'gengar-card') && github.event.issue.user.login == github.repository_owner && github.event.issue.state == 'open'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Record it
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python gengar/scripts/record.py
+      - name: Save
+        if: hashFiles('gengar/data/_ok') != ''
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add gengar/data/collection.json gengar/data/places.json
+          git commit -m "GengarFinder: collection update from #${{ github.event.issue.number }}"
+          git pull --rebase
+          git push
+      - name: Reply
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          N: ${{ github.event.issue.number }}
+        run: |
+          if [ -f gengar/data/_result.md ]; then gh issue comment "$N" --body-file gengar/data/_result.md
+          else gh issue comment "$N" --body "Something went wrong. Open the Actions tab on GitHub to see what happened."; fi
+          if [ -f gengar/data/_ok ]; then gh issue close "$N" --reason completed; fi

@@ -1,0 +1,32 @@
+name: GengarFinder - new card
+description: Add a Gengar card to your collection (or remove one)
+title: "Gengar: new card"
+labels: ["gengar-card"]
+body:
+  - type: input
+    id: cards
+    attributes:
+      label: Card numbers
+      description: From your 115 list. Several at once is fine, e.g. 12, 14, 33
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Where you got it
+      placeholder: e.g. Evo Games, eBay, a friend
+  - type: input
+    id: paid
+    attributes:
+      label: Price paid each (AUD)
+      placeholder: e.g. 12.50
+  - type: input
+    id: date
+    attributes:
+      label: Date you got it
+      placeholder: YYYY-MM-DD (leave empty for today)
+  - type: input
+    id: action
+    attributes:
+      label: Add or remove
+      value: add

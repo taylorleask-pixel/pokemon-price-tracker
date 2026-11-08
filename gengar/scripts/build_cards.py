@@ -99,6 +99,10 @@ def main():
     print(f"pokemontcg.io sets: {len(psets)}, TCGdex sets: {len(dsets)}, 1 USD = {usd:.3f} AUD")
     cache = {}
     missing = []
+    try:   # last run's results, used when a lookup fails this time
+        prev = {(c["set"], c["number"]): c for c in json.loads((HERE / "cards.json").read_text(encoding="utf-8"))["cards"]}
+    except Exception:  # noqa: BLE001
+        prev = {}
     for c in cards:
         k = (c["set"], c["number"])
         if k not in cache:
@@ -135,9 +139,17 @@ def main():
                         info.update({"db_name": hit.get("name"), "image": hit["image"] + "/low.webp",
                                      "image_large": hit["image"] + "/high.webp"})
                         break
+            if not info.get("image") and prev.get(k, {}).get("image"):
+                old = prev[k]
+                info = {x: old.get(x) for x in ("db_name", "image", "image_large", "rarity", "set_logo", "set_symbol", "tcgplayer_url")}
+            if info.get("db_name") and n(info["db_name"]).split()[0] not in n(c["name"]).split() \
+                    and n(c["name"]).split()[0] not in n(info["db_name"]):
+                info["wrong_card"] = info.pop("db_name")      # the number points at a different card: don't show its picture
+                for x in ("image", "image_large", "tcgplayer", "cardmarket"):
+                    info.pop(x, None)
             cache[k] = info
         info = cache[k]
-        c.update({x: info.get(x) for x in ("db_name", "image", "image_large", "rarity", "set_logo", "set_symbol", "tcgplayer_url")})
+        c.update({x: info.get(x) for x in ("db_name", "wrong_card", "image", "image_large", "rarity", "set_logo", "set_symbol", "tcgplayer_url")})
         # market value for this exact variant, in AUD
         tp, value, basis = info.get("tcgplayer") or {}, None, None
         for key in PRICE_KEYS.get(c["variant"], []):
@@ -154,9 +166,8 @@ def main():
     (HERE / "cards.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"pictures found for {len(cards) - len(missing)} of {len(cards)}; market prices for "
           f"{sum(1 for c in cards if c['market_aud'])}")
-    odd = [f"#{c['id']} {c['name']} ({c['set']} {c['number']}) is '{c['db_name']}' in the database"
-           for c in cards if c.get("db_name") and n(c["db_name"]).split()[0] not in n(c["name"]).split()
-           and n(c["name"]).split()[0] not in n(c["db_name"])]
+    odd = [f"#{c['id']} {c['name']} ({c['set']} {c['number']}) is '{c['wrong_card']}' in the database"
+           for c in cards if c.get("wrong_card")]
     if odd:
         print("name doesn't match:\n  " + "\n  ".join(odd))
     if missing:

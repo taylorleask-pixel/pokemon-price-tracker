@@ -3,3 +3,5 @@ __pycache__/
 data/debug/
 data/_add_store_result.md
 data/_add_store_ok
+gengar/data/_result.md
+gengar/data/_ok
