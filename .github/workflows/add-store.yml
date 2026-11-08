@@ -10,7 +10,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: check-prices      # never edit stores.json while a price check is saving
+  group: add-store
   cancel-in-progress: false
 
 jobs:

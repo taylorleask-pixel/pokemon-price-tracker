@@ -8,10 +8,6 @@ permissions:
   contents: write
   issues: write
 
-concurrency:
-  group: check-prices
-  cancel-in-progress: false
-
 jobs:
   record:
     if: contains(github.event.issue.labels.*.name, 'gengar-card') && github.event.issue.user.login == github.repository_owner && github.event.issue.state == 'open'
@@ -22,19 +18,22 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Record it
+      - name: Record it and save (retries if another request saves at the same time)
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
-        run: python gengar/scripts/record.py
-      - name: Save
-        if: hashFiles('gengar/data/_ok') != ''
         run: |
           git config user.name "price-bot"
           git config user.email "price-bot@users.noreply.github.com"
-          git add gengar/data/collection.json gengar/data/places.json
-          git commit -m "GengarFinder: collection update from #${{ github.event.issue.number }}"
-          git pull --rebase
-          git push
+          for attempt in 1 2 3 4 5; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            python gengar/scripts/record.py
+            [ -f gengar/data/_ok ] || exit 0
+            git add gengar/data/collection.json gengar/data/places.json
+            git commit -qm "GengarFinder: collection update from #${{ github.event.issue.number }}"
+            if git push -q origin HEAD:main; then exit 0; fi
+            sleep $((attempt * 3))
+          done
+          echo "Couldn't save after 5 tries" > gengar/data/_result.md; rm -f gengar/data/_ok; exit 1
       - name: Reply
         if: always()
         env:
