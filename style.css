@@ -196,3 +196,11 @@ body.on-product .controls { display: none; }
 .etitle .lt { color: var(--muted); font-size: 13px; }
 .eprice { font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
 @media (max-width: 560px) { .ev { grid-template-columns: 1fr auto; } .ev .etype { grid-column: 1 / -1; } }
+
+/* add a store form */
+.addstore { margin-top: 18px; }
+.addstore h3 { margin-top: 0; }
+.addrow { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; margin: 12px 0; }
+.addrow label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; color: var(--muted); flex: 1 1 220px; }
+.addrow input { font: inherit; color: var(--ink); background: var(--surface); padding: 9px 12px; border: 1px solid var(--line); border-radius: var(--radius-s); }
+.addrow input:focus-visible { outline: 2px solid var(--gengar); outline-offset: 1px; }

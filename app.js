@@ -454,8 +454,31 @@ function renderStores() {
       <td style="white-space:normal">${esc(r?.error ?? "")}</td></tr>`;
   }).join("");
   $("#view").innerHTML = `<div class="wrap"><table><thead><tr><th class="namecol">Store</th><th>Platform</th>
-    <th>Status</th><th>Products</th><th>Problem</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+    <th>Status</th><th>Products</th><th>Problem</th></tr></thead><tbody>${rows}</tbody></table></div>
+    <form class="panel addstore" id="addstore">
+      <h3>Add a store</h3>
+      <p class="note">Works for shops built on Shopify, WooCommerce or Square Online, which is most small card shops.
+      This opens a request on GitHub: tap <b>Create</b> there, and within a few minutes a reply says whether the store
+      was added and how many Pokémon products it found.</p>
+      <div class="addrow">
+        <label>Store name<input id="as-name" required autocomplete="off" placeholder="e.g. Card Kingdom"></label>
+        <label>Link to their Pokémon products<input id="as-url" type="url" required placeholder="https://"></label>
+        <button class="btn" type="submit">Add store</button>
+      </div>
+      <p class="note">You need to be signed in to GitHub. Requests from anyone else are ignored.</p>
+    </form>`;
+  $("#addstore").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const name = $("#as-name").value.trim(), url = $("#as-url").value.trim();
+    const q = new URLSearchParams({ template: "add-store.yml", title: `Add store: ${name}`, store_name: name, store_url: url });
+    window.open(`https://github.com/${REPO}/issues/new?${q}`, "_blank", "noopener");
+  });
 }
+
+// the GitHub repo this site comes from, e.g. taylorleask-pixel/pokemon-price-tracker
+const REPO = location.hostname.endsWith(".github.io")
+  ? `${location.hostname.split(".")[0]}/${location.pathname.split("/")[1]}`
+  : "taylorleask-pixel/pokemon-price-tracker";
 
 init();
 

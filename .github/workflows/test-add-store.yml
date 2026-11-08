@@ -1,0 +1,24 @@
+name: Test add-store (one-off)
+on:
+  push:
+    paths: [".github/workflows/test-add-store.yml"]
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        site:
+          - "Everson|https://eetcg.com.au/"
+          - "Dorky|https://www.dorkydesires.com.au/"
+          - "JoJos|https://www.jojoshobbyhouse.com.au/"
+          - "Cardiacs|https://www.thecardiacs.com/"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests beautifulsoup4 playwright && python -m playwright install --with-deps chromium
+      - run: |
+          export STORE_NAME="${SITE%%|*}" STORE_URL="${SITE#*|}" DRY_RUN=1
+          python scraper/add_store.py
+        env: {SITE: "${{ matrix.site }}"}

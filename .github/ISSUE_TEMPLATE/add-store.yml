@@ -1,0 +1,20 @@
+name: Add a store
+description: Start tracking another store's Pokémon prices
+title: "Add store: "
+labels: ["add-store"]
+body:
+  - type: input
+    id: store_name
+    attributes:
+      label: Store name
+      placeholder: e.g. Card Kingdom Brisbane
+    validations:
+      required: true
+  - type: input
+    id: store_url
+    attributes:
+      label: Link to the store's Pokémon products
+      description: The page that lists their Pokémon sealed products works best. A home page link also works for most shops.
+      placeholder: https://
+    validations:
+      required: true

@@ -1,0 +1,60 @@
+name: Add a store
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: check-prices      # never edit stores.json while a price check is saving
+  cancel-in-progress: false
+
+jobs:
+  add:
+    # only requests made by the repo owner, so strangers can't add stores
+    if: contains(github.event.issue.labels.*.name, 'add-store') && github.event.issue.user.login == github.repository_owner && github.event.issue.state == 'open'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4 playwright
+      - name: Install a hidden browser (for newer Square stores)
+        run: python -m playwright install --with-deps chromium
+
+      - name: Work out the shop type and test-read it
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python scraper/add_store.py
+
+      - name: Save the new store and start a price check
+        if: hashFiles('data/_add_store_ok') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add data/stores.json
+          git commit -m "Add store from request #${{ github.event.issue.number }}"
+          git pull --rebase
+          git push
+          gh workflow run check-prices.yml --ref main
+
+      - name: Reply on the request
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          N: ${{ github.event.issue.number }}
+        run: |
+          if [ -f data/_add_store_result.md ]; then
+            gh issue comment "$N" --body-file data/_add_store_result.md
+          else
+            gh issue comment "$N" --body "Something went wrong before the store could be checked. Open the Actions tab on GitHub to see what happened."
+          fi
+          if [ -f data/_add_store_ok ]; then gh issue close "$N" --reason completed; fi

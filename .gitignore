@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 data/debug/
+data/_add_store_result.md
+data/_add_store_ok
