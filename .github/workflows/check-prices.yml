@@ -54,5 +54,5 @@ jobs:
           git add data/ebay.json 2>/dev/null || true
           git add data/debug 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Update prices $(TZ=Australia/Brisbane date '+%Y-%m-%d %H:%M')"
-          git pull --rebase
+          git pull --rebase -X theirs   # if another check saved first, keep this newer data
           git push
