@@ -194,3 +194,6 @@ dialog form { padding: 18px; display: flex; flex-direction: column; gap: 12px; }
   .vchip { font-size: 10px; padding: 1px 5px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+.addstore .row2 { margin-top: 6px; }
+.price .up, .price .down { display: block; font-size: 13px; }

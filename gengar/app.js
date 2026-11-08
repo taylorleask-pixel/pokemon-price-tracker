@@ -29,14 +29,16 @@ async function load(path) {
 
 // ---------- setup
 async function init() {
-  const [cards, base, sources, collection, places, prices, singles, stores, contents] = await Promise.all([
+  const [cards, base, sources, collection, places, prices, singles, stores, contents, gstores, changes] = await Promise.all([
     load("data/cards.json"), load("data/cards_base.json"), load("data/sources.json"), load("data/collection.json"),
-    load("data/places.json"), load("../data/prices.json"), load("../data/singles.json"), load("../data/stores.json"),
-    load("../data/contents.json")]);
+    load("data/places.json"), load("../data/prices.json"), load("data/singles.json"), load("../data/stores.json"),
+    load("../data/contents.json"), load("data/stores.json"), load("data/changes.json")]);
   const list = cards?.cards ?? base ?? [];
   D = { cards: list, updated: cards?.updated, sources: sources || {}, col: collection || { cards: {}, log: [] },
-        places: places?.places || [], listings: prices?.listings || [], singles: singles?.singles || [],
-        storeName: Object.fromEntries((stores || []).map((s) => [s.id, s.name])), contents: contents || {} };
+        places: places?.places || [], listings: prices?.listings || [], singles: singles?.listings || [],
+        singlesUpdated: singles?.updated, report: singles?.report || {}, stores: gstores || [], changes: changes?.events || [],
+        packStoreName: Object.fromEntries((stores || []).map((s) => [s.id, s.name])),
+        storeName: Object.fromEntries((gstores || []).map((s) => [s.id, s.name])), contents: contents || {} };
   for (const c of D.cards) decorate(c);
   D.cards.sort(binderOrder);
   D.byId = Object.fromEntries(D.cards.map((c) => [String(c.id), c]));
@@ -90,19 +92,8 @@ const owned = (c) => !!ownInfo(c.id);
 
 // ---------- prices
 function singlesFor(c) {
-  const word = c.display.toLowerCase().split(/[^a-z']+/).find((w) => w.length > 2) || "gengar";
-  const num = String(c.number).split("/")[0].replace(/^[A-Z]+/i, "");
-  const numRe = new RegExp(`(^|[^0-9])0*${+num || num}(/|[^0-9]|$)`);
-  return D.singles.filter((s) => {
-    const t = s.title.toLowerCase();
-    if (!t.includes(word) || !numRe.test(t)) return false;
-    if (/japanese|korean|chinese|psa|cgc|bgs|graded/.test(t)) return false;
-    const rev = /reverse/.test(t), stampT = /stamp|staff|prize|play!/.test(t);
-    if ((c.variant === "RH") !== rev) return false;
-    if (c.vclass === "stamp" && c.variant !== "CH" && !stampT) return false;
-    if (c.vclass !== "stamp" && stampT) return false;
-    return true;
-  }).sort((a, b) => (b.available - a.available) || a.price - b.price);
+  // cheapest first, in-stock first; one row per store and condition
+  return D.singles.filter((x) => x.card === c.id).sort((a, b) => (b.available - a.available) || a.price - b.price);
 }
 function worth(c) {
   const inStock = singlesFor(c).filter((s) => s.available);
@@ -149,10 +140,10 @@ function go(hash) { location.hash = hash; }
 function route() {
   const h = decodeURIComponent(location.hash.slice(1));
   if (h.startsWith("c=")) return renderCard(h.slice(2));
-  S.tab = ["binder", "shop", "sets", "spending"].includes(h) ? h : "binder";
+  S.tab = ["binder", "shop", "changes", "sets", "spending"].includes(h) ? h : "binder";
   document.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", b.dataset.tab === S.tab));
   renderProgress();
-  ({ binder: renderBinder, shop: renderShop, sets: renderSets, spending: renderSpending })[S.tab]();
+  ({ binder: renderBinder, shop: renderShop, changes: renderChanges, sets: renderSets, spending: renderSpending })[S.tab]();
 }
 
 function renderProgress() {
@@ -243,14 +234,15 @@ function renderCard(id) {
 
       <section class="panel"><h3>At stores</h3>
         ${singles.length ? `<ul class="list">${singles.map((s) => `<li><span><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(D.storeName[s.store] ?? s.store)}</a>
-            <span class="sub">${esc(s.title)}</span></span><span class="price ${s.available ? "" : "soldout"}">${money(s.price)}</span></li>`).join("")}</ul>`
-          : `<p class="note">No tracked store lists this card as a single right now.</p>`}</section>
+            <span class="sub">${esc([s.condition, s.title].filter(Boolean).join(" · "))}</span></span><span class="price ${s.available ? "" : "soldout"}">${money(s.price)}</span></li>`).join("")}</ul>
+          <p class="note">Checked ${esc(when(D.singlesUpdated))}.</p>`
+          : `<p class="note">None of your singles stores list this card right now.</p>`}</section>
 
       <section class="panel"><h3>Where it comes from</h3>
         <p><b>${esc(c.src.label)}</b>${c.src.confirmed === false ? " <span class='note'>(not confirmed)</span>" : ""}</p>
         <p class="note">${esc(c.src.detail)}</p>
         ${sealed.length ? `<ul class="list">${sealed.map(({ r, name }) => `<li><span><a href="../#p=${encodeURIComponent(r.key)}">${esc(name)}</a>
-            <span class="sub">${esc(CAT_NAME[r.category] ?? "")}${r.best ? ` · cheapest at ${esc(D.storeName[r.best.store] ?? r.best.store)}` : ""}</span></span>
+            <span class="sub">${esc(CAT_NAME[r.category] ?? "")}${r.best ? ` · cheapest at ${esc(D.packStoreName[r.best.store] ?? r.best.store)}` : ""}</span></span>
             <span class="price ${r.best ? "" : "soldout"}">${r.best ? money(r.best.price) : "Sold out"}</span></li>`).join("")}</ul>
             <p class="note">Sealed prices from Pack Watch.</p>`
           : c.src.kind === "pack" ? `<p class="note">No tracked store has sealed ${esc(c.src.pack_set)} product right now.</p>` : ""}
@@ -274,7 +266,7 @@ function when(iso) {
 function renderShop() {
   let list = D.cards.filter((c) => !S.shopNeed || !owned(c));
   if (S.shopSort !== "binder") list = list.slice().sort((a, b) => ((worth(a) ?? -1) - (worth(b) ?? -1)) * (S.shopSort === "low" ? 1 : -1));
-  const storeIds = [...new Set(D.singles.map((s) => s.store))];
+  const storeIds = D.stores.map((s) => s.id);
   const rows = list.map((c) => {
     const s = singlesFor(c), best = s.find((x) => x.available);
     return `<tr class="row ${owned(c) ? "have" : "need"}" data-id="${c.id}" tabindex="0">
@@ -284,7 +276,7 @@ function renderShop() {
       <td>${owned(c) ? "<b class='up'>Have</b>" : "Need"}</td>
       <td class="price">${c.market_aud != null ? money(c.market_aud) : "<span class='note'>–</span>"}</td>
       <td>${best ? `<span class="price">${money(best.price)}</span><br><span class="note">${esc(D.storeName[best.store] ?? best.store)}</span>` : "<span class='note'>–</span>"}</td>
-      ${storeIds.map((id) => { const x = s.find((y) => y.store === id); return `<td>${x ? `<span class="price ${x.available ? "" : "soldout"}">${money(x.price)}</span>` : "<span class='note'>–</span>"}</td>`; }).join("")}
+      ${storeIds.map((id) => { const x = s.find((y) => y.store === id && y.available) || s.find((y) => y.store === id); return `<td>${x ? `<span class="price ${x.available ? "" : "soldout"}">${money(x.price)}</span>` : "<span class='note'>–</span>"}</td>`; }).join("")}
       <td><a href="${esc(ebayUrl(c, true))}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sold</a></td></tr>`;
   }).join("");
   $("#view").innerHTML = `<div class="bar">
@@ -294,7 +286,9 @@ function renderShop() {
       <span class="count">${list.length} cards</span></div>
     <div class="wrap"><table><thead><tr><th>Card</th><th>Type</th><th>Status</th><th>Market value</th><th>Cheapest store</th>
       ${storeIds.map((id) => `<th>${esc(D.storeName[id] ?? id)}</th>`).join("")}<th>eBay</th></tr></thead><tbody>${rows}</tbody></table></div>
-    <p class="note">Store prices are for single cards the tracked stores list. Market values are TCGplayer prices in AUD.</p>`;
+    <p class="note">Store prices are the cheapest condition in stock at each store, checked ${esc(when(D.singlesUpdated))}. Market values are TCGplayer prices in AUD.</p>
+    ${storesPanel()}`;
+  setupStoreForm();
   $("#ssort").value = S.shopSort;
   $("#ssort").addEventListener("input", (e) => { S.shopSort = e.target.value; renderShop(); });
   document.querySelectorAll(".seg button").forEach((b) => b.addEventListener("click", () => { S.shopNeed = b.dataset.n === "1"; renderShop(); }));
@@ -302,6 +296,56 @@ function renderShop() {
     tr.addEventListener("click", () => go(`c=${tr.dataset.id}`));
     tr.addEventListener("keydown", (e) => { if (e.key === "Enter") go(`c=${tr.dataset.id}`); });
   });
+}
+
+// ---------- singles stores (shown under the shop list)
+function storesPanel() {
+  return `<section class="panel" style="margin-top:18px"><h3>Singles stores</h3>
+    <ul class="list">${D.stores.map((st) => { const r = D.report[st.id] || {};
+      return `<li><span><a href="${esc(st.url)}" target="_blank" rel="noopener">${esc(st.name)}</a>
+        <span class="sub">${r.ok === false ? `Problem last check: ${esc(r.problem || "")}` : r.ok ? `${r.cards} of your cards listed` : "Not checked yet"}</span></span>
+        <span class="note">${r.checked ? esc(when(r.checked)) : ""}</span></li>`; }).join("")}</ul>
+    <form id="addstore" class="addstore">
+      <h3 style="margin-top:16px">Add a store</h3>
+      <p class="note">Works for Shopify shops, which is most card shops. This opens a request on GitHub: tap <b>Create</b>, and a few
+      minutes later the reply says whether it was added and which of your cards it has. It's also added to "Where you got it".</p>
+      <div class="row2">
+        <label class="fld">Store name<input id="as-name" required autocomplete="off"></label>
+        <label class="fld">Link to their Pokémon singles<input id="as-url" type="url" required placeholder="https://"></label>
+      </div>
+      <button class="btn" type="submit" style="margin-top:10px">Add store</button>
+    </form></section>`;
+}
+function setupStoreForm() {
+  $("#addstore")?.addEventListener("submit", (e) => {
+    e.preventDefault();
+    const name = $("#as-name").value.trim(), url = $("#as-url").value.trim();
+    const q = new URLSearchParams({ template: "gengar-store.yml", title: `Gengar store: ${name}`, store_name: name, store_url: url });
+    window.open(`https://github.com/${REPO}/issues/new?${q}`, "_blank", "noopener");
+  });
+}
+
+// ---------- what changed
+const CHANGE = { new: ["Newly listed", "up"], "in-stock": ["Back in stock", "up"], "sold-out": ["Sold out", "down"],
+  "price-down": ["Price down", "up"], "price-up": ["Price up", "down"], removed: ["No longer listed", "down"] };
+function renderChanges() {
+  const types = S.ctype ?? "all", onlyNeed = S.cneed ?? false;
+  const ev = D.changes.filter((e) => D.byId[e.card] && (types === "all" || (types === "new" ? ["new", "in-stock"].includes(e.type) : e.type.startsWith(types)))
+    && (!onlyNeed || !owned(D.byId[e.card])));
+  const days = {};
+  for (const e of ev) (days[e.time.slice(0, 10)] ??= []).push(e);
+  $("#view").innerHTML = `<div class="bar">
+      <div class="seg" role="group" aria-label="Show">${[["all", "Everything"], ["new", "New & restocked"], ["price", "Price changes"], ["sold", "Sold out"]].map(([v, l]) =>
+        `<button data-t="${v}" aria-pressed="${types === v}">${l}</button>`).join("")}</div>
+      <label class="count"><input type="checkbox" id="cneed" ${onlyNeed ? "checked" : ""}> Only cards I need</label></div>
+    ${Object.keys(days).length ? Object.entries(days).map(([day, list]) => `<section class="panel"><h3>${esc(new Date(day + "T00:00").toLocaleDateString("en-AU", { weekday: "long", day: "numeric", month: "long" }))}</h3>
+      <ul class="list">${list.map((e) => { const c = D.byId[e.card], [label, cls] = CHANGE[e.type] ?? [e.type, ""];
+        return `<li><span><a href="#c=${c.id}">${esc(c.display)}</a> <span class="vchip ${c.vclass}">${esc(c.vlabel)}</span>${owned(c) ? "" : " <span class='note'>(need)</span>"}
+          <span class="sub">${esc(c.set)} #${esc(c.number)} · <a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(D.storeName[e.store] ?? e.store)}</a>${e.condition ? ` · ${esc(e.condition)}` : ""} · ${esc(new Date(e.time).toLocaleTimeString("en-AU", { hour: "numeric", minute: "2-digit" }))}</span></span>
+          <span class="price"><span class="${cls}">${label}</span><span class="sub">${e.old != null ? `${money(e.old)} → ` : ""}${money(e.price)}</span></span></li>`; }).join("")}</ul></section>`).join("")
+      : `<p class="none">No changes yet. After each check (about 7am, 1pm and 7pm), anything new, restocked, sold out or repriced shows here.</p>`}`;
+  document.querySelectorAll(".seg button").forEach((b) => b.addEventListener("click", () => { S.ctype = b.dataset.t; renderChanges(); }));
+  $("#cneed").addEventListener("change", (e) => { S.cneed = e.target.checked; renderChanges(); });
 }
 
 // ---------- sets

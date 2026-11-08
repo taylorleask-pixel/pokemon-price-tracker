@@ -114,7 +114,7 @@ def version_ok(card, text):
 def match_card(cards, title, extra=""):
     """Find the one card in the list this listing is for, or None."""
     text = n(f"{title} {extra}")
-    if re.search(r"japanese|korean|chinese|\bjpn\b|\bkor\b|psa|cgc|bgs|graded|\bslab", text):
+    if re.search(r"japanese|korean|chinese|\bjpn\b|\bkor\b|psa|cgc|bgs|graded|\bslab|\bsv\d+a\b|\bs\d+a\b|pokemon card 151", text):
         return None
     hits = []
     for c in cards:
@@ -147,31 +147,70 @@ def shopify_handles(store, query, pages=8):
     return root, handles
 
 
+def keep_conditions(rows):
+    """Keep conditions in stock; if none are, keep one sold-out row (stores use dummy prices like $1000 for those)."""
+    avail = [r for r in rows if r["available"]]
+    if avail:
+        return avail
+    real = [r for r in rows if r["price"] < 999]
+    return real[:1]
+
+
+def product_rows(store, root, p, cards):
+    tags = " ".join(p.get("tags") or [])
+    rows = []
+    for v in p.get("variants", []):
+        card = match_card(cards, p["title"], f"{tags} {v.get('title', '')}")
+        if not card:
+            continue
+        cond = v.get("title") if v.get("title") not in (None, "Default Title") else ""
+        price = v["price"] / 100 if isinstance(v["price"], int) else float(v["price"])
+        rows.append({"store": store["id"], "card": card["id"], "title": re.sub(r"\s+", " ", p["title"]),
+                     "condition": cond, "price": round(price, 2), "available": bool(v.get("available")),
+                     "url": f"{root}/products/{p['handle']}?variant={v['id']}"})
+    by_card = {}
+    for r in rows:
+        by_card.setdefault(r["card"], []).append(r)
+    return [r for rs in by_card.values() for r in keep_conditions(rs)]
+
+
+NAME_WORDS = re.compile(r"gengar|imposter oak|rocket.?s hideout|surprise box|morty|mimikyu|gastly|pikachu|greavard", re.I)
+
+
 def read_shopify(store, cards, queries):
     out, seen = [], set()
-    wanted_nums = {re.sub(r"^0+", "", re.sub(r"[^0-9]", "", c["number"].split("/")[0])) for c in cards}
+    wanted_nums = {re.sub(r"[^0-9]", "", c["number"].split("/")[0]).lstrip("0") for c in cards}
+
+    def has_num(handle):
+        return any(run.lstrip("0").startswith(w) for run in re.findall(r"\d+", handle) for w in wanted_nums if w)
+
+    root = store["url"].split("/collections/")[0].rstrip("/")
+    total_handles = 0
     for q in queries:
         root, handles = shopify_handles(store, q)
+        handles = [h for h in handles if not h.endswith("gift-card")]
+        total_handles += len(handles)
         for h in handles:
-            if h in seen:
+            if h in seen or not has_num(h):
                 continue
             seen.add(h)
-            nums = {x.lstrip("0") for x in re.findall(r"\d+", h)}
-            if not nums & wanted_nums:
-                continue                                  # handle has none of our card numbers: skip the request
             r = get(f"{root}/products/{h}.js")
+            if r is not None and r.ok:
+                out += product_rows(store, root, r.json(), cards)
+    if total_handles == 0 and "/collections/" in store["url"]:
+        # search page is filled in by JavaScript: read the singles collection page by page instead
+        base = store["url"].split("?")[0].rstrip("/")
+        for page in range(1, 200):
+            r = get(f"{base}/products.json", limit=250, page=page)
             if r is None or not r.ok:
-                continue
-            p = r.json()
-            tags = " ".join(p.get("tags") or [])
-            for v in p.get("variants", []):
-                card = match_card(cards, p["title"], f"{tags} {v.get('title', '')}")
-                if not card:
-                    continue
-                cond = v.get("title") if v.get("title") not in (None, "Default Title") else ""
-                out.append({"store": store["id"], "card": card["id"], "title": p["title"].replace("  ", " "),
-                            "condition": cond, "price": round(v["price"] / 100, 2), "available": bool(v.get("available")),
-                            "url": f"{root}/products/{h}?variant={v['id']}"})
+                break
+            prods = r.json().get("products", [])
+            if not prods:
+                break
+            for p in prods:
+                if NAME_WORDS.search(p["title"]) and p["handle"] not in seen:
+                    seen.add(p["handle"])
+                    out += product_rows(store, root, p, cards)
     return out
 
 
@@ -195,6 +234,7 @@ def read_misty(store, cards):
             links[n(html.unescape(m.group(1)))] = href
     out = []
     plain_sibling = {(c["set"], c["number"]) for c in cards if c["variant"] in ("—", "U")}
+    holo_sibling = {(c["set"], c["number"]) for c in cards if c["variant"] in ("H", "UH")}
     by_set = {}
     for c in cards:
         by_set.setdefault(c["set"], []).append(c)
@@ -224,9 +264,15 @@ def read_misty(store, cards):
                         good = ok(pv)
                     elif c["vclass"] == "stamp":
                         good = False
-                    elif c["variant"] in ("H", "UH") and (c["set"], c["number"]) in plain_sibling:
-                        good = "HOLO" in pv and "REVERSE" not in pv
-                    elif c["variant"] in ("—", "U") :
+                    elif (c["set"], c["number"]) in plain_sibling and (c["set"], c["number"]) in holo_sibling:
+                        # we track both a plain and a holo print: Misty's "Unlimited" is the main print,
+                        # which is the holo when the card is a holo rare
+                        holo_rare = "holo" in (obj.get("rarity") or "").lower()
+                        if c["variant"] in ("H", "UH"):
+                            good = ("HOLO" in pv and "REVERSE" not in pv) or (pv == "UNLIMITED" and holo_rare)
+                        else:
+                            good = pv == "NORMAL" or (pv == "UNLIMITED" and not holo_rare)
+                    elif c["variant"] in ("—", "U"):
                         good = pv in ("UNLIMITED", "NORMAL")
                     else:
                         good = pv in ("UNLIMITED", "HOLOFOIL", "NORMAL", "HOLO", "UNLIMITED_HOLOFOIL")
