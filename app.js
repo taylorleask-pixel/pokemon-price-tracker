@@ -35,10 +35,11 @@ async function load(name) {
 }
 
 async function init() {
-  const [sets, categories, contents, stores, prices, history, report, changes] = await Promise.all(
-    ["sets", "categories", "contents", "stores", "prices", "history", "report", "changes"].map(load));
+  const [sets, categories, contents, stores, prices, history, report, changes, ebay] = await Promise.all(
+    ["sets", "categories", "contents", "stores", "prices", "history", "report", "changes", "ebay"].map(load));
   D = { sets, categories, contents: contents || {}, stores, prices: prices || { listings: [] },
-        history: history || {}, report: report || { stores: {} }, changes: changes?.events || [] };
+        history: history || {}, report: report || { stores: {} }, changes: changes?.events || [],
+        ebay: ebay || null };
   delete D.contents._how;
   D.setOrder = Object.fromEntries(sets.map((s, i) => [s.name, i]));
   D.catName = Object.fromEntries(categories.map((c) => [c.id, c.name]));
@@ -332,6 +333,7 @@ function renderProduct(key) {
     <div class="pgrid">
       <section class="panel">${groups}</section>
       <section>
+        ${ebayPanel(key)}
         <div class="panel"><h3>Lowest price over time</h3>${spark(D.history[key], true)}</div>
         <div class="panel"><h3>Recent changes</h3>${recent.length ? `<ul class="changes compact">${recent.map(changeItem).join("")}</ul>`
           : `<p class="note">No changes recorded yet. They appear after the next price checks.</p>`}</div>
@@ -339,6 +341,22 @@ function renderProduct(key) {
     </div></article>`;
   $("#back").addEventListener("click", back);
   window.scrollTo(0, 0);
+}
+function ebayPanel(key) {
+  if (!D.ebay) return "";                       // eBay keys not added yet
+  const e = D.ebay.items?.[key];
+  if (!e) return "";
+  const ship = (h) => h.ship == null ? "" : h.ship === 0 ? ", free postage" : `, +${money(h.ship)} postage`;
+  return `<div class="panel ebay"><h3>On eBay</h3>
+    ${e.low ? `<dl class="facts">
+        <div><dt>Cheapest</dt><dd><a href="${esc(e.low.url)}" target="_blank" rel="noopener">${money(e.low.price)}</a><br><span class="lt">${esc(ship(e.low).replace(/^, /, ""))}</span></dd></div>
+        <div><dt>Typical</dt><dd>${money(e.median)}</dd></div>
+        <div><dt>Listings found</dt><dd>${e.n}</dd></div></dl>
+      <p class="note">Cheapest: <a href="${esc(e.low.url)}" target="_blank" rel="noopener">${esc(e.low.title)}</a></p>`
+      : `<p class="note">No matching listings found.</p>`}
+    <p class="note">New, Buy It Now, located in Australia. These are asking prices, not sold prices, and the odd wrong
+    listing can slip in. Checked ${esc(when(D.ebay.updated))}. <a href="${esc(e.url)}" target="_blank" rel="noopener">See all on eBay</a></p>
+  </div>`;
 }
 function back() {
   // came here by clicking inside the site: go back to exactly where you were; opened from a link: go to the list

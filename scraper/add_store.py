@@ -57,6 +57,10 @@ def detect(url):
                     base = f"{root}/collections/{poke[0]['handle']}"
             except Exception:  # noqa: BLE001
                 pass
+        if "/collections/" not in base:
+            return None, ("it's a Shopify shop, but I couldn't find a Pokémon section on it, and reading the whole "
+                          "shop would mix in other games. Open the shop, go to their Pokémon page, and edit this "
+                          "request with that page's link (it will have /collections/ in it).")
         return "shopify", {"url": base}
 
     # Square Online (Weebly / editmysite)
@@ -122,7 +126,7 @@ def main():
     sealed = []
     for it in items:
         info_c = classify(it["title"])
-        if not info_c["skip"]:
+        if not info_c["skip"] and (info_c["set"] or info_c["product"]):   # a known Pokémon set or product
             sealed.append((it, info_c))
     if not sealed:
         return finish(f"**{name}** was read as a {platform} shop and had {len(items)} products, but none of them "
