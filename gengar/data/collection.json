@@ -34,6 +34,11 @@
    "date": "2026-11-08",
    "where": "eBay",
    "paid": 1.8
+  },
+  "109": {
+   "date": "2026-11-08",
+   "where": "Evo Games Flinders View",
+   "paid": 15.0
   }
  },
  "log": [
@@ -105,6 +110,16 @@
    ],
    "where": "eBay",
    "paid": 1.8,
+   "date": "2026-11-08"
+  },
+  {
+   "time": "2026-11-08T16:27+10:00",
+   "action": "add",
+   "ids": [
+    109
+   ],
+   "where": "Evo Games Flinders View",
+   "paid": 15.0,
    "date": "2026-11-08"
   }
  ]
