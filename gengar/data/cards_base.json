@@ -792,6 +792,17 @@
   "approx_date": false
  },
  {
+  "id": 103,
+  "name": "Gengar Pumpkin Pikachu Stamp",
+  "set": "Chilling Reign",
+  "number": "57",
+  "variant": "H",
+  "variant_name": "Holo",
+  "date": "2021-06-18",
+  "date_text": "Stamped version from Trick or Trade, 1 Sep 2022",
+  "approx_date": true
+ },
+ {
   "id": 65,
   "name": "Gengar V",
   "set": "Fusion Strike",
@@ -856,17 +867,6 @@
   "date": "2022-02-25",
   "date_text": "25 Feb 2022",
   "approx_date": false
- },
- {
-  "id": 103,
-  "name": "Gengar Pumpkin Pikachu Stamp",
-  "set": "Chilling Reign",
-  "number": "57",
-  "variant": "H",
-  "variant_name": "Holo",
-  "date": "2022-09-01",
-  "date_text": "~1 Sep 2022 (Trick or Trade)",
-  "approx_date": true
  },
  {
   "id": 58,
