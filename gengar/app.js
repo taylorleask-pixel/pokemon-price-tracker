@@ -232,6 +232,7 @@ function renderCard(id) {
           ${c.tcgplayer_url ? `<a class="btn ghost" href="${esc(c.tcgplayer_url)}" target="_blank" rel="noopener">TCGplayer</a>` : ""}
         </div></section>
 
+      ${otherVersions(c)}
       <section class="panel"><h3>At stores</h3>
         ${singles.length ? `<ul class="list">${singles.map((s) => `<li><span><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(D.storeName[s.store] ?? s.store)}</a>
             <span class="sub">${esc([s.condition, s.title].filter(Boolean).join(" · "))}</span></span><span class="price ${s.available ? "" : "soldout"}">${money(s.price)}</span></li>`).join("")}</ul>
@@ -260,6 +261,18 @@ function renderCard(id) {
 function when(iso) {
   if (!iso) return "recently";
   return new Date(iso).toLocaleString("en-AU", { weekday: "short", day: "numeric", month: "short", hour: "numeric", minute: "2-digit" });
+}
+
+// other cards in your list with the same name in the same set (holo / reverse / stamped, other numbers)
+function otherVersions(c) {
+  const sib = D.cards.filter((x) => x.id !== c.id && x.set === c.set && x.display === c.display);
+  if (!sib.length) return "";
+  return `<section class="panel"><h3>Other versions</h3><ul class="list">${sib.map((x) => {
+    const best = singlesFor(x).find((s) => s.available);
+    return `<li><span><a href="#c=${x.id}">${esc(x.display)} #${esc(x.number)}</a> <span class="vchip ${x.vclass}">${esc(x.vlabel)}</span>
+      <span class="sub">${owned(x) ? "In your binder" : "Still need it"}${best ? ` · cheapest at ${esc(D.storeName[best.store] ?? best.store)}` : ""}</span></span>
+      <span class="price">${best ? money(best.price) : "<span class='note'>Not at your stores</span>"}</span></li>`;
+  }).join("")}</ul></section>`;
 }
 
 // ---------- shop list
