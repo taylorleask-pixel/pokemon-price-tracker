@@ -1,0 +1,21 @@
+{
+  "name": "Pack Watch",
+  "short_name": "Pack Watch",
+  "description": "Pokémon TCG sealed prices across Brisbane stores",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2EFF7",
+  "theme_color": "#5B3A8C",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Booster packs", "url": "./#pack", "icons": [{"src": "icons/icon-96.png", "sizes": "96x96"}]},
+    {"name": "Booster boxes", "url": "./#box", "icons": [{"src": "icons/icon-96.png", "sizes": "96x96"}]},
+    {"name": "Elite Trainer Boxes", "url": "./#etb", "icons": [{"src": "icons/icon-96.png", "sizes": "96x96"}]},
+    {"name": "What changed", "url": "./#changes", "icons": [{"src": "icons/icon-96.png", "sizes": "96x96"}]}
+  ]
+}

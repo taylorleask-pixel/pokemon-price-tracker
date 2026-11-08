@@ -48,3 +48,10 @@ pip install requests beautifulsoup4
 python scraper/scrape.py
 python -m http.server     # then open http://localhost:8000
 ```
+
+## Using it as a phone app
+
+Open the site on your phone and choose **Add to Home Screen** (Safari: Share button; Chrome: ⋮ menu).
+It opens full screen with its own icon, and still shows the last prices it saw if you're offline.
+On Android, long-press the icon for shortcuts to Booster packs, Booster boxes, ETBs and What changed.
+The app files are `manifest.webmanifest`, `sw.js` and the `icons/` folder.
