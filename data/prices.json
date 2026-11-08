@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-08T10:41+10:00",
+"updated": "2026-11-08T18:58+10:00",
 "listings": [
 {
 "store": "misty",
@@ -14574,10 +14574,10 @@
 {
 "store": "misty",
 "title": "Phantom Forces Booster Box",
-"price": 22000.0,
+"price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmu1tukuhi02aeb5bogd2saa4/art-3a403ca5.png",
+"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box-xy4-s3",
+"image": "https://images.scrydex.com/pokemon/xy4-s3/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -14594,10 +14594,10 @@
 {
 "store": "misty",
 "title": "Phantom Forces Booster Box",
-"price": null,
+"price": 22000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box-xy4-s3",
-"image": "https://images.scrydex.com/pokemon/xy4-s3/large",
+"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmu1tukuhi02aeb5bogd2saa4/art-3a403ca5.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -20706,8 +20706,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -20731,8 +20731,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -21092,26 +21092,6 @@
 "product": "VMAX & VSTAR Battle Box (Deoxys / Zeraora)",
 "packs": 4,
 "key": "other|VMAX & VSTAR Battle Box (Deoxys / Zeraora)",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "evo",
-"title": "POKÉMON TCG: Charizard ex Super-Premium Collection",
-"price": 270.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pok-mon-tcg-charizard-ex-super-premium-collection/2023",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/G5YRZQPIC7ANOFFJOAI6I3WU.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "other",
-"set": null,
-"year": null,
-"product": "Charizard ex Super-Premium Collection",
-"packs": 10,
-"key": "other|Charizard ex Super-Premium Collection",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -25560,7 +25540,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution Chaos Rising Booster Pack",
 "price": 12.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-pack",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/ddcac2c59d154c11abfdd6c65e938e34_Large_6cb91f8d-d23b-42f2-bc6a-fc2005427dc0.jpg?v=1779511648",
 "lang": "EN",
@@ -25574,7 +25554,7 @@
 "key": "pack|Chaos Rising",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-08T18:58+10:00"
 },
 {
 "store": "raptor",
@@ -29475,7 +29455,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Surging Sparks Booster Box",
 "price": 450.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-surging-sparks-booster-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_b1a1b44b-a6e9-4f6a-ad93-249e6589c694.jpg?v=1756897360",
 "lang": "EN",
@@ -29489,7 +29469,7 @@
 "key": "box|Surging Sparks",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-08T18:58+10:00"
 },
 {
 "store": "raptor",
@@ -30600,7 +30580,7 @@
 "store": "dorky",
 "title": "Pokemon TCG Mega Evolutions 6 Delta Reign Elite Trainer Box",
 "price": 139.99,
-"available": true,
+"available": false,
 "url": "https://www.dorkydesires.com.au/product/pokemon-tcg-mega-evolutions-6-delta-reign-elite-trainer-box/",
 "image": "https://www.dorkydesires.com.au/wp-content/uploads/2026/10/10-10438-111_delta_reign_etb_1_.png",
 "lang": "EN",
@@ -30614,7 +30594,7 @@
 "key": "etb|Delta Reign",
 "skip": null,
 "first_seen": "2026-11-06T22:03+10:00",
-"changed": "2026-11-06T22:03+10:00"
+"changed": "2026-11-08T18:58+10:00"
 },
 {
 "store": "dorky",
@@ -30799,7 +30779,7 @@
 {
 "store": "dorky",
 "title": "Pokémon TCG: 30th Celebration Poster Collection",
-"price": 79.99,
+"price": 89.99,
 "available": true,
 "url": "https://www.dorkydesires.com.au/product/pokemon-tcg-30th-celebration-poster-collection/",
 "image": "https://www.dorkydesires.com.au/wp-content/uploads/2026/07/Pokmon_TCG_-_30th_Celebration_Poster_Collection_EN__03679.jpg",
@@ -30814,7 +30794,7 @@
 "key": "other|30th Celebration Poster Collection",
 "skip": null,
 "first_seen": "2026-11-06T22:03+10:00",
-"changed": "2026-11-06T22:03+10:00"
+"changed": "2026-11-08T18:58+10:00"
 },
 {
 "store": "dorky",

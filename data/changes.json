@@ -1,6 +1,62 @@
 {
-"updated": "2026-11-08T10:41+10:00",
+"updated": "2026-11-08T18:58+10:00",
 "events": [
+{
+"time": "2026-11-08T18:58+10:00",
+"store": "raptor",
+"key": "pack|Chaos Rising",
+"title": "Pokemon TCG: Mega Evolution Chaos Rising Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "sold-out",
+"old": 12.0
+},
+{
+"time": "2026-11-08T18:58+10:00",
+"store": "raptor",
+"key": "box|Surging Sparks",
+"title": "Pokemon TCG: Surging Sparks Booster Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-surging-sparks-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "sold-out",
+"old": 450.0
+},
+{
+"time": "2026-11-08T18:58+10:00",
+"store": "dorky",
+"key": "etb|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions 6 Delta Reign Elite Trainer Box",
+"url": "https://www.dorkydesires.com.au/product/pokemon-tcg-mega-evolutions-6-delta-reign-elite-trainer-box/",
+"category": "etb",
+"lang": "EN",
+"type": "sold-out",
+"old": 139.99
+},
+{
+"time": "2026-11-08T18:58+10:00",
+"store": "dorky",
+"key": "other|30th Celebration Poster Collection",
+"title": "Pokémon TCG: 30th Celebration Poster Collection",
+"url": "https://www.dorkydesires.com.au/product/pokemon-tcg-30th-celebration-poster-collection/",
+"category": "other",
+"lang": "EN",
+"type": "price-up",
+"old": 79.99,
+"new": 89.99
+},
+{
+"time": "2026-11-08T18:58+10:00",
+"store": "evo",
+"key": "other|Charizard ex Super-Premium Collection",
+"title": "POKÉMON TCG: Charizard ex Super-Premium Collection",
+"url": "https://www.evogames.com.au/product/pok-mon-tcg-charizard-ex-super-premium-collection/2023",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 270.0
+},
 {
 "time": "2026-11-08T08:49+10:00",
 "store": "misty",
