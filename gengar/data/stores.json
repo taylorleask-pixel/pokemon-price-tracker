@@ -1,0 +1,32 @@
+[
+ {
+  "id": "evo-flinders",
+  "name": "Evo Games Flinders View",
+  "platform": "shopify",
+  "url": "https://www.evogamescards.com.au/collections/pokemon-singles-gl"
+ },
+ {
+  "id": "evo-orion",
+  "name": "Evo Games Orion",
+  "platform": "shopify",
+  "url": "https://www.evogamesorion.com.au/collections/pokemon-all-gl"
+ },
+ {
+  "id": "mint",
+  "name": "Mint Collectables",
+  "platform": "shopify",
+  "url": "https://mintcollectables.com.au/collections/pokemon-tcg-singles"
+ },
+ {
+  "id": "misty",
+  "name": "Misty's Collectables",
+  "platform": "misty",
+  "url": "https://mistyscollectables.com.au/sets"
+ },
+ {
+  "id": "raptor",
+  "name": "Raptor Games",
+  "platform": "shopify",
+  "url": "https://raptorgames.com/collections/pokemon-tcg-singles"
+ }
+]

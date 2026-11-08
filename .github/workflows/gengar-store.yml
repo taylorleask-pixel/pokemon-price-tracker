@@ -1,0 +1,44 @@
+name: GengarFinder - add a singles store
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+jobs:
+  add:
+    if: contains(github.event.issue.labels.*.name, 'gengar-store') && github.event.issue.user.login == github.repository_owner && github.event.issue.state == 'open'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Test-search the store and save it
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python gengar/scripts/add_store.py
+          [ -f gengar/data/_ok ] || exit 0
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add gengar/data/stores.json gengar/data/places.json
+          git commit -qm "GengarFinder: add singles store from #${{ github.event.issue.number }}"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((i*3)); done
+          gh workflow run gengar-singles.yml --ref main
+      - name: Reply
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          N: ${{ github.event.issue.number }}
+        run: |
+          if [ -f gengar/data/_result.md ]; then gh issue comment "$N" --body-file gengar/data/_result.md
+          else gh issue comment "$N" --body "Something went wrong. Open the Actions tab on GitHub to see what happened."; fi
+          if [ -f gengar/data/_ok ]; then gh issue close "$N" --reason completed; fi

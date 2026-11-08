@@ -1,0 +1,18 @@
+name: GengarFinder - add a singles store
+description: Check another store's Pokémon singles for your Gengar cards
+title: "Gengar store: "
+labels: ["gengar-store"]
+body:
+  - type: input
+    id: store_name
+    attributes:
+      label: Store name
+    validations:
+      required: true
+  - type: input
+    id: store_url
+    attributes:
+      label: Link to the store's Pokémon singles
+      placeholder: https://
+    validations:
+      required: true
