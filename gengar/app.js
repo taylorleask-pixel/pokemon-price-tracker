@@ -476,3 +476,12 @@ function sendRequest({ ids, action, where = "", paid = null, date = "" }) {
 
 init();
 if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+
+// ---- home-screen apps stay open in the background: reload when coming back after a while
+(() => {
+  let shownAt = Date.now();
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible" && Date.now() - shownAt > 5 * 60 * 1000) location.reload();
+    if (document.visibilityState === "visible") shownAt = Date.now();
+  });
+})();
