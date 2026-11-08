@@ -1,4 +1,21 @@
 {
- "cards": {},
- "log": []
+ "cards": {
+  "107": {
+   "date": "2026-11-08",
+   "where": "Test place",
+   "paid": 1.0
+  }
+ },
+ "log": [
+  {
+   "time": "2026-11-08T11:47+10:00",
+   "action": "add",
+   "ids": [
+    107
+   ],
+   "where": "Test place",
+   "paid": 1.0,
+   "date": "2026-11-08"
+  }
+ ]
 }
