@@ -152,12 +152,13 @@ def main():
         c.update({x: info.get(x) for x in ("db_name", "wrong_card", "image", "image_large", "rarity", "set_logo", "set_symbol", "tcgplayer_url")})
         # market value for this exact variant, in AUD
         tp, value, basis = info.get("tcgplayer") or {}, None, None
-        for key in PRICE_KEYS.get(c["variant"], []):
+        stamped = re.search(r"stamp|play! pok|red logo", c["name"], re.I)   # the normal card's price would be wrong
+        for key in ([] if stamped else PRICE_KEYS.get(c["variant"], [])):
             p = tp.get(key) or {}
             if p.get("market") or p.get("mid"):
                 value, basis = round((p.get("market") or p.get("mid")) * usd, 2), f"TCGplayer {key}"
                 break
-        if value is None and c["variant"] in ("—", "H", "U", "UH") and (info.get("cardmarket") or {}).get("trendPrice"):
+        if value is None and not stamped and c["variant"] in ("—", "H", "U", "UH") and (info.get("cardmarket") or {}).get("trendPrice"):
             value, basis = round(info["cardmarket"]["trendPrice"] * eur, 2), "Cardmarket trend"
         c["market_aud"], c["market_basis"] = value, basis
         if not c["image"]:
