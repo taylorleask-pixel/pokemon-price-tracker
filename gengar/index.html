@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>GengarFinder</title>
+<meta name="description" content="Taylor's Gengar collection binder, prices and where each card came from">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="theme-color" content="#3B2560">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="GengarFinder">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+</head>
+<body>
+<header class="top">
+  <h1>GengarFinder</h1>
+  <div class="progress" id="progress" aria-live="polite">
+    <div class="pnum"><b id="have">0</b><span>/<span id="total">115</span></span></div>
+    <div class="pbar" role="progressbar" aria-label="Collection complete" aria-valuemin="0" aria-valuemax="100" id="pbar"><i id="pfill"></i></div>
+    <div class="ppct" id="pct">0% done</div>
+  </div>
+</header>
+
+<nav class="tabs" id="tabs" role="tablist">
+  <button role="tab" data-tab="binder">Binder</button>
+  <button role="tab" data-tab="shop">Shop</button>
+  <button role="tab" data-tab="sets">Sets</button>
+  <button role="tab" data-tab="spending">Spending</button>
+</nav>
+
+<main id="view"><p class="loading">Opening the binder…</p></main>
+
+<button class="fab" id="newcard" type="button"><span aria-hidden="true">+</span> New card</button>
+
+<dialog id="sheet" aria-labelledby="sheet-title">
+  <form method="dialog" id="newform">
+    <div class="sheet-head">
+      <h2 id="sheet-title">New card</h2>
+      <button type="button" class="x" id="sheet-close" aria-label="Close">×</button>
+    </div>
+    <label class="fld">Which card
+      <input id="nf-search" type="search" placeholder="Search name, set or number" autocomplete="off">
+    </label>
+    <div class="picklist" id="nf-list" role="listbox" aria-multiselectable="true" aria-label="Cards"></div>
+    <p class="picked" id="nf-picked">No card picked yet</p>
+    <div class="row2">
+      <label class="fld">Where you got it
+        <select id="nf-where"></select>
+      </label>
+      <label class="fld" id="nf-other-wrap" hidden>Where, exactly
+        <input id="nf-other" placeholder="e.g. Card show, a friend">
+      </label>
+    </div>
+    <div class="row2">
+      <label class="fld">Price paid each
+        <input id="nf-paid" inputmode="decimal" placeholder="$0.00">
+      </label>
+      <label class="fld">Date
+        <input id="nf-date" type="date">
+      </label>
+    </div>
+    <p class="hint">Saving opens a request on GitHub. Tap <b>Create</b> there, and it shows up here in about a minute.</p>
+    <button class="btn wide" id="nf-save" type="button" disabled>Save to collection</button>
+  </form>
+</dialog>
+
+<footer class="foot">Market values come from TCGplayer, turned into AUD, and are checked daily. Store prices come from Pack Watch.
+  <a href="../">Open Pack Watch</a></footer>
+<script src="app.js"></script>
+</body>
+</html>

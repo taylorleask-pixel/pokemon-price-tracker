@@ -68,3 +68,14 @@ Only requests made by the repo owner are acted on. Code: `scraper/add_store.py`,
 `scraper/ebay.py` checks eBay Australia once a day (new, Buy It Now, located in Australia; asking prices,
 not sold prices) and product pages show an "On eBay" panel. It only runs once two repository secrets
 exist: `EBAY_CLIENT_ID` and `EBAY_CLIENT_SECRET` (Settings → Secrets and variables → Actions).
+
+## GengarFinder (the `gengar/` folder)
+
+A separate app at `…/pokemon-price-tracker/gengar/` for the Gengar master set (115 cards):
+binder pages with missing cards greyed out, card pages with market value, store prices and where each card
+comes from, a shop list, sets, and spending (where cards came from, total paid, paid vs worth).
+
+- `gengar/data/list.txt` / `cards_base.json`: the card list. `sources.json`: where each card comes from.
+- `gengar/data/cards.json`: pictures and market prices, refreshed daily by `gengar/scripts/build_cards.py`.
+- `gengar/data/collection.json`: your cards. The **New card** button opens a GitHub request
+  (template "GengarFinder - new card"); `gengar/scripts/record.py` saves it. `places.json` remembers places.
