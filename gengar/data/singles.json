@@ -1,0 +1,1773 @@
+{
+"updated": "2026-11-08T14:50+10:00",
+"listings": [
+{
+"store": "evo-flinders",
+"card": 114,
+"title": "Gengar ex 090/128 (ME: 30th Celebration) - Holofoil",
+"condition": "NM",
+"price": 3.5,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=50806471950498"
+},
+{
+"store": "evo-flinders",
+"card": 114,
+"title": "Gengar ex 090/128 (ME: 30th Celebration) - Holofoil",
+"condition": "LP",
+"price": 2.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=50806471983266"
+},
+{
+"store": "evo-flinders",
+"card": 114,
+"title": "Gengar ex 090/128 (ME: 30th Celebration) - Holofoil",
+"condition": "MP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=50806472016034"
+},
+{
+"store": "evo-flinders",
+"card": 114,
+"title": "Gengar ex 090/128 (ME: 30th Celebration) - Holofoil",
+"condition": "HP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=50806472048802"
+},
+{
+"store": "evo-flinders",
+"card": 114,
+"title": "Gengar ex 090/128 (ME: 30th Celebration) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=50806472081570"
+},
+{
+"store": "evo-flinders",
+"card": 39,
+"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil",
+"condition": "NM",
+"price": 146.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=50806344843426"
+},
+{
+"store": "evo-flinders",
+"card": 39,
+"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil",
+"condition": "LP",
+"price": 117.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=50806344876194"
+},
+{
+"store": "evo-flinders",
+"card": 39,
+"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil",
+"condition": "MP",
+"price": 87.5,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=50806344908962"
+},
+{
+"store": "evo-flinders",
+"card": 39,
+"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil",
+"condition": "HP",
+"price": 58.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=50806344941730"
+},
+{
+"store": "evo-flinders",
+"card": 39,
+"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil",
+"condition": "DMG",
+"price": 32.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=50806344974498"
+},
+{
+"store": "evo-flinders",
+"card": 50,
+"title": "Gengar 38/111 (SM - Crimson Invasion) - Holofoil",
+"condition": "NM",
+"price": 49.0,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=50806301687970"
+},
+{
+"store": "evo-flinders",
+"card": 50,
+"title": "Gengar 38/111 (SM - Crimson Invasion) - Holofoil",
+"condition": "LP",
+"price": 39.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=50806301720738"
+},
+{
+"store": "evo-flinders",
+"card": 50,
+"title": "Gengar 38/111 (SM - Crimson Invasion) - Holofoil",
+"condition": "MP",
+"price": 29.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=50806301753506"
+},
+{
+"store": "evo-flinders",
+"card": 50,
+"title": "Gengar 38/111 (SM - Crimson Invasion) - Holofoil",
+"condition": "HP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=50806301786274"
+},
+{
+"store": "evo-flinders",
+"card": 50,
+"title": "Gengar 38/111 (SM - Crimson Invasion) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=50806301819042"
+},
+{
+"store": "evo-flinders",
+"card": 111,
+"title": "Mega Gengar ex 125/217 (ME: Ascended Heroes) - Holofoil",
+"condition": "NM",
+"price": 8.0,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690349218"
+},
+{
+"store": "evo-flinders",
+"card": 111,
+"title": "Mega Gengar ex 125/217 (ME: Ascended Heroes) - Holofoil",
+"condition": "LP",
+"price": 6.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690381986"
+},
+{
+"store": "evo-flinders",
+"card": 111,
+"title": "Mega Gengar ex 125/217 (ME: Ascended Heroes) - Holofoil",
+"condition": "MP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690414754"
+},
+{
+"store": "evo-flinders",
+"card": 111,
+"title": "Mega Gengar ex 125/217 (ME: Ascended Heroes) - Holofoil",
+"condition": "HP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690447522"
+},
+{
+"store": "evo-flinders",
+"card": 111,
+"title": "Mega Gengar ex 125/217 (ME: Ascended Heroes) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690480290"
+},
+{
+"store": "evo-flinders",
+"card": 58,
+"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
+"condition": "NM",
+"price": 48.0,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=50806421389474"
+},
+{
+"store": "evo-flinders",
+"card": 58,
+"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
+"condition": "LP",
+"price": 38.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=50806421422242"
+},
+{
+"store": "evo-flinders",
+"card": 58,
+"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
+"condition": "MP",
+"price": 29.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=50806421455010"
+},
+{
+"store": "evo-flinders",
+"card": 58,
+"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
+"condition": "HP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=50806421487778"
+},
+{
+"store": "evo-flinders",
+"card": 58,
+"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=50806421520546"
+},
+{
+"store": "evo-flinders",
+"card": 106,
+"title": "Gengar TG06/TG30 (SWSH11: Lost Origin Trainer Gallery) - Holofoil",
+"condition": "NM",
+"price": 80.0,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/gengar-tg06-tg30-swsh11-lost-origin-trainer-gallery-holofoil?variant=50806579527842"
+},
+{
+"store": "evo-flinders",
+"card": 106,
+"title": "Gengar TG06/TG30 (SWSH11: Lost Origin Trainer Gallery) - Holofoil",
+"condition": "LP",
+"price": 64.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-tg06-tg30-swsh11-lost-origin-trainer-gallery-holofoil?variant=50806579560610"
+},
+{
+"store": "evo-flinders",
+"card": 106,
+"title": "Gengar TG06/TG30 (SWSH11: Lost Origin Trainer Gallery) - Holofoil",
+"condition": "MP",
+"price": 52.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-tg06-tg30-swsh11-lost-origin-trainer-gallery-holofoil?variant=50806579593378"
+},
+{
+"store": "evo-flinders",
+"card": 106,
+"title": "Gengar TG06/TG30 (SWSH11: Lost Origin Trainer Gallery) - Holofoil",
+"condition": "HP",
+"price": 35.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-tg06-tg30-swsh11-lost-origin-trainer-gallery-holofoil?variant=50806579626146"
+},
+{
+"store": "evo-flinders",
+"card": 106,
+"title": "Gengar TG06/TG30 (SWSH11: Lost Origin Trainer Gallery) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-tg06-tg30-swsh11-lost-origin-trainer-gallery-holofoil?variant=50806579658914"
+},
+{
+"store": "evo-flinders",
+"card": 60,
+"title": "Gengar 085/202 (SWSH01: Sword & Shield Base Set) - Holofoil",
+"condition": "NM",
+"price": 16.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-085-202-swsh01-sword-shield-base-set-holofoil?variant=50816996999330"
+},
+{
+"store": "evo-flinders",
+"card": 60,
+"title": "Gengar 085/202 (SWSH01: Sword & Shield Base Set) - Holofoil",
+"condition": "LP",
+"price": 13.5,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/gengar-085-202-swsh01-sword-shield-base-set-holofoil?variant=50816997032098"
+},
+{
+"store": "evo-flinders",
+"card": 60,
+"title": "Gengar 085/202 (SWSH01: Sword & Shield Base Set) - Holofoil",
+"condition": "MP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-085-202-swsh01-sword-shield-base-set-holofoil?variant=50816997064866"
+},
+{
+"store": "evo-flinders",
+"card": 60,
+"title": "Gengar 085/202 (SWSH01: Sword & Shield Base Set) - Holofoil",
+"condition": "HP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-085-202-swsh01-sword-shield-base-set-holofoil?variant=50816997097634"
+},
+{
+"store": "evo-flinders",
+"card": 60,
+"title": "Gengar 085/202 (SWSH01: Sword & Shield Base Set) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-085-202-swsh01-sword-shield-base-set-holofoil?variant=50816997130402"
+},
+{
+"store": "evo-flinders",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "NM",
+"price": 1600.5,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=50806424600738"
+},
+{
+"store": "evo-flinders",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "LP",
+"price": 1280.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=50806424633506"
+},
+{
+"store": "evo-flinders",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "MP",
+"price": 960.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=50806424666274"
+},
+{
+"store": "evo-flinders",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "HP",
+"price": 640.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=50806424699042"
+},
+{
+"store": "evo-flinders",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "DMG",
+"price": 320.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=50806424731810"
+},
+{
+"store": "evo-flinders",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "NM",
+"price": 130.0,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=50806700933282"
+},
+{
+"store": "evo-flinders",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "LP",
+"price": 104.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=50806700966050"
+},
+{
+"store": "evo-flinders",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "MP",
+"price": 78.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=50806700998818"
+},
+{
+"store": "evo-flinders",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "HP",
+"price": 57.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=50806701031586"
+},
+{
+"store": "evo-flinders",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "DMG",
+"price": 28.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=50806701064354"
+},
+{
+"store": "evo-flinders",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "NM",
+"price": 40.5,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=50816927170722"
+},
+{
+"store": "evo-flinders",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "LP",
+"price": 32.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=50816927203490"
+},
+{
+"store": "evo-flinders",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "MP",
+"price": 26.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=50816927236258"
+},
+{
+"store": "evo-flinders",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "HP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=50816927269026"
+},
+{
+"store": "evo-flinders",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=50816927301794"
+},
+{
+"store": "evo-flinders",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "NM",
+"price": 82.5,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=50806885712034"
+},
+{
+"store": "evo-flinders",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "LP",
+"price": 66.0,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=50806885744802"
+},
+{
+"store": "evo-flinders",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "MP",
+"price": 54.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=50806885777570"
+},
+{
+"store": "evo-flinders",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "HP",
+"price": 36.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=50806885810338"
+},
+{
+"store": "evo-flinders",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamescards.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=50806885843106"
+},
+{
+"store": "evo-orion",
+"card": 38,
+"title": "M Gengar EX XY166 (XY Promos) - Holofoil",
+"condition": "NM",
+"price": 477.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/m-gengar-ex-xy166-xy-promos-holofoil?variant=50292088275165"
+},
+{
+"store": "evo-orion",
+"card": 38,
+"title": "M Gengar EX XY166 (XY Promos) - Holofoil",
+"condition": "LP",
+"price": 382.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/m-gengar-ex-xy166-xy-promos-holofoil?variant=50292088307933"
+},
+{
+"store": "evo-orion",
+"card": 38,
+"title": "M Gengar EX XY166 (XY Promos) - Holofoil",
+"condition": "MP",
+"price": 286.5,
+"available": true,
+"url": "https://www.evogamesorion.com.au/products/m-gengar-ex-xy166-xy-promos-holofoil?variant=50292088340701"
+},
+{
+"store": "evo-orion",
+"card": 38,
+"title": "M Gengar EX XY166 (XY Promos) - Holofoil",
+"condition": "HP",
+"price": 191.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/m-gengar-ex-xy166-xy-promos-holofoil?variant=50292088373469"
+},
+{
+"store": "evo-orion",
+"card": 38,
+"title": "M Gengar EX XY166 (XY Promos) - Holofoil",
+"condition": "DMG",
+"price": 95.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/m-gengar-ex-xy166-xy-promos-holofoil?variant=50292088406237"
+},
+{
+"store": "evo-orion",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "NM",
+"price": 1600.5,
+"available": true,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=48540999450845"
+},
+{
+"store": "evo-orion",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "LP",
+"price": 1280.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=48540999483613"
+},
+{
+"store": "evo-orion",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "MP",
+"price": 960.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=48540999516381"
+},
+{
+"store": "evo-orion",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "HP",
+"price": 640.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=48540999549149"
+},
+{
+"store": "evo-orion",
+"card": 67,
+"title": "Gengar VMAX 271/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "DMG",
+"price": 320.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=48540999581917"
+},
+{
+"store": "evo-orion",
+"card": 105,
+"title": "Gengar VMAX 157/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "NM",
+"price": 69.5,
+"available": true,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil?variant=48528846422237"
+},
+{
+"store": "evo-orion",
+"card": 105,
+"title": "Gengar VMAX 157/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "LP",
+"price": 55.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil?variant=48528846455005"
+},
+{
+"store": "evo-orion",
+"card": 105,
+"title": "Gengar VMAX 157/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "MP",
+"price": 45.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil?variant=48528846487773"
+},
+{
+"store": "evo-orion",
+"card": 105,
+"title": "Gengar VMAX 157/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "HP",
+"price": 30.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil?variant=48528846520541"
+},
+{
+"store": "evo-orion",
+"card": 105,
+"title": "Gengar VMAX 157/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil?variant=48528846553309"
+},
+{
+"store": "evo-orion",
+"card": 48,
+"title": "Gengar 35/83 (Generations) - Reverse Holofoil",
+"condition": "NM",
+"price": 90.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-35-83-generations-reverse-holofoil?variant=68417162969309"
+},
+{
+"store": "evo-orion",
+"card": 48,
+"title": "Gengar 35/83 (Generations) - Reverse Holofoil",
+"condition": "LP",
+"price": 72.0,
+"available": true,
+"url": "https://www.evogamesorion.com.au/products/gengar-35-83-generations-reverse-holofoil?variant=68417163002077"
+},
+{
+"store": "evo-orion",
+"card": 48,
+"title": "Gengar 35/83 (Generations) - Reverse Holofoil",
+"condition": "MP",
+"price": 59.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-35-83-generations-reverse-holofoil?variant=68417163034845"
+},
+{
+"store": "evo-orion",
+"card": 48,
+"title": "Gengar 35/83 (Generations) - Reverse Holofoil",
+"condition": "HP",
+"price": 39.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-35-83-generations-reverse-holofoil?variant=68417163067613"
+},
+{
+"store": "evo-orion",
+"card": 48,
+"title": "Gengar 35/83 (Generations) - Reverse Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-35-83-generations-reverse-holofoil?variant=68417163100381"
+},
+{
+"store": "evo-orion",
+"card": 99,
+"title": "Gastly 177/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "NM",
+"price": 149.0,
+"available": true,
+"url": "https://www.evogamesorion.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil?variant=68280874369245"
+},
+{
+"store": "evo-orion",
+"card": 99,
+"title": "Gastly 177/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "LP",
+"price": 119.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil?variant=68280874402013"
+},
+{
+"store": "evo-orion",
+"card": 99,
+"title": "Gastly 177/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "MP",
+"price": 89.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil?variant=68280874434781"
+},
+{
+"store": "evo-orion",
+"card": 99,
+"title": "Gastly 177/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "HP",
+"price": 59.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil?variant=68280874467549"
+},
+{
+"store": "evo-orion",
+"card": 99,
+"title": "Gastly 177/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "DMG",
+"price": 32.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil?variant=68280874500317"
+},
+{
+"store": "evo-orion",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "NM",
+"price": 40.5,
+"available": true,
+"url": "https://www.evogamesorion.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=68367779430621"
+},
+{
+"store": "evo-orion",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "LP",
+"price": 32.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=68367779463389"
+},
+{
+"store": "evo-orion",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "MP",
+"price": 26.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=68367779496157"
+},
+{
+"store": "evo-orion",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "HP",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=68367779528925"
+},
+{
+"store": "evo-orion",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "DMG",
+"price": 1000.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=68367779561693"
+},
+{
+"store": "evo-orion",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "NM",
+"price": 130.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=48409522438365"
+},
+{
+"store": "evo-orion",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "LP",
+"price": 104.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=48409522471133"
+},
+{
+"store": "evo-orion",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "MP",
+"price": 78.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=48409522503901"
+},
+{
+"store": "evo-orion",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "HP",
+"price": 57.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=48409522536669"
+},
+{
+"store": "evo-orion",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "DMG",
+"price": 28.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=48409522569437"
+},
+{
+"store": "evo-orion",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "NM",
+"price": 82.5,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=48534685810909"
+},
+{
+"store": "evo-orion",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "LP",
+"price": 66.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=48534685843677"
+},
+{
+"store": "evo-orion",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "MP",
+"price": 54.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=48534685876445"
+},
+{
+"store": "evo-orion",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "HP",
+"price": 36.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=48534685909213"
+},
+{
+"store": "evo-orion",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "DMG",
+"price": 28.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=48534685941981"
+},
+{
+"store": "mint",
+"card": 51,
+"title": "Gengar 38/111 (SM - Crimson Invasion) - Reverse Holofoil",
+"condition": "NM",
+"price": 55.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-38-111-sm-crimson-invasion-reverse-holofoil?variant=51408056778916"
+},
+{
+"store": "mint",
+"card": 47,
+"title": "Gengar 35/83 (Generations) - Holofoil MP",
+"condition": "MP",
+"price": 40.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-35-83-generations-holofoil-mp?variant=57606452707492"
+},
+{
+"store": "mint",
+"card": 80,
+"title": "Mega Gengar ex 269/217 (ME: Ascended Heroes) - Holofoil",
+"condition": "NM",
+"price": 70.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/mega-gengar-ex-269-217-me-ascended-heroes-holofoil-1?variant=54296224956580"
+},
+{
+"store": "mint",
+"card": 105,
+"title": "Gengar VMAX 157/264 (SWSH08: Fusion Strike) - Holofoil",
+"condition": "NM",
+"price": 70.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil-1?variant=53846312124580"
+},
+{
+"store": "mint",
+"card": 57,
+"title": "Gengar SWSH052 (SWSH: Sword & Shield Promo Cards) - Holofoil LP",
+"condition": "LP",
+"price": 175.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-swsh052-swsh-sword-shield-promo-cards-holofoil-lp?variant=57606536233124"
+},
+{
+"store": "mint",
+"card": 52,
+"title": "Gengar and Mimikyu GX 53/181 (SM - Team Up) - Holofoil",
+"condition": "NM",
+"price": 500.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-and-mimikyu-gx-53-181-sm-team-up-holofoil?variant=51437341540516"
+},
+{
+"store": "mint",
+"card": 105,
+"title": "Gengar VMAX 157/264 (SWSH08: Fusion Strike) - Holofoil LP",
+"condition": "LP",
+"price": 60.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil-lp?variant=57606376816804"
+},
+{
+"store": "mint",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "NM",
+"price": 140.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil-1?variant=54289815928996"
+},
+{
+"store": "mint",
+"card": 99,
+"title": "Gastly 177/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "NM",
+"price": 150.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil-1?variant=57611385372836"
+},
+{
+"store": "mint",
+"card": 99,
+"title": "Gastly 177/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "NM",
+"price": 150.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil?variant=51470754644132"
+},
+{
+"store": "mint",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "NM",
+"price": 45.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=51402602414244"
+},
+{
+"store": "mint",
+"card": 115,
+"title": "Greavard 214/198 (SV01: Scarlet & Violet Base Set) - Holofoil",
+"condition": "NM",
+"price": 35.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil-1?variant=54295715840164"
+},
+{
+"store": "mint",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "NM",
+"price": 140.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil-1?variant=53839984656548"
+},
+{
+"store": "mint",
+"card": 98,
+"title": "Mimikyu V TG16/TG30 (SWSH09: Brilliant Stars Trainer Gallery) - Holofoil",
+"condition": "NM",
+"price": 140.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=51405612089508"
+},
+{
+"store": "mint",
+"card": 101,
+"title": "Morty's Conviction 211/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "NM",
+"price": 150.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/mortys-conviction-211-162-sv05-temporal-forces-holofoil-1?variant=53847286055076"
+},
+{
+"store": "mint",
+"card": 101,
+"title": "Morty's Conviction 211/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "NM",
+"price": 150.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/mortys-conviction-211-162-sv05-temporal-forces-holofoil?variant=51406350844068"
+},
+{
+"store": "mint",
+"card": 100,
+"title": "Pikachu 173/165 (SV2a: Pokemon Card 151) - Holofoil",
+"condition": "NM",
+"price": 60.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/pikachu-173-165-173-165-sv2a-pokemon-card-151-holofoil?variant=51407039168676"
+},
+{
+"store": "mint",
+"card": 100,
+"title": "Pikachu 173/165 (SV: Scarlet & Violet 151) - Holofoil",
+"condition": "NM",
+"price": 150.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=51403339923620"
+},
+{
+"store": "mint",
+"card": 100,
+"title": "Pikachu 173/165 (SV2a: Pokemon Card 151) - Holofoil",
+"condition": "NM",
+"price": 55.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/pikachu-173-165-sv2a-pokemon-card-151-holofoil?variant=53846312911012"
+},
+{
+"store": "misty",
+"card": 6,
+"title": "Sabrina's Gengar 14 (Gym Heroes) - Unlimited",
+"condition": "",
+"price": 2064.0,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5opkh9yzh11fkcos742bw"
+},
+{
+"store": "misty",
+"card": 7,
+"title": "Sabrina's Gengar 14 (Gym Heroes) - 1st Edition",
+"condition": "",
+"price": 2064.0,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5opkh9yzh11fkcos742bw"
+},
+{
+"store": "misty",
+"card": 8,
+"title": "Sabrina's Gengar 29 (Gym Challenge) - Unlimited",
+"condition": "",
+"price": 361.96,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5omek9x4z11fkt6epa3v3"
+},
+{
+"store": "misty",
+"card": 9,
+"title": "Sabrina's Gengar 29 (Gym Challenge) - 1st Edition",
+"condition": "",
+"price": 946.52,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5omek9x4z11fkt6epa3v3"
+},
+{
+"store": "misty",
+"card": 91,
+"title": "Rocket's Hideout 63 (Neo Revelation) - Unlimited",
+"condition": "",
+"price": 22.45,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5obfh9sgz11fkte83js6a"
+},
+{
+"store": "misty",
+"card": 92,
+"title": "Rocket's Hideout 63 (Neo Revelation) - 1st Edition",
+"condition": "",
+"price": 64.46,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5obfh9sgz11fkte83js6a"
+},
+{
+"store": "misty",
+"card": 10,
+"title": "Dark Gengar 6 (Neo Destiny) - Unlimited",
+"condition": "",
+"price": 825.93,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5o7jv9p4v11fkw268ii5g"
+},
+{
+"store": "misty",
+"card": 11,
+"title": "Dark Gengar 6 (Neo Destiny) - 1st Edition",
+"condition": "",
+"price": 825.93,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5o7jv9p4v11fkw268ii5g"
+},
+{
+"store": "misty",
+"card": 12,
+"title": "Gengar 11 (Legendary Collection) - Unlimited",
+"condition": "",
+"price": 479.02,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5o4949mpd11fkog25flhu"
+},
+{
+"store": "misty",
+"card": 13,
+"title": "Gengar 11 (Legendary Collection) - Reverse Holo",
+"condition": "",
+"price": 3675.37,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5o4949mpd11fkog25flhu"
+},
+{
+"store": "misty",
+"card": 14,
+"title": "Gengar 13 (Expedition Base Set) - Unlimited",
+"condition": "",
+"price": 916.78,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5o0fo9k4r11fk13rg1tgc"
+},
+{
+"store": "misty",
+"card": 15,
+"title": "Gengar 13 (Expedition Base Set) - Reverse Holo",
+"condition": "",
+"price": 1321.46,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5o0fo9k4r11fk13rg1tgc"
+},
+{
+"store": "misty",
+"card": 16,
+"title": "Gengar 48 (Expedition Base Set) - Unlimited",
+"condition": "",
+"price": 316.45,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5o1ap9l1f11fkxhwmlx33"
+},
+{
+"store": "misty",
+"card": 17,
+"title": "Gengar 48 (Expedition Base Set) - Reverse Holo",
+"condition": "",
+"price": 516.73,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5o1ap9l1f11fkxhwmlx33"
+},
+{
+"store": "misty",
+"card": 18,
+"title": "Gengar 10 (Skyridge) - Unlimited",
+"condition": "",
+"price": 853.45,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5npua9fr111fkg2qpwjkt"
+},
+{
+"store": "misty",
+"card": 19,
+"title": "Gengar 10 (Skyridge) - Reverse Holo",
+"condition": "",
+"price": 2642.78,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5npua9fr111fkg2qpwjkt"
+},
+{
+"store": "misty",
+"card": 20,
+"title": "Gengar H9 (Skyridge) - Unlimited",
+"condition": "",
+"price": 50.0,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5nptw9fqr11fkd7qx309m"
+},
+{
+"store": "misty",
+"card": 21,
+"title": "Gengar ex 108 (FireRed & LeafGreen) - Unlimited",
+"condition": "",
+"price": 2312.59,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr48zejq68s1fcyve20wzzjd"
+},
+{
+"store": "misty",
+"card": 22,
+"title": "Gengar 5 (Legend Maker) - Unlimited",
+"condition": "",
+"price": 313.28,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5lzop8ihl11fk9uigjyt5"
+},
+{
+"store": "misty",
+"card": 23,
+"title": "Gengar 5 (Legend Maker) - Reverse Holo",
+"condition": "",
+"price": 404.69,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5lzop8ihl11fk9uigjyt5"
+},
+{
+"store": "misty",
+"card": 39,
+"title": "Gengar-EX 34 (Phantom Forces) - Unlimited",
+"condition": "",
+"price": 141.17,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5gfc15orj11fk9nj4bg51"
+},
+{
+"store": "misty",
+"card": 40,
+"title": "M Gengar-EX 35 (Phantom Forces) - Unlimited",
+"condition": "",
+"price": 253.48,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5gfcn5osb11fkgav43qc7"
+},
+{
+"store": "misty",
+"card": 93,
+"title": "Gengar Spirit Link 95 (Phantom Forces) - Unlimited",
+"condition": "",
+"price": 8.89,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ghf65qct11fkbpesnk5k"
+},
+{
+"store": "misty",
+"card": 94,
+"title": "Gengar Spirit Link 95 (Phantom Forces) - Reverse Holo",
+"condition": "",
+"price": 48.3,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ghf65qct11fkbpesnk5k"
+},
+{
+"store": "misty",
+"card": 41,
+"title": "Gengar-EX 114 (Phantom Forces) - Unlimited",
+"condition": "",
+"price": 1358.23,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr48tbco3jvvfcyv8ntlsxn2"
+},
+{
+"store": "misty",
+"card": 42,
+"title": "M Gengar-EX 121 (Phantom Forces) - Unlimited",
+"condition": "",
+"price": 831.84,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr48tbgi3jzdfcyvz1dpkqq7"
+},
+{
+"store": "misty",
+"card": 43,
+"title": "Gengar 60 (BREAKthrough) - Unlimited",
+"condition": "",
+"price": 50.7,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fvqn5ec311fkatmpeivd"
+},
+{
+"store": "misty",
+"card": 45,
+"title": "Gengar 60 (BREAKthrough) - Reverse Holo",
+"condition": "",
+"price": 106.12,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fvqn5ec311fkatmpeivd"
+},
+{
+"store": "misty",
+"card": 47,
+"title": "Gengar 35 (Generations) - Unlimited",
+"condition": "",
+"price": 75.66,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fiwd59at11fkrh7cg7rp"
+},
+{
+"store": "misty",
+"card": 48,
+"title": "Gengar 35 (Generations) - Reverse Holo",
+"condition": "",
+"price": 93.79,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fiwd59at11fkrh7cg7rp"
+},
+{
+"store": "misty",
+"card": 49,
+"title": "Gengar 38 (Crimson Invasion) - Unlimited",
+"condition": "",
+"price": 50.0,
+"available": true,
+"stock": 3,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ea7q4m1n11fkpo7pzsom"
+},
+{
+"store": "misty",
+"card": 51,
+"title": "Gengar 38 (Crimson Invasion) - Reverse Holo",
+"condition": "",
+"price": 55.0,
+"available": true,
+"stock": 2,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ea7q4m1n11fkpo7pzsom"
+},
+{
+"store": "misty",
+"card": 52,
+"title": "Gengar & Mimikyu-GX 53 (Team Up) - Unlimited",
+"condition": "",
+"price": 646.11,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5deya46ef11fkfb3tgmnh"
+},
+{
+"store": "misty",
+"card": 53,
+"title": "Gengar & Mimikyu-GX 164 (Team Up) - Unlimited",
+"condition": "",
+"price": 694.82,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr48q0um1xppfcyv9kbap5ug"
+},
+{
+"store": "misty",
+"card": 54,
+"title": "Gengar & Mimikyu-GX 165 (Team Up) - Unlimited",
+"condition": "",
+"price": 3612.42,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr48q0uz1xq7fcyvzchoqjp1"
+},
+{
+"store": "misty",
+"card": 55,
+"title": "Gengar & Mimikyu-GX 186 (Team Up) - Unlimited",
+"condition": "",
+"price": 927.06,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr48q13q1y09fcyv5yj1llw6"
+},
+{
+"store": "misty",
+"card": 56,
+"title": "Gengar 70 (Unbroken Bonds) - Reverse Holo",
+"condition": "",
+"price": 80.0,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5d4m441z111fkq9ktcmy8"
+},
+{
+"store": "misty",
+"card": 102,
+"title": "Gengar 70 (Unbroken Bonds) - Unlimited",
+"condition": "",
+"price": 55.0,
+"available": true,
+"stock": 4,
+"url": "https://mistyscollectables.com.au/cards/cmqz5d4m441z111fkq9ktcmy8"
+},
+{
+"store": "misty",
+"card": 96,
+"title": "Surprise Box 187 (Unbroken Bonds) - Unlimited",
+"condition": "",
+"price": 3.0,
+"available": true,
+"stock": 6,
+"url": "https://mistyscollectables.com.au/cards/cmqz5d9rh44o311fkg4oauc9b"
+},
+{
+"store": "misty",
+"card": 97,
+"title": "Surprise Box 187 (Unbroken Bonds) - Reverse Holo",
+"condition": "",
+"price": 30.18,
+"available": true,
+"stock": 5,
+"url": "https://mistyscollectables.com.au/cards/cmqz5d9rh44o311fkg4oauc9b"
+},
+{
+"store": "misty",
+"card": 61,
+"title": "Gengar 85 (Sword & Shield) - Reverse Holo",
+"condition": "",
+"price": 17.48,
+"available": true,
+"stock": 1,
+"url": "https://mistyscollectables.com.au/cards/cmqz5c1yz3ipj11fkja88v8t5"
+},
+{
+"store": "misty",
+"card": 57,
+"title": "Gengar SWSH052 (SWSH Black Star Promos) - Unlimited",
+"condition": "",
+"price": 218.05,
+"available": true,
+"stock": 4,
+"url": "https://mistyscollectables.com.au/cards/cmqz5caq43m8v11fkle2gh4o7"
+},
+{
+"store": "misty",
+"card": 58,
+"title": "Gengar SWSH241 (SWSH Black Star Promos) - Unlimited",
+"condition": "",
+"price": 45.59,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr48p7df1g5bfcyvg2sb9pvo"
+},
+{
+"store": "misty",
+"card": 63,
+"title": "Gengar 57 (Chilling Reign) - Unlimited",
+"condition": "",
+"price": 6.62,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ar322u8111fk703pb1ro"
+},
+{
+"store": "misty",
+"card": 64,
+"title": "Gengar 57 (Chilling Reign) - Reverse Holo",
+"condition": "",
+"price": 7.42,
+"available": true,
+"stock": 1,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ar322u8111fk703pb1ro"
+},
+{
+"store": "misty",
+"card": 104,
+"title": "Gengar V 156 (Fusion Strike) - Unlimited",
+"condition": "",
+"price": 20.85,
+"available": true,
+"stock": 1,
+"url": "https://mistyscollectables.com.au/cards/cmqz5admw2n1v11fkweg4oj7w"
+},
+{
+"store": "misty",
+"card": 105,
+"title": "Gengar VMAX 157 (Fusion Strike) - Unlimited",
+"condition": "",
+"price": 67.68,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5adng2n2h11fkyu0bam4z"
+},
+{
+"store": "misty",
+"card": 67,
+"title": "Gengar VMAX 271 (Fusion Strike) - Unlimited",
+"condition": "",
+"price": 1694.97,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr48nhm50m71fcyvpzgoks5m"
+},
+{
+"store": "misty",
+"card": 98,
+"title": "Mimikyu V TG16 (Brilliant Stars Trainer Gallery) - Unlimited",
+"condition": "",
+"price": 130.91,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5a2fn2h3311fkcs1yy59p"
+},
+{
+"store": "misty",
+"card": 68,
+"title": "Gengar 66 (Lost Origin) - Unlimited",
+"condition": "",
+"price": 12.0,
+"available": true,
+"stock": 3,
+"url": "https://mistyscollectables.com.au/cards/cmqz59hxi27gz11fk282cu3h9"
+},
+{
+"store": "misty",
+"card": 70,
+"title": "Gengar 66 (Lost Origin) - Reverse Holo",
+"condition": "",
+"price": 12.0,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz59hxi27gz11fk282cu3h9"
+},
+{
+"store": "misty",
+"card": 106,
+"title": "Gengar TG06 (Lost Origin Trainer Gallery) - Unlimited",
+"condition": "",
+"price": 84.72,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz59edl25o711fk2jrtpw6v"
+},
+{
+"store": "misty",
+"card": 115,
+"title": "Greavard 214 (Scarlet & Violet) - Unlimited",
+"condition": "",
+"price": 35.35,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr47qiky1rvnvh9ljtid9rfg"
+},
+{
+"store": "misty",
+"card": 73,
+"title": "Gengar 94 (151) - Reverse Holo",
+"condition": "",
+"price": 18.22,
+"available": true,
+"stock": 2,
+"url": "https://mistyscollectables.com.au/cards/cmqz57qvm1fbj11fk9evrofe1"
+},
+{
+"store": "misty",
+"card": 107,
+"title": "Gengar 94 (151) - Unlimited",
+"condition": "",
+"price": 5.91,
+"available": true,
+"stock": 21,
+"url": "https://mistyscollectables.com.au/cards/cmqz57qvm1fbj11fk9evrofe1"
+},
+{
+"store": "misty",
+"card": 100,
+"title": "Pikachu 173 (151) - Unlimited",
+"condition": "",
+"price": 142.0,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz57tzn1h2311fkhwxpz2jk"
+},
+{
+"store": "misty",
+"card": 75,
+"title": "Gengar 57 (Paldean Fates) - Reverse Holo",
+"condition": "",
+"price": 2.96,
+"available": true,
+"stock": 21,
+"url": "https://mistyscollectables.com.au/cards/cmqz5774m16fl11fkm2i17a5r"
+},
+{
+"store": "misty",
+"card": 108,
+"title": "Gengar 57 (Paldean Fates) - Unlimited",
+"condition": "",
+"price": 0.55,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5774m16fl11fkm2i17a5r"
+},
+{
+"store": "misty",
+"card": 109,
+"title": "Gengar ex 104 (Temporal Forces) - Unlimited",
+"condition": "",
+"price": 12.06,
+"available": true,
+"stock": 22,
+"url": "https://mistyscollectables.com.au/cards/cmqz572h113jl11fkvnv7ie6z"
+},
+{
+"store": "misty",
+"card": 99,
+"title": "Gastly 177 (Temporal Forces) - Unlimited",
+"condition": "",
+"price": 145.25,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz5747w151111fktytreqx4"
+},
+{
+"store": "misty",
+"card": 77,
+"title": "Gengar ex 193 (Temporal Forces) - Unlimited",
+"condition": "",
+"price": 84.18,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz574h9158r11fkezne6udi"
+},
+{
+"store": "misty",
+"card": 101,
+"title": "Morty's Conviction 211 (Temporal Forces) - Unlimited",
+"condition": "",
+"price": 79.11,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr47pf9115sxvh9lydcgnbq2"
+},
+{
+"store": "misty",
+"card": 78,
+"title": "Mega Gengar ex 73 (Mega Evolution Black Star Promos) - Unlimited",
+"condition": "",
+"price": 5.58,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmqz55j480bxr11fkynud3lg7"
+},
+{
+"store": "misty",
+"card": 111,
+"title": "Mega Gengar ex 125 (Ascended Heroes) - Unlimited",
+"condition": "",
+"price": 15.0,
+"available": true,
+"stock": 2,
+"url": "https://mistyscollectables.com.au/cards/cmqz557mk05t311fk3is8j78h"
+},
+{
+"store": "misty",
+"card": 80,
+"title": "Mega Gengar ex 269 (Ascended Heroes) - Unlimited",
+"condition": "",
+"price": 80.0,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr47nk1y073jvh9lsxfg0vaz"
+},
+{
+"store": "misty",
+"card": 81,
+"title": "Mega Gengar ex 284 (Ascended Heroes) - Unlimited",
+"condition": "",
+"price": 1014.69,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmr47nk7l079jvh9ldt7xbzwd"
+},
+{
+"store": "misty",
+"card": 82,
+"title": "Gengar 50 (Perfect Order) - Reverse Holo",
+"condition": "",
+"price": 2.0,
+"available": true,
+"stock": 3,
+"url": "https://mistyscollectables.com.au/cards/cmqz550x702gz11fkx356vvgp"
+},
+{
+"store": "misty",
+"card": 112,
+"title": "Gengar 50 (Perfect Order) - Unlimited",
+"condition": "",
+"price": 1.0,
+"available": true,
+"stock": 2,
+"url": "https://mistyscollectables.com.au/cards/cmqz550x702gz11fkx356vvgp"
+},
+{
+"store": "misty",
+"card": 114,
+"title": "Gengar ex 90 (30th Celebration) - Holofoil",
+"condition": "",
+"price": 10.0,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmu1o48581kc6eb5bluplez6c"
+},
+{
+"store": "misty",
+"card": 87,
+"title": "Gengar ex 154 (30th Celebration) - Holofoil",
+"condition": "",
+"price": 102.91,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmu1o4boc1kqkeb5bkqm05j0g"
+},
+{
+"store": "misty",
+"card": 88,
+"title": "Gengar 94 (30th Celebration: Classic Collection) - Holofoil",
+"condition": "",
+"price": 90.27,
+"available": false,
+"stock": 0,
+"url": "https://mistyscollectables.com.au/cards/cmu1o43gw1joyeb5b7hnknamv"
+}
+],
+"report": {
+"evo-flinders": {
+"ok": true,
+"count": 55,
+"cards": 11,
+"checked": "2026-11-08T14:50+10:00"
+},
+"evo-orion": {
+"ok": true,
+"count": 40,
+"cards": 8,
+"checked": "2026-11-08T14:50+10:00"
+},
+"mint": {
+"ok": true,
+"count": 19,
+"cards": 11,
+"checked": "2026-11-08T14:50+10:00"
+},
+"misty": {
+"ok": true,
+"count": 71,
+"cards": 71,
+"checked": "2026-11-08T14:50+10:00"
+},
+"raptor": {
+"ok": true,
+"count": 0,
+"cards": 0,
+"checked": "2026-11-08T14:50+10:00"
+}
+}
+}
