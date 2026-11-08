@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-08T15:05+10:00",
+"updated": "2026-11-08T16:16+10:00",
 "listings": [
 {
 "store": "evo-flinders",
@@ -9,6 +9,15 @@
 "price": 3.5,
 "available": true,
 "url": "https://www.evogamescards.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=50806471950498"
+},
+{
+"store": "evo-flinders",
+"card": 39,
+"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil",
+"condition": "MP",
+"price": 87.5,
+"available": true,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=50806344908962"
 },
 {
 "store": "evo-flinders",
@@ -30,21 +39,12 @@
 },
 {
 "store": "evo-flinders",
-"card": 39,
-"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil",
-"condition": "MP",
-"price": 87.5,
-"available": true,
-"url": "https://www.evogamescards.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=50806344908962"
-},
-{
-"store": "evo-flinders",
-"card": 111,
-"title": "Mega Gengar ex 125/217 (ME: Ascended Heroes) - Holofoil",
+"card": 58,
+"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
 "condition": "NM",
-"price": 8.0,
+"price": 48.0,
 "available": true,
-"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690349218"
+"url": "https://www.evogamescards.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=50806421389474"
 },
 {
 "store": "evo-flinders",
@@ -57,12 +57,12 @@
 },
 {
 "store": "evo-flinders",
-"card": 58,
-"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
+"card": 111,
+"title": "Mega Gengar ex 125/217 (ME: Ascended Heroes) - Holofoil",
 "condition": "NM",
-"price": 48.0,
+"price": 8.0,
 "available": true,
-"url": "https://www.evogamescards.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=50806421389474"
+"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690349218"
 },
 {
 "store": "evo-flinders",
@@ -108,6 +108,15 @@
 "price": 286.5,
 "available": true,
 "url": "https://www.evogamesorion.com.au/products/m-gengar-ex-xy166-xy-promos-holofoil?variant=50292088340701"
+},
+{
+"store": "evo-orion",
+"card": 103,
+"title": "Gengar 2021 Copyright Date 057/198 (Trick or Trade BOOster Bundle) - Holofoil",
+"condition": "NM",
+"price": 5.5,
+"available": true,
+"url": "https://www.evogamesorion.com.au/products/gengar-2021-copyright-date-057-198-trick-or-trade-booster-bundle-holofoil?variant=68210723815645"
 },
 {
 "store": "evo-orion",
@@ -210,12 +219,30 @@
 },
 {
 "store": "mint",
+"card": 113,
+"title": "Gengar EB Games Exclusive 050/088 (Miscellaneous Cards & Products) - Cosmos Holo SEALED",
+"condition": "SEALED",
+"price": 140.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-eb-games-exclusive-050-088-miscellaneous-cards-products-cosmos-holo-sealed?variant=51430443745444"
+},
+{
+"store": "mint",
 "card": 57,
 "title": "Gengar SWSH052 (SWSH: Sword & Shield Promo Cards) - Holofoil LP",
 "condition": "LP",
 "price": 175.0,
 "available": true,
 "url": "https://mintcollectables.com.au/products/gengar-swsh052-swsh-sword-shield-promo-cards-holofoil-lp?variant=57606536233124"
+},
+{
+"store": "mint",
+"card": 113,
+"title": "Gengar EB Games Exclusive 050/088 (Miscellaneous Cards & Products) - Cosmos Holo SEALED DENT",
+"condition": "SEALED/DENT",
+"price": 100.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-eb-games-exclusive-050-088-miscellaneous-cards-products-cosmos-holo-sealed-dent?variant=57606322815140"
 },
 {
 "store": "mint",
@@ -1056,12 +1083,138 @@
 },
 {
 "store": "raptor",
+"card": 113,
+"title": "Gengar (Cosmos Holo) (EB Games Exclusive) (Sealed) 050/088 Miscellaneous Cards & Products NM/M",
+"condition": "",
+"price": 200.0,
+"available": true,
+"url": "https://raptorgames.com/products/gengar-cosmos-holo-eb-games-exclusive-sealed-050088-miscellaneous-cards-products-nmm-661095?variant=47471972843676"
+},
+{
+"store": "raptor",
 "card": 110,
 "title": "Mega Gengar ex 056/094 Double Rare Phantasmal Flames NM/M",
 "condition": "",
 "price": 5.0,
 "available": true,
 "url": "https://raptorgames.com/products/mega-gengar-ex-056094-double-rare-phantasmal-flames-nmm-368978?variant=47106897412252"
+},
+{
+"store": "raptor",
+"card": 87,
+"title": "Gengar ex 154/128 Special Illustration Rare ME: 30th Celebration Holo NM/M",
+"condition": "",
+"price": 120.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-ex-154128-special-illustration-rare-me-30th-celebration-holo-nmm-028072?variant=47818044276892"
+},
+{
+"store": "raptor",
+"card": 114,
+"title": "Gengar ex 090/128 ME: 30th Celebration NM/M",
+"condition": "",
+"price": 5.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-ex-090128-me-30th-celebration-nmm-974201?variant=47783126466716"
+},
+{
+"store": "raptor",
+"card": 73,
+"title": "Gengar 094/165 Rare Reverse Holo 151 NM/M",
+"condition": "",
+"price": 15.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-094165-rare-reverse-holo-151-nmm-275785?variant=47969242120348"
+},
+{
+"store": "raptor",
+"card": 103,
+"title": "Gengar 057/198 Promo Trick or Trade BOOster Holo NM/LP",
+"condition": "",
+"price": 3.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-057198-promo-trick-or-trade-booster-holo-nmm-645919?variant=47522612871324"
+},
+{
+"store": "raptor",
+"card": 34,
+"title": "Gengar 17/99 Rare Arceus LP",
+"condition": "",
+"price": 50.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-1799-rare-arceus-lp-550511?variant=47818044211356"
+},
+{
+"store": "raptor",
+"card": 106,
+"title": "Gengar (oc) TG06/TG30 Trainer Gallery Rare Lost Origin Trainer Gallery Holo NM/M",
+"condition": "",
+"price": 85.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-oc-tg06tg30-trainer-gallery-rare-lost-origin-trainer-gallery-holo-nmm-704385?variant=47513231982748"
+},
+{
+"store": "raptor",
+"card": 88,
+"title": "Gengar (Prime) 94/102 ME: 30th Celebration Classic Collection Holo NM/M",
+"condition": "",
+"price": 100.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-prime-94102-me-30th-celebration-classic-collection-holo-nmm-039732?variant=48184616878236"
+},
+{
+"store": "raptor",
+"card": 106,
+"title": "Gengar TG06/TG30 Trainer Gallery Rare Lost Origin Trainer Gallery Holo NM/M",
+"condition": "",
+"price": 85.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-tg06tg30-trainer-gallery-rare-lost-origin-trainer-gallery-holo-nmm-140680?variant=47006479777948"
+},
+{
+"store": "raptor",
+"card": 39,
+"title": "Gengar EX 34/119 Ultra Rare Phantom Forces Holo MP/HP",
+"condition": "",
+"price": 50.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-ex-34119-ultra-rare-phantom-forces-holo-mphp-962387?variant=48214154903708"
+},
+{
+"store": "raptor",
+"card": 3,
+"title": "Gengar 20/62 Rare Fossil Unlimited LP",
+"condition": "",
+"price": 40.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-2062-rare-fossil-unlimited-lp-779225?variant=47551149375644"
+},
+{
+"store": "raptor",
+"card": 47,
+"title": "Gengar 35/83 Rare Generations Holo NM/M",
+"condition": "",
+"price": 55.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-3583-rare-generations-holo-nmm-833529?variant=47550814617756"
+},
+{
+"store": "raptor",
+"card": 27,
+"title": "Gengar 18/100 Rare Stormfront LP",
+"condition": "",
+"price": 50.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-18100-rare-stormfront-lp-758557?variant=47513231917212"
+},
+{
+"store": "raptor",
+"card": 105,
+"title": "Gengar VMAX 157/264 VMAX Rare Fusion Strike Holo NM/M",
+"condition": "",
+"price": 70.0,
+"available": false,
+"url": "https://raptorgames.com/products/gengar-vmax-157264-vmax-rare-fusion-strike-holo-nmm-190442?variant=47484565520540"
 },
 {
 "store": "raptor",
@@ -1096,31 +1249,31 @@
 "ok": true,
 "count": 11,
 "cards": 11,
-"checked": "2026-11-08T15:05+10:00"
+"checked": "2026-11-08T16:16+10:00"
 },
 "evo-orion": {
 "ok": true,
-"count": 8,
-"cards": 8,
-"checked": "2026-11-08T15:05+10:00"
+"count": 9,
+"cards": 9,
+"checked": "2026-11-08T16:16+10:00"
 },
 "mint": {
 "ok": true,
-"count": 17,
-"cards": 11,
-"checked": "2026-11-08T15:05+10:00"
+"count": 19,
+"cards": 12,
+"checked": "2026-11-08T16:16+10:00"
 },
 "misty": {
 "ok": true,
 "count": 72,
 "cards": 72,
-"checked": "2026-11-08T15:05+10:00"
+"checked": "2026-11-08T16:16+10:00"
 },
 "raptor": {
 "ok": true,
-"count": 5,
-"cards": 4,
-"checked": "2026-11-08T15:05+10:00"
+"count": 19,
+"cards": 17,
+"checked": "2026-11-08T16:16+10:00"
 }
 }
 }
