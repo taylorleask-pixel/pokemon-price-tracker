@@ -44,6 +44,11 @@
    "date": "2026-11-08",
    "where": "Evo Games Flinders View",
    "paid": 8.0
+  },
+  "112": {
+   "date": "2026-11-08",
+   "where": "Jacob",
+   "paid": null
   }
  },
  "log": [
@@ -135,6 +140,16 @@
    ],
    "where": "Evo Games Flinders View",
    "paid": 8.0,
+   "date": "2026-11-08"
+  },
+  {
+   "time": "2026-11-08T16:29+10:00",
+   "action": "add",
+   "ids": [
+    112
+   ],
+   "where": "Jacob",
+   "paid": null,
    "date": "2026-11-08"
   }
  ]
