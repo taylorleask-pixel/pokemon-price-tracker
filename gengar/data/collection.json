@@ -19,6 +19,11 @@
    "date": "2026-11-08",
    "where": "Evo Games Flinders View",
    "paid": 25.0
+  },
+  "106": {
+   "date": "2026-11-08",
+   "where": "Misty's Collectables",
+   "paid": 70.0
   }
  },
  "log": [
@@ -60,6 +65,16 @@
    ],
    "where": "Evo Games Flinders View",
    "paid": 25.0,
+   "date": "2026-11-08"
+  },
+  {
+   "time": "2026-11-08T16:24+10:00",
+   "action": "add",
+   "ids": [
+    106
+   ],
+   "where": "Misty's Collectables",
+   "paid": 70.0,
    "date": "2026-11-08"
   }
  ]
