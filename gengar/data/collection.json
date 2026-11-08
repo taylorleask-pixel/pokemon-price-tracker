@@ -1,4 +1,21 @@
 {
- "cards": {},
- "log": []
+ "cards": {
+  "102": {
+   "date": "2026-11-08",
+   "where": "Evo Games Flinders View",
+   "paid": 35.0
+  }
+ },
+ "log": [
+  {
+   "time": "2026-11-08T16:03+10:00",
+   "action": "add",
+   "ids": [
+    102
+   ],
+   "where": "Evo Games Flinders View",
+   "paid": 35.0,
+   "date": "2026-11-08"
+  }
+ ]
 }
