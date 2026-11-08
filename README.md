@@ -55,3 +55,16 @@ Open the site on your phone and choose **Add to Home Screen** (Safari: Share but
 It opens full screen with its own icon, and still shows the last prices it saw if you're offline.
 On Android, long-press the icon for shortcuts to Booster packs, Booster boxes, ETBs and What changed.
 The app files are `manifest.webmanifest`, `sw.js` and the `icons/` folder.
+
+## Adding a store
+
+Use the **Add a store** form at the bottom of the Stores tab (or open a new issue on GitHub with the
+"Add a store" template). A bot works out whether the shop runs on Shopify, WooCommerce or Square Online,
+test-reads it, adds it to `data/stores.json` if it finds Pokémon sealed products, and replies on the issue.
+Only requests made by the repo owner are acted on. Code: `scraper/add_store.py`, `.github/workflows/add-store.yml`.
+
+## eBay prices
+
+`scraper/ebay.py` checks eBay Australia once a day (new, Buy It Now, located in Australia; asking prices,
+not sold prices) and product pages show an "On eBay" panel. It only runs once two repository secrets
+exist: `EBAY_CLIENT_ID` and `EBAY_CLIENT_SECRET` (Settings → Secrets and variables → Actions).
