@@ -59,6 +59,11 @@
    "date": "2026-11-08",
    "where": "Mint Collectables",
    "paid": 120.0
+  },
+  "114": {
+   "date": "2026-11-08",
+   "where": "eBay",
+   "paid": 7.7
   }
  },
  "log": [
@@ -180,6 +185,16 @@
    ],
    "where": "Mint Collectables",
    "paid": 120.0,
+   "date": "2026-11-08"
+  },
+  {
+   "time": "2026-11-08T16:33+10:00",
+   "action": "add",
+   "ids": [
+    114
+   ],
+   "where": "eBay",
+   "paid": 7.7,
    "date": "2026-11-08"
   }
  ]
