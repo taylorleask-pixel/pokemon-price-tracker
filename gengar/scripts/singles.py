@@ -90,7 +90,7 @@ def version_ok(card, text):
     if v == "1st":
         return first and not rev
     if v == "CH":
-        return cosmos
+        return cosmos and not stampish
     if v == "SS":
         return staff
     if v == "GS":
@@ -111,6 +111,21 @@ def version_ok(card, text):
     return not (rev or first or cosmos or staff or stampish)     # the normal holo print
 
 
+# printed set sizes, used for stamped/promo cards that stores file under "Miscellaneous" or a promo bundle
+SET_TOTALS = {"Perfect Order": 88, "Chilling Reign": 198, "Lost Origin": 196, "Legend Maker": 92, "Paldean Fates": 91,
+              "Sword & Shield": 202, "Fusion Strike": 264, "Phantasmal Flames": 94, "Phantom Forces": 119,
+              "BREAKthrough": 162, "151": 165, "Stormfront": 100}
+
+
+def total_hit(card, raw):
+    """A stamped or cosmos card listed without its set name: accept it when 'number/set size' matches exactly."""
+    if not (card.get("vclass") == "stamp" or card["variant"] in ("CH", "SH")):
+        return False
+    total = SET_TOTALS.get(card["set"])
+    num = card["number"].split("/")[0].lstrip("0")
+    return bool(total) and re.search(rf"(?<![0-9])0*{num}\s*/\s*0*{total}(?![0-9])", raw) is not None
+
+
 def match_card(cards, title, extra=""):
     """Find the one card in the list this listing is for, or None."""
     text = n(f"{title} {extra}")
@@ -122,7 +137,9 @@ def match_card(cards, title, extra=""):
         key = [w for w in word if w not in ("gengar", "ex", "v", "gx", "vmax", "m", "mega", "lv", "x", "gl")] or ["gengar"]
         if not all(w in text.split() for w in key[:2]) and "gengar" not in text:
             continue
-        if not num_hit(c["number"], text) or not set_hit(c["set"], text) or not version_ok(c, text):
+        if not num_hit(c["number"], text) or not version_ok(c, text):
+            continue
+        if not set_hit(c["set"], text) and not total_hit(c, f"{title} {extra}"):
             continue
         hits.append(c)
     if len(hits) > 1:

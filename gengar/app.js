@@ -95,9 +95,13 @@ function singlesFor(c) {
   // cheapest first, in-stock first; one row per store and condition
   return D.singles.filter((x) => x.card === c.id).sort((a, b) => (b.available - a.available) || a.price - b.price);
 }
+// cheapest store price: in stock if possible, otherwise the last price a store asked
+function storeValue(c) {
+  const s = singlesFor(c);
+  return s.find((x) => x.available) || s[0] || null;
+}
 function worth(c) {
-  const inStock = singlesFor(c).filter((s) => s.available);
-  return c.market_aud ?? inStock[0]?.price ?? null;
+  return c.market_aud ?? storeValue(c)?.price ?? null;
 }
 function ebayQuery(c) {
   const extra = { RH: "reverse holo", "1st": "1st edition", CH: "cosmos holo", SS: "staff", JM: "world championship" }[c.variant] ??
@@ -225,7 +229,8 @@ function renderCard(id) {
 
       <section class="panel"><h3>What it's worth</h3>
         ${c.market_aud != null ? `<p class="big">${money(c.market_aud)}</p><p class="note">Market price from ${esc(c.market_basis?.startsWith("Cardmarket") ? "Cardmarket (Europe)" : "TCGplayer (US)")}, in AUD. Checked ${esc(when(D.updated))}.</p>`
-          : `<p class="note">No market price for this exact version${c.vclass === "stamp" ? " (stamped and special versions usually don't have one)" : ""}. Check recent eBay sales below.</p>`}
+          : storeValue(c) ? `<p class="big">${money(storeValue(c).price)}</p><p class="note">Cheapest price at your stores (${esc(D.storeName[storeValue(c).store] ?? storeValue(c).store)}${storeValue(c).available ? "" : ", sold out"}). There's no market price for this exact version, so this is used for "worth now".</p>`
+          : `<p class="note">No market price for this exact version${c.vclass === "stamp" ? " (stamped and special versions usually don't have one)" : ""}, and none of your stores list it. Check recent eBay sales below.</p>`}
         <div class="links">
           <a class="btn ghost" href="${esc(ebayUrl(c, true))}" target="_blank" rel="noopener">Recently sold on eBay</a>
           <a class="btn ghost" href="${esc(ebayUrl(c, false))}" target="_blank" rel="noopener">For sale on eBay</a>
