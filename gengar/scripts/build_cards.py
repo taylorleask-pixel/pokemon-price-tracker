@@ -109,7 +109,7 @@ def main():
                     r = get(f"https://api.pokemontcg.io/v2/cards/{ps['id']}-{num}")
                     if r is not None and r.ok:
                         d = r.json()["data"]
-                        info = {"image": d["images"]["small"], "image_large": d["images"]["large"],
+                        info = {"db_name": d.get("name"), "image": d["images"]["small"], "image_large": d["images"]["large"],
                                 "rarity": d.get("rarity"), "set_id": ps["id"], "set_total": ps.get("printedTotal"),
                                 "tcgplayer": (d.get("tcgplayer") or {}).get("prices") or {},
                                 "tcgplayer_url": (d.get("tcgplayer") or {}).get("url"),
@@ -123,13 +123,21 @@ def main():
                         r = get(f"https://api.tcgdex.net/v2/en/sets/{ds['id']}/{num}")
                         if r is not None and r.ok and r.json().get("image"):
                             d = r.json()
-                            info.update({"image": d["image"] + "/low.webp", "image_large": d["image"] + "/high.webp",
+                            info.update({"db_name": d.get("name"), "image": d["image"] + "/low.webp", "image_large": d["image"] + "/high.webp",
                                          "rarity": info.get("rarity") or d.get("rarity"),
                                          "set_logo": info.get("set_logo") or (ds.get("logo") and ds["logo"] + ".png")})
                             break
+            if not info.get("image"):
+                # last try: search TCGdex by card name and number, whatever the set is called there
+                r = get("https://api.tcgdex.net/v2/en/cards", name=re.sub(r" Play! Pokemon.*| Stamp.*", "", c["name"]))
+                for hit in (r.json() if r is not None and r.ok else []):
+                    if hit.get("image") and hit.get("localId", "").lstrip("0") == c["number"].split("/")[0].lstrip("0"):
+                        info.update({"db_name": hit.get("name"), "image": hit["image"] + "/low.webp",
+                                     "image_large": hit["image"] + "/high.webp"})
+                        break
             cache[k] = info
         info = cache[k]
-        c.update({x: info.get(x) for x in ("image", "image_large", "rarity", "set_logo", "set_symbol", "tcgplayer_url")})
+        c.update({x: info.get(x) for x in ("db_name", "image", "image_large", "rarity", "set_logo", "set_symbol", "tcgplayer_url")})
         # market value for this exact variant, in AUD
         tp, value, basis = info.get("tcgplayer") or {}, None, None
         for key in PRICE_KEYS.get(c["variant"], []):
@@ -146,6 +154,11 @@ def main():
     (HERE / "cards.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"pictures found for {len(cards) - len(missing)} of {len(cards)}; market prices for "
           f"{sum(1 for c in cards if c['market_aud'])}")
+    odd = [f"#{c['id']} {c['name']} ({c['set']} {c['number']}) is '{c['db_name']}' in the database"
+           for c in cards if c.get("db_name") and n(c["db_name"]).split()[0] not in n(c["name"]).split()
+           and n(c["name"]).split()[0] not in n(c["db_name"])]
+    if odd:
+        print("name doesn't match:\n  " + "\n  ".join(odd))
     if missing:
         print("no picture:\n  " + "\n  ".join(missing))
 

@@ -1,0 +1,807 @@
+{
+ "3": {
+  "label": "Fossil packs",
+  "detail": "Fossil booster packs.",
+  "kind": "pack",
+  "pack_set": "Fossil",
+  "confirmed": true
+ },
+ "4": {
+  "label": "Fossil 1st Edition packs",
+  "detail": "Fossil 1st Edition booster packs.",
+  "kind": "pack",
+  "pack_set": "Fossil",
+  "confirmed": true
+ },
+ "5": {
+  "label": "Fossil packs (1999-2000 print)",
+  "detail": "Fossil booster packs. This is the later print with the 1999-2000 copyright line.",
+  "kind": "pack",
+  "pack_set": "Fossil",
+  "confirmed": true
+ },
+ "1": {
+  "label": "Fossil packs",
+  "detail": "Fossil booster packs.",
+  "kind": "pack",
+  "pack_set": "Fossil",
+  "confirmed": true
+ },
+ "2": {
+  "label": "Fossil 1st Edition packs",
+  "detail": "Fossil 1st Edition booster packs.",
+  "kind": "pack",
+  "pack_set": "Fossil",
+  "confirmed": true
+ },
+ "89": {
+  "label": "Team Rocket packs",
+  "detail": "Team Rocket booster packs.",
+  "kind": "pack",
+  "pack_set": "Team Rocket",
+  "confirmed": true
+ },
+ "90": {
+  "label": "Team Rocket 1st Edition packs",
+  "detail": "Team Rocket 1st Edition booster packs.",
+  "kind": "pack",
+  "pack_set": "Team Rocket",
+  "confirmed": true
+ },
+ "6": {
+  "label": "Gym Heroes packs",
+  "detail": "Gym Heroes booster packs.",
+  "kind": "pack",
+  "pack_set": "Gym Heroes",
+  "confirmed": true
+ },
+ "7": {
+  "label": "Gym Heroes 1st Edition packs",
+  "detail": "Gym Heroes 1st Edition booster packs.",
+  "kind": "pack",
+  "pack_set": "Gym Heroes",
+  "confirmed": true
+ },
+ "8": {
+  "label": "Gym Challenge packs",
+  "detail": "Gym Challenge booster packs.",
+  "kind": "pack",
+  "pack_set": "Gym Challenge",
+  "confirmed": true
+ },
+ "9": {
+  "label": "Gym Challenge 1st Edition packs",
+  "detail": "Gym Challenge 1st Edition booster packs.",
+  "kind": "pack",
+  "pack_set": "Gym Challenge",
+  "confirmed": true
+ },
+ "91": {
+  "label": "Neo Revelation packs",
+  "detail": "Neo Revelation booster packs.",
+  "kind": "pack",
+  "pack_set": "Neo Revelation",
+  "confirmed": true
+ },
+ "92": {
+  "label": "Neo Revelation 1st Edition packs",
+  "detail": "Neo Revelation 1st Edition booster packs.",
+  "kind": "pack",
+  "pack_set": "Neo Revelation",
+  "confirmed": true
+ },
+ "10": {
+  "label": "Neo Destiny packs",
+  "detail": "Neo Destiny booster packs.",
+  "kind": "pack",
+  "pack_set": "Neo Destiny",
+  "confirmed": true
+ },
+ "11": {
+  "label": "Neo Destiny 1st Edition packs",
+  "detail": "Neo Destiny 1st Edition booster packs.",
+  "kind": "pack",
+  "pack_set": "Neo Destiny",
+  "confirmed": true
+ },
+ "12": {
+  "label": "Legendary Collection packs",
+  "detail": "Legendary Collection booster packs.",
+  "kind": "pack",
+  "pack_set": "Legendary Collection",
+  "confirmed": true
+ },
+ "13": {
+  "label": "Legendary Collection packs",
+  "detail": "Legendary Collection booster packs.",
+  "kind": "pack",
+  "pack_set": "Legendary Collection",
+  "confirmed": true
+ },
+ "14": {
+  "label": "Expedition Base Set packs",
+  "detail": "Expedition Base Set booster packs.",
+  "kind": "pack",
+  "pack_set": "Expedition Base Set",
+  "confirmed": true
+ },
+ "15": {
+  "label": "Expedition Base Set packs",
+  "detail": "Expedition Base Set booster packs.",
+  "kind": "pack",
+  "pack_set": "Expedition Base Set",
+  "confirmed": true
+ },
+ "16": {
+  "label": "Expedition Base Set packs",
+  "detail": "Expedition Base Set booster packs.",
+  "kind": "pack",
+  "pack_set": "Expedition Base Set",
+  "confirmed": true
+ },
+ "17": {
+  "label": "Expedition Base Set packs",
+  "detail": "Expedition Base Set booster packs.",
+  "kind": "pack",
+  "pack_set": "Expedition Base Set",
+  "confirmed": true
+ },
+ "18": {
+  "label": "Skyridge packs",
+  "detail": "Skyridge booster packs.",
+  "kind": "pack",
+  "pack_set": "Skyridge",
+  "confirmed": true
+ },
+ "19": {
+  "label": "Skyridge packs",
+  "detail": "Skyridge booster packs.",
+  "kind": "pack",
+  "pack_set": "Skyridge",
+  "confirmed": true
+ },
+ "20": {
+  "label": "Skyridge packs",
+  "detail": "Skyridge booster packs.",
+  "kind": "pack",
+  "pack_set": "Skyridge",
+  "confirmed": true
+ },
+ "21": {
+  "label": "EX FireRed & LeafGreen packs",
+  "detail": "EX FireRed & LeafGreen booster packs.",
+  "kind": "pack",
+  "pack_set": "EX FireRed & LeafGreen",
+  "confirmed": true
+ },
+ "22": {
+  "label": "EX Legend Maker packs",
+  "detail": "EX Legend Maker booster packs.",
+  "kind": "pack",
+  "pack_set": "EX Legend Maker",
+  "confirmed": true
+ },
+ "23": {
+  "label": "EX Legend Maker packs",
+  "detail": "EX Legend Maker booster packs.",
+  "kind": "pack",
+  "pack_set": "EX Legend Maker",
+  "confirmed": true
+ },
+ "24": {
+  "label": "Gym Challenge league stamp",
+  "detail": "Pokémon League 'Gym Challenge' prize, stamped. Not in packs.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "25": {
+  "label": "Diamond & Pearl packs",
+  "detail": "Diamond & Pearl booster packs.",
+  "kind": "pack",
+  "pack_set": "Diamond & Pearl",
+  "confirmed": true
+ },
+ "26": {
+  "label": "Diamond & Pearl packs",
+  "detail": "Diamond & Pearl booster packs.",
+  "kind": "pack",
+  "pack_set": "Diamond & Pearl",
+  "confirmed": true
+ },
+ "27": {
+  "label": "Stormfront packs",
+  "detail": "Stormfront booster packs.",
+  "kind": "pack",
+  "pack_set": "Stormfront",
+  "confirmed": true
+ },
+ "28": {
+  "label": "Stormfront packs",
+  "detail": "Stormfront booster packs.",
+  "kind": "pack",
+  "pack_set": "Stormfront",
+  "confirmed": true
+ },
+ "29": {
+  "label": "2009 World Championships deck",
+  "detail": "Queengar deck (Jason Martinez), 2009 World Championships. Gold-bordered, signature on the card.",
+  "kind": "deck",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "30": {
+  "label": "Rising Rivals packs",
+  "detail": "Rising Rivals booster packs.",
+  "kind": "pack",
+  "pack_set": "Rising Rivals",
+  "confirmed": true
+ },
+ "31": {
+  "label": "Rising Rivals packs",
+  "detail": "Rising Rivals booster packs.",
+  "kind": "pack",
+  "pack_set": "Rising Rivals",
+  "confirmed": true
+ },
+ "32": {
+  "label": "Arceus packs",
+  "detail": "Arceus booster packs.",
+  "kind": "pack",
+  "pack_set": "Arceus",
+  "confirmed": true
+ },
+ "33": {
+  "label": "Arceus packs",
+  "detail": "Arceus booster packs.",
+  "kind": "pack",
+  "pack_set": "Arceus",
+  "confirmed": true
+ },
+ "34": {
+  "label": "Arceus packs",
+  "detail": "Arceus booster packs.",
+  "kind": "pack",
+  "pack_set": "Arceus",
+  "confirmed": true
+ },
+ "35": {
+  "label": "Arceus packs",
+  "detail": "Arceus booster packs.",
+  "kind": "pack",
+  "pack_set": "Arceus",
+  "confirmed": true
+ },
+ "36": {
+  "label": "Arceus packs",
+  "detail": "Arceus booster packs.",
+  "kind": "pack",
+  "pack_set": "Arceus",
+  "confirmed": true
+ },
+ "37": {
+  "label": "Triumphant packs",
+  "detail": "Triumphant booster packs.",
+  "kind": "pack",
+  "pack_set": "Triumphant",
+  "confirmed": true
+ },
+ "41": {
+  "label": "Phantom Forces packs",
+  "detail": "Phantom Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Phantom Forces",
+  "confirmed": true
+ },
+ "42": {
+  "label": "Phantom Forces packs",
+  "detail": "Phantom Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Phantom Forces",
+  "confirmed": true
+ },
+ "39": {
+  "label": "Phantom Forces packs",
+  "detail": "Phantom Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Phantom Forces",
+  "confirmed": true
+ },
+ "40": {
+  "label": "Phantom Forces packs",
+  "detail": "Phantom Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Phantom Forces",
+  "confirmed": true
+ },
+ "93": {
+  "label": "Phantom Forces packs",
+  "detail": "Phantom Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Phantom Forces",
+  "confirmed": true
+ },
+ "94": {
+  "label": "Phantom Forces packs",
+  "detail": "Phantom Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Phantom Forces",
+  "confirmed": true
+ },
+ "95": {
+  "label": "GameStop alternate holo",
+  "detail": "GameStop-exclusive alternate (sheen) holo of Gengar Spirit Link.",
+  "kind": "store",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "43": {
+  "label": "BREAKthrough packs",
+  "detail": "BREAKthrough booster packs.",
+  "kind": "pack",
+  "pack_set": "BREAKthrough",
+  "confirmed": true
+ },
+ "44": {
+  "label": "BREAKthrough packs",
+  "detail": "BREAKthrough booster packs.",
+  "kind": "pack",
+  "pack_set": "BREAKthrough",
+  "confirmed": true
+ },
+ "45": {
+  "label": "BREAKthrough packs",
+  "detail": "BREAKthrough booster packs.",
+  "kind": "pack",
+  "pack_set": "BREAKthrough",
+  "confirmed": true
+ },
+ "46": {
+  "label": "Cosmos holo promo",
+  "detail": "Cosmos holo version from a promo product. Which product isn't confirmed.",
+  "kind": "promo",
+  "pack_set": null,
+  "confirmed": false
+ },
+ "47": {
+  "label": "Generations packs",
+  "detail": "Generations booster packs.",
+  "kind": "pack",
+  "pack_set": "Generations",
+  "confirmed": true
+ },
+ "48": {
+  "label": "Generations packs",
+  "detail": "Generations booster packs.",
+  "kind": "pack",
+  "pack_set": "Generations",
+  "confirmed": true
+ },
+ "38": {
+  "label": "Collector Chest 2016",
+  "detail": "XY Black Star Promo from the 2016 Collector Chest.",
+  "kind": "promo",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "49": {
+  "label": "Crimson Invasion packs",
+  "detail": "Crimson Invasion booster packs.",
+  "kind": "pack",
+  "pack_set": "Crimson Invasion",
+  "confirmed": true
+ },
+ "50": {
+  "label": "Crimson Invasion packs",
+  "detail": "Crimson Invasion booster packs.",
+  "kind": "pack",
+  "pack_set": "Crimson Invasion",
+  "confirmed": true
+ },
+ "51": {
+  "label": "Crimson Invasion packs",
+  "detail": "Crimson Invasion booster packs.",
+  "kind": "pack",
+  "pack_set": "Crimson Invasion",
+  "confirmed": true
+ },
+ "53": {
+  "label": "Team Up packs",
+  "detail": "Team Up booster packs.",
+  "kind": "pack",
+  "pack_set": "Team Up",
+  "confirmed": true
+ },
+ "54": {
+  "label": "Team Up packs",
+  "detail": "Team Up booster packs.",
+  "kind": "pack",
+  "pack_set": "Team Up",
+  "confirmed": true
+ },
+ "55": {
+  "label": "Team Up packs",
+  "detail": "Team Up booster packs.",
+  "kind": "pack",
+  "pack_set": "Team Up",
+  "confirmed": true
+ },
+ "52": {
+  "label": "Team Up packs",
+  "detail": "Team Up booster packs.",
+  "kind": "pack",
+  "pack_set": "Team Up",
+  "confirmed": true
+ },
+ "96": {
+  "label": "Unbroken Bonds packs",
+  "detail": "Unbroken Bonds booster packs.",
+  "kind": "pack",
+  "pack_set": "Unbroken Bonds",
+  "confirmed": true
+ },
+ "97": {
+  "label": "Unbroken Bonds packs",
+  "detail": "Unbroken Bonds booster packs.",
+  "kind": "pack",
+  "pack_set": "Unbroken Bonds",
+  "confirmed": true
+ },
+ "56": {
+  "label": "Unbroken Bonds packs",
+  "detail": "Unbroken Bonds booster packs.",
+  "kind": "pack",
+  "pack_set": "Unbroken Bonds",
+  "confirmed": true
+ },
+ "102": {
+  "label": "Unbroken Bonds packs",
+  "detail": "Unbroken Bonds booster packs.",
+  "kind": "pack",
+  "pack_set": "Unbroken Bonds",
+  "confirmed": true
+ },
+ "60": {
+  "label": "Sword & Shield packs",
+  "detail": "Sword & Shield booster packs.",
+  "kind": "pack",
+  "pack_set": "Sword & Shield",
+  "confirmed": true
+ },
+ "61": {
+  "label": "Sword & Shield packs",
+  "detail": "Sword & Shield booster packs.",
+  "kind": "pack",
+  "pack_set": "Sword & Shield",
+  "confirmed": true
+ },
+ "62": {
+  "label": "Play! Pokémon Prize Pack",
+  "detail": "League and tournament prize packs (Play! Pokémon stamp). Not sold in stores.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "57": {
+  "label": "Rebel Clash checklane blister",
+  "detail": "Rebel Clash Premium Checklane Blister (Gengar): 1 Rebel Clash pack, coin, Gastly/Haunter/Gengar promos.",
+  "kind": "promo",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "63": {
+  "label": "Chilling Reign packs",
+  "detail": "Chilling Reign booster packs.",
+  "kind": "pack",
+  "pack_set": "Chilling Reign",
+  "confirmed": true
+ },
+ "64": {
+  "label": "Chilling Reign packs",
+  "detail": "Chilling Reign booster packs.",
+  "kind": "pack",
+  "pack_set": "Chilling Reign",
+  "confirmed": true
+ },
+ "103": {
+  "label": "Play! Pokémon Prize Pack",
+  "detail": "League and tournament prize packs (Play! Pokémon stamp). Not sold in stores.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "65": {
+  "label": "Play! Pokémon Prize Pack",
+  "detail": "League and tournament prize packs (Play! Pokémon stamp). Not sold in stores.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "104": {
+  "label": "Fusion Strike packs",
+  "detail": "Fusion Strike booster packs.",
+  "kind": "pack",
+  "pack_set": "Fusion Strike",
+  "confirmed": true
+ },
+ "66": {
+  "label": "Play! Pokémon Prize Pack",
+  "detail": "League and tournament prize packs (Play! Pokémon stamp). Not sold in stores.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "105": {
+  "label": "Fusion Strike packs",
+  "detail": "Fusion Strike booster packs.",
+  "kind": "pack",
+  "pack_set": "Fusion Strike",
+  "confirmed": true
+ },
+ "67": {
+  "label": "Fusion Strike packs",
+  "detail": "Fusion Strike booster packs.",
+  "kind": "pack",
+  "pack_set": "Fusion Strike",
+  "confirmed": true
+ },
+ "98": {
+  "label": "Brilliant Stars packs (Trainer Gallery)",
+  "detail": "Brilliant Stars booster packs (Trainer Gallery).",
+  "kind": "pack",
+  "pack_set": "Brilliant Stars",
+  "confirmed": true
+ },
+ "58": {
+  "label": "Lost Origin prerelease",
+  "detail": "Lost Origin prerelease promo, also in the Lost Origin Build & Battle Box.",
+  "kind": "promo",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "59": {
+  "label": "Lost Origin prerelease (Staff)",
+  "detail": "Staff-stamped version of the Lost Origin prerelease promo, given to Pokémon Leagues in early 2023.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "68": {
+  "label": "Lost Origin packs",
+  "detail": "Lost Origin booster packs.",
+  "kind": "pack",
+  "pack_set": "Lost Origin",
+  "confirmed": true
+ },
+ "69": {
+  "label": "Lost Origin packs",
+  "detail": "Lost Origin booster packs.",
+  "kind": "pack",
+  "pack_set": "Lost Origin",
+  "confirmed": true
+ },
+ "70": {
+  "label": "Lost Origin packs",
+  "detail": "Lost Origin booster packs.",
+  "kind": "pack",
+  "pack_set": "Lost Origin",
+  "confirmed": true
+ },
+ "71": {
+  "label": "Play! Pokémon Prize Pack",
+  "detail": "League and tournament prize packs (Play! Pokémon stamp). Not sold in stores.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "106": {
+  "label": "Lost Origin packs (Trainer Gallery)",
+  "detail": "Lost Origin booster packs (Trainer Gallery).",
+  "kind": "pack",
+  "pack_set": "Lost Origin",
+  "confirmed": true
+ },
+ "115": {
+  "label": "Scarlet & Violet packs",
+  "detail": "Scarlet & Violet booster packs.",
+  "kind": "pack",
+  "pack_set": "Scarlet & Violet",
+  "confirmed": true
+ },
+ "72": {
+  "label": "Trick or Trade 2023",
+  "detail": "Trick or Trade BOOster Bundle 2023, Pikachu pumpkin stamp.",
+  "kind": "promo",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "100": {
+  "label": "151 packs",
+  "detail": "151 booster packs.",
+  "kind": "pack",
+  "pack_set": "151",
+  "confirmed": true
+ },
+ "73": {
+  "label": "151 packs",
+  "detail": "151 booster packs.",
+  "kind": "pack",
+  "pack_set": "151",
+  "confirmed": true
+ },
+ "74": {
+  "label": "Cosmos holo promo",
+  "detail": "Cosmos holo version from a promo product. Which product isn't confirmed.",
+  "kind": "promo",
+  "pack_set": null,
+  "confirmed": false
+ },
+ "107": {
+  "label": "151 packs",
+  "detail": "151 booster packs.",
+  "kind": "pack",
+  "pack_set": "151",
+  "confirmed": true
+ },
+ "75": {
+  "label": "Paldean Fates packs",
+  "detail": "Paldean Fates booster packs.",
+  "kind": "pack",
+  "pack_set": "Paldean Fates",
+  "confirmed": true
+ },
+ "76": {
+  "label": "Play! Pokémon Prize Pack",
+  "detail": "League and tournament prize packs (Play! Pokémon stamp). Not sold in stores.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "108": {
+  "label": "Paldean Fates packs",
+  "detail": "Paldean Fates booster packs.",
+  "kind": "pack",
+  "pack_set": "Paldean Fates",
+  "confirmed": true
+ },
+ "109": {
+  "label": "Temporal Forces packs",
+  "detail": "Temporal Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Temporal Forces",
+  "confirmed": true
+ },
+ "99": {
+  "label": "Temporal Forces packs",
+  "detail": "Temporal Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Temporal Forces",
+  "confirmed": true
+ },
+ "77": {
+  "label": "Temporal Forces packs",
+  "detail": "Temporal Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Temporal Forces",
+  "confirmed": true
+ },
+ "101": {
+  "label": "Temporal Forces packs",
+  "detail": "Temporal Forces booster packs.",
+  "kind": "pack",
+  "pack_set": "Temporal Forces",
+  "confirmed": true
+ },
+ "78": {
+  "label": "Mega Moonlit Tin",
+  "detail": "Mega Evolution Black Star Promo from the Mega Moonlit Tins (June 2026).",
+  "kind": "promo",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "79": {
+  "label": "Play! Pokémon Prize Pack",
+  "detail": "League and tournament prize packs (Play! Pokémon stamp). Not sold in stores.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "110": {
+  "label": "Phantasmal Flames packs",
+  "detail": "Phantasmal Flames booster packs.",
+  "kind": "pack",
+  "pack_set": "Phantasmal Flames",
+  "confirmed": true
+ },
+ "111": {
+  "label": "Ascended Heroes packs",
+  "detail": "Ascended Heroes booster packs.",
+  "kind": "pack",
+  "pack_set": "Ascended Heroes",
+  "confirmed": true
+ },
+ "80": {
+  "label": "Ascended Heroes packs",
+  "detail": "Ascended Heroes booster packs.",
+  "kind": "pack",
+  "pack_set": "Ascended Heroes",
+  "confirmed": true
+ },
+ "81": {
+  "label": "Ascended Heroes packs",
+  "detail": "Ascended Heroes booster packs.",
+  "kind": "pack",
+  "pack_set": "Ascended Heroes",
+  "confirmed": true
+ },
+ "82": {
+  "label": "Perfect Order packs",
+  "detail": "Perfect Order booster packs.",
+  "kind": "pack",
+  "pack_set": "Perfect Order",
+  "confirmed": true
+ },
+ "83": {
+  "label": "Enhanced 2-Pack Blister (Gengar)",
+  "detail": "Cosmos holo from the Enhanced 2-Pack Blister with Gengar, Marshadow and Team Rocket's Mimikyu (October 2026).",
+  "kind": "promo",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "84": {
+  "label": "GameStop gift with purchase",
+  "detail": "GameStop (US) gift with a $15+ Pokémon TCG purchase, from 27 Mar 2026, while stocks last.",
+  "kind": "store",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "112": {
+  "label": "Perfect Order packs",
+  "detail": "Perfect Order booster packs.",
+  "kind": "pack",
+  "pack_set": "Perfect Order",
+  "confirmed": true
+ },
+ "113": {
+  "label": "EB Games gift with purchase",
+  "detail": "EB Games (AU, NZ, Canada) gift with a $15+ Pokémon TCG purchase, from 27 Mar 2026, while stocks last.",
+  "kind": "store",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "85": {
+  "label": "Play! Pokémon Prize Pack",
+  "detail": "League and tournament prize packs (Play! Pokémon stamp). Not sold in stores.",
+  "kind": "prize",
+  "pack_set": null,
+  "confirmed": true
+ },
+ "86": {
+  "label": "Asia stamp release",
+  "detail": "Asia-region printing with a stamp. Exact product not confirmed.",
+  "kind": "other",
+  "pack_set": null,
+  "confirmed": false
+ },
+ "114": {
+  "label": "30th Celebration packs",
+  "detail": "30th Celebration booster packs.",
+  "kind": "pack",
+  "pack_set": "30th Celebration",
+  "confirmed": true
+ },
+ "87": {
+  "label": "30th Celebration packs",
+  "detail": "30th Celebration booster packs.",
+  "kind": "pack",
+  "pack_set": "30th Celebration",
+  "confirmed": true
+ },
+ "88": {
+  "label": "30th Celebration packs (Classic Collection)",
+  "detail": "30th Celebration booster packs (Classic Collection).",
+  "kind": "pack",
+  "pack_set": "30th Celebration",
+  "confirmed": true
+ }
+}
