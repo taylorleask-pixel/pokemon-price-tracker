@@ -24,6 +24,11 @@
    "date": "2026-11-08",
    "where": "Misty's Collectables",
    "paid": 70.0
+  },
+  "107": {
+   "date": "2026-11-08",
+   "where": "eBay",
+   "paid": 7.9
   }
  },
  "log": [
@@ -75,6 +80,16 @@
    ],
    "where": "Misty's Collectables",
    "paid": 70.0,
+   "date": "2026-11-08"
+  },
+  {
+   "time": "2026-11-08T16:25+10:00",
+   "action": "add",
+   "ids": [
+    107
+   ],
+   "where": "eBay",
+   "paid": 7.9,
    "date": "2026-11-08"
   }
  ]
