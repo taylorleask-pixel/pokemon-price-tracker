@@ -1,6 +1,144 @@
 {
 "events": [
 {
+"time": "2026-11-09T01:37+10:00",
+"store": "card-house",
+"card": 77,
+"condition": "Near Mint Holofoil",
+"price": 93.5,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-193-162-scarlet-violet-temporal-forces?variant=43080524267711",
+"type": "price-down",
+"old": 94.5
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "card-house",
+"card": 101,
+"condition": "Near Mint Holofoil",
+"price": 87.0,
+"url": "https://www.cardhouse.com.au/products/mortys-conviction-211-162-scarlet-violet-temporal-forces?variant=43080520695999",
+"type": "price-down",
+"old": 88.5
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "card-house",
+"card": 92,
+"condition": "Near Mint 1st Edition Normal",
+"price": 71.5,
+"url": "https://www.cardhouse.com.au/products/rockets-hideout-63-64-neo-revelation-1st-edition?variant=42395588690111",
+"type": "price-down",
+"old": 72.5
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 87,
+"condition": "",
+"price": 120.0,
+"url": "https://raptorgames.com/products/gengar-ex-154128-special-illustration-rare-me-30th-celebration-holo-nmm-028072?variant=47818044276892",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 114,
+"condition": "",
+"price": 5.0,
+"url": "https://raptorgames.com/products/gengar-ex-090128-me-30th-celebration-nmm-974201?variant=47783126466716",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 73,
+"condition": "",
+"price": 15.0,
+"url": "https://raptorgames.com/products/gengar-094165-rare-reverse-holo-151-nmm-275785?variant=47969242120348",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 103,
+"condition": "",
+"price": 3.0,
+"url": "https://raptorgames.com/products/gengar-057198-promo-trick-or-trade-booster-holo-nmm-645919?variant=47522612871324",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 34,
+"condition": "",
+"price": 50.0,
+"url": "https://raptorgames.com/products/gengar-1799-rare-arceus-lp-550511?variant=47818044211356",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 106,
+"condition": "",
+"price": 85.0,
+"url": "https://raptorgames.com/products/gengar-tg06tg30-trainer-gallery-rare-lost-origin-trainer-gallery-holo-nmm-140680?variant=47006479777948",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 88,
+"condition": "",
+"price": 100.0,
+"url": "https://raptorgames.com/products/gengar-prime-94102-me-30th-celebration-classic-collection-holo-nmm-039732?variant=48184616878236",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 39,
+"condition": "",
+"price": 50.0,
+"url": "https://raptorgames.com/products/gengar-ex-34119-ultra-rare-phantom-forces-holo-mphp-962387?variant=48214154903708",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 3,
+"condition": "",
+"price": 40.0,
+"url": "https://raptorgames.com/products/gengar-2062-rare-fossil-unlimited-lp-779225?variant=47551149375644",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 47,
+"condition": "",
+"price": 55.0,
+"url": "https://raptorgames.com/products/gengar-3583-rare-generations-holo-nmm-833529?variant=47550814617756",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 27,
+"condition": "",
+"price": 50.0,
+"url": "https://raptorgames.com/products/gengar-18100-rare-stormfront-lp-758557?variant=47513231917212",
+"type": "removed"
+},
+{
+"time": "2026-11-09T01:37+10:00",
+"store": "raptor",
+"card": 105,
+"condition": "",
+"price": 70.0,
+"url": "https://raptorgames.com/products/gengar-vmax-157264-vmax-rare-fusion-strike-holo-nmm-190442?variant=47484565520540",
+"type": "removed"
+},
+{
 "time": "2026-11-08T18:55+10:00",
 "store": "card-house",
 "card": 110,
