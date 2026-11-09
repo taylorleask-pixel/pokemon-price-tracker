@@ -1,6 +1,618 @@
 {
 "events": [
 {
+"time": "2026-11-09T10:08+10:00",
+"store": "evo-orion",
+"card": 110,
+"condition": "NM",
+"price": 6.5,
+"url": "https://www.evogamesorion.com.au/products/mega-gengar-ex-056-094-me02-phantasmal-flames-holofoil?variant=48598977904861",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "evo-orion",
+"card": 109,
+"condition": "NM",
+"price": 14.0,
+"url": "https://www.evogamesorion.com.au/products/gengar-ex-104-162-sv05-temporal-forces-holofoil?variant=48514118779101",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "mint",
+"card": 22,
+"condition": "HP/DMG",
+"price": 85.0,
+"url": "https://mintcollectables.com.au/products/gengar-5-92-legend-maker-holofoil-hp-dmg?variant=57606534103204",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "mint",
+"card": 109,
+"condition": "NM",
+"price": 15.0,
+"url": "https://mintcollectables.com.au/products/gengar-ex-104-162-sv05-temporal-forces-holofoil-1?variant=57606519521444",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "mint",
+"card": 78,
+"condition": "NM",
+"price": 15.0,
+"url": "https://mintcollectables.com.au/products/mega-gengar-ex-073-me-mega-evolution-promo-holofoil-1?variant=57606519619748",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 8,
+"condition": "",
+"price": 351.71,
+"url": "https://mistyscollectables.com.au/cards/cmqz5omek9x4z11fkt6epa3v3",
+"type": "price-down",
+"old": 361.96
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 9,
+"condition": "",
+"price": 1106.75,
+"url": "https://mistyscollectables.com.au/cards/cmqz5omek9x4z11fkt6epa3v3",
+"type": "price-up",
+"old": 946.52
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 91,
+"condition": "",
+"price": 20.63,
+"url": "https://mistyscollectables.com.au/cards/cmqz5obfh9sgz11fkte83js6a",
+"type": "price-down",
+"old": 22.45
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 92,
+"condition": "",
+"price": 62.32,
+"url": "https://mistyscollectables.com.au/cards/cmqz5obfh9sgz11fkte83js6a",
+"type": "price-down",
+"old": 64.46
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 18,
+"condition": "",
+"price": 1135.64,
+"url": "https://mistyscollectables.com.au/cards/cmqz5npua9fr111fkg2qpwjkt",
+"type": "price-up",
+"old": 853.45
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 22,
+"condition": "",
+"price": 327.58,
+"url": "https://mistyscollectables.com.au/cards/cmqz5lzop8ihl11fk9uigjyt5",
+"type": "price-up",
+"old": 313.28
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 39,
+"condition": "",
+"price": 139.1,
+"url": "https://mistyscollectables.com.au/cards/cmqz5gfc15orj11fk9nj4bg51",
+"type": "price-down",
+"old": 141.17
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 40,
+"condition": "",
+"price": 251.33,
+"url": "https://mistyscollectables.com.au/cards/cmqz5gfcn5osb11fkgav43qc7",
+"type": "price-down",
+"old": 253.48
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 93,
+"condition": "",
+"price": 9.1,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ghf65qct11fkbpesnk5k",
+"type": "price-up",
+"old": 8.89
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 94,
+"condition": "",
+"price": 53.54,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ghf65qct11fkbpesnk5k",
+"type": "price-up",
+"old": 48.3
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 42,
+"condition": "",
+"price": 829.18,
+"url": "https://mistyscollectables.com.au/cards/cmr48tbgi3jzdfcyvz1dpkqq7",
+"type": "price-down",
+"old": 831.84
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 44,
+"condition": "",
+"price": 51.65,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fvqn5ec311fkatmpeivd",
+"type": "price-up",
+"old": 50.7
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 45,
+"condition": "",
+"price": 108.51,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fvqn5ec311fkatmpeivd",
+"type": "price-up",
+"old": 106.12
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 47,
+"condition": "",
+"price": 74.4,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fiwd59at11fkrh7cg7rp",
+"type": "price-down",
+"old": 75.66
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 97,
+"condition": "",
+"price": 29.57,
+"url": "https://mistyscollectables.com.au/cards/cmqz5d9rh44o311fkg4oauc9b",
+"type": "price-down",
+"old": 30.18
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 60,
+"condition": "",
+"price": 15.38,
+"url": "https://mistyscollectables.com.au/cards/cmqz5c1yz3ipj11fkja88v8t5",
+"type": "price-up",
+"old": 15.11
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 61,
+"condition": "",
+"price": 17.54,
+"url": "https://mistyscollectables.com.au/cards/cmqz5c1yz3ipj11fkja88v8t5",
+"type": "price-up",
+"old": 17.48
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 57,
+"condition": "",
+"price": 219.04,
+"url": "https://mistyscollectables.com.au/cards/cmqz5caq43m8v11fkle2gh4o7",
+"type": "price-up",
+"old": 218.05
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 58,
+"condition": "",
+"price": 45.64,
+"url": "https://mistyscollectables.com.au/cards/cmr48p7df1g5bfcyvg2sb9pvo",
+"type": "price-up",
+"old": 45.59
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 63,
+"condition": "",
+"price": 6.46,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ar322u8111fk703pb1ro",
+"type": "price-down",
+"old": 6.62
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 104,
+"condition": "",
+"price": 21.18,
+"url": "https://mistyscollectables.com.au/cards/cmqz5admw2n1v11fkweg4oj7w",
+"type": "price-up",
+"old": 20.85
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 105,
+"condition": "",
+"price": 65.28,
+"url": "https://mistyscollectables.com.au/cards/cmqz5adng2n2h11fkyu0bam4z",
+"type": "price-down",
+"old": 67.68
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 67,
+"condition": "",
+"price": 1667.92,
+"url": "https://mistyscollectables.com.au/cards/cmr48nhm50m71fcyvpzgoks5m",
+"type": "price-down",
+"old": 1694.97
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 98,
+"condition": "",
+"price": 136.2,
+"url": "https://mistyscollectables.com.au/cards/cmqz5a2fn2h3311fkcs1yy59p",
+"type": "price-up",
+"old": 130.91
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 106,
+"condition": "",
+"price": 75.54,
+"url": "https://mistyscollectables.com.au/cards/cmqz59edl25o711fk2jrtpw6v",
+"type": "price-down",
+"old": 84.72
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 115,
+"condition": "",
+"price": 34.03,
+"url": "https://mistyscollectables.com.au/cards/cmr47qiky1rvnvh9ljtid9rfg",
+"type": "price-down",
+"old": 35.35
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 73,
+"condition": "",
+"price": 18.14,
+"url": "https://mistyscollectables.com.au/cards/cmqz57qvm1fbj11fk9evrofe1",
+"type": "price-down",
+"old": 18.22
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 107,
+"condition": "",
+"price": 5.52,
+"url": "https://mistyscollectables.com.au/cards/cmqz57qvm1fbj11fk9evrofe1",
+"type": "price-down",
+"old": 5.91
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 75,
+"condition": "",
+"price": 2.94,
+"url": "https://mistyscollectables.com.au/cards/cmqz5774m16fl11fkm2i17a5r",
+"type": "price-down",
+"old": 2.96
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 109,
+"condition": "",
+"price": 11.89,
+"url": "https://mistyscollectables.com.au/cards/cmqz572h113jl11fkvnv7ie6z",
+"type": "price-down",
+"old": 12.06
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 99,
+"condition": "",
+"price": 142.16,
+"url": "https://mistyscollectables.com.au/cards/cmqz5747w151111fktytreqx4",
+"type": "price-down",
+"old": 145.25
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 77,
+"condition": "",
+"price": 82.74,
+"url": "https://mistyscollectables.com.au/cards/cmqz574h9158r11fkezne6udi",
+"type": "price-down",
+"old": 84.18
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 101,
+"condition": "",
+"price": 76.96,
+"url": "https://mistyscollectables.com.au/cards/cmr47pf9115sxvh9lydcgnbq2",
+"type": "price-down",
+"old": 79.11
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 78,
+"condition": "",
+"price": 4.84,
+"url": "https://mistyscollectables.com.au/cards/cmqz55j480bxr11fkynud3lg7",
+"type": "price-down",
+"old": 5.58
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 81,
+"condition": "",
+"price": 1006.56,
+"url": "https://mistyscollectables.com.au/cards/cmr47nk7l079jvh9ldt7xbzwd",
+"type": "price-down",
+"old": 1014.69
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 87,
+"condition": "",
+"price": 78.84,
+"url": "https://mistyscollectables.com.au/cards/cmu1o4boc1kqkeb5bkqm05j0g",
+"type": "price-down",
+"old": 102.91
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "misty",
+"card": 88,
+"condition": "",
+"price": 69.26,
+"url": "https://mistyscollectables.com.au/cards/cmu1o43gw1joyeb5b7hnknamv",
+"type": "price-down",
+"old": 90.27
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 87,
+"condition": "",
+"price": 120.0,
+"url": "https://raptorgames.com/products/gengar-ex-154128-special-illustration-rare-me-30th-celebration-holo-nmm-028072?variant=47818044276892",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 114,
+"condition": "",
+"price": 5.0,
+"url": "https://raptorgames.com/products/gengar-ex-090128-me-30th-celebration-nmm-974201?variant=47783126466716",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 73,
+"condition": "",
+"price": 15.0,
+"url": "https://raptorgames.com/products/gengar-094165-rare-reverse-holo-151-nmm-275785?variant=47969242120348",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 103,
+"condition": "",
+"price": 3.0,
+"url": "https://raptorgames.com/products/gengar-057198-promo-trick-or-trade-booster-holo-nmm-645919?variant=47522612871324",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 106,
+"condition": "",
+"price": 85.0,
+"url": "https://raptorgames.com/products/gengar-tg06tg30-trainer-gallery-rare-lost-origin-trainer-gallery-holo-nmm-140680?variant=47006479777948",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 88,
+"condition": "",
+"price": 100.0,
+"url": "https://raptorgames.com/products/gengar-prime-94102-me-30th-celebration-classic-collection-holo-nmm-039732?variant=48184616878236",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 34,
+"condition": "",
+"price": 50.0,
+"url": "https://raptorgames.com/products/gengar-1799-rare-arceus-lp-550511?variant=47818044211356",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 3,
+"condition": "",
+"price": 40.0,
+"url": "https://raptorgames.com/products/gengar-2062-rare-fossil-unlimited-lp-779225?variant=47551149375644",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 27,
+"condition": "",
+"price": 50.0,
+"url": "https://raptorgames.com/products/gengar-18100-rare-stormfront-lp-758557?variant=47513231917212",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 47,
+"condition": "",
+"price": 55.0,
+"url": "https://raptorgames.com/products/gengar-3583-rare-generations-holo-nmm-833529?variant=47550814617756",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "raptor",
+"card": 105,
+"condition": "",
+"price": 70.0,
+"url": "https://raptorgames.com/products/gengar-vmax-157264-vmax-rare-fusion-strike-holo-nmm-190442?variant=47484565520540",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 109,
+"condition": "Near Mint Holofoil",
+"price": 14.0,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-104-162-scarlet-violet-temporal-forces?variant=43080542879935",
+"type": "price-up",
+"old": 13.5
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 115,
+"condition": "Near Mint Holofoil",
+"price": 38.5,
+"url": "https://www.cardhouse.com.au/products/greavard-214-198-scarlet-violet-base-set?variant=42397491167423",
+"type": "price-down",
+"old": 39.0
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 99,
+"condition": "Near Mint Holofoil",
+"price": 161.5,
+"url": "https://www.cardhouse.com.au/products/gastly-177-162-scarlet-violet-temporal-forces?variant=43080527642815",
+"type": "price-down",
+"old": 162.0
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 81,
+"condition": "Moderately Played",
+"price": 910.0,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes-special-illustration-rare?variant=45114874527935",
+"type": "price-down",
+"old": 929.2
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 80,
+"condition": "Near Mint",
+"price": 58.5,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-269-217-holofoil-me-ascended-heroes-mega-attack-rare?variant=45114870563007",
+"type": "price-up",
+"old": 58.0
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 73,
+"condition": "Near Mint Holofoil",
+"price": 6.5,
+"url": "https://www.cardhouse.com.au/products/gengar-094-165-scarlet-violet-151?variant=42489440501951",
+"type": "price-down",
+"old": 7.0
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 9,
+"condition": "Heavily Played 1st Edition Normal",
+"price": 875.35,
+"url": "https://www.cardhouse.com.au/products/sabrinas-gengar-29-132-gym-challenge-1st-edition?variant=42395507359935",
+"type": "new"
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 31,
+"condition": "Near Mint",
+"price": 72.0,
+"url": "https://www.cardhouse.com.au/products/gengar-gl-40-111-platinum-rising-rivals?variant=42394552533183",
+"type": "price-up",
+"old": 71.5
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 91,
+"condition": "Near Mint",
+"price": 24.0,
+"url": "https://www.cardhouse.com.au/products/rockets-hideout-63-64-neo-revelation-unlimited?variant=42394317717695",
+"type": "price-down",
+"old": 25.0
+},
+{
+"time": "2026-11-09T10:08+10:00",
+"store": "card-house",
+"card": 9,
+"condition": "Lightly Played 1st Edition Normal",
+"price": 962.55,
+"url": "https://www.cardhouse.com.au/products/sabrinas-gengar-29-132-gym-challenge-1st-edition?variant=42395507294399",
+"type": "removed"
+},
+{
 "time": "2026-11-09T01:37+10:00",
 "store": "card-house",
 "card": 77,
