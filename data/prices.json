@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-09T12:10+10:00",
+"updated": "2026-11-09T20:29+10:00",
 "listings": [
 {
 "store": "misty",
@@ -20706,8 +20706,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -20731,8 +20731,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -23115,7 +23115,7 @@
 "store": "sidequest",
 "title": "Pokémon TCG 30th Anniversary Celebration - Booster Box (Simplified Chinese)",
 "price": 160.0,
-"available": false,
+"available": true,
 "url": "https://sidequestcards.com.au/products/pokemon-30th-celebration-booster-box-simplified-chinese",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/InjHR6Ex77aLpi1fkHjWpbag6vtIV-aXP7j0nGqU5QpDGV_Syxjg4Ti8tSsiq3b8WpOompgQQ1wFnyWI7K2De2UoRF1_s1l1mdcl0I1N_RXP0nc68gLJaXpCiPyqvRcv79V3bFk1QmNHQ1sKgChajHR5FTTdMZKqKUlq7n15DxxrSCJvzSJJ8rs.jpg?v=1793671942",
 "lang": "SCH",
@@ -23129,7 +23129,7 @@
 "key": "SCH|box|30th Celebration",
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-06T21:58+10:00"
+"changed": "2026-11-09T20:29+10:00"
 },
 {
 "store": "sidequest",
@@ -24310,7 +24310,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution Delta Reign Booster Bundle",
 "price": 80.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/pokemon_tcg_mega_evolution_delta_reign_booster_bundle_ef9b6.webp?v=1789611001",
 "lang": "EN",
@@ -24324,7 +24324,7 @@
 "key": "bundle|Delta Reign",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-09T20:29+10:00"
 },
 {
 "store": "raptor",
@@ -24930,7 +24930,7 @@
 "store": "raptor",
 "title": "Pokemon TCG First Partner Illustration Collection - Series 2",
 "price": 80.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-first-partner-illustration-collection-series-2",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/s-l1600_3e6321ee-7923-4793-bc93-604b45d1f496.webp?v=1781770778",
 "lang": "EN",
@@ -24944,7 +24944,7 @@
 "key": "other|pokemon tcg first partner illustration collection - series 2",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-09T20:29+10:00"
 },
 {
 "store": "raptor",

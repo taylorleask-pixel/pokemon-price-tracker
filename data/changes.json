@@ -1,6 +1,39 @@
 {
-"updated": "2026-11-09T12:10+10:00",
+"updated": "2026-11-09T20:29+10:00",
 "events": [
+{
+"time": "2026-11-09T20:29+10:00",
+"store": "sidequest",
+"key": "SCH|box|30th Celebration",
+"title": "Pokémon TCG 30th Anniversary Celebration - Booster Box (Simplified Chinese)",
+"url": "https://sidequestcards.com.au/products/pokemon-30th-celebration-booster-box-simplified-chinese",
+"category": "box",
+"lang": "SCH",
+"type": "in-stock",
+"new": 160.0
+},
+{
+"time": "2026-11-09T20:29+10:00",
+"store": "raptor",
+"key": "bundle|Delta Reign",
+"title": "Pokemon TCG: Mega Evolution Delta Reign Booster Bundle",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-bundle",
+"category": "bundle",
+"lang": "EN",
+"type": "sold-out",
+"old": 80.0
+},
+{
+"time": "2026-11-09T20:29+10:00",
+"store": "raptor",
+"key": "other|pokemon tcg first partner illustration collection - series 2",
+"title": "Pokemon TCG First Partner Illustration Collection - Series 2",
+"url": "https://raptorgames.com/products/pokemon-tcg-first-partner-illustration-collection-series-2",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 80.0
+},
 {
 "time": "2026-11-09T10:56+10:00",
 "store": "misty",
