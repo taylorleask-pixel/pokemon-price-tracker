@@ -1,6 +1,87 @@
 {
-"updated": "2026-11-09T21:34+10:00",
+"updated": "2026-11-10T13:35+10:00",
 "events": [
+{
+"time": "2026-11-10T13:35+10:00",
+"store": "misty",
+"key": "box|Temporal Forces",
+"title": "Temporal Forces Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 533.9,
+"new": 534.77
+},
+{
+"time": "2026-11-10T13:35+10:00",
+"store": "sidequest",
+"key": "etb|Fusion Strike",
+"title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
+"url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
+"category": "etb",
+"lang": "EN",
+"type": "price-down",
+"old": 846.3,
+"new": 840.7
+},
+{
+"time": "2026-11-10T13:35+10:00",
+"store": "raptor",
+"key": "pack|Delta Reign",
+"title": "Pokemon TCG: Mega Evolution Delta Reign Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "in-stock",
+"new": 12.0
+},
+{
+"time": "2026-11-10T13:35+10:00",
+"store": "raptor",
+"key": "pack|Delta Reign",
+"title": "Pokemon TCG: Mega Evolution Delta Reign Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "price-up",
+"old": 10.0,
+"new": 12.0
+},
+{
+"time": "2026-11-10T13:35+10:00",
+"store": "raptor",
+"key": "bundle|30th Celebration",
+"title": "Pokemon TCG: 30th Celebration Booster Bundle",
+"url": "https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-booster-bundle",
+"category": "bundle",
+"lang": "EN",
+"type": "in-stock",
+"new": 150.0
+},
+{
+"time": "2026-11-10T13:35+10:00",
+"store": "raptor",
+"key": "other|30th Celebration Poster Collection",
+"title": "Pokemon TCG: 30th Celebration Poster Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-30th-celebration-poster-box",
+"category": "other",
+"lang": "EN",
+"type": "in-stock",
+"new": 90.0
+},
+{
+"time": "2026-11-10T13:35+10:00",
+"store": "raptor",
+"key": "bundle|Chaos Rising",
+"title": "Pokemon TCG: Chaos Rising Booster Bundle",
+"url": "https://raptorgames.com/products/chaos-rising-booster-bundle",
+"category": "bundle",
+"lang": "EN",
+"type": "price-up",
+"old": 72.0,
+"new": 80.0
+},
 {
 "time": "2026-11-09T20:29+10:00",
 "store": "sidequest",
