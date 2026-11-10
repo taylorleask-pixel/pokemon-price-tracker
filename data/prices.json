@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-10T13:35+10:00",
+"updated": "2026-11-11T03:04+10:00",
 "listings": [
 {
 "store": "misty",
@@ -602,26 +602,6 @@
 "product": null,
 "packs": 1,
 "key": "pack|Chaos Rising",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Chaos Rising Elite Trainer Box",
-"price": 130.0,
-"available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/chaos-rising-elite-trainer-box",
-"image": "https://images.scrydex.com/pokemon/me4-s7/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "etb",
-"set": "Chaos Rising",
-"year": 2026,
-"product": null,
-"packs": 9,
-"key": "etb|Chaos Rising",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -5445,6 +5425,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "misty",
+"title": "Chaos Rising Elite Trainer Box",
+"price": 130.0,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/chaos-rising-elite-trainer-box",
+"image": "https://images.scrydex.com/pokemon/me4-s7/large",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "etb",
+"set": "Chaos Rising",
+"year": 2026,
+"product": null,
+"packs": 9,
+"key": "etb|Chaos Rising",
+"skip": null,
+"first_seen": null,
+"changed": "2026-11-11T03:04+10:00"
 },
 {
 "store": "misty",
@@ -21758,6 +21758,26 @@
 },
 {
 "store": "evo",
+"title": "POKEMON TCG: Prismatic Evolutions Booster Pack",
+"price": 25.0,
+"available": true,
+"url": "https://www.evogames.com.au/product/pokemon-tcg-prismatic-evolutions-booster-pack/OMWMIQ62HUYJOENM2VP2GJNW",
+"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/XAGKT6JYB33SSCUTXFGKB57G.jpeg",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "pack",
+"set": "Prismatic Evolutions",
+"year": 2025,
+"product": null,
+"packs": 1,
+"key": "pack|Prismatic Evolutions",
+"skip": null,
+"first_seen": "2026-11-11T03:04+10:00",
+"changed": "2026-11-11T03:04+10:00"
+},
+{
+"store": "evo",
 "title": "POKEMON TCG: Paradise Dragona Korean Booster Box",
 "price": 100.0,
 "available": true,
@@ -21815,6 +21835,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "evo",
+"title": "Pokémon Pokemon Tcg: Terastral Festival (Sv8a) Booster Box",
+"price": 143.0,
+"available": true,
+"url": "https://www.evogames.com.au/product/pok-mon-pokemon-tcg-terastral-festival-sv8a-booster-box/TJCWHNT3BO2SHD4FHMIMSJNO",
+"image": null,
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": null,
+"year": null,
+"product": null,
+"packs": null,
+"key": "other|pokemon pokemon tcg terastral festival sv8a booster box",
+"skip": null,
+"first_seen": "2026-11-11T03:04+10:00",
+"changed": "2026-11-11T03:04+10:00"
 },
 {
 "store": "evo",
@@ -22910,7 +22950,7 @@
 "store": "sidequest",
 "title": "(Simplified Chinese) Legendary Celebration Pikachu Poké Ball Gift Set",
 "price": 30.0,
-"available": false,
+"available": true,
 "url": "https://sidequestcards.com.au/products/simplified-chinese-legendary-celebration-pikachu-poke-ball-gift-set",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/PokemonCNPokeBallGiftSetPikachuLegendaryCelebrationSimplifiedChineseVersion_02.webp?v=1782195590",
 "lang": "SCH",
@@ -22924,7 +22964,7 @@
 "key": "SCH|other|simplified chinese legendary celebration pikachu poke ball gift set",
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-06T21:58+10:00"
+"changed": "2026-11-11T03:04+10:00"
 },
 {
 "store": "sidequest",
@@ -22950,7 +22990,7 @@
 "store": "sidequest",
 "title": "(Simplified Chinese) Legendary Celebration Pikachu Great Ball Gift Set",
 "price": 30.0,
-"available": false,
+"available": true,
 "url": "https://sidequestcards.com.au/products/simplified-chinese-legendary-celebration-pikachu-great-ball-gift-set",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/PokemonCNGreatBallGiftSetPikachuLegendaryCelebrationSimplifiedChineseVersion_02.webp?v=1782195624",
 "lang": "SCH",
@@ -22964,7 +23004,7 @@
 "key": "SCH|other|simplified chinese legendary celebration pikachu great ball gift set",
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-06T21:58+10:00"
+"changed": "2026-11-11T03:04+10:00"
 },
 {
 "store": "sidequest",
@@ -23395,7 +23435,7 @@
 "store": "sidequest",
 "title": "(Simplified Chinese) Pokémon TCG - Chasing Glory Together Slim Booster Pack",
 "price": 5.0,
-"available": true,
+"available": false,
 "url": "https://sidequestcards.com.au/products/pokemon-tcg-simplified-chinese-chasing-glory-together-slim-booster-pack",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/chasing-glory-together-destined-rivals-booster-box-slim-simplified-chinese-pokemon-tcg-gd-games-blake-1.webp?v=1787784539",
 "lang": "SCH",
@@ -23409,7 +23449,7 @@
 "key": "SCH|pack|simplified chinese pokemon tcg - chasing glory together slim booster pack",
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-06T21:58+10:00"
+"changed": "2026-11-11T03:04+10:00"
 },
 {
 "store": "sidequest",

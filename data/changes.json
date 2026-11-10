@@ -1,6 +1,74 @@
 {
-"updated": "2026-11-10T13:35+10:00",
+"updated": "2026-11-11T03:04+10:00",
 "events": [
+{
+"time": "2026-11-11T03:04+10:00",
+"store": "misty",
+"key": "etb|Chaos Rising",
+"title": "Chaos Rising Elite Trainer Box",
+"url": "https://mistyscollectables.com.au/sealed/product/chaos-rising-elite-trainer-box",
+"category": "etb",
+"lang": "EN",
+"type": "sold-out",
+"old": 130.0
+},
+{
+"time": "2026-11-11T03:04+10:00",
+"store": "evo",
+"key": "pack|Prismatic Evolutions",
+"title": "POKEMON TCG: Prismatic Evolutions Booster Pack",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-prismatic-evolutions-booster-pack/OMWMIQ62HUYJOENM2VP2GJNW",
+"category": "pack",
+"lang": "EN",
+"type": "new",
+"new": 25.0,
+"available": true
+},
+{
+"time": "2026-11-11T03:04+10:00",
+"store": "evo",
+"key": "other|pokemon pokemon tcg terastral festival sv8a booster box",
+"title": "Pokémon Pokemon Tcg: Terastral Festival (Sv8a) Booster Box",
+"url": "https://www.evogames.com.au/product/pok-mon-pokemon-tcg-terastral-festival-sv8a-booster-box/TJCWHNT3BO2SHD4FHMIMSJNO",
+"category": "other",
+"lang": "EN",
+"type": "new",
+"new": 143.0,
+"available": true
+},
+{
+"time": "2026-11-11T03:04+10:00",
+"store": "sidequest",
+"key": "SCH|other|simplified chinese legendary celebration pikachu poke ball gift set",
+"title": "(Simplified Chinese) Legendary Celebration Pikachu Poké Ball Gift Set",
+"url": "https://sidequestcards.com.au/products/simplified-chinese-legendary-celebration-pikachu-poke-ball-gift-set",
+"category": "other",
+"lang": "SCH",
+"type": "in-stock",
+"new": 30.0
+},
+{
+"time": "2026-11-11T03:04+10:00",
+"store": "sidequest",
+"key": "SCH|other|simplified chinese legendary celebration pikachu great ball gift set",
+"title": "(Simplified Chinese) Legendary Celebration Pikachu Great Ball Gift Set",
+"url": "https://sidequestcards.com.au/products/simplified-chinese-legendary-celebration-pikachu-great-ball-gift-set",
+"category": "other",
+"lang": "SCH",
+"type": "in-stock",
+"new": 30.0
+},
+{
+"time": "2026-11-11T03:04+10:00",
+"store": "sidequest",
+"key": "SCH|pack|simplified chinese pokemon tcg - chasing glory together slim booster pack",
+"title": "(Simplified Chinese) Pokémon TCG - Chasing Glory Together Slim Booster Pack",
+"url": "https://sidequestcards.com.au/products/pokemon-tcg-simplified-chinese-chasing-glory-together-slim-booster-pack",
+"category": "pack",
+"lang": "SCH",
+"type": "sold-out",
+"old": 5.0
+},
 {
 "time": "2026-11-10T13:35+10:00",
 "store": "misty",
