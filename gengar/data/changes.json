@@ -1,6 +1,522 @@
 {
 "events": [
 {
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 114,
+"condition": "NM",
+"price": 3.5,
+"url": "https://www.evogamescards.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=50806471950498",
+"type": "price-up",
+"old": 3.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 60,
+"condition": "NM",
+"price": 18.0,
+"url": "https://www.evogamescards.com.au/products/gengar-085-202-swsh01-sword-shield-base-set-holofoil?variant=50816996999330",
+"type": "new"
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 50,
+"condition": "NM",
+"price": 50.5,
+"url": "https://www.evogamescards.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=50806301687970",
+"type": "price-up",
+"old": 50.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 106,
+"condition": "NM",
+"price": 81.5,
+"url": "https://www.evogamescards.com.au/products/gengar-tg06-tg30-swsh11-lost-origin-trainer-gallery-holofoil?variant=50806579527842",
+"type": "price-up",
+"old": 79.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 58,
+"condition": "NM",
+"price": 48.5,
+"url": "https://www.evogamescards.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=50806421389474",
+"type": "price-down",
+"old": 49.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 111,
+"condition": "NM",
+"price": 7.5,
+"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690349218",
+"type": "price-down",
+"old": 8.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 67,
+"condition": "NM",
+"price": 1621.5,
+"url": "https://www.evogamescards.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=50806424600738",
+"type": "price-up",
+"old": 1617.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 115,
+"condition": "NM",
+"price": 39.5,
+"url": "https://www.evogamescards.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=50816927170722",
+"type": "price-up",
+"old": 39.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 98,
+"condition": "NM",
+"price": 135.5,
+"url": "https://www.evogamescards.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=50806700933282",
+"type": "price-up",
+"old": 133.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 100,
+"condition": "LP",
+"price": 65.0,
+"url": "https://www.evogamescards.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=50806885744802",
+"type": "price-down",
+"old": 67.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 110,
+"condition": "NM",
+"price": 6.5,
+"url": "https://www.evogamesorion.com.au/products/mega-gengar-ex-056-094-me02-phantasmal-flames-holofoil?variant=48598977904861",
+"type": "price-up",
+"old": 6.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 67,
+"condition": "NM",
+"price": 1621.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-271-264-swsh08-fusion-strike-holofoil?variant=48540999450845",
+"type": "price-up",
+"old": 1617.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 105,
+"condition": "NM",
+"price": 66.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil?variant=48528846422237",
+"type": "price-up",
+"old": 65.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 63,
+"condition": "NM",
+"price": 9.0,
+"url": "https://www.evogamesorion.com.au/products/gengar-057-198-swsh06-chilling-reign-holofoil?variant=48541371498717",
+"type": "price-up",
+"old": 8.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 60,
+"condition": "NM",
+"price": 18.0,
+"url": "https://www.evogamesorion.com.au/products/gengar-085-202-swsh01-sword-shield-base-set-holofoil?variant=48883426984157",
+"type": "price-up",
+"old": 17.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 103,
+"condition": "NM",
+"price": 5.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-2021-copyright-date-057-198-trick-or-trade-booster-bundle-holofoil?variant=68210723815645",
+"type": "price-down",
+"old": 6.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 114,
+"condition": "NM",
+"price": 3.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=48735294095581",
+"type": "price-up",
+"old": 3.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 50,
+"condition": "NM",
+"price": 50.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=48591320219869",
+"type": "price-up",
+"old": 50.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 80,
+"condition": "NM",
+"price": 60.0,
+"url": "https://www.evogamesorion.com.au/products/mega-gengar-ex-269-217-me-ascended-heroes-holofoil?variant=48541049880797",
+"type": "price-up",
+"old": 56.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 104,
+"condition": "NM",
+"price": 25.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-v-156-264-swsh08-fusion-strike-holofoil?variant=48561273372893",
+"type": "price-up",
+"old": 25.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 88,
+"condition": "NM",
+"price": 66.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-prime-94-102-me-30th-celebration-classic-collection-holofoil?variant=67960284020957",
+"type": "price-down",
+"old": 70.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 87,
+"condition": "NM",
+"price": 91.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-ex-154-128-me-30th-celebration-holofoil?variant=50213053464797",
+"type": "price-up",
+"old": 82.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 107,
+"condition": "NM",
+"price": 8.0,
+"url": "https://www.evogamesorion.com.au/products/gengar-094-165-sv-scarlet-violet-151-holofoil?variant=68007132463325",
+"type": "price-up",
+"old": 7.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 113,
+"condition": "NM",
+"price": 250.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-eb-games-exclusive-050-088-miscellaneous-cards-products-cosmos-holo?variant=48535257645277",
+"type": "price-down",
+"old": 251.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 111,
+"condition": "NM",
+"price": 7.5,
+"url": "https://www.evogamesorion.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=48528972087517",
+"type": "price-down",
+"old": 8.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 39,
+"condition": "NM",
+"price": 147.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=68312988680413",
+"type": "price-up",
+"old": 143.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 109,
+"condition": "NM",
+"price": 12.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-ex-104-162-sv05-temporal-forces-holofoil?variant=48514118779101",
+"type": "price-down",
+"old": 14.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 106,
+"condition": "NM",
+"price": 81.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-tg06-tg30-swsh11-lost-origin-trainer-gallery-holofoil?variant=67874225520861",
+"type": "price-up",
+"old": 79.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 73,
+"condition": "NM",
+"price": 21.0,
+"url": "https://www.evogamesorion.com.au/products/gengar-094-165-sv-scarlet-violet-151-reverse-holofoil?variant=68012558057693",
+"type": "price-up",
+"old": 20.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 99,
+"condition": "NM",
+"price": 143.5,
+"url": "https://www.evogamesorion.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil?variant=68280874369245",
+"type": "price-down",
+"old": 151.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 115,
+"condition": "NM",
+"price": 39.5,
+"url": "https://www.evogamesorion.com.au/products/greavard-214-198-sv01-scarlet-violet-base-set-holofoil?variant=68367779430621",
+"type": "price-up",
+"old": 39.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 98,
+"condition": "NM",
+"price": 135.5,
+"url": "https://www.evogamesorion.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=48409522438365",
+"type": "price-up",
+"old": 133.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-orion",
+"card": 100,
+"condition": "NM",
+"price": 81.5,
+"url": "https://www.evogamesorion.com.au/products/pikachu-173-165-sv-scarlet-violet-151-holofoil?variant=48534685810909",
+"type": "price-down",
+"old": 84.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "mint",
+"card": 3,
+"condition": "NM",
+"price": 74.5,
+"url": "https://mintcollectables.com.au/products/gengar-20-62-fossil-unlimited?variant=54294261366948",
+"type": "price-down",
+"old": 75.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "mint",
+"card": 37,
+"condition": "NM",
+"price": 972.5,
+"url": "https://mintcollectables.com.au/products/gengar-prime-94-102-triumphant-holofoil?variant=53844520206500",
+"type": "price-up",
+"old": 972.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 109,
+"condition": "Near Mint Holofoil",
+"price": 13.5,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-104-162-scarlet-violet-temporal-forces?variant=43080542879935",
+"type": "price-up",
+"old": 12.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 115,
+"condition": "Near Mint Holofoil",
+"price": 37.0,
+"url": "https://www.cardhouse.com.au/products/greavard-214-198-scarlet-violet-base-set?variant=42397491167423",
+"type": "price-down",
+"old": 38.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 99,
+"condition": "Near Mint Holofoil",
+"price": 155.5,
+"url": "https://www.cardhouse.com.au/products/gastly-177-162-scarlet-violet-temporal-forces?variant=43080527642815",
+"type": "price-down",
+"old": 163.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 45,
+"condition": "Lightly Played Holofoil",
+"price": 81.0,
+"url": "https://www.cardhouse.com.au/products/gengar-60-162-xy-breakthrough?variant=42392594710719",
+"type": "price-up",
+"old": 80.1
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 81,
+"condition": "Moderately Played",
+"price": 917.2,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes-special-illustration-rare?variant=45114874527935",
+"type": "price-up",
+"old": 909.6
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 80,
+"condition": "Near Mint",
+"price": 58.5,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-269-217-holofoil-me-ascended-heroes-mega-attack-rare?variant=45114870563007",
+"type": "price-down",
+"old": 59.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 105,
+"condition": "Near Mint Holofoil",
+"price": 74.5,
+"url": "https://www.cardhouse.com.au/products/gengar-vmax-157-264-sword-shield-fusion-strike?variant=42396519104703",
+"type": "price-down",
+"old": 75.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 52,
+"condition": "Near Mint Holofoil",
+"price": 735.0,
+"url": "https://www.cardhouse.com.au/products/gengar-mimikyu-gx-53-181-sun-moon-team-up?variant=42392101781695",
+"type": "price-down",
+"old": 739.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 73,
+"condition": "Near Mint Holofoil",
+"price": 5.5,
+"url": "https://www.cardhouse.com.au/products/gengar-094-165-scarlet-violet-151?variant=42489440501951",
+"type": "price-down",
+"old": 6.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 103,
+"condition": "Near Mint Holofoil",
+"price": 3.0,
+"url": "https://www.cardhouse.com.au/products/gengar-057-198-trick-or-trade?variant=42397255467199",
+"type": "price-down",
+"old": 4.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 64,
+"condition": "Near Mint Holofoil",
+"price": 8.0,
+"url": "https://www.cardhouse.com.au/products/gengar-057-198-sword-shield-chilling-reign?variant=42397041459391",
+"type": "price-up",
+"old": 7.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 61,
+"condition": "Near Mint Holofoil",
+"price": 17.5,
+"url": "https://www.cardhouse.com.au/products/gengar-085-202-sword-shield-base-set?variant=42396025225407",
+"type": "price-down",
+"old": 18.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 4,
+"condition": "Near Mint 1st Edition Normal",
+"price": 226.0,
+"url": "https://www.cardhouse.com.au/products/gengar-20-62-fossil-1st-edition?variant=42395589345471",
+"type": "price-up",
+"old": 223.5
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "card-house",
+"card": 38,
+"condition": "Near Mint Holofoil",
+"price": 571.5,
+"url": "https://www.cardhouse.com.au/products/m-gengar-ex-xy166-xy-black-star-promos?variant=42395005288639",
+"type": "price-up",
+"old": 565.0
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "evo-flinders",
+"card": 60,
+"condition": "LP",
+"price": 14.0,
+"url": "https://www.evogamescards.com.au/products/gengar-085-202-swsh01-sword-shield-base-set-holofoil?variant=50816997032098",
+"type": "removed"
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "misty",
+"card": 47,
+"condition": "",
+"price": 74.4,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fiwd59at11fkrh7cg7rp",
+"type": "removed"
+},
+{
+"time": "2026-11-11T19:54+10:00",
+"store": "misty",
+"card": 48,
+"condition": "",
+"price": 93.79,
+"url": "https://mistyscollectables.com.au/cards/cmqz5fiwd59at11fkrh7cg7rp",
+"type": "removed"
+},
+{
 "time": "2026-11-11T10:55+10:00",
 "store": "evo-flinders",
 "card": 39,
