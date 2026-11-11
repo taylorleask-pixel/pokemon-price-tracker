@@ -1,6 +1,122 @@
 {
-"updated": "2026-11-11T11:15+10:00",
+"updated": "2026-11-11T20:59+10:00",
 "events": [
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "evo",
+"key": "box|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Box",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-box/73MP7MFK7Y2NSHJHQN7PMABP",
+"category": "box",
+"lang": "EN",
+"type": "new",
+"new": 340.0,
+"available": true
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "evo",
+"key": "bundle|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions Delta Reign Booster Bundle",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-bundle/NWTVITUOZJE52E36N6BKCWGU",
+"category": "bundle",
+"lang": "EN",
+"type": "new",
+"new": 60.0,
+"available": true
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "evo",
+"key": "pack|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Pack",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-pack/TEYPVBVPEJ3OO3PT4MJWQB2J",
+"category": "pack",
+"lang": "EN",
+"type": "new",
+"new": 10.0,
+"available": true
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "raptor",
+"key": "pack|Cosmic Eclipse",
+"title": "Pokemon TCG: Cosmic Eclipse Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-cosmic-eclipse-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "new",
+"new": 130.0,
+"available": true
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "raptor",
+"key": "pack|Rebel Clash",
+"title": "Pokemon TCG: Rebel Clash Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-rebel-clash-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "new",
+"new": 18.0,
+"available": true
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "raptor",
+"key": "pack|Vivid Voltage",
+"title": "Pokemon TCG: Vivid Voltage Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-vivid-voltage-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "new",
+"new": 18.0,
+"available": true
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "raptor",
+"key": "other|Mega Zygarde ex Premium Collection",
+"title": "Pokémon TCG Mega Zygarde ex Premium Collection",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-zygarde-ex-premium-collection",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 85.0
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "raptor",
+"key": "box|Battle Styles",
+"title": "Pokemon TCG: Battle Styles Booster Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-battle-styles-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "in-stock",
+"new": 500.0
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "evo",
+"key": "other|pokemon pokemon tcg terastral festival sv8a booster box",
+"title": "Pokémon Pokemon Tcg: Terastral Festival (Sv8a) Booster Box",
+"url": "https://www.evogames.com.au/product/pok-mon-pokemon-tcg-terastral-festival-sv8a-booster-box/TJCWHNT3BO2SHD4FHMIMSJNO",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 143.0
+},
+{
+"time": "2026-11-11T20:59+10:00",
+"store": "everson",
+"key": "box|Delta Reign",
+"title": "Pokémon TCG: Mega Evolution—Delta Reign Booster",
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-delta-reign-booster-november-6th-2026",
+"category": "box",
+"lang": "EN",
+"type": "removed",
+"old": 320.0
+},
 {
 "time": "2026-11-11T11:15+10:00",
 "store": "misty",
