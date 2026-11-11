@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T03:04+10:00",
+"updated": "2026-11-11T11:15+10:00",
 "listings": [
 {
 "store": "misty",
@@ -1789,7 +1789,7 @@
 {
 "store": "misty",
 "title": "Scarlet & Violet Booster Box",
-"price": 492.67,
+"price": 493.0,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
 "image": "https://images.scrydex.com/pokemon/sv1-s2/large",
@@ -1804,7 +1804,7 @@
 "key": "box|Scarlet & Violet",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-08T08:49+10:00"
+"changed": "2026-11-11T11:15+10:00"
 },
 {
 "store": "misty",
@@ -2014,7 +2014,7 @@
 {
 "store": "misty",
 "title": "Temporal Forces Booster Box",
-"price": 534.77,
+"price": 534.91,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
 "image": "https://images.scrydex.com/pokemon/sv5-s2/large",
@@ -2029,7 +2029,7 @@
 "key": "box|Temporal Forces",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-10T13:35+10:00"
+"changed": "2026-11-11T11:15+10:00"
 },
 {
 "store": "misty",
@@ -6384,26 +6384,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Booster Box",
-"price": 349.0,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu726q0ezqeuzqtbxudj4r7/art-995e0d4f.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "box",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 36,
-"key": "box|Delta Reign",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Delta Reign Booster Box",
 "price": 334.3,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box-me6-s2",
@@ -6420,6 +6400,26 @@
 "skip": null,
 "first_seen": "2026-11-07T11:01+10:00",
 "changed": "2026-11-07T11:01+10:00"
+},
+{
+"store": "misty",
+"title": "Delta Reign Booster Box",
+"price": 349.0,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu726q0ezqeuzqtbxudj4r7/art-995e0d4f.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 36,
+"key": "box|Delta Reign",
+"skip": null,
+"first_seen": null,
+"changed": null
 },
 {
 "store": "misty",
@@ -6554,26 +6554,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Elite Trainer Box",
-"price": 129.99,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu73zs37ytn13axz2ofp2se/art-7ce3c0f6.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "etb",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 9,
-"key": "etb|Delta Reign",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Delta Reign Elite Trainer Box",
 "price": 140.59,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box-me6-s9",
@@ -6590,6 +6570,26 @@
 "skip": null,
 "first_seen": "2026-11-07T11:01+10:00",
 "changed": "2026-11-07T11:01+10:00"
+},
+{
+"store": "misty",
+"title": "Delta Reign Elite Trainer Box",
+"price": 129.99,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu73zs37ytn13axz2ofp2se/art-7ce3c0f6.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "etb",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 9,
+"key": "etb|Delta Reign",
+"skip": null,
+"first_seen": null,
+"changed": null
 },
 {
 "store": "misty",
@@ -8296,8 +8296,8 @@
 "title": "EX Trainer Kit - Latias & Latios",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios",
-"image": "https://images.scrydex.com/pokemon/tk1a-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios-tk1b-s1",
+"image": "https://images.scrydex.com/pokemon/tk1b-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -8316,8 +8316,8 @@
 "title": "EX Trainer Kit - Latias & Latios",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios-tk1b-s1",
-"image": "https://images.scrydex.com/pokemon/tk1b-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios",
+"image": "https://images.scrydex.com/pokemon/tk1a-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -8336,8 +8336,8 @@
 "title": "EX Trainer Kit 2 - Plusle & Minun",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun-tk2b-s1",
-"image": "https://images.scrydex.com/pokemon/tk2b-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun",
+"image": "https://images.scrydex.com/pokemon/tk2a-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -8356,8 +8356,8 @@
 "title": "EX Trainer Kit 2 - Plusle & Minun",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun",
-"image": "https://images.scrydex.com/pokemon/tk2a-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun-tk2b-s1",
+"image": "https://images.scrydex.com/pokemon/tk2b-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -24163,6 +24163,26 @@
 },
 {
 "store": "raptor",
+"title": "Pokemon TCG: Chilling Reign Booster Box",
+"price": 800.0,
+"available": true,
+"url": "https://raptorgames.com/products/pokemon-tcg-chilling-reign-booster-box",
+"image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/117089724301342.jpg?v=1794359466",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Chilling Reign",
+"year": 2021,
+"product": null,
+"packs": 36,
+"key": "box|Chilling Reign",
+"skip": null,
+"first_seen": "2026-11-11T11:15+10:00",
+"changed": "2026-11-11T11:15+10:00"
+},
+{
+"store": "raptor",
 "title": "Pokemon TCG:  25th Anniversary Mini Tin Display",
 "price": 800.0,
 "available": true,
@@ -28139,7 +28159,7 @@
 {
 "store": "raptor",
 "title": "Pokemon TCG: Battle Styles Booster Box",
-"price": 350.0,
+"price": 500.0,
 "available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-battle-styles-booster-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_a224f58c-2691-4b2f-b233-f8d4086f00ec.jpg?v=1757217106",
@@ -28154,7 +28174,7 @@
 "key": "box|Battle Styles",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-11T11:15+10:00"
 },
 {
 "store": "raptor",
