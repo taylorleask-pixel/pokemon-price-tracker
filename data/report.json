@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12T12:17+10:00",
+ "updated": "2026-11-12T21:13+10:00",
  "stores": {
   "misty": {
    "ok": true,
-   "found": 1010,
-   "kept": 986
+   "found": 993,
+   "kept": 970
   },
   "evo": {
    "ok": true,
@@ -33,8 +33,8 @@
   },
   "dorky": {
    "ok": true,
-   "found": 35,
-   "kept": 27
+   "found": 36,
+   "kept": 28
   },
   "jojos": {
    "ok": true,
@@ -43,8 +43,8 @@
   },
   "gatekeepers": {
    "ok": true,
-   "found": 21,
-   "kept": 21
+   "found": 53,
+   "kept": 24
   }
  }
 }
