@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:59+10:00",
+ "updated": "2026-11-12T12:17+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -8,8 +8,8 @@
   },
   "evo": {
    "ok": true,
-   "found": 68,
-   "kept": 47
+   "found": 67,
+   "kept": 46
   },
   "eden": {
    "ok": true,

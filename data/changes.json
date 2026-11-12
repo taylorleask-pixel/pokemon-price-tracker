@@ -1,6 +1,41 @@
 {
-"updated": "2026-11-11T20:59+10:00",
+"updated": "2026-11-12T12:17+10:00",
 "events": [
+{
+"time": "2026-11-12T12:17+10:00",
+"store": "misty",
+"key": "box|Scarlet & Violet",
+"title": "Scarlet & Violet Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 493.0,
+"new": 493.1
+},
+{
+"time": "2026-11-12T12:17+10:00",
+"store": "misty",
+"key": "box|Temporal Forces",
+"title": "Temporal Forces Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 534.91,
+"new": 535.17
+},
+{
+"time": "2026-11-12T12:17+10:00",
+"store": "evo",
+"key": "bundle|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions Delta Reign Booster Bundle",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-bundle/NWTVITUOZJE52E36N6BKCWGU",
+"category": "bundle",
+"lang": "EN",
+"type": "removed",
+"old": 60.0
+},
 {
 "time": "2026-11-11T20:59+10:00",
 "store": "evo",

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-11T20:59+10:00",
+"updated": "2026-11-12T12:17+10:00",
 "listings": [
 {
 "store": "misty",
@@ -1789,7 +1789,7 @@
 {
 "store": "misty",
 "title": "Scarlet & Violet Booster Box",
-"price": 493.0,
+"price": 493.1,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
 "image": "https://images.scrydex.com/pokemon/sv1-s2/large",
@@ -1804,7 +1804,7 @@
 "key": "box|Scarlet & Violet",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-11T11:15+10:00"
+"changed": "2026-11-12T12:17+10:00"
 },
 {
 "store": "misty",
@@ -2014,7 +2014,7 @@
 {
 "store": "misty",
 "title": "Temporal Forces Booster Box",
-"price": 534.91,
+"price": 535.17,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
 "image": "https://images.scrydex.com/pokemon/sv5-s2/large",
@@ -2029,7 +2029,7 @@
 "key": "box|Temporal Forces",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-11T11:15+10:00"
+"changed": "2026-11-12T12:17+10:00"
 },
 {
 "store": "misty",
@@ -2354,10 +2354,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 475.0,
+"price": 499.95,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -2379,10 +2379,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 499.95,
+"price": 475.0,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -6554,26 +6554,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Elite Trainer Box",
-"price": 140.59,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box-me6-s9",
-"image": "https://images.scrydex.com/pokemon/me6-s9/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "etb",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 9,
-"key": "etb|Delta Reign",
-"skip": null,
-"first_seen": "2026-11-07T11:01+10:00",
-"changed": "2026-11-07T11:01+10:00"
-},
-{
-"store": "misty",
-"title": "Delta Reign Elite Trainer Box",
 "price": 129.99,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
@@ -6590,6 +6570,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "misty",
+"title": "Delta Reign Elite Trainer Box",
+"price": 140.59,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box-me6-s9",
+"image": "https://images.scrydex.com/pokemon/me6-s9/large",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "etb",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 9,
+"key": "etb|Delta Reign",
+"skip": null,
+"first_seen": "2026-11-07T11:01+10:00",
+"changed": "2026-11-07T11:01+10:00"
 },
 {
 "store": "misty",
@@ -14574,10 +14574,10 @@
 {
 "store": "misty",
 "title": "Phantom Forces Booster Box",
-"price": null,
+"price": 22000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box-xy4-s3",
-"image": "https://images.scrydex.com/pokemon/xy4-s3/large",
+"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmu1tukuhi02aeb5bogd2saa4/art-3a403ca5.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -14594,10 +14594,10 @@
 {
 "store": "misty",
 "title": "Phantom Forces Booster Box",
-"price": 22000.0,
+"price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmu1tukuhi02aeb5bogd2saa4/art-3a403ca5.png",
+"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box-xy4-s3",
+"image": "https://images.scrydex.com/pokemon/xy4-s3/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -21775,26 +21775,6 @@
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
 "changed": "2026-11-06T21:58+10:00"
-},
-{
-"store": "evo",
-"title": "Pokemon TCG Mega Evolutions Delta Reign Booster Bundle",
-"price": 60.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-bundle/NWTVITUOZJE52E36N6BKCWGU",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/6SV6G6XUNYZMSVIJSCTXZ7RL.jpeg",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "bundle",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 6,
-"key": "bundle|Delta Reign",
-"skip": null,
-"first_seen": "2026-11-11T20:59+10:00",
-"changed": "2026-11-11T20:59+10:00"
 },
 {
 "store": "evo",
