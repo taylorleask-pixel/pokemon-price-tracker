@@ -408,26 +408,26 @@ function renderSets() {
     set: label, key: `src:${label}`, year: label.match(/\b(19|20)\d\d\b/)?.[0] ?? cs[0].date.slice(0, 4), n: cs.length,
     have: cs.filter(owned).length, names: [...new Set(cs.map((c) => `${c.display} (${c.set})`))] }))
     .sort((a, b) => a.year.localeCompare(b.year) || a.set.localeCompare(b.set));
+  // sets and special releases together, oldest first (special releases after the sets of the same year)
+  const all = [...groups.map((g, i) => ({ ...g, i })), ...releases.map((g) => ({ ...g, i: 1e4 }))]
+    .sort((a, b) => a.year.localeCompare(b.year) || a.i - b.i);
   const rowsHtml = (list, q) => list.filter((g) => !q || `${g.set} ${g.year} ${g.names.join(" ")}`.toLowerCase().includes(q))
     .map((g) => `<tr class="row" data-set="${esc(g.key ?? g.set)}" tabindex="0">
-      <td>${g.year}</td><td><b>${esc(g.set)}</b><br><span class="note">${esc(g.names.join(", "))}</span></td>
+      <td>${g.year}</td><td><b>${esc(g.set)}</b>${g.key ? ` <span class="tag">Special release</span>` : ""}<br><span class="note">${esc(g.names.join(", "))}</span></td>
       <td>${g.n}</td><td><span class="mini"><i style="width:${(g.have / g.n) * 100}%"></i></span>${g.have}/${g.n}</td></tr>`).join("");
   const draw = () => {
     const q = ($("#setq")?.value || "").trim().toLowerCase();
-    $("#setrows").innerHTML = rowsHtml(groups, q) || `<tr><td colspan="4" class="none">No set matches.</td></tr>`;
-    $("#specialrows").innerHTML = rowsHtml(releases, q) || `<tr><td colspan="4" class="none">No special release matches.</td></tr>`;
-    document.querySelectorAll("#setrows tr.row, #specialrows tr.row").forEach((tr) => {
+    $("#setrows").innerHTML = rowsHtml(all, q) || `<tr><td colspan="4" class="none">No set matches.</td></tr>`;
+    document.querySelectorAll("#setrows tr.row").forEach((tr) => {
       const open = () => { S.set = tr.dataset.set; S.filter = "all"; S.q = ""; go("binder"); };
       tr.addEventListener("click", open);
       tr.addEventListener("keydown", (e) => { if (e.key === "Enter") open(); });
     });
   };
   $("#view").innerHTML = `<div class="bar"><input class="search" id="setq" type="search" placeholder="Search sets" aria-label="Search sets">
-      <span class="count">${groups.length} sets with Gengar cards</span></div>
+      <span class="count">${groups.length} sets, ${releases.length} special releases</span></div>
     <div class="wrap"><table><thead><tr><th>Year</th><th>Set</th><th>Gengars</th><th>You have</th></tr></thead><tbody id="setrows"></tbody></table></div>
-    <h2 class="sethead">Special releases</h2>
-    <p class="note">Promos, Trick or Trade, prize packs and store gifts. You can't pull these from the set's packs, so they're only counted here.</p>
-    <div class="wrap"><table><thead><tr><th>Year</th><th>Release</th><th>Gengars</th><th>You have</th></tr></thead><tbody id="specialrows"></tbody></table></div>`;
+    <p class="note">Special releases are Trick or Trade, prize packs, promos and store gifts. You can't pull those cards from a set's packs, so they're only counted under their release.</p>`;
   $("#setq").addEventListener("input", draw);
   draw();
 }
