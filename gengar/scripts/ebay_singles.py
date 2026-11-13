@@ -32,6 +32,10 @@ API = "https://api.ebay.com/buy/browse/v1/item_summary/search"
 KEEP = 3                    # cheapest listings kept per card
 EXTRA = {"RH": "reverse holo", "1st": "1st edition", "CH": "cosmos holo", "SS": "staff", "JM": "world championship",
          "EGS": "eb games", "GS": "gamestop"}
+# graded slabs, other languages, and lucky-dip or fake listings
+BAD = re.compile(r"\b(psa|cgc|bgs|tag|sgc|ace|pcg|ags|cga|mnt|beckett)\s*(gem\s*)?(mint\s*)?\d|graded|\bslab|\bgem mint 10|"
+                 r"french|german|italian|spanish|portuguese|deutsch|francais|ectoplasma|\bthai\b|indonesian|"
+                 r"mystery|random|lucky dip|\blot\b|bundle|proxy|custom|orica|fake|replica|\bmetal\b|gold card|code card|digital", re.I)
 SET_Q = {"SWSH Black Star Promos": "swsh promo", "XY Black Star Promos": "xy promo", "Mega Evolution Black Star Promos": "promo",
          "Expedition Base Set": "expedition", "HS—Triumphant": "triumphant", "Brilliant Stars Trainer Gallery": "brilliant stars",
          "Lost Origin Trainer Gallery": "lost origin", "30th Celebration: Classic Collection": "classic collection"}
@@ -84,6 +88,8 @@ def search(tok, c, cards, market):
         if "AUCTION" in (it.get("buyingOptions") or []):      # has bids, even if it also offers Buy It Now
             continue
         title = it.get("title", "")
+        if BAD.search(title):
+            continue
         m = singles.match_card(cards, title)
         if not m or m["id"] != c["id"]:
             continue
