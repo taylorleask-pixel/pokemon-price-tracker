@@ -1,6 +1,109 @@
 {
-"updated": "2026-11-12T21:13+10:00",
+"updated": "2026-11-13T11:50+10:00",
 "events": [
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "misty",
+"key": "bundle|Crown Zenith",
+"title": "Crown Zenith Booster Bundle",
+"url": "https://mistyscollectables.com.au/sealed/product/crown-zenith-booster-bundle",
+"category": "bundle",
+"lang": "EN",
+"type": "price-up",
+"old": 325.0,
+"new": 350.0
+},
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "misty",
+"key": "pack|Crown Zenith",
+"title": "Crown Zenith Booster Pack",
+"url": "https://mistyscollectables.com.au/sealed/product/crown-zenith-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "price-up",
+"old": 48.0,
+"new": 50.0
+},
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "sidequest",
+"key": "etb|Fusion Strike",
+"title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
+"url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
+"category": "etb",
+"lang": "EN",
+"type": "price-up",
+"old": 840.7,
+"new": 846.3
+},
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "raptor",
+"key": "other|pokemon tcg 2025 world championships deck - riley mckay flutter devo gardevoir",
+"title": "Pokemon TCG: 2025 World Championships Deck - Riley McKay (Flutter Devo Gardevoir)",
+"url": "https://raptorgames.com/products/pokemon-tcg-2025-world-championships-deck-riley-mckay-flutter-devo-gardevoir",
+"category": "other",
+"lang": "EN",
+"type": "in-stock",
+"new": 40.0
+},
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "raptor",
+"key": "JP|other|pokemon tcg 2025 world championships deck - yuya okita jp raging bolt",
+"title": "Pokemon TCG: 2025 World Championships Deck - Yuya Okita (JP Raging Bolt)",
+"url": "https://raptorgames.com/products/pokemon-tcg-2025-world-championships-deck-yuya-okita-jp-raging-bolt",
+"category": "other",
+"lang": "JP",
+"type": "in-stock",
+"new": 40.0
+},
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "raptor",
+"key": "other|pokemon tcg 2025 world championships deck - jose cruz galindo-resendiz pult bomb",
+"title": "Pokemon TCG: 2025 World Championships Deck - Jose Cruz Galindo-Resendiz (Pult Bomb)",
+"url": "https://raptorgames.com/products/pokemon-tcg-2025-world-championships-deck-jose-cruz-galindo-resendiz-pult-bomb",
+"category": "other",
+"lang": "EN",
+"type": "in-stock",
+"new": 40.0
+},
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "everson",
+"key": "other|pokemon tcg mega rayquaza ex premium tournament collection",
+"title": "Pokémon TCG: Mega Rayquaza ex Premium Tournament Collection",
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-rayquaza-ex-premium-tournament-collection",
+"category": "other",
+"lang": "EN",
+"type": "new",
+"new": 110.0,
+"available": false
+},
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "everson",
+"key": "other|Mega Forces Tin",
+"title": "Pokémon TCG: Mega Forces Tin      December 2026",
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-forces-tin-august-28th-2026",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 49.95
+},
+{
+"time": "2026-11-13T11:50+10:00",
+"store": "everson",
+"key": "other|30th Celebration Ditto Premium Collection",
+"title": "Pokémon TCG: 30th Celebration Ditto Premium Collection  \" Releasing 6th Nov 2026\"",
+"url": "https://eetcg.com.au/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 85.0
+},
 {
 "time": "2026-11-12T21:13+10:00",
 "store": "misty",

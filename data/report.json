@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:13+10:00",
+ "updated": "2026-11-13T11:50+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -28,8 +28,8 @@
   },
   "everson": {
    "ok": true,
-   "found": 9,
-   "kept": 7
+   "found": 8,
+   "kept": 6
   },
   "dorky": {
    "ok": true,

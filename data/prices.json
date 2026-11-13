@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-12T21:13+10:00",
+"updated": "2026-11-13T11:50+10:00",
 "listings": [
 {
 "store": "misty",
@@ -674,7 +674,7 @@
 {
 "store": "misty",
 "title": "Crown Zenith Booster Bundle",
-"price": 325.0,
+"price": 350.0,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/crown-zenith-booster-bundle",
 "image": "https://images.scrydex.com/pokemon/swsh12pt5-s2/large",
@@ -689,12 +689,12 @@
 "key": "bundle|Crown Zenith",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-13T11:50+10:00"
 },
 {
 "store": "misty",
 "title": "Crown Zenith Booster Pack",
-"price": 48.0,
+"price": 50.0,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/crown-zenith-booster-pack",
 "image": "https://images.scrydex.com/pokemon/swsh12pt5-s1/large",
@@ -709,7 +709,7 @@
 "key": "pack|Crown Zenith",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-13T11:50+10:00"
 },
 {
 "store": "misty",
@@ -4314,10 +4314,10 @@
 {
 "store": "misty",
 "title": "Brilliant Stars Booster Box",
-"price": 949.0,
+"price": 889.81,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxa41w071m7vfqjtk2iusu/art-a220b297.png",
+"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box-swsh9-s2",
+"image": "https://images.scrydex.com/pokemon/swsh9-s2/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -4334,10 +4334,10 @@
 {
 "store": "misty",
 "title": "Brilliant Stars Booster Box",
-"price": 889.81,
+"price": 949.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box-swsh9-s2",
-"image": "https://images.scrydex.com/pokemon/swsh9-s2/large",
+"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxa41w071m7vfqjtk2iusu/art-a220b297.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -7991,8 +7991,8 @@
 "title": "EX Trainer Kit 2 - Plusle & Minun",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun-tk2b-s1",
-"image": "https://images.scrydex.com/pokemon/tk2b-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun",
+"image": "https://images.scrydex.com/pokemon/tk2a-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -8011,8 +8011,8 @@
 "title": "EX Trainer Kit 2 - Plusle & Minun",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun",
-"image": "https://images.scrydex.com/pokemon/tk2a-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun-tk2b-s1",
+"image": "https://images.scrydex.com/pokemon/tk2b-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -20361,8 +20361,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -20386,8 +20386,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -23724,7 +23724,7 @@
 {
 "store": "sidequest",
 "title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
-"price": 840.7,
+"price": 846.3,
 "available": false,
 "url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/673a5c23-8c43-4c7d-81f1-932eb26ab7e9.jpg?v=1780062987",
@@ -23739,7 +23739,7 @@
 "key": "etb|Fusion Strike",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-10T13:35+10:00"
+"changed": "2026-11-13T11:50+10:00"
 },
 {
 "store": "sidequest",
@@ -24475,7 +24475,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: 2025 World Championships Deck - Riley McKay (Flutter Devo Gardevoir)",
 "price": 40.0,
-"available": false,
+"available": true,
 "url": "https://raptorgames.com/products/pokemon-tcg-2025-world-championships-deck-riley-mckay-flutter-devo-gardevoir",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/696636_in_1000x1000_grande_180b0ea8-c967-477c-94a6-8e6aa7c342d0.webp?v=1786962065",
 "lang": "EN",
@@ -24489,7 +24489,7 @@
 "key": "other|pokemon tcg 2025 world championships deck - riley mckay flutter devo gardevoir",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-13T11:50+10:00"
 },
 {
 "store": "raptor",
@@ -24515,7 +24515,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: 2025 World Championships Deck - Yuya Okita (JP Raging Bolt)",
 "price": 40.0,
-"available": false,
+"available": true,
 "url": "https://raptorgames.com/products/pokemon-tcg-2025-world-championships-deck-yuya-okita-jp-raging-bolt",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/pok10362-04_1.webp?v=1786961876",
 "lang": "JP",
@@ -24529,13 +24529,13 @@
 "key": "JP|other|pokemon tcg 2025 world championships deck - yuya okita jp raging bolt",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-13T11:50+10:00"
 },
 {
 "store": "raptor",
 "title": "Pokemon TCG: 2025 World Championships Deck - Jose Cruz Galindo-Resendiz (Pult Bomb)",
 "price": 40.0,
-"available": false,
+"available": true,
 "url": "https://raptorgames.com/products/pokemon-tcg-2025-world-championships-deck-jose-cruz-galindo-resendiz-pult-bomb",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/image__24992.png?v=1786961740",
 "lang": "EN",
@@ -24549,7 +24549,7 @@
 "key": "other|pokemon tcg 2025 world championships deck - jose cruz galindo-resendiz pult bomb",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-13T11:50+10:00"
 },
 {
 "store": "raptor",
@@ -30253,46 +30253,6 @@
 },
 {
 "store": "everson",
-"title": "Pokémon TCG: Mega Forces Tin      December 2026",
-"price": 49.95,
-"available": false,
-"url": "https://eetcg.com.au/products/pokemon-tcg-mega-forces-tin-august-28th-2026",
-"image": "https://cdn.shopify.com/s/files/1/0417/0219/5361/files/Pokemon-TCG-Mega-Forces-Tin-Mega-Darkrai-ex-Front_EN.jpg?v=1783383891",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "other",
-"set": null,
-"year": null,
-"product": "Mega Forces Tin",
-"packs": 4,
-"key": "other|Mega Forces Tin",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "everson",
-"title": "Pokémon TCG: 30th Celebration Ditto Premium Collection  \" Releasing 6th Nov 2026\"",
-"price": 85.0,
-"available": false,
-"url": "https://eetcg.com.au/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
-"image": "https://cdn.shopify.com/s/files/1/0417/0219/5361/files/Pokemon-TCG-30th-Celebration-Ditto-Premium-Collection_EN.jpg?v=1783054699",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "other",
-"set": "30th Celebration",
-"year": 2026,
-"product": "30th Celebration Ditto Premium Collection",
-"packs": 8,
-"key": "other|30th Celebration Ditto Premium Collection",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "everson",
 "title": "Pokémon TCG: 30th Celebration Battle Deck— Espeon ex / Umbreon ex",
 "price": 45.0,
 "available": false,
@@ -30310,6 +30270,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "everson",
+"title": "Pokémon TCG: Mega Rayquaza ex Premium Tournament Collection",
+"price": 110.0,
+"available": false,
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-rayquaza-ex-premium-tournament-collection",
+"image": "https://cdn.shopify.com/s/files/1/0417/0219/5361/files/Mega-Rayquaza-ex-Premium-Tournament-Collection-Front_EN.jpg?v=1794532772",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": null,
+"year": null,
+"product": "Klara / Cyrus Premium Tournament Collection",
+"packs": 7,
+"key": "other|pokemon tcg mega rayquaza ex premium tournament collection",
+"skip": null,
+"first_seen": "2026-11-13T11:50+10:00",
+"changed": "2026-11-13T11:50+10:00"
 },
 {
 "store": "dorky",
