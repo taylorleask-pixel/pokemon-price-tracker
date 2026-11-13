@@ -1,6 +1,109 @@
 {
-"updated": "2026-11-13T11:50+10:00",
+"updated": "2026-11-13T20:59+10:00",
 "events": [
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "evo",
+"key": "KOR|box|30th Celebration",
+"title": "Pokémon | Korean 30th Celebration Booster Box",
+"url": "https://www.evogames.com.au/product/pok-mon-korean-30th-celebration-booster-box/CDII3CJDBTNOD5ZQN2ESE25W",
+"category": "box",
+"lang": "KOR",
+"type": "new",
+"new": 290.0,
+"available": true
+},
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "evo",
+"key": "KOR|pack|Celebrations",
+"title": "Pokemon | Korean 30th Celebrations Booster Pack",
+"url": "https://www.evogames.com.au/product/pokemon-korean-30th-celebrations-booster-pack/EWKNE7UNIJ3GTVCH7YDKC3QY",
+"category": "pack",
+"lang": "KOR",
+"type": "new",
+"new": 16.0,
+"available": true
+},
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "raptor",
+"key": "CN|pack|30th Celebration",
+"title": "[Chinese] 30th Anniversary Celebration Pokemon TCG Booster Pack",
+"url": "https://raptorgames.com/products/chinese-30th-anniversary-celebration-pokemon-tcg-booster-pack",
+"category": "pack",
+"lang": "CN",
+"type": "in-stock",
+"new": 10.0
+},
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "raptor",
+"key": "CN|box|30th Celebration",
+"title": "[Chinese] 30th Anniversary Celebration Pokemon TCG Booster Box",
+"url": "https://raptorgames.com/products/30th-anniversary-celebration-booster-box-simplified-chinese-pokemon-tcg",
+"category": "box",
+"lang": "CN",
+"type": "in-stock",
+"new": 180.0
+},
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "everson",
+"key": "other|pokemon tcg pokemon day 2027 collection",
+"title": "Pokémon TCG: Pokémon Day 2027 Collection",
+"url": "https://eetcg.com.au/products/pokemon-tcg-pokemon-day-2027-collection",
+"category": "other",
+"lang": "EN",
+"type": "new",
+"new": 40.0,
+"available": false
+},
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "everson",
+"key": "other|pokemon tcg valentines box",
+"title": "Pokémon TCG: Valentine’s Box",
+"url": "https://eetcg.com.au/products/pokemon-tcg-valentine-s-box",
+"category": "other",
+"lang": "EN",
+"type": "new",
+"new": 35.0,
+"available": false
+},
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "evo",
+"key": "KOR|box|30th Celebration",
+"title": "Pokemon | Korean 30th Celbration Booster Box",
+"url": "https://www.evogames.com.au/product/pokemon-korean-30th-celbration-booster-box/CDII3CJDBTNOD5ZQN2ESE25W",
+"category": "box",
+"lang": "KOR",
+"type": "removed",
+"old": 290.0
+},
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "evo",
+"key": "other|pokemon tcg 30th celebration mini tin",
+"title": "POKEMON TCG:  30th Celebration Mini Tin",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-30th-celebration-mini-tin/P6AHUWOUTI2HSM3EVE3G5GYZ",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 50.0
+},
+{
+"time": "2026-11-13T20:59+10:00",
+"store": "everson",
+"key": "other|Deck Crafter's Collection",
+"title": "Pokémon TCG: Deck Crafter’s Collection",
+"url": "https://eetcg.com.au/products/pokemon-tcg-deck-crafter-s-collection",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 20.0
+},
 {
 "time": "2026-11-13T11:50+10:00",
 "store": "misty",

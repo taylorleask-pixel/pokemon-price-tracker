@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:50+10:00",
+ "updated": "2026-11-13T20:59+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -23,13 +23,13 @@
   },
   "raptor": {
    "ok": true,
-   "found": 397,
+   "found": 399,
    "kept": 304
   },
   "everson": {
    "ok": true,
-   "found": 8,
-   "kept": 6
+   "found": 9,
+   "kept": 7
   },
   "dorky": {
    "ok": true,
