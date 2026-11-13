@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T15:23+10:00",
+"updated": "2026-11-13T20:06+10:00",
 "listings": [
 {
 "store": "evo-flinders",
@@ -1335,15 +1335,6 @@
 },
 {
 "store": "raptor",
-"card": 34,
-"title": "Gengar 17/99 Rare Arceus LP",
-"condition": "",
-"price": 50.0,
-"available": false,
-"url": "https://raptorgames.com/products/gengar-1799-rare-arceus-lp-550511?variant=47818044211356"
-},
-{
-"store": "raptor",
 "card": 106,
 "title": "Gengar (oc) TG06/TG30 Trainer Gallery Rare Lost Origin Trainer Gallery Holo NM/M",
 "condition": "",
@@ -1518,7 +1509,7 @@
 "card": 99,
 "title": "Gastly (177/162) [Scarlet & Violet: Temporal Forces]",
 "condition": "Near Mint Holofoil",
-"price": 152.5,
+"price": 152.0,
 "available": true,
 "url": "https://www.cardhouse.com.au/products/gastly-177-162-scarlet-violet-temporal-forces?variant=43080527642815"
 },
@@ -1598,18 +1589,18 @@
 "store": "card-house",
 "card": 81,
 "title": "Mega Gengar ex 284/217 - Holofoil ME Ascended Heroes - Special Illustration Rare",
-"condition": "Moderately Played",
-"price": 897.2,
+"condition": "Lightly Played",
+"price": 994.5,
 "available": false,
-"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes-special-illustration-rare?variant=45114874527935"
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes-special-illustration-rare?variant=45114874495167"
 },
 {
 "store": "card-house",
 "card": 80,
 "title": "Mega Gengar ex 269/217 - Holofoil ME Ascended Heroes - Mega Attack Rare",
 "condition": "Near Mint",
-"price": 57.5,
-"available": false,
+"price": 54.5,
+"available": true,
 "url": "https://www.cardhouse.com.au/products/mega-gengar-ex-269-217-holofoil-me-ascended-heroes-mega-attack-rare?variant=45114870563007"
 },
 {
@@ -1644,7 +1635,7 @@
 "card": 105,
 "title": "Gengar VMAX (157/264) [Sword & Shield: Fusion Strike]",
 "condition": "Near Mint Holofoil",
-"price": 77.0,
+"price": 78.0,
 "available": false,
 "url": "https://www.cardhouse.com.au/products/gengar-vmax-157-264-sword-shield-fusion-strike?variant=42396519104703"
 },
@@ -1770,7 +1761,7 @@
 "card": 68,
 "title": "Gengar (066/196) (Theme Deck Exclusive) [Sword & Shield: Lost Origin]",
 "condition": "Near Mint",
-"price": 6.0,
+"price": 6.5,
 "available": false,
 "url": "https://www.cardhouse.com.au/products/gengar-066-196-theme-deck-exclusive-sword-shield-lost-origin?variant=42397261103295"
 },
@@ -1788,7 +1779,7 @@
 "card": 64,
 "title": "Gengar (057/198) [Sword & Shield: Chilling Reign]",
 "condition": "Near Mint Holofoil",
-"price": 8.0,
+"price": 7.5,
 "available": false,
 "url": "https://www.cardhouse.com.au/products/gengar-057-198-sword-shield-chilling-reign?variant=42397041459391"
 },
@@ -2022,7 +2013,7 @@
 "card": 95,
 "title": "Gengar Spirit Link (95/119) (Alternate Holo GameStop Exclusive) [XY: Phantom Forces]",
 "condition": "Near Mint Holofoil",
-"price": 122.0,
+"price": 123.0,
 "available": false,
 "url": "https://www.cardhouse.com.au/products/gengar-spirit-link-95-119-alternate-holo-gamestop-exclusive-xy-phantom-forces?variant=42393436979391"
 },
@@ -2050,37 +2041,37 @@
 "ok": true,
 "count": 10,
 "cards": 10,
-"checked": "2026-11-13T15:23+10:00"
+"checked": "2026-11-13T20:06+10:00"
 },
 "evo-orion": {
 "ok": true,
 "count": 31,
 "cards": 31,
-"checked": "2026-11-13T15:23+10:00"
+"checked": "2026-11-13T20:06+10:00"
 },
 "mint": {
 "ok": true,
 "count": 20,
 "cards": 14,
-"checked": "2026-11-13T15:23+10:00"
+"checked": "2026-11-13T20:06+10:00"
 },
 "misty": {
 "ok": true,
 "count": 72,
 "cards": 72,
-"checked": "2026-11-13T15:23+10:00"
+"checked": "2026-11-13T20:06+10:00"
 },
 "raptor": {
 "ok": true,
-"count": 20,
-"cards": 17,
-"checked": "2026-11-13T15:23+10:00"
+"count": 19,
+"cards": 16,
+"checked": "2026-11-13T20:06+10:00"
 },
 "card-house": {
 "ok": true,
 "count": 66,
 "cards": 66,
-"checked": "2026-11-13T15:23+10:00"
+"checked": "2026-11-13T20:06+10:00"
 }
 }
 }

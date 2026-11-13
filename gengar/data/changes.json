@@ -1,6 +1,92 @@
 {
 "events": [
 {
+"time": "2026-11-13T20:06+10:00",
+"store": "card-house",
+"card": 99,
+"condition": "Near Mint Holofoil",
+"price": 152.0,
+"url": "https://www.cardhouse.com.au/products/gastly-177-162-scarlet-violet-temporal-forces?variant=43080527642815",
+"type": "price-down",
+"old": 152.5
+},
+{
+"time": "2026-11-13T20:06+10:00",
+"store": "card-house",
+"card": 81,
+"condition": "Lightly Played",
+"price": 994.5,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes-special-illustration-rare?variant=45114874495167",
+"type": "new"
+},
+{
+"time": "2026-11-13T20:06+10:00",
+"store": "card-house",
+"card": 80,
+"condition": "Near Mint",
+"price": 54.5,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-269-217-holofoil-me-ascended-heroes-mega-attack-rare?variant=45114870563007",
+"type": "in-stock"
+},
+{
+"time": "2026-11-13T20:06+10:00",
+"store": "card-house",
+"card": 105,
+"condition": "Near Mint Holofoil",
+"price": 78.0,
+"url": "https://www.cardhouse.com.au/products/gengar-vmax-157-264-sword-shield-fusion-strike?variant=42396519104703",
+"type": "price-up",
+"old": 77.0
+},
+{
+"time": "2026-11-13T20:06+10:00",
+"store": "card-house",
+"card": 68,
+"condition": "Near Mint",
+"price": 6.5,
+"url": "https://www.cardhouse.com.au/products/gengar-066-196-theme-deck-exclusive-sword-shield-lost-origin?variant=42397261103295",
+"type": "price-up",
+"old": 6.0
+},
+{
+"time": "2026-11-13T20:06+10:00",
+"store": "card-house",
+"card": 64,
+"condition": "Near Mint Holofoil",
+"price": 7.5,
+"url": "https://www.cardhouse.com.au/products/gengar-057-198-sword-shield-chilling-reign?variant=42397041459391",
+"type": "price-down",
+"old": 8.0
+},
+{
+"time": "2026-11-13T20:06+10:00",
+"store": "card-house",
+"card": 95,
+"condition": "Near Mint Holofoil",
+"price": 123.0,
+"url": "https://www.cardhouse.com.au/products/gengar-spirit-link-95-119-alternate-holo-gamestop-exclusive-xy-phantom-forces?variant=42393436979391",
+"type": "price-up",
+"old": 122.0
+},
+{
+"time": "2026-11-13T20:06+10:00",
+"store": "raptor",
+"card": 34,
+"condition": "",
+"price": 50.0,
+"url": "https://raptorgames.com/products/gengar-1799-rare-arceus-lp-550511?variant=47818044211356",
+"type": "removed"
+},
+{
+"time": "2026-11-13T20:06+10:00",
+"store": "card-house",
+"card": 81,
+"condition": "Moderately Played",
+"price": 897.2,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes-special-illustration-rare?variant=45114874527935",
+"type": "removed"
+},
+{
 "time": "2026-11-13T15:05+10:00",
 "store": "evo-flinders",
 "card": 114,
