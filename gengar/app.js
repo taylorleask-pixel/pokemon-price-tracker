@@ -193,7 +193,7 @@ function pocket(c) {
 function visibleCards() {
   const q = S.q.trim().toLowerCase();
   return D.cards.filter((c) => (S.filter === "all" || (S.filter === "have") === owned(c)) &&
-    (!S.set || c.set === S.set) &&
+    (!S.set || (S.set.startsWith("src:") ? c.src.label === S.set.slice(4) : c.set === S.set)) &&
     (!q || `${c.display} ${c.set} ${c.number} ${c.vlabel} ${c.src.label} ${c.id}`.toLowerCase().includes(q)));
 }
 function renderBinder() {
@@ -204,7 +204,7 @@ function renderBinder() {
       <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["have", "Have"], ["need", "Need"]].map(([v, l]) =>
         `<button data-f="${v}" aria-pressed="${S.filter === v}">${l}</button>`).join("")}</div>
       <input class="search" id="q" type="search" placeholder="Search cards" value="${esc(S.q)}" aria-label="Search cards">
-      ${S.set ? `<button class="chip-filter" id="clearset" aria-label="Show all sets">${esc(S.set)} <span aria-hidden="true">×</span></button>` : ""}
+      ${S.set ? `<button class="chip-filter" id="clearset" aria-label="Show all sets">${esc(S.set.replace(/^src:/, ""))} <span aria-hidden="true">×</span></button>` : ""}
       <span class="count">${list.length} card${list.length === 1 ? "" : "s"}</span>
     </div>
     ${pages.length ? `<div class="pages">${pages.map((p, i) => `<section class="page" aria-label="Page ${i + 1}">
@@ -398,14 +398,22 @@ function renderSets() {
     const cs = D.cards.filter((c) => c.set === set);
     return { set, year: cs[0].date.slice(0, 4), n: cs.length, have: cs.filter(owned).length, names: [...new Set(cs.map((c) => c.display))] };
   });
+  // promos, prize packs, store gifts and Trick or Trade: grouped by where the card came from (binder order stays by set)
+  const bySrc = {};
+  for (const c of D.cards) if (c.src.kind && c.src.kind !== "pack") (bySrc[c.src.label] ??= []).push(c);
+  const special = Object.entries(bySrc).map(([label, cs]) => ({
+    set: label, key: `src:${label}`, year: label.match(/\b(19|20)\d\d\b/)?.[0] ?? cs[0].date.slice(0, 4), n: cs.length,
+    have: cs.filter(owned).length, names: [...new Set(cs.map((c) => `${c.display} (${c.set})`))] }))
+    .sort((a, b) => a.year.localeCompare(b.year) || a.set.localeCompare(b.set));
+  const rowsHtml = (list, q) => list.filter((g) => !q || `${g.set} ${g.year} ${g.names.join(" ")}`.toLowerCase().includes(q))
+    .map((g) => `<tr class="row" data-set="${esc(g.key ?? g.set)}" tabindex="0">
+      <td>${g.year}</td><td><b>${esc(g.set)}</b><br><span class="note">${esc(g.names.join(", "))}</span></td>
+      <td>${g.n}</td><td><span class="mini"><i style="width:${(g.have / g.n) * 100}%"></i></span>${g.have}/${g.n}</td></tr>`).join("");
   const draw = () => {
     const q = ($("#setq")?.value || "").trim().toLowerCase();
-    const rows = groups.filter((g) => !q || `${g.set} ${g.year} ${g.names.join(" ")}`.toLowerCase().includes(q));
-    $("#setrows").innerHTML = rows.map((g) => `<tr class="row" data-set="${esc(g.set)}" tabindex="0">
-      <td>${g.year}</td><td><b>${esc(g.set)}</b><br><span class="note">${esc(g.names.join(", "))}</span></td>
-      <td>${g.n}</td><td><span class="mini"><i style="width:${(g.have / g.n) * 100}%"></i></span>${g.have}/${g.n}</td></tr>`).join("")
-      || `<tr><td colspan="4" class="none">No set matches.</td></tr>`;
-    document.querySelectorAll("#setrows tr.row").forEach((tr) => {
+    $("#setrows").innerHTML = rowsHtml(groups, q) || `<tr><td colspan="4" class="none">No set matches.</td></tr>`;
+    $("#specialrows").innerHTML = rowsHtml(special, q) || `<tr><td colspan="4" class="none">No special release matches.</td></tr>`;
+    document.querySelectorAll("#setrows tr.row, #specialrows tr.row").forEach((tr) => {
       const open = () => { S.set = tr.dataset.set; S.filter = "all"; S.q = ""; go("binder"); };
       tr.addEventListener("click", open);
       tr.addEventListener("keydown", (e) => { if (e.key === "Enter") open(); });
@@ -413,7 +421,10 @@ function renderSets() {
   };
   $("#view").innerHTML = `<div class="bar"><input class="search" id="setq" type="search" placeholder="Search sets" aria-label="Search sets">
       <span class="count">${groups.length} sets with Gengar cards</span></div>
-    <div class="wrap"><table><thead><tr><th>Year</th><th>Set</th><th>Gengars</th><th>You have</th></tr></thead><tbody id="setrows"></tbody></table></div>`;
+    <div class="wrap"><table><thead><tr><th>Year</th><th>Set</th><th>Gengars</th><th>You have</th></tr></thead><tbody id="setrows"></tbody></table></div>
+    <h2 class="sethead">Special releases</h2>
+    <p class="note">Promos, Trick or Trade, prize packs and store gifts. These cards stay with their set in the binder.</p>
+    <div class="wrap"><table><thead><tr><th>Year</th><th>Release</th><th>Gengars</th><th>You have</th></tr></thead><tbody id="specialrows"></tbody></table></div>`;
   $("#setq").addEventListener("input", draw);
   draw();
 }

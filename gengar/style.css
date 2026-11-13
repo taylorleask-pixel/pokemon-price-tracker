@@ -101,6 +101,7 @@ main { max-width: 1240px; margin: 0 auto; padding: 18px 16px; }
 
 /* ---- panels, card page */
 .panel { background: var(--page); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; margin-bottom: 16px; box-shadow: var(--shadow); }
+.sethead { font-size: 20px; margin: 28px 0 4px; }
 .panel h3 { font-size: 18px; margin-bottom: 10px; }
 .panel .subhead { font-size: 15px; margin: 16px 0 4px; padding-top: 12px; border-top: 1px solid var(--line); }
 .price .sub { font-weight: 500; text-align: right; }
