@@ -105,8 +105,20 @@ function storeValue(c) {
 const ebayFor = (c) => D.ebay[c.id] || null;
 const ebayBest = (c) => ebayFor(c)?.low?.[0] || null;
 const postage = (x) => x.ship == null ? "postage not listed" : x.ship === 0 ? "free postage" : `+ ${money(x.ship)} postage`;
+// cheapest place to buy it now: an in-stock store, or eBay Buy It Now when that's cheaper (eBay counted with postage)
+function cheapest(c) {
+  const st = singlesFor(c).find((x) => x.available);
+  const e = ebayBest(c);
+  const eb = e && { price: e.price + (e.ship || 0), store: "ebay", available: true, url: e.url, ebay: true, ship: e.ship };
+  if (st && eb) return eb.price < st.price ? eb : st;
+  return st || eb || null;
+}
+const placeName = (x) => x.ebay ? "eBay" : (D.storeName[x.store] ?? x.store);
+const placeNote = (x) => x.ebay ? (x.ship ? "eBay, incl. postage" : x.ship === 0 ? "eBay, free postage" : "eBay") : placeName(x);
+// value when there's no market price: cheapest to buy now, otherwise the last price a store asked
+const buyValue = (c) => cheapest(c) || storeValue(c);
 function worth(c) {
-  return c.market_aud ?? storeValue(c)?.price ?? null;
+  return c.market_aud ?? buyValue(c)?.price ?? null;
 }
 function ebayQuery(c) {
   const extra = { RH: "reverse holo", "1st": "1st edition", CH: "cosmos holo", SS: "staff", JM: "world championship" }[c.variant] ??
@@ -206,6 +218,7 @@ function renderBinder() {
 
 // ---------- card page
 function renderCard(id) {
+  let bv;
   const c = D.byId[id];
   document.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", "false"));
   renderProgress();
@@ -234,7 +247,7 @@ function renderCard(id) {
 
       <section class="panel"><h3>What it's worth</h3>
         ${c.market_aud != null ? `<p class="big">${money(c.market_aud)}</p><p class="note">Market price from ${esc(c.market_basis?.startsWith("Cardmarket") ? "Cardmarket (Europe)" : "TCGplayer (US)")}, in AUD. Checked ${esc(when(D.updated))}.</p>`
-          : storeValue(c) ? `<p class="big">${money(storeValue(c).price)}</p><p class="note">Cheapest price at your stores (${esc(D.storeName[storeValue(c).store] ?? storeValue(c).store)}${storeValue(c).available ? "" : ", sold out"}). There's no market price for this exact version, so this is used for "worth now".</p>`
+          : (bv = buyValue(c)) ? `<p class="big">${money(bv.price)}</p><p class="note">Cheapest price to buy it (${esc(placeNote(bv))}${bv.available ? "" : ", sold out"}). There's no market price for this exact version, so this is used for "worth now".</p>`
           : `<p class="note">No market price for this exact version${c.vclass === "stamp" ? " (stamped and special versions usually don't have one)" : ""}, and none of your stores list it. Check recent eBay sales below.</p>`}
         <div class="links">
           <a class="btn ghost" href="${esc(ebayUrl(c, true))}" target="_blank" rel="noopener">Recently sold on eBay</a>
@@ -285,10 +298,10 @@ function otherVersions(c) {
   const sib = D.cards.filter((x) => x.id !== c.id && x.set === c.set && x.display === c.display);
   if (!sib.length) return "";
   return `<section class="panel"><h3>Other versions</h3><ul class="list">${sib.map((x) => {
-    const best = singlesFor(x).find((s) => s.available);
+    const best = cheapest(x);
     return `<li><span><a href="#c=${x.id}">${esc(x.display)} #${esc(x.number)}</a> <span class="vchip ${x.vclass}">${esc(x.vlabel)}</span>
-      <span class="sub">${owned(x) ? "In your binder" : "Still need it"}${best ? ` · cheapest at ${esc(D.storeName[best.store] ?? best.store)}` : ""}</span></span>
-      <span class="price">${best ? money(best.price) : "<span class='note'>Not at your stores</span>"}</span></li>`;
+      <span class="sub">${owned(x) ? "In your binder" : "Still need it"}${best ? ` · cheapest at ${esc(placeNote(best))}` : ""}</span></span>
+      <span class="price">${best ? (best.ebay ? `<a href="${esc(best.url)}" target="_blank" rel="noopener">${money(best.price)}</a>` : money(best.price)) : "<span class='note'>Not for sale right now</span>"}</span></li>`;
   }).join("")}</ul></section>`;
 }
 
@@ -298,7 +311,7 @@ function renderShop() {
   if (S.shopSort !== "binder") list = list.slice().sort((a, b) => ((worth(a) ?? -1) - (worth(b) ?? -1)) * (S.shopSort === "low" ? 1 : -1));
   const storeIds = D.stores.map((s) => s.id);
   const rows = list.map((c) => {
-    const s = singlesFor(c), best = s.find((x) => x.available);
+    const s = singlesFor(c), best = cheapest(c);
     let e;
     return `<tr class="row ${owned(c) ? "have" : "need"}" data-id="${c.id}" tabindex="0">
       <td><div class="cname">${c.image ? `<img class="thumb" src="${esc(c.image)}" alt="" loading="lazy">` : `<span class="thumb"></span>`}
@@ -306,7 +319,7 @@ function renderShop() {
       <td><span class="vchip ${c.vclass}">${esc(c.vlabel)}</span></td>
       <td>${owned(c) ? "<b class='up'>Have</b>" : "Need"}</td>
       <td class="price">${c.market_aud != null ? money(c.market_aud) : "<span class='note'>–</span>"}</td>
-      <td>${best ? `<span class="price">${money(best.price)}</span><br><span class="note">${esc(D.storeName[best.store] ?? best.store)}</span>` : "<span class='note'>–</span>"}</td>
+      <td>${best ? `<span class="price">${money(best.price)}</span><br><span class="note">${esc(placeNote(best))}</span>` : "<span class='note'>–</span>"}</td>
       ${storeIds.map((id) => { const x = s.find((y) => y.store === id && y.available) || s.find((y) => y.store === id); return `<td>${x ? `<span class="price ${x.available ? "" : "soldout"}">${money(x.price)}</span>` : "<span class='note'>–</span>"}</td>`; }).join("")}
       <td>${(e = ebayBest(c)) ? `<a class="price" href="${esc(e.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${money(e.price)}</a><br><span class="note">${esc(postage(e))}</span><br>` : ""}<a class="note" href="${esc(ebayUrl(c, true))}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sold</a></td></tr>`;
   }).join("");
@@ -315,7 +328,7 @@ function renderShop() {
       <label class="count">Sort <select id="ssort" class="search" style="max-width:200px">
         <option value="binder">Binder order</option><option value="high">Highest value first</option><option value="low">Cheapest first</option></select></label>
       <span class="count">${list.length} cards</span></div>
-    <div class="wrap"><table><thead><tr><th>Card</th><th>Type</th><th>Status</th><th>Market value</th><th>Cheapest store</th>
+    <div class="wrap"><table><thead><tr><th>Card</th><th>Type</th><th>Status</th><th>Market value</th><th>Cheapest</th>
       ${storeIds.map((id) => `<th>${esc(D.storeName[id] ?? id)}</th>`).join("")}<th>eBay Buy It Now</th></tr></thead><tbody>${rows}</tbody></table></div>
     <p class="note">Store prices are the cheapest condition in stock at each store, checked ${esc(when(D.singlesUpdated))}. eBay is the cheapest Buy It Now listing from an Australian seller (no auctions). Market values are TCGplayer prices in AUD.</p>
     ${storesPanel()}`;
@@ -438,7 +451,7 @@ function renderSpending() {
           <span class="sub">${esc(c.set)} · ${esc(o.where || "Unknown")} · ${esc(o.date || "")}</span></span>
           <span class="price">${o.paid != null ? money(o.paid) : ""}${w != null && o.paid != null ? `<span class="sub ${w - o.paid >= 0 ? "up" : "down"}">worth ${money(w)}</span>` : ""}</span></li>`).join("")}</ul>`
         : `<p class="note">No cards yet.</p>`}</section>
-    <p class="note">Worth now uses market prices where there is one, otherwise the cheapest store price. Paid vs worth only counts cards with both a price paid and a value.</p>`;
+    <p class="note">Worth now uses market prices where there is one, otherwise the cheapest price at your stores or on eBay. Paid vs worth only counts cards with both a price paid and a value.</p>`;
 }
 
 // ---------- new card sheet
