@@ -1,0 +1,20 @@
+{
+  "name": "PokeInfo",
+  "short_name": "PokeInfo",
+  "description": "Pokémon master set binder: every set in English, Japanese, Korean and Chinese",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "background_color": "#172030",
+  "theme_color": "#172030",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "English sets", "url": "./#en", "icons": [{"src": "icons/icon-96.png", "sizes": "96x96"}]},
+    {"name": "Japanese sets", "url": "./#ja", "icons": [{"src": "icons/icon-96.png", "sizes": "96x96"}]}
+  ]
+}
