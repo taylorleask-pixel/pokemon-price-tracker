@@ -29,16 +29,17 @@ async function load(path) {
 
 // ---------- setup
 async function init() {
-  const [cards, base, sources, collection, places, prices, singles, stores, contents, gstores, changes] = await Promise.all([
+  const [cards, base, sources, collection, places, prices, singles, stores, contents, gstores, changes, ebay] = await Promise.all([
     load("data/cards.json"), load("data/cards_base.json"), load("data/sources.json"), load("data/collection.json"),
     load("data/places.json"), load("../data/prices.json"), load("data/singles.json"), load("../data/stores.json"),
-    load("../data/contents.json"), load("data/stores.json"), load("data/changes.json")]);
+    load("../data/contents.json"), load("data/stores.json"), load("data/changes.json"), load("data/ebay.json")]);
   const list = cards?.cards ?? base ?? [];
   D = { cards: list, updated: cards?.updated, sources: sources || {}, col: collection || { cards: {}, log: [] },
         places: places?.places || [], listings: prices?.listings || [], singles: singles?.listings || [],
         singlesUpdated: singles?.updated, report: singles?.report || {}, stores: gstores || [], changes: changes?.events || [],
         packStoreName: Object.fromEntries((stores || []).map((s) => [s.id, s.name])),
-        storeName: Object.fromEntries((gstores || []).map((s) => [s.id, s.name])), contents: contents || {} };
+        storeName: Object.fromEntries((gstores || []).map((s) => [s.id, s.name])), contents: contents || {},
+        ebay: ebay?.items || {}, ebayUpdated: ebay?.updated };
   for (const c of D.cards) decorate(c);
   D.cards.sort(binderOrder);
   D.byId = Object.fromEntries(D.cards.map((c) => [String(c.id), c]));
@@ -100,6 +101,10 @@ function storeValue(c) {
   const s = singlesFor(c);
   return s.find((x) => x.available) || s[0] || null;
 }
+// cheapest eBay Buy It Now listing (Australian sellers, no auctions), checked with the stores
+const ebayFor = (c) => D.ebay[c.id] || null;
+const ebayBest = (c) => ebayFor(c)?.low?.[0] || null;
+const postage = (x) => x.ship == null ? "postage not listed" : x.ship === 0 ? "free postage" : `+ ${money(x.ship)} postage`;
 function worth(c) {
   return c.market_aud ?? storeValue(c)?.price ?? null;
 }
@@ -242,7 +247,14 @@ function renderCard(id) {
         ${singles.length ? `<ul class="list">${singles.map((s) => `<li><span><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(D.storeName[s.store] ?? s.store)}</a>
             <span class="sub">${esc([s.condition, s.title].filter(Boolean).join(" · "))}</span></span><span class="price ${s.available ? "" : "soldout"}">${money(s.price)}</span></li>`).join("")}</ul>
           <p class="note">Checked ${esc(when(D.singlesUpdated))}.</p>`
-          : `<p class="note">None of your singles stores list this card right now.</p>`}</section>
+          : `<p class="note">None of your singles stores list this card right now.</p>`}
+        <h4 class="subhead">eBay Buy It Now</h4>
+        ${ebayFor(c)?.low?.length ? `<ul class="list">${ebayFor(c).low.map((x) => `<li><span><a href="${esc(x.url)}" target="_blank" rel="noopener">eBay</a>
+            <span class="sub">${esc([x.cond, x.title].filter(Boolean).join(" · "))}</span></span>
+            <span class="price">${money(x.price)}<span class="sub">${esc(postage(x))}</span></span></li>`).join("")}</ul>`
+          : `<p class="note">${D.ebayUpdated ? "No Buy It Now listings from Australian sellers right now." : "eBay prices haven't been checked yet."}</p>`}
+        <p class="note">Australian sellers only, no auctions, cheapest with postage first${D.ebayUpdated ? `. Checked ${esc(when(D.ebayUpdated))}` : ""}.
+          <a href="${esc(ebayFor(c)?.url || ebayUrl(c, false))}" target="_blank" rel="noopener">See all on eBay</a></p></section>
 
       <section class="panel"><h3>Where it comes from</h3>
         <p><b>${esc(c.src.label)}</b>${c.src.confirmed === false ? " <span class='note'>(not confirmed)</span>" : ""}</p>
@@ -287,6 +299,7 @@ function renderShop() {
   const storeIds = D.stores.map((s) => s.id);
   const rows = list.map((c) => {
     const s = singlesFor(c), best = s.find((x) => x.available);
+    let e;
     return `<tr class="row ${owned(c) ? "have" : "need"}" data-id="${c.id}" tabindex="0">
       <td><div class="cname">${c.image ? `<img class="thumb" src="${esc(c.image)}" alt="" loading="lazy">` : `<span class="thumb"></span>`}
         <div><b>${esc(c.display)}</b><span>${esc(c.set)} #${esc(c.number)}</span></div></div></td>
@@ -295,7 +308,7 @@ function renderShop() {
       <td class="price">${c.market_aud != null ? money(c.market_aud) : "<span class='note'>–</span>"}</td>
       <td>${best ? `<span class="price">${money(best.price)}</span><br><span class="note">${esc(D.storeName[best.store] ?? best.store)}</span>` : "<span class='note'>–</span>"}</td>
       ${storeIds.map((id) => { const x = s.find((y) => y.store === id && y.available) || s.find((y) => y.store === id); return `<td>${x ? `<span class="price ${x.available ? "" : "soldout"}">${money(x.price)}</span>` : "<span class='note'>–</span>"}</td>`; }).join("")}
-      <td><a href="${esc(ebayUrl(c, true))}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sold</a></td></tr>`;
+      <td>${(e = ebayBest(c)) ? `<a class="price" href="${esc(e.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${money(e.price)}</a><br><span class="note">${esc(postage(e))}</span><br>` : ""}<a class="note" href="${esc(ebayUrl(c, true))}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Sold</a></td></tr>`;
   }).join("");
   $("#view").innerHTML = `<div class="bar">
       <div class="seg" role="group" aria-label="Show"><button data-n="1" aria-pressed="${S.shopNeed}">Cards I need</button><button data-n="0" aria-pressed="${!S.shopNeed}">All cards</button></div>
@@ -303,8 +316,8 @@ function renderShop() {
         <option value="binder">Binder order</option><option value="high">Highest value first</option><option value="low">Cheapest first</option></select></label>
       <span class="count">${list.length} cards</span></div>
     <div class="wrap"><table><thead><tr><th>Card</th><th>Type</th><th>Status</th><th>Market value</th><th>Cheapest store</th>
-      ${storeIds.map((id) => `<th>${esc(D.storeName[id] ?? id)}</th>`).join("")}<th>eBay</th></tr></thead><tbody>${rows}</tbody></table></div>
-    <p class="note">Store prices are the cheapest condition in stock at each store, checked ${esc(when(D.singlesUpdated))}. Market values are TCGplayer prices in AUD.</p>
+      ${storeIds.map((id) => `<th>${esc(D.storeName[id] ?? id)}</th>`).join("")}<th>eBay Buy It Now</th></tr></thead><tbody>${rows}</tbody></table></div>
+    <p class="note">Store prices are the cheapest condition in stock at each store, checked ${esc(when(D.singlesUpdated))}. eBay is the cheapest Buy It Now listing from an Australian seller (no auctions). Market values are TCGplayer prices in AUD.</p>
     ${storesPanel()}`;
   setupStoreForm();
   $("#ssort").value = S.shopSort;
