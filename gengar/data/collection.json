@@ -79,6 +79,11 @@
    "date": "2026-11-14",
    "where": "Eden Hunters",
    "paid": 3.0
+  },
+  "93": {
+   "date": "2026-11-14",
+   "where": "Eden Hunters",
+   "paid": 5.0
   }
  },
  "log": [
@@ -240,6 +245,16 @@
    ],
    "where": "Eden Hunters",
    "paid": 3.0,
+   "date": "2026-11-14"
+  },
+  {
+   "time": "2026-11-14T15:42+10:00",
+   "action": "add",
+   "ids": [
+    93
+   ],
+   "where": "Eden Hunters",
+   "paid": 5.0,
    "date": "2026-11-14"
   }
  ]
