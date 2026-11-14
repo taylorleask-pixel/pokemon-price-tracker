@@ -1,6 +1,88 @@
 {
-"updated": "2026-11-13T20:59+10:00",
+"updated": "2026-11-14T11:27+10:00",
 "events": [
+{
+"time": "2026-11-14T11:27+10:00",
+"store": "misty",
+"key": "box|Chilling Reign",
+"title": "Chilling Reign Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 766.08,
+"new": 763.18
+},
+{
+"time": "2026-11-14T11:27+10:00",
+"store": "evo",
+"key": "box|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Box",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-box/73MP7MFK7Y2NSHJHQN7PMABP",
+"category": "box",
+"lang": "EN",
+"type": "new",
+"new": 340.0,
+"available": true
+},
+{
+"time": "2026-11-14T11:27+10:00",
+"store": "evo",
+"key": "other|pokemon tcg 30th celebration mini tin",
+"title": "POKEMON TCG:  30th Celebration Mini Tin",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-30th-celebration-mini-tin/P6AHUWOUTI2HSM3EVE3G5GYZ",
+"category": "other",
+"lang": "EN",
+"type": "new",
+"new": 50.0,
+"available": true
+},
+{
+"time": "2026-11-14T11:27+10:00",
+"store": "sidequest",
+"key": "etb|Fusion Strike",
+"title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
+"url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
+"category": "etb",
+"lang": "EN",
+"type": "price-up",
+"old": 846.3,
+"new": 852.6
+},
+{
+"time": "2026-11-14T11:27+10:00",
+"store": "raptor",
+"key": "pack|Vivid Voltage",
+"title": "Pokemon TCG: Vivid Voltage Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-vivid-voltage-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "sold-out",
+"old": 18.0
+},
+{
+"time": "2026-11-14T11:27+10:00",
+"store": "dorky",
+"key": "etb|30th Celebration",
+"title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
+"url": "https://www.dorkydesires.com.au/product/pokemon-tcg-30th-celebration-elite-trainer-box/",
+"category": "etb",
+"lang": "EN",
+"type": "price-up",
+"old": 184.99,
+"new": 194.99
+},
+{
+"time": "2026-11-14T11:27+10:00",
+"store": "evo",
+"key": "box|Chaos Rising",
+"title": "Pokémon TCG: Chaos Rising Booster Box",
+"url": "https://www.evogames.com.au/product/pok-mon-tcg-chaos-rising-booster-box/ZGEMPK5IRGCHQ7LLB42NOPRD",
+"category": "box",
+"lang": "EN",
+"type": "removed",
+"old": 320.0
+},
 {
 "time": "2026-11-13T20:59+10:00",
 "store": "evo",

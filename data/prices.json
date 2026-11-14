@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13T20:59+10:00",
+"updated": "2026-11-14T11:27+10:00",
 "listings": [
 {
 "store": "misty",
@@ -609,7 +609,7 @@
 {
 "store": "misty",
 "title": "Chilling Reign Booster Box",
-"price": 766.08,
+"price": 763.18,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
 "image": "https://images.scrydex.com/pokemon/swsh6-s2/large",
@@ -624,7 +624,7 @@
 "key": "box|Chilling Reign",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-09T10:56+10:00"
+"changed": "2026-11-14T11:27+10:00"
 },
 {
 "store": "misty",
@@ -2354,10 +2354,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 499.95,
+"price": 475.0,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -2379,10 +2379,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 475.0,
+"price": 499.95,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -4314,10 +4314,10 @@
 {
 "store": "misty",
 "title": "Brilliant Stars Booster Box",
-"price": 889.81,
+"price": 949.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box-swsh9-s2",
-"image": "https://images.scrydex.com/pokemon/swsh9-s2/large",
+"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxa41w071m7vfqjtk2iusu/art-a220b297.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -4334,10 +4334,10 @@
 {
 "store": "misty",
 "title": "Brilliant Stars Booster Box",
-"price": 949.0,
+"price": 889.81,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxa41w071m7vfqjtk2iusu/art-a220b297.png",
+"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box-swsh9-s2",
+"image": "https://images.scrydex.com/pokemon/swsh9-s2/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -21133,6 +21133,26 @@
 },
 {
 "store": "evo",
+"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Box",
+"price": 340.0,
+"available": true,
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-box/73MP7MFK7Y2NSHJHQN7PMABP",
+"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/RGVOLC7ZYNFGC2HMZLGEY47T.jpeg",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 36,
+"key": "box|Delta Reign",
+"skip": null,
+"first_seen": "2026-11-14T11:27+10:00",
+"changed": "2026-11-14T11:27+10:00"
+},
+{
+"store": "evo",
 "title": "Pokemon TCG: Crimson Invasion Booster Pack",
 "price": 20.0,
 "available": true,
@@ -21453,6 +21473,31 @@
 },
 {
 "store": "evo",
+"title": "POKEMON TCG:  30th Celebration Mini Tin",
+"price": 50.0,
+"available": true,
+"url": "https://www.evogames.com.au/product/pokemon-tcg-30th-celebration-mini-tin/P6AHUWOUTI2HSM3EVE3G5GYZ",
+"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/4RLRUJLU64RMBLC5KNCDVJVP.png",
+"lang": "EN",
+"auto_packs": [
+{
+"set": "30th Celebration",
+"qty": 2
+}
+],
+"variant": null,
+"category": "other",
+"set": "30th Celebration",
+"year": 2026,
+"product": null,
+"packs": 2,
+"key": "other|pokemon tcg 30th celebration mini tin",
+"skip": null,
+"first_seen": "2026-11-14T11:27+10:00",
+"changed": "2026-11-14T11:27+10:00"
+},
+{
+"store": "evo",
 "title": "Pokémon TCG: Chinese 151 Vol 3 Gengar Surprise Slim Booster Pack",
 "price": 10.0,
 "available": true,
@@ -21630,26 +21675,6 @@
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
 "changed": "2026-11-06T21:58+10:00"
-},
-{
-"store": "evo",
-"title": "Pokémon TCG: Chaos Rising Booster Box",
-"price": 320.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pok-mon-tcg-chaos-rising-booster-box/ZGEMPK5IRGCHQ7LLB42NOPRD",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/VPMITNE2JCUXXVPOWHVZ7EAM.jpeg",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "box",
-"set": "Chaos Rising",
-"year": 2026,
-"product": null,
-"packs": 36,
-"key": "box|Chaos Rising",
-"skip": null,
-"first_seen": null,
-"changed": null
 },
 {
 "store": "evo",
@@ -23719,7 +23744,7 @@
 {
 "store": "sidequest",
 "title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
-"price": 846.3,
+"price": 852.6,
 "available": false,
 "url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/673a5c23-8c43-4c7d-81f1-932eb26ab7e9.jpg?v=1780062987",
@@ -23734,7 +23759,7 @@
 "key": "etb|Fusion Strike",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-13T11:50+10:00"
+"changed": "2026-11-14T11:27+10:00"
 },
 {
 "store": "sidequest",
@@ -23880,7 +23905,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Vivid Voltage Booster Pack",
 "price": 18.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-vivid-voltage-booster-pack",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/71AIo6N9ML.webp?v=1794359936",
 "lang": "EN",
@@ -23894,7 +23919,7 @@
 "key": "pack|Vivid Voltage",
 "skip": null,
 "first_seen": "2026-11-11T20:59+10:00",
-"changed": "2026-11-11T20:59+10:00"
+"changed": "2026-11-14T11:27+10:00"
 },
 {
 "store": "raptor",
@@ -30639,7 +30664,7 @@
 {
 "store": "dorky",
 "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
-"price": 184.99,
+"price": 194.99,
 "available": true,
 "url": "https://www.dorkydesires.com.au/product/pokemon-tcg-30th-celebration-elite-trainer-box/",
 "image": "https://www.dorkydesires.com.au/wp-content/uploads/2026/07/Pokmon_TCG_-_30th_Celebration_Elite_Trainer_Box_EN__28528.jpg",
@@ -30654,7 +30679,7 @@
 "key": "etb|30th Celebration",
 "skip": null,
 "first_seen": "2026-11-06T22:03+10:00",
-"changed": "2026-11-06T22:03+10:00"
+"changed": "2026-11-14T11:27+10:00"
 },
 {
 "store": "dorky",
