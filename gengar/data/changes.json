@@ -1,6 +1,243 @@
 {
 "events": [
 {
+"time": "2026-11-14T11:05+10:00",
+"store": "evo-orion",
+"card": 63,
+"condition": "NM",
+"price": 9.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-057-198-swsh06-chilling-reign-holofoil?variant=48541371498717",
+"type": "price-up",
+"old": 9.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "mint",
+"card": 112,
+"condition": "NM",
+"price": 1.5,
+"url": "https://mintcollectables.com.au/products/gengar-050-088-me03-perfect-order-holofoil?variant=57613383434404",
+"type": "price-up",
+"old": 1.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 61,
+"condition": "",
+"price": 18.02,
+"url": "https://mistyscollectables.com.au/cards/cmqz5c1yz3ipj11fkja88v8t5",
+"type": "price-up",
+"old": 17.92
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 63,
+"condition": "",
+"price": 6.38,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ar322u8111fk703pb1ro",
+"type": "price-down",
+"old": 6.54
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 64,
+"condition": "",
+"price": 10.13,
+"url": "https://mistyscollectables.com.au/cards/cmqz5ar322u8111fk703pb1ro",
+"type": "price-down",
+"old": 10.34
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 104,
+"condition": "",
+"price": 22.15,
+"url": "https://mistyscollectables.com.au/cards/cmqz5admw2n1v11fkweg4oj7w",
+"type": "price-up",
+"old": 22.07
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 73,
+"condition": "",
+"price": 16.39,
+"url": "https://mistyscollectables.com.au/cards/cmqz57qvm1fbj11fk9evrofe1",
+"type": "price-down",
+"old": 17.23
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 107,
+"condition": "",
+"price": 4.26,
+"url": "https://mistyscollectables.com.au/cards/cmqz57qvm1fbj11fk9evrofe1",
+"type": "price-down",
+"old": 4.87
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 108,
+"condition": "",
+"price": 0.56,
+"url": "https://mistyscollectables.com.au/cards/cmqz5774m16fl11fkm2i17a5r",
+"type": "price-up",
+"old": 0.5
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 109,
+"condition": "",
+"price": 13.46,
+"url": "https://mistyscollectables.com.au/cards/cmqz572h113jl11fkvnv7ie6z",
+"type": "price-down",
+"old": 13.91
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "misty",
+"card": 81,
+"condition": "",
+"price": 965.91,
+"url": "https://mistyscollectables.com.au/cards/cmr47nk7l079jvh9ldt7xbzwd",
+"type": "price-down",
+"old": 980.64
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "raptor",
+"card": 34,
+"condition": "",
+"price": 50.0,
+"url": "https://raptorgames.com/products/gengar-1799-rare-arceus-lp-550511?variant=47818044211356",
+"type": "new"
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "raptor",
+"card": 100,
+"condition": "",
+"price": 145.0,
+"url": "https://raptorgames.com/products/pikachu-173165-illustration-rare-holo-151-nmm-218852?variant=47484566339740",
+"type": "price-up",
+"old": 120.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 100,
+"condition": "Near Mint Holofoil",
+"price": 100.0,
+"url": "https://www.cardhouse.com.au/products/pikachu-173-165-scarlet-violet-151?variant=42485369241791",
+"type": "price-down",
+"old": 102.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 109,
+"condition": "Near Mint Holofoil",
+"price": 15.5,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-104-162-scarlet-violet-temporal-forces?variant=43080542879935",
+"type": "price-down",
+"old": 16.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 104,
+"condition": "Near Mint Holofoil",
+"price": 25.0,
+"url": "https://www.cardhouse.com.au/products/gengar-v-156-264-sword-shield-fusion-strike?variant=42396518940863",
+"type": "price-down",
+"old": 25.5
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 39,
+"condition": "Near Mint Holofoil",
+"price": 161.5,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-34-119-xy-phantom-forces?variant=42392775557311",
+"type": "price-up",
+"old": 160.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 77,
+"condition": "Near Mint Holofoil",
+"price": 97.5,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-193-162-scarlet-violet-temporal-forces?variant=43080524267711",
+"type": "price-up",
+"old": 96.5
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 87,
+"condition": "Near Mint",
+"price": 104.1,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-154-128-holofoil-me-30th-celebration-special-illustration-rare?variant=67862176792767",
+"type": "price-down",
+"old": 112.3
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 88,
+"condition": "Near Mint",
+"price": 73.5,
+"url": "https://www.cardhouse.com.au/products/gengar-prime-094-102-holofoil-me-30th-celebration-classic-collection-classic-collection?variant=46206845911231",
+"type": "price-down",
+"old": 75.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 78,
+"condition": "Near Mint",
+"price": 5.5,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-073-holofoil-me-mega-evolution-promo-promo?variant=45768166768831",
+"type": "price-down",
+"old": 6.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "card-house",
+"card": 90,
+"condition": "Near Mint 1st Edition Normal",
+"price": 30.5,
+"url": "https://www.cardhouse.com.au/products/imposter-oaks-revenge-76-82-team-rocket-1st-edition?variant=42395590820031",
+"type": "price-down",
+"old": 31.0
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "evo-flinders",
+"card": 111,
+"condition": "NM",
+"price": 7.0,
+"url": "https://www.evogamescards.com.au/products/mega-gengar-ex-125-217-me-ascended-heroes-holofoil?variant=50806690349218",
+"type": "removed"
+},
+{
+"time": "2026-11-14T11:05+10:00",
+"store": "evo-orion",
+"card": 114,
+"condition": "NM",
+"price": 3.5,
+"url": "https://www.evogamesorion.com.au/products/gengar-ex-090-128-me-30th-celebration-holofoil?variant=48735294095581",
+"type": "removed"
+},
+{
 "time": "2026-11-13T20:06+10:00",
 "store": "card-house",
 "card": 99,
