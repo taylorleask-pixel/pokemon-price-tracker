@@ -74,6 +74,11 @@
    "date": "2026-11-13",
    "where": "Pulled from pack",
    "paid": 8.09
+  },
+  "82": {
+   "date": "2026-11-14",
+   "where": "Eden Hunters",
+   "paid": 3.0
   }
  },
  "log": [
@@ -226,6 +231,16 @@
    "where": "Pulled from pack",
    "paid": 8.09,
    "date": "2026-11-13"
+  },
+  {
+   "time": "2026-11-14T15:41+10:00",
+   "action": "add",
+   "ids": [
+    82
+   ],
+   "where": "Eden Hunters",
+   "paid": 3.0,
+   "date": "2026-11-14"
   }
  ]
 }
