@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-14T11:27+10:00",
+"updated": "2026-11-14T20:28+10:00",
 "listings": [
 {
 "store": "misty",
@@ -20361,8 +20361,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -20386,8 +20386,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -21470,31 +21470,6 @@
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
 "changed": "2026-11-06T21:58+10:00"
-},
-{
-"store": "evo",
-"title": "POKEMON TCG:  30th Celebration Mini Tin",
-"price": 50.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pokemon-tcg-30th-celebration-mini-tin/P6AHUWOUTI2HSM3EVE3G5GYZ",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/4RLRUJLU64RMBLC5KNCDVJVP.png",
-"lang": "EN",
-"auto_packs": [
-{
-"set": "30th Celebration",
-"qty": 2
-}
-],
-"variant": null,
-"category": "other",
-"set": "30th Celebration",
-"year": 2026,
-"product": null,
-"packs": 2,
-"key": "other|pokemon tcg 30th celebration mini tin",
-"skip": null,
-"first_seen": "2026-11-14T11:27+10:00",
-"changed": "2026-11-14T11:27+10:00"
 },
 {
 "store": "evo",
@@ -23865,7 +23840,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Cosmic Eclipse Booster Pack",
 "price": 130.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-cosmic-eclipse-booster-pack",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/download_04deb809-e8e7-4947-8594-ee5d6fefbe27.png?v=1794360133",
 "lang": "EN",
@@ -23879,7 +23854,7 @@
 "key": "pack|Cosmic Eclipse",
 "skip": null,
 "first_seen": "2026-11-11T20:59+10:00",
-"changed": "2026-11-11T20:59+10:00"
+"changed": "2026-11-14T20:28+10:00"
 },
 {
 "store": "raptor",
@@ -24393,6 +24368,46 @@
 },
 {
 "store": "raptor",
+"title": "Pokemon TCG: 30th Celebration Ultra Premium Collection - Day",
+"price": 500.0,
+"available": false,
+"url": "https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-ultra-premium-collection-day",
+"image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokemon_TCG_30th_Celebration_UPC_Day_EN-copy-768x631.webp?v=1787801199",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": "30th Celebration",
+"year": 2026,
+"product": "30th Celebration Ultra-Premium Collection",
+"packs": 30,
+"key": "other|30th Celebration Ultra-Premium Collection",
+"skip": null,
+"first_seen": "2026-11-14T20:28+10:00",
+"changed": "2026-11-14T20:28+10:00"
+},
+{
+"store": "raptor",
+"title": "Pokemon TCG: 30th Celebration Ultra Premium Collection - Night",
+"price": 500.0,
+"available": false,
+"url": "https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-ultra-premium-collection-night",
+"image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokemon_TCG_30th_Celebration_UPC_Night_EN-copy-768x631_200x_2x_61d3d407-f671-46cd-958b-de7e43fb64e4.webp?v=1787801125",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": "30th Celebration",
+"year": 2026,
+"product": "30th Celebration Ultra-Premium Collection",
+"packs": 30,
+"key": "other|30th Celebration Ultra-Premium Collection",
+"skip": null,
+"first_seen": "2026-11-14T20:28+10:00",
+"changed": "2026-11-14T20:28+10:00"
+},
+{
+"store": "raptor",
 "title": "Pokemon TCG: 30th Celebration Knock Out Collection",
 "price": 45.0,
 "available": false,
@@ -24455,7 +24470,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: 30th Celebration Poster Box",
 "price": 90.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-30th-celebration-poster-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokmon_TCG_-_30th_Celebration_Poster_Collection_EN__03679.webp?v=1787203048",
 "lang": "EN",
@@ -24469,7 +24484,7 @@
 "key": "other|30th Celebration Poster Collection",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-10T13:35+10:00"
+"changed": "2026-11-14T20:28+10:00"
 },
 {
 "store": "raptor",
@@ -30333,6 +30348,46 @@
 },
 {
 "store": "dorky",
+"title": "Charizard EX Premium Sealed Box – Slight Damage on box",
+"price": 255.0,
+"available": true,
+"url": "https://www.dorkydesires.com.au/product/charizard-ex-premium-sealed-box-slight-damage-on-box/",
+"image": "https://www.dorkydesires.com.au/wp-content/uploads/2026/11/Screenshot-2026-11-14-145341.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": null,
+"year": null,
+"product": null,
+"packs": null,
+"key": "other|charizard ex premium sealed box slight damage on box",
+"skip": null,
+"first_seen": "2026-11-14T20:28+10:00",
+"changed": "2026-11-14T20:28+10:00"
+},
+{
+"store": "dorky",
+"title": "Pokemon Day 2026 Collection",
+"price": 69.95,
+"available": true,
+"url": "https://www.dorkydesires.com.au/product/pokemon-day-2026-collection/",
+"image": "https://www.dorkydesires.com.au/wp-content/uploads/2026/11/s-l500.jpg",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": null,
+"year": null,
+"product": "Pokémon Day 2026 Collection",
+"packs": 3,
+"key": "other|Pokémon Day 2026 Collection",
+"skip": null,
+"first_seen": "2026-11-14T20:28+10:00",
+"changed": "2026-11-14T20:28+10:00"
+},
+{
+"store": "dorky",
 "title": "Pokemon TCG Pokemon Center Set Mega Brave Japanese Trainer Box",
 "price": 380.0,
 "available": true,
@@ -33360,7 +33415,7 @@
 "store": "gatekeepers",
 "title": "Pokemon: Small But Mighty Premium Collection",
 "price": 1050.0,
-"available": true,
+"available": false,
 "url": "https://gatekeeperstcg.com/products/pokemon-small-but-mighty-premium-collection",
 "image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/PokemonTCGSmallButMightyPremiumCollection_01.webp?v=1787811518",
 "lang": "EN",
@@ -33374,7 +33429,7 @@
 "key": "other|Small But Mighty Premium Collection",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-14T20:28+10:00"
 },
 {
 "store": "gatekeepers",

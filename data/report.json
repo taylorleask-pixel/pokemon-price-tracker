@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:27+10:00",
+ "updated": "2026-11-14T20:28+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -8,8 +8,8 @@
   },
   "evo": {
    "ok": true,
-   "found": 68,
-   "kept": 47
+   "found": 67,
+   "kept": 46
   },
   "eden": {
    "ok": true,
@@ -23,8 +23,8 @@
   },
   "raptor": {
    "ok": true,
-   "found": 399,
-   "kept": 304
+   "found": 401,
+   "kept": 306
   },
   "everson": {
    "ok": true,
@@ -33,8 +33,8 @@
   },
   "dorky": {
    "ok": true,
-   "found": 36,
-   "kept": 28
+   "found": 38,
+   "kept": 30
   },
   "jojos": {
    "ok": true,
