@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-14T20:28+10:00",
+"updated": "2026-11-15T11:04+10:00",
 "listings": [
 {
 "store": "misty",
@@ -609,7 +609,7 @@
 {
 "store": "misty",
 "title": "Chilling Reign Booster Box",
-"price": 763.18,
+"price": 762.38,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
 "image": "https://images.scrydex.com/pokemon/swsh6-s2/large",
@@ -624,7 +624,7 @@
 "key": "box|Chilling Reign",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-14T11:27+10:00"
+"changed": "2026-11-15T11:04+10:00"
 },
 {
 "store": "misty",
@@ -844,7 +844,7 @@
 {
 "store": "misty",
 "title": "Forbidden Light Booster Box",
-"price": 2725.54,
+"price": 2753.07,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/forbidden-light-booster-box",
 "image": "https://images.scrydex.com/pokemon/sm6-s3/large",
@@ -859,7 +859,7 @@
 "key": "box|Forbidden Light",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-07T11:01+10:00"
+"changed": "2026-11-15T11:04+10:00"
 },
 {
 "store": "misty",
@@ -1789,7 +1789,7 @@
 {
 "store": "misty",
 "title": "Scarlet & Violet Booster Box",
-"price": 493.1,
+"price": 493.03,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
 "image": "https://images.scrydex.com/pokemon/sv1-s2/large",
@@ -1804,7 +1804,7 @@
 "key": "box|Scarlet & Violet",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-12T12:17+10:00"
+"changed": "2026-11-15T11:04+10:00"
 },
 {
 "store": "misty",
@@ -2014,7 +2014,7 @@
 {
 "store": "misty",
 "title": "Temporal Forces Booster Box",
-"price": 535.17,
+"price": 535.83,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
 "image": "https://images.scrydex.com/pokemon/sv5-s2/large",
@@ -2029,7 +2029,7 @@
 "key": "box|Temporal Forces",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-12T12:17+10:00"
+"changed": "2026-11-15T11:04+10:00"
 },
 {
 "store": "misty",
@@ -2354,10 +2354,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 475.0,
+"price": 499.95,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -2379,10 +2379,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 499.95,
+"price": 475.0,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -3384,10 +3384,10 @@
 {
 "store": "misty",
 "title": "Black Bolt Elite Trainer Box",
-"price": 299.0,
+"price": 261.8,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxj8jb07317vfqbvxkatz1/art-7dcbcfb4.png",
+"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box-zsv10pt5-s3",
+"image": "https://images.scrydex.com/pokemon/zsv10pt5-s3/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -3404,10 +3404,10 @@
 {
 "store": "misty",
 "title": "Black Bolt Elite Trainer Box",
-"price": 261.8,
+"price": 299.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box-zsv10pt5-s3",
-"image": "https://images.scrydex.com/pokemon/zsv10pt5-s3/large",
+"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxj8jb07317vfqbvxkatz1/art-7dcbcfb4.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -6039,26 +6039,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Booster Box",
-"price": 349.0,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu726q0ezqeuzqtbxudj4r7/art-995e0d4f.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "box",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 36,
-"key": "box|Delta Reign",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Delta Reign Booster Box",
 "price": 334.3,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box-me6-s2",
@@ -6075,6 +6055,26 @@
 "skip": null,
 "first_seen": "2026-11-07T11:01+10:00",
 "changed": "2026-11-07T11:01+10:00"
+},
+{
+"store": "misty",
+"title": "Delta Reign Booster Box",
+"price": 349.0,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu726q0ezqeuzqtbxudj4r7/art-995e0d4f.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 36,
+"key": "box|Delta Reign",
+"skip": null,
+"first_seen": null,
+"changed": null
 },
 {
 "store": "misty",
@@ -6209,26 +6209,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Elite Trainer Box",
-"price": 129.99,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu73zs37ytn13axz2ofp2se/art-7ce3c0f6.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "etb",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 9,
-"key": "etb|Delta Reign",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Delta Reign Elite Trainer Box",
 "price": 140.59,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box-me6-s9",
@@ -6245,6 +6225,26 @@
 "skip": null,
 "first_seen": "2026-11-07T11:01+10:00",
 "changed": "2026-11-07T11:01+10:00"
+},
+{
+"store": "misty",
+"title": "Delta Reign Elite Trainer Box",
+"price": 129.99,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu73zs37ytn13axz2ofp2se/art-7ce3c0f6.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "etb",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 9,
+"key": "etb|Delta Reign",
+"skip": null,
+"first_seen": null,
+"changed": null
 },
 {
 "store": "misty",
@@ -7991,8 +7991,8 @@
 "title": "EX Trainer Kit 2 - Plusle & Minun",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun",
-"image": "https://images.scrydex.com/pokemon/tk2a-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun-tk2b-s1",
+"image": "https://images.scrydex.com/pokemon/tk2b-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -8011,8 +8011,8 @@
 "title": "EX Trainer Kit 2 - Plusle & Minun",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun-tk2b-s1",
-"image": "https://images.scrydex.com/pokemon/tk2b-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun",
+"image": "https://images.scrydex.com/pokemon/tk2a-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -14229,10 +14229,10 @@
 {
 "store": "misty",
 "title": "Phantom Forces Booster Box",
-"price": null,
+"price": 22000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box-xy4-s3",
-"image": "https://images.scrydex.com/pokemon/xy4-s3/large",
+"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmu1tukuhi02aeb5bogd2saa4/art-3a403ca5.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -14249,10 +14249,10 @@
 {
 "store": "misty",
 "title": "Phantom Forces Booster Box",
-"price": 22000.0,
+"price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmu1tukuhi02aeb5bogd2saa4/art-3a403ca5.png",
+"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box-xy4-s3",
+"image": "https://images.scrydex.com/pokemon/xy4-s3/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -21553,26 +21553,6 @@
 },
 {
 "store": "evo",
-"title": "Pokemon | Inferno X Korean Booster Pack",
-"price": 6.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pokemon-inferno-x-korean-booster-pack/UKS23D2PDKYLIK72TSO5ZYP7",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/VZCCPMETTTJEGBNHZYRFAUFN.png",
-"lang": "KOR",
-"auto_packs": null,
-"variant": null,
-"category": "pack",
-"set": null,
-"year": null,
-"product": null,
-"packs": 1,
-"key": "KOR|pack|pokemon inferno x korean booster pack",
-"skip": null,
-"first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-06T21:58+10:00"
-},
-{
-"store": "evo",
 "title": "Pokemon Celebrations Collection - Dark Sylveon V",
 "price": 255.0,
 "available": true,
@@ -24020,7 +24000,7 @@
 "store": "raptor",
 "title": "[Chinese] 30th Anniversary Celebration Pokemon TCG Booster Pack",
 "price": 10.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/chinese-30th-anniversary-celebration-pokemon-tcg-booster-pack",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/30th-Celebration-Booster-Box-30thC-Simplified-Chinese-Pokemon-TCG-1.jpg?v=1790639910",
 "lang": "CN",
@@ -24034,7 +24014,7 @@
 "key": "CN|pack|30th Celebration",
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-13T20:59+10:00"
+"changed": "2026-11-15T11:04+10:00"
 },
 {
 "store": "raptor",
@@ -24125,7 +24105,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution Delta Reign Booster Box",
 "price": 360.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/pokemon_tcg_mega_evolution_delta_reign_booster_box_18fd8.webp?v=1789610798",
 "lang": "EN",
@@ -24139,7 +24119,7 @@
 "key": "box|Delta Reign",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-15T11:04+10:00"
 },
 {
 "store": "raptor",
@@ -33153,6 +33133,26 @@
 },
 {
 "store": "gatekeepers",
+"title": "Pokemon: Small But Mighty Premium Collection",
+"price": 1050.0,
+"available": false,
+"url": "https://gatekeeperstcg.com/products/pokemon-small-but-mighty-premium-collection",
+"image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/PokemonTCGSmallButMightyPremiumCollection_01.webp?v=1787811518",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": null,
+"year": null,
+"product": "Small But Mighty Premium Collection",
+"packs": 10,
+"key": "other|Small But Mighty Premium Collection",
+"skip": null,
+"first_seen": null,
+"changed": "2026-11-14T20:28+10:00"
+},
+{
+"store": "gatekeepers",
 "title": "Pokemon: Evolving Skies Sleeved Booster Pack",
 "price": 110.0,
 "available": false,
@@ -33410,26 +33410,6 @@
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
 "changed": "2026-11-06T21:58+10:00"
-},
-{
-"store": "gatekeepers",
-"title": "Pokemon: Small But Mighty Premium Collection",
-"price": 1050.0,
-"available": false,
-"url": "https://gatekeeperstcg.com/products/pokemon-small-but-mighty-premium-collection",
-"image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/PokemonTCGSmallButMightyPremiumCollection_01.webp?v=1787811518",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "other",
-"set": null,
-"year": null,
-"product": "Small But Mighty Premium Collection",
-"packs": 10,
-"key": "other|Small But Mighty Premium Collection",
-"skip": null,
-"first_seen": null,
-"changed": "2026-11-14T20:28+10:00"
 },
 {
 "store": "gatekeepers",

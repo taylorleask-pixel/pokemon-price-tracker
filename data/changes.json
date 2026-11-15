@@ -1,6 +1,87 @@
 {
-"updated": "2026-11-14T20:28+10:00",
+"updated": "2026-11-15T11:04+10:00",
 "events": [
+{
+"time": "2026-11-15T11:04+10:00",
+"store": "misty",
+"key": "box|Chilling Reign",
+"title": "Chilling Reign Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 763.18,
+"new": 762.38
+},
+{
+"time": "2026-11-15T11:04+10:00",
+"store": "misty",
+"key": "box|Forbidden Light",
+"title": "Forbidden Light Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/forbidden-light-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 2725.54,
+"new": 2753.07
+},
+{
+"time": "2026-11-15T11:04+10:00",
+"store": "misty",
+"key": "box|Scarlet & Violet",
+"title": "Scarlet & Violet Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 493.1,
+"new": 493.03
+},
+{
+"time": "2026-11-15T11:04+10:00",
+"store": "misty",
+"key": "box|Temporal Forces",
+"title": "Temporal Forces Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 535.17,
+"new": 535.83
+},
+{
+"time": "2026-11-15T11:04+10:00",
+"store": "raptor",
+"key": "CN|pack|30th Celebration",
+"title": "[Chinese] 30th Anniversary Celebration Pokemon TCG Booster Pack",
+"url": "https://raptorgames.com/products/chinese-30th-anniversary-celebration-pokemon-tcg-booster-pack",
+"category": "pack",
+"lang": "CN",
+"type": "sold-out",
+"old": 10.0
+},
+{
+"time": "2026-11-15T11:04+10:00",
+"store": "raptor",
+"key": "box|Delta Reign",
+"title": "Pokemon TCG: Mega Evolution Delta Reign Booster Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "sold-out",
+"old": 360.0
+},
+{
+"time": "2026-11-15T11:04+10:00",
+"store": "evo",
+"key": "KOR|pack|pokemon inferno x korean booster pack",
+"title": "Pokemon | Inferno X Korean Booster Pack",
+"url": "https://www.evogames.com.au/product/pokemon-inferno-x-korean-booster-pack/UKS23D2PDKYLIK72TSO5ZYP7",
+"category": "pack",
+"lang": "KOR",
+"type": "removed",
+"old": 6.0
+},
 {
 "time": "2026-11-14T20:28+10:00",
 "store": "raptor",
