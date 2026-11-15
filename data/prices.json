@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-15T11:04+10:00",
+"updated": "2026-11-15T20:55+10:00",
 "listings": [
 {
 "store": "misty",
@@ -23840,7 +23840,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Rebel Clash Booster Pack",
 "price": 18.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-rebel-clash-booster-pack",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/shopping_5.webp?v=1794360035",
 "lang": "EN",
@@ -23854,7 +23854,7 @@
 "key": "pack|Rebel Clash",
 "skip": null,
 "first_seen": "2026-11-11T20:59+10:00",
-"changed": "2026-11-11T20:59+10:00"
+"changed": "2026-11-15T20:55+10:00"
 },
 {
 "store": "raptor",
@@ -26145,7 +26145,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mega Meganium ex Box",
 "price": 120.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-ascended-heroes-mega-meganium-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/P11436_ME02pt5_3D_Mega_ex_Box_MMeganium_Left_EN-1024x913.jpg?v=1766111008",
 "lang": "EN",
@@ -26159,7 +26159,7 @@
 "key": "other|Ascended Heroes Mega Meganium ex Box",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-15T20:55+10:00"
 },
 {
 "store": "raptor",

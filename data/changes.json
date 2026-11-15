@@ -1,6 +1,28 @@
 {
-"updated": "2026-11-15T11:04+10:00",
+"updated": "2026-11-15T20:55+10:00",
 "events": [
+{
+"time": "2026-11-15T20:55+10:00",
+"store": "raptor",
+"key": "pack|Rebel Clash",
+"title": "Pokemon TCG: Rebel Clash Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-rebel-clash-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "sold-out",
+"old": 18.0
+},
+{
+"time": "2026-11-15T20:55+10:00",
+"store": "raptor",
+"key": "other|Ascended Heroes Mega Meganium ex Box",
+"title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mega Meganium ex Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-ascended-heroes-mega-meganium-ex-box",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 120.0
+},
 {
 "time": "2026-11-15T11:04+10:00",
 "store": "misty",
