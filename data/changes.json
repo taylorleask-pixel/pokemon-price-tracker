@@ -1,6 +1,30 @@
 {
-"updated": "2026-11-15T20:55+10:00",
+"updated": "2026-11-16T11:04+10:00",
 "events": [
+{
+"time": "2026-11-16T11:04+10:00",
+"store": "misty",
+"key": "box|Chilling Reign",
+"title": "Chilling Reign Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 762.38,
+"new": 760.3
+},
+{
+"time": "2026-11-16T11:04+10:00",
+"store": "misty",
+"key": "box|Temporal Forces",
+"title": "Temporal Forces Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 535.83,
+"new": 536.23
+},
 {
 "time": "2026-11-15T20:55+10:00",
 "store": "raptor",

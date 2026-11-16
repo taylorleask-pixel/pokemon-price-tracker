@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-15T20:55+10:00",
+"updated": "2026-11-16T11:04+10:00",
 "listings": [
 {
 "store": "misty",
@@ -609,7 +609,7 @@
 {
 "store": "misty",
 "title": "Chilling Reign Booster Box",
-"price": 762.38,
+"price": 760.3,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
 "image": "https://images.scrydex.com/pokemon/swsh6-s2/large",
@@ -624,7 +624,7 @@
 "key": "box|Chilling Reign",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-15T11:04+10:00"
+"changed": "2026-11-16T11:04+10:00"
 },
 {
 "store": "misty",
@@ -2014,7 +2014,7 @@
 {
 "store": "misty",
 "title": "Temporal Forces Booster Box",
-"price": 535.83,
+"price": 536.23,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
 "image": "https://images.scrydex.com/pokemon/sv5-s2/large",
@@ -2029,7 +2029,7 @@
 "key": "box|Temporal Forces",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-15T11:04+10:00"
+"changed": "2026-11-16T11:04+10:00"
 },
 {
 "store": "misty",
@@ -2354,10 +2354,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 499.95,
+"price": 475.0,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -2379,10 +2379,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 475.0,
+"price": 499.95,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -3384,10 +3384,10 @@
 {
 "store": "misty",
 "title": "Black Bolt Elite Trainer Box",
-"price": 261.8,
+"price": 299.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box-zsv10pt5-s3",
-"image": "https://images.scrydex.com/pokemon/zsv10pt5-s3/large",
+"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxj8jb07317vfqbvxkatz1/art-7dcbcfb4.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -3404,10 +3404,10 @@
 {
 "store": "misty",
 "title": "Black Bolt Elite Trainer Box",
-"price": 299.0,
+"price": 261.8,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxj8jb07317vfqbvxkatz1/art-7dcbcfb4.png",
+"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box-zsv10pt5-s3",
+"image": "https://images.scrydex.com/pokemon/zsv10pt5-s3/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -7991,8 +7991,8 @@
 "title": "EX Trainer Kit 2 - Plusle & Minun",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun-tk2b-s1",
-"image": "https://images.scrydex.com/pokemon/tk2b-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun",
+"image": "https://images.scrydex.com/pokemon/tk2a-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -8011,8 +8011,8 @@
 "title": "EX Trainer Kit 2 - Plusle & Minun",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun",
-"image": "https://images.scrydex.com/pokemon/tk2a-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-2-plusle-minun-tk2b-s1",
+"image": "https://images.scrydex.com/pokemon/tk2b-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -20361,8 +20361,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -20386,8 +20386,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
 "lang": "EN",
 "auto_packs": [
 {
