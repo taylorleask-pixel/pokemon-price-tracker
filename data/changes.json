@@ -1,6 +1,52 @@
 {
-"updated": "2026-11-16T21:20+10:00",
+"updated": "2026-11-17T13:55+10:00",
 "events": [
+{
+"time": "2026-11-17T13:55+10:00",
+"store": "misty",
+"key": "box|Chilling Reign",
+"title": "Chilling Reign Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 760.3,
+"new": 758.2
+},
+{
+"time": "2026-11-17T13:55+10:00",
+"store": "misty",
+"key": "box|Scarlet & Violet",
+"title": "Scarlet & Violet Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 493.03,
+"new": 493.01
+},
+{
+"time": "2026-11-17T13:55+10:00",
+"store": "evo",
+"key": "box|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Box",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-box/73MP7MFK7Y2NSHJHQN7PMABP",
+"category": "box",
+"lang": "EN",
+"type": "removed",
+"old": 340.0
+},
+{
+"time": "2026-11-17T13:55+10:00",
+"store": "eden",
+"key": "etb|Sword & Shield",
+"title": "Pokemon TCG - Sword & Shield Elite Trainer Box (8 Booster Packs)",
+"url": "https://www.edenhunter.com.au/product/pokemon-tcg-sword-shield-elite-trainer-box-8-booster-packs-/YWCNRUWUWV3I7DDNGQ25JWSZ",
+"category": "etb",
+"lang": "EN",
+"type": "removed",
+"old": 310.0
+},
 {
 "time": "2026-11-16T11:04+10:00",
 "store": "misty",
