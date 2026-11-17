@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:55+10:00",
+ "updated": "2026-11-18T04:36+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -8,13 +8,13 @@
   },
   "evo": {
    "ok": true,
-   "found": 66,
-   "kept": 44
+   "found": 65,
+   "kept": 43
   },
   "eden": {
    "ok": true,
-   "found": 76,
-   "kept": 45
+   "found": 72,
+   "kept": 43
   },
   "sidequest": {
    "ok": true,
@@ -32,9 +32,9 @@
    "kept": 7
   },
   "dorky": {
-   "ok": true,
-   "found": 38,
-   "kept": 30
+   "ok": false,
+   "error": "RuntimeError: returned no products (had 30 last time) - the site may be down or have changed, keeping last good prices",
+   "carried_over": 30
   },
   "jojos": {
    "ok": true,

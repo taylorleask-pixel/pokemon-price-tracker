@@ -1,6 +1,95 @@
 {
-"updated": "2026-11-17T13:55+10:00",
+"updated": "2026-11-18T04:36+10:00",
 "events": [
+{
+"time": "2026-11-18T04:36+10:00",
+"store": "evo",
+"key": "other|pokemon evolution buddies mystery pokeball eeveelutions",
+"title": "Pokemon Evolution Buddies Mystery Pokeball (Eeveelutions)",
+"url": "https://www.evogames.com.au/product/pokemon-evolution-buddies-mystery-pokeball-eeveelutions-/EJZOIDGKZ2K4AYMQI4IGWRSM",
+"category": "other",
+"lang": "EN",
+"type": "new",
+"new": 8.0,
+"available": true
+},
+{
+"time": "2026-11-18T04:36+10:00",
+"store": "sidequest",
+"key": "JP|pack|30th Celebration",
+"title": "Pokémon TCG - Japanese 30th Celebration M6a Booster Pack",
+"url": "https://sidequestcards.com.au/products/pokemon-tcg-japanese-30th-celebration-m6a-booster-pack",
+"category": "pack",
+"lang": "JP",
+"type": "in-stock",
+"new": 18.0
+},
+{
+"time": "2026-11-18T04:36+10:00",
+"store": "sidequest",
+"key": "SCH|box|simplified chinese pokemon tcg - gem pack vol. 4 booster box",
+"title": "(Simplified Chinese) Pokémon TCG - Gem Pack Vol. 4 Booster Box",
+"url": "https://sidequestcards.com.au/products/pokemon-tcg-simplified-chinese-gem-pack-vol-4-booster-box",
+"category": "box",
+"lang": "SCH",
+"type": "sold-out",
+"old": 70.0
+},
+{
+"time": "2026-11-18T04:36+10:00",
+"store": "raptor",
+"key": "pack|Delta Reign",
+"title": "Pokemon TCG: Mega Evolution Delta Reign Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-delta-reign-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "sold-out",
+"old": 12.0
+},
+{
+"time": "2026-11-18T04:36+10:00",
+"store": "evo",
+"key": "JP|pack|pokemon japanese shining treasures",
+"title": "Pokemon Japanese Shining Treasures",
+"url": "https://www.evogames.com.au/product/pokemon-japanese-shining-treasures/346ZDGEDFTLDF2FM5F2ONFQP",
+"category": "pack",
+"lang": "JP",
+"type": "removed",
+"old": 18.0
+},
+{
+"time": "2026-11-18T04:36+10:00",
+"store": "evo",
+"key": "other|pokemon celebrations collection - dark sylveon v",
+"title": "Pokemon Celebrations Collection - Dark Sylveon V",
+"url": "https://www.evogames.com.au/product/pokemon-celebrations-collection-dark-sylveon-v/VTMMRSGHYXOIKPDPF4T5DU2U",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 255.0
+},
+{
+"time": "2026-11-18T04:36+10:00",
+"store": "eden",
+"key": "KOR|pack|pokemon - heatwave arena korean booster single",
+"title": "Pokemon - Heatwave Arena Korean Booster Single",
+"url": "https://www.edenhunter.com.au/product/pokemon-heatwave-arena-korean-booster-single/YJGCFSOZXRIPKL33HBJB3HFI",
+"category": "pack",
+"lang": "KOR",
+"type": "removed",
+"old": 5.0
+},
+{
+"time": "2026-11-18T04:36+10:00",
+"store": "eden",
+"key": "other|pokemon tcg - gengar ex box xy evolutions 4 booster packs",
+"title": "Pokemon TCG - Gengar ex Box XY Evolutions (4 Booster Packs)",
+"url": "https://www.edenhunter.com.au/product/pokemon-tcg-gengar-ex-box-xy-evolutions-4-booster-packs-/YKXHL3Q2BDCLTIDPJIKWXHYM",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 800.0
+},
 {
 "time": "2026-11-17T13:55+10:00",
 "store": "misty",
