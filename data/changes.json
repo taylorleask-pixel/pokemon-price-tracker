@@ -1,6 +1,64 @@
 {
-"updated": "2026-11-18T04:36+10:00",
+"updated": "2026-11-18T12:54+10:00",
 "events": [
+{
+"time": "2026-11-18T12:54+10:00",
+"store": "misty",
+"key": "box|Scarlet & Violet",
+"title": "Scarlet & Violet Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 493.01,
+"new": 488.92
+},
+{
+"time": "2026-11-18T12:54+10:00",
+"store": "misty",
+"key": "box|Temporal Forces",
+"title": "Temporal Forces Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 536.23,
+"new": 536.29
+},
+{
+"time": "2026-11-18T12:54+10:00",
+"store": "sidequest",
+"key": "etb|Fusion Strike",
+"title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
+"url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
+"category": "etb",
+"lang": "EN",
+"type": "price-up",
+"old": 852.6,
+"new": 858.2
+},
+{
+"time": "2026-11-18T12:54+10:00",
+"store": "misty",
+"key": "blister-multi|ultra prism 3-pack blister - alolan vulpix",
+"title": "Ultra Prism 3-Pack Blister - Alolan Vulpix",
+"url": "https://mistyscollectables.com.au/sealed/product/ultra-prism-3-pack-blister-alolan-vulpix",
+"category": "blister-multi",
+"lang": "EN",
+"type": "removed",
+"old": 375.0
+},
+{
+"time": "2026-11-18T12:54+10:00",
+"store": "misty",
+"key": "blister-multi|ultra prism 3-pack blister - porygon-z",
+"title": "Ultra Prism 3-Pack Blister - Porygon-Z",
+"url": "https://mistyscollectables.com.au/sealed/product/ultra-prism-3-pack-blister-porygon-z",
+"category": "blister-multi",
+"lang": "EN",
+"type": "removed",
+"old": 375.0
+},
 {
 "time": "2026-11-18T04:36+10:00",
 "store": "evo",
