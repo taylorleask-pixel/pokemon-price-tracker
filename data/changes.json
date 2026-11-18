@@ -1,6 +1,84 @@
 {
-"updated": "2026-11-18T12:54+10:00",
+"updated": "2026-11-18T21:44+10:00",
 "events": [
+{
+"time": "2026-11-18T21:44+10:00",
+"store": "raptor",
+"key": "CN|box|30th Celebration",
+"title": "[Chinese] 30th Anniversary Celebration Pokemon TCG Booster Box",
+"url": "https://raptorgames.com/products/30th-anniversary-celebration-booster-box-simplified-chinese-pokemon-tcg",
+"category": "box",
+"lang": "CN",
+"type": "sold-out",
+"old": 180.0
+},
+{
+"time": "2026-11-18T21:44+10:00",
+"store": "raptor",
+"key": "other|pokemon tcg 30th celebration mini tin",
+"title": "Pokemon TCG: 30th Celebration Mini Tin",
+"url": "https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-mini-tin",
+"category": "other",
+"lang": "EN",
+"type": "in-stock",
+"new": 60.0
+},
+{
+"time": "2026-11-18T21:44+10:00",
+"store": "raptor",
+"key": "other|30th Celebration Tech Sticker Collection",
+"title": "Pokemon TCG: 30th Celebration Tech Sticker Blister",
+"url": "https://raptorgames.com/products/pokemon-tcg-30th-celebration-tech-sticker-blister",
+"category": "other",
+"lang": "EN",
+"type": "in-stock",
+"new": 60.0
+},
+{
+"time": "2026-11-18T21:44+10:00",
+"store": "raptor",
+"key": "other|30th Celebration Tech Sticker Collection",
+"title": "Pokemon TCG: 30th Celebration Tech Sticker Blister",
+"url": "https://raptorgames.com/products/pokemon-tcg-30th-celebration-tech-sticker-blister",
+"category": "other",
+"lang": "EN",
+"type": "price-up",
+"old": 40.0,
+"new": 60.0
+},
+{
+"time": "2026-11-18T21:44+10:00",
+"store": "eden",
+"key": "KOR|pack|pokemon - ninja spinner korean booster singke",
+"title": "Pokemon - Ninja Spinner Korean Booster Singke",
+"url": "https://www.edenhunter.com.au/product/pokemon-ninja-spinner-korean-booster-singke/XZYR7VUG2XHZSYT7VY37PNVE",
+"category": "pack",
+"lang": "KOR",
+"type": "removed",
+"old": 4.0
+},
+{
+"time": "2026-11-18T21:44+10:00",
+"store": "eden",
+"key": "case|151",
+"title": "Pokemon TCG - 151 Booster Bundle Sealed Case of 10 Bundles  (60 Booster Packs)",
+"url": "https://www.edenhunter.com.au/product/pokemon-tcg-151-booster-bundle-sealed-case-of-10-bundles-60-booster-packs-/YESGS3S72KEKBMZAYWKIPUGQ",
+"category": "case",
+"lang": "EN",
+"type": "removed",
+"old": 3800.0
+},
+{
+"time": "2026-11-18T21:44+10:00",
+"store": "everson",
+"key": "other|pokemon tcg mega greninja ex league battle deck",
+"title": "Pokémon TCG: Mega Greninja ex League Battle Deck",
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-greninja-ex-league-battle-deck",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 60.0
+},
 {
 "time": "2026-11-18T12:54+10:00",
 "store": "misty",
