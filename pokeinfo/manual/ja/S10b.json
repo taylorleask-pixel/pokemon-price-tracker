@@ -1,0 +1,879 @@
+{
+ "id": "S10b",
+ "name": "Pokémon GO",
+ "serie": "剣と盾",
+ "serie_id": "S",
+ "date": "2022-06-17",
+ "official": 71,
+ "abbr": "S10b",
+ "note": "Pictures show the English version of each card where there is one.",
+ "source": "Card list from Taylor (Fuji Card Shop list).",
+ "cards": [
+  {
+   "n": "001/071",
+   "name": "Bulbasaur",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/001/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/001/high.webp",
+   "from": "English Pokémon GO 001"
+  },
+  {
+   "n": "002/071",
+   "name": "Ivysaur",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/002/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/002/high.webp",
+   "from": "English Pokémon GO 002"
+  },
+  {
+   "n": "003/071",
+   "name": "Venusaur",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/003/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/003/high.webp",
+   "from": "English Pokémon GO 003"
+  },
+  {
+   "n": "004/071",
+   "name": "Radiant Venusaur",
+   "r": "K",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/004/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/004/high.webp",
+   "from": "English Pokémon GO 004"
+  },
+  {
+   "n": "005/071",
+   "name": "Alolan Exeggutor V",
+   "r": "RR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/005/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/005/high.webp",
+   "from": "English Pokémon GO 005"
+  },
+  {
+   "n": "006/071",
+   "name": "Spinarak",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/006/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/006/high.webp",
+   "from": "English Pokémon GO 006"
+  },
+  {
+   "n": "007/071",
+   "name": "Ariados",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/007/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/007/high.webp",
+   "from": "English Pokémon GO 007"
+  },
+  {
+   "n": "008/071",
+   "name": "Charmander",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/008/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/008/high.webp",
+   "from": "English Pokémon GO 008"
+  },
+  {
+   "n": "009/071",
+   "name": "Charmeleon",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/009/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/009/high.webp",
+   "from": "English Pokémon GO 009"
+  },
+  {
+   "n": "010/071",
+   "name": "Charizard",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/010/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/010/high.webp",
+   "from": "English Pokémon GO 010"
+  },
+  {
+   "n": "011/071",
+   "name": "Radiant Charizard",
+   "r": "K",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/011/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/011/high.webp",
+   "from": "English Pokémon GO 011"
+  },
+  {
+   "n": "012/071",
+   "name": "Moltres",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/012/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/012/high.webp",
+   "from": "English Pokémon GO 012"
+  },
+  {
+   "n": "013/071",
+   "name": "Numel",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/013/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/013/high.webp",
+   "from": "English Pokémon GO 013"
+  },
+  {
+   "n": "014/071",
+   "name": "Camerupt",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/014/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/014/high.webp",
+   "from": "English Pokémon GO 014"
+  },
+  {
+   "n": "015/071",
+   "name": "Squirtle",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/015/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/015/high.webp",
+   "from": "English Pokémon GO 015"
+  },
+  {
+   "n": "016/071",
+   "name": "Wartortle",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/016/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/016/high.webp",
+   "from": "English Pokémon GO 016"
+  },
+  {
+   "n": "017/071",
+   "name": "Blastoise",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/017/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/017/high.webp",
+   "from": "English Pokémon GO 017"
+  },
+  {
+   "n": "018/071",
+   "name": "Radiant Blastoise",
+   "r": "K",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/018/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/018/high.webp",
+   "from": "English Pokémon GO 018"
+  },
+  {
+   "n": "019/071",
+   "name": "Slowpoke",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/019/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/019/high.webp",
+   "from": "English Pokémon GO 019"
+  },
+  {
+   "n": "020/071",
+   "name": "Slowbro",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/020/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/020/high.webp",
+   "from": "English Pokémon GO 020"
+  },
+  {
+   "n": "021/071",
+   "name": "Magikarp",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/021/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/021/high.webp",
+   "from": "English Pokémon GO 021"
+  },
+  {
+   "n": "022/071",
+   "name": "Gyarados",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/022/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/022/high.webp",
+   "from": "English Pokémon GO 022"
+  },
+  {
+   "n": "023/071",
+   "name": "Lapras",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/023/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/023/high.webp",
+   "from": "English Pokémon GO 023"
+  },
+  {
+   "n": "024/071",
+   "name": "Articuno",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/024/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/024/high.webp",
+   "from": "English Pokémon GO 024"
+  },
+  {
+   "n": "025/071",
+   "name": "Wimpod",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/025/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/025/high.webp",
+   "from": "English Pokémon GO 025"
+  },
+  {
+   "n": "026/071",
+   "name": "Golisopod",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/026/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/026/high.webp",
+   "from": "English Pokémon GO 026"
+  },
+  {
+   "n": "027/071",
+   "name": "Pikachu",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/027/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/027/high.webp",
+   "from": "English Pokémon GO 027"
+  },
+  {
+   "n": "028/071",
+   "name": "Pikachu",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/028/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/028/high.webp",
+   "from": "English Pokémon GO 028"
+  },
+  {
+   "n": "029/071",
+   "name": "Zapdos",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/029/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/029/high.webp",
+   "from": "English Pokémon GO 029"
+  },
+  {
+   "n": "030/071",
+   "name": "Mewtwo V",
+   "r": "RR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/high.webp",
+   "from": "English Pokémon GO 030"
+  },
+  {
+   "n": "031/071",
+   "name": "Mewtwo VSTAR",
+   "r": "RRR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/031/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/031/high.webp",
+   "from": "English Pokémon GO 031"
+  },
+  {
+   "n": "032/071",
+   "name": "Natu",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/032/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/032/high.webp",
+   "from": "English Pokémon GO 032"
+  },
+  {
+   "n": "033/071",
+   "name": "Xatu",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/033/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/033/high.webp",
+   "from": "English Pokémon GO 033"
+  },
+  {
+   "n": "034/071",
+   "name": "Lunatone",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/034/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/034/high.webp",
+   "from": "English Pokémon GO 034"
+  },
+  {
+   "n": "035/071",
+   "name": "Sylveon",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/035/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/035/high.webp",
+   "from": "English Pokémon GO 035"
+  },
+  {
+   "n": "036/071",
+   "name": "Onix",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/036/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/036/high.webp",
+   "from": "English Pokémon GO 036"
+  },
+  {
+   "n": "037/071",
+   "name": "Larvitar",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/037/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/037/high.webp",
+   "from": "English Pokémon GO 037"
+  },
+  {
+   "n": "038/071",
+   "name": "Pupitar",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/038/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/038/high.webp",
+   "from": "English Pokémon GO 038"
+  },
+  {
+   "n": "039/071",
+   "name": "Solrock",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/039/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/039/high.webp",
+   "from": "English Pokémon GO 039"
+  },
+  {
+   "n": "040/071",
+   "name": "Conkeldurr V",
+   "r": "RR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/040/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/040/high.webp",
+   "from": "English Pokémon GO 040"
+  },
+  {
+   "n": "041/071",
+   "name": "Alolan Rattata",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/041/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/041/high.webp",
+   "from": "English Pokémon GO 041"
+  },
+  {
+   "n": "042/071",
+   "name": "Alolan Raticate",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/042/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/042/high.webp",
+   "from": "English Pokémon GO 042"
+  },
+  {
+   "n": "043/071",
+   "name": "Tyranitar",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/043/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/043/high.webp",
+   "from": "English Pokémon GO 043"
+  },
+  {
+   "n": "044/071",
+   "name": "Steelix",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/044/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/044/high.webp",
+   "from": "English Pokémon GO 044"
+  },
+  {
+   "n": "045/071",
+   "name": "Meltan",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/045/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/045/high.webp",
+   "from": "English Pokémon GO 045"
+  },
+  {
+   "n": "046/071",
+   "name": "Melmetal",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/046/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/046/high.webp",
+   "from": "English Pokémon GO 046"
+  },
+  {
+   "n": "047/071",
+   "name": "Melmetal V",
+   "r": "RR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/047/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/047/high.webp",
+   "from": "English Pokémon GO 047"
+  },
+  {
+   "n": "048/071",
+   "name": "Melmetal VMAX",
+   "r": "RRR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/048/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/048/high.webp",
+   "from": "English Pokémon GO 048"
+  },
+  {
+   "n": "049/071",
+   "name": "Dragonite V",
+   "r": "RR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/049/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/049/high.webp",
+   "from": "English Pokémon GO 049"
+  },
+  {
+   "n": "050/071",
+   "name": "Dragonite VSTAR",
+   "r": "RRR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/050/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/050/high.webp",
+   "from": "English Pokémon GO 050"
+  },
+  {
+   "n": "051/071",
+   "name": "Chansey",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/051/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/051/high.webp",
+   "from": "English Pokémon GO 051"
+  },
+  {
+   "n": "052/071",
+   "name": "Blissey",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/052/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/052/high.webp",
+   "from": "English Pokémon GO 052"
+  },
+  {
+   "n": "053/071",
+   "name": "Ditto",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/053/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/053/high.webp",
+   "from": "English Pokémon GO 053"
+  },
+  {
+   "n": "054/071",
+   "name": "Eevee",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/054/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/054/high.webp",
+   "from": "English Pokémon GO 054"
+  },
+  {
+   "n": "055/071",
+   "name": "Radiant Eevee",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "056/071",
+   "name": "Snorlax",
+   "r": "R",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/055/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/055/high.webp",
+   "from": "English Pokémon GO 055"
+  },
+  {
+   "n": "057/071",
+   "name": "Aipom",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/056/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/056/high.webp",
+   "from": "English Pokémon GO 056"
+  },
+  {
+   "n": "058/071",
+   "name": "Ambipom",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/057/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/057/high.webp",
+   "from": "English Pokémon GO 057"
+  },
+  {
+   "n": "059/071",
+   "name": "Slaking",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "060/071",
+   "name": "Bidoof",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/059/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/059/high.webp",
+   "from": "English Pokémon GO 059"
+  },
+  {
+   "n": "061/071",
+   "name": "Bibarel",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/060/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/060/high.webp",
+   "from": "English Pokémon GO 060"
+  },
+  {
+   "n": "062/071",
+   "name": "Pidove",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/061/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/061/high.webp",
+   "from": "English Pokémon GO 061"
+  },
+  {
+   "n": "063/071",
+   "name": "Tranquill",
+   "r": "C",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/062/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/062/high.webp",
+   "from": "English Pokémon GO 062"
+  },
+  {
+   "n": "064/071",
+   "name": "Unfezant",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/063/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/063/high.webp",
+   "from": "English Pokémon GO 063"
+  },
+  {
+   "n": "065/071",
+   "name": "Egg Incubator",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/066/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/066/high.webp",
+   "from": "English Pokémon GO 066"
+  },
+  {
+   "n": "066/071",
+   "name": "Rare Candy",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/069/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/069/high.webp",
+   "from": "English Pokémon GO 069"
+  },
+  {
+   "n": "067/071",
+   "name": "Lure Module",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/067/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/067/high.webp",
+   "from": "English Pokémon GO 067"
+  },
+  {
+   "n": "068/071",
+   "name": "Candela",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/065/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/065/high.webp",
+   "from": "English Pokémon GO 065"
+  },
+  {
+   "n": "069/071",
+   "name": "Spark",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/070/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/070/high.webp",
+   "from": "English Pokémon GO 070"
+  },
+  {
+   "n": "070/071",
+   "name": "Blanche",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/064/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/064/high.webp",
+   "from": "English Pokémon GO 064"
+  },
+  {
+   "n": "071/071",
+   "name": "PokéStop",
+   "r": "U",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/068/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/068/high.webp",
+   "from": "English Pokémon GO 068"
+  },
+  {
+   "n": "072/071",
+   "name": "Alolan Exeggutor V",
+   "r": "SR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/071/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/071/high.webp",
+   "from": "English Pokémon GO 071"
+  },
+  {
+   "n": "073/071",
+   "name": "Mewtwo V",
+   "r": "SR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/072/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/072/high.webp",
+   "from": "English Pokémon GO 072"
+  },
+  {
+   "n": "075/071",
+   "name": "Conkeldurr V",
+   "r": "SR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/073/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/073/high.webp",
+   "from": "English Pokémon GO 073"
+  },
+  {
+   "n": "077/071",
+   "name": "Melmetal V",
+   "r": "SR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/075/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/075/high.webp",
+   "from": "English Pokémon GO 075"
+  },
+  {
+   "n": "078/071",
+   "name": "Dragonite V",
+   "r": "SR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/076/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/076/high.webp",
+   "from": "English Pokémon GO 076"
+  },
+  {
+   "n": "079/071",
+   "name": "Slaking V",
+   "r": "SR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/058/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/058/high.webp",
+   "from": "English Pokémon GO 058"
+  },
+  {
+   "n": "080/071",
+   "name": "Candela",
+   "r": "SR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/083/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/083/high.webp",
+   "from": "English Pokémon GO 083"
+  },
+  {
+   "n": "081/071",
+   "name": "Spark",
+   "r": "SR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/085/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/085/high.webp",
+   "from": "English Pokémon GO 085"
+  },
+  {
+   "n": "074/071",
+   "name": "Mewtwo V",
+   "r": "SR (SA)",
+   "v": "n"
+  },
+  {
+   "n": "076/071",
+   "name": "Conkeldurr V",
+   "r": "SR (SA)",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/074/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/074/high.webp",
+   "from": "English Pokémon GO 074"
+  },
+  {
+   "n": "082/071",
+   "name": "Professor's Research (Professor Willow)",
+   "r": "HR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/078/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/078/high.webp",
+   "from": "English Pokémon GO 078"
+  },
+  {
+   "n": "083/071",
+   "name": "Blanche",
+   "r": "HR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/082/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/082/high.webp",
+   "from": "English Pokémon GO 082"
+  },
+  {
+   "n": "084/071",
+   "name": "Mewtwo VSTAR",
+   "r": "HR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/079/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/079/high.webp",
+   "from": "English Pokémon GO 079"
+  },
+  {
+   "n": "085/071",
+   "name": "Melmetal VMAX",
+   "r": "HR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/080/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/080/high.webp",
+   "from": "English Pokémon GO 080"
+  },
+  {
+   "n": "086/071",
+   "name": "Dragonite VSTAR",
+   "r": "HR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/081/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/081/high.webp",
+   "from": "English Pokémon GO 081"
+  },
+  {
+   "n": "087/071",
+   "name": "Candela",
+   "r": "HR",
+   "v": "n"
+  },
+  {
+   "n": "088/071",
+   "name": "Spark",
+   "r": "HR",
+   "v": "n"
+  },
+  {
+   "n": "089/071",
+   "name": "Professor's Research (Professor Willow)",
+   "r": "UR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/084/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/084/high.webp",
+   "from": "English Pokémon GO 084"
+  },
+  {
+   "n": "090/071",
+   "name": "Blanche",
+   "r": "UR",
+   "v": "n"
+  },
+  {
+   "n": "091/071",
+   "name": "Mewtwo VSTAR",
+   "r": "UR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/086/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/086/high.webp",
+   "from": "English Pokémon GO 086"
+  },
+  {
+   "n": "092/071",
+   "name": "Egg Incubator",
+   "r": "UR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/087/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/087/high.webp",
+   "from": "English Pokémon GO 087"
+  },
+  {
+   "n": "093/071",
+   "name": "Lure Module",
+   "r": "UR",
+   "v": "n",
+   "ps": "https://assets.tcgdex.net/en/swsh/swsh10.5/088/low.webp",
+   "pl": "https://assets.tcgdex.net/en/swsh/swsh10.5/088/high.webp",
+   "from": "English Pokémon GO 088"
+  },
+  {
+   "n": "E1",
+   "name": "Darkness Energy",
+   "r": "Energy",
+   "v": "n"
+  },
+  {
+   "n": "E2",
+   "name": "Fighting Energy",
+   "r": "Energy",
+   "v": "n"
+  },
+  {
+   "n": "E3",
+   "name": "Fire Energy",
+   "r": "Energy",
+   "v": "n"
+  },
+  {
+   "n": "E4",
+   "name": "Grass Energy",
+   "r": "Energy",
+   "v": "n"
+  },
+  {
+   "n": "E5",
+   "name": "Lightning Energy",
+   "r": "Energy",
+   "v": "n"
+  },
+  {
+   "n": "E6",
+   "name": "Steel Energy",
+   "r": "Energy",
+   "v": "n"
+  },
+  {
+   "n": "E7",
+   "name": "Psychic Energy",
+   "r": "Energy",
+   "v": "n"
+  },
+  {
+   "n": "E8",
+   "name": "Water Energy",
+   "r": "Energy",
+   "v": "n"
+  }
+ ]
+}
