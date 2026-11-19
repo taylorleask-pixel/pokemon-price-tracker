@@ -1,0 +1,717 @@
+{
+ "id": "S10D",
+ "name": "タイムゲイザー",
+ "serie": "剣と盾",
+ "serie_id": "S",
+ "date": "2022-04-08",
+ "official": 67,
+ "abbr": "S10D",
+ "note": "Card list and pictures supplied by Taylor.",
+ "source": "Taylor's document (88 cards with pictures).",
+ "cards": [
+  {
+   "n": "001/067",
+   "name": "Yanma",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/001.webp",
+   "pl": "img/ja/S10D/001.webp"
+  },
+  {
+   "n": "002/067",
+   "name": "Yanmega",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/002.webp",
+   "pl": "img/ja/S10D/002.webp"
+  },
+  {
+   "n": "003/067",
+   "name": "Leafeon",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/003.webp",
+   "pl": "img/ja/S10D/003.webp"
+  },
+  {
+   "n": "004/067",
+   "name": "Shaymin",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/004.webp",
+   "pl": "img/ja/S10D/004.webp"
+  },
+  {
+   "n": "005/067",
+   "name": "Petilil",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/005.webp",
+   "pl": "img/ja/S10D/005.webp"
+  },
+  {
+   "n": "006/067",
+   "name": "Hisuian Lilligant",
+   "r": "R",
+   "v": "n",
+   "ps": "img/ja/S10D/006.webp",
+   "pl": "img/ja/S10D/006.webp"
+  },
+  {
+   "n": "007/067",
+   "name": "Hisuian Lilligant V",
+   "r": "RR",
+   "v": "n",
+   "ps": "img/ja/S10D/007.webp",
+   "pl": "img/ja/S10D/007.webp"
+  },
+  {
+   "n": "008/067",
+   "name": "Hisuian Lilligant VSTAR",
+   "r": "RRR",
+   "v": "n",
+   "ps": "img/ja/S10D/008.webp",
+   "pl": "img/ja/S10D/008.webp"
+  },
+  {
+   "n": "009/067",
+   "name": "Cyndaquil",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/009.webp",
+   "pl": "img/ja/S10D/009.webp"
+  },
+  {
+   "n": "010/067",
+   "name": "Quilava",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/010.webp",
+   "pl": "img/ja/S10D/010.webp"
+  },
+  {
+   "n": "011/067",
+   "name": "Poliwag",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/011.webp",
+   "pl": "img/ja/S10D/011.webp"
+  },
+  {
+   "n": "012/067",
+   "name": "Poliwhirl",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/012.webp",
+   "pl": "img/ja/S10D/012.webp"
+  },
+  {
+   "n": "013/067",
+   "name": "Politoed",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/013.webp",
+   "pl": "img/ja/S10D/013.webp"
+  },
+  {
+   "n": "014/067",
+   "name": "Mantine",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/014.webp",
+   "pl": "img/ja/S10D/014.webp"
+  },
+  {
+   "n": "015/067",
+   "name": "Oshawott",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/015.webp",
+   "pl": "img/ja/S10D/015.webp"
+  },
+  {
+   "n": "016/067",
+   "name": "Dewott",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/016.webp",
+   "pl": "img/ja/S10D/016.webp"
+  },
+  {
+   "n": "017/067",
+   "name": "Ducklett",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/017.webp",
+   "pl": "img/ja/S10D/017.webp"
+  },
+  {
+   "n": "018/067",
+   "name": "Swanna",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/018.webp",
+   "pl": "img/ja/S10D/018.webp"
+  },
+  {
+   "n": "019/067",
+   "name": "Electrike",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/019.webp",
+   "pl": "img/ja/S10D/019.webp"
+  },
+  {
+   "n": "020/067",
+   "name": "Manectric",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/020.webp",
+   "pl": "img/ja/S10D/020.webp"
+  },
+  {
+   "n": "021/067",
+   "name": "Luxray",
+   "r": "RR",
+   "v": "n",
+   "ps": "img/ja/S10D/021.webp",
+   "pl": "img/ja/S10D/021.webp"
+  },
+  {
+   "n": "022/067",
+   "name": "Regieleki",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/022.webp",
+   "pl": "img/ja/S10D/022.webp"
+  },
+  {
+   "n": "023/067",
+   "name": "Hisuian Typhlosion",
+   "r": "R",
+   "v": "n",
+   "ps": "img/ja/S10D/023.webp",
+   "pl": "img/ja/S10D/023.webp"
+  },
+  {
+   "n": "024/067",
+   "name": "Mawile",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/024.webp",
+   "pl": "img/ja/S10D/024.webp"
+  },
+  {
+   "n": "025/067",
+   "name": "Jirachi",
+   "r": "RR",
+   "v": "n",
+   "ps": "img/ja/S10D/025.webp",
+   "pl": "img/ja/S10D/025.webp"
+  },
+  {
+   "n": "026/067",
+   "name": "Drifloon",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/026.webp",
+   "pl": "img/ja/S10D/026.webp"
+  },
+  {
+   "n": "027/067",
+   "name": "Drifblim",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/027.webp",
+   "pl": "img/ja/S10D/027.webp"
+  },
+  {
+   "n": "028/067",
+   "name": "Cresselia",
+   "r": "R",
+   "v": "n",
+   "ps": "img/ja/S10D/028.webp",
+   "pl": "img/ja/S10D/028.webp"
+  },
+  {
+   "n": "029/067",
+   "name": "Hisuian Growlithe",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/029.webp",
+   "pl": "img/ja/S10D/029.webp"
+  },
+  {
+   "n": "030/067",
+   "name": "Hisuian Arcanine",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/030.webp",
+   "pl": "img/ja/S10D/030.webp"
+  },
+  {
+   "n": "031/067",
+   "name": "Poliwrath",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/031.webp",
+   "pl": "img/ja/S10D/031.webp"
+  },
+  {
+   "n": "032/067",
+   "name": "Machamp V",
+   "r": "RR",
+   "v": "n",
+   "ps": "img/ja/S10D/032.webp",
+   "pl": "img/ja/S10D/032.webp"
+  },
+  {
+   "n": "033/067",
+   "name": "Machamp VMAX",
+   "r": "RRR",
+   "v": "n",
+   "ps": "img/ja/S10D/033.webp",
+   "pl": "img/ja/S10D/033.webp"
+  },
+  {
+   "n": "034/067",
+   "name": "Sudowoodo",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/034.webp",
+   "pl": "img/ja/S10D/034.webp"
+  },
+  {
+   "n": "035/067",
+   "name": "Cranidos",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/035.webp",
+   "pl": "img/ja/S10D/035.webp"
+  },
+  {
+   "n": "036/067",
+   "name": "Rampardos",
+   "r": "R",
+   "v": "n",
+   "ps": "img/ja/S10D/036.webp",
+   "pl": "img/ja/S10D/036.webp"
+  },
+  {
+   "n": "037/067",
+   "name": "Mienfoo",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/037.webp",
+   "pl": "img/ja/S10D/037.webp"
+  },
+  {
+   "n": "038/067",
+   "name": "Mienshao",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/038.webp",
+   "pl": "img/ja/S10D/038.webp"
+  },
+  {
+   "n": "039/067",
+   "name": "Spinarak",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/039.webp",
+   "pl": "img/ja/S10D/039.webp"
+  },
+  {
+   "n": "040/067",
+   "name": "Ariados",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/040.webp",
+   "pl": "img/ja/S10D/040.webp"
+  },
+  {
+   "n": "041/067",
+   "name": "Hisuian Samurott",
+   "r": "R",
+   "v": "n",
+   "ps": "img/ja/S10D/041.webp",
+   "pl": "img/ja/S10D/041.webp"
+  },
+  {
+   "n": "042/067",
+   "name": "Nickit",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/042.webp",
+   "pl": "img/ja/S10D/042.webp"
+  },
+  {
+   "n": "043/067",
+   "name": "Thievul",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/043.webp",
+   "pl": "img/ja/S10D/043.webp"
+  },
+  {
+   "n": "044/067",
+   "name": "Magnemite",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/044.webp",
+   "pl": "img/ja/S10D/044.webp"
+  },
+  {
+   "n": "045/067",
+   "name": "Magneton",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/045.webp",
+   "pl": "img/ja/S10D/045.webp"
+  },
+  {
+   "n": "046/067",
+   "name": "Magnezone",
+   "r": "R",
+   "v": "n",
+   "ps": "img/ja/S10D/046.webp",
+   "pl": "img/ja/S10D/046.webp"
+  },
+  {
+   "n": "047/067",
+   "name": "Registeel",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/047.webp",
+   "pl": "img/ja/S10D/047.webp"
+  },
+  {
+   "n": "048/067",
+   "name": "Origin Dialga V",
+   "r": "RR",
+   "v": "n",
+   "ps": "img/ja/S10D/048.webp",
+   "pl": "img/ja/S10D/048.webp"
+  },
+  {
+   "n": "049/067",
+   "name": "Origin Dialga VSTAR",
+   "r": "RRR",
+   "v": "n",
+   "ps": "img/ja/S10D/049.webp",
+   "pl": "img/ja/S10D/049.webp"
+  },
+  {
+   "n": "050/067",
+   "name": "Pawniard",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/050.webp",
+   "pl": "img/ja/S10D/050.webp"
+  },
+  {
+   "n": "051/067",
+   "name": "Bisharp",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/051.webp",
+   "pl": "img/ja/S10D/051.webp"
+  },
+  {
+   "n": "052/067",
+   "name": "Eevee",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/052.webp",
+   "pl": "img/ja/S10D/052.webp"
+  },
+  {
+   "n": "053/067",
+   "name": "Chatot",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/053.webp",
+   "pl": "img/ja/S10D/053.webp"
+  },
+  {
+   "n": "054/067",
+   "name": "Regigas",
+   "r": "R",
+   "v": "n",
+   "ps": "img/ja/S10D/054.webp",
+   "pl": "img/ja/S10D/054.webp"
+  },
+  {
+   "n": "055/067",
+   "name": "Rufflet",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/055.webp",
+   "pl": "img/ja/S10D/055.webp"
+  },
+  {
+   "n": "056/067",
+   "name": "Hisuian Braviary",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/056.webp",
+   "pl": "img/ja/S10D/056.webp"
+  },
+  {
+   "n": "057/067",
+   "name": "Skwovet",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/057.webp",
+   "pl": "img/ja/S10D/057.webp"
+  },
+  {
+   "n": "058/067",
+   "name": "Greedent",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/058.webp",
+   "pl": "img/ja/S10D/058.webp"
+  },
+  {
+   "n": "059/067",
+   "name": "Wyrdeer",
+   "r": "RR",
+   "v": "n",
+   "ps": "img/ja/S10D/059.webp",
+   "pl": "img/ja/S10D/059.webp"
+  },
+  {
+   "n": "060/067",
+   "name": "Switch Cart",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/060.webp",
+   "pl": "img/ja/S10D/060.webp"
+  },
+  {
+   "n": "061/067",
+   "name": "Trekking Shoes",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/061.webp",
+   "pl": "img/ja/S10D/061.webp"
+  },
+  {
+   "n": "062/067",
+   "name": "Mysterious Fossil",
+   "r": "C",
+   "v": "n",
+   "ps": "img/ja/S10D/062.webp",
+   "pl": "img/ja/S10D/062.webp"
+  },
+  {
+   "n": "063/067",
+   "name": "Feather Ball",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/063.webp",
+   "pl": "img/ja/S10D/063.webp"
+  },
+  {
+   "n": "064/067",
+   "name": "Adaman",
+   "r": "R",
+   "v": "n",
+   "ps": "img/ja/S10D/064.webp",
+   "pl": "img/ja/S10D/064.webp"
+  },
+  {
+   "n": "065/067",
+   "name": "Gardenia's Vigor",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/065.webp",
+   "pl": "img/ja/S10D/065.webp"
+  },
+  {
+   "n": "066/067",
+   "name": "Zisu",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/066.webp",
+   "pl": "img/ja/S10D/066.webp"
+  },
+  {
+   "n": "067/067",
+   "name": "Gapejaw Bog",
+   "r": "U",
+   "v": "n",
+   "ps": "img/ja/S10D/067.webp",
+   "pl": "img/ja/S10D/067.webp"
+  },
+  {
+   "n": "068/067",
+   "name": "Hisuian Lilligant",
+   "r": "SR",
+   "v": "n",
+   "ps": "img/ja/S10D/068.webp",
+   "pl": "img/ja/S10D/068.webp"
+  },
+  {
+   "n": "069/067",
+   "name": "Hisuian Lilligant V",
+   "r": "SAR",
+   "v": "n",
+   "ps": "img/ja/S10D/069.webp",
+   "pl": "img/ja/S10D/069.webp"
+  },
+  {
+   "n": "070/067",
+   "name": "Luxray",
+   "r": "SR",
+   "v": "n",
+   "ps": "img/ja/S10D/070.webp",
+   "pl": "img/ja/S10D/070.webp"
+  },
+  {
+   "n": "071/067",
+   "name": "Jirachi V",
+   "r": "SR",
+   "v": "n",
+   "ps": "img/ja/S10D/071.webp",
+   "pl": "img/ja/S10D/071.webp"
+  },
+  {
+   "n": "072/067",
+   "name": "Machamp V",
+   "r": "SR",
+   "v": "n",
+   "ps": "img/ja/S10D/072.webp",
+   "pl": "img/ja/S10D/072.webp"
+  },
+  {
+   "n": "073/067",
+   "name": "Machamp V",
+   "r": "SAR",
+   "v": "n",
+   "ps": "img/ja/S10D/073.webp",
+   "pl": "img/ja/S10D/073.webp"
+  },
+  {
+   "n": "074/067",
+   "name": "Origin Dialga V",
+   "r": "SR",
+   "v": "n",
+   "ps": "img/ja/S10D/074.webp",
+   "pl": "img/ja/S10D/074.webp"
+  },
+  {
+   "n": "075/067",
+   "name": "Origin Dialga V",
+   "r": "SAR",
+   "v": "n",
+   "ps": "img/ja/S10D/075.webp",
+   "pl": "img/ja/S10D/075.webp"
+  },
+  {
+   "n": "076/067",
+   "name": "Wyrdeer V",
+   "r": "SR",
+   "v": "n",
+   "ps": "img/ja/S10D/076.webp",
+   "pl": "img/ja/S10D/076.webp"
+  },
+  {
+   "n": "077/067",
+   "name": "Adaman",
+   "r": "SR",
+   "v": "n",
+   "ps": "img/ja/S10D/077.webp",
+   "pl": "img/ja/S10D/077.webp"
+  },
+  {
+   "n": "078/067",
+   "name": "Gardenia's Vigor",
+   "r": "SR",
+   "v": "n",
+   "ps": "img/ja/S10D/078.webp",
+   "pl": "img/ja/S10D/078.webp"
+  },
+  {
+   "n": "079/067",
+   "name": "Zisu",
+   "r": "HR",
+   "v": "n",
+   "ps": "img/ja/S10D/079.webp",
+   "pl": "img/ja/S10D/079.webp"
+  },
+  {
+   "n": "080/067",
+   "name": "Hisuian Lilligant VSTAR",
+   "r": "HR",
+   "v": "n",
+   "ps": "img/ja/S10D/080.webp",
+   "pl": "img/ja/S10D/080.webp"
+  },
+  {
+   "n": "081/067",
+   "name": "Machamp VMAX",
+   "r": "HR",
+   "v": "n",
+   "ps": "img/ja/S10D/081.webp",
+   "pl": "img/ja/S10D/081.webp"
+  },
+  {
+   "n": "082/067",
+   "name": "Origin Dialga VSTAR",
+   "r": "HR",
+   "v": "n",
+   "ps": "img/ja/S10D/082.webp",
+   "pl": "img/ja/S10D/082.webp"
+  },
+  {
+   "n": "083/067",
+   "name": "Adaman",
+   "r": "HR",
+   "v": "n",
+   "ps": "img/ja/S10D/083.webp",
+   "pl": "img/ja/S10D/083.webp"
+  },
+  {
+   "n": "084/067",
+   "name": "Gardenia's Vigor",
+   "r": "HR",
+   "v": "n",
+   "ps": "img/ja/S10D/084.webp",
+   "pl": "img/ja/S10D/084.webp"
+  },
+  {
+   "n": "085/067",
+   "name": "Zisu",
+   "r": "HR",
+   "v": "n",
+   "ps": "img/ja/S10D/085.webp",
+   "pl": "img/ja/S10D/085.webp"
+  },
+  {
+   "n": "086/067",
+   "name": "Origin Dialga VSTAR",
+   "r": "UR",
+   "v": "n",
+   "ps": "img/ja/S10D/086.webp",
+   "pl": "img/ja/S10D/086.webp"
+  },
+  {
+   "n": "087/067",
+   "name": "Trekking Shoes",
+   "r": "UR",
+   "v": "n",
+   "ps": "img/ja/S10D/087.webp",
+   "pl": "img/ja/S10D/087.webp"
+  },
+  {
+   "n": "088/067",
+   "name": "Path to the Peak",
+   "r": "UR",
+   "v": "n",
+   "ps": "img/ja/S10D/088.webp",
+   "pl": "img/ja/S10D/088.webp"
+  }
+ ]
+}
