@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18T21:44+10:00",
+ "updated": "2026-11-19T12:35+10:00",
  "stores": {
   "misty": {
-   "ok": false,
-   "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://mistyscollectables.com.au/sealed?game=pokemon&page=1",
-   "carried_over": 968
+   "ok": true,
+   "found": 991,
+   "kept": 968
   },
   "evo": {
    "ok": true,
@@ -13,7 +13,7 @@
   },
   "eden": {
    "ok": true,
-   "found": 70,
+   "found": 73,
    "kept": 41
   },
   "sidequest": {

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-18T21:44+10:00",
+"updated": "2026-11-19T12:35+10:00",
 "singles": [
 {
 "store": "eden",
@@ -23,6 +23,16 @@
 },
 {
 "store": "eden",
+"title": "Pokemon - 347/190 Mew Shiny Treasure EX Japanese",
+"price": 540.0,
+"available": true,
+"url": "https://www.edenhunter.com.au/product/pokemon-347-190-mew-shiny-treasure-ex-japanese/7ZUS2XCRO7LNGCRCRPV6JE3Z",
+"image": null,
+"set": null,
+"year": null
+},
+{
+"store": "eden",
 "title": "Pokemon - Greninja EX 30th Anniversary Korean 015/103",
 "price": 24.0,
 "available": true,
@@ -33,6 +43,16 @@
 },
 {
 "store": "eden",
+"title": "Pokemon - 025/025 Mew Celebrations",
+"price": 95.0,
+"available": true,
+"url": "https://www.edenhunter.com.au/product/pokemon-025-025-mew-celebrations/JJJZNED4UH74LBTUEECYIDGW",
+"image": null,
+"set": "Celebrations",
+"year": 2021
+},
+{
+"store": "eden",
 "title": "082/088 Pokémon Catcher Reverse Holo Perfect Order",
 "price": 2.0,
 "available": true,
@@ -40,6 +60,16 @@
 "image": null,
 "set": "Perfect Order",
 "year": 2026
+},
+{
+"store": "eden",
+"title": "Pokemon - 112/080 Mega Clefable Nihil Zero Japanese",
+"price": 35.0,
+"available": true,
+"url": "https://www.edenhunter.com.au/product/pokemon-112-080-mega-clefable-nihil-zero-japanese/PN6MDKSQC6LES6F5F6CDQBJQ",
+"image": null,
+"set": null,
+"year": null
 },
 {
 "store": "eden",

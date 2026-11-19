@@ -1,6 +1,87 @@
 {
-"updated": "2026-11-18T21:44+10:00",
+"updated": "2026-11-19T12:35+10:00",
 "events": [
+{
+"time": "2026-11-19T12:35+10:00",
+"store": "misty",
+"key": "box|Chilling Reign",
+"title": "Chilling Reign Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 758.2,
+"new": 757.87
+},
+{
+"time": "2026-11-19T12:35+10:00",
+"store": "misty",
+"key": "box|Scarlet & Violet",
+"title": "Scarlet & Violet Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 488.92,
+"new": 488.83
+},
+{
+"time": "2026-11-19T12:35+10:00",
+"store": "misty",
+"key": "box|Temporal Forces",
+"title": "Temporal Forces Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 536.29,
+"new": 535.8
+},
+{
+"time": "2026-11-19T12:35+10:00",
+"store": "misty",
+"key": "other|crimson invasion sleeved booster pack art bundle set of 4",
+"title": "Crimson Invasion Sleeved Booster Pack Art Bundle (Set of 4)",
+"url": "https://mistyscollectables.com.au/sealed/product/crimson-invasion-sleeved-booster-pack-art-bundle-set-of-4",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 149.95
+},
+{
+"time": "2026-11-19T12:35+10:00",
+"store": "misty",
+"key": "other|team up sleeved booster pack art bundle set of 4",
+"title": "Team Up Sleeved Booster Pack Art Bundle (Set of 4)",
+"url": "https://mistyscollectables.com.au/sealed/product/team-up-sleeved-booster-pack-art-bundle-set-of-4",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 2100.0
+},
+{
+"time": "2026-11-19T12:35+10:00",
+"store": "eden",
+"key": "JP|other|pokemon - rayquaza xy promo japanese",
+"title": "Pokemon - Rayquaza XY Promo Japanese",
+"url": "https://www.edenhunter.com.au/product/pokemon-rayquaza-xy-promo-japanese/GHHUL2PP4SYTXIUGBB7GHNXC",
+"category": "other",
+"lang": "JP",
+"type": "new",
+"new": 550.0,
+"available": true
+},
+{
+"time": "2026-11-19T12:35+10:00",
+"store": "eden",
+"key": "KOR|pack|pokemon - emeralda korean booster single",
+"title": "Pokemon - Emeralda Korean Booster Single",
+"url": "https://www.edenhunter.com.au/product/pokemon-emeralda-korean-booster-single/XWOVSC4OYHJHHBFNETUENUY2",
+"category": "pack",
+"lang": "KOR",
+"type": "removed",
+"old": 7.0
+},
 {
 "time": "2026-11-18T21:44+10:00",
 "store": "raptor",
