@@ -1,0 +1,19 @@
+{
+ "id": "pkw25",
+ "name": "Pokéween 2025",
+ "serie": "Trick or Trade & Pokéween",
+ "serie_id": "halloween",
+ "date": "2025-10-01",
+ "official": 1,
+ "abbr": "PKW25",
+ "note": "Promo from Pokéween events at Play! Pokémon stores. Picture shows the original card without the stamp.",
+ "source": "cardlines.com",
+ "cards": [
+  {
+   "n": "087/132",
+   "name": "Spiritomb",
+   "v": "n",
+   "r": "Promo"
+  }
+ ]
+}

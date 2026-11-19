@@ -27,8 +27,10 @@ const store = {
 
 const S = { lang: store.get("pi-lang", "en"), q: "", show: "all", newest: true, type: null, own: "all", list: [] };
 const D = { sets: {}, setFiles: {} };
-let C = store.get("pi-col", { v: 1, cards: {} });        // last known collection (with my unsynced changes applied)
-let queue = store.get("pi-queue", []);                    // changes not yet saved to GitHub: [{k, v}]
+// collection: cards = what you have ("nr" = normal + reverse), had = cards you traded or sold, log = every change
+let C = norm(store.get("pi-col", null));                  // last known collection (with my unsynced changes applied)
+let queue = store.get("pi-queue", []);                    // changes not yet saved to GitHub: [{k, v}] [{h, val}] [{log}]
+function norm(c) { return { v: 1, cards: { ...(c?.cards || {}) }, had: { ...(c?.had || {}) }, log: [...(c?.log || [])] }; }
 
 async function load(path) {
   try { const r = await fetch(`${path}${path.includes("?") ? "&" : "?"}v=${Date.now()}`); return r.ok ? r.json() : null; } catch { return null; }
@@ -38,16 +40,44 @@ const fmtDate = (d) => d ? new Date(d + "T00:00:00").toLocaleDateString("en-AU",
 
 // ---------------------------------------------------------------- collection + sync
 const token = () => store.get("pi-token", "");
+function applyOp(out, op) {
+  if (op.log) { if (!out.log.some((e) => e.t === op.log.t && e.k === op.log.k)) out.log.push(op.log); if (out.log.length > 5000) out.log = out.log.slice(-5000); }
+  else if (op.h) { if (op.val) out.had[op.h] = op.val; else delete out.had[op.h]; }
+  else if (op.k) { if (op.v) out.cards[op.k] = op.v; else delete out.cards[op.k]; }
+}
 function applyQueue(base) {
-  const out = { v: 1, cards: { ...(base?.cards || {}) } };
-  for (const { k, v } of queue) { if (v) out.cards[k] = v; else delete out.cards[k]; }
+  const out = norm(base);
+  for (const op of queue) applyOp(out, op);
   return out;
 }
-function setOwned(k, v) {
-  queue.push({ k, v });
-  if (v) C.cards[k] = v; else delete C.cards[k];
+function push(...ops) {
+  for (const op of ops) { queue.push(op); applyOp(C, op); }
   store.set("pi-queue", queue); store.set("pi-col", C);
   scheduleSync();
+}
+const today = () => new Date().toLocaleDateString("en-CA");          // YYYY-MM-DD in your time zone
+// card = {name, n, set} for the Changes list; without it (restoring a backup) nothing is logged
+function setOwned(k, v, card, action) {
+  const prev = C.cards[k] || "";
+  if (prev === v) return;
+  const ops = [{ k, v }];
+  if (v && C.had[k]) ops.push({ h: k, val: null });                   // got a traded/sold card back
+  if (card) {
+    const a = action || (!prev ? (C.had[k] ? "back" : "added") : !v ? "removed" : "versions");
+    const last = C.log[C.log.length - 1];
+    if (last && last.k === k && ["added", "back", "removed", "versions"].includes(last.a) && Date.now() - Date.parse(last.t) < 20000 && queue.some((o) => o.log === last)) {
+      // quick undo or re-tap: fold into the last change instead of logging twice
+      const start = last.from ?? "";
+      queue.splice(queue.findIndex((o) => o.log === last), 1); C.log.pop();
+      if (start !== v) ops.push({ log: { ...last, t: new Date().toISOString(), a: !start ? (last.a === "back" ? "back" : "added") : !v ? "removed" : "versions", v, from: start } });
+    } else ops.push({ log: { t: new Date().toISOString(), k, a, v, from: prev, name: card.name, n: card.n, set: card.set } });
+  }
+  push(...ops);
+}
+function setHad(k, card, how, note) {   // traded or sold: no longer in the binder, shown as "Had"
+  const v = C.cards[k] || "n";
+  push({ k, v: "" }, { h: k, val: { v, how, d: today(), note: note || "" } },
+    { log: { t: new Date().toISOString(), k, a: how, v: "", from: v, name: card.name, n: card.n, set: card.set, note: note || "" } });
 }
 const b64e = (s) => btoa(unescape(encodeURIComponent(s)));
 const b64d = (s) => decodeURIComponent(escape(atob(s.replace(/\n/g, ""))));
@@ -61,13 +91,13 @@ async function gh(method, body) {
 async function readRemote() {
   if (token()) {
     const r = await gh("GET");
-    if (r.status === 404) return { data: { v: 1, cards: {} }, sha: null };
+    if (r.status === 404) return { data: norm(null), sha: null };
     if (r.status === 401 || r.status === 403) throw Object.assign(new Error("key"), { auth: true });
     if (!r.ok) throw new Error(`GitHub said ${r.status}`);
     const j = await r.json();
     return { data: JSON.parse(b64d(j.content)), sha: j.sha };
   }
-  return { data: (await load("data/collection.json")) || { v: 1, cards: {} }, sha: null };
+  return { data: norm(await load("data/collection.json")), sha: null };
 }
 let syncTimer = null, syncing = false;
 function scheduleSync(ms = 1800) {
@@ -84,7 +114,7 @@ async function sync() {
     for (let attempt = 0; attempt < 4; attempt++) {
       const { data, sha } = await readRemote();
       const sent = queue.length;
-      if (!sent) { C = data; store.set("pi-col", C); break; }
+      if (!sent) { C = norm(data); store.set("pi-col", C); break; }
       const merged = applyQueue(data);
       merged.updated = new Date().toISOString();
       const r = await gh("PUT", { message: `PokeInfo: collection (${sent} change${sent === 1 ? "" : "s"})`,
@@ -136,6 +166,7 @@ function parseHash() {
   const [lang, kind, ...rest] = decodeURIComponent(location.hash.slice(1)).split("/");
   if (LANGS.some((l) => l.id === lang)) S.lang = lang;
   store.set("pi-lang", S.lang);
+  if (lang === "changes") return { view: "changes" };
   return kind === "set" ? { view: "set", id: rest.join("/") } : { view: "home" };
 }
 function go(hash) { location.hash = hash; }
@@ -146,6 +177,8 @@ async function render() {
     $("#view").innerHTML = `<p class="loading">Loading ${esc(LANGS.find((l) => l.id === S.lang).name)} sets…</p>`;
     D.sets[S.lang] = (await load(`data/${S.lang}/sets.json`)) || { sets: [], missing: true };
   }
+  $("#changesbtn").setAttribute("aria-pressed", r.view === "changes");
+  if (r.view === "changes") return renderChanges();
   if (r.view === "set") return renderSet(r.id);
   renderHome();
 }
@@ -206,7 +239,8 @@ function renderHome() {
 }
 
 // ---------------------------------------------------------------- one set: the binder
-const pic = (c, size = "low") => c.img ? `${c.img}/${size}.webp` : null;
+const pic = (c, size = "low") => c.img ? `${c.img}/${size}.webp` : c.ps ? (size === "low" ? c.ps : c.pl || c.ps) : null;
+const HOW = { traded: "Traded", sold: "Sold" };
 function defaultVersion(c) { return ["n", "h", "f", "r"].find((v) => (c.v || "").includes(v)) || "n"; }
 function versions(c) { return (c.v || "n").split("").sort((a, b) => "nhfr".indexOf(a) - "nhfr".indexOf(b)); }
 
@@ -222,6 +256,9 @@ async function renderSet(id) {
   if (S.setId !== id) { S.setId = id; S.type = null; S.own = "all"; }
   const cards = set.cards;
   const k = (c) => key(S.lang, id, c.id);
+  const info = (c) => ({ name: c.name, n: c.n, set: `${set.name || meta.name}${S.lang === "en" ? "" : ` (${LANGS.find((l) => l.id === S.lang).label})`}`, href: `${S.lang}/set/${id}` });
+  S.info = info;
+  const hadN = cards.filter((c) => !C.cards[k(c)] && C.had[k(c)]).length;
   const have = cards.filter((c) => C.cards[k(c)]).length;
   const varTotal = cards.reduce((a, c) => a + versions(c).length, 0);
   const varHave = cards.reduce((a, c) => a + (C.cards[k(c)] || "").length, 0);
@@ -244,14 +281,15 @@ async function renderSet(id) {
       ${varTotal > cards.length ? `<div><div class="lbl">Master set (every version, e.g. reverse holos)</div><div class="num">${varHave}<small> / ${varTotal}</small></div>
         <div class="bar${varHave === varTotal ? " done" : ""}"><i style="width:${(varHave / varTotal) * 100}%"></i></div></div>` : ""}
     </div>
-    <p class="note" style="margin-top:-4px">${cards.length} cards${esc(official)}${rev ? `. ${rev} also come as a reverse holo` : ""}.</p>
+    <p class="note" style="margin-top:-4px">${cards.length} cards${esc(official)}${rev ? `. ${rev} also come as a reverse holo` : ""}.${hadN ? ` You've traded or sold ${hadN}.` : ""}</p>
+    ${set.note ? `<p class="note">${esc(set.note)}</p>` : ""}
     ${showTypes ? `<ul class="types" aria-label="Filter by type">
       <li><button type="button" data-type="" aria-pressed="${!S.type}">All</button></li>
       ${typeList.map(([t, o]) => `<li><button type="button" data-type="${esc(t)}" aria-pressed="${S.type === t}"><b>${o.n}</b> ${esc(t)}${o.have ? ` · ${o.have} ✓` : ""}</button></li>`).join("")}
       ${rev ? `<li><button type="button" data-type="__rev" aria-pressed="${S.type === "__rev"}"><b>${rev}</b> Reverse holo</button></li>` : ""}
     </ul>` : ""}
     <div class="tools">
-      <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["have", "Have"], ["need", "Need"]].map(([v, l]) =>
+      <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["have", "Have"], ["need", "Need"], ...(hadN ? [["had", "Had"]] : [])].map(([v, l]) =>
         `<button type="button" data-own="${v}" aria-pressed="${S.own === v}">${l}</button>`).join("")}</div>
       <span class="note">Tap a card to tick it. Tap <b>i</b> for its versions (normal, reverse holo…).</span>
     </div>
@@ -259,8 +297,8 @@ async function renderSet(id) {
 
   const draw = () => {
     S.list = cards.filter((c) => (!S.type || (S.type === "__rev" ? (c.v || "").includes("r") : (c.r || "Unknown rarity") === S.type)) &&
-      (S.own === "all" || (S.own === "have") === !!C.cards[k(c)]));
-    $("#grid").innerHTML = S.list.map((c, i) => cardTile(c, C.cards[k(c)], i)).join("") || `<p class="none">No cards here.</p>`;
+      (S.own === "all" || (S.own === "had" ? !C.cards[k(c)] && !!C.had[k(c)] : (S.own === "have") === !!C.cards[k(c)])));
+    $("#grid").innerHTML = S.list.map((c, i) => cardTile(c, C.cards[k(c)], i, C.had[k(c)])).join("") || `<p class="none">No cards here.</p>`;
   };
   $("#back").onclick = () => go(S.lang);
   document.querySelectorAll("[data-type]").forEach((b) => b.addEventListener("click", () => { S.type = b.dataset.type || null; renderSet(id); }));
@@ -269,19 +307,25 @@ async function renderSet(id) {
     const tile = e.target.closest(".card"); if (!tile) return;
     const c = S.list[+tile.dataset.i];
     if (e.target.closest(".info")) return openCard(id, +tile.dataset.i);
-    const kk = k(c), before = C.cards[kk] || "";
-    setOwned(kk, before ? "" : defaultVersion(c));
-    tile.outerHTML = cardTile(c, C.cards[kk], +tile.dataset.i);
-    toast(before ? `Removed ${c.name}` : `Ticked ${c.name}`, () => { setOwned(kk, before); renderSet(id); });
+    const kk = k(c), before = C.cards[kk] || "", hadBefore = C.had[kk];
+    setOwned(kk, before ? "" : (hadBefore?.v || defaultVersion(c)), info(c));
+    tile.outerHTML = cardTile(c, C.cards[kk], +tile.dataset.i, C.had[kk]);
+    toast(before ? `Removed ${c.name}` : hadBefore ? `Got ${c.name} back` : `Ticked ${c.name}`, () => {
+      setOwned(kk, before, info(c));
+      if (hadBefore && !before) push({ h: kk, val: hadBefore });
+      renderSet(id);
+    });
     refreshProgress(id);
   });
   draw();
 }
-function cardTile(c, owned, i) {
+function cardTile(c, owned, i, had) {
   const vs = versions(c);
-  return `<button type="button" class="card ${owned ? "have" : "need"}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}`)}${owned ? ", have it" : ""}">
+  had = !owned && had;
+  return `<button type="button" class="card ${owned ? "have" : had ? "had" : "need"}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}`)}${owned ? ", have it" : had ? `, ${HOW[had.how].toLowerCase()}` : ""}">
     <span class="pic">${pic(c) ? `<img src="${esc(pic(c))}" alt="" loading="lazy" data-ph="${esc(c.name)}" onerror="imgFail(this)">` : `<span class="ph">${esc(c.name)}</span>`}
       ${owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}
+      ${had ? `<span class="hadtag">Had · ${HOW[had.how]}</span>` : ""}
       ${vs.length > 1 && owned ? `<span class="vers">${vs.map((v) => `<i class="${owned.includes(v) ? "on" : ""}">${VSHORT[v]}</i>`).join("")}</span>` : ""}
       <span class="info" role="button" aria-label="Versions and details">i</span></span>
     <span class="cap"><span>${esc(c.name)}</span><span>${esc(c.n)}</span></span></button>`;
@@ -305,21 +349,30 @@ function refreshProgress(id) {
 // ---------------------------------------------------------------- card sheet: versions + details
 function openCard(setId, i) {
   const dlg = $("#cardsheet"), c = S.list[i]; if (!c) return;
-  const kk = key(S.lang, setId, c.id), owned = C.cards[kk] || "";
+  const kk = key(S.lang, setId, c.id), owned = C.cards[kk] || "", had = !owned && C.had[kk];
   const meta = D.sets[S.lang].sets.find((s) => s.id === setId);
+  const info = S.info(c);
   dlg.innerHTML = `<div class="sheet">
     <div class="sheet-head"><h2 id="cs-name">${esc(c.name)}</h2><button type="button" class="x" id="csx" aria-label="Close">×</button></div>
     <div class="cardview">
       <div class="pic">${pic(c, "high") ? `<img src="${esc(pic(c, "high"))}" alt="${esc(c.name)}" data-ph="No picture for this card" onerror="imgFail(this)">` : `<div class="ph">No picture for this card</div>`}</div>
       <div>
         <dl class="facts">
-          <div><dt>Number</dt><dd>${esc(c.n)}${meta?.official ? ` / ${meta.official}` : ""}</dd></div>
+          <div><dt>Number</dt><dd>${esc(c.n)}${meta?.official && !String(c.n).includes("/") ? ` / ${meta.official}` : ""}</dd></div>
           ${c.r ? `<div><dt>Rarity</dt><dd>${esc(c.r)}</dd></div>` : ""}
           ${c.cat ? `<div><dt>Type</dt><dd>${esc(c.cat)}</dd></div>` : ""}
+          ${c.from ? `<div><dt>Original card</dt><dd>${esc(c.from)}</dd></div>` : ""}
           ${c.usd ? `<div><dt>Market (TCGplayer)</dt><dd>US$${c.usd.toFixed(2)}</dd></div>` : ""}
         </dl>
+        ${had ? `<p class="hadnote"><b>${HOW[had.how]}</b> on ${esc(fmtDate(had.d))}${had.note ? `: ${esc(had.note)}` : ""}. Tap a version below if you get it back.</p>` : ""}
         <div class="vbtns" role="group" aria-label="Versions you have">${versions(c).map((v) =>
           `<button type="button" class="vbtn" data-v="${v}" aria-pressed="${owned.includes(v)}">${VNAME[v]}<span>${owned.includes(v) ? "Have it" : "Tap if you have it"}</span></button>`).join("")}</div>
+        ${owned ? `<div class="gone"><p class="note">Traded it away or sold it? It stays in the binder as "Had".</p>
+          <div class="row"><button type="button" class="btn ghost" data-how="traded">I traded it</button><button type="button" class="btn ghost" data-how="sold">I sold it</button></div>
+          <form class="goneform" id="goneform" hidden>
+            <label class="fld" id="gonelbl">Note<input id="gonenote" autocomplete="off"></label>
+            <div class="row"><button type="submit" class="btn">Save</button><button type="button" class="btn ghost" id="gonecancel">Cancel</button></div>
+          </form></div>` : ""}
       </div>
     </div>
     <div class="nav2"><button type="button" class="btn ghost" id="csprev" ${i ? "" : "disabled"}>← Previous</button>
@@ -330,13 +383,62 @@ function openCard(setId, i) {
   dlg.querySelectorAll(".vbtn").forEach((b) => b.addEventListener("click", () => {
     const cur = C.cards[kk] || "", v = b.dataset.v;
     const next = cur.includes(v) ? cur.replace(v, "") : versions(c).filter((x) => cur.includes(x) || x === v).join("");
-    setOwned(kk, next);
-    openCard(setId, i);
-    const tile = document.querySelector(`.card[data-i="${i}"]`);
-    if (tile) tile.outerHTML = cardTile(c, C.cards[kk], i);
-    refreshProgress(setId);
+    setOwned(kk, next, info);
+    redrawCard(setId, c, kk, i);
   }));
+  let how = null;
+  dlg.querySelectorAll("[data-how]").forEach((b) => b.addEventListener("click", () => {
+    how = b.dataset.how;
+    $("#goneform").hidden = false;
+    $("#gonelbl").firstChild.textContent = how === "sold" ? "Sold for how much, or to who (optional)" : "Traded for what, or to who (optional)";
+    $("#gonenote").placeholder = how === "sold" ? "e.g. $40 on eBay" : "e.g. for a Gengar VMAX, with Jacob";
+    $("#gonenote").focus();
+  }));
+  $("#gonecancel")?.addEventListener("click", () => { $("#goneform").hidden = true; });
+  $("#goneform")?.addEventListener("submit", (e) => {
+    e.preventDefault();
+    setHad(kk, info, how, $("#gonenote").value.trim());
+    toast(`${c.name} marked as ${HOW[how].toLowerCase()}`);
+    redrawCard(setId, c, kk, i);
+  });
   if (!dlg.open) dlg.showModal();
+}
+
+function redrawCard(setId, c, kk, i) {
+  openCard(setId, i);
+  const tile = document.querySelector(`.card[data-i="${i}"]`);
+  if (tile) tile.outerHTML = cardTile(c, C.cards[kk], i, C.had[kk]);
+  refreshProgress(setId);
+}
+
+// ---------------------------------------------------------------- Changes: everything added, traded, sold or removed
+const VERB = { added: "Added", back: "Got back", removed: "Removed", versions: "Changed versions of", traded: "Traded", sold: "Sold" };
+function renderChanges() {
+  const f = S.chg || "all";
+  const all = C.log.slice().reverse();
+  const list = all.filter((e) => f === "all" || (f === "gone" ? e.a === "traded" || e.a === "sold" : f === "added" ? e.a === "added" || e.a === "back" : e.a === f));
+  const days = [];
+  for (const e of list) {
+    const d = new Date(e.t).toLocaleDateString("en-CA");
+    const g = days[days.length - 1];
+    if (g && g.d === d) g.items.push(e); else days.push({ d, items: [e] });
+  }
+  const vtxt = (v) => v && v.length && v !== "n" ? ` (${v.split("").map((x) => VNAME[x]).join(", ")})` : "";
+  const hadAll = Object.entries(C.had).filter(([k]) => !C.cards[k]);
+  $("#view").innerHTML = `<section class="hero"><h1>Changes</h1>
+      <div class="big">${all.length.toLocaleString()}<small> changes</small></div>
+      <p class="note">Every card you've added, traded, sold or removed, newest first, from all your devices.${hadAll.length ? ` ${hadAll.length} card${hadAll.length === 1 ? " is" : "s are"} marked as Had.` : ""}</p></section>
+    <div class="tools"><div class="seg" role="group" aria-label="Show">${[["all", "Everything"], ["added", "Added"], ["gone", "Traded & sold"], ["removed", "Removed"]].map(([v, l]) =>
+      `<button type="button" data-chg="${v}" aria-pressed="${f === v}">${l}</button>`).join("")}</div></div>
+    ${days.map((g) => `<h2 class="day">${esc(fmtDate(g.d))}</h2><ul class="log">${g.items.map((e) => {
+      const [lang, setId] = e.k.split("|");
+      return `<li class="a-${esc(e.a)}"><a href="#${esc(lang)}/set/${encodeURIComponent(setId)}">
+        <span class="verb">${esc(VERB[e.a] || e.a)}</span>
+        <span class="what"><b>${esc(e.name)}</b> <span class="note">${esc(e.n)} · ${esc(e.set)}${esc(e.a === "versions" ? vtxt(e.v) : e.a === "traded" || e.a === "sold" || e.a === "removed" ? vtxt(e.from) : vtxt(e.v))}</span>
+          ${e.note ? `<span class="lognote">${esc(e.note)}</span>` : ""}</span>
+        <time>${new Date(e.t).toLocaleTimeString("en-AU", { hour: "numeric", minute: "2-digit" })}</time></a></li>`;
+    }).join("")}</ul>`).join("") || `<p class="none">${all.length ? "Nothing here." : "No changes yet. Tick a card in any set and it shows up here."}</p>`}`;
+  document.querySelectorAll("[data-chg]").forEach((b) => b.addEventListener("click", () => { S.chg = b.dataset.chg; renderChanges(); }));
 }
 
 // ---------------------------------------------------------------- sync sheet: GitHub key, backup, restore
@@ -389,8 +491,13 @@ function openSync() {
       if (!data.cards) throw new Error();
       const n2 = Object.keys(data.cards).length;
       if (!window.confirm(`Replace your collection with this backup (${n2.toLocaleString()} cards ticked)?`)) return;
-      for (const k of Object.keys(C.cards)) if (!data.cards[k]) setOwned(k, "");
-      for (const [k, v] of Object.entries(data.cards)) if (C.cards[k] !== v) setOwned(k, v);
+      const b = norm(data), ops = [];
+      for (const k of Object.keys(C.cards)) if (!b.cards[k]) ops.push({ k, v: "" });
+      for (const [k, v] of Object.entries(b.cards)) if (C.cards[k] !== v) ops.push({ k, v });
+      for (const k of Object.keys(C.had)) if (!b.had[k]) ops.push({ h: k, val: null });
+      for (const [k, v] of Object.entries(b.had)) ops.push({ h: k, val: v });
+      for (const e of b.log) if (!C.log.some((x) => x.t === e.t && x.k === e.k)) ops.push({ log: e });
+      push(...ops);
       dlg.close(); render(); toast("Backup restored");
     } catch { toast("That file isn't a PokeInfo backup"); }
   });
@@ -414,6 +521,7 @@ for (const d of ["#cardsheet", "#syncsheet"]) $(d).addEventListener("click", (e)
 
 $("#langs").addEventListener("click", (e) => { const b = e.target.closest("[data-lang]"); if (b) { S.q = ""; go(b.dataset.lang); } });
 $("#sync").addEventListener("click", openSync);
+$("#changesbtn").addEventListener("click", () => go("changes"));
 $("#home").addEventListener("click", (e) => { e.preventDefault(); go(S.lang); });
 window.addEventListener("hashchange", () => { $("#cardsheet").open && $("#cardsheet").close(); render().then(() => window.scrollTo(0, 0)); });
 

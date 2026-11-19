@@ -1,0 +1,106 @@
+{
+ "id": "mcd26",
+ "name": "McDonald's Collection 2026",
+ "also_called": [
+  "McDonald's Collection 2026 30th Anniversary",
+  "McDonald's 2026"
+ ],
+ "serie": "McDonald's Collection",
+ "serie_id": "mc",
+ "date": "2026-11-05",
+ "official": 15,
+ "abbr": "M26",
+ "source": "Added by hand from pokeled.com and thehobbybin.com card lists (Australian release 5 Nov 2026). Removed automatically once TCGdex adds the set.",
+ "cards": [
+  {
+   "n": "1",
+   "name": "Decidueye",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "2",
+   "name": "Chandelure",
+   "v": "h",
+   "r": "Promo"
+  },
+  {
+   "n": "3",
+   "name": "Palafin",
+   "v": "h",
+   "r": "Promo"
+  },
+  {
+   "n": "4",
+   "name": "Pikachu",
+   "v": "h",
+   "r": "Promo"
+  },
+  {
+   "n": "5",
+   "name": "Mimikyu",
+   "v": "h",
+   "r": "Promo"
+  },
+  {
+   "n": "6",
+   "name": "Lucario",
+   "v": "h",
+   "r": "Promo"
+  },
+  {
+   "n": "7",
+   "name": "Hawlucha",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "8",
+   "name": "Tyranitar",
+   "v": "h",
+   "r": "Promo"
+  },
+  {
+   "n": "9",
+   "name": "Absol",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "10",
+   "name": "Zoroark",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "11",
+   "name": "Metagross",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "12",
+   "name": "Jirachi",
+   "v": "h",
+   "r": "Promo"
+  },
+  {
+   "n": "13",
+   "name": "Eevee",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "14",
+   "name": "Snorlax",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "15",
+   "name": "Wooloo",
+   "v": "n",
+   "r": "Promo"
+  }
+ ]
+}

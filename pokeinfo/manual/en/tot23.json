@@ -1,0 +1,193 @@
+{
+ "id": "tot23",
+ "name": "Trick or Trade 2023",
+ "serie": "Trick or Trade & Pokéween",
+ "serie_id": "halloween",
+ "date": "2023-09-01",
+ "official": 30,
+ "abbr": "ToT23",
+ "note": "Stamped with the Pumpkin Pikachu stamp. Pictures show the original card without the stamp.",
+ "source": "Card list from Bulbapedia.",
+ "cards": [
+  {
+   "n": "089/202",
+   "name": "Sinistea",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "090/202",
+   "name": "Polteageist",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "102/192",
+   "name": "Galarian Runerigus",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "019/185",
+   "name": "Dhelmise",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "069/185",
+   "name": "Duskull",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "070/185",
+   "name": "Dusclops",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "071/185",
+   "name": "Dusknoir",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "095/185",
+   "name": "Lycanroc",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "080/203",
+   "name": "Marshadow",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "016/196",
+   "name": "Phantump",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "017/196",
+   "name": "Trevenant",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "024/196",
+   "name": "Litwick",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "025/196",
+   "name": "Lampent",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "026/196",
+   "name": "Chandelure",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "064/196",
+   "name": "Gastly",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "065/196",
+   "name": "Haunter",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "066/196",
+   "name": "Gengar",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "073/196",
+   "name": "Banette",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "081/196",
+   "name": "Spectrier",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "103/195",
+   "name": "Zubat",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "034/198",
+   "name": "Houndoom",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "087/198",
+   "name": "Shuppet",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "089/198",
+   "name": "Drifloon",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "090/198",
+   "name": "Drifblim",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "104/198",
+   "name": "Greavard",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "106/198",
+   "name": "Houndstone",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "062/193",
+   "name": "Pikachu",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "088/193",
+   "name": "Mismagius",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "097/193",
+   "name": "Mimikyu",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "131/193",
+   "name": "Murkrow",
+   "v": "n",
+   "r": "Promo"
+  }
+ ]
+}

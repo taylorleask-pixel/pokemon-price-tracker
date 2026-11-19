@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 16 * * 2"   # Wednesday about 2am Brisbane
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "pokeinfo/manual/**"
+      - "pokeinfo/scripts/build.py"
 
 permissions:
   contents: write

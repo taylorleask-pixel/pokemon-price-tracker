@@ -1,0 +1,31 @@
+{
+ "id": "pkw26",
+ "name": "Pokéween 2026",
+ "serie": "Trick or Trade & Pokéween",
+ "serie_id": "halloween",
+ "date": "2026-10-01",
+ "official": 3,
+ "abbr": "PKW26",
+ "note": "Pumpkin-stamped promos from Pokéween events at Play! Pokémon stores (Chaos Rising cards). Pictures show the original cards without the stamp.",
+ "source": "cardlines.com",
+ "cards": [
+  {
+   "n": "049/086",
+   "name": "Zubat",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "050/086",
+   "name": "Golbat",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "051/086",
+   "name": "Crobat",
+   "v": "n",
+   "r": "Promo"
+  }
+ ]
+}

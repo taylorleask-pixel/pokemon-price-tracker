@@ -1,0 +1,193 @@
+{
+ "id": "tot24",
+ "name": "Trick or Trade 2024",
+ "serie": "Trick or Trade & Pokéween",
+ "serie_id": "halloween",
+ "date": "2024-08-30",
+ "official": 30,
+ "abbr": "ToT24",
+ "note": "Stamped with the Pumpkin Pikachu stamp. Pictures show the original card without the stamp.",
+ "source": "Card list from Bulbapedia.",
+ "cards": [
+  {
+   "n": "012/193",
+   "name": "Sprigatito",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "050/193",
+   "name": "Quaxly",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "130/197",
+   "name": "Umbreon",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "131/197",
+   "name": "Houndour",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "133/197",
+   "name": "Houndoom",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "136/197",
+   "name": "Darkrai",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "023/182",
+   "name": "Fuecoco",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "077/182",
+   "name": "Pumpkaboo",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "078/182",
+   "name": "Gourgeist",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "018/091",
+   "name": "Pikachu",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "037/091",
+   "name": "Mimikyu",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "042/091",
+   "name": "Greavard",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "043/091",
+   "name": "Houndstone",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "057/091",
+   "name": "Gengar",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "077/162",
+   "name": "Scream Tail",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "078/162",
+   "name": "Flutter Mane",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "102/162",
+   "name": "Gastly",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "103/162",
+   "name": "Haunter",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "139/162",
+   "name": "Iron Jugulis",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "012/167",
+   "name": "Phantump",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "013/167",
+   "name": "Trevenant",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "021/167",
+   "name": "Poltchageist",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "022/167",
+   "name": "Sinistcha",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "024/167",
+   "name": "Teal Mask Ogerpon",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "036/167",
+   "name": "Litwick",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "037/167",
+   "name": "Lampent",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "038/167",
+   "name": "Chandelure",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "095/167",
+   "name": "Munkidori",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "096/167",
+   "name": "Fezandipiti",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "111/167",
+   "name": "Okidogi",
+   "v": "n",
+   "r": "Promo"
+  }
+ ]
+}

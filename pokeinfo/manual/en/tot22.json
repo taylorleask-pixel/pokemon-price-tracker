@@ -1,0 +1,193 @@
+{
+ "id": "tot22",
+ "name": "Trick or Trade 2022",
+ "serie": "Trick or Trade & Pokéween",
+ "serie_id": "halloween",
+ "date": "2022-09-01",
+ "official": 30,
+ "abbr": "ToT22",
+ "note": "Stamped with the Pumpkin Pikachu stamp. Pictures show the original card without the stamp.",
+ "source": "Card list from Bulbapedia.",
+ "cards": [
+  {
+   "n": "015/192",
+   "name": "Trevenant",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "031/192",
+   "name": "Litwick",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "032/192",
+   "name": "Lampent",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "033/192",
+   "name": "Chandelure",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "081/189",
+   "name": "Mimikyu",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "082/189",
+   "name": "Sinistea",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "083/189",
+   "name": "Polteageist",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "102/189",
+   "name": "Spinarak",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "103/189",
+   "name": "Ariados",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "105/189",
+   "name": "Darkrai",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "018/073",
+   "name": "Hatenna",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "069/163",
+   "name": "Cubone",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "089/163",
+   "name": "Zubat",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "093/163",
+   "name": "Murkrow",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "055/198",
+   "name": "Gastly",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "056/198",
+   "name": "Haunter",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "057/198",
+   "name": "Gengar",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "072/198",
+   "name": "Hattrem",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "073/198",
+   "name": "Hatterene",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "049/203",
+   "name": "Pikachu",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "076/203",
+   "name": "Pumpkaboo",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "077/203",
+   "name": "Gourgeist",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "016/264",
+   "name": "Phantump",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "056/172",
+   "name": "Mewtwo",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "060/172",
+   "name": "Duskull",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "061/172",
+   "name": "Dusclops",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "062/172",
+   "name": "Dusknoir",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "058/189",
+   "name": "Misdreavus",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "059/189",
+   "name": "Mismagius",
+   "v": "n",
+   "r": "Promo"
+  },
+  {
+   "n": "103/189",
+   "name": "Nickit",
+   "v": "n",
+   "r": "Promo"
+  }
+ ]
+}
