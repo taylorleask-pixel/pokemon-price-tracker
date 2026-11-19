@@ -1,0 +1,55 @@
+{
+ "id": "wp",
+ "name": "W Promotional",
+ "serie": "Base",
+ "serie_id": "base",
+ "date": "1999-09-01",
+ "official": 7,
+ "abbr": "W",
+ "note": "Special-print promos with the Wizards \"W\" stamp. Pictures show the original card without the stamp; each card's page says where it came from.",
+ "source": "List from Taylor (pokumon.com special prints).",
+ "cards": [
+  {
+   "n": "37/132",
+   "name": "Brock's Vulpix (Top Deck Magazine)",
+   "r": "Promo",
+   "v": "n"
+  },
+  {
+   "n": "19/82",
+   "name": "Dark Arbok (Hong Kong Pokémon League)",
+   "r": "Promo",
+   "v": "n"
+  },
+  {
+   "n": "32/82",
+   "name": "Dark Charmeleon (Australia Kraft giveaway)",
+   "r": "Promo",
+   "v": "n"
+  },
+  {
+   "n": "50/62",
+   "name": "Kabuto (Top Deck Magazine)",
+   "r": "Promo",
+   "v": "n"
+  },
+  {
+   "n": "54/132",
+   "name": "Misty's Psyduck (Top Deck Magazine)",
+   "r": "Promo",
+   "v": "n"
+  },
+  {
+   "n": "60/64",
+   "name": "Pikachu (Duelist Magazine)",
+   "r": "Promo",
+   "v": "n"
+  },
+  {
+   "n": "63/130",
+   "name": "Wartortle (Top Deck Magazine)",
+   "r": "Promo",
+   "v": "n"
+  }
+ ]
+}
