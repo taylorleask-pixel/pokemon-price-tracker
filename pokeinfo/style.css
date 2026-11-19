@@ -191,3 +191,5 @@ dialog::backdrop { background: rgba(10, 14, 20, .6); }
   .log .verb { grid-column: 1 / -1; }
   .top { grid-template-columns: 1fr auto auto; }
 }
+
+.extlink { color: var(--red); font-weight: 700; text-decoration-thickness: 1.5px; text-underline-offset: 2px; }

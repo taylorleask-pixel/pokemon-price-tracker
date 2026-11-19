@@ -16,6 +16,15 @@ const LANGS = [
   { id: "zh-tw", label: "繁中", name: "Chinese (Traditional)" },
   { id: "zh-cn", label: "简中", name: "Chinese (Simplified)" },
 ];
+// full card lists on other sites, until PokeInfo has them itself (links only, nothing is copied)
+const FULL_LISTS = {
+  ja: { site: "TCG Collector", url: "https://www.tcgcollector.com/sets/jp?cardCountMode=anyCardVariant&releaseDateOrder=newToOld&displayAs=images" },
+  ko: { site: "TCG Collector", url: "https://www.tcgcollector.com/sets/kr?cardCountMode=anyCardVariant&releaseDateOrder=newToOld&displayAs=images" },
+  "zh-tw": { site: "TCG Charts", url: "https://tcgcharts.com/pokemon/sets/traditional-chinese" },
+  "zh-cn": { site: "Pokipair", url: "https://www.pokipair.com/simplified-chinese-pokemon-set-list/" },
+};
+const fullListLink = (lang, text) => FULL_LISTS[lang]
+  ? `<a class="extlink" href="${esc(FULL_LISTS[lang].url)}" target="_blank" rel="noopener">${esc(text || `Every ${LANGS.find((l) => l.id === lang).name} set on ${FULL_LISTS[lang].site}`)} ↗</a>` : "";
 const VNAME = { n: "Normal", h: "Holo", r: "Reverse holo", f: "1st edition" };
 const VSHORT = { n: "N", h: "H", r: "R", f: "1st" };
 
@@ -202,6 +211,7 @@ function renderHome() {
       <div class="big">${have.toLocaleString()}<small> / ${total.toLocaleString()} cards</small></div>
       <div class="bar${have && have === total ? " done" : ""}"><i style="width:${total ? (have / total) * 100 : 0}%"></i></div>
       <p class="note">${sets.length} sets${hidden ? `. ${hidden} more are listed by the database without their cards yet, so they're hidden` : ""}${noPics ? `. ${Math.round(((total - noPics) / total) * 100)}% of cards have pictures in the card database; the rest show their number and name` : ""}.</p>
+      ${FULL_LISTS[S.lang] ? `<p class="note">Missing a set or card? ${fullListLink(S.lang)}</p>` : ""}
     </section>
     <div class="tools">
       <input class="search" id="q" type="search" placeholder="Search sets" value="${esc(S.q)}" aria-label="Search sets">
@@ -274,6 +284,7 @@ async function renderSet(id) {
       ${meta.logo ? `<img class="logo" src="${esc(meta.logo)}" alt="" onerror="this.remove()">` : ""}
       <h1>${esc(set.name || meta.name)}</h1>
       <p>${esc([meta.serie, fmtDate(meta.date), meta.abbr].filter(Boolean).join(" · "))}</p>
+      ${FULL_LISTS[S.lang] && set.cards.some((c) => !pic(c)) ? `<p class="note">Pictures missing? See this set on ${fullListLink(S.lang, FULL_LISTS[S.lang].site)}</p>` : ""}
     </div>
     <div class="prog">
       <div><div class="lbl">Cards</div><div class="num">${have}<small> / ${cards.length}</small></div>
