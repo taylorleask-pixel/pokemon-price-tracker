@@ -234,7 +234,7 @@ def add_manual(lang, sets):
         print(f"   added by hand: {m['name']} ({len(rows)} cards, {found} matched to the original card)")
 
 
-RARE_ORDER = ["special illustration", "hyper", "mega hyper", "illustration", "ultra", "secret", "shiny ultra", "double", "holo", "rare"]
+RARE_ORDER = ["mega hyper", "hyper", "special illustration", "illustration", "ultra", "secret", "shiny ultra", "double", "holo", "rare"]
 
 
 def fill_logos(lang, sets):
@@ -257,12 +257,19 @@ def fill_logos(lang, sets):
             rows = json.loads((OUT / lang / "sets" / f"{x['id']}.json").read_text(encoding="utf-8"))["cards"]
         except Exception:  # noqa: BLE001
             rows = []
+        codes = {"MUR": 0, "SAR": 1, "UR": 2, "HR": 2, "SR": 3, "CSR": 3, "AR": 4, "CHR": 4, "RRR": 5, "RR": 6, "K": 6, "R": 9}
         def rank(r):
-            rr = (r.get("r") or "").lower()
-            return next((i for i, w in enumerate(RARE_ORDER) if w in rr), len(RARE_ORDER))
+            rr = (r.get("r") or "").strip()
+            if rr.upper() in codes:
+                return codes[rr.upper()]
+            return next((i for i, w in enumerate(RARE_ORDER) if w in rr.lower()), len(RARE_ORDER))
+        def not_star(r):   # prefer the big Pokémon (ex, V, VSTAR, GX…) over trainers and items when nothing else says
+            return re.search(r"(\bex|\bv|vmax|vstar|gx|\bex\b|ＥＸ|ｅｘ)\s*$", r.get("name", ""), re.I) is None
         pics = [r for r in rows if r.get("img") or r.get("ps")]
         if pics:
-            best = min(pics, key=lambda r: (rank(r), -rows.index(r)))
+            # the set's chase card: most valuable if there are prices, else the rarest Pokémon (not a trainer)
+            best = min(pics, key=lambda r: (-(r.get("usd") or 0), (r.get("cat") or "Pokemon").lower() not in ("pokemon", "pokémon"),
+                                            rank(r), not_star(r), -rows.index(r)))
             x["cover"] = f"{best['img']}/low.webp" if best.get("img") else best["ps"]
         elif x.get("symbol"):
             x["logo"] = x["symbol"]
