@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T12:35+10:00",
+"updated": "2026-11-19T21:41+10:00",
 "listings": [
 {
 "store": "misty",
@@ -863,26 +863,6 @@
 },
 {
 "store": "misty",
-"title": "Fusion Strike Build & Battle Stadium",
-"price": 449.0,
-"available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/fusion-strike-build-battle-stadium",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrx6vp7071a7vfqajcmyj3f/art-7aee4562.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "other",
-"set": "Fusion Strike",
-"year": 2021,
-"product": "Fusion Strike Build & Battle Stadium",
-"packs": 12,
-"key": "other|Fusion Strike Build & Battle Stadium",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
 "title": "Journey Together Enhanced Booster Box",
 "price": 415.0,
 "available": true,
@@ -1577,26 +1557,6 @@
 "product": "Prismatic Evolutions Accessory Pouch Special Collection",
 "packs": 5,
 "key": "other|Prismatic Evolutions Accessory Pouch Special Collection",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Prismatic Evolutions Booster Bundle",
-"price": 150.0,
-"available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/prismatic-evolutions-booster-bundle",
-"image": "https://images.scrydex.com/pokemon/sv8pt5-s3/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "bundle",
-"set": "Prismatic Evolutions",
-"year": 2025,
-"product": null,
-"packs": 6,
-"key": "bundle|Prismatic Evolutions",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -9015,6 +8975,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "misty",
+"title": "Fusion Strike Build & Battle Stadium",
+"price": 449.0,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/fusion-strike-build-battle-stadium",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrx6vp7071a7vfqajcmyj3f/art-7aee4562.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": "Fusion Strike",
+"year": 2021,
+"product": "Fusion Strike Build & Battle Stadium",
+"packs": 12,
+"key": "other|Fusion Strike Build & Battle Stadium",
+"skip": null,
+"first_seen": null,
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "misty",
@@ -16623,6 +16603,26 @@
 },
 {
 "store": "misty",
+"title": "Prismatic Evolutions Booster Bundle",
+"price": 150.0,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/prismatic-evolutions-booster-bundle",
+"image": "https://images.scrydex.com/pokemon/sv8pt5-s3/large",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "bundle",
+"set": "Prismatic Evolutions",
+"year": 2025,
+"product": null,
+"packs": 6,
+"key": "bundle|Prismatic Evolutions",
+"skip": null,
+"first_seen": null,
+"changed": "2026-11-19T21:41+10:00"
+},
+{
+"store": "misty",
 "title": "Prismatic Evolutions Booster Pack",
 "price": 22.81,
 "available": false,
@@ -21443,26 +21443,6 @@
 },
 {
 "store": "evo",
-"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Pack",
-"price": 10.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-pack/TEYPVBVPEJ3OO3PT4MJWQB2J",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/GYFFZKZUBWCVZ4MJA7OL7UVG.jpeg",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "pack",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 1,
-"key": "pack|Delta Reign",
-"skip": null,
-"first_seen": "2026-11-11T20:59+10:00",
-"changed": "2026-11-11T20:59+10:00"
-},
-{
-"store": "evo",
 "title": "POKEMON TCG: Scarlet & Violet 151 Elite Trainer Box",
 "price": 820.0,
 "available": true,
@@ -23764,8 +23744,8 @@
 {
 "store": "raptor",
 "title": "Pokemon TCG: Evolving Skies Elite Trainer Box (Assorted)",
-"price": 800.0,
-"available": false,
+"price": 850.0,
+"available": true,
 "url": "https://raptorgames.com/products/pokemon-tcg-evolving-skies-elite-trainer-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Evolving_Skies_ETB_500x_c858ad79-cbc5-43fa-bb52-6ccbe4f04583.webp?v=1792647512",
 "lang": "EN",
@@ -23779,7 +23759,7 @@
 "key": "etb|Evolving Skies",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "raptor",
@@ -24030,7 +24010,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: 30th Celebration Booster Tin",
 "price": 85.0,
-"available": false,
+"available": true,
 "url": "https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-5-booster-tin",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokmon_TCG_-_30th_Celebration_Tin_-_Day_EN__14266.webp?v=1787802163",
 "lang": "EN",
@@ -24044,11 +24024,11 @@
 "key": "other|30th Celebration ex Tin",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "raptor",
-"title": "PREORDER: Pokemon TCG: 30th Celebration Ditto Premium Collection",
+"title": "Pokemon TCG: 30th Celebration Ditto Premium Collection",
 "price": 120.0,
 "available": false,
 "url": "https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-ditto-premium-collection",
@@ -25454,8 +25434,8 @@
 {
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution -  Ascended Heroes Booster Pack",
-"price": 18.0,
-"available": false,
+"price": 25.0,
+"available": true,
 "url": "https://raptorgames.com/products/me02-phantasmal-flames-pokemon-booster-pack-copy",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/shopify_asset_8.webp?v=1771473512",
 "lang": "EN",
@@ -25469,7 +25449,7 @@
 "key": "pack|Ascended Heroes",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "raptor",
@@ -27639,7 +27619,7 @@
 {
 "store": "raptor",
 "title": "Pokemon TCG: Charizard Ultra Premium Collection",
-"price": 450.0,
+"price": 975.0,
 "available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-charizard-ultra-premium-collection",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_0eb55394-203e-4b6a-8a59-ad1169d9a461.jpg?v=1757217114",
@@ -27654,7 +27634,7 @@
 "key": "other|Sword & Shield Ultra-Premium Collection (Charizard)",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "raptor",
@@ -28829,8 +28809,8 @@
 {
 "store": "raptor",
 "title": "Pokemon TCG: Chilling Reign Elite Trainer Box",
-"price": 150.0,
-"available": false,
+"price": 220.0,
+"available": true,
 "url": "https://raptorgames.com/products/pokemon-tcg-chilling-reign-elite-trainer-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/original_7331a170-46a2-4111-8b9d-02b7691a2b05.jpg?v=1751971772",
 "lang": "EN",
@@ -28844,7 +28824,7 @@
 "key": "etb|Chilling Reign",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "raptor",
@@ -30135,7 +30115,7 @@
 "store": "dorky",
 "title": "Pokemon Day 2026 Collection",
 "price": 69.95,
-"available": true,
+"available": false,
 "url": "https://www.dorkydesires.com.au/product/pokemon-day-2026-collection/",
 "image": "https://www.dorkydesires.com.au/wp-content/uploads/2026/11/s-l500.jpg",
 "lang": "EN",
@@ -30149,7 +30129,7 @@
 "key": "other|Pokémon Day 2026 Collection",
 "skip": null,
 "first_seen": "2026-11-14T20:28+10:00",
-"changed": "2026-11-14T20:28+10:00"
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "dorky",
@@ -30665,7 +30645,7 @@
 "store": "dorky",
 "title": "Pokémon TCG: Deluxe Battle Deck – Mega Miraidon ex / Mega Koraidon ex",
 "price": 44.99,
-"available": true,
+"available": false,
 "url": "https://www.dorkydesires.com.au/product/pokemon-tcg-deluxe-battle-deck-mega-miraidon-ex-mega-koraidon-ex/",
 "image": "https://www.dorkydesires.com.au/wp-content/uploads/2026/01/Deluxe_Battle_v2_800x.webp",
 "lang": "EN",
@@ -30679,7 +30659,7 @@
 "key": "other|pokemon tcg deluxe battle deck mega miraidon ex mega koraidon ex",
 "skip": null,
 "first_seen": "2026-11-06T22:03+10:00",
-"changed": "2026-11-06T22:03+10:00"
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "dorky",
@@ -30705,7 +30685,7 @@
 "store": "dorky",
 "title": "Pokémon TCG – Mega Evolutions Enhance Booster Pack (Single)",
 "price": 19.99,
-"available": true,
+"available": false,
 "url": "https://www.dorkydesires.com.au/product/pokemon-tcg-mega-evolutions-enhance-booster-pack-single/",
 "image": "https://www.dorkydesires.com.au/wp-content/uploads/2025/09/megaevolutionsboosterpack.webp",
 "lang": "EN",
@@ -30719,7 +30699,7 @@
 "key": "pack|Mega Evolution",
 "skip": null,
 "first_seen": "2026-11-06T22:03+10:00",
-"changed": "2026-11-06T22:03+10:00"
+"changed": "2026-11-19T21:41+10:00"
 },
 {
 "store": "jojos",
