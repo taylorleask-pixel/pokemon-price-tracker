@@ -234,6 +234,40 @@ def add_manual(lang, sets):
         print(f"   added by hand: {m['name']} ({len(rows)} cards, {found} matched to the original card)")
 
 
+RARE_ORDER = ["special illustration", "hyper", "mega hyper", "illustration", "ultra", "secret", "shiny ultra", "double", "holo", "rare"]
+
+
+def fill_logos(lang, sets):
+    """Sets the card database has no logo for: the main set's logo for sub-sets (Trainer Gallery...),
+    pokemontcg.io's logo, the set symbol, or failing all that the set's best card as a cover picture."""
+    with_logo = sorted([x for x in sets if x.get("logo")], key=lambda x: -len(x["name"]))
+    for x in sets:
+        x.pop("cover", None)
+        if x.get("logo"):
+            continue
+        parent = next((p for p in with_logo if p is not x and norm_name(x["name"]).startswith(norm_name(p["name"]) + " ")), None)
+        if parent:
+            x["logo"] = parent["logo"]
+            continue
+        pid = PTCG_IDS.get(x["id"]) if lang == "en" else None
+        if pid and picture_loads(f"https://images.pokemontcg.io/{pid}/logo.png"):
+            x["logo"] = f"https://images.pokemontcg.io/{pid}/logo.png"
+            continue
+        try:
+            rows = json.loads((OUT / lang / "sets" / f"{x['id']}.json").read_text(encoding="utf-8"))["cards"]
+        except Exception:  # noqa: BLE001
+            rows = []
+        def rank(r):
+            rr = (r.get("r") or "").lower()
+            return next((i for i, w in enumerate(RARE_ORDER) if w in rr), len(RARE_ORDER))
+        pics = [r for r in rows if r.get("img") or r.get("ps")]
+        if pics:
+            best = min(pics, key=lambda r: (rank(r), -rows.index(r)))
+            x["cover"] = f"{best['img']}/low.webp" if best.get("img") else best["ps"]
+        elif x.get("symbol"):
+            x["logo"] = x["symbol"]
+
+
 def build_lang(lang):
     t0 = time.time()
     try:
@@ -256,6 +290,7 @@ def build_lang(lang):
     if lang == "en":
         fill_pictures(sets)
     add_manual(lang, sets)
+    fill_logos(lang, sets)
     sets.sort(key=lambda x: (x["date"] or "9999", x["id"]))
     rep = {"name": LANGS[lang], "sets": len(sets), "sets_with_cards": sum(1 for x in sets if x["cards_n"]),
            "cards": sum(x["cards_n"] for x in sets), "cards_with_pictures": sum(x["img_n"] for x in sets),

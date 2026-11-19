@@ -210,3 +210,7 @@ dialog::backdrop { background: rgba(10, 14, 20, .6); }
 .mlist li > span { min-width: 0; }
 .mlist .note { display: block; font-size: 13px; }
 .btn.small { padding: 6px 10px; font-size: 14px; white-space: nowrap; }
+
+/* no logo yet: the set's best card stands in, tilted like it's sitting in a binder pocket */
+.set .logo.cover img { height: 52px; width: auto; max-height: none; border-radius: 3px; box-shadow: 0 1px 4px rgba(0,0,0,.25); transform: rotate(-4deg); }
+.sethead img.logo.cover { width: auto; height: 96px; max-height: none; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,.25); }

@@ -243,7 +243,7 @@ function renderHome() {
       <div class="sets">${e.sets.map((s) => {
         const h = own[s.id]?.cards || 0;
         return `<a class="set" href="#${S.lang}/set/${encodeURIComponent(s.id)}">
-          <span class="logo">${s.logo ? `<img src="${esc(s.logo)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'abbr',textContent:this.dataset.a}))" data-a="${esc(s.abbr || s.id)}">`
+          <span class="logo${!s.logo && s.cover ? " cover" : ""}">${s.logo || s.cover ? `<img src="${esc(s.logo || s.cover)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'abbr',textContent:this.dataset.a}))" data-a="${esc(s.abbr || s.id)}">`
             : `<span class="abbr">${esc(s.abbr || s.id)}</span>`}</span>
           <b>${esc(s.name)}${enName(s) ? `<small class="en">${esc(enName(s))}</small>` : ""}</b>
           <span class="meta"><span>${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n}</span></span>
@@ -291,7 +291,7 @@ async function renderSet(id) {
 
   $("#view").innerHTML = `<button class="back" id="back">← All ${esc(LANGS.find((l) => l.id === S.lang).name)} sets</button>
     <div class="sethead">
-      ${meta.logo ? `<img class="logo" src="${esc(meta.logo)}" alt="" onerror="this.remove()">` : ""}
+      ${meta.logo ? `<img class="logo" src="${esc(meta.logo)}" alt="" onerror="this.remove()">` : meta.cover ? `<img class="logo cover" src="${esc(meta.cover)}" alt="" onerror="this.remove()">` : ""}
       <h1>${esc(set.name || meta.name)}</h1>
       ${enName(meta) ? `<p class="en-title">${esc(enName(meta))}</p>` : ""}
       <p>${esc([meta.serie, fmtDate(meta.date), meta.abbr].filter(Boolean).join(" · "))}</p>
