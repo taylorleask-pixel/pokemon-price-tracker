@@ -219,6 +219,7 @@ function renderHome() {
       <p class="note">${sets.length} sets${hidden ? `. ${hidden} more are listed by the database without their cards yet, so they're hidden` : ""}${noPics ? `. ${Math.round(((total - noPics) / total) * 100)}% of cards have pictures in the card database; the rest show their number and name` : ""}.</p>
       ${FULL_LISTS[S.lang] ? `<p class="note">Missing a set or card? ${fullListLink(S.lang)}${S.lang === "ja" ? ` · <a class="extlink" href="https://www.pokeguardian.com/sets/set-lists/japanese-sets" target="_blank" rel="noopener">Newest Japanese sets on PokeGuardian ↗</a>` : ""}</p>` : ""}
     </section>
+    ${S.lang !== "en" ? `<details class="missing" id="missing"><summary>Missing sets</summary><div id="missinglist"><p class="note">Working it out…</p></div></details>` : ""}
     <div class="tools">
       <input class="search" id="q" type="search" placeholder="Search sets" value="${esc(S.q)}" aria-label="Search sets">
       <button type="button" class="btn ghost" id="addset">Add a set</button>
@@ -227,7 +228,6 @@ function renderHome() {
       <div class="seg" role="group" aria-label="Order">${[[true, "Newest"], [false, "Oldest"]].map(([v, l]) =>
         `<button type="button" data-newest="${v}" aria-pressed="${S.newest === v}">${l}</button>`).join("")}</div>
     </div>
-    ${S.lang !== "en" ? `<details class="missing" id="missing"><summary>Missing sets</summary><div id="missinglist"><p class="note">Working it out…</p></div></details>` : ""}
     <div id="setlist"></div>`;
   const draw = () => {
     const q = S.q.trim().toLowerCase();
