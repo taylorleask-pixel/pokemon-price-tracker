@@ -97,6 +97,15 @@ def norm_num(n):
     return re.sub(r"(?<![0-9])0+(?=[0-9])", "", str(n or "").upper().strip())
 
 
+def picture_loads(url):
+    for _ in range(2):
+        try:
+            return S.head(url, timeout=30, allow_redirects=True).status_code == 200
+        except requests.RequestException:
+            time.sleep(2)
+    return False
+
+
 def fill_pictures(sets):
     """English only: cards TCGdex has no picture for get one from pokemontcg.io (free) when it has the set."""
     need = [x for x in sets if x["cards_n"] and x["img_n"] < x["cards_n"]]
@@ -112,10 +121,15 @@ def fill_pictures(sets):
                 continue
             path = OUT / "en" / "sets" / f"{x['id']}.json"
             data = json.loads(path.read_text(encoding="utf-8"))
-            for row in data["cards"]:
-                if not row.get("img") and not row.get("ps"):
-                    num = row["n"].lstrip("0") if row["n"].isdigit() else row["n"]
-                    row["ps"], row["pl"] = f"https://images.pokemontcg.io/{pid}/{num}.png", f"https://images.pokemontcg.io/{pid}/{num}_hires.png"
+            todo = [row for row in data["cards"] if not row.get("img") and (not row.get("ps") or "pokemontcg" in row["ps"])]
+            for row in todo:
+                num = row["n"].lstrip("0") if row["n"].isdigit() else row["n"]
+                row["ps"], row["pl"] = f"https://images.pokemontcg.io/{pid}/{num}.png", f"https://images.pokemontcg.io/{pid}/{num}_hires.png"
+            with ThreadPoolExecutor(max_workers=12) as pool:     # keep only links that actually load
+                good = list(pool.map(lambda row: picture_loads(row["ps"]), todo))
+            for row, g in zip(todo, good):
+                if not g:
+                    row.pop("ps", None); row.pop("pl", None)
             path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
             x["img_n"] = sum(1 for row in data["cards"] if row.get("img") or row.get("ps"))
             n_sets += 1

@@ -35,7 +35,10 @@ const store = {
 };
 
 const S = { lang: store.get("pi-lang", "en"), q: "", show: "all", newest: true, type: null, own: "all", list: [] };
-const D = { sets: {}, setFiles: {} };
+const D = { sets: {}, setFiles: {}, en: null };
+// English name for a non-English set (by set code), or "" for English sets
+const enName = (s, lang = S.lang) => lang === "en" || !D.en ? "" : (D.en[lang]?.[s.id] || D.en.sets?.[s.id] || "");
+const enSerie = (name) => S.lang === "en" || !D.en ? "" : (D.en.series?.[name] || "");
 // collection: cards = what you have ("nr" = normal + reverse), had = cards you traded or sold, log = every change
 let C = norm(store.get("pi-col", null));                  // last known collection (with my unsynced changes applied)
 let queue = store.get("pi-queue", []);                    // changes not yet saved to GitHub: [{k, v}] [{h, val}] [{log}]
@@ -186,6 +189,9 @@ async function render() {
     $("#view").innerHTML = `<p class="loading">Loading ${esc(LANGS.find((l) => l.id === S.lang).name)} sets…</p>`;
     D.sets[S.lang] = (await load(`data/${S.lang}/sets.json`)) || { sets: [], missing: true };
   }
+  if (S.lang !== "en" && !D.en) {
+    D.en = (await load("data/set-names-en.json")) || {};
+  }
   $("#changesbtn").setAttribute("aria-pressed", r.view === "changes");
   if (r.view === "changes") return renderChanges();
   if (r.view === "set") return renderSet(r.id);
@@ -223,7 +229,7 @@ function renderHome() {
     <div id="setlist"></div>`;
   const draw = () => {
     const q = S.q.trim().toLowerCase();
-    let list = sets.filter((s) => (!q || `${s.name} ${s.serie} ${s.id} ${s.abbr || ""} ${(s.date || "").slice(0, 4)}`.toLowerCase().includes(q)) &&
+    let list = sets.filter((s) => (!q || `${s.name} ${enName(s)} ${s.serie} ${enSerie(s.serie)} ${s.id} ${s.abbr || ""} ${(s.date || "").slice(0, 4)}`.toLowerCase().includes(q)) &&
       (S.show === "all" || (S.show === "started" ? own[s.id]?.cards : own[s.id]?.cards >= s.cards_n)));
     if (S.newest) list = list.slice().reverse();
     const eras = [];
@@ -231,13 +237,13 @@ function renderHome() {
       const e = eras[eras.length - 1];
       if (e && e.name === (s.serie || "Other")) e.sets.push(s); else eras.push({ name: s.serie || "Other", sets: [s] });
     }
-    $("#setlist").innerHTML = eras.map((e) => `<div class="era"><h2>${esc(e.name)}</h2><span>${e.sets.length} set${e.sets.length === 1 ? "" : "s"}</span></div>
+    $("#setlist").innerHTML = eras.map((e) => `<div class="era"><h2>${esc(e.name)}${enSerie(e.name) ? ` <small class="en">${esc(enSerie(e.name))}</small>` : ""}</h2><span>${e.sets.length} set${e.sets.length === 1 ? "" : "s"}</span></div>
       <div class="sets">${e.sets.map((s) => {
         const h = own[s.id]?.cards || 0;
         return `<a class="set" href="#${S.lang}/set/${encodeURIComponent(s.id)}">
           <span class="logo">${s.logo ? `<img src="${esc(s.logo)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'abbr',textContent:this.dataset.a}))" data-a="${esc(s.abbr || s.id)}">`
             : `<span class="abbr">${esc(s.abbr || s.id)}</span>`}</span>
-          <b>${esc(s.name)}</b>
+          <b>${esc(s.name)}${enName(s) ? `<small class="en">${esc(enName(s))}</small>` : ""}</b>
           <span class="meta"><span>${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n}</span></span>
           <span class="bar${h >= s.cards_n ? " done" : ""}"><i style="width:${(h / s.cards_n) * 100}%"></i></span></a>`;
       }).join("")}</div>`).join("") || `<p class="none">No sets match.</p>`;
@@ -283,6 +289,7 @@ async function renderSet(id) {
     <div class="sethead">
       ${meta.logo ? `<img class="logo" src="${esc(meta.logo)}" alt="" onerror="this.remove()">` : ""}
       <h1>${esc(set.name || meta.name)}</h1>
+      ${enName(meta) ? `<p class="en-title">${esc(enName(meta))}</p>` : ""}
       <p>${esc([meta.serie, fmtDate(meta.date), meta.abbr].filter(Boolean).join(" · "))}</p>
       ${FULL_LISTS[S.lang] && set.cards.some((c) => !pic(c)) ? `<p class="note">Pictures missing? See this set on ${fullListLink(S.lang, FULL_LISTS[S.lang].site)}</p>` : ""}
     </div>
