@@ -213,6 +213,8 @@ def add_manual(lang, sets):
                    "cat": "Pokemon", "v": c.get("v", "n")}
             if c.get("ps"):
                 row.update(ps=c["ps"], pl=c.get("pl", c["ps"]))
+            if c.get("from"):
+                row["from"] = c["from"]
             orig = find_original(lang, sets, c["n"], c["name"])
             if orig:
                 found += 1
