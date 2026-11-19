@@ -116,8 +116,12 @@ def fill_pictures(sets):
         try:
             cards = []
             for page in (1, 2, 3):
-                r = requests.get("https://api.pokemontcg.io/v2/cards", timeout=60,
-                                 params={"q": f"set.id:{pid}", "pageSize": 250, "page": page, "select": "number,images"})
+                for attempt in range(4):        # pokemontcg.io sometimes answers 500 or 429: wait and try again
+                    r = requests.get("https://api.pokemontcg.io/v2/cards", timeout=90,
+                                     params={"q": f"set.id:{pid}", "pageSize": 250, "page": page, "select": "number,images"})
+                    if r.status_code < 500 and r.status_code != 429:
+                        break
+                    time.sleep(10 * (attempt + 1))
                 r.raise_for_status()
                 got = r.json()["data"]
                 cards += got
@@ -131,7 +135,7 @@ def fill_pictures(sets):
         data = json.loads(path.read_text(encoding="utf-8"))
         n = 0
         for row in data["cards"]:
-            im = pics.get(norm_num(row["n"]))
+            im = pics.get(norm_num(row["n"])) or {}
             if not row.get("img") and im.get("small"):
                 row["ps"], row["pl"] = im["small"], im.get("large") or im["small"]
                 n += 1
