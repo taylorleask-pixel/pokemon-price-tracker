@@ -217,7 +217,7 @@ function renderHome() {
       <div class="big">${have.toLocaleString()}<small> / ${total.toLocaleString()} cards</small></div>
       <div class="bar${have && have === total ? " done" : ""}"><i style="width:${total ? (have / total) * 100 : 0}%"></i></div>
       <p class="note">${sets.length} sets${hidden ? `. ${hidden} more are listed by the database without their cards yet, so they're hidden` : ""}${noPics ? `. ${Math.round(((total - noPics) / total) * 100)}% of cards have pictures in the card database; the rest show their number and name` : ""}.</p>
-      ${FULL_LISTS[S.lang] ? `<p class="note">Missing a set or card? ${fullListLink(S.lang)}</p>` : ""}
+      ${FULL_LISTS[S.lang] ? `<p class="note">Missing a set or card? ${fullListLink(S.lang)}${S.lang === "ja" ? ` · <a class="extlink" href="https://www.pokeguardian.com/sets/set-lists/japanese-sets" target="_blank" rel="noopener">Newest Japanese sets on PokeGuardian ↗</a>` : ""}</p>` : ""}
     </section>
     <div class="tools">
       <input class="search" id="q" type="search" placeholder="Search sets" value="${esc(S.q)}" aria-label="Search sets">
