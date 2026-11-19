@@ -25,7 +25,10 @@ FRESH_DAYS = 60
 MANUAL = Path(__file__).resolve().parent.parent / "manual"
 SKIP_SERIES = {"tcgp"}          # Pokémon TCG Pocket: the phone game, not real cards
 # English sets TCGdex has without pictures: pokemontcg.io set ids whose names differ (the rest match by name)
-PTCG_IDS = {"cel25cc": "cel25c", "30th-c": "me55c", "sve": "sve", "svp": "svp", "bog": "bp",
+PTCG_IDS = {"2011bw": "mcd11", "2012bw": "mcd12", "2014xy": "mcd14", "2015xy": "mcd15", "2016xy": "mcd16", "2017sm": "mcd17",
+            "2018sm": "mcd18", "2019sm": "mcd19", "2021swsh": "mcd21", "2022swsh": "mcd22", "sm3.5": "sm35", "sm7.5": "sm75",
+            "swsh4.5sv": "swsh45sv", "cel25cc": "cel25c", "swsh9tg": "swsh9tg", "swsh10tg": "swsh10tg", "swsh11tg": "swsh11tg",
+            "swsh12tg": "swsh12tg", "swsh12.5gg": "swsh12pt5gg", "sve": "sve", "svp": "svp", "bog": "bp", "30th-c": "me55c",
             "tk-ex-latia": "tk1a", "tk-ex-latio": "tk1b", "tk-ex-p": "tk2a", "tk-ex-m": "tk2b"}
 S = requests.Session()
 S.headers["User-Agent"] = "PokeInfo (personal collection tracker)"
@@ -99,12 +102,33 @@ def fill_pictures(sets):
     need = [x for x in sets if x["cards_n"] and x["img_n"] < x["cards_n"]]
     if not need:
         return
-    try:
-        r = requests.get("https://api.pokemontcg.io/v2/sets", params={"pageSize": 250}, timeout=60)
-        r.raise_for_status()
-        ptcg = r.json()["data"]
-    except Exception as e:  # noqa: BLE001
-        print("   pokemontcg.io not reachable, pictures not filled:", e)
+    ptcg = None
+    for attempt in range(5):            # pokemontcg.io is sometimes down for a while
+        try:
+            r = requests.get("https://api.pokemontcg.io/v2/sets", params={"pageSize": 250}, timeout=90)
+            r.raise_for_status()
+            ptcg = r.json()["data"]
+            break
+        except Exception as e:  # noqa: BLE001
+            print("   pokemontcg.io not answering, trying again:", str(e)[:120])
+            time.sleep(20 * (attempt + 1))
+    if ptcg is None:
+        # fall back to its picture links, which follow a fixed pattern: images.pokemontcg.io/<set>/<number>.png
+        n_sets = 0
+        for x in need:
+            pid = PTCG_IDS.get(x["id"])
+            if not pid:
+                continue
+            path = OUT / "en" / "sets" / f"{x['id']}.json"
+            data = json.loads(path.read_text(encoding="utf-8"))
+            for row in data["cards"]:
+                if not row.get("img") and not row.get("ps"):
+                    num = row["n"].lstrip("0") if row["n"].isdigit() else row["n"]
+                    row["ps"], row["pl"] = f"https://images.pokemontcg.io/{pid}/{num}.png", f"https://images.pokemontcg.io/{pid}/{num}_hires.png"
+            path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            x["img_n"] = sum(1 for row in data["cards"] if row.get("img") or row.get("ps"))
+            n_sets += 1
+        print(f"   pokemontcg.io down: linked pictures directly for {n_sets} sets")
         return
     by_name = {norm_name(p["name"]): p["id"] for p in ptcg}
     ids = {p["id"] for p in ptcg}
