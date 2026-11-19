@@ -102,16 +102,7 @@ def fill_pictures(sets):
     need = [x for x in sets if x["cards_n"] and x["img_n"] < x["cards_n"]]
     if not need:
         return
-    ptcg = None
-    for attempt in range(5):            # pokemontcg.io is sometimes down for a while
-        try:
-            r = requests.get("https://api.pokemontcg.io/v2/sets", params={"pageSize": 250}, timeout=90)
-            r.raise_for_status()
-            ptcg = r.json()["data"]
-            break
-        except Exception as e:  # noqa: BLE001
-            print("   pokemontcg.io not answering, trying again:", str(e)[:120])
-            time.sleep(20 * (attempt + 1))
+    ptcg = None   # the pokemontcg.io API is often down; its picture links follow a fixed pattern, so use those
     if ptcg is None:
         # fall back to its picture links, which follow a fixed pattern: images.pokemontcg.io/<set>/<number>.png
         n_sets = 0
@@ -128,7 +119,7 @@ def fill_pictures(sets):
             path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
             x["img_n"] = sum(1 for row in data["cards"] if row.get("img") or row.get("ps"))
             n_sets += 1
-        print(f"   pokemontcg.io down: linked pictures directly for {n_sets} sets")
+        print(f"   pictures linked from pokemontcg.io for {n_sets} sets")
         return
     by_name = {norm_name(p["name"]): p["id"] for p in ptcg}
     ids = {p["id"] for p in ptcg}

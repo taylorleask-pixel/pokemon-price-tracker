@@ -1,0 +1,9 @@
+name: PokeInfo - check pictures
+on:
+  workflow_dispatch: {}
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests && python pokeinfo/scripts/checkpics.py
