@@ -93,8 +93,8 @@ function setHad(k, card, how, note) {   // traded or sold: no longer in the bind
 }
 const b64e = (s) => btoa(unescape(encodeURIComponent(s)));
 const b64d = (s) => decodeURIComponent(escape(atob(s.replace(/\n/g, ""))));
-async function gh(method, body) {
-  return fetch(`https://api.github.com/repos/${REPO}/contents/${COL_PATH}`, {
+async function gh(method, body, path = COL_PATH) {
+  return fetch(`https://api.github.com/repos/${REPO}/contents/${path}`, {
     method, cache: "no-store",
     headers: { Authorization: `Bearer ${token()}`, Accept: "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28" },
     body: body ? JSON.stringify(body) : undefined,
@@ -221,11 +221,13 @@ function renderHome() {
     </section>
     <div class="tools">
       <input class="search" id="q" type="search" placeholder="Search sets" value="${esc(S.q)}" aria-label="Search sets">
+      <button type="button" class="btn ghost" id="addset">Add a set</button>
       <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["started", "Started"], ["done", "Complete"]].map(([v, l]) =>
         `<button type="button" data-show="${v}" aria-pressed="${S.show === v}">${l}</button>`).join("")}</div>
       <div class="seg" role="group" aria-label="Order">${[[true, "Newest"], [false, "Oldest"]].map(([v, l]) =>
         `<button type="button" data-newest="${v}" aria-pressed="${S.newest === v}">${l}</button>`).join("")}</div>
     </div>
+    ${S.lang !== "en" ? `<details class="missing" id="missing"><summary>Missing sets</summary><div id="missinglist"><p class="note">Working it out…</p></div></details>` : ""}
     <div id="setlist"></div>`;
   const draw = () => {
     const q = S.q.trim().toLowerCase();
@@ -249,6 +251,8 @@ function renderHome() {
       }).join("")}</div>`).join("") || `<p class="none">No sets match.</p>`;
   };
   $("#q").addEventListener("input", (e) => { S.q = e.target.value; draw(); });
+  $("#addset").addEventListener("click", () => openAddSet());
+  if (S.lang !== "en") drawMissing();
   document.querySelectorAll("[data-show]").forEach((b) => b.addEventListener("click", () => { S.show = b.dataset.show; renderHome(); }));
   document.querySelectorAll("[data-newest]").forEach((b) => b.addEventListener("click", () => { S.newest = b.dataset.newest === "true"; renderHome(); }));
   draw();
@@ -459,6 +463,122 @@ function renderChanges() {
   document.querySelectorAll("[data-chg]").forEach((b) => b.addEventListener("click", () => { S.chg = b.dataset.chg; renderChanges(); }));
 }
 
+// ---------------------------------------------------------------- Add a set: paste a card list copied from any site
+const RARITY_CODES = new Set(["C", "U", "R", "RR", "RRR", "AR", "SR", "SAR", "UR", "HR", "MUR", "ACE", "TR", "K", "PR", "S", "SSR", "CHR", "CSR", "H", "P", "BWR", "MA", "SP"]);
+function parseList(text) {
+  const cards = [], skipped = [];
+  for (let line of text.split(/\r?\n/)) {
+    line = line.replace(/\s+/g, " ").replace(/[|,;]+/g, " ").trim();
+    if (!line) continue;
+    const toks = line.split(" ");
+    const isNum = (t) => /^(#|No\.?)?[A-Za-z]{0,4}\d{1,4}[a-z]?(\/[A-Za-z]{0,4}\d{1,4})?\.?$/.test(t);
+    let i = toks.findIndex(isNum);
+    if (i < 0 || toks.length < 2) { skipped.push(line); continue; }
+    const n = toks[i].replace(/^(#|No\.?)/, "").replace(/\.$/, "");
+    const rest = toks.filter((_, j) => j !== i).filter((t) => !/^[$¥￥€£]|^\d+([.,]\d+)?$/.test(t));
+    let r = null;
+    if (rest.length > 1 && RARITY_CODES.has(rest[rest.length - 1].toUpperCase())) r = rest.pop().toUpperCase();
+    const name = rest.join(" ").trim();
+    if (!name || /^(no|number|card|name|rarity)$/i.test(name)) { skipped.push(line); continue; }
+    cards.push({ n, name, r, v: "n" });
+  }
+  const seen = new Set();
+  return { cards: cards.filter((c) => !seen.has(c.n) && seen.add(c.n)), skipped };
+}
+// junk entries in the card database: 15 copies of "Triplet Beat" with codes like CS1a (real only in Simplified Chinese)
+const junkSet = (s, lang) => lang !== "zh-cn" && /^CS[0-9A-Z.]+[a-z]?$/.test(s.id) && !s.cards_n;
+async function missingSets(lang) {
+  const listed = D.sets[lang].sets;
+  const empty = listed.filter((s) => !s.cards_n && !junkSet(s, lang)).slice().reverse().map((s) => ({ ...s, kind: "empty" }));
+  let unlisted = [];
+  if (lang === "ko" || lang === "zh-tw") {   // these get most Japanese sets too: flag recent Japanese sets they don't list at all
+    D.sets.ja ??= (await load("data/ja/sets.json")) || { sets: [] };
+    const have = new Set(listed.map((s) => s.id.toUpperCase()));
+    unlisted = D.sets.ja.sets.filter((s) => (s.date || "") >= "2023-01-01" && !junkSet(s, "ja") && !have.has(s.id.toUpperCase()) && !/^(SV-P|M-P|WCS|MC|MF|SVK|SVL)/.test(s.id))
+      .slice().reverse().map((s) => ({ ...s, kind: "unlisted", jaName: s.name }));
+  }
+  return { empty, unlisted };
+}
+async function drawMissing() {
+  const { empty, unlisted } = await missingSets(S.lang);
+  const L = LANGS.find((l) => l.id === S.lang);
+  const row = (s) => `<li><span><b>${esc(s.kind === "unlisted" ? (enName(s, "ja") || s.name) : s.name)}</b>
+      <span class="note">${esc([s.kind === "unlisted" ? "" : enName(s), s.id, s.date ? s.date.slice(0, 4) : ""].filter(Boolean).join(" · "))}</span></span>
+      <button type="button" class="btn ghost small" data-paste="${esc(s.id)}" data-kind="${s.kind}">Paste list</button></li>`;
+  $("#missing summary").textContent = `Missing sets (${empty.length + unlisted.length})`;
+  $("#missinglist").innerHTML = `<p class="note">Sets PokeInfo doesn't have a card list for yet. Find one on ${fullListLink(S.lang, FULL_LISTS[S.lang]?.site || "another site")}, copy its card list and tap <b>Paste list</b>.</p>
+    ${empty.length ? `<h3 class="mh">Listed, but no cards yet (${empty.length})</h3><ul class="mlist">${empty.map(row).join("")}</ul>` : ""}
+    ${unlisted.length ? `<h3 class="mh">Probably out in ${esc(L.name)} too, not listed at all (${unlisted.length})</h3>
+      <p class="note">Japanese sets from 2023 on that ${esc(L.name)} usually gets as well. Names are shown in English; the ${esc(L.name)} name may differ.</p>
+      <ul class="mlist">${unlisted.map(row).join("")}</ul>` : ""}
+    <p class="note">Not here? Use <b>Add a set</b> → “A set that isn't in this list”.</p>`;
+  $("#missinglist").querySelectorAll("[data-paste]").forEach((b) => b.addEventListener("click", () => {
+    const src = b.dataset.kind === "unlisted" ? D.sets.ja.sets.find((x) => x.id === b.dataset.paste) : null;
+    openAddSet(b.dataset.kind === "empty" ? b.dataset.paste : null, src && { name: enName(src, "ja") || src.name, code: src.id, date: src.date });
+  }));
+}
+function openAddSet(preset = null, guess = null) {
+  const dlg = $("#addsheet"), L = LANGS.find((l) => l.id === S.lang);
+  const empty = D.sets[S.lang].sets.filter((s) => !s.cards_n && !junkSet(s, S.lang)).slice().reverse();
+  dlg.innerHTML = `<form class="sheet" id="asform">
+    <div class="sheet-head"><h2 id="as-title">Add a ${esc(L.name)} set</h2><button type="button" class="x" id="asx" aria-label="Close">×</button></div>
+    <p class="note">Copy a set's card list from any site (TCG Collector, Limitless, PokeGuardian…) and paste it below: one card per line, with its number and name. Pictures are added wherever the card database has them.</p>
+    <label class="fld">Which set
+      <select id="aswhich">${empty.map((s) => `<option value="${esc(s.id)}">${esc(s.name)}${enName(s) ? ` (${esc(enName(s))})` : ""}${s.date ? ` · ${esc(s.date.slice(0, 4))}` : ""}</option>`).join("")}
+        <option value="__new">A set that isn't in this list</option></select></label>
+    <div id="asnew" hidden>
+      <label class="fld">Set name<input id="asname" autocomplete="off" placeholder="As printed, e.g. アビスアイ"></label>
+      <div class="row2"><label class="fld">Set code<input id="ascode" autocomplete="off" placeholder="e.g. M5"></label>
+        <label class="fld">Release date<input id="asdate" type="date"></label></div>
+    </div>
+    <label class="fld">Card list<textarea id="aslist" rows="9" placeholder="001/080 Bulbasaur C&#10;002/080 Ivysaur U&#10;…"></textarea></label>
+    <p class="note" id="aspreview" role="status">Paste a list to see the cards it found.</p>
+    <div class="row"><button type="submit" class="btn" id="assave" disabled>Save set</button></div>
+    <p class="note" id="asmsg" role="status"></p></form>`;
+  const which = $("#aswhich");
+  const syncNew = () => { $("#asnew").hidden = which.value !== "__new"; };
+  if (!empty.length || guess) which.value = "__new";
+  if (preset) which.value = preset;
+  if (guess) { $("#asname").value = guess.name || ""; $("#ascode").value = guess.code || ""; $("#asdate").value = guess.date || ""; }
+  syncNew();
+  let parsed = { cards: [], skipped: [] };
+  const preview = () => {
+    parsed = parseList($("#aslist").value);
+    const c = parsed.cards;
+    $("#aspreview").innerHTML = c.length
+      ? `Found <b>${c.length} cards</b>: ${esc(c.slice(0, 4).map((x) => `${x.n} ${x.name}`).join(", "))}${c.length > 4 ? `… ${esc(`${c[c.length - 1].n} ${c[c.length - 1].name}`)}` : ""}.${parsed.skipped.length ? ` ${parsed.skipped.length} line${parsed.skipped.length === 1 ? "" : "s"} skipped (no card number), e.g. “${esc(parsed.skipped[0].slice(0, 40))}”.` : ""}`
+      : "Paste a list to see the cards it found.";
+    $("#assave").disabled = !c.length;
+  };
+  which.addEventListener("change", syncNew);
+  $("#aslist").addEventListener("input", preview);
+  $("#asx").onclick = () => dlg.close();
+  $("#asform").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    if (!token()) { $("#asmsg").textContent = "Connect GitHub first (the sync button at the top), so the set can be saved for all your devices."; return; }
+    const db = D.sets[S.lang].sets.find((x) => x.id === which.value);
+    const name = db ? db.name : $("#asname").value.trim();
+    const id = db ? db.id : ($("#ascode").value.trim() || name).replace(/[^A-Za-z0-9.-]+/g, "-").replace(/^-|-$/g, "") || `set-${Date.now()}`;
+    if (!name) { $("#asmsg").textContent = "Add the set's name."; return; }
+    const set = { id, name, serie: db?.serie || null, serie_id: db?.serie_id || null, date: db?.date || $("#asdate").value || null,
+      official: db?.official || null, abbr: db?.abbr || (db ? null : $("#ascode").value.trim() || null), logo: db?.logo || null,
+      note: "Card list pasted in PokeInfo.", source: "pasted", cards: parsed.cards };
+    $("#assave").disabled = true; $("#asmsg").textContent = "Saving…";
+    try {
+      const path = `pokeinfo/manual/${S.lang}/${id}.json`;
+      const old = await gh("GET", null, path);
+      const sha = old.ok ? (await old.json()).sha : undefined;
+      const r = await gh("PUT", { message: `PokeInfo: add ${S.lang} set ${name} (${parsed.cards.length} cards)`, content: b64e(JSON.stringify(set, null, 1)), ...(sha ? { sha } : {}) }, path);
+      if (!r.ok) throw new Error(r.status);
+      $("#asmsg").innerHTML = `<b>Saved.</b> ${esc(name)} will show up in about 5 minutes, once the card update has run.`;
+    } catch (err) {
+      $("#assave").disabled = false;
+      $("#asmsg").textContent = String(err.message) === "401" || String(err.message) === "403" ? "GitHub didn't accept the key. Check it in the sync settings." : "Couldn't save to GitHub. Try again in a minute.";
+    }
+  });
+  if (!dlg.open) dlg.showModal();
+}
+
 // ---------------------------------------------------------------- sync sheet: GitHub key, backup, restore
 function openSync() {
   const dlg = $("#syncsheet"), has = !!token();
@@ -535,7 +655,7 @@ function toast(msg, undo) {
   if (undo) $("#undo").onclick = () => { t.hidden = true; undo(); };
   clearTimeout(toastTimer); toastTimer = setTimeout(() => { t.hidden = true; }, 3500);
 }
-for (const d of ["#cardsheet", "#syncsheet"]) $(d).addEventListener("click", (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });
+for (const d of ["#cardsheet", "#syncsheet", "#addsheet"]) $(d).addEventListener("click", (e) => { if (e.target === e.currentTarget) e.currentTarget.close(); });
 
 $("#langs").addEventListener("click", (e) => { const b = e.target.closest("[data-lang]"); if (b) { S.q = ""; go(b.dataset.lang); } });
 $("#sync").addEventListener("click", openSync);

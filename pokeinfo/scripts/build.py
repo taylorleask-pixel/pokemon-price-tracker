@@ -197,12 +197,16 @@ def find_original(lang, sets, num, name):
 
 def add_manual(lang, sets):
     """Sets typed in by hand (pokeinfo/manual/<lang>/*.json) until the card database adds them."""
-    have = {norm_name(x["name"]) for x in sets}
+    with_cards = [x for x in sets if x.get("cards_n")]
+    have = {norm_name(x["name"]) for x in with_cards}
+    have_ids = {x["id"]: x for x in with_cards}
     for f in sorted((MANUAL / lang).glob("*.json")) if (MANUAL / lang).exists() else []:
         m = json.loads(f.read_text(encoding="utf-8"))
-        if norm_name(m["name"]) in have or any(norm_name(a) in have for a in m.get("also_called", [])):
+        db = have_ids.get(m["id"])
+        if (db and db["cards_n"] >= len(m["cards"])) or (not db and (norm_name(m["name"]) in have or any(norm_name(a) in have for a in m.get("also_called", [])))):
             print(f"   {m['name']}: now in the card database, hand-made copy not used")
             continue
+        sets[:] = [x for x in sets if x["id"] != m["id"]]      # replaces the database's empty (or shorter) copy
         rows, found = [], 0
         for c in m["cards"]:
             row = {"id": f"{m['id']}-{c['n'].replace('/', '-')}", "n": c["n"], "name": c["name"], "img": None, "r": c.get("r"),
@@ -224,7 +228,7 @@ def add_manual(lang, sets):
         path.write_text(json.dumps({"id": m["id"], "name": m["name"], "note": m.get("note"), "cards": rows}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         sets.append({"id": m["id"], "name": m["name"], "serie": m.get("serie"), "serie_id": m.get("serie_id"), "date": m.get("date"),
                      "official": m.get("official"), "total": len(rows), "cards_n": len(rows),
-                     "img_n": sum(1 for r in rows if r.get("img") or r.get("ps")), "logo": None, "symbol": None, "abbr": m.get("abbr"), "manual": True})
+                     "img_n": sum(1 for r in rows if r.get("img") or r.get("ps")), "logo": m.get("logo"), "symbol": None, "abbr": m.get("abbr"), "manual": True})
         print(f"   added by hand: {m['name']} ({len(rows)} cards, {found} matched to the original card)")
 
 
