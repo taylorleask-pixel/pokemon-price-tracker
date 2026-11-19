@@ -1,6 +1,7 @@
 // Pack Watch service worker: always try the network first so prices stay fresh,
 // and fall back to the last saved copy when the phone is offline.
 
+const CACHE = "packwatch-v4";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
@@ -15,13 +16,14 @@ self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET" || new URL(req.url).origin !== location.origin) return;
   e.respondWith(
-    fetch(req, { cache: "no-cache" }).then((res) => {   // always ask GitHub for the newest copy
+    // pages must be fetched by address: a page request can't be re-sent with extra options
+    fetch(req.mode === "navigate" ? req.url : req, { cache: "no-cache" }).then((res) => {   // always ask GitHub for the newest copy
       if (res.ok) {
         const copy = res.clone();
         const key = new URL(req.url); key.search = "";   // data/*.json?v=… saved under one name
         caches.open(CACHE).then((c) => c.put(key.href, copy));
       }
       return res;
-    }).catch(() => caches.match(req, { ignoreSearch: true }))
+    }).catch(() => caches.match(req, { ignoreSearch: true }).then((hit) => hit || fetch(req)))
   );
 });
