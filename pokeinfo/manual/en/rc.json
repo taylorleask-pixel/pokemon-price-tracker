@@ -1,0 +1,164 @@
+{
+ "id": "rc",
+ "name": "Radiant Collection",
+ "serie": "Black & White",
+ "serie_id": "bw",
+ "date": "2013-11-06",
+ "official": 25,
+ "abbr": null,
+ "logo": null,
+ "note": "Card list pasted in PokeInfo.",
+ "source": "pasted",
+ "cards": [
+  {
+   "n": "RC1/RC25",
+   "name": "Snivy",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC2/RC25",
+   "name": "Servine",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC3/RC25",
+   "name": "Serperior",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC4/RC25",
+   "name": "Growlithe",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC5/RC25",
+   "name": "Torchic",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC6/RC25",
+   "name": "Piplup",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC7/RC25",
+   "name": "Pikachu",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC8/RC25",
+   "name": "Ralts",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC9/RC25",
+   "name": "Kirlia",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC10/RC25",
+   "name": "Gardevoir",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC11/RC25",
+   "name": "Meloetta-EX",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC12/RC25",
+   "name": "Stunfisk",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC13/RC25",
+   "name": "Purrloin",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC14/RC25",
+   "name": "Eevee",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC15/RC25",
+   "name": "Teddiursa",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC16/RC25",
+   "name": "Ursaring",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC17/RC25",
+   "name": "Audino",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC18/RC25",
+   "name": "Minccino",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC19/RC25",
+   "name": "Cinccino",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC20/RC25",
+   "name": "Elesa",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC21/RC25",
+   "name": "Shaymin-EX",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC22/RC25",
+   "name": "Reshiram",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC23/RC25",
+   "name": "Emolga",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC24/RC25",
+   "name": "Mew-EX",
+   "r": null,
+   "v": "n"
+  },
+  {
+   "n": "RC25/RC25",
+   "name": "Meloetta-EX",
+   "r": null,
+   "v": "n"
+  }
+ ]
+}
