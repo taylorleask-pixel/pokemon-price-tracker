@@ -190,7 +190,7 @@ def find_original(lang, sets, num, name):
         except Exception:  # noqa: BLE001
             continue
         for r in rows:
-            if norm_num(r["n"]) == n and norm_name(r["name"]).startswith(norm_name(name)):
+            if norm_num(r["n"]) == n and norm_name(r["name"]).startswith(norm_name(re.sub(r"\s*[(\[].*$", "", name))):
                 return {**r, "from": x["name"]}
     return None
 
