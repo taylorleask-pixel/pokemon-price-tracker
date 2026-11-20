@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-19T21:41+10:00",
+"updated": "2026-11-20T12:20+10:00",
 "listings": [
 {
 "store": "misty",
@@ -609,7 +609,7 @@
 {
 "store": "misty",
 "title": "Chilling Reign Booster Box",
-"price": 757.87,
+"price": 753.64,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
 "image": "https://images.scrydex.com/pokemon/swsh6-s2/large",
@@ -624,7 +624,7 @@
 "key": "box|Chilling Reign",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-19T12:35+10:00"
+"changed": "2026-11-20T12:20+10:00"
 },
 {
 "store": "misty",
@@ -1664,7 +1664,7 @@
 {
 "store": "misty",
 "title": "Rebel Clash Booster Box",
-"price": 798.38,
+"price": 799.88,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/rebel-clash-booster-box",
 "image": "https://images.scrydex.com/pokemon/swsh2-s2/large",
@@ -1679,7 +1679,7 @@
 "key": "box|Rebel Clash",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-20T12:20+10:00"
 },
 {
 "store": "misty",
@@ -1924,7 +1924,7 @@
 {
 "store": "misty",
 "title": "Temporal Forces Booster Box",
-"price": 535.8,
+"price": 532.76,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
 "image": "https://images.scrydex.com/pokemon/sv5-s2/large",
@@ -1939,7 +1939,7 @@
 "key": "box|Temporal Forces",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-19T12:35+10:00"
+"changed": "2026-11-20T12:20+10:00"
 },
 {
 "store": "misty",
@@ -2214,10 +2214,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 475.0,
+"price": 499.95,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -2239,10 +2239,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 499.95,
+"price": 475.0,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -5558,91 +5558,6 @@
 },
 {
 "store": "misty",
-"title": "Crimson Invasion Booster Box",
-"price": 1199.0,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/crimson-invasion-booster-box",
-"image": "https://images.scrydex.com/pokemon/sm4-s2/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "box",
-"set": "Crimson Invasion",
-"year": 2017,
-"product": null,
-"packs": 36,
-"key": "box|Crimson Invasion",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Crimson Invasion Booster Pack",
-"price": 30.54,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/crimson-invasion-booster-pack",
-"image": "https://images.scrydex.com/pokemon/sm4-s1/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "pack",
-"set": "Crimson Invasion",
-"year": 2017,
-"product": null,
-"packs": 1,
-"key": "pack|Crimson Invasion",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Crimson Invasion Elite Trainer Box",
-"price": 367.89,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/crimson-invasion-elite-trainer-box",
-"image": "https://images.scrydex.com/pokemon/sm4-s3/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "etb",
-"set": "Crimson Invasion",
-"year": 2017,
-"product": null,
-"packs": 8,
-"key": "etb|Crimson Invasion",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Crimson Invasion Sleeved Booster Pack Art Bundle (Set of 4)",
-"price": 149.95,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/crimson-invasion-sleeved-booster-pack-art-bundle-set-of-4",
-"image": "https://images.scrydex.com/pokemon/sm4-s9/large",
-"lang": "EN",
-"auto_packs": [
-{
-"set": "Crimson Invasion",
-"qty": 4
-}
-],
-"variant": null,
-"category": "other",
-"set": "Crimson Invasion",
-"year": 2017,
-"product": null,
-"packs": 4,
-"key": "other|crimson invasion sleeved booster pack art bundle set of 4",
-"skip": null,
-"first_seen": null,
-"changed": "2026-11-19T12:35+10:00"
-},
-{
-"store": "misty",
 "title": "Cyclizar ex Box",
 "price": 78.61,
 "available": false,
@@ -5924,26 +5839,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Booster Box",
-"price": 334.3,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box-me6-s2",
-"image": "https://images.scrydex.com/pokemon/me6-s2/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "box",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 36,
-"key": "box|Delta Reign",
-"skip": null,
-"first_seen": "2026-11-07T11:01+10:00",
-"changed": "2026-11-07T11:01+10:00"
-},
-{
-"store": "misty",
-"title": "Delta Reign Booster Box",
 "price": 349.0,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box",
@@ -5960,6 +5855,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "misty",
+"title": "Delta Reign Booster Box",
+"price": 334.3,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box-me6-s2",
+"image": "https://images.scrydex.com/pokemon/me6-s2/large",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 36,
+"key": "box|Delta Reign",
+"skip": null,
+"first_seen": "2026-11-07T11:01+10:00",
+"changed": "2026-11-07T11:01+10:00"
 },
 {
 "store": "misty",
@@ -6094,26 +6009,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Elite Trainer Box",
-"price": 129.99,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu73zs37ytn13axz2ofp2se/art-7ce3c0f6.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "etb",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 9,
-"key": "etb|Delta Reign",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Delta Reign Elite Trainer Box",
 "price": 140.59,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box-me6-s9",
@@ -6130,6 +6025,26 @@
 "skip": null,
 "first_seen": "2026-11-07T11:01+10:00",
 "changed": "2026-11-07T11:01+10:00"
+},
+{
+"store": "misty",
+"title": "Delta Reign Elite Trainer Box",
+"price": 129.99,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu73zs37ytn13axz2ofp2se/art-7ce3c0f6.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "etb",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 9,
+"key": "etb|Delta Reign",
+"skip": null,
+"first_seen": null,
+"changed": null
 },
 {
 "store": "misty",
@@ -7836,8 +7751,8 @@
 "title": "EX Trainer Kit - Latias & Latios",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios",
-"image": "https://images.scrydex.com/pokemon/tk1a-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios-tk1b-s1",
+"image": "https://images.scrydex.com/pokemon/tk1b-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -7856,8 +7771,8 @@
 "title": "EX Trainer Kit - Latias & Latios",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios-tk1b-s1",
-"image": "https://images.scrydex.com/pokemon/tk1b-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios",
+"image": "https://images.scrydex.com/pokemon/tk1a-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -19148,26 +19063,6 @@
 },
 {
 "store": "misty",
-"title": "Unified Minds Single Pack Blister - Sudowoodo",
-"price": 159.0,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/unified-minds-single-pack-blister-sudowoodo",
-"image": "https://images.scrydex.com/pokemon/sm11-s9/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "blister-single",
-"set": "Unified Minds",
-"year": 2019,
-"product": null,
-"packs": 1,
-"key": "blister-single|Unified Minds",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
 "title": "Unova Mini Tin [Alomomola & Axew]",
 "price": 46.07,
 "available": false,
@@ -23484,7 +23379,7 @@
 {
 "store": "sidequest",
 "title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
-"price": 858.2,
+"price": 863.8,
 "available": false,
 "url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/673a5c23-8c43-4c7d-81f1-932eb26ab7e9.jpg?v=1780062987",
@@ -23499,7 +23394,7 @@
 "key": "etb|Fusion Strike",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-18T12:54+10:00"
+"changed": "2026-11-20T12:20+10:00"
 },
 {
 "store": "sidequest",
@@ -30092,6 +29987,46 @@
 "changed": null
 },
 {
+"store": "everson",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Box",
+"price": 320.0,
+"available": true,
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster",
+"image": "https://cdn.shopify.com/s/files/1/0417/0219/5361/files/Pokemon-TCG-Mega-Evolution_Flowing-Fists-Booster-Display_EN.jpg?v=1795134725",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Mega Evolution",
+"year": 2025,
+"product": null,
+"packs": 36,
+"key": "box|Mega Evolution",
+"skip": null,
+"first_seen": "2026-11-20T12:20+10:00",
+"changed": "2026-11-20T12:20+10:00"
+},
+{
+"store": "everson",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Elite Trainer Box",
+"price": 120.0,
+"available": false,
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-elite-trainer-box",
+"image": "https://cdn.shopify.com/s/files/1/0417/0219/5361/files/Pokemon-TCG-Mega-Evolution_Flowing-Fists-Elite-Trainer-Box_EN.jpg?v=1795136248",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "etb",
+"set": "Mega Evolution",
+"year": 2025,
+"product": null,
+"packs": 9,
+"key": "etb|Mega Evolution",
+"skip": null,
+"first_seen": "2026-11-20T12:20+10:00",
+"changed": "2026-11-20T12:20+10:00"
+},
+{
 "store": "dorky",
 "title": "Charizard EX Premium Sealed Box – Slight Damage on box",
 "price": 255.0,
@@ -31533,6 +31468,26 @@
 },
 {
 "store": "jojos",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Elite Trainer Box",
+"price": 120.0,
+"available": false,
+"url": "https://www.jojoshobbyhouse.com.au/product/pok-mon-tcg-mega-evolution-flowing-fists-elite-trainer-box/EVPNJ5Y2HQ4V2IEYRUNNFEWE",
+"image": null,
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "etb",
+"set": "Mega Evolution",
+"year": 2025,
+"product": null,
+"packs": 9,
+"key": "etb|Mega Evolution",
+"skip": null,
+"first_seen": "2026-11-20T12:20+10:00",
+"changed": "2026-11-20T12:20+10:00"
+},
+{
+"store": "jojos",
 "title": "Pokemon TCG Slashing Legends Tin *Single Assorted*",
 "price": 55.0,
 "available": false,
@@ -31620,6 +31575,31 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "jojos",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Three Booster Blister",
+"price": 30.0,
+"available": false,
+"url": "https://www.jojoshobbyhouse.com.au/product/pok-mon-tcg-mega-evolution-flowing-fists-three-booster-blister/FPRQL2B4XGV5W4RUQVCT4DWO",
+"image": null,
+"lang": "EN",
+"auto_packs": [
+{
+"set": "Mega Evolution",
+"qty": 3
+}
+],
+"variant": null,
+"category": "blister-multi",
+"set": "Mega Evolution",
+"year": 2025,
+"product": null,
+"packs": 3,
+"key": "blister-multi|pokemon tcg mega evolution - flowing fists three booster blister",
+"skip": null,
+"first_seen": "2026-11-20T12:20+10:00",
+"changed": "2026-11-20T12:20+10:00"
 },
 {
 "store": "jojos",
@@ -32420,6 +32400,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "jojos",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Bundle",
+"price": 60.0,
+"available": false,
+"url": "https://www.jojoshobbyhouse.com.au/product/pok-mon-tcg-mega-evolution-flowing-fists-booster-bundle/RVZFQB5QGE34LDTWRQFB2Z4W",
+"image": null,
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "bundle",
+"set": "Mega Evolution",
+"year": 2025,
+"product": null,
+"packs": 6,
+"key": "bundle|Mega Evolution",
+"skip": null,
+"first_seen": "2026-11-20T12:20+10:00",
+"changed": "2026-11-20T12:20+10:00"
 },
 {
 "store": "jojos",
