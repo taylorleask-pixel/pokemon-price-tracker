@@ -1,12 +1,6 @@
 {
  "v": 1,
- "cards": {
-  "en|sv08.5|sv08.5-130": "n",
-  "en|sv08.5|sv08.5-108": "n",
-  "en|sv08.5|sv08.5-011": "h",
-  "en|sv08.5|sv08.5-043": "h",
-  "en|sv08.5|sv08.5-071": "n"
- },
+ "cards": {},
  "had": {},
  "log": [
   {
@@ -78,7 +72,57 @@
    "name": "Dreepy",
    "n": "071",
    "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-20T01:42:38.629Z",
+   "k": "en|sv08.5|sv08.5-011",
+   "a": "removed",
+   "v": "",
+   "from": "h",
+   "name": "Hydrapple ex",
+   "n": "011",
+   "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-20T01:42:39.057Z",
+   "k": "en|sv08.5|sv08.5-043",
+   "a": "removed",
+   "v": "",
+   "from": "h",
+   "name": "Flutter Mane",
+   "n": "043",
+   "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-20T01:42:39.435Z",
+   "k": "en|sv08.5|sv08.5-071",
+   "a": "removed",
+   "v": "",
+   "from": "n",
+   "name": "Dreepy",
+   "n": "071",
+   "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-20T01:42:39.815Z",
+   "k": "en|sv08.5|sv08.5-108",
+   "a": "removed",
+   "v": "",
+   "from": "n",
+   "name": "Festival Grounds",
+   "n": "108",
+   "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-20T01:42:40.401Z",
+   "k": "en|sv08.5|sv08.5-130",
+   "a": "removed",
+   "v": "",
+   "from": "n",
+   "name": "Techno Radar",
+   "n": "130",
+   "set": "Prismatic Evolutions"
   }
  ],
- "updated": "2026-11-20T01:41:37.568Z"
+ "updated": "2026-11-20T01:42:42.781Z"
 }
