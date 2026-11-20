@@ -314,26 +314,44 @@ async function renderSet(id) {
     <div class="tools">
       <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["have", "Have"], ["need", "Need"], ...(hadN ? [["had", "Had"]] : [])].map(([v, l]) =>
         `<button type="button" data-own="${v}" aria-pressed="${S.own === v}">${l}</button>`).join("")}</div>
-      <span class="note">Tap a card to tick it. Tap <b>i</b> for its versions (normal, reverse holo…).</span>
+      <span class="note">Tap a card to tick it. Reverse holos have their own card. Tap <b>i</b> for details or to mark it traded or sold.</span>
     </div>
     <div class="grid" id="grid"></div>`;
 
   const draw = () => {
     S.list = cards.filter((c) => (!S.type || (S.type === "__rev" ? (c.v || "").includes("r") : (c.r || "Unknown rarity") === S.type)) &&
-      (S.own === "all" || (S.own === "had" ? !C.cards[k(c)] && !!C.had[k(c)] : (S.own === "have") === !!C.cards[k(c)])));
-    $("#grid").innerHTML = S.list.map((c, i) => cardTile(c, C.cards[k(c)], i, C.had[k(c)])).join("") || `<p class="none">No cards here.</p>`;
+      (S.own !== "had" || (!C.cards[k(c)] && !!C.had[k(c)])));
+    // one tile per version, so normal and reverse holo can be ticked straight from the grid
+    S.tiles = [];
+    S.list.forEach((c, ci) => {
+      const vs = versions(c), owned = C.cards[k(c)] || "";
+      for (const v of vs) {
+        if (S.type === "__rev" && v !== "r") continue;
+        if (S.own === "have" && !owned.includes(v)) continue;
+        if (S.own === "need" && owned.includes(v)) continue;
+        S.tiles.push({ c, v, ci, multi: vs.length > 1 });
+      }
+    });
+    $("#grid").innerHTML = S.tiles.map((t, ti) => cardTile(t, C.cards[k(t.c)] || "", ti, C.had[k(t.c)])).join("") || `<p class="none">No cards here.</p>`;
   };
   $("#back").onclick = () => go(S.lang);
   document.querySelectorAll("[data-type]").forEach((b) => b.addEventListener("click", () => { S.type = b.dataset.type || null; renderSet(id); }));
   document.querySelectorAll("[data-own]").forEach((b) => b.addEventListener("click", () => { S.own = b.dataset.own; renderSet(id); }));
+  S.redraw = draw;
   $("#grid").addEventListener("click", (e) => {
     const tile = e.target.closest(".card"); if (!tile) return;
-    const c = S.list[+tile.dataset.i];
-    if (e.target.closest(".info")) return openCard(id, +tile.dataset.i);
+    const t = S.tiles[+tile.dataset.i], c = t.c;
+    if (e.target.closest(".info")) return openCard(id, t.ci);
     const kk = k(c), before = C.cards[kk] || "", hadBefore = C.had[kk];
-    setOwned(kk, before ? "" : (hadBefore?.v || defaultVersion(c)), info(c));
-    tile.outerHTML = cardTile(c, C.cards[kk], +tile.dataset.i, C.had[kk]);
-    toast(before ? `Removed ${c.name}` : hadBefore ? `Got ${c.name} back` : `Ticked ${c.name}`, () => {
+    const next = before.includes(t.v) ? before.replace(t.v, "") : versions(c).filter((x) => before.includes(x) || x === t.v).join("");
+    setOwned(kk, next, info(c));
+    // redraw every tile of this card (its other versions show which ones you have)
+    document.querySelectorAll(".card").forEach((el) => {
+      const tt = S.tiles[+el.dataset.i];
+      if (tt && tt.c === c) el.outerHTML = cardTile(tt, C.cards[kk] || "", +el.dataset.i, C.had[kk]);
+    });
+    const what = `${c.name}${t.multi ? ` (${VNAME[t.v].toLowerCase()})` : ""}`;
+    toast(before.includes(t.v) ? `Removed ${what}` : hadBefore && !before ? `Got ${what} back` : `Ticked ${what}`, () => {
       setOwned(kk, before, info(c));
       if (hadBefore && !before) push({ h: kk, val: hadBefore });
       renderSet(id);
@@ -342,14 +360,15 @@ async function renderSet(id) {
   });
   draw();
 }
-function cardTile(c, owned, i, had) {
-  const vs = versions(c);
-  had = !owned && had;
-  return `<button type="button" class="card ${owned ? "have" : had ? "had" : "need"}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}`)}${owned ? ", have it" : had ? `, ${HOW[had.how].toLowerCase()}` : ""}">
+function cardTile(t, ownedAll, i, had) {
+  const c = t.c, v = t.v, owned = ownedAll.includes(v) ? ownedAll : "";
+  had = !ownedAll && had;
+  const label = t.multi && v !== "n" ? VNAME[v] : "";
+  return `<button type="button" class="card ${owned ? "have" : had ? "had" : "need"}${v === "r" ? " rev" : ""}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}${label ? `, ${label}` : ""}`)}${owned ? ", have it" : had ? `, ${HOW[had.how].toLowerCase()}` : ""}">
     <span class="pic">${pic(c) ? `<img src="${esc(pic(c))}" alt="" loading="lazy" data-ph="${esc(c.name)}" onerror="imgFail(this)">` : `<span class="ph">${esc(c.name)}</span>`}
       ${owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}
       ${had ? `<span class="hadtag">Had · ${HOW[had.how]}</span>` : ""}
-      ${vs.length > 1 && owned ? `<span class="vers">${vs.map((v) => `<i class="${owned.includes(v) ? "on" : ""}">${VSHORT[v]}</i>`).join("")}</span>` : ""}
+      ${label ? `<span class="vlabel">${esc({ r: "Reverse", h: "Holo", f: "1st Ed." }[v] || label)}</span>` : ""}
       <span class="info" role="button" aria-label="Versions and details">i</span></span>
     <span class="cap"><span>${esc(c.name)}</span><span>${esc(c.n)}</span></span></button>`;
 }
@@ -429,8 +448,7 @@ function openCard(setId, i) {
 
 function redrawCard(setId, c, kk, i) {
   openCard(setId, i);
-  const tile = document.querySelector(`.card[data-i="${i}"]`);
-  if (tile) tile.outerHTML = cardTile(c, C.cards[kk], i, C.had[kk]);
+  S.redraw?.();
   refreshProgress(setId);
 }
 
