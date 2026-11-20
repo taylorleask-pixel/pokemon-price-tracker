@@ -274,7 +274,7 @@ async function renderSet(id) {
   }
   const set = D.setFiles[fk];
   if (!set || !meta) { $("#view").innerHTML = `<button class="back" id="back">← All sets</button><p class="none">That set isn't in the card list.</p>`; $("#back").onclick = () => go(S.lang); return; }
-  if (S.setId !== id) { S.setId = id; S.type = null; S.own = "all"; }
+  if (S.setId !== id) { S.setId = id; S.type = null; S.own = "all"; S.cq = ""; }
   const cards = set.cards;
   const k = (c) => key(S.lang, id, c.id);
   const info = (c) => ({ name: c.name, n: c.n, set: `${set.name || meta.name}${S.lang === "en" ? "" : ` (${LANGS.find((l) => l.id === S.lang).label})`}`, href: `${S.lang}/set/${id}` });
@@ -312,6 +312,9 @@ async function renderSet(id) {
       ${rev ? `<li><button type="button" data-type="__rev" aria-pressed="${S.type === "__rev"}"><b>${rev}</b> Reverse holo</button></li>` : ""}
     </ul>` : ""}
     <div class="tools">
+      <input class="search" id="cq" type="search" placeholder="Search cards: name or number" value="${esc(S.cq || "")}" aria-label="Search cards in this set" autocomplete="off">
+    </div>
+    <div class="tools">
       <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["have", "Have"], ["need", "Need"], ...(hadN ? [["had", "Had"]] : [])].map(([v, l]) =>
         `<button type="button" data-own="${v}" aria-pressed="${S.own === v}">${l}</button>`).join("")}</div>
       <span class="note">Tap a card to tick it. Reverse holos have their own card. Tap <b>i</b> for details or to mark it traded or sold.</span>
@@ -320,7 +323,7 @@ async function renderSet(id) {
 
   const draw = () => {
     S.list = cards.filter((c) => (!S.type || (S.type === "__rev" ? (c.v || "").includes("r") : (c.r || "Unknown rarity") === S.type)) &&
-      (S.own !== "had" || (!C.cards[k(c)] && !!C.had[k(c)])));
+      (S.own !== "had" || (!C.cards[k(c)] && !!C.had[k(c)])) && cardMatches(c, S.cq));
     // one tile per version, so normal and reverse holo can be ticked straight from the grid
     S.tiles = [];
     S.list.forEach((c, ci) => {
@@ -332,12 +335,13 @@ async function renderSet(id) {
         S.tiles.push({ c, v, ci, multi: vs.length > 1 });
       }
     });
-    $("#grid").innerHTML = S.tiles.map((t, ti) => cardTile(t, C.cards[k(t.c)] || "", ti, C.had[k(t.c)])).join("") || `<p class="none">No cards here.</p>`;
+    $("#grid").innerHTML = S.tiles.map((t, ti) => cardTile(t, C.cards[k(t.c)] || "", ti, C.had[k(t.c)])).join("") || `<p class="none">${S.cq ? `No cards match “${esc(S.cq)}”.` : "No cards here."}</p>`;
   };
   $("#back").onclick = () => go(S.lang);
   document.querySelectorAll("[data-type]").forEach((b) => b.addEventListener("click", () => { S.type = b.dataset.type || null; renderSet(id); }));
   document.querySelectorAll("[data-own]").forEach((b) => b.addEventListener("click", () => { S.own = b.dataset.own; renderSet(id); }));
   S.redraw = draw;
+  $("#cq").addEventListener("input", (e) => { S.cq = e.target.value; draw(); });
   $("#grid").addEventListener("click", (e) => {
     const tile = e.target.closest(".card"); if (!tile) return;
     const t = S.tiles[+tile.dataset.i], c = t.c;
@@ -359,6 +363,20 @@ async function renderSet(id) {
     refreshProgress(id);
   });
   draw();
+}
+// card search: name ("gengar", "pikachu v"), number ("57" finds 057/198), or both ("57 gengar")
+function cardMatches(c, q) {
+  q = (q || "").trim().toLowerCase();
+  if (!q) return true;
+  const name = (c.name || "").toLowerCase(), num = String(c.n || "").toLowerCase();
+  const bare = num.split("/")[0].replace(/^[a-z]*0*/, "");
+  return q.split(/\s+/).every((w) => {
+    if (/^#?\d+[a-z]?(\/\d+)?$/.test(w)) {
+      const n = w.replace(/^#/, "");
+      return n.includes("/") ? num.replace(/^0+/, "") === n.replace(/^0+/, "") || num === n : bare === n.replace(/^0+/, "") || num.startsWith(n);
+    }
+    return name.includes(w) || num.includes(w) || (c.r || "").toLowerCase().includes(w);
+  });
 }
 function cardTile(t, ownedAll, i, had) {
   const c = t.c, v = t.v, owned = ownedAll.includes(v) ? ownedAll : "";
