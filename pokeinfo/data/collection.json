@@ -1,7 +1,8 @@
 {
  "v": 1,
  "cards": {
-  "en|sv08.5|sv08.5-130": "n"
+  "en|sv08.5|sv08.5-130": "n",
+  "en|sv08.5|sv08.5-108": "n"
  },
  "had": {},
  "log": [
@@ -34,7 +35,17 @@
    "name": "Techno Radar",
    "n": "130",
    "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-20T01:41:07.575Z",
+   "k": "en|sv08.5|sv08.5-108",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Festival Grounds",
+   "n": "108",
+   "set": "Prismatic Evolutions"
   }
  ],
- "updated": "2026-11-20T01:41:02.666Z"
+ "updated": "2026-11-20T01:41:09.918Z"
 }
