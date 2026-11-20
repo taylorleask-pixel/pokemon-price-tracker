@@ -2,7 +2,8 @@
  "v": 1,
  "cards": {
   "en|sv08.5|sv08.5-130": "n",
-  "en|sv08.5|sv08.5-108": "n"
+  "en|sv08.5|sv08.5-108": "n",
+  "en|sv08.5|sv08.5-011": "h"
  },
  "had": {},
  "log": [
@@ -45,7 +46,17 @@
    "name": "Festival Grounds",
    "n": "108",
    "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-20T01:41:16.257Z",
+   "k": "en|sv08.5|sv08.5-011",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Hydrapple ex",
+   "n": "011",
+   "set": "Prismatic Evolutions"
   }
  ],
- "updated": "2026-11-20T01:41:09.918Z"
+ "updated": "2026-11-20T01:41:18.595Z"
 }
