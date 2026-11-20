@@ -4,7 +4,8 @@
   "en|sv08.5|sv08.5-130": "n",
   "en|sv08.5|sv08.5-108": "n",
   "en|sv08.5|sv08.5-011": "h",
-  "en|sv08.5|sv08.5-043": "h"
+  "en|sv08.5|sv08.5-043": "h",
+  "en|sv08.5|sv08.5-071": "n"
  },
  "had": {},
  "log": [
@@ -67,7 +68,17 @@
    "name": "Flutter Mane",
    "n": "043",
    "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-20T01:41:35.242Z",
+   "k": "en|sv08.5|sv08.5-071",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Dreepy",
+   "n": "071",
+   "set": "Prismatic Evolutions"
   }
  ],
- "updated": "2026-11-20T01:41:27.207Z"
+ "updated": "2026-11-20T01:41:37.568Z"
 }
