@@ -1,0 +1,600 @@
+{
+ "id": "M3",
+ "name": "Nullifying Zero",
+ "name_en": "Nullifying Zero",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2026-01-23",
+ "official": 80,
+ "abbr": "M3",
+ "logo": "img/logos/ja/M3.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/080",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "002/080",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "003/080",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "004/080",
+   "name": "Snivy",
+   "v": "n"
+  },
+  {
+   "n": "005/080",
+   "name": "Servine",
+   "v": "n"
+  },
+  {
+   "n": "006/080",
+   "name": "Serperior",
+   "v": "n"
+  },
+  {
+   "n": "007/080",
+   "name": "Scatterbug",
+   "v": "n"
+  },
+  {
+   "n": "008/080",
+   "name": "Spewpa",
+   "v": "n"
+  },
+  {
+   "n": "009/080",
+   "name": "Vivillon",
+   "v": "n"
+  },
+  {
+   "n": "010/080",
+   "name": "Rowlet",
+   "v": "n"
+  },
+  {
+   "n": "011/080",
+   "name": "Dartrix",
+   "v": "n"
+  },
+  {
+   "n": "012/080",
+   "name": "Decidueye ex",
+   "v": "n"
+  },
+  {
+   "n": "013/080",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "014/080",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "015/080",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "016/080",
+   "name": "Salazzle ex",
+   "v": "n"
+  },
+  {
+   "n": "017/080",
+   "name": "Turtonator",
+   "v": "n"
+  },
+  {
+   "n": "018/080",
+   "name": "Seel",
+   "v": "n"
+  },
+  {
+   "n": "019/080",
+   "name": "Dewgong",
+   "v": "n"
+  },
+  {
+   "n": "020/080",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "021/080",
+   "name": "Mega Starmie ex",
+   "v": "n"
+  },
+  {
+   "n": "022/080",
+   "name": "Amaura",
+   "v": "n"
+  },
+  {
+   "n": "023/080",
+   "name": "Aurorus",
+   "v": "n"
+  },
+  {
+   "n": "024/080",
+   "name": "Volcanion",
+   "v": "n"
+  },
+  {
+   "n": "025/080",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "026/080",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "027/080",
+   "name": "Luxray",
+   "v": "n"
+  },
+  {
+   "n": "028/080",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "029/080",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "030/080",
+   "name": "Mega Clefable ex",
+   "v": "n"
+  },
+  {
+   "n": "031/080",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "032/080",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "033/080",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "034/080",
+   "name": "Spritzee",
+   "v": "n"
+  },
+  {
+   "n": "035/080",
+   "name": "Aromatisse",
+   "v": "n"
+  },
+  {
+   "n": "036/080",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "037/080",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "038/080",
+   "name": "Hippopotas",
+   "v": "n"
+  },
+  {
+   "n": "039/080",
+   "name": "Hippowdon",
+   "v": "n"
+  },
+  {
+   "n": "040/080",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "041/080",
+   "name": "Binacle",
+   "v": "n"
+  },
+  {
+   "n": "042/080",
+   "name": "Barbaracle",
+   "v": "n"
+  },
+  {
+   "n": "043/080",
+   "name": "Tyrunt",
+   "v": "n"
+  },
+  {
+   "n": "044/080",
+   "name": "Tyrantrum",
+   "v": "n"
+  },
+  {
+   "n": "045/080",
+   "name": "Hawlucha",
+   "v": "n"
+  },
+  {
+   "n": "046/080",
+   "name": "Mega Zygarde ex",
+   "v": "n"
+  },
+  {
+   "n": "047/080",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "048/080",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "049/080",
+   "name": "Gengar",
+   "v": "n"
+  },
+  {
+   "n": "050/080",
+   "name": "Skorupi",
+   "v": "n"
+  },
+  {
+   "n": "051/080",
+   "name": "Drapion",
+   "v": "n"
+  },
+  {
+   "n": "052/080",
+   "name": "Yveltal ex",
+   "v": "n"
+  },
+  {
+   "n": "053/080",
+   "name": "Chien-Pao",
+   "v": "n"
+  },
+  {
+   "n": "054/080",
+   "name": "Mega Skarmory ex",
+   "v": "n"
+  },
+  {
+   "n": "055/080",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "056/080",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "057/080",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "058/080",
+   "name": "Klefki",
+   "v": "n"
+  },
+  {
+   "n": "059/080",
+   "name": "Rattata",
+   "v": "n"
+  },
+  {
+   "n": "060/080",
+   "name": "Raticate",
+   "v": "n"
+  },
+  {
+   "n": "061/080",
+   "name": "Meowth ex",
+   "v": "n"
+  },
+  {
+   "n": "062/080",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "063/080",
+   "name": "Bunnelby",
+   "v": "n"
+  },
+  {
+   "n": "064/080",
+   "name": "Diggersby",
+   "v": "n"
+  },
+  {
+   "n": "065/080",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "066/080",
+   "name": "Furfrou",
+   "v": "n"
+  },
+  {
+   "n": "067/080",
+   "name": "Lumiose Galette",
+   "v": "n"
+  },
+  {
+   "n": "068/080",
+   "name": "Energy Swatter",
+   "v": "n"
+  },
+  {
+   "n": "069/080",
+   "name": "Antique Sail Fossil",
+   "v": "n"
+  },
+  {
+   "n": "070/080",
+   "name": "Antique Jaw Fossil",
+   "v": "n"
+  },
+  {
+   "n": "071/080",
+   "name": "Poké Pad",
+   "v": "n"
+  },
+  {
+   "n": "072/080",
+   "name": "Core Memory",
+   "v": "n"
+  },
+  {
+   "n": "073/080",
+   "name": "Rosa's Encouragement",
+   "v": "n"
+  },
+  {
+   "n": "074/080",
+   "name": "Jacinthe",
+   "v": "n"
+  },
+  {
+   "n": "075/080",
+   "name": "Naveen",
+   "v": "n"
+  },
+  {
+   "n": "076/080",
+   "name": "Tarragon",
+   "v": "n"
+  },
+  {
+   "n": "077/080",
+   "name": "Lumiose City",
+   "v": "n"
+  },
+  {
+   "n": "078/080",
+   "name": "Growing Grass Energy",
+   "v": "n"
+  },
+  {
+   "n": "079/080",
+   "name": "Telepathic Psychic Energy",
+   "v": "n"
+  },
+  {
+   "n": "080/080",
+   "name": "Rocky Fighting Energy",
+   "v": "n"
+  },
+  {
+   "n": "081/080",
+   "name": "Spewpa",
+   "v": "n"
+  },
+  {
+   "n": "082/080",
+   "name": "Rowlet",
+   "v": "n"
+  },
+  {
+   "n": "083/080",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "084/080",
+   "name": "Aurorus",
+   "v": "n"
+  },
+  {
+   "n": "085/080",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "086/080",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "087/080",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "088/080",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "089/080",
+   "name": "Tyrunt",
+   "v": "n"
+  },
+  {
+   "n": "090/080",
+   "name": "Drapion",
+   "v": "n"
+  },
+  {
+   "n": "091/080",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "092/080",
+   "name": "Raticate",
+   "v": "n"
+  },
+  {
+   "n": "093/080",
+   "name": "Decidueye ex",
+   "v": "n"
+  },
+  {
+   "n": "094/080",
+   "name": "Salazzle ex",
+   "v": "n"
+  },
+  {
+   "n": "095/080",
+   "name": "Mega Starmie ex",
+   "v": "n"
+  },
+  {
+   "n": "096/080",
+   "name": "Mega Clefable ex",
+   "v": "n"
+  },
+  {
+   "n": "097/080",
+   "name": "Mega Zygarde ex",
+   "v": "n"
+  },
+  {
+   "n": "098/080",
+   "name": "Yveltal ex",
+   "v": "n"
+  },
+  {
+   "n": "099/080",
+   "name": "Mega Skarmory ex",
+   "v": "n"
+  },
+  {
+   "n": "100/080",
+   "name": "Meowth ex",
+   "v": "n"
+  },
+  {
+   "n": "101/080",
+   "name": "Sacred Ash",
+   "v": "n"
+  },
+  {
+   "n": "102/080",
+   "name": "Energy Recycler",
+   "v": "n"
+  },
+  {
+   "n": "103/080",
+   "name": "Wondrous Patch",
+   "v": "n"
+  },
+  {
+   "n": "104/080",
+   "name": "Poké Pad",
+   "v": "n"
+  },
+  {
+   "n": "105/080",
+   "name": "Rosa's Encouragement",
+   "v": "n"
+  },
+  {
+   "n": "106/080",
+   "name": "Jacinthe",
+   "v": "n"
+  },
+  {
+   "n": "107/080",
+   "name": "Naveen",
+   "v": "n"
+  },
+  {
+   "n": "108/080",
+   "name": "Tarragon",
+   "v": "n"
+  },
+  {
+   "n": "109/080",
+   "name": "Lumiose City",
+   "v": "n"
+  },
+  {
+   "n": "110/080",
+   "name": "Forest of Vitality",
+   "v": "n"
+  },
+  {
+   "n": "111/080",
+   "name": "Mega Starmie ex",
+   "v": "n"
+  },
+  {
+   "n": "112/080",
+   "name": "Mega Clefable ex",
+   "v": "n"
+  },
+  {
+   "n": "113/080",
+   "name": "Mega Zygarde ex",
+   "v": "n"
+  },
+  {
+   "n": "114/080",
+   "name": "Meowth ex",
+   "v": "n"
+  },
+  {
+   "n": "115/080",
+   "name": "Rosa's Encouragement",
+   "v": "n"
+  },
+  {
+   "n": "116/080",
+   "name": "Jacinthe",
+   "v": "n"
+  },
+  {
+   "n": "117/080",
+   "name": "Mega Zygarde ex",
+   "v": "n"
+  }
+ ]
+}

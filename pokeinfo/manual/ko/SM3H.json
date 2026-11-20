@@ -1,0 +1,335 @@
+{
+ "id": "SM3H",
+ "name": "어둠을 밝힌 무지개",
+ "name_en": "To Have Seen the Battle Rainbow",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2017-06-16",
+ "official": 51,
+ "abbr": "SM3H",
+ "logo": "img/logos/ja/SM3H.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/051",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "002/051",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "003/051",
+   "name": "Vileplume",
+   "v": "n"
+  },
+  {
+   "n": "004/051",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "005/051",
+   "name": "Pansage",
+   "v": "n"
+  },
+  {
+   "n": "006/051",
+   "name": "Simisage",
+   "v": "n"
+  },
+  {
+   "n": "007/051",
+   "name": "Dewpider",
+   "v": "n"
+  },
+  {
+   "n": "008/051",
+   "name": "Araquanid",
+   "v": "n"
+  },
+  {
+   "n": "009/051",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "010/051",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "011/051",
+   "name": "Charizard-GX",
+   "v": "n"
+  },
+  {
+   "n": "012/051",
+   "name": "Ho-Oh-GX",
+   "v": "n"
+  },
+  {
+   "n": "013/051",
+   "name": "Pansear",
+   "v": "n"
+  },
+  {
+   "n": "014/051",
+   "name": "Simisear",
+   "v": "n"
+  },
+  {
+   "n": "015/051",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "016/051",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "017/051",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "018/051",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "019/051",
+   "name": "Marill",
+   "v": "n"
+  },
+  {
+   "n": "020/051",
+   "name": "Azumarill",
+   "v": "n"
+  },
+  {
+   "n": "021/051",
+   "name": "Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "022/051",
+   "name": "Venipede",
+   "v": "n"
+  },
+  {
+   "n": "023/051",
+   "name": "Whirlipede",
+   "v": "n"
+  },
+  {
+   "n": "024/051",
+   "name": "Scolipede",
+   "v": "n"
+  },
+  {
+   "n": "025/051",
+   "name": "Sandygast",
+   "v": "n"
+  },
+  {
+   "n": "026/051",
+   "name": "Palossand",
+   "v": "n"
+  },
+  {
+   "n": "027/051",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "028/051",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "029/051",
+   "name": "Crabrawler",
+   "v": "n"
+  },
+  {
+   "n": "030/051",
+   "name": "Crabominable",
+   "v": "n"
+  },
+  {
+   "n": "031/051",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "032/051",
+   "name": "Alolan Grimer",
+   "v": "n"
+  },
+  {
+   "n": "033/051",
+   "name": "Alolan Muk-GX",
+   "v": "n"
+  },
+  {
+   "n": "034/051",
+   "name": "Darkrai",
+   "v": "n"
+  },
+  {
+   "n": "035/051",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "036/051",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "037/051",
+   "name": "Diancie",
+   "v": "n"
+  },
+  {
+   "n": "038/051",
+   "name": "Cutiefly",
+   "v": "n"
+  },
+  {
+   "n": "039/051",
+   "name": "Ribombee",
+   "v": "n"
+  },
+  {
+   "n": "040/051",
+   "name": "Noivern-GX",
+   "v": "n"
+  },
+  {
+   "n": "041/051",
+   "name": "Meowth",
+   "v": "n"
+  },
+  {
+   "n": "042/051",
+   "name": "Persian",
+   "v": "n"
+  },
+  {
+   "n": "043/051",
+   "name": "Hoothoot",
+   "v": "n"
+  },
+  {
+   "n": "044/051",
+   "name": "Noctowl",
+   "v": "n"
+  },
+  {
+   "n": "045/051",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "046/051",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "047/051",
+   "name": "Rotom Dex Poké Finder Mode",
+   "v": "n"
+  },
+  {
+   "n": "048/051",
+   "name": "Bodybuilding Dumbbells",
+   "v": "n"
+  },
+  {
+   "n": "049/051",
+   "name": "Kiawe",
+   "v": "n"
+  },
+  {
+   "n": "050/051",
+   "name": "Plumeria",
+   "v": "n"
+  },
+  {
+   "n": "051/051",
+   "name": "Mount Lanakila",
+   "v": "n"
+  },
+  {
+   "n": "052/051",
+   "name": "Charizard-GX",
+   "v": "n"
+  },
+  {
+   "n": "053/051",
+   "name": "Ho-Oh-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/051",
+   "name": "Alolan Muk-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/051",
+   "name": "Noivern-GX",
+   "v": "n"
+  },
+  {
+   "n": "056/051",
+   "name": "Kiawe",
+   "v": "n"
+  },
+  {
+   "n": "057/051",
+   "name": "Plumeria",
+   "v": "n"
+  },
+  {
+   "n": "058/051",
+   "name": "Charizard-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/051",
+   "name": "Ho-Oh-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/051",
+   "name": "Alolan Muk-GX",
+   "v": "n"
+  },
+  {
+   "n": "061/051",
+   "name": "Noivern-GX",
+   "v": "n"
+  },
+  {
+   "n": "062/051",
+   "name": "Escape Rope",
+   "v": "n"
+  },
+  {
+   "n": "063/051",
+   "name": "Bodybuilding Dumbbells",
+   "v": "n"
+  },
+  {
+   "n": "064/051",
+   "name": "Fire Energy",
+   "v": "n"
+  }
+ ]
+}

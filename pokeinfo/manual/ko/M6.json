@@ -1,0 +1,580 @@
+{
+ "id": "M6",
+ "name": "Storm Emeralda",
+ "name_en": "Storm Emeralda",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2026-07-31",
+ "official": 76,
+ "abbr": "M6",
+ "logo": "img/logos/ja/M6.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/076",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "002/076",
+   "name": "Surskit",
+   "v": "n"
+  },
+  {
+   "n": "003/076",
+   "name": "Masquerain",
+   "v": "n"
+  },
+  {
+   "n": "004/076",
+   "name": "Cacnea",
+   "v": "n"
+  },
+  {
+   "n": "005/076",
+   "name": "Cacturne",
+   "v": "n"
+  },
+  {
+   "n": "006/076",
+   "name": "Combee",
+   "v": "n"
+  },
+  {
+   "n": "007/076",
+   "name": "Vespiquen",
+   "v": "n"
+  },
+  {
+   "n": "008/076",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "009/076",
+   "name": "Mega Golisopod ex",
+   "v": "n"
+  },
+  {
+   "n": "010/076",
+   "name": "Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "011/076",
+   "name": "Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "012/076",
+   "name": "Magmar",
+   "v": "n"
+  },
+  {
+   "n": "013/076",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "014/076",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "015/076",
+   "name": "Heat Rotom ex",
+   "v": "n"
+  },
+  {
+   "n": "016/076",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "017/076",
+   "name": "Mantine",
+   "v": "n"
+  },
+  {
+   "n": "018/076",
+   "name": "Kyogre",
+   "v": "n"
+  },
+  {
+   "n": "019/076",
+   "name": "Frillish",
+   "v": "n"
+  },
+  {
+   "n": "020/076",
+   "name": "Jellicent",
+   "v": "n"
+  },
+  {
+   "n": "021/076",
+   "name": "Wishiwashi ex",
+   "v": "n"
+  },
+  {
+   "n": "022/076",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "023/076",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "024/076",
+   "name": "Raikou ex",
+   "v": "n"
+  },
+  {
+   "n": "025/076",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "026/076",
+   "name": "Pincurchin",
+   "v": "n"
+  },
+  {
+   "n": "027/076",
+   "name": "Wattrel",
+   "v": "n"
+  },
+  {
+   "n": "028/076",
+   "name": "Kilowattrel",
+   "v": "n"
+  },
+  {
+   "n": "029/076",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "030/076",
+   "name": "Hypno",
+   "v": "n"
+  },
+  {
+   "n": "031/076",
+   "name": "Giratina",
+   "v": "n"
+  },
+  {
+   "n": "032/076",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "033/076",
+   "name": "Mega Golurk ex",
+   "v": "n"
+  },
+  {
+   "n": "034/076",
+   "name": "Enamorus",
+   "v": "n"
+  },
+  {
+   "n": "035/076",
+   "name": "Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "036/076",
+   "name": "Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "037/076",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "038/076",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "039/076",
+   "name": "Groudon",
+   "v": "n"
+  },
+  {
+   "n": "040/076",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "041/076",
+   "name": "Nidoran ♀",
+   "v": "n"
+  },
+  {
+   "n": "042/076",
+   "name": "Nidorina",
+   "v": "n"
+  },
+  {
+   "n": "043/076",
+   "name": "Nidoqueen",
+   "v": "n"
+  },
+  {
+   "n": "044/076",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "045/076",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "046/076",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "047/076",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "048/076",
+   "name": "Mega Malamar ex",
+   "v": "n"
+  },
+  {
+   "n": "049/076",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "050/076",
+   "name": "Jangmo-o",
+   "v": "n"
+  },
+  {
+   "n": "051/076",
+   "name": "Hakamo-o",
+   "v": "n"
+  },
+  {
+   "n": "052/076",
+   "name": "Kommo-o",
+   "v": "n"
+  },
+  {
+   "n": "053/076",
+   "name": "Cyclizar",
+   "v": "n"
+  },
+  {
+   "n": "054/076",
+   "name": "Azurill",
+   "v": "n"
+  },
+  {
+   "n": "055/076",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "056/076",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "057/076",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "058/076",
+   "name": "Mega Rayquaza ex",
+   "v": "n"
+  },
+  {
+   "n": "059/076",
+   "name": "Tornadus",
+   "v": "n"
+  },
+  {
+   "n": "060/076",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "061/076",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "062/076",
+   "name": "Talonflame ex",
+   "v": "n"
+  },
+  {
+   "n": "063/076",
+   "name": "Tasty Rice Ball",
+   "v": "n"
+  },
+  {
+   "n": "064/076",
+   "name": "Adventure Lantern",
+   "v": "n"
+  },
+  {
+   "n": "065/076",
+   "name": "Mega Rayquaza Cap",
+   "v": "n"
+  },
+  {
+   "n": "066/076",
+   "name": "Custom Vest",
+   "v": "n"
+  },
+  {
+   "n": "067/076",
+   "name": "Emcee's Hype",
+   "v": "n"
+  },
+  {
+   "n": "068/076",
+   "name": "Aarune",
+   "v": "n"
+  },
+  {
+   "n": "069/076",
+   "name": "Tate & Liza's Training",
+   "v": "n"
+  },
+  {
+   "n": "070/076",
+   "name": "Zinnia's Trust",
+   "v": "n"
+  },
+  {
+   "n": "071/076",
+   "name": "Legendary Trench",
+   "v": "n"
+  },
+  {
+   "n": "072/076",
+   "name": "Legendary Trench",
+   "v": "n"
+  },
+  {
+   "n": "073/076",
+   "name": "Legendary Summit",
+   "v": "n"
+  },
+  {
+   "n": "074/076",
+   "name": "Legendary Summit",
+   "v": "n"
+  },
+  {
+   "n": "075/076",
+   "name": "Legendary Pyroduct",
+   "v": "n"
+  },
+  {
+   "n": "076/076",
+   "name": "Legendary Pyroduct",
+   "v": "n"
+  },
+  {
+   "n": "077/076",
+   "name": "Masquerain",
+   "v": "n"
+  },
+  {
+   "n": "078/076",
+   "name": "Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "079/076",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "080/076",
+   "name": "Kyogre",
+   "v": "n"
+  },
+  {
+   "n": "081/076",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "082/076",
+   "name": "Pincurchin",
+   "v": "n"
+  },
+  {
+   "n": "083/076",
+   "name": "Enamorus",
+   "v": "n"
+  },
+  {
+   "n": "084/076",
+   "name": "Groudon",
+   "v": "n"
+  },
+  {
+   "n": "085/076",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "086/076",
+   "name": "Azurill",
+   "v": "n"
+  },
+  {
+   "n": "087/076",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "088/076",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "089/076",
+   "name": "Mega Golisopod ex",
+   "v": "n"
+  },
+  {
+   "n": "090/076",
+   "name": "Heat Rotom ex",
+   "v": "n"
+  },
+  {
+   "n": "091/076",
+   "name": "Wishiwashi ex",
+   "v": "n"
+  },
+  {
+   "n": "092/076",
+   "name": "Raikou ex",
+   "v": "n"
+  },
+  {
+   "n": "093/076",
+   "name": "Mega Golurk ex",
+   "v": "n"
+  },
+  {
+   "n": "094/076",
+   "name": "Mega Malamar ex",
+   "v": "n"
+  },
+  {
+   "n": "095/076",
+   "name": "Mega Rayquaza ex",
+   "v": "n"
+  },
+  {
+   "n": "096/076",
+   "name": "Talonflame ex",
+   "v": "n"
+  },
+  {
+   "n": "097/076",
+   "name": "Adventure Lantern",
+   "v": "n"
+  },
+  {
+   "n": "098/076",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "099/076",
+   "name": "Custom Vest",
+   "v": "n"
+  },
+  {
+   "n": "100/076",
+   "name": "Emcee's Hype",
+   "v": "n"
+  },
+  {
+   "n": "101/076",
+   "name": "Aarune",
+   "v": "n"
+  },
+  {
+   "n": "102/076",
+   "name": "Tate & Liza's Training",
+   "v": "n"
+  },
+  {
+   "n": "103/076",
+   "name": "Zinnia's Trust",
+   "v": "n"
+  },
+  {
+   "n": "104/076",
+   "name": "Growing Grass Energy",
+   "v": "n"
+  },
+  {
+   "n": "105/076",
+   "name": "Nitro Fire Energy",
+   "v": "n"
+  },
+  {
+   "n": "106/076",
+   "name": "Bubbly Water Energy",
+   "v": "n"
+  },
+  {
+   "n": "107/076",
+   "name": "Mega Golisopod ex",
+   "v": "n"
+  },
+  {
+   "n": "108/076",
+   "name": "Raikou ex",
+   "v": "n"
+  },
+  {
+   "n": "109/076",
+   "name": "Mega Golurk ex",
+   "v": "n"
+  },
+  {
+   "n": "110/076",
+   "name": "Mega Rayquaza ex",
+   "v": "n"
+  },
+  {
+   "n": "111/076",
+   "name": "Aarune",
+   "v": "n"
+  },
+  {
+   "n": "112/076",
+   "name": "Zinnia's Trust",
+   "v": "n"
+  },
+  {
+   "n": "113/076",
+   "name": "Mega Rayquaza ex",
+   "v": "n"
+  }
+ ]
+}

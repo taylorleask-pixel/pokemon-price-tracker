@@ -1,0 +1,475 @@
+{
+ "id": "M1L",
+ "name": "Mega Brave",
+ "name_en": "Mega Brave",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2025-08-01",
+ "official": 63,
+ "abbr": "M1L",
+ "logo": "img/logos/ja/M1L.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/063",
+   "name": "Bulbasaur",
+   "v": "n"
+  },
+  {
+   "n": "002/063",
+   "name": "Ivysaur",
+   "v": "n"
+  },
+  {
+   "n": "003/063",
+   "name": "Mega Venusaur ex",
+   "v": "n"
+  },
+  {
+   "n": "004/063",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "005/063",
+   "name": "Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "006/063",
+   "name": "Celebi",
+   "v": "n"
+  },
+  {
+   "n": "007/063",
+   "name": "Seedot",
+   "v": "n"
+  },
+  {
+   "n": "008/063",
+   "name": "Nuzleaf",
+   "v": "n"
+  },
+  {
+   "n": "009/063",
+   "name": "Shiftry",
+   "v": "n"
+  },
+  {
+   "n": "010/063",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "011/063",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "012/063",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "013/063",
+   "name": "Mega Camerupt ex",
+   "v": "n"
+  },
+  {
+   "n": "014/063",
+   "name": "Volcanion",
+   "v": "n"
+  },
+  {
+   "n": "015/063",
+   "name": "Scorbunny",
+   "v": "n"
+  },
+  {
+   "n": "016/063",
+   "name": "Raboot",
+   "v": "n"
+  },
+  {
+   "n": "017/063",
+   "name": "Cinderace",
+   "v": "n"
+  },
+  {
+   "n": "018/063",
+   "name": "Corphish",
+   "v": "n"
+  },
+  {
+   "n": "019/063",
+   "name": "Gimmighoul",
+   "v": "n"
+  },
+  {
+   "n": "020/063",
+   "name": "Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "021/063",
+   "name": "Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "022/063",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "023/063",
+   "name": "Tyrogue",
+   "v": "n"
+  },
+  {
+   "n": "024/063",
+   "name": "Makuhita",
+   "v": "n"
+  },
+  {
+   "n": "025/063",
+   "name": "Hariyama",
+   "v": "n"
+  },
+  {
+   "n": "026/063",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "027/063",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "028/063",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "029/063",
+   "name": "Mega Lucario ex",
+   "v": "n"
+  },
+  {
+   "n": "030/063",
+   "name": "Croagunk",
+   "v": "n"
+  },
+  {
+   "n": "031/063",
+   "name": "Toxicroak",
+   "v": "n"
+  },
+  {
+   "n": "032/063",
+   "name": "Marshadow",
+   "v": "n"
+  },
+  {
+   "n": "033/063",
+   "name": "Stonjourner",
+   "v": "n"
+  },
+  {
+   "n": "034/063",
+   "name": "Nacli",
+   "v": "n"
+  },
+  {
+   "n": "035/063",
+   "name": "Naclstack",
+   "v": "n"
+  },
+  {
+   "n": "036/063",
+   "name": "Garganacl",
+   "v": "n"
+  },
+  {
+   "n": "037/063",
+   "name": "Crawdaunt",
+   "v": "n"
+  },
+  {
+   "n": "038/063",
+   "name": "Mega Absol ex",
+   "v": "n"
+  },
+  {
+   "n": "039/063",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "040/063",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "041/063",
+   "name": "Nickit",
+   "v": "n"
+  },
+  {
+   "n": "042/063",
+   "name": "Thievul",
+   "v": "n"
+  },
+  {
+   "n": "043/063",
+   "name": "Shroodle",
+   "v": "n"
+  },
+  {
+   "n": "044/063",
+   "name": "Grafaiai",
+   "v": "n"
+  },
+  {
+   "n": "045/063",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "046/063",
+   "name": "Mega Mawile ex",
+   "v": "n"
+  },
+  {
+   "n": "047/063",
+   "name": "Dialga",
+   "v": "n"
+  },
+  {
+   "n": "048/063",
+   "name": "Tinkatink",
+   "v": "n"
+  },
+  {
+   "n": "049/063",
+   "name": "Tinkatuff",
+   "v": "n"
+  },
+  {
+   "n": "050/063",
+   "name": "Tinkaton",
+   "v": "n"
+  },
+  {
+   "n": "051/063",
+   "name": "Gholdengo",
+   "v": "n"
+  },
+  {
+   "n": "052/063",
+   "name": "Spearow",
+   "v": "n"
+  },
+  {
+   "n": "053/063",
+   "name": "Fearow",
+   "v": "n"
+  },
+  {
+   "n": "054/063",
+   "name": "Miltank",
+   "v": "n"
+  },
+  {
+   "n": "055/063",
+   "name": "Yungoos",
+   "v": "n"
+  },
+  {
+   "n": "056/063",
+   "name": "Gumshoos",
+   "v": "n"
+  },
+  {
+   "n": "057/063",
+   "name": "Repel",
+   "v": "n"
+  },
+  {
+   "n": "058/063",
+   "name": "Iron Defender",
+   "v": "n"
+  },
+  {
+   "n": "059/063",
+   "name": "Premium Power Pro",
+   "v": "n"
+  },
+  {
+   "n": "060/063",
+   "name": "Fighting Gong",
+   "v": "n"
+  },
+  {
+   "n": "061/063",
+   "name": "Lillie's Determination",
+   "v": "n"
+  },
+  {
+   "n": "062/063",
+   "name": "Lt. Surge's Bargain",
+   "v": "n"
+  },
+  {
+   "n": "063/063",
+   "name": "Risky Ruins",
+   "v": "n"
+  },
+  {
+   "n": "064/063",
+   "name": "Bulbasaur",
+   "v": "n"
+  },
+  {
+   "n": "065/063",
+   "name": "Ivysaur",
+   "v": "n"
+  },
+  {
+   "n": "066/063",
+   "name": "Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "067/063",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "068/063",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "069/063",
+   "name": "Marshadow",
+   "v": "n"
+  },
+  {
+   "n": "070/063",
+   "name": "Garganacl",
+   "v": "n"
+  },
+  {
+   "n": "071/063",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "072/063",
+   "name": "Shroodle",
+   "v": "n"
+  },
+  {
+   "n": "073/063",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "074/063",
+   "name": "Spearow",
+   "v": "n"
+  },
+  {
+   "n": "075/063",
+   "name": "Gumshoos",
+   "v": "n"
+  },
+  {
+   "n": "076/063",
+   "name": "Mega Venusaur ex",
+   "v": "n"
+  },
+  {
+   "n": "077/063",
+   "name": "Mega Camerupt ex",
+   "v": "n"
+  },
+  {
+   "n": "078/063",
+   "name": "Mega Lucario ex",
+   "v": "n"
+  },
+  {
+   "n": "079/063",
+   "name": "Mega Absol ex",
+   "v": "n"
+  },
+  {
+   "n": "080/063",
+   "name": "Mega Mawile ex",
+   "v": "n"
+  },
+  {
+   "n": "081/063",
+   "name": "Night Stretcher",
+   "v": "n"
+  },
+  {
+   "n": "082/063",
+   "name": "Premium Power Pro",
+   "v": "n"
+  },
+  {
+   "n": "083/063",
+   "name": "Fighting Gong",
+   "v": "n"
+  },
+  {
+   "n": "084/063",
+   "name": "Air Balloon",
+   "v": "n"
+  },
+  {
+   "n": "085/063",
+   "name": "Lillie's Determination",
+   "v": "n"
+  },
+  {
+   "n": "086/063",
+   "name": "Lt. Surge's Bargain",
+   "v": "n"
+  },
+  {
+   "n": "087/063",
+   "name": "Mega Venusaur ex",
+   "v": "n"
+  },
+  {
+   "n": "088/063",
+   "name": "Mega Lucario ex",
+   "v": "n"
+  },
+  {
+   "n": "089/063",
+   "name": "Mega Absol ex",
+   "v": "n"
+  },
+  {
+   "n": "090/063",
+   "name": "Lillie's Determination",
+   "v": "n"
+  },
+  {
+   "n": "091/063",
+   "name": "Lt. Surge's Bargain",
+   "v": "n"
+  },
+  {
+   "n": "092/063",
+   "name": "Mega Lucario ex",
+   "v": "n"
+  }
+ ]
+}

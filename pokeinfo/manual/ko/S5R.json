@@ -1,0 +1,470 @@
+{
+ "id": "S5R",
+ "name": "연격마스터",
+ "name_en": "Rapid Strike Master",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2021-01-22",
+ "official": 70,
+ "abbr": "S5R",
+ "logo": "img/logos/ja/S5R.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Bellsprout",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Weepinbell",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Victreebel",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Kricketune V",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Cherubi",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Cherrim",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Fomantis",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Lurantis",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Tapu Bulu",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Blipbug",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Victini V",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Victini VMAX",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Sizzlipede",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Centiskorch",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Galarian Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Galarian Mr. Rime",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Corphish",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Crawdaunt",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Empoleon V",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Frillish",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Jellicent",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Bruxish",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Luxray",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Necrozma V",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Dottler",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Orbeetle",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Cubone",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Marowak",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Gurdurr",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Conkeldurr",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Mienfoo",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Mienshao",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Silicobra",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Sandaconda",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Falinks",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Rapid Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Corviknight V",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Corviknight VMAX",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Glameow",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Purugly",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Indeedee",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Fan of Waves",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Level Ball",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Energy Recycler",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Rapid Strike Scroll of Swirls",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Tool Jammer",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Rapid Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Cheryl",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Korrina's Focus",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Tower of Waters",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Rapid Strike Energy",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Kricketune V",
+   "v": "n"
+  },
+  {
+   "n": "072/070",
+   "name": "Victini V",
+   "v": "n"
+  },
+  {
+   "n": "073/070",
+   "name": "Empoleon V",
+   "v": "n"
+  },
+  {
+   "n": "074/070",
+   "name": "Empoleon V",
+   "v": "n"
+  },
+  {
+   "n": "075/070",
+   "name": "Necrozma V",
+   "v": "n"
+  },
+  {
+   "n": "076/070",
+   "name": "Rapid Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "077/070",
+   "name": "Rapid Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "078/070",
+   "name": "Corviknight V",
+   "v": "n"
+  },
+  {
+   "n": "079/070",
+   "name": "Rapid Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "080/070",
+   "name": "Cheryl",
+   "v": "n"
+  },
+  {
+   "n": "081/070",
+   "name": "Korrina's Focus",
+   "v": "n"
+  },
+  {
+   "n": "082/070",
+   "name": "Victini VMAX",
+   "v": "n"
+  },
+  {
+   "n": "083/070",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "084/070",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "085/070",
+   "name": "Corviknight VMAX",
+   "v": "n"
+  },
+  {
+   "n": "086/070",
+   "name": "Rapid Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "087/070",
+   "name": "Cheryl",
+   "v": "n"
+  },
+  {
+   "n": "088/070",
+   "name": "Korrina's Focus",
+   "v": "n"
+  },
+  {
+   "n": "089/070",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "090/070",
+   "name": "Level Ball",
+   "v": "n"
+  },
+  {
+   "n": "091/070",
+   "name": "Rapid Strike Energy",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,480 @@
+{
+ "id": "S9a",
+ "name": "배틀리전",
+ "name_en": "Battle Region",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2022-02-25",
+ "official": 67,
+ "abbr": "S9a",
+ "logo": "img/logos/ja/S9a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/067",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "002/067",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "003/067",
+   "name": "Vileplume",
+   "v": "n"
+  },
+  {
+   "n": "004/067",
+   "name": "Scyther",
+   "v": "n"
+  },
+  {
+   "n": "005/067",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "006/067",
+   "name": "Roselia",
+   "v": "n"
+  },
+  {
+   "n": "007/067",
+   "name": "Roserade",
+   "v": "n"
+  },
+  {
+   "n": "008/067",
+   "name": "Combee",
+   "v": "n"
+  },
+  {
+   "n": "009/067",
+   "name": "Vespiquen",
+   "v": "n"
+  },
+  {
+   "n": "010/067",
+   "name": "Virizion V",
+   "v": "n"
+  },
+  {
+   "n": "011/067",
+   "name": "Radiant Heatran",
+   "v": "n"
+  },
+  {
+   "n": "012/067",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "013/067",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "014/067",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "015/067",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "016/067",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "017/067",
+   "name": "Starmie V",
+   "v": "n"
+  },
+  {
+   "n": "018/067",
+   "name": "Swinub",
+   "v": "n"
+  },
+  {
+   "n": "019/067",
+   "name": "Piloswine",
+   "v": "n"
+  },
+  {
+   "n": "020/067",
+   "name": "Mamoswine",
+   "v": "n"
+  },
+  {
+   "n": "021/067",
+   "name": "Barboach",
+   "v": "n"
+  },
+  {
+   "n": "022/067",
+   "name": "Whiscash",
+   "v": "n"
+  },
+  {
+   "n": "023/067",
+   "name": "Hisuian Basculin",
+   "v": "n"
+  },
+  {
+   "n": "024/067",
+   "name": "Hisuian Basculegion",
+   "v": "n"
+  },
+  {
+   "n": "025/067",
+   "name": "Keldeo",
+   "v": "n"
+  },
+  {
+   "n": "026/067",
+   "name": "Radiant Greninja",
+   "v": "n"
+  },
+  {
+   "n": "027/067",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "028/067",
+   "name": "Hisuian Typhlosion V",
+   "v": "n"
+  },
+  {
+   "n": "029/067",
+   "name": "Hisuian Typhlosion VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "030/067",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "031/067",
+   "name": "Mismagius",
+   "v": "n"
+  },
+  {
+   "n": "032/067",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "033/067",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "034/067",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "035/067",
+   "name": "Diancie",
+   "v": "n"
+  },
+  {
+   "n": "036/067",
+   "name": "Wyrdeer",
+   "v": "n"
+  },
+  {
+   "n": "037/067",
+   "name": "Rhyhorn",
+   "v": "n"
+  },
+  {
+   "n": "038/067",
+   "name": "Rhydon",
+   "v": "n"
+  },
+  {
+   "n": "039/067",
+   "name": "Rhyperior",
+   "v": "n"
+  },
+  {
+   "n": "040/067",
+   "name": "Relicanth",
+   "v": "n"
+  },
+  {
+   "n": "041/067",
+   "name": "Hippopotas",
+   "v": "n"
+  },
+  {
+   "n": "042/067",
+   "name": "Hippowdon",
+   "v": "n"
+  },
+  {
+   "n": "043/067",
+   "name": "Radiant Hawlucha",
+   "v": "n"
+  },
+  {
+   "n": "044/067",
+   "name": "Hisuian Decidueye V",
+   "v": "n"
+  },
+  {
+   "n": "045/067",
+   "name": "Hisuian Decidueye VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "046/067",
+   "name": "Kleavor",
+   "v": "n"
+  },
+  {
+   "n": "047/067",
+   "name": "Hisuian Qwilfish",
+   "v": "n"
+  },
+  {
+   "n": "048/067",
+   "name": "Hisuian Overqwil",
+   "v": "n"
+  },
+  {
+   "n": "049/067",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "050/067",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "051/067",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "052/067",
+   "name": "Hisuian Samurott V",
+   "v": "n"
+  },
+  {
+   "n": "053/067",
+   "name": "Hisuian Samurott VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "054/067",
+   "name": "Garchomp V",
+   "v": "n"
+  },
+  {
+   "n": "055/067",
+   "name": "Hoothoot",
+   "v": "n"
+  },
+  {
+   "n": "056/067",
+   "name": "Noctowl",
+   "v": "n"
+  },
+  {
+   "n": "057/067",
+   "name": "Stantler",
+   "v": "n"
+  },
+  {
+   "n": "058/067",
+   "name": "Miltank",
+   "v": "n"
+  },
+  {
+   "n": "059/067",
+   "name": "Glameow",
+   "v": "n"
+  },
+  {
+   "n": "060/067",
+   "name": "Purugly",
+   "v": "n"
+  },
+  {
+   "n": "061/067",
+   "name": "Sweet Honey",
+   "v": "n"
+  },
+  {
+   "n": "062/067",
+   "name": "Wait and See Turbo",
+   "v": "n"
+  },
+  {
+   "n": "063/067",
+   "name": "Canceling Cologne",
+   "v": "n"
+  },
+  {
+   "n": "064/067",
+   "name": "Cyllene",
+   "v": "n"
+  },
+  {
+   "n": "065/067",
+   "name": "Roxanne",
+   "v": "n"
+  },
+  {
+   "n": "066/067",
+   "name": "Kamado",
+   "v": "n"
+  },
+  {
+   "n": "067/067",
+   "name": "Jubilife Village",
+   "v": "n"
+  },
+  {
+   "n": "068/067",
+   "name": "Roserade",
+   "v": "n"
+  },
+  {
+   "n": "069/067",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "070/067",
+   "name": "Wyrdeer",
+   "v": "n"
+  },
+  {
+   "n": "071/067",
+   "name": "Kleavor",
+   "v": "n"
+  },
+  {
+   "n": "072/067",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "073/067",
+   "name": "Hoothoot",
+   "v": "n"
+  },
+  {
+   "n": "074/067",
+   "name": "Virizion V",
+   "v": "n"
+  },
+  {
+   "n": "075/067",
+   "name": "Starmie V",
+   "v": "n"
+  },
+  {
+   "n": "076/067",
+   "name": "Hisuian Typhlosion V",
+   "v": "n"
+  },
+  {
+   "n": "077/067",
+   "name": "Hisuian Decidueye V",
+   "v": "n"
+  },
+  {
+   "n": "078/067",
+   "name": "Hisuian Samurott V",
+   "v": "n"
+  },
+  {
+   "n": "079/067",
+   "name": "Garchomp V",
+   "v": "n"
+  },
+  {
+   "n": "080/067",
+   "name": "Cyllene",
+   "v": "n"
+  },
+  {
+   "n": "081/067",
+   "name": "Roxanne",
+   "v": "n"
+  },
+  {
+   "n": "082/067",
+   "name": "Kamado",
+   "v": "n"
+  },
+  {
+   "n": "083/067",
+   "name": "Starmie V",
+   "v": "n"
+  },
+  {
+   "n": "084/067",
+   "name": "Garchomp V",
+   "v": "n"
+  },
+  {
+   "n": "085/067",
+   "name": "Hisuian Typhlosion VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "086/067",
+   "name": "Hisuian Decidueye VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "087/067",
+   "name": "Hisuian Samurott VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "088/067",
+   "name": "Cyllene",
+   "v": "n"
+  },
+  {
+   "n": "089/067",
+   "name": "Roxanne",
+   "v": "n"
+  },
+  {
+   "n": "090/067",
+   "name": "Kamado",
+   "v": "n"
+  },
+  {
+   "n": "091/067",
+   "name": "Hisuian Samurott VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "092/067",
+   "name": "Choice Belt",
+   "v": "n"
+  },
+  {
+   "n": "093/067",
+   "name": "Jubilife Village",
+   "v": "n"
+  }
+ ]
+}

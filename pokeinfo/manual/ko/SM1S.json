@@ -1,0 +1,380 @@
+{
+ "id": "SM1S",
+ "name": "썬 컬렉션",
+ "name_en": "Collection Sun",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2016-12-09",
+ "official": 60,
+ "abbr": "SM1S",
+ "logo": "img/logos/ja/SM1S.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/060",
+   "name": "Caterpie",
+   "v": "n"
+  },
+  {
+   "n": "002/060",
+   "name": "Metapod",
+   "v": "n"
+  },
+  {
+   "n": "003/060",
+   "name": "Butterfree",
+   "v": "n"
+  },
+  {
+   "n": "004/060",
+   "name": "Paras",
+   "v": "n"
+  },
+  {
+   "n": "005/060",
+   "name": "Parasect",
+   "v": "n"
+  },
+  {
+   "n": "006/060",
+   "name": "Bounsweet",
+   "v": "n"
+  },
+  {
+   "n": "007/060",
+   "name": "Steenee",
+   "v": "n"
+  },
+  {
+   "n": "008/060",
+   "name": "Tsareena",
+   "v": "n"
+  },
+  {
+   "n": "009/060",
+   "name": "Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "010/060",
+   "name": "Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "011/060",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "012/060",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "013/060",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "014/060",
+   "name": "Shellder",
+   "v": "n"
+  },
+  {
+   "n": "015/060",
+   "name": "Cloyster",
+   "v": "n"
+  },
+  {
+   "n": "016/060",
+   "name": "Lapras-GX",
+   "v": "n"
+  },
+  {
+   "n": "017/060",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "018/060",
+   "name": "Dewpider",
+   "v": "n"
+  },
+  {
+   "n": "019/060",
+   "name": "Araquanid",
+   "v": "n"
+  },
+  {
+   "n": "020/060",
+   "name": "Pyukumuku",
+   "v": "n"
+  },
+  {
+   "n": "021/060",
+   "name": "Zubat",
+   "v": "n"
+  },
+  {
+   "n": "022/060",
+   "name": "Golbat",
+   "v": "n"
+  },
+  {
+   "n": "023/060",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "024/060",
+   "name": "Espeon-GX",
+   "v": "n"
+  },
+  {
+   "n": "025/060",
+   "name": "Mareanie",
+   "v": "n"
+  },
+  {
+   "n": "026/060",
+   "name": "Toxapex",
+   "v": "n"
+  },
+  {
+   "n": "027/060",
+   "name": "Cosmog",
+   "v": "n"
+  },
+  {
+   "n": "028/060",
+   "name": "Cosmoem",
+   "v": "n"
+  },
+  {
+   "n": "029/060",
+   "name": "Makuhita",
+   "v": "n"
+  },
+  {
+   "n": "030/060",
+   "name": "Hariyama",
+   "v": "n"
+  },
+  {
+   "n": "031/060",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "032/060",
+   "name": "Alolan Meowth",
+   "v": "n"
+  },
+  {
+   "n": "033/060",
+   "name": "Alolan Persian",
+   "v": "n"
+  },
+  {
+   "n": "034/060",
+   "name": "Sandile",
+   "v": "n"
+  },
+  {
+   "n": "035/060",
+   "name": "Krokorok",
+   "v": "n"
+  },
+  {
+   "n": "036/060",
+   "name": "Krookodile",
+   "v": "n"
+  },
+  {
+   "n": "037/060",
+   "name": "Alolan Diglett",
+   "v": "n"
+  },
+  {
+   "n": "038/060",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "039/060",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "040/060",
+   "name": "Solgaleo-GX",
+   "v": "n"
+  },
+  {
+   "n": "041/060",
+   "name": "Cutiefly",
+   "v": "n"
+  },
+  {
+   "n": "042/060",
+   "name": "Ribombee",
+   "v": "n"
+  },
+  {
+   "n": "043/060",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "044/060",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "045/060",
+   "name": "Spinda",
+   "v": "n"
+  },
+  {
+   "n": "046/060",
+   "name": "Lillipup",
+   "v": "n"
+  },
+  {
+   "n": "047/060",
+   "name": "Herdier",
+   "v": "n"
+  },
+  {
+   "n": "048/060",
+   "name": "Stoutland",
+   "v": "n"
+  },
+  {
+   "n": "049/060",
+   "name": "Yungoos",
+   "v": "n"
+  },
+  {
+   "n": "050/060",
+   "name": "Gumshoos-GX",
+   "v": "n"
+  },
+  {
+   "n": "051/060",
+   "name": "Stufful",
+   "v": "n"
+  },
+  {
+   "n": "052/060",
+   "name": "Bewear",
+   "v": "n"
+  },
+  {
+   "n": "053/060",
+   "name": "Rotom Dex",
+   "v": "n"
+  },
+  {
+   "n": "054/060",
+   "name": "Repel",
+   "v": "n"
+  },
+  {
+   "n": "055/060",
+   "name": "Crushing Hammer",
+   "v": "n"
+  },
+  {
+   "n": "056/060",
+   "name": "Timer Ball",
+   "v": "n"
+  },
+  {
+   "n": "057/060",
+   "name": "Exp. Share",
+   "v": "n"
+  },
+  {
+   "n": "058/060",
+   "name": "Ilima",
+   "v": "n"
+  },
+  {
+   "n": "059/060",
+   "name": "Professor Kukui",
+   "v": "n"
+  },
+  {
+   "n": "060/060",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "061/060",
+   "name": "Lapras-GX",
+   "v": "n"
+  },
+  {
+   "n": "062/060",
+   "name": "Espeon-GX",
+   "v": "n"
+  },
+  {
+   "n": "063/060",
+   "name": "Solgaleo-GX",
+   "v": "n"
+  },
+  {
+   "n": "064/060",
+   "name": "Gumshoos-GX",
+   "v": "n"
+  },
+  {
+   "n": "065/060",
+   "name": "Ilima",
+   "v": "n"
+  },
+  {
+   "n": "066/060",
+   "name": "Professor Kukui",
+   "v": "n"
+  },
+  {
+   "n": "067/060",
+   "name": "Lapras-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/060",
+   "name": "Espeon-GX",
+   "v": "n"
+  },
+  {
+   "n": "069/060",
+   "name": "Solgaleo-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/060",
+   "name": "Gumshoos-GX",
+   "v": "n"
+  },
+  {
+   "n": "071/060",
+   "name": "Rotom Dex",
+   "v": "n"
+  },
+  {
+   "n": "072/060",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "073/060",
+   "name": "Metal Energy",
+   "v": "n"
+  }
+ ]
+}

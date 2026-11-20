@@ -1,0 +1,405 @@
+{
+ "id": "SM5S",
+ "name": "울트라썬",
+ "name_en": "Ultra Sun",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2017-12-08",
+ "official": 66,
+ "abbr": "SM5S",
+ "logo": "img/logos/ja/SM5S.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/066",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "002/066",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "003/066",
+   "name": "Roselia",
+   "v": "n"
+  },
+  {
+   "n": "004/066",
+   "name": "Roserade",
+   "v": "n"
+  },
+  {
+   "n": "005/066",
+   "name": "Turtwig",
+   "v": "n"
+  },
+  {
+   "n": "006/066",
+   "name": "Turtwig",
+   "v": "n"
+  },
+  {
+   "n": "007/066",
+   "name": "Grotle",
+   "v": "n"
+  },
+  {
+   "n": "008/066",
+   "name": "Torterra",
+   "v": "n"
+  },
+  {
+   "n": "009/066",
+   "name": "Cherubi",
+   "v": "n"
+  },
+  {
+   "n": "010/066",
+   "name": "Cherrim",
+   "v": "n"
+  },
+  {
+   "n": "011/066",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "012/066",
+   "name": "Leafeon-GX",
+   "v": "n"
+  },
+  {
+   "n": "013/066",
+   "name": "Mow Rotom",
+   "v": "n"
+  },
+  {
+   "n": "014/066",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "015/066",
+   "name": "Magmar",
+   "v": "n"
+  },
+  {
+   "n": "016/066",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "017/066",
+   "name": "Chimchar",
+   "v": "n"
+  },
+  {
+   "n": "018/066",
+   "name": "Chimchar",
+   "v": "n"
+  },
+  {
+   "n": "019/066",
+   "name": "Monferno",
+   "v": "n"
+  },
+  {
+   "n": "020/066",
+   "name": "Infernape",
+   "v": "n"
+  },
+  {
+   "n": "021/066",
+   "name": "Heat Rotom",
+   "v": "n"
+  },
+  {
+   "n": "022/066",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "023/066",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "024/066",
+   "name": "Turtonator",
+   "v": "n"
+  },
+  {
+   "n": "025/066",
+   "name": "Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "026/066",
+   "name": "Honchkrow",
+   "v": "n"
+  },
+  {
+   "n": "027/066",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "028/066",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "029/066",
+   "name": "Stunky",
+   "v": "n"
+  },
+  {
+   "n": "030/066",
+   "name": "Skuntank",
+   "v": "n"
+  },
+  {
+   "n": "031/066",
+   "name": "Darkrai ◇",
+   "v": "n"
+  },
+  {
+   "n": "032/066",
+   "name": "Alolan Diglett",
+   "v": "n"
+  },
+  {
+   "n": "033/066",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "034/066",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "035/066",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "036/066",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "037/066",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "038/066",
+   "name": "Shieldon",
+   "v": "n"
+  },
+  {
+   "n": "039/066",
+   "name": "Bastiodon",
+   "v": "n"
+  },
+  {
+   "n": "040/066",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "041/066",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "042/066",
+   "name": "Heatran",
+   "v": "n"
+  },
+  {
+   "n": "043/066",
+   "name": "Solgaleo ◇",
+   "v": "n"
+  },
+  {
+   "n": "044/066",
+   "name": "Dusk Mane Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "045/066",
+   "name": "Dialga-GX",
+   "v": "n"
+  },
+  {
+   "n": "046/066",
+   "name": "Lickitung",
+   "v": "n"
+  },
+  {
+   "n": "047/066",
+   "name": "Lickilicky",
+   "v": "n"
+  },
+  {
+   "n": "048/066",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "049/066",
+   "name": "Glameow",
+   "v": "n"
+  },
+  {
+   "n": "050/066",
+   "name": "Purugly",
+   "v": "n"
+  },
+  {
+   "n": "051/066",
+   "name": "Fan Rotom",
+   "v": "n"
+  },
+  {
+   "n": "052/066",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "053/066",
+   "name": "Nest Ball",
+   "v": "n"
+  },
+  {
+   "n": "054/066",
+   "name": "Missing Clover",
+   "v": "n"
+  },
+  {
+   "n": "055/066",
+   "name": "Potion",
+   "v": "n"
+  },
+  {
+   "n": "056/066",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "057/066",
+   "name": "Pal Pad",
+   "v": "n"
+  },
+  {
+   "n": "058/066",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "059/066",
+   "name": "Lillie",
+   "v": "n"
+  },
+  {
+   "n": "060/066",
+   "name": "Mars",
+   "v": "n"
+  },
+  {
+   "n": "061/066",
+   "name": "Gardenia",
+   "v": "n"
+  },
+  {
+   "n": "062/066",
+   "name": "Cyrus ◇",
+   "v": "n"
+  },
+  {
+   "n": "063/066",
+   "name": "Pokémon Fan Club",
+   "v": "n"
+  },
+  {
+   "n": "064/066",
+   "name": "Mt. Coronet",
+   "v": "n"
+  },
+  {
+   "n": "065/066",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "066/066",
+   "name": "Unit Energy GFW",
+   "v": "n"
+  },
+  {
+   "n": "067/066",
+   "name": "Leafeon-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/066",
+   "name": "Dusk Mane Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "069/066",
+   "name": "Dialga-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/066",
+   "name": "Mars",
+   "v": "n"
+  },
+  {
+   "n": "071/066",
+   "name": "Gardenia",
+   "v": "n"
+  },
+  {
+   "n": "072/066",
+   "name": "Pokémon Fan Club",
+   "v": "n"
+  },
+  {
+   "n": "073/066",
+   "name": "Leafeon-GX",
+   "v": "n"
+  },
+  {
+   "n": "074/066",
+   "name": "Dusk Mane Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "075/066",
+   "name": "Dialga-GX",
+   "v": "n"
+  },
+  {
+   "n": "076/066",
+   "name": "Missing Clover",
+   "v": "n"
+  },
+  {
+   "n": "077/066",
+   "name": "Peeking Red Card",
+   "v": "n"
+  },
+  {
+   "n": "078/066",
+   "name": "Unit Energy GFW",
+   "v": "n"
+  }
+ ]
+}

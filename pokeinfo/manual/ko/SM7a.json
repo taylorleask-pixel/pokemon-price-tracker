@@ -1,0 +1,380 @@
+{
+ "id": "SM7a",
+ "name": "플라스마 스파크",
+ "name_en": "Thunderclap Spark",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2018-08-03",
+ "official": 60,
+ "abbr": "SM7a",
+ "logo": "img/logos/ja/SM7a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/060",
+   "name": "Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "002/060",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "003/060",
+   "name": "Wurmple",
+   "v": "n"
+  },
+  {
+   "n": "004/060",
+   "name": "Cascoon",
+   "v": "n"
+  },
+  {
+   "n": "005/060",
+   "name": "Dustox",
+   "v": "n"
+  },
+  {
+   "n": "006/060",
+   "name": "Virizion-GX",
+   "v": "n"
+  },
+  {
+   "n": "007/060",
+   "name": "Skiddo",
+   "v": "n"
+  },
+  {
+   "n": "008/060",
+   "name": "Gogoat",
+   "v": "n"
+  },
+  {
+   "n": "009/060",
+   "name": "Tapu Bulu",
+   "v": "n"
+  },
+  {
+   "n": "010/060",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "011/060",
+   "name": "Slugma",
+   "v": "n"
+  },
+  {
+   "n": "012/060",
+   "name": "Magcargo-GX",
+   "v": "n"
+  },
+  {
+   "n": "013/060",
+   "name": "Heatran",
+   "v": "n"
+  },
+  {
+   "n": "014/060",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "015/060",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "016/060",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "017/060",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "018/060",
+   "name": "Suicune",
+   "v": "n"
+  },
+  {
+   "n": "019/060",
+   "name": "Cubchoo",
+   "v": "n"
+  },
+  {
+   "n": "020/060",
+   "name": "Beartic",
+   "v": "n"
+  },
+  {
+   "n": "021/060",
+   "name": "White Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "022/060",
+   "name": "Popplio",
+   "v": "n"
+  },
+  {
+   "n": "023/060",
+   "name": "Brionne",
+   "v": "n"
+  },
+  {
+   "n": "024/060",
+   "name": "Primarina",
+   "v": "n"
+  },
+  {
+   "n": "025/060",
+   "name": "Bruxish",
+   "v": "n"
+  },
+  {
+   "n": "026/060",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "027/060",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "028/060",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "029/060",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "030/060",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "031/060",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "032/060",
+   "name": "Tapu Koko",
+   "v": "n"
+  },
+  {
+   "n": "033/060",
+   "name": "Zeraora-GX",
+   "v": "n"
+  },
+  {
+   "n": "034/060",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "035/060",
+   "name": "Alolan Diglett",
+   "v": "n"
+  },
+  {
+   "n": "036/060",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "037/060",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "038/060",
+   "name": "Dialga",
+   "v": "n"
+  },
+  {
+   "n": "039/060",
+   "name": "Durant",
+   "v": "n"
+  },
+  {
+   "n": "040/060",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "041/060",
+   "name": "Genesect-GX",
+   "v": "n"
+  },
+  {
+   "n": "042/060",
+   "name": "Magearna",
+   "v": "n"
+  },
+  {
+   "n": "043/060",
+   "name": "Ditto ◇",
+   "v": "n"
+  },
+  {
+   "n": "044/060",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "045/060",
+   "name": "Mixed Herbs",
+   "v": "n"
+  },
+  {
+   "n": "046/060",
+   "name": "Super Scoop Up",
+   "v": "n"
+  },
+  {
+   "n": "047/060",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "048/060",
+   "name": "Electropower",
+   "v": "n"
+  },
+  {
+   "n": "049/060",
+   "name": "Custom Catcher",
+   "v": "n"
+  },
+  {
+   "n": "050/060",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "051/060",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "052/060",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "053/060",
+   "name": "Choice Band",
+   "v": "n"
+  },
+  {
+   "n": "054/060",
+   "name": "Counter Gain",
+   "v": "n"
+  },
+  {
+   "n": "055/060",
+   "name": "Sightseer",
+   "v": "n"
+  },
+  {
+   "n": "056/060",
+   "name": "Judge",
+   "v": "n"
+  },
+  {
+   "n": "057/060",
+   "name": "Kahili",
+   "v": "n"
+  },
+  {
+   "n": "058/060",
+   "name": "Thunder Mountain ◇",
+   "v": "n"
+  },
+  {
+   "n": "059/060",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "060/060",
+   "name": "Unit Energy GFW",
+   "v": "n"
+  },
+  {
+   "n": "061/060",
+   "name": "Virizion-GX",
+   "v": "n"
+  },
+  {
+   "n": "062/060",
+   "name": "Magcargo-GX",
+   "v": "n"
+  },
+  {
+   "n": "063/060",
+   "name": "Zeraora-GX",
+   "v": "n"
+  },
+  {
+   "n": "064/060",
+   "name": "Genesect-GX",
+   "v": "n"
+  },
+  {
+   "n": "065/060",
+   "name": "Judge",
+   "v": "n"
+  },
+  {
+   "n": "066/060",
+   "name": "Kahili",
+   "v": "n"
+  },
+  {
+   "n": "067/060",
+   "name": "Virizion-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/060",
+   "name": "Magcargo-GX",
+   "v": "n"
+  },
+  {
+   "n": "069/060",
+   "name": "Zeraora-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/060",
+   "name": "Genesect-GX",
+   "v": "n"
+  },
+  {
+   "n": "071/060",
+   "name": "Electropower",
+   "v": "n"
+  },
+  {
+   "n": "072/060",
+   "name": "Custom Catcher",
+   "v": "n"
+  },
+  {
+   "n": "073/060",
+   "name": "Counter Gain",
+   "v": "n"
+  }
+ ]
+}

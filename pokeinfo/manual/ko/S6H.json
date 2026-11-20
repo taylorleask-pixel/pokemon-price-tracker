@@ -1,0 +1,490 @@
+{
+ "id": "S6H",
+ "name": "백은의 랜스",
+ "name_en": "Silver Lance",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2021-04-23",
+ "official": 70,
+ "abbr": "S6H",
+ "logo": "img/logos/ja/S6H.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Snover",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Abomasnow",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Deerling",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Sawsbuck",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Bounsweet",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Steenee",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Tsareena",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Zarude",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Castform Sunny Form",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Volcanion V",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Scorbunny",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Raboot",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Cinderace",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Castform Snowy Form",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Froslass",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Sealeo",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Walrein",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Bergmite",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Avalugg",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Ice Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Galarian Rapidash V",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Galarian Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Hypno",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Hippopotas",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Hippowdon",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Sandaconda V",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Sandaconda VMAX",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Galarian Slowking",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Qwilfish",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Liepard V",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Porygon",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Porygon2",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Porygon-Z",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Teddiursa",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Ursaring",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Tornadus V",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Tornadus VMAX",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Furfrou",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Expedition Uniform",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Fire-Resistant Gloves",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Crushing Gloves",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Rugged Helmet",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Single Strike Scroll of Piercing",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Melony",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Flannery",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Doctor",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Peony",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Path to the Peak",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Impact Energy",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Volcanion V",
+   "v": "n"
+  },
+  {
+   "n": "072/070",
+   "name": "Ice Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "073/070",
+   "name": "Ice Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "074/070",
+   "name": "Galarian Rapidash V",
+   "v": "n"
+  },
+  {
+   "n": "075/070",
+   "name": "Galarian Rapidash V",
+   "v": "n"
+  },
+  {
+   "n": "076/070",
+   "name": "Sandaconda V",
+   "v": "n"
+  },
+  {
+   "n": "077/070",
+   "name": "Liepard V",
+   "v": "n"
+  },
+  {
+   "n": "078/070",
+   "name": "Tornadus V",
+   "v": "n"
+  },
+  {
+   "n": "079/070",
+   "name": "Tornadus V",
+   "v": "n"
+  },
+  {
+   "n": "080/070",
+   "name": "Melony",
+   "v": "n"
+  },
+  {
+   "n": "081/070",
+   "name": "Flannery",
+   "v": "n"
+  },
+  {
+   "n": "082/070",
+   "name": "Doctor",
+   "v": "n"
+  },
+  {
+   "n": "083/070",
+   "name": "Peony",
+   "v": "n"
+  },
+  {
+   "n": "084/070",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "085/070",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "086/070",
+   "name": "Sandaconda VMAX",
+   "v": "n"
+  },
+  {
+   "n": "087/070",
+   "name": "Tornadus VMAX",
+   "v": "n"
+  },
+  {
+   "n": "088/070",
+   "name": "Melony",
+   "v": "n"
+  },
+  {
+   "n": "089/070",
+   "name": "Flannery",
+   "v": "n"
+  },
+  {
+   "n": "090/070",
+   "name": "Doctor",
+   "v": "n"
+  },
+  {
+   "n": "091/070",
+   "name": "Peony",
+   "v": "n"
+  },
+  {
+   "n": "092/070",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "093/070",
+   "name": "Welcoming Lantern",
+   "v": "n"
+  },
+  {
+   "n": "094/070",
+   "name": "Rugged Helmet",
+   "v": "n"
+  },
+  {
+   "n": "095/070",
+   "name": "Basic Water Energy",
+   "v": "n"
+  }
+ ]
+}

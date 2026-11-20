@@ -1,0 +1,675 @@
+{
+ "id": "SV10",
+ "name": "Glory of Team Rocket",
+ "name_en": "Glory of Team Rocket",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2025-04-18",
+ "official": 98,
+ "abbr": "SV10",
+ "logo": "img/logos/ja/SV10.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/098",
+   "name": "Pineco",
+   "v": "n"
+  },
+  {
+   "n": "002/098",
+   "name": "Shroomish",
+   "v": "n"
+  },
+  {
+   "n": "003/098",
+   "name": "Breloom",
+   "v": "n"
+  },
+  {
+   "n": "004/098",
+   "name": "Mow Rotom",
+   "v": "n"
+  },
+  {
+   "n": "005/098",
+   "name": "Fomantis",
+   "v": "n"
+  },
+  {
+   "n": "006/098",
+   "name": "Lurantis",
+   "v": "n"
+  },
+  {
+   "n": "007/098",
+   "name": "Team Rocket's Blipbug",
+   "v": "n"
+  },
+  {
+   "n": "008/098",
+   "name": "Team Rocket's Tarountula",
+   "v": "n"
+  },
+  {
+   "n": "009/098",
+   "name": "Team Rocket's Spidops",
+   "v": "n"
+  },
+  {
+   "n": "010/098",
+   "name": "Smoliv",
+   "v": "n"
+  },
+  {
+   "n": "011/098",
+   "name": "Dolliv",
+   "v": "n"
+  },
+  {
+   "n": "012/098",
+   "name": "Arboliva ex",
+   "v": "n"
+  },
+  {
+   "n": "013/098",
+   "name": "Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "014/098",
+   "name": "Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "015/098",
+   "name": "Team Rocket's Moltres ex",
+   "v": "n"
+  },
+  {
+   "n": "016/098",
+   "name": "Team Rocket's Houndour",
+   "v": "n"
+  },
+  {
+   "n": "017/098",
+   "name": "Team Rocket's Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "018/098",
+   "name": "Torchic",
+   "v": "n"
+  },
+  {
+   "n": "019/098",
+   "name": "Combusken",
+   "v": "n"
+  },
+  {
+   "n": "020/098",
+   "name": "Blaziken",
+   "v": "n"
+  },
+  {
+   "n": "021/098",
+   "name": "Heat Rotom",
+   "v": "n"
+  },
+  {
+   "n": "022/098",
+   "name": "Team Rocket's Articuno",
+   "v": "n"
+  },
+  {
+   "n": "023/098",
+   "name": "Clamperl",
+   "v": "n"
+  },
+  {
+   "n": "024/098",
+   "name": "Huntail",
+   "v": "n"
+  },
+  {
+   "n": "025/098",
+   "name": "Gorebyss",
+   "v": "n"
+  },
+  {
+   "n": "026/098",
+   "name": "Snover",
+   "v": "n"
+  },
+  {
+   "n": "027/098",
+   "name": "Abomasnow",
+   "v": "n"
+  },
+  {
+   "n": "028/098",
+   "name": "Wash Rotom",
+   "v": "n"
+  },
+  {
+   "n": "029/098",
+   "name": "Arrokuda",
+   "v": "n"
+  },
+  {
+   "n": "030/098",
+   "name": "Barraskewda",
+   "v": "n"
+  },
+  {
+   "n": "031/098",
+   "name": "Cetoddle",
+   "v": "n"
+  },
+  {
+   "n": "032/098",
+   "name": "Cetitan ex",
+   "v": "n"
+  },
+  {
+   "n": "033/098",
+   "name": "Team Rocket's Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "034/098",
+   "name": "Team Rocket's Mareep",
+   "v": "n"
+  },
+  {
+   "n": "035/098",
+   "name": "Team Rocket's Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "036/098",
+   "name": "Team Rocket's Ampharos",
+   "v": "n"
+  },
+  {
+   "n": "037/098",
+   "name": "Team Rocket's Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "038/098",
+   "name": "Team Rocket's Hypno",
+   "v": "n"
+  },
+  {
+   "n": "039/098",
+   "name": "Team Rocket's Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "040/098",
+   "name": "Team Rocket's Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "041/098",
+   "name": "Team Rocket's Chingling",
+   "v": "n"
+  },
+  {
+   "n": "042/098",
+   "name": "Team Rocket's Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "043/098",
+   "name": "Team Rocket's Dottler",
+   "v": "n"
+  },
+  {
+   "n": "044/098",
+   "name": "Team Rocket's Orbeetle",
+   "v": "n"
+  },
+  {
+   "n": "045/098",
+   "name": "Mankey",
+   "v": "n"
+  },
+  {
+   "n": "046/098",
+   "name": "Primeape",
+   "v": "n"
+  },
+  {
+   "n": "047/098",
+   "name": "Annihilape",
+   "v": "n"
+  },
+  {
+   "n": "048/098",
+   "name": "Team Rocket's Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "049/098",
+   "name": "Team Rocket's Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "050/098",
+   "name": "Team Rocket's Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "051/098",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "052/098",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "053/098",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "054/098",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "055/098",
+   "name": "Regirock ex",
+   "v": "n"
+  },
+  {
+   "n": "056/098",
+   "name": "Team Rocket's Ekans",
+   "v": "n"
+  },
+  {
+   "n": "057/098",
+   "name": "Team Rocket's Arbok",
+   "v": "n"
+  },
+  {
+   "n": "058/098",
+   "name": "Team Rocket's Nidoran ♀",
+   "v": "n"
+  },
+  {
+   "n": "059/098",
+   "name": "Team Rocket's Nidorina",
+   "v": "n"
+  },
+  {
+   "n": "060/098",
+   "name": "Team Rocket's Nidoqueen",
+   "v": "n"
+  },
+  {
+   "n": "061/098",
+   "name": "Team Rocket's Nidoran ♂",
+   "v": "n"
+  },
+  {
+   "n": "062/098",
+   "name": "Team Rocket's Nidorino",
+   "v": "n"
+  },
+  {
+   "n": "063/098",
+   "name": "Team Rocket's Nidoking ex",
+   "v": "n"
+  },
+  {
+   "n": "064/098",
+   "name": "Team Rocket's Zubat",
+   "v": "n"
+  },
+  {
+   "n": "065/098",
+   "name": "Team Rocket's Golbat",
+   "v": "n"
+  },
+  {
+   "n": "066/098",
+   "name": "Team Rocket's Crobat ex",
+   "v": "n"
+  },
+  {
+   "n": "067/098",
+   "name": "Team Rocket's Grimer",
+   "v": "n"
+  },
+  {
+   "n": "068/098",
+   "name": "Team Rocket's Muk",
+   "v": "n"
+  },
+  {
+   "n": "069/098",
+   "name": "Team Rocket's Koffing",
+   "v": "n"
+  },
+  {
+   "n": "070/098",
+   "name": "Team Rocket's Weezing",
+   "v": "n"
+  },
+  {
+   "n": "071/098",
+   "name": "Team Rocket's Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "072/098",
+   "name": "Team Rocket's Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "073/098",
+   "name": "Forretress",
+   "v": "n"
+  },
+  {
+   "n": "074/098",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "075/098",
+   "name": "Zamazenta",
+   "v": "n"
+  },
+  {
+   "n": "076/098",
+   "name": "Team Rocket's Rattata",
+   "v": "n"
+  },
+  {
+   "n": "077/098",
+   "name": "Team Rocket's Raticate",
+   "v": "n"
+  },
+  {
+   "n": "078/098",
+   "name": "Team Rocket's Meowth",
+   "v": "n"
+  },
+  {
+   "n": "079/098",
+   "name": "Team Rocket's Persian ex",
+   "v": "n"
+  },
+  {
+   "n": "080/098",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "081/098",
+   "name": "Team Rocket's Porygon",
+   "v": "n"
+  },
+  {
+   "n": "082/098",
+   "name": "Team Rocket's Porygon2",
+   "v": "n"
+  },
+  {
+   "n": "083/098",
+   "name": "Team Rocket's Porygon-Z",
+   "v": "n"
+  },
+  {
+   "n": "084/098",
+   "name": "Taillow",
+   "v": "n"
+  },
+  {
+   "n": "085/098",
+   "name": "Swellow",
+   "v": "n"
+  },
+  {
+   "n": "086/098",
+   "name": "Squawkabilly",
+   "v": "n"
+  },
+  {
+   "n": "087/098",
+   "name": "Team Rocket's Venture Bomb",
+   "v": "n"
+  },
+  {
+   "n": "088/098",
+   "name": "Team Rocket's Transceiver",
+   "v": "n"
+  },
+  {
+   "n": "089/098",
+   "name": "Team Rocket's Bother-Bot",
+   "v": "n"
+  },
+  {
+   "n": "090/098",
+   "name": "Team Rocket's Great Ball",
+   "v": "n"
+  },
+  {
+   "n": "091/098",
+   "name": "Team Rocket's Petrel",
+   "v": "n"
+  },
+  {
+   "n": "092/098",
+   "name": "Team Rocket's Proton",
+   "v": "n"
+  },
+  {
+   "n": "093/098",
+   "name": "Team Rocket's Giovanni",
+   "v": "n"
+  },
+  {
+   "n": "094/098",
+   "name": "Team Rocket's Ariana",
+   "v": "n"
+  },
+  {
+   "n": "095/098",
+   "name": "Team Rocket's Archer",
+   "v": "n"
+  },
+  {
+   "n": "096/098",
+   "name": "Team Rocket's Watchtower",
+   "v": "n"
+  },
+  {
+   "n": "097/098",
+   "name": "Team Rocket's Factory",
+   "v": "n"
+  },
+  {
+   "n": "098/098",
+   "name": "Team Rocket's Energy",
+   "v": "n"
+  },
+  {
+   "n": "099/098",
+   "name": "Team Rocket's Spidops",
+   "v": "n"
+  },
+  {
+   "n": "100/098",
+   "name": "Team Rocket's Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "101/098",
+   "name": "Blaziken",
+   "v": "n"
+  },
+  {
+   "n": "102/098",
+   "name": "Clamperl",
+   "v": "n"
+  },
+  {
+   "n": "103/098",
+   "name": "Team Rocket's Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "104/098",
+   "name": "Team Rocket's Orbeetle",
+   "v": "n"
+  },
+  {
+   "n": "105/098",
+   "name": "Team Rocket's Weezing",
+   "v": "n"
+  },
+  {
+   "n": "106/098",
+   "name": "Team Rocket's Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "107/098",
+   "name": "Zamazenta",
+   "v": "n"
+  },
+  {
+   "n": "108/098",
+   "name": "Team Rocket's Raticate",
+   "v": "n"
+  },
+  {
+   "n": "109/098",
+   "name": "Team Rocket's Meowth",
+   "v": "n"
+  },
+  {
+   "n": "110/098",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "111/098",
+   "name": "Arboliva ex",
+   "v": "n"
+  },
+  {
+   "n": "112/098",
+   "name": "Team Rocket's Moltres ex",
+   "v": "n"
+  },
+  {
+   "n": "113/098",
+   "name": "Cetitan ex",
+   "v": "n"
+  },
+  {
+   "n": "114/098",
+   "name": "Team Rocket's Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "115/098",
+   "name": "Regirock ex",
+   "v": "n"
+  },
+  {
+   "n": "116/098",
+   "name": "Team Rocket's Nidoking ex",
+   "v": "n"
+  },
+  {
+   "n": "117/098",
+   "name": "Team Rocket's Crobat ex",
+   "v": "n"
+  },
+  {
+   "n": "118/098",
+   "name": "Team Rocket's Persian ex",
+   "v": "n"
+  },
+  {
+   "n": "119/098",
+   "name": "Team Rocket's Petrel",
+   "v": "n"
+  },
+  {
+   "n": "120/098",
+   "name": "Team Rocket's Proton",
+   "v": "n"
+  },
+  {
+   "n": "121/098",
+   "name": "Team Rocket's Giovanni",
+   "v": "n"
+  },
+  {
+   "n": "122/098",
+   "name": "Team Rocket's Ariana",
+   "v": "n"
+  },
+  {
+   "n": "123/098",
+   "name": "Team Rocket's Archer",
+   "v": "n"
+  },
+  {
+   "n": "124/098",
+   "name": "Team Rocket's Moltres ex",
+   "v": "n"
+  },
+  {
+   "n": "125/098",
+   "name": "Team Rocket's Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "126/098",
+   "name": "Team Rocket's Nidoking ex",
+   "v": "n"
+  },
+  {
+   "n": "127/098",
+   "name": "Team Rocket's Crobat ex",
+   "v": "n"
+  },
+  {
+   "n": "128/098",
+   "name": "Team Rocket's Giovanni",
+   "v": "n"
+  },
+  {
+   "n": "129/098",
+   "name": "Team Rocket's Ariana",
+   "v": "n"
+  },
+  {
+   "n": "130/098",
+   "name": "Team Rocket's Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "131/098",
+   "name": "Team Rocket's Crobat ex",
+   "v": "n"
+  },
+  {
+   "n": "132/098",
+   "name": "Jamming Tower",
+   "v": "n"
+  }
+ ]
+}

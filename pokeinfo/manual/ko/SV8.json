@@ -1,0 +1,705 @@
+{
+ "id": "SV8",
+ "name": "Super Electric Breaker",
+ "name_en": "Super Electric Breaker",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2024-10-18",
+ "official": 106,
+ "abbr": "SV8",
+ "logo": "img/logos/ja/SV8.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/106",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "002/106",
+   "name": "Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "003/106",
+   "name": "Durant ex",
+   "v": "n"
+  },
+  {
+   "n": "004/106",
+   "name": "Scatterbug",
+   "v": "n"
+  },
+  {
+   "n": "005/106",
+   "name": "Spewpa",
+   "v": "n"
+  },
+  {
+   "n": "006/106",
+   "name": "Vivillon",
+   "v": "n"
+  },
+  {
+   "n": "007/106",
+   "name": "Capsakid",
+   "v": "n"
+  },
+  {
+   "n": "008/106",
+   "name": "Rellor",
+   "v": "n"
+  },
+  {
+   "n": "009/106",
+   "name": "Rabsca",
+   "v": "n"
+  },
+  {
+   "n": "010/106",
+   "name": "Wo-Chien",
+   "v": "n"
+  },
+  {
+   "n": "011/106",
+   "name": "Paldean Tauros",
+   "v": "n"
+  },
+  {
+   "n": "012/106",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "013/106",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "014/106",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "015/106",
+   "name": "Sizzlipede",
+   "v": "n"
+  },
+  {
+   "n": "016/106",
+   "name": "Centiskorch",
+   "v": "n"
+  },
+  {
+   "n": "017/106",
+   "name": "Fuecoco",
+   "v": "n"
+  },
+  {
+   "n": "018/106",
+   "name": "Crocalor",
+   "v": "n"
+  },
+  {
+   "n": "019/106",
+   "name": "Skeledirge",
+   "v": "n"
+  },
+  {
+   "n": "020/106",
+   "name": "Charcadet",
+   "v": "n"
+  },
+  {
+   "n": "021/106",
+   "name": "Armarouge",
+   "v": "n"
+  },
+  {
+   "n": "022/106",
+   "name": "Ceruledge",
+   "v": "n"
+  },
+  {
+   "n": "023/106",
+   "name": "Scovillain ex",
+   "v": "n"
+  },
+  {
+   "n": "024/106",
+   "name": "Paldean Tauros",
+   "v": "n"
+  },
+  {
+   "n": "025/106",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "026/106",
+   "name": "Milotic ex",
+   "v": "n"
+  },
+  {
+   "n": "027/106",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "028/106",
+   "name": "Sealeo",
+   "v": "n"
+  },
+  {
+   "n": "029/106",
+   "name": "Walrein",
+   "v": "n"
+  },
+  {
+   "n": "030/106",
+   "name": "Shellos",
+   "v": "n"
+  },
+  {
+   "n": "031/106",
+   "name": "Iron Bundle",
+   "v": "n"
+  },
+  {
+   "n": "032/106",
+   "name": "Chien-Pao",
+   "v": "n"
+  },
+  {
+   "n": "033/106",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "034/106",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "035/106",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "036/106",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "037/106",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "038/106",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "039/106",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "040/106",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "041/106",
+   "name": "Tapu Koko",
+   "v": "n"
+  },
+  {
+   "n": "042/106",
+   "name": "Wattrel",
+   "v": "n"
+  },
+  {
+   "n": "043/106",
+   "name": "Kilowattrel",
+   "v": "n"
+  },
+  {
+   "n": "044/106",
+   "name": "Miraidon",
+   "v": "n"
+  },
+  {
+   "n": "045/106",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "046/106",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "047/106",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "048/106",
+   "name": "Uxie",
+   "v": "n"
+  },
+  {
+   "n": "049/106",
+   "name": "Mesprit",
+   "v": "n"
+  },
+  {
+   "n": "050/106",
+   "name": "Azelf",
+   "v": "n"
+  },
+  {
+   "n": "051/106",
+   "name": "Yamask",
+   "v": "n"
+  },
+  {
+   "n": "052/106",
+   "name": "Cofagrigus",
+   "v": "n"
+  },
+  {
+   "n": "053/106",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "054/106",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "055/106",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "056/106",
+   "name": "Sandygast",
+   "v": "n"
+  },
+  {
+   "n": "057/106",
+   "name": "Palossand ex",
+   "v": "n"
+  },
+  {
+   "n": "058/106",
+   "name": "Indeedee",
+   "v": "n"
+  },
+  {
+   "n": "059/106",
+   "name": "Flutter Mane",
+   "v": "n"
+  },
+  {
+   "n": "060/106",
+   "name": "Mankey",
+   "v": "n"
+  },
+  {
+   "n": "061/106",
+   "name": "Primeape",
+   "v": "n"
+  },
+  {
+   "n": "062/106",
+   "name": "Annihilape",
+   "v": "n"
+  },
+  {
+   "n": "063/106",
+   "name": "Paldean Tauros",
+   "v": "n"
+  },
+  {
+   "n": "064/106",
+   "name": "Phanpy",
+   "v": "n"
+  },
+  {
+   "n": "065/106",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "066/106",
+   "name": "Gastrodon",
+   "v": "n"
+  },
+  {
+   "n": "067/106",
+   "name": "Glimmet",
+   "v": "n"
+  },
+  {
+   "n": "068/106",
+   "name": "Glimmora",
+   "v": "n"
+  },
+  {
+   "n": "069/106",
+   "name": "Koraidon",
+   "v": "n"
+  },
+  {
+   "n": "070/106",
+   "name": "Deino",
+   "v": "n"
+  },
+  {
+   "n": "071/106",
+   "name": "Zweilous",
+   "v": "n"
+  },
+  {
+   "n": "072/106",
+   "name": "Hydreigon ex",
+   "v": "n"
+  },
+  {
+   "n": "073/106",
+   "name": "Shroodle",
+   "v": "n"
+  },
+  {
+   "n": "074/106",
+   "name": "Grafaiai",
+   "v": "n"
+  },
+  {
+   "n": "075/106",
+   "name": "Pecharunt",
+   "v": "n"
+  },
+  {
+   "n": "076/106",
+   "name": "Alolan Diglett",
+   "v": "n"
+  },
+  {
+   "n": "077/106",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "078/106",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "079/106",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "080/106",
+   "name": "Eternatus",
+   "v": "n"
+  },
+  {
+   "n": "081/106",
+   "name": "Tatsugiri ex",
+   "v": "n"
+  },
+  {
+   "n": "082/106",
+   "name": "Slakoth",
+   "v": "n"
+  },
+  {
+   "n": "083/106",
+   "name": "Vigoroth",
+   "v": "n"
+  },
+  {
+   "n": "084/106",
+   "name": "Slaking ex",
+   "v": "n"
+  },
+  {
+   "n": "085/106",
+   "name": "Zangoose",
+   "v": "n"
+  },
+  {
+   "n": "086/106",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "087/106",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "088/106",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "089/106",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "090/106",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "091/106",
+   "name": "Tandemaus",
+   "v": "n"
+  },
+  {
+   "n": "092/106",
+   "name": "Maushold",
+   "v": "n"
+  },
+  {
+   "n": "093/106",
+   "name": "Terapagos",
+   "v": "n"
+  },
+  {
+   "n": "094/106",
+   "name": "Chill Teaser Toy",
+   "v": "n"
+  },
+  {
+   "n": "095/106",
+   "name": "Miracle Headset",
+   "v": "n"
+  },
+  {
+   "n": "096/106",
+   "name": "Scramble Switch",
+   "v": "n"
+  },
+  {
+   "n": "097/106",
+   "name": "Deduction Kit",
+   "v": "n"
+  },
+  {
+   "n": "098/106",
+   "name": "Technical Machine: Fluorite",
+   "v": "n"
+  },
+  {
+   "n": "099/106",
+   "name": "Colbur Berry",
+   "v": "n"
+  },
+  {
+   "n": "100/106",
+   "name": "Babiri Berry",
+   "v": "n"
+  },
+  {
+   "n": "101/106",
+   "name": "Amulet of Hope",
+   "v": "n"
+  },
+  {
+   "n": "102/106",
+   "name": "Jasmine's Gaze",
+   "v": "n"
+  },
+  {
+   "n": "103/106",
+   "name": "Cyrano",
+   "v": "n"
+  },
+  {
+   "n": "104/106",
+   "name": "Clemont's Quick Wit",
+   "v": "n"
+  },
+  {
+   "n": "105/106",
+   "name": "Gravity Mountain",
+   "v": "n"
+  },
+  {
+   "n": "106/106",
+   "name": "Lively Stadium",
+   "v": "n"
+  },
+  {
+   "n": "107/106",
+   "name": "Vivillon",
+   "v": "n"
+  },
+  {
+   "n": "108/106",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "109/106",
+   "name": "Ceruledge",
+   "v": "n"
+  },
+  {
+   "n": "110/106",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "111/106",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "112/106",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "113/106",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "114/106",
+   "name": "Mesprit",
+   "v": "n"
+  },
+  {
+   "n": "115/106",
+   "name": "Phanpy",
+   "v": "n"
+  },
+  {
+   "n": "116/106",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "117/106",
+   "name": "Slakoth",
+   "v": "n"
+  },
+  {
+   "n": "118/106",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "119/106",
+   "name": "Durant ex",
+   "v": "n"
+  },
+  {
+   "n": "120/106",
+   "name": "Scovillain ex",
+   "v": "n"
+  },
+  {
+   "n": "121/106",
+   "name": "Milotic ex",
+   "v": "n"
+  },
+  {
+   "n": "122/106",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "123/106",
+   "name": "Palossand ex",
+   "v": "n"
+  },
+  {
+   "n": "124/106",
+   "name": "Hydreigon ex",
+   "v": "n"
+  },
+  {
+   "n": "125/106",
+   "name": "Tatsugiri ex",
+   "v": "n"
+  },
+  {
+   "n": "126/106",
+   "name": "Slaking ex",
+   "v": "n"
+  },
+  {
+   "n": "127/106",
+   "name": "Jasmine's Gaze",
+   "v": "n"
+  },
+  {
+   "n": "128/106",
+   "name": "Cyrano",
+   "v": "n"
+  },
+  {
+   "n": "129/106",
+   "name": "Clemont's Quick Wit",
+   "v": "n"
+  },
+  {
+   "n": "130/106",
+   "name": "Durant ex",
+   "v": "n"
+  },
+  {
+   "n": "131/106",
+   "name": "Milotic ex",
+   "v": "n"
+  },
+  {
+   "n": "132/106",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "133/106",
+   "name": "Hydreigon ex",
+   "v": "n"
+  },
+  {
+   "n": "134/106",
+   "name": "Jasmine's Gaze",
+   "v": "n"
+  },
+  {
+   "n": "135/106",
+   "name": "Clemont's Quick Wit",
+   "v": "n"
+  },
+  {
+   "n": "136/106",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "137/106",
+   "name": "Night Stretcher",
+   "v": "n"
+  },
+  {
+   "n": "138/106",
+   "name": "Gravity Mountain",
+   "v": "n"
+  }
+ ]
+}

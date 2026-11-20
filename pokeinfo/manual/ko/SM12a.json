@@ -1,0 +1,1145 @@
+{
+ "id": "SM12a",
+ "name": "TAG TEAM GX 태그올스타즈",
+ "name_en": "Tag Team GX All Stars",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-10-04",
+ "official": 173,
+ "abbr": "SM12a",
+ "logo": "img/logos/ja/SM12a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/173",
+   "name": "Pheromosa & Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "002/173",
+   "name": "Paras",
+   "v": "n"
+  },
+  {
+   "n": "003/173",
+   "name": "Parasect",
+   "v": "n"
+  },
+  {
+   "n": "004/173",
+   "name": "Hoppip",
+   "v": "n"
+  },
+  {
+   "n": "005/173",
+   "name": "Skiploom",
+   "v": "n"
+  },
+  {
+   "n": "006/173",
+   "name": "Jumpluff",
+   "v": "n"
+  },
+  {
+   "n": "007/173",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "008/173",
+   "name": "Treecko",
+   "v": "n"
+  },
+  {
+   "n": "009/173",
+   "name": "Grovyle",
+   "v": "n"
+  },
+  {
+   "n": "010/173",
+   "name": "Sceptile-GX",
+   "v": "n"
+  },
+  {
+   "n": "011/173",
+   "name": "Shaymin ◇",
+   "v": "n"
+  },
+  {
+   "n": "012/173",
+   "name": "Bounsweet",
+   "v": "n"
+  },
+  {
+   "n": "013/173",
+   "name": "Steenee",
+   "v": "n"
+  },
+  {
+   "n": "014/173",
+   "name": "Tsareena",
+   "v": "n"
+  },
+  {
+   "n": "015/173",
+   "name": "Kartana",
+   "v": "n"
+  },
+  {
+   "n": "016/173",
+   "name": "Reshiram & Charizard-GX",
+   "v": "n"
+  },
+  {
+   "n": "017/173",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "018/173",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "019/173",
+   "name": "Flareon",
+   "v": "n"
+  },
+  {
+   "n": "020/173",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "021/173",
+   "name": "Victini ◇",
+   "v": "n"
+  },
+  {
+   "n": "022/173",
+   "name": "Volcanion",
+   "v": "n"
+  },
+  {
+   "n": "023/173",
+   "name": "Litten",
+   "v": "n"
+  },
+  {
+   "n": "024/173",
+   "name": "Torracat",
+   "v": "n"
+  },
+  {
+   "n": "025/173",
+   "name": "Incineroar",
+   "v": "n"
+  },
+  {
+   "n": "026/173",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "027/173",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "028/173",
+   "name": "Blacephalon-GX",
+   "v": "n"
+  },
+  {
+   "n": "029/173",
+   "name": "Squirtle",
+   "v": "n"
+  },
+  {
+   "n": "030/173",
+   "name": "Wartortle",
+   "v": "n"
+  },
+  {
+   "n": "031/173",
+   "name": "Blastoise",
+   "v": "n"
+  },
+  {
+   "n": "032/173",
+   "name": "Alolan Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "033/173",
+   "name": "Vaporeon",
+   "v": "n"
+  },
+  {
+   "n": "034/173",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "035/173",
+   "name": "White Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "036/173",
+   "name": "Keldeo-GX",
+   "v": "n"
+  },
+  {
+   "n": "037/173",
+   "name": "Volcanion ◇",
+   "v": "n"
+  },
+  {
+   "n": "038/173",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "039/173",
+   "name": "Wishiwashi-GX",
+   "v": "n"
+  },
+  {
+   "n": "040/173",
+   "name": "Tapu Fini",
+   "v": "n"
+  },
+  {
+   "n": "041/173",
+   "name": "Pikachu & Zekrom-GX",
+   "v": "n"
+  },
+  {
+   "n": "042/173",
+   "name": "Jolteon",
+   "v": "n"
+  },
+  {
+   "n": "043/173",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "044/173",
+   "name": "Raikou",
+   "v": "n"
+  },
+  {
+   "n": "045/173",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "046/173",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "047/173",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "048/173",
+   "name": "Dedenne-GX",
+   "v": "n"
+  },
+  {
+   "n": "049/173",
+   "name": "Tapu Koko ◇",
+   "v": "n"
+  },
+  {
+   "n": "050/173",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "051/173",
+   "name": "Zeraora-GX",
+   "v": "n"
+  },
+  {
+   "n": "052/173",
+   "name": "Mewtwo & Mew-GX",
+   "v": "n"
+  },
+  {
+   "n": "053/173",
+   "name": "Trevenant & Dusknoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/173",
+   "name": "Mewtwo",
+   "v": "n"
+  },
+  {
+   "n": "055/173",
+   "name": "Mew",
+   "v": "n"
+  },
+  {
+   "n": "056/173",
+   "name": "Natu",
+   "v": "n"
+  },
+  {
+   "n": "057/173",
+   "name": "Giratina",
+   "v": "n"
+  },
+  {
+   "n": "058/173",
+   "name": "Giratina ◇",
+   "v": "n"
+  },
+  {
+   "n": "059/173",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "060/173",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "061/173",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "062/173",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "063/173",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "064/173",
+   "name": "Marshadow",
+   "v": "n"
+  },
+  {
+   "n": "065/173",
+   "name": "Poipole",
+   "v": "n"
+  },
+  {
+   "n": "066/173",
+   "name": "Naganadel",
+   "v": "n"
+  },
+  {
+   "n": "067/173",
+   "name": "Marshadow & Machamp-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/173",
+   "name": "Tyrogue",
+   "v": "n"
+  },
+  {
+   "n": "069/173",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "070/173",
+   "name": "Diancie ◇",
+   "v": "n"
+  },
+  {
+   "n": "071/173",
+   "name": "Stakataka",
+   "v": "n"
+  },
+  {
+   "n": "072/173",
+   "name": "Greninja & Zoroark-GX",
+   "v": "n"
+  },
+  {
+   "n": "073/173",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "074/173",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "075/173",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "076/173",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "077/173",
+   "name": "Darkrai ◇",
+   "v": "n"
+  },
+  {
+   "n": "078/173",
+   "name": "Zorua",
+   "v": "n"
+  },
+  {
+   "n": "079/173",
+   "name": "Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "080/173",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "081/173",
+   "name": "Hoopa",
+   "v": "n"
+  },
+  {
+   "n": "082/173",
+   "name": "Incineroar-GX",
+   "v": "n"
+  },
+  {
+   "n": "083/173",
+   "name": "Lucario & Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "084/173",
+   "name": "Alolan Diglett",
+   "v": "n"
+  },
+  {
+   "n": "085/173",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "086/173",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "087/173",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "088/173",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "089/173",
+   "name": "Mawile-GX",
+   "v": "n"
+  },
+  {
+   "n": "090/173",
+   "name": "Jirachi",
+   "v": "n"
+  },
+  {
+   "n": "091/173",
+   "name": "Jirachi ◇",
+   "v": "n"
+  },
+  {
+   "n": "092/173",
+   "name": "Meltan",
+   "v": "n"
+  },
+  {
+   "n": "093/173",
+   "name": "Melmetal",
+   "v": "n"
+  },
+  {
+   "n": "094/173",
+   "name": "Togepi & Cleffa & Igglybuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "095/173",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "096/173",
+   "name": "Cleffa",
+   "v": "n"
+  },
+  {
+   "n": "097/173",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "098/173",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "099/173",
+   "name": "Garchomp & Giratina-GX",
+   "v": "n"
+  },
+  {
+   "n": "100/173",
+   "name": "Rayquaza-GX",
+   "v": "n"
+  },
+  {
+   "n": "101/173",
+   "name": "Ultra Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "102/173",
+   "name": "Moltres & Zapdos & Articuno-GX",
+   "v": "n"
+  },
+  {
+   "n": "103/173",
+   "name": "Pidgey",
+   "v": "n"
+  },
+  {
+   "n": "104/173",
+   "name": "Pidgeotto",
+   "v": "n"
+  },
+  {
+   "n": "105/173",
+   "name": "Meowth",
+   "v": "n"
+  },
+  {
+   "n": "106/173",
+   "name": "Persian",
+   "v": "n"
+  },
+  {
+   "n": "107/173",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "108/173",
+   "name": "Ditto ◇",
+   "v": "n"
+  },
+  {
+   "n": "109/173",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "110/173",
+   "name": "Porygon",
+   "v": "n"
+  },
+  {
+   "n": "111/173",
+   "name": "Porygon2",
+   "v": "n"
+  },
+  {
+   "n": "112/173",
+   "name": "Porygon-Z",
+   "v": "n"
+  },
+  {
+   "n": "113/173",
+   "name": "Glameow",
+   "v": "n"
+  },
+  {
+   "n": "114/173",
+   "name": "Munchlax",
+   "v": "n"
+  },
+  {
+   "n": "115/173",
+   "name": "Audino",
+   "v": "n"
+  },
+  {
+   "n": "116/173",
+   "name": "Pikipek",
+   "v": "n"
+  },
+  {
+   "n": "117/173",
+   "name": "Trumbeak",
+   "v": "n"
+  },
+  {
+   "n": "118/173",
+   "name": "Net Ball",
+   "v": "n"
+  },
+  {
+   "n": "119/173",
+   "name": "Acro Bike",
+   "v": "n"
+  },
+  {
+   "n": "120/173",
+   "name": "Acro Bike",
+   "v": "n"
+  },
+  {
+   "n": "121/173",
+   "name": "Lost Blender",
+   "v": "n"
+  },
+  {
+   "n": "122/173",
+   "name": "Reset Stamp",
+   "v": "n"
+  },
+  {
+   "n": "123/173",
+   "name": "Reset Stamp",
+   "v": "n"
+  },
+  {
+   "n": "124/173",
+   "name": "Adventure Bag",
+   "v": "n"
+  },
+  {
+   "n": "125/173",
+   "name": "Mysterious Treasure",
+   "v": "n"
+  },
+  {
+   "n": "126/173",
+   "name": "Mysterious Treasure",
+   "v": "n"
+  },
+  {
+   "n": "127/173",
+   "name": "Fire Crystal",
+   "v": "n"
+  },
+  {
+   "n": "128/173",
+   "name": "Beast Ring",
+   "v": "n"
+  },
+  {
+   "n": "129/173",
+   "name": "Electropower",
+   "v": "n"
+  },
+  {
+   "n": "130/173",
+   "name": "Electropower",
+   "v": "n"
+  },
+  {
+   "n": "131/173",
+   "name": "Electromagnetic Radar",
+   "v": "n"
+  },
+  {
+   "n": "132/173",
+   "name": "Electromagnetic Radar",
+   "v": "n"
+  },
+  {
+   "n": "133/173",
+   "name": "Custom Catcher",
+   "v": "n"
+  },
+  {
+   "n": "134/173",
+   "name": "Pokégear 3.0",
+   "v": "n"
+  },
+  {
+   "n": "135/173",
+   "name": "Pokégear 3.0",
+   "v": "n"
+  },
+  {
+   "n": "136/173",
+   "name": "Pokémon Communication",
+   "v": "n"
+  },
+  {
+   "n": "137/173",
+   "name": "Pokémon Communication",
+   "v": "n"
+  },
+  {
+   "n": "138/173",
+   "name": "Cherish Ball",
+   "v": "n"
+  },
+  {
+   "n": "139/173",
+   "name": "U-Turn Board",
+   "v": "n"
+  },
+  {
+   "n": "140/173",
+   "name": "Karate Belt",
+   "v": "n"
+  },
+  {
+   "n": "141/173",
+   "name": "Metal Core Barrier",
+   "v": "n"
+  },
+  {
+   "n": "142/173",
+   "name": "Spell Tag",
+   "v": "n"
+  },
+  {
+   "n": "143/173",
+   "name": "Counter Gain",
+   "v": "n"
+  },
+  {
+   "n": "144/173",
+   "name": "Professor Elm's Lecture",
+   "v": "n"
+  },
+  {
+   "n": "145/173",
+   "name": "Sightseer",
+   "v": "n"
+  },
+  {
+   "n": "146/173",
+   "name": "Red's Challenge",
+   "v": "n"
+  },
+  {
+   "n": "147/173",
+   "name": "Lisia",
+   "v": "n"
+  },
+  {
+   "n": "148/173",
+   "name": "Mina",
+   "v": "n"
+  },
+  {
+   "n": "149/173",
+   "name": "Erika's Hospitality",
+   "v": "n"
+  },
+  {
+   "n": "150/173",
+   "name": "Green's Exploration",
+   "v": "n"
+  },
+  {
+   "n": "151/173",
+   "name": "Giovanni's Exile",
+   "v": "n"
+  },
+  {
+   "n": "152/173",
+   "name": "Welder",
+   "v": "n"
+  },
+  {
+   "n": "153/173",
+   "name": "Morty",
+   "v": "n"
+  },
+  {
+   "n": "154/173",
+   "name": "Misty & Lorelei",
+   "v": "n"
+  },
+  {
+   "n": "155/173",
+   "name": "Faba",
+   "v": "n"
+  },
+  {
+   "n": "156/173",
+   "name": "Volkner",
+   "v": "n"
+  },
+  {
+   "n": "157/173",
+   "name": "Bellelba & Brycen-Man",
+   "v": "n"
+  },
+  {
+   "n": "158/173",
+   "name": "Diantha",
+   "v": "n"
+  },
+  {
+   "n": "159/173",
+   "name": "Cyrus ◇",
+   "v": "n"
+  },
+  {
+   "n": "160/173",
+   "name": "Giant Hearth",
+   "v": "n"
+  },
+  {
+   "n": "161/173",
+   "name": "Martial Arts Dojo",
+   "v": "n"
+  },
+  {
+   "n": "162/173",
+   "name": "Shrine of Punishment",
+   "v": "n"
+  },
+  {
+   "n": "163/173",
+   "name": "Life Forest ◇",
+   "v": "n"
+  },
+  {
+   "n": "164/173",
+   "name": "Black Market ◇",
+   "v": "n"
+  },
+  {
+   "n": "165/173",
+   "name": "Viridian Forest",
+   "v": "n"
+  },
+  {
+   "n": "166/173",
+   "name": "Thunder Mountain ◇",
+   "v": "n"
+  },
+  {
+   "n": "167/173",
+   "name": "Wondrous Labyrinth ◇",
+   "v": "n"
+  },
+  {
+   "n": "168/173",
+   "name": "Mt. Coronet",
+   "v": "n"
+  },
+  {
+   "n": "169/173",
+   "name": "Heat Factory ◇",
+   "v": "n"
+  },
+  {
+   "n": "170/173",
+   "name": "Recycle Energy",
+   "v": "n"
+  },
+  {
+   "n": "171/173",
+   "name": "Beast Energy ◇",
+   "v": "n"
+  },
+  {
+   "n": "172/173",
+   "name": "Super Boost Energy ◇",
+   "v": "n"
+  },
+  {
+   "n": "173/173",
+   "name": "Triple Acceleration Energy",
+   "v": "n"
+  },
+  {
+   "n": "174/173",
+   "name": "Wishiwashi-GX",
+   "v": "n"
+  },
+  {
+   "n": "175/173",
+   "name": "Dedenne-GX",
+   "v": "n"
+  },
+  {
+   "n": "176/173",
+   "name": "Espeon & Deoxys-GX",
+   "v": "n"
+  },
+  {
+   "n": "177/173",
+   "name": "Espeon & Deoxys-GX",
+   "v": "n"
+  },
+  {
+   "n": "178/173",
+   "name": "Trevenant & Dusknoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "179/173",
+   "name": "Trevenant & Dusknoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "180/173",
+   "name": "Jirachi-GX",
+   "v": "n"
+  },
+  {
+   "n": "181/173",
+   "name": "Umbreon & Darkrai-GX",
+   "v": "n"
+  },
+  {
+   "n": "182/173",
+   "name": "Umbreon & Darkrai-GX",
+   "v": "n"
+  },
+  {
+   "n": "183/173",
+   "name": "Weavile-GX",
+   "v": "n"
+  },
+  {
+   "n": "184/173",
+   "name": "Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "185/173",
+   "name": "Togepi & Cleffa & Igglybuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "186/173",
+   "name": "Togepi & Cleffa & Igglybuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "187/173",
+   "name": "Eevee-GX",
+   "v": "n"
+  },
+  {
+   "n": "188/173",
+   "name": "Eevee-GX",
+   "v": "n"
+  },
+  {
+   "n": "189/173",
+   "name": "Sightseer",
+   "v": "n"
+  },
+  {
+   "n": "190/173",
+   "name": "Blue's Tactics",
+   "v": "n"
+  },
+  {
+   "n": "191/173",
+   "name": "Red's Challenge",
+   "v": "n"
+  },
+  {
+   "n": "192/173",
+   "name": "Mina",
+   "v": "n"
+  },
+  {
+   "n": "193/173",
+   "name": "Erika's Hospitality",
+   "v": "n"
+  },
+  {
+   "n": "194/173",
+   "name": "Roxie",
+   "v": "n"
+  },
+  {
+   "n": "195/173",
+   "name": "Green's Exploration",
+   "v": "n"
+  },
+  {
+   "n": "196/173",
+   "name": "Clay",
+   "v": "n"
+  },
+  {
+   "n": "197/173",
+   "name": "Welder",
+   "v": "n"
+  },
+  {
+   "n": "198/173",
+   "name": "Misty & Lorelei",
+   "v": "n"
+  },
+  {
+   "n": "199/173",
+   "name": "Will",
+   "v": "n"
+  },
+  {
+   "n": "200/173",
+   "name": "Bellelba & Brycen-Man",
+   "v": "n"
+  },
+  {
+   "n": "201/173",
+   "name": "Hapu",
+   "v": "n"
+  },
+  {
+   "n": "202/173",
+   "name": "Basic Grass Energy",
+   "v": "n"
+  },
+  {
+   "n": "203/173",
+   "name": "Basic Fire Energy",
+   "v": "n"
+  },
+  {
+   "n": "204/173",
+   "name": "Basic Water Energy",
+   "v": "n"
+  },
+  {
+   "n": "205/173",
+   "name": "Basic Lightning Energy",
+   "v": "n"
+  },
+  {
+   "n": "206/173",
+   "name": "Basic Psychic Energy",
+   "v": "n"
+  },
+  {
+   "n": "207/173",
+   "name": "Basic Fighting Energy",
+   "v": "n"
+  },
+  {
+   "n": "208/173",
+   "name": "Basic Darkness Energy",
+   "v": "n"
+  },
+  {
+   "n": "209/173",
+   "name": "Basic Metal Energy",
+   "v": "n"
+  },
+  {
+   "n": "210/173",
+   "name": "Basic Fairy Energy",
+   "v": "n"
+  },
+  {
+   "n": "211/173",
+   "name": "Wishiwashi-GX",
+   "v": "n"
+  },
+  {
+   "n": "212/173",
+   "name": "Espeon & Deoxys-GX",
+   "v": "n"
+  },
+  {
+   "n": "213/173",
+   "name": "Trevenant & Dusknoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "214/173",
+   "name": "Jirachi-GX",
+   "v": "n"
+  },
+  {
+   "n": "215/173",
+   "name": "Umbreon & Darkrai-GX",
+   "v": "n"
+  },
+  {
+   "n": "216/173",
+   "name": "Weavile-GX",
+   "v": "n"
+  },
+  {
+   "n": "217/173",
+   "name": "Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "218/173",
+   "name": "Togepi & Cleffa & Igglybuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "219/173",
+   "name": "Eevee-GX",
+   "v": "n"
+  },
+  {
+   "n": "220/173",
+   "name": "Reshiram & Charizard-GX",
+   "v": "n"
+  },
+  {
+   "n": "221/173",
+   "name": "Pikachu & Zekrom-GX",
+   "v": "n"
+  },
+  {
+   "n": "222/173",
+   "name": "Mewtwo & Mew-GX",
+   "v": "n"
+  },
+  {
+   "n": "223/173",
+   "name": "Greninja & Zoroark-GX",
+   "v": "n"
+  },
+  {
+   "n": "224/173",
+   "name": "Lucario & Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "225/173",
+   "name": "Garchomp & Giratina-GX",
+   "v": "n"
+  },
+  {
+   "n": "226/173",
+   "name": "Moltres & Zapdos & Articuno-GX",
+   "v": "n"
+  }
+ ]
+}

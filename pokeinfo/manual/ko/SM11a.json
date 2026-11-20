@@ -1,0 +1,415 @@
+{
+ "id": "SM11a",
+ "name": "리믹스바우트",
+ "name_en": "Remix Bout",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-07-05",
+ "official": 64,
+ "abbr": "SM11a",
+ "logo": "img/logos/ja/SM11a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/064",
+   "name": "Venusaur & Snivy-GX",
+   "v": "n"
+  },
+  {
+   "n": "002/064",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "003/064",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "004/064",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "005/064",
+   "name": "Tropius",
+   "v": "n"
+  },
+  {
+   "n": "006/064",
+   "name": "Deerling",
+   "v": "n"
+  },
+  {
+   "n": "007/064",
+   "name": "Sawsbuck",
+   "v": "n"
+  },
+  {
+   "n": "008/064",
+   "name": "Charizard & Braixen-GX",
+   "v": "n"
+  },
+  {
+   "n": "009/064",
+   "name": "Ponyta",
+   "v": "n"
+  },
+  {
+   "n": "010/064",
+   "name": "Rapidash",
+   "v": "n"
+  },
+  {
+   "n": "011/064",
+   "name": "Entei",
+   "v": "n"
+  },
+  {
+   "n": "012/064",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "013/064",
+   "name": "Tepig",
+   "v": "n"
+  },
+  {
+   "n": "014/064",
+   "name": "Pignite",
+   "v": "n"
+  },
+  {
+   "n": "015/064",
+   "name": "Emboar",
+   "v": "n"
+  },
+  {
+   "n": "016/064",
+   "name": "Blastoise & Piplup-GX",
+   "v": "n"
+  },
+  {
+   "n": "017/064",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "018/064",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "019/064",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "020/064",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "021/064",
+   "name": "Kyogre",
+   "v": "n"
+  },
+  {
+   "n": "022/064",
+   "name": "Phione",
+   "v": "n"
+  },
+  {
+   "n": "023/064",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "024/064",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "025/064",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "026/064",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "027/064",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "028/064",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "029/064",
+   "name": "Dhelmise",
+   "v": "n"
+  },
+  {
+   "n": "030/064",
+   "name": "Marshadow",
+   "v": "n"
+  },
+  {
+   "n": "031/064",
+   "name": "Blacephalon",
+   "v": "n"
+  },
+  {
+   "n": "032/064",
+   "name": "Groudon",
+   "v": "n"
+  },
+  {
+   "n": "033/064",
+   "name": "Throh",
+   "v": "n"
+  },
+  {
+   "n": "034/064",
+   "name": "Pancham",
+   "v": "n"
+  },
+  {
+   "n": "035/064",
+   "name": "Pangoro",
+   "v": "n"
+  },
+  {
+   "n": "036/064",
+   "name": "Crabrawler",
+   "v": "n"
+  },
+  {
+   "n": "037/064",
+   "name": "Crabominable",
+   "v": "n"
+  },
+  {
+   "n": "038/064",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "039/064",
+   "name": "Alolan Meowth",
+   "v": "n"
+  },
+  {
+   "n": "040/064",
+   "name": "Alolan Persian-GX",
+   "v": "n"
+  },
+  {
+   "n": "041/064",
+   "name": "Alolan Grimer",
+   "v": "n"
+  },
+  {
+   "n": "042/064",
+   "name": "Alolan Muk",
+   "v": "n"
+  },
+  {
+   "n": "043/064",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "044/064",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "045/064",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "046/064",
+   "name": "Guzzlord",
+   "v": "n"
+  },
+  {
+   "n": "047/064",
+   "name": "Zangoose",
+   "v": "n"
+  },
+  {
+   "n": "048/064",
+   "name": "Stufful",
+   "v": "n"
+  },
+  {
+   "n": "049/064",
+   "name": "Bewear",
+   "v": "n"
+  },
+  {
+   "n": "050/064",
+   "name": "Great Catcher",
+   "v": "n"
+  },
+  {
+   "n": "051/064",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "052/064",
+   "name": "Energy Retrieval",
+   "v": "n"
+  },
+  {
+   "n": "053/064",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "054/064",
+   "name": "Pokémon Communication",
+   "v": "n"
+  },
+  {
+   "n": "055/064",
+   "name": "Janine",
+   "v": "n"
+  },
+  {
+   "n": "056/064",
+   "name": "Roller Skater",
+   "v": "n"
+  },
+  {
+   "n": "057/064",
+   "name": "Professor Oak's Setup",
+   "v": "n"
+  },
+  {
+   "n": "058/064",
+   "name": "Judge",
+   "v": "n"
+  },
+  {
+   "n": "059/064",
+   "name": "Draw Energy",
+   "v": "n"
+  },
+  {
+   "n": "060/064",
+   "name": "Weakness Guard Energy",
+   "v": "n"
+  },
+  {
+   "n": "061/064",
+   "name": "Acro Bike",
+   "v": "n"
+  },
+  {
+   "n": "062/064",
+   "name": "Escape Board",
+   "v": "n"
+  },
+  {
+   "n": "063/064",
+   "name": "Lady",
+   "v": "n"
+  },
+  {
+   "n": "064/064",
+   "name": "Welder",
+   "v": "n"
+  },
+  {
+   "n": "065/064",
+   "name": "Venusaur & Snivy-GX",
+   "v": "n"
+  },
+  {
+   "n": "066/064",
+   "name": "Venusaur & Snivy-GX",
+   "v": "n"
+  },
+  {
+   "n": "067/064",
+   "name": "Charizard & Braixen-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/064",
+   "name": "Charizard & Braixen-GX",
+   "v": "n"
+  },
+  {
+   "n": "069/064",
+   "name": "Blastoise & Piplup-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/064",
+   "name": "Blastoise & Piplup-GX",
+   "v": "n"
+  },
+  {
+   "n": "071/064",
+   "name": "Alolan Persian-GX",
+   "v": "n"
+  },
+  {
+   "n": "072/064",
+   "name": "Roller Skater",
+   "v": "n"
+  },
+  {
+   "n": "073/064",
+   "name": "Professor Oak's Setup",
+   "v": "n"
+  },
+  {
+   "n": "074/064",
+   "name": "Venusaur & Snivy-GX",
+   "v": "n"
+  },
+  {
+   "n": "075/064",
+   "name": "Charizard & Braixen-GX",
+   "v": "n"
+  },
+  {
+   "n": "076/064",
+   "name": "Blastoise & Piplup-GX",
+   "v": "n"
+  },
+  {
+   "n": "077/064",
+   "name": "Alolan Persian-GX",
+   "v": "n"
+  },
+  {
+   "n": "078/064",
+   "name": "Great Catcher",
+   "v": "n"
+  },
+  {
+   "n": "079/064",
+   "name": "Martial Arts Dojo",
+   "v": "n"
+  },
+  {
+   "n": "080/064",
+   "name": "Draw Energy",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,455 @@
+{
+ "id": "S10P",
+ "name": "스페이스저글러",
+ "name_en": "Space Juggler",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2022-04-08",
+ "official": 67,
+ "abbr": "S10P",
+ "logo": "img/logos/ja/S10P.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/067",
+   "name": "Beedrill V",
+   "v": "n"
+  },
+  {
+   "n": "002/067",
+   "name": "Hisuian Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "003/067",
+   "name": "Hisuian Electrode",
+   "v": "n"
+  },
+  {
+   "n": "004/067",
+   "name": "Kricketot",
+   "v": "n"
+  },
+  {
+   "n": "005/067",
+   "name": "Kricketune",
+   "v": "n"
+  },
+  {
+   "n": "006/067",
+   "name": "Rowlet",
+   "v": "n"
+  },
+  {
+   "n": "007/067",
+   "name": "Dartrix",
+   "v": "n"
+  },
+  {
+   "n": "008/067",
+   "name": "Blipbug",
+   "v": "n"
+  },
+  {
+   "n": "009/067",
+   "name": "Dottler",
+   "v": "n"
+  },
+  {
+   "n": "010/067",
+   "name": "Orbeetle",
+   "v": "n"
+  },
+  {
+   "n": "011/067",
+   "name": "Ponyta",
+   "v": "n"
+  },
+  {
+   "n": "012/067",
+   "name": "Rapidash",
+   "v": "n"
+  },
+  {
+   "n": "013/067",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "014/067",
+   "name": "Heatran V",
+   "v": "n"
+  },
+  {
+   "n": "015/067",
+   "name": "Heatran VMAX",
+   "v": "n"
+  },
+  {
+   "n": "016/067",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "017/067",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "018/067",
+   "name": "Luvdisc",
+   "v": "n"
+  },
+  {
+   "n": "019/067",
+   "name": "Regice",
+   "v": "n"
+  },
+  {
+   "n": "020/067",
+   "name": "Shellos",
+   "v": "n"
+  },
+  {
+   "n": "021/067",
+   "name": "Glaceon",
+   "v": "n"
+  },
+  {
+   "n": "022/067",
+   "name": "Origin Forme Palkia V",
+   "v": "n"
+  },
+  {
+   "n": "023/067",
+   "name": "Origin Forme Palkia VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "024/067",
+   "name": "Bergmite",
+   "v": "n"
+  },
+  {
+   "n": "025/067",
+   "name": "Hisuian Avalugg",
+   "v": "n"
+  },
+  {
+   "n": "026/067",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "027/067",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "028/067",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "029/067",
+   "name": "Uxie",
+   "v": "n"
+  },
+  {
+   "n": "030/067",
+   "name": "Mesprit",
+   "v": "n"
+  },
+  {
+   "n": "031/067",
+   "name": "Azelf",
+   "v": "n"
+  },
+  {
+   "n": "032/067",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "033/067",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "034/067",
+   "name": "Makuhita",
+   "v": "n"
+  },
+  {
+   "n": "035/067",
+   "name": "Hariyama",
+   "v": "n"
+  },
+  {
+   "n": "036/067",
+   "name": "Regirock",
+   "v": "n"
+  },
+  {
+   "n": "037/067",
+   "name": "Gastrodon",
+   "v": "n"
+  },
+  {
+   "n": "038/067",
+   "name": "Carbink",
+   "v": "n"
+  },
+  {
+   "n": "039/067",
+   "name": "Hisuian Decidueye",
+   "v": "n"
+  },
+  {
+   "n": "040/067",
+   "name": "Kleavor V",
+   "v": "n"
+  },
+  {
+   "n": "041/067",
+   "name": "Kleavor VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "042/067",
+   "name": "Hisuian Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "043/067",
+   "name": "Hisuian Sneasler",
+   "v": "n"
+  },
+  {
+   "n": "044/067",
+   "name": "Hisuian Sneasler V",
+   "v": "n"
+  },
+  {
+   "n": "045/067",
+   "name": "Darkrai",
+   "v": "n"
+  },
+  {
+   "n": "046/067",
+   "name": "Shieldon",
+   "v": "n"
+  },
+  {
+   "n": "047/067",
+   "name": "Bastiodon",
+   "v": "n"
+  },
+  {
+   "n": "048/067",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "049/067",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "050/067",
+   "name": "Magearna",
+   "v": "n"
+  },
+  {
+   "n": "051/067",
+   "name": "Regidrago",
+   "v": "n"
+  },
+  {
+   "n": "052/067",
+   "name": "Lickitung",
+   "v": "n"
+  },
+  {
+   "n": "053/067",
+   "name": "Lickilicky",
+   "v": "n"
+  },
+  {
+   "n": "054/067",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "055/067",
+   "name": "Teddiursa",
+   "v": "n"
+  },
+  {
+   "n": "056/067",
+   "name": "Ursaring",
+   "v": "n"
+  },
+  {
+   "n": "057/067",
+   "name": "Ursaluna",
+   "v": "n"
+  },
+  {
+   "n": "058/067",
+   "name": "Oranguru V",
+   "v": "n"
+  },
+  {
+   "n": "059/067",
+   "name": "Komala",
+   "v": "n"
+  },
+  {
+   "n": "060/067",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "061/067",
+   "name": "Energy Loto",
+   "v": "n"
+  },
+  {
+   "n": "062/067",
+   "name": "Hisuian Heavy Ball",
+   "v": "n"
+  },
+  {
+   "n": "063/067",
+   "name": "Supereffective Glasses",
+   "v": "n"
+  },
+  {
+   "n": "064/067",
+   "name": "Choy",
+   "v": "n"
+  },
+  {
+   "n": "065/067",
+   "name": "Grant",
+   "v": "n"
+  },
+  {
+   "n": "066/067",
+   "name": "Irida",
+   "v": "n"
+  },
+  {
+   "n": "067/067",
+   "name": "Temple of Sinnoh",
+   "v": "n"
+  },
+  {
+   "n": "068/067",
+   "name": "Beedrill V",
+   "v": "n"
+  },
+  {
+   "n": "069/067",
+   "name": "Beedrill V",
+   "v": "n"
+  },
+  {
+   "n": "070/067",
+   "name": "Origin Forme Palkia V",
+   "v": "n"
+  },
+  {
+   "n": "071/067",
+   "name": "Origin Forme Palkia V",
+   "v": "n"
+  },
+  {
+   "n": "072/067",
+   "name": "Heatran V",
+   "v": "n"
+  },
+  {
+   "n": "073/067",
+   "name": "Kleavor V",
+   "v": "n"
+  },
+  {
+   "n": "074/067",
+   "name": "Hisuian Sneasler V",
+   "v": "n"
+  },
+  {
+   "n": "075/067",
+   "name": "Hisuian Sneasler V",
+   "v": "n"
+  },
+  {
+   "n": "076/067",
+   "name": "Oranguru V",
+   "v": "n"
+  },
+  {
+   "n": "077/067",
+   "name": "Choy",
+   "v": "n"
+  },
+  {
+   "n": "078/067",
+   "name": "Grant",
+   "v": "n"
+  },
+  {
+   "n": "079/067",
+   "name": "Irida",
+   "v": "n"
+  },
+  {
+   "n": "080/067",
+   "name": "Heatran VMAX",
+   "v": "n"
+  },
+  {
+   "n": "081/067",
+   "name": "Origin Forme Palkia VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "082/067",
+   "name": "Kleavor VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "083/067",
+   "name": "Choy",
+   "v": "n"
+  },
+  {
+   "n": "084/067",
+   "name": "Grant",
+   "v": "n"
+  },
+  {
+   "n": "085/067",
+   "name": "Irida",
+   "v": "n"
+  },
+  {
+   "n": "086/067",
+   "name": "Origin Forme Palkia VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "087/067",
+   "name": "Temple of Sinnoh",
+   "v": "n"
+  },
+  {
+   "n": "088/067",
+   "name": "Double Turbo Energy",
+   "v": "n"
+  }
+ ]
+}

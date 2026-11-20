@@ -1,0 +1,494 @@
+{
+ "id": "S5a",
+ "name": "双璧のファイター",
+ "serie": "剣と盾",
+ "serie_id": "S",
+ "date": "2021-03-19",
+ "official": 70,
+ "abbr": "S5a",
+ "logo": "img/logos/ja/S5a.webp",
+ "note": "Card list from the Korean release of this set (same cards and numbers). Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Blaziken V",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Blaziken VMAX",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Tentacruel",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Delibird",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Sobble",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Drizzile",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Inteleon",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Rapid Strike Urshifu",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Dracozolt V",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Dracozolt VMAX",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Galarian Articuno V",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Woobat",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Swoobat",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Swirlix",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Slurpuff",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Hatenna",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Hattrem",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Hatterene",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Diglett",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Galarian Farfetch'd",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Galarian Sirfetch'd",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Galarian Zapdos V",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Roggenrola",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Boldore",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Gigalith",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Galarian Yamask",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Galarian Runerigus",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Kubfu",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Galarian Moltres V",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Galarian Slowking V",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Galarian Slowking VMAX",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Seviper",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Venipede",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "Whirlipede",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Scolipede",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Scrafty",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Single Strike Urshifu",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Zangoose",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Lillipup",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Herdier",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Stoutland",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Braviary",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Welcoming Lantern",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Echoing Horn",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Galarian Chestplate",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Klara",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Avery",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Brawly",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Karen's Conviction",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Dyna Tree Hill",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Blaziken V",
+   "v": "n"
+  },
+  {
+   "n": "072/070",
+   "name": "Dracozolt V",
+   "v": "n"
+  },
+  {
+   "n": "073/070",
+   "name": "Galarian Articuno V",
+   "v": "n"
+  },
+  {
+   "n": "074/070",
+   "name": "Galarian Articuno V",
+   "v": "n"
+  },
+  {
+   "n": "075/070",
+   "name": "Galarian Zapdos V",
+   "v": "n"
+  },
+  {
+   "n": "076/070",
+   "name": "Galarian Zapdos V",
+   "v": "n"
+  },
+  {
+   "n": "077/070",
+   "name": "Galarian Moltres V",
+   "v": "n"
+  },
+  {
+   "n": "078/070",
+   "name": "Galarian Moltres V",
+   "v": "n"
+  },
+  {
+   "n": "079/070",
+   "name": "Galarian Slowking V",
+   "v": "n"
+  },
+  {
+   "n": "080/070",
+   "name": "Galarian Slowking V",
+   "v": "n"
+  },
+  {
+   "n": "081/070",
+   "name": "Klara",
+   "v": "n"
+  },
+  {
+   "n": "082/070",
+   "name": "Avery",
+   "v": "n"
+  },
+  {
+   "n": "083/070",
+   "name": "Brawly",
+   "v": "n"
+  },
+  {
+   "n": "084/070",
+   "name": "Karen's Conviction",
+   "v": "n"
+  },
+  {
+   "n": "085/070",
+   "name": "Blaziken VMAX",
+   "v": "n"
+  },
+  {
+   "n": "086/070",
+   "name": "Blaziken VMAX",
+   "v": "n"
+  },
+  {
+   "n": "087/070",
+   "name": "Dracozolt VMAX",
+   "v": "n"
+  },
+  {
+   "n": "088/070",
+   "name": "Galarian Slowking VMAX",
+   "v": "n"
+  },
+  {
+   "n": "089/070",
+   "name": "Klara",
+   "v": "n"
+  },
+  {
+   "n": "090/070",
+   "name": "Avery",
+   "v": "n"
+  },
+  {
+   "n": "091/070",
+   "name": "Brawly",
+   "v": "n"
+  },
+  {
+   "n": "092/070",
+   "name": "Karen's Conviction",
+   "v": "n"
+  },
+  {
+   "n": "093/070",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "094/070",
+   "name": "Fan of Waves",
+   "v": "n"
+  },
+  {
+   "n": "095/070",
+   "name": "Urn of Vitality",
+   "v": "n"
+  },
+  {
+   "n": "096/070",
+   "name": "Basic Fighting Energy",
+   "v": "n"
+  }
+ ]
+}

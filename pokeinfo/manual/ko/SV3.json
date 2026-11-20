@@ -1,0 +1,720 @@
+{
+ "id": "SV3",
+ "name": "흑염의 지배자",
+ "name_en": "Ruler of the Black Flame",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2023-07-28",
+ "official": 108,
+ "abbr": "SV3",
+ "logo": "img/logos/ja/SV3.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/108",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "002/108",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "003/108",
+   "name": "Bellossom",
+   "v": "n"
+  },
+  {
+   "n": "004/108",
+   "name": "Scyther",
+   "v": "n"
+  },
+  {
+   "n": "005/108",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "006/108",
+   "name": "Combee",
+   "v": "n"
+  },
+  {
+   "n": "007/108",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "008/108",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "009/108",
+   "name": "Capsakid",
+   "v": "n"
+  },
+  {
+   "n": "010/108",
+   "name": "Capsakid",
+   "v": "n"
+  },
+  {
+   "n": "011/108",
+   "name": "Scovillain",
+   "v": "n"
+  },
+  {
+   "n": "012/108",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "013/108",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "014/108",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "015/108",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "016/108",
+   "name": "Entei",
+   "v": "n"
+  },
+  {
+   "n": "017/108",
+   "name": "Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "018/108",
+   "name": "Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "019/108",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "020/108",
+   "name": "Eiscue ex",
+   "v": "n"
+  },
+  {
+   "n": "021/108",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "022/108",
+   "name": "Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "023/108",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "024/108",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "025/108",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "026/108",
+   "name": "Cubchoo",
+   "v": "n"
+  },
+  {
+   "n": "027/108",
+   "name": "Beartic",
+   "v": "n"
+  },
+  {
+   "n": "028/108",
+   "name": "Cryogonal",
+   "v": "n"
+  },
+  {
+   "n": "029/108",
+   "name": "Finizen",
+   "v": "n"
+  },
+  {
+   "n": "030/108",
+   "name": "Finizen",
+   "v": "n"
+  },
+  {
+   "n": "031/108",
+   "name": "Palafin",
+   "v": "n"
+  },
+  {
+   "n": "032/108",
+   "name": "Tyranitar ex",
+   "v": "n"
+  },
+  {
+   "n": "033/108",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "034/108",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "035/108",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "036/108",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "037/108",
+   "name": "Toxel",
+   "v": "n"
+  },
+  {
+   "n": "038/108",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "039/108",
+   "name": "Tadbulb",
+   "v": "n"
+  },
+  {
+   "n": "040/108",
+   "name": "Tadbulb",
+   "v": "n"
+  },
+  {
+   "n": "041/108",
+   "name": "Bellibolt",
+   "v": "n"
+  },
+  {
+   "n": "042/108",
+   "name": "Cleffa",
+   "v": "n"
+  },
+  {
+   "n": "043/108",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "044/108",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "045/108",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "046/108",
+   "name": "Espeon",
+   "v": "n"
+  },
+  {
+   "n": "047/108",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "048/108",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "049/108",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "050/108",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "051/108",
+   "name": "Vespiquen ex",
+   "v": "n"
+  },
+  {
+   "n": "052/108",
+   "name": "Greavard",
+   "v": "n"
+  },
+  {
+   "n": "053/108",
+   "name": "Greavard",
+   "v": "n"
+  },
+  {
+   "n": "054/108",
+   "name": "Houndstone",
+   "v": "n"
+  },
+  {
+   "n": "055/108",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "056/108",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "057/108",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "058/108",
+   "name": "Bonsly",
+   "v": "n"
+  },
+  {
+   "n": "059/108",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "060/108",
+   "name": "Diggersby",
+   "v": "n"
+  },
+  {
+   "n": "061/108",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "062/108",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "063/108",
+   "name": "Glimmet",
+   "v": "n"
+  },
+  {
+   "n": "064/108",
+   "name": "Glimmet",
+   "v": "n"
+  },
+  {
+   "n": "065/108",
+   "name": "Glimmora ex",
+   "v": "n"
+  },
+  {
+   "n": "066/108",
+   "name": "Charizard ex",
+   "v": "n"
+  },
+  {
+   "n": "067/108",
+   "name": "Paldean Wooper",
+   "v": "n"
+  },
+  {
+   "n": "068/108",
+   "name": "Paldean Wooper",
+   "v": "n"
+  },
+  {
+   "n": "069/108",
+   "name": "Paldean Clodsire",
+   "v": "n"
+  },
+  {
+   "n": "070/108",
+   "name": "Umbreon",
+   "v": "n"
+  },
+  {
+   "n": "071/108",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "072/108",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "073/108",
+   "name": "Absol ex",
+   "v": "n"
+  },
+  {
+   "n": "074/108",
+   "name": "Darkrai",
+   "v": "n"
+  },
+  {
+   "n": "075/108",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "076/108",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "077/108",
+   "name": "Scizor",
+   "v": "n"
+  },
+  {
+   "n": "078/108",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "079/108",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "080/108",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "081/108",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "082/108",
+   "name": "Kingambit",
+   "v": "n"
+  },
+  {
+   "n": "083/108",
+   "name": "Varoom",
+   "v": "n"
+  },
+  {
+   "n": "084/108",
+   "name": "Varoom",
+   "v": "n"
+  },
+  {
+   "n": "085/108",
+   "name": "Revavroom ex",
+   "v": "n"
+  },
+  {
+   "n": "086/108",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "087/108",
+   "name": "Pidgey",
+   "v": "n"
+  },
+  {
+   "n": "088/108",
+   "name": "Pidgeotto",
+   "v": "n"
+  },
+  {
+   "n": "089/108",
+   "name": "Pidgeot ex",
+   "v": "n"
+  },
+  {
+   "n": "090/108",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "091/108",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "092/108",
+   "name": "Zigzagoon",
+   "v": "n"
+  },
+  {
+   "n": "093/108",
+   "name": "Linoone",
+   "v": "n"
+  },
+  {
+   "n": "094/108",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "095/108",
+   "name": "Bunnelby",
+   "v": "n"
+  },
+  {
+   "n": "096/108",
+   "name": "Lechonk",
+   "v": "n"
+  },
+  {
+   "n": "097/108",
+   "name": "Lechonk",
+   "v": "n"
+  },
+  {
+   "n": "098/108",
+   "name": "Oinkologne",
+   "v": "n"
+  },
+  {
+   "n": "099/108",
+   "name": "Flamigo",
+   "v": "n"
+  },
+  {
+   "n": "100/108",
+   "name": "Letter of Encouragement",
+   "v": "n"
+  },
+  {
+   "n": "101/108",
+   "name": "Vengeful Punch",
+   "v": "n"
+  },
+  {
+   "n": "102/108",
+   "name": "Patrol Cap",
+   "v": "n"
+  },
+  {
+   "n": "103/108",
+   "name": "Ryme",
+   "v": "n"
+  },
+  {
+   "n": "104/108",
+   "name": "Poppy",
+   "v": "n"
+  },
+  {
+   "n": "105/108",
+   "name": "Ortega",
+   "v": "n"
+  },
+  {
+   "n": "106/108",
+   "name": "Geeta",
+   "v": "n"
+  },
+  {
+   "n": "107/108",
+   "name": "Town Store",
+   "v": "n"
+  },
+  {
+   "n": "108/108",
+   "name": "Pokémon League Headquarters",
+   "v": "n"
+  },
+  {
+   "n": "109/108",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "110/108",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "111/108",
+   "name": "Palafin",
+   "v": "n"
+  },
+  {
+   "n": "112/108",
+   "name": "Bellibolt",
+   "v": "n"
+  },
+  {
+   "n": "113/108",
+   "name": "Cleffa",
+   "v": "n"
+  },
+  {
+   "n": "114/108",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "115/108",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "116/108",
+   "name": "Scizor",
+   "v": "n"
+  },
+  {
+   "n": "117/108",
+   "name": "Varoom",
+   "v": "n"
+  },
+  {
+   "n": "118/108",
+   "name": "Pidgey",
+   "v": "n"
+  },
+  {
+   "n": "119/108",
+   "name": "Pidgeotto",
+   "v": "n"
+  },
+  {
+   "n": "120/108",
+   "name": "Lechonk",
+   "v": "n"
+  },
+  {
+   "n": "121/108",
+   "name": "Eiscue ex",
+   "v": "n"
+  },
+  {
+   "n": "122/108",
+   "name": "Tyranitar ex",
+   "v": "n"
+  },
+  {
+   "n": "123/108",
+   "name": "Vespiquen ex",
+   "v": "n"
+  },
+  {
+   "n": "124/108",
+   "name": "Glimmora ex",
+   "v": "n"
+  },
+  {
+   "n": "125/108",
+   "name": "Charizard ex",
+   "v": "n"
+  },
+  {
+   "n": "126/108",
+   "name": "Absol ex",
+   "v": "n"
+  },
+  {
+   "n": "127/108",
+   "name": "Revavroom ex",
+   "v": "n"
+  },
+  {
+   "n": "128/108",
+   "name": "Pidgeot ex",
+   "v": "n"
+  },
+  {
+   "n": "129/108",
+   "name": "Ryme",
+   "v": "n"
+  },
+  {
+   "n": "130/108",
+   "name": "Poppy",
+   "v": "n"
+  },
+  {
+   "n": "131/108",
+   "name": "Ortega",
+   "v": "n"
+  },
+  {
+   "n": "132/108",
+   "name": "Geeta",
+   "v": "n"
+  },
+  {
+   "n": "133/108",
+   "name": "Eiscue ex",
+   "v": "n"
+  },
+  {
+   "n": "134/108",
+   "name": "Charizard ex",
+   "v": "n"
+  },
+  {
+   "n": "135/108",
+   "name": "Revavroom ex",
+   "v": "n"
+  },
+  {
+   "n": "136/108",
+   "name": "Pidgeot ex",
+   "v": "n"
+  },
+  {
+   "n": "137/108",
+   "name": "Poppy",
+   "v": "n"
+  },
+  {
+   "n": "138/108",
+   "name": "Geeta",
+   "v": "n"
+  },
+  {
+   "n": "139/108",
+   "name": "Charizard ex",
+   "v": "n"
+  },
+  {
+   "n": "140/108",
+   "name": "Artazon",
+   "v": "n"
+  },
+  {
+   "n": "141/108",
+   "name": "Basic Fire Energy",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,555 @@
+{
+ "id": "SV1V",
+ "name": "바이올렛ex",
+ "name_en": "Violet ex",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2023-01-20",
+ "official": 78,
+ "abbr": "SV1V",
+ "logo": "img/logos/ja/SV1V.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/078",
+   "name": "Pineco",
+   "v": "n"
+  },
+  {
+   "n": "002/078",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "003/078",
+   "name": "Scatterbug",
+   "v": "n"
+  },
+  {
+   "n": "004/078",
+   "name": "Spewpa",
+   "v": "n"
+  },
+  {
+   "n": "005/078",
+   "name": "Vivillon",
+   "v": "n"
+  },
+  {
+   "n": "006/078",
+   "name": "Tarountula",
+   "v": "n"
+  },
+  {
+   "n": "007/078",
+   "name": "Tarountula",
+   "v": "n"
+  },
+  {
+   "n": "008/078",
+   "name": "Spidops ex",
+   "v": "n"
+  },
+  {
+   "n": "009/078",
+   "name": "Toedscool",
+   "v": "n"
+  },
+  {
+   "n": "010/078",
+   "name": "Toedscool",
+   "v": "n"
+  },
+  {
+   "n": "011/078",
+   "name": "Toedscruel",
+   "v": "n"
+  },
+  {
+   "n": "012/078",
+   "name": "Capsakid",
+   "v": "n"
+  },
+  {
+   "n": "013/078",
+   "name": "Capsakid",
+   "v": "n"
+  },
+  {
+   "n": "014/078",
+   "name": "Scovillain",
+   "v": "n"
+  },
+  {
+   "n": "015/078",
+   "name": "Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "016/078",
+   "name": "Arcanine ex",
+   "v": "n"
+  },
+  {
+   "n": "017/078",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "018/078",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "019/078",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "020/078",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "021/078",
+   "name": "Clauncher",
+   "v": "n"
+  },
+  {
+   "n": "022/078",
+   "name": "Clawitzer",
+   "v": "n"
+  },
+  {
+   "n": "023/078",
+   "name": "Cetoddle",
+   "v": "n"
+  },
+  {
+   "n": "024/078",
+   "name": "Cetoddle",
+   "v": "n"
+  },
+  {
+   "n": "025/078",
+   "name": "Cetitan",
+   "v": "n"
+  },
+  {
+   "n": "026/078",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "027/078",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "028/078",
+   "name": "Magnezone ex",
+   "v": "n"
+  },
+  {
+   "n": "029/078",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "030/078",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "031/078",
+   "name": "Toxel",
+   "v": "n"
+  },
+  {
+   "n": "032/078",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "033/078",
+   "name": "Pawmi",
+   "v": "n"
+  },
+  {
+   "n": "034/078",
+   "name": "Pawmi",
+   "v": "n"
+  },
+  {
+   "n": "035/078",
+   "name": "Pawmo",
+   "v": "n"
+  },
+  {
+   "n": "036/078",
+   "name": "Pawmot",
+   "v": "n"
+  },
+  {
+   "n": "037/078",
+   "name": "Miraidon ex",
+   "v": "n"
+  },
+  {
+   "n": "038/078",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "039/078",
+   "name": "Hypno",
+   "v": "n"
+  },
+  {
+   "n": "040/078",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "041/078",
+   "name": "Banette ex",
+   "v": "n"
+  },
+  {
+   "n": "042/078",
+   "name": "Flabébé",
+   "v": "n"
+  },
+  {
+   "n": "043/078",
+   "name": "Floette",
+   "v": "n"
+  },
+  {
+   "n": "044/078",
+   "name": "Florges",
+   "v": "n"
+  },
+  {
+   "n": "045/078",
+   "name": "Klefki",
+   "v": "n"
+  },
+  {
+   "n": "046/078",
+   "name": "Greavard",
+   "v": "n"
+  },
+  {
+   "n": "047/078",
+   "name": "Greavard",
+   "v": "n"
+  },
+  {
+   "n": "048/078",
+   "name": "Houndstone",
+   "v": "n"
+  },
+  {
+   "n": "049/078",
+   "name": "Mankey",
+   "v": "n"
+  },
+  {
+   "n": "050/078",
+   "name": "Primeape",
+   "v": "n"
+  },
+  {
+   "n": "051/078",
+   "name": "Annihilape",
+   "v": "n"
+  },
+  {
+   "n": "052/078",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "053/078",
+   "name": "Maschiff",
+   "v": "n"
+  },
+  {
+   "n": "054/078",
+   "name": "Maschiff",
+   "v": "n"
+  },
+  {
+   "n": "055/078",
+   "name": "Mabosstiff",
+   "v": "n"
+  },
+  {
+   "n": "056/078",
+   "name": "Bombirdier",
+   "v": "n"
+  },
+  {
+   "n": "057/078",
+   "name": "Forretress",
+   "v": "n"
+  },
+  {
+   "n": "058/078",
+   "name": "Iron Treads ex",
+   "v": "n"
+  },
+  {
+   "n": "059/078",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "060/078",
+   "name": "Blissey",
+   "v": "n"
+  },
+  {
+   "n": "061/078",
+   "name": "Skwovet",
+   "v": "n"
+  },
+  {
+   "n": "062/078",
+   "name": "Greedent",
+   "v": "n"
+  },
+  {
+   "n": "063/078",
+   "name": "Indeedee",
+   "v": "n"
+  },
+  {
+   "n": "064/078",
+   "name": "Tandemaus",
+   "v": "n"
+  },
+  {
+   "n": "065/078",
+   "name": "Tandemaus",
+   "v": "n"
+  },
+  {
+   "n": "066/078",
+   "name": "Maushold",
+   "v": "n"
+  },
+  {
+   "n": "067/078",
+   "name": "Squawkabilly",
+   "v": "n"
+  },
+  {
+   "n": "068/078",
+   "name": "Cyclizar",
+   "v": "n"
+  },
+  {
+   "n": "069/078",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "070/078",
+   "name": "Electric Generator",
+   "v": "n"
+  },
+  {
+   "n": "071/078",
+   "name": "Picnic Basket",
+   "v": "n"
+  },
+  {
+   "n": "072/078",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "073/078",
+   "name": "Rocky Helmet",
+   "v": "n"
+  },
+  {
+   "n": "074/078",
+   "name": "Katy",
+   "v": "n"
+  },
+  {
+   "n": "075/078",
+   "name": "Miriam",
+   "v": "n"
+  },
+  {
+   "n": "076/078",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "077/078",
+   "name": "Arven",
+   "v": "n"
+  },
+  {
+   "n": "078/078",
+   "name": "Mesagoza",
+   "v": "n"
+  },
+  {
+   "n": "079/078",
+   "name": "Tarountula",
+   "v": "n"
+  },
+  {
+   "n": "080/078",
+   "name": "Toedscool",
+   "v": "n"
+  },
+  {
+   "n": "081/078",
+   "name": "Scovillain",
+   "v": "n"
+  },
+  {
+   "n": "082/078",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "083/078",
+   "name": "Clauncher",
+   "v": "n"
+  },
+  {
+   "n": "084/078",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "085/078",
+   "name": "Pawmot",
+   "v": "n"
+  },
+  {
+   "n": "086/078",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "087/078",
+   "name": "Greavard",
+   "v": "n"
+  },
+  {
+   "n": "088/078",
+   "name": "Mabosstiff",
+   "v": "n"
+  },
+  {
+   "n": "089/078",
+   "name": "Bombirdier",
+   "v": "n"
+  },
+  {
+   "n": "090/078",
+   "name": "Skwovet",
+   "v": "n"
+  },
+  {
+   "n": "091/078",
+   "name": "Spidops ex",
+   "v": "n"
+  },
+  {
+   "n": "092/078",
+   "name": "Arcanine ex",
+   "v": "n"
+  },
+  {
+   "n": "093/078",
+   "name": "Magnezone ex",
+   "v": "n"
+  },
+  {
+   "n": "094/078",
+   "name": "Miraidon ex",
+   "v": "n"
+  },
+  {
+   "n": "095/078",
+   "name": "Banette ex",
+   "v": "n"
+  },
+  {
+   "n": "096/078",
+   "name": "Iron Treads ex",
+   "v": "n"
+  },
+  {
+   "n": "097/078",
+   "name": "Katy",
+   "v": "n"
+  },
+  {
+   "n": "098/078",
+   "name": "Miriam",
+   "v": "n"
+  },
+  {
+   "n": "099/078",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "100/078",
+   "name": "Arven",
+   "v": "n"
+  },
+  {
+   "n": "101/078",
+   "name": "Spidops ex",
+   "v": "n"
+  },
+  {
+   "n": "102/078",
+   "name": "Miraidon ex",
+   "v": "n"
+  },
+  {
+   "n": "103/078",
+   "name": "Iron Treads ex",
+   "v": "n"
+  },
+  {
+   "n": "104/078",
+   "name": "Miriam",
+   "v": "n"
+  },
+  {
+   "n": "105/078",
+   "name": "Arven",
+   "v": "n"
+  },
+  {
+   "n": "106/078",
+   "name": "Miraidon ex",
+   "v": "n"
+  },
+  {
+   "n": "107/078",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "108/078",
+   "name": "Basic Lightning Energy",
+   "v": "n"
+  }
+ ]
+}

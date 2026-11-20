@@ -1,0 +1,495 @@
+{
+ "id": "SV5a",
+ "name": "크림슨헤이즈",
+ "name_en": "Crimson Haze",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2024-05-24",
+ "official": 66,
+ "abbr": "SV5a",
+ "logo": "img/logos/ja/SV5a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/066",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "002/066",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "003/066",
+   "name": "Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "004/066",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "005/066",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "006/066",
+   "name": "Leafeon",
+   "v": "n"
+  },
+  {
+   "n": "007/066",
+   "name": "Iron Leaves",
+   "v": "n"
+  },
+  {
+   "n": "008/066",
+   "name": "Poltchageist",
+   "v": "n"
+  },
+  {
+   "n": "009/066",
+   "name": "Sinistcha ex",
+   "v": "n"
+  },
+  {
+   "n": "010/066",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "011/066",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "012/066",
+   "name": "Slugma",
+   "v": "n"
+  },
+  {
+   "n": "013/066",
+   "name": "Magcargo ex",
+   "v": "n"
+  },
+  {
+   "n": "014/066",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "015/066",
+   "name": "Chimchar",
+   "v": "n"
+  },
+  {
+   "n": "016/066",
+   "name": "Monferno",
+   "v": "n"
+  },
+  {
+   "n": "017/066",
+   "name": "Infernape",
+   "v": "n"
+  },
+  {
+   "n": "018/066",
+   "name": "Chi-Yu",
+   "v": "n"
+  },
+  {
+   "n": "019/066",
+   "name": "Corphish",
+   "v": "n"
+  },
+  {
+   "n": "020/066",
+   "name": "Crawdaunt",
+   "v": "n"
+  },
+  {
+   "n": "021/066",
+   "name": "Glaceon",
+   "v": "n"
+  },
+  {
+   "n": "022/066",
+   "name": "Phione",
+   "v": "n"
+  },
+  {
+   "n": "023/066",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "024/066",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "025/066",
+   "name": "Cramorant",
+   "v": "n"
+  },
+  {
+   "n": "026/066",
+   "name": "Walking Wake",
+   "v": "n"
+  },
+  {
+   "n": "027/066",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "028/066",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "029/066",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "030/066",
+   "name": "Morpeko",
+   "v": "n"
+  },
+  {
+   "n": "031/066",
+   "name": "Tadbulb",
+   "v": "n"
+  },
+  {
+   "n": "032/066",
+   "name": "Bellibolt",
+   "v": "n"
+  },
+  {
+   "n": "033/066",
+   "name": "Iron Thorns ex",
+   "v": "n"
+  },
+  {
+   "n": "034/066",
+   "name": "Girafarig",
+   "v": "n"
+  },
+  {
+   "n": "035/066",
+   "name": "Farigiraf",
+   "v": "n"
+  },
+  {
+   "n": "036/066",
+   "name": "Flabébé",
+   "v": "n"
+  },
+  {
+   "n": "037/066",
+   "name": "Floette",
+   "v": "n"
+  },
+  {
+   "n": "038/066",
+   "name": "Florges",
+   "v": "n"
+  },
+  {
+   "n": "039/066",
+   "name": "Enamorus",
+   "v": "n"
+  },
+  {
+   "n": "040/066",
+   "name": "Scream Tail ex",
+   "v": "n"
+  },
+  {
+   "n": "041/066",
+   "name": "Hisuian Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "042/066",
+   "name": "Hisuian Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "043/066",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "044/066",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "045/066",
+   "name": "Greninja ex",
+   "v": "n"
+  },
+  {
+   "n": "046/066",
+   "name": "Hawlucha",
+   "v": "n"
+  },
+  {
+   "n": "047/066",
+   "name": "Ting-Lu",
+   "v": "n"
+  },
+  {
+   "n": "048/066",
+   "name": "Applin",
+   "v": "n"
+  },
+  {
+   "n": "049/066",
+   "name": "Dipplin",
+   "v": "n"
+  },
+  {
+   "n": "050/066",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "051/066",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "052/066",
+   "name": "Bloodmoon Ursaluna ex",
+   "v": "n"
+  },
+  {
+   "n": "053/066",
+   "name": "Enhanced Hammer",
+   "v": "n"
+  },
+  {
+   "n": "054/066",
+   "name": "Love Ball",
+   "v": "n"
+  },
+  {
+   "n": "055/066",
+   "name": "Unfair Stamp",
+   "v": "n"
+  },
+  {
+   "n": "056/066",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "057/066",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "058/066",
+   "name": "Hyper Aroma",
+   "v": "n"
+  },
+  {
+   "n": "059/066",
+   "name": "Lucky Helmet",
+   "v": "n"
+  },
+  {
+   "n": "060/066",
+   "name": "Survival Brace",
+   "v": "n"
+  },
+  {
+   "n": "061/066",
+   "name": "Caretaker",
+   "v": "n"
+  },
+  {
+   "n": "062/066",
+   "name": "Perrin",
+   "v": "n"
+  },
+  {
+   "n": "063/066",
+   "name": "Lana's Aid",
+   "v": "n"
+  },
+  {
+   "n": "064/066",
+   "name": "Lucian",
+   "v": "n"
+  },
+  {
+   "n": "065/066",
+   "name": "Community Center",
+   "v": "n"
+  },
+  {
+   "n": "066/066",
+   "name": "Boomerang Energy",
+   "v": "n"
+  },
+  {
+   "n": "067/066",
+   "name": "Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "068/066",
+   "name": "Poltchageist",
+   "v": "n"
+  },
+  {
+   "n": "069/066",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "070/066",
+   "name": "Infernape",
+   "v": "n"
+  },
+  {
+   "n": "071/066",
+   "name": "Phione",
+   "v": "n"
+  },
+  {
+   "n": "072/066",
+   "name": "Cramorant",
+   "v": "n"
+  },
+  {
+   "n": "073/066",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "074/066",
+   "name": "Enamorus",
+   "v": "n"
+  },
+  {
+   "n": "075/066",
+   "name": "Hisuian Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "076/066",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "077/066",
+   "name": "Applin",
+   "v": "n"
+  },
+  {
+   "n": "078/066",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "079/066",
+   "name": "Sinistcha ex",
+   "v": "n"
+  },
+  {
+   "n": "080/066",
+   "name": "Magcargo ex",
+   "v": "n"
+  },
+  {
+   "n": "081/066",
+   "name": "Iron Thorns ex",
+   "v": "n"
+  },
+  {
+   "n": "082/066",
+   "name": "Scream Tail ex",
+   "v": "n"
+  },
+  {
+   "n": "083/066",
+   "name": "Greninja ex",
+   "v": "n"
+  },
+  {
+   "n": "084/066",
+   "name": "Bloodmoon Ursaluna ex",
+   "v": "n"
+  },
+  {
+   "n": "085/066",
+   "name": "Caretaker",
+   "v": "n"
+  },
+  {
+   "n": "086/066",
+   "name": "Perrin",
+   "v": "n"
+  },
+  {
+   "n": "087/066",
+   "name": "Lana's Aid",
+   "v": "n"
+  },
+  {
+   "n": "088/066",
+   "name": "Lucian",
+   "v": "n"
+  },
+  {
+   "n": "089/066",
+   "name": "Sinistcha ex",
+   "v": "n"
+  },
+  {
+   "n": "090/066",
+   "name": "Greninja ex",
+   "v": "n"
+  },
+  {
+   "n": "091/066",
+   "name": "Bloodmoon Ursaluna ex",
+   "v": "n"
+  },
+  {
+   "n": "092/066",
+   "name": "Perrin",
+   "v": "n"
+  },
+  {
+   "n": "093/066",
+   "name": "Lana's Aid",
+   "v": "n"
+  },
+  {
+   "n": "094/066",
+   "name": "Bloodmoon Ursaluna ex",
+   "v": "n"
+  },
+  {
+   "n": "095/066",
+   "name": "Rescue Board",
+   "v": "n"
+  },
+  {
+   "n": "096/066",
+   "name": "Luminous Energy",
+   "v": "n"
+  }
+ ]
+}

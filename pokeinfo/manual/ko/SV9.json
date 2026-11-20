@@ -1,0 +1,675 @@
+{
+ "id": "SV9",
+ "name": "Battle Partners",
+ "name_en": "Battle Partners",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2025-01-24",
+ "official": 100,
+ "abbr": "SV9",
+ "logo": "img/logos/ja/SV9.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/100",
+   "name": "Caterpie",
+   "v": "n"
+  },
+  {
+   "n": "002/100",
+   "name": "Metapod",
+   "v": "n"
+  },
+  {
+   "n": "003/100",
+   "name": "Butterfree",
+   "v": "n"
+  },
+  {
+   "n": "004/100",
+   "name": "Paras",
+   "v": "n"
+  },
+  {
+   "n": "005/100",
+   "name": "Parasect",
+   "v": "n"
+  },
+  {
+   "n": "006/100",
+   "name": "Maractus",
+   "v": "n"
+  },
+  {
+   "n": "007/100",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "008/100",
+   "name": "Shelmet",
+   "v": "n"
+  },
+  {
+   "n": "009/100",
+   "name": "Accelgor",
+   "v": "n"
+  },
+  {
+   "n": "010/100",
+   "name": "Sprigatito",
+   "v": "n"
+  },
+  {
+   "n": "011/100",
+   "name": "Floragato",
+   "v": "n"
+  },
+  {
+   "n": "012/100",
+   "name": "Meowscarada",
+   "v": "n"
+  },
+  {
+   "n": "013/100",
+   "name": "Magmar",
+   "v": "n"
+  },
+  {
+   "n": "014/100",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "015/100",
+   "name": "N's Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "016/100",
+   "name": "N's Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "017/100",
+   "name": "Volcanion ex",
+   "v": "n"
+  },
+  {
+   "n": "018/100",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "019/100",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "020/100",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "021/100",
+   "name": "Lotad",
+   "v": "n"
+  },
+  {
+   "n": "022/100",
+   "name": "Lombre",
+   "v": "n"
+  },
+  {
+   "n": "023/100",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "024/100",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "025/100",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "026/100",
+   "name": "Iono's Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "027/100",
+   "name": "Iono's Electrode",
+   "v": "n"
+  },
+  {
+   "n": "028/100",
+   "name": "N's Joltik",
+   "v": "n"
+  },
+  {
+   "n": "029/100",
+   "name": "Iono's Tadbulb",
+   "v": "n"
+  },
+  {
+   "n": "030/100",
+   "name": "Iono's Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "031/100",
+   "name": "Iono's Wattrel",
+   "v": "n"
+  },
+  {
+   "n": "032/100",
+   "name": "Iono's Kilowattrel",
+   "v": "n"
+  },
+  {
+   "n": "033/100",
+   "name": "Lillie's Clefairy ex",
+   "v": "n"
+  },
+  {
+   "n": "034/100",
+   "name": "Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "035/100",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "036/100",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "037/100",
+   "name": "Beldum",
+   "v": "n"
+  },
+  {
+   "n": "038/100",
+   "name": "Metang",
+   "v": "n"
+  },
+  {
+   "n": "039/100",
+   "name": "Metagross",
+   "v": "n"
+  },
+  {
+   "n": "040/100",
+   "name": "N's Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "041/100",
+   "name": "Lillie's Cutiefly",
+   "v": "n"
+  },
+  {
+   "n": "042/100",
+   "name": "Lillie's Ribombee",
+   "v": "n"
+  },
+  {
+   "n": "043/100",
+   "name": "Lillie's Comfey",
+   "v": "n"
+  },
+  {
+   "n": "044/100",
+   "name": "Swinub",
+   "v": "n"
+  },
+  {
+   "n": "045/100",
+   "name": "Piloswine",
+   "v": "n"
+  },
+  {
+   "n": "046/100",
+   "name": "Mamoswine ex",
+   "v": "n"
+  },
+  {
+   "n": "047/100",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "048/100",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "049/100",
+   "name": "Regirock",
+   "v": "n"
+  },
+  {
+   "n": "050/100",
+   "name": "Pancham",
+   "v": "n"
+  },
+  {
+   "n": "051/100",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "052/100",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "053/100",
+   "name": "Hop's Silicobra",
+   "v": "n"
+  },
+  {
+   "n": "054/100",
+   "name": "Hop's Sandaconda",
+   "v": "n"
+  },
+  {
+   "n": "055/100",
+   "name": "Klawf",
+   "v": "n"
+  },
+  {
+   "n": "056/100",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "057/100",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "058/100",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "059/100",
+   "name": "N's Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "060/100",
+   "name": "N's Zorua",
+   "v": "n"
+  },
+  {
+   "n": "061/100",
+   "name": "N's Zoroark ex",
+   "v": "n"
+  },
+  {
+   "n": "062/100",
+   "name": "Pangoro",
+   "v": "n"
+  },
+  {
+   "n": "063/100",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "064/100",
+   "name": "N's Klink",
+   "v": "n"
+  },
+  {
+   "n": "065/100",
+   "name": "N's Klang",
+   "v": "n"
+  },
+  {
+   "n": "066/100",
+   "name": "N's Klinklang",
+   "v": "n"
+  },
+  {
+   "n": "067/100",
+   "name": "Magearna",
+   "v": "n"
+  },
+  {
+   "n": "068/100",
+   "name": "Hop's Corviknight",
+   "v": "n"
+  },
+  {
+   "n": "069/100",
+   "name": "Hop's Zacian ex",
+   "v": "n"
+  },
+  {
+   "n": "070/100",
+   "name": "Bagon",
+   "v": "n"
+  },
+  {
+   "n": "071/100",
+   "name": "Shelgon",
+   "v": "n"
+  },
+  {
+   "n": "072/100",
+   "name": "Salamence ex",
+   "v": "n"
+  },
+  {
+   "n": "073/100",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "074/100",
+   "name": "N's Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "075/100",
+   "name": "Hop's Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "076/100",
+   "name": "Sentret",
+   "v": "n"
+  },
+  {
+   "n": "077/100",
+   "name": "Furret",
+   "v": "n"
+  },
+  {
+   "n": "078/100",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "079/100",
+   "name": "Dudunsparce ex",
+   "v": "n"
+  },
+  {
+   "n": "080/100",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "081/100",
+   "name": "Noivern",
+   "v": "n"
+  },
+  {
+   "n": "082/100",
+   "name": "Komala",
+   "v": "n"
+  },
+  {
+   "n": "083/100",
+   "name": "Hop's Rookidee",
+   "v": "n"
+  },
+  {
+   "n": "084/100",
+   "name": "Hop's Corvisquire",
+   "v": "n"
+  },
+  {
+   "n": "085/100",
+   "name": "Hop's Wooloo",
+   "v": "n"
+  },
+  {
+   "n": "086/100",
+   "name": "Hop's Dubwool",
+   "v": "n"
+  },
+  {
+   "n": "087/100",
+   "name": "Hop's Cramorant",
+   "v": "n"
+  },
+  {
+   "n": "088/100",
+   "name": "N's PP Up",
+   "v": "n"
+  },
+  {
+   "n": "089/100",
+   "name": "Redeemable Ticket",
+   "v": "n"
+  },
+  {
+   "n": "090/100",
+   "name": "Super Potion",
+   "v": "n"
+  },
+  {
+   "n": "091/100",
+   "name": "Hop's Bag",
+   "v": "n"
+  },
+  {
+   "n": "092/100",
+   "name": "Lillie's Pearl",
+   "v": "n"
+  },
+  {
+   "n": "093/100",
+   "name": "Hop's Choice Band",
+   "v": "n"
+  },
+  {
+   "n": "094/100",
+   "name": "Ruffian",
+   "v": "n"
+  },
+  {
+   "n": "095/100",
+   "name": "Iris's Fighting Spirit",
+   "v": "n"
+  },
+  {
+   "n": "096/100",
+   "name": "Brock's Scouting",
+   "v": "n"
+  },
+  {
+   "n": "097/100",
+   "name": "N's Castle",
+   "v": "n"
+  },
+  {
+   "n": "098/100",
+   "name": "Levincia",
+   "v": "n"
+  },
+  {
+   "n": "099/100",
+   "name": "Postwick",
+   "v": "n"
+  },
+  {
+   "n": "100/100",
+   "name": "Spiky Energy",
+   "v": "n"
+  },
+  {
+   "n": "101/100",
+   "name": "Maractus",
+   "v": "n"
+  },
+  {
+   "n": "102/100",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "103/100",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "104/100",
+   "name": "Iono's Kilowattrel",
+   "v": "n"
+  },
+  {
+   "n": "105/100",
+   "name": "Lillie's Ribombee",
+   "v": "n"
+  },
+  {
+   "n": "106/100",
+   "name": "Swinub",
+   "v": "n"
+  },
+  {
+   "n": "107/100",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "108/100",
+   "name": "N's Zorua",
+   "v": "n"
+  },
+  {
+   "n": "109/100",
+   "name": "N's Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "110/100",
+   "name": "Furret",
+   "v": "n"
+  },
+  {
+   "n": "111/100",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "112/100",
+   "name": "Hop's Wooloo",
+   "v": "n"
+  },
+  {
+   "n": "113/100",
+   "name": "Volcanion ex",
+   "v": "n"
+  },
+  {
+   "n": "114/100",
+   "name": "Iono's Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "115/100",
+   "name": "Lillie's Clefairy ex",
+   "v": "n"
+  },
+  {
+   "n": "116/100",
+   "name": "Mamoswine ex",
+   "v": "n"
+  },
+  {
+   "n": "117/100",
+   "name": "N's Zoroark ex",
+   "v": "n"
+  },
+  {
+   "n": "118/100",
+   "name": "Hop's Zacian ex",
+   "v": "n"
+  },
+  {
+   "n": "119/100",
+   "name": "Salamence ex",
+   "v": "n"
+  },
+  {
+   "n": "120/100",
+   "name": "Dudunsparce ex",
+   "v": "n"
+  },
+  {
+   "n": "121/100",
+   "name": "Ruffian",
+   "v": "n"
+  },
+  {
+   "n": "122/100",
+   "name": "Iris's Fighting Spirit",
+   "v": "n"
+  },
+  {
+   "n": "123/100",
+   "name": "Brock's Scouting",
+   "v": "n"
+  },
+  {
+   "n": "124/100",
+   "name": "Volcanion ex",
+   "v": "n"
+  },
+  {
+   "n": "125/100",
+   "name": "Iono's Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "126/100",
+   "name": "Lillie's Clefairy ex",
+   "v": "n"
+  },
+  {
+   "n": "127/100",
+   "name": "N's Zoroark ex",
+   "v": "n"
+  },
+  {
+   "n": "128/100",
+   "name": "Hop's Zacian ex",
+   "v": "n"
+  },
+  {
+   "n": "129/100",
+   "name": "Salamence ex",
+   "v": "n"
+  },
+  {
+   "n": "130/100",
+   "name": "Iono's Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "131/100",
+   "name": "N's Zoroark ex",
+   "v": "n"
+  },
+  {
+   "n": "132/100",
+   "name": "Spiky Energy",
+   "v": "n"
+  }
+ ]
+}

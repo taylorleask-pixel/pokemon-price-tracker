@@ -1,0 +1,510 @@
+{
+ "id": "SV2D",
+ "name": "클레이버스트",
+ "name_en": "Clay Burst",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2023-04-14",
+ "official": 71,
+ "abbr": "SV2D",
+ "logo": "img/logos/ja/SV2D.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/071",
+   "name": "Hoppip",
+   "v": "n"
+  },
+  {
+   "n": "002/071",
+   "name": "Skiploom",
+   "v": "n"
+  },
+  {
+   "n": "003/071",
+   "name": "Jumpluff",
+   "v": "n"
+  },
+  {
+   "n": "004/071",
+   "name": "Pineco",
+   "v": "n"
+  },
+  {
+   "n": "005/071",
+   "name": "Forretress ex",
+   "v": "n"
+  },
+  {
+   "n": "006/071",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "007/071",
+   "name": "Tarountula",
+   "v": "n"
+  },
+  {
+   "n": "008/071",
+   "name": "Tarountula",
+   "v": "n"
+  },
+  {
+   "n": "009/071",
+   "name": "Spidops",
+   "v": "n"
+  },
+  {
+   "n": "010/071",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "011/071",
+   "name": "Camerupt",
+   "v": "n"
+  },
+  {
+   "n": "012/071",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "013/071",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "014/071",
+   "name": "Charcadet",
+   "v": "n"
+  },
+  {
+   "n": "015/071",
+   "name": "Charcadet",
+   "v": "n"
+  },
+  {
+   "n": "016/071",
+   "name": "Chi-Yu ex",
+   "v": "n"
+  },
+  {
+   "n": "017/071",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "018/071",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "019/071",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "020/071",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "021/071",
+   "name": "Luxray",
+   "v": "n"
+  },
+  {
+   "n": "022/071",
+   "name": "Pincurchin",
+   "v": "n"
+  },
+  {
+   "n": "023/071",
+   "name": "Tadbulb",
+   "v": "n"
+  },
+  {
+   "n": "024/071",
+   "name": "Tadbulb",
+   "v": "n"
+  },
+  {
+   "n": "025/071",
+   "name": "Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "026/071",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "027/071",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "028/071",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "029/071",
+   "name": "Sandygast",
+   "v": "n"
+  },
+  {
+   "n": "030/071",
+   "name": "Palossand",
+   "v": "n"
+  },
+  {
+   "n": "031/071",
+   "name": "Ceruledge",
+   "v": "n"
+  },
+  {
+   "n": "032/071",
+   "name": "Tinkatink",
+   "v": "n"
+  },
+  {
+   "n": "033/071",
+   "name": "Tinkatink",
+   "v": "n"
+  },
+  {
+   "n": "034/071",
+   "name": "Tinkatuff",
+   "v": "n"
+  },
+  {
+   "n": "035/071",
+   "name": "Tinkaton ex",
+   "v": "n"
+  },
+  {
+   "n": "036/071",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "037/071",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "038/071",
+   "name": "Barboach",
+   "v": "n"
+  },
+  {
+   "n": "039/071",
+   "name": "Whiscash",
+   "v": "n"
+  },
+  {
+   "n": "040/071",
+   "name": "Croagunk",
+   "v": "n"
+  },
+  {
+   "n": "041/071",
+   "name": "Toxicroak",
+   "v": "n"
+  },
+  {
+   "n": "042/071",
+   "name": "Crabrawler",
+   "v": "n"
+  },
+  {
+   "n": "043/071",
+   "name": "Crabominable",
+   "v": "n"
+  },
+  {
+   "n": "044/071",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "045/071",
+   "name": "Nacli",
+   "v": "n"
+  },
+  {
+   "n": "046/071",
+   "name": "Nacli",
+   "v": "n"
+  },
+  {
+   "n": "047/071",
+   "name": "Naclstack",
+   "v": "n"
+  },
+  {
+   "n": "048/071",
+   "name": "Garganacl",
+   "v": "n"
+  },
+  {
+   "n": "049/071",
+   "name": "Ting-Lu ex",
+   "v": "n"
+  },
+  {
+   "n": "050/071",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "051/071",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "052/071",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "053/071",
+   "name": "Shroodle",
+   "v": "n"
+  },
+  {
+   "n": "054/071",
+   "name": "Shroodle",
+   "v": "n"
+  },
+  {
+   "n": "055/071",
+   "name": "Grafaiai",
+   "v": "n"
+  },
+  {
+   "n": "056/071",
+   "name": "Bombirdier",
+   "v": "n"
+  },
+  {
+   "n": "057/071",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "058/071",
+   "name": "Noivern ex",
+   "v": "n"
+  },
+  {
+   "n": "059/071",
+   "name": "Girafarig",
+   "v": "n"
+  },
+  {
+   "n": "060/071",
+   "name": "Farigiraf",
+   "v": "n"
+  },
+  {
+   "n": "061/071",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "062/071",
+   "name": "Tandemaus",
+   "v": "n"
+  },
+  {
+   "n": "063/071",
+   "name": "Tandemaus",
+   "v": "n"
+  },
+  {
+   "n": "064/071",
+   "name": "Maushold",
+   "v": "n"
+  },
+  {
+   "n": "065/071",
+   "name": "Flamigo",
+   "v": "n"
+  },
+  {
+   "n": "066/071",
+   "name": "Delivery Drone",
+   "v": "n"
+  },
+  {
+   "n": "067/071",
+   "name": "Bravery Charm",
+   "v": "n"
+  },
+  {
+   "n": "068/071",
+   "name": "Iono",
+   "v": "n"
+  },
+  {
+   "n": "069/071",
+   "name": "Saguaro",
+   "v": "n"
+  },
+  {
+   "n": "070/071",
+   "name": "Calamitous Wasteland",
+   "v": "n"
+  },
+  {
+   "n": "071/071",
+   "name": "Therapeutic Energy",
+   "v": "n"
+  },
+  {
+   "n": "072/071",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "073/071",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "074/071",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "075/071",
+   "name": "Sandygast",
+   "v": "n"
+  },
+  {
+   "n": "076/071",
+   "name": "Tinkatink",
+   "v": "n"
+  },
+  {
+   "n": "077/071",
+   "name": "Tinkatuff",
+   "v": "n"
+  },
+  {
+   "n": "078/071",
+   "name": "Nacli",
+   "v": "n"
+  },
+  {
+   "n": "079/071",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "080/071",
+   "name": "Grafaiai",
+   "v": "n"
+  },
+  {
+   "n": "081/071",
+   "name": "Maushold",
+   "v": "n"
+  },
+  {
+   "n": "082/071",
+   "name": "Flamigo",
+   "v": "n"
+  },
+  {
+   "n": "083/071",
+   "name": "Farigiraf",
+   "v": "n"
+  },
+  {
+   "n": "084/071",
+   "name": "Forretress ex",
+   "v": "n"
+  },
+  {
+   "n": "085/071",
+   "name": "Chi-Yu ex",
+   "v": "n"
+  },
+  {
+   "n": "086/071",
+   "name": "Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "087/071",
+   "name": "Tinkaton ex",
+   "v": "n"
+  },
+  {
+   "n": "088/071",
+   "name": "Ting-Lu ex",
+   "v": "n"
+  },
+  {
+   "n": "089/071",
+   "name": "Noivern ex",
+   "v": "n"
+  },
+  {
+   "n": "090/071",
+   "name": "Iono",
+   "v": "n"
+  },
+  {
+   "n": "091/071",
+   "name": "Saguaro",
+   "v": "n"
+  },
+  {
+   "n": "092/071",
+   "name": "Chi-Yu ex",
+   "v": "n"
+  },
+  {
+   "n": "093/071",
+   "name": "Tinkaton ex",
+   "v": "n"
+  },
+  {
+   "n": "094/071",
+   "name": "Ting-Lu ex",
+   "v": "n"
+  },
+  {
+   "n": "095/071",
+   "name": "Iono",
+   "v": "n"
+  },
+  {
+   "n": "096/071",
+   "name": "Saguaro",
+   "v": "n"
+  },
+  {
+   "n": "097/071",
+   "name": "Ting-Lu ex",
+   "v": "n"
+  },
+  {
+   "n": "098/071",
+   "name": "Superior Energy Retrieval",
+   "v": "n"
+  },
+  {
+   "n": "099/071",
+   "name": "Basic Grass Energy",
+   "v": "n"
+  }
+ ]
+}

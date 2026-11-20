@@ -1,0 +1,680 @@
+{
+ "id": "SV6",
+ "name": "변환의 가면",
+ "name_en": "Mask of Change",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2024-06-21",
+ "official": 101,
+ "abbr": "SV6",
+ "logo": "img/logos/ja/SV6.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/101",
+   "name": "Sunkern",
+   "v": "n"
+  },
+  {
+   "n": "002/101",
+   "name": "Sunflora",
+   "v": "n"
+  },
+  {
+   "n": "003/101",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "004/101",
+   "name": "Volbeat",
+   "v": "n"
+  },
+  {
+   "n": "005/101",
+   "name": "Illumise",
+   "v": "n"
+  },
+  {
+   "n": "006/101",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "007/101",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "008/101",
+   "name": "Grookey",
+   "v": "n"
+  },
+  {
+   "n": "009/101",
+   "name": "Thwackey",
+   "v": "n"
+  },
+  {
+   "n": "010/101",
+   "name": "Rillaboom",
+   "v": "n"
+  },
+  {
+   "n": "011/101",
+   "name": "Applin",
+   "v": "n"
+  },
+  {
+   "n": "012/101",
+   "name": "Dipplin",
+   "v": "n"
+  },
+  {
+   "n": "013/101",
+   "name": "Poltchageist",
+   "v": "n"
+  },
+  {
+   "n": "014/101",
+   "name": "Sinistcha",
+   "v": "n"
+  },
+  {
+   "n": "015/101",
+   "name": "Teal Mask Ogerpon",
+   "v": "n"
+  },
+  {
+   "n": "016/101",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "017/101",
+   "name": "Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "018/101",
+   "name": "Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "019/101",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "020/101",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "021/101",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "022/101",
+   "name": "Hearthflame Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "023/101",
+   "name": "Poliwag",
+   "v": "n"
+  },
+  {
+   "n": "024/101",
+   "name": "Poliwhirl",
+   "v": "n"
+  },
+  {
+   "n": "025/101",
+   "name": "Poliwrath",
+   "v": "n"
+  },
+  {
+   "n": "026/101",
+   "name": "Goldeen",
+   "v": "n"
+  },
+  {
+   "n": "027/101",
+   "name": "Seaking",
+   "v": "n"
+  },
+  {
+   "n": "028/101",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "029/101",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "030/101",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "031/101",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "032/101",
+   "name": "Glalie",
+   "v": "n"
+  },
+  {
+   "n": "033/101",
+   "name": "Froslass",
+   "v": "n"
+  },
+  {
+   "n": "034/101",
+   "name": "Finizen",
+   "v": "n"
+  },
+  {
+   "n": "035/101",
+   "name": "Palafin",
+   "v": "n"
+  },
+  {
+   "n": "036/101",
+   "name": "Palafin ex",
+   "v": "n"
+  },
+  {
+   "n": "037/101",
+   "name": "Iron Bundle",
+   "v": "n"
+  },
+  {
+   "n": "038/101",
+   "name": "Wellspring Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "039/101",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "040/101",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "041/101",
+   "name": "Luxray ex",
+   "v": "n"
+  },
+  {
+   "n": "042/101",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "043/101",
+   "name": "Wattrel",
+   "v": "n"
+  },
+  {
+   "n": "044/101",
+   "name": "Kilowattrel",
+   "v": "n"
+  },
+  {
+   "n": "045/101",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "046/101",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "047/101",
+   "name": "Abra",
+   "v": "n"
+  },
+  {
+   "n": "048/101",
+   "name": "Kadabra",
+   "v": "n"
+  },
+  {
+   "n": "049/101",
+   "name": "Alakazam",
+   "v": "n"
+  },
+  {
+   "n": "050/101",
+   "name": "Chimecho",
+   "v": "n"
+  },
+  {
+   "n": "051/101",
+   "name": "Swirlix",
+   "v": "n"
+  },
+  {
+   "n": "052/101",
+   "name": "Slurpuff",
+   "v": "n"
+  },
+  {
+   "n": "053/101",
+   "name": "Sandygast",
+   "v": "n"
+  },
+  {
+   "n": "054/101",
+   "name": "Palossand",
+   "v": "n"
+  },
+  {
+   "n": "055/101",
+   "name": "Munkidori",
+   "v": "n"
+  },
+  {
+   "n": "056/101",
+   "name": "Fezandipiti",
+   "v": "n"
+  },
+  {
+   "n": "057/101",
+   "name": "Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "058/101",
+   "name": "Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "059/101",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "060/101",
+   "name": "Gurdurr",
+   "v": "n"
+  },
+  {
+   "n": "061/101",
+   "name": "Conkeldurr",
+   "v": "n"
+  },
+  {
+   "n": "062/101",
+   "name": "Glimmet",
+   "v": "n"
+  },
+  {
+   "n": "063/101",
+   "name": "Glimmora",
+   "v": "n"
+  },
+  {
+   "n": "064/101",
+   "name": "Okidogi",
+   "v": "n"
+  },
+  {
+   "n": "065/101",
+   "name": "Cornerstone Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "066/101",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "067/101",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "068/101",
+   "name": "Venipede",
+   "v": "n"
+  },
+  {
+   "n": "069/101",
+   "name": "Whirlipede",
+   "v": "n"
+  },
+  {
+   "n": "070/101",
+   "name": "Scolipede",
+   "v": "n"
+  },
+  {
+   "n": "071/101",
+   "name": "Brute Bonnet",
+   "v": "n"
+  },
+  {
+   "n": "072/101",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "073/101",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "074/101",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "075/101",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "076/101",
+   "name": "Heatran",
+   "v": "n"
+  },
+  {
+   "n": "077/101",
+   "name": "Varoom",
+   "v": "n"
+  },
+  {
+   "n": "078/101",
+   "name": "Revavroom",
+   "v": "n"
+  },
+  {
+   "n": "079/101",
+   "name": "Dreepy",
+   "v": "n"
+  },
+  {
+   "n": "080/101",
+   "name": "Drakloak",
+   "v": "n"
+  },
+  {
+   "n": "081/101",
+   "name": "Dragapult ex",
+   "v": "n"
+  },
+  {
+   "n": "082/101",
+   "name": "Tatsugiri",
+   "v": "n"
+  },
+  {
+   "n": "083/101",
+   "name": "Farfetch'd",
+   "v": "n"
+  },
+  {
+   "n": "084/101",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "085/101",
+   "name": "Blissey ex",
+   "v": "n"
+  },
+  {
+   "n": "086/101",
+   "name": "Aipom",
+   "v": "n"
+  },
+  {
+   "n": "087/101",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "088/101",
+   "name": "Ducklett",
+   "v": "n"
+  },
+  {
+   "n": "089/101",
+   "name": "Swanna",
+   "v": "n"
+  },
+  {
+   "n": "090/101",
+   "name": "Bug Catching Set",
+   "v": "n"
+  },
+  {
+   "n": "091/101",
+   "name": "Ogre's Mask",
+   "v": "n"
+  },
+  {
+   "n": "092/101",
+   "name": "Secret Box",
+   "v": "n"
+  },
+  {
+   "n": "093/101",
+   "name": "Scoop Up Cyclone",
+   "v": "n"
+  },
+  {
+   "n": "094/101",
+   "name": "Accompanying Flute",
+   "v": "n"
+  },
+  {
+   "n": "095/101",
+   "name": "Handheld Fan",
+   "v": "n"
+  },
+  {
+   "n": "096/101",
+   "name": "Carmine",
+   "v": "n"
+  },
+  {
+   "n": "097/101",
+   "name": "Kieran",
+   "v": "n"
+  },
+  {
+   "n": "098/101",
+   "name": "Hassel",
+   "v": "n"
+  },
+  {
+   "n": "099/101",
+   "name": "Jamming Tower",
+   "v": "n"
+  },
+  {
+   "n": "100/101",
+   "name": "Festival Grounds",
+   "v": "n"
+  },
+  {
+   "n": "101/101",
+   "name": "Legacy Energy",
+   "v": "n"
+  },
+  {
+   "n": "102/101",
+   "name": "Sunflora",
+   "v": "n"
+  },
+  {
+   "n": "103/101",
+   "name": "Dipplin",
+   "v": "n"
+  },
+  {
+   "n": "104/101",
+   "name": "Froslass",
+   "v": "n"
+  },
+  {
+   "n": "105/101",
+   "name": "Wattrel",
+   "v": "n"
+  },
+  {
+   "n": "106/101",
+   "name": "Chimecho",
+   "v": "n"
+  },
+  {
+   "n": "107/101",
+   "name": "Munkidori",
+   "v": "n"
+  },
+  {
+   "n": "108/101",
+   "name": "Fezandipiti",
+   "v": "n"
+  },
+  {
+   "n": "109/101",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "110/101",
+   "name": "Okidogi",
+   "v": "n"
+  },
+  {
+   "n": "111/101",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "112/101",
+   "name": "Tatsugiri",
+   "v": "n"
+  },
+  {
+   "n": "113/101",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "114/101",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "115/101",
+   "name": "Hearthflame Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "116/101",
+   "name": "Palafin ex",
+   "v": "n"
+  },
+  {
+   "n": "117/101",
+   "name": "Wellspring Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "118/101",
+   "name": "Luxray ex",
+   "v": "n"
+  },
+  {
+   "n": "119/101",
+   "name": "Cornerstone Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "120/101",
+   "name": "Dragapult ex",
+   "v": "n"
+  },
+  {
+   "n": "121/101",
+   "name": "Blissey ex",
+   "v": "n"
+  },
+  {
+   "n": "122/101",
+   "name": "Carmine",
+   "v": "n"
+  },
+  {
+   "n": "123/101",
+   "name": "Kieran",
+   "v": "n"
+  },
+  {
+   "n": "124/101",
+   "name": "Hassel",
+   "v": "n"
+  },
+  {
+   "n": "125/101",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "126/101",
+   "name": "Hearthflame Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "127/101",
+   "name": "Wellspring Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "128/101",
+   "name": "Cornerstone Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "129/101",
+   "name": "Carmine",
+   "v": "n"
+  },
+  {
+   "n": "130/101",
+   "name": "Kieran",
+   "v": "n"
+  },
+  {
+   "n": "131/101",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "132/101",
+   "name": "Enhanced Hammer",
+   "v": "n"
+  },
+  {
+   "n": "133/101",
+   "name": "Buddy-Buddy Poffin",
+   "v": "n"
+  }
+ ]
+}

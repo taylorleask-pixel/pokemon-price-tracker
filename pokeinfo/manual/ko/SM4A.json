@@ -1,0 +1,325 @@
+{
+ "id": "SM4A",
+ "name": "초차원의 침략자",
+ "name_en": "Ultradimensional Beasts",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2017-09-15",
+ "official": 50,
+ "abbr": "SM4A",
+ "logo": "img/logos/ja/SM4A.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/050",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/050",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/050",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "004/050",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "005/050",
+   "name": "Shelmet",
+   "v": "n"
+  },
+  {
+   "n": "006/050",
+   "name": "Accelgor",
+   "v": "n"
+  },
+  {
+   "n": "007/050",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "008/050",
+   "name": "Gyarados-GX",
+   "v": "n"
+  },
+  {
+   "n": "009/050",
+   "name": "Swinub",
+   "v": "n"
+  },
+  {
+   "n": "010/050",
+   "name": "Piloswine",
+   "v": "n"
+  },
+  {
+   "n": "011/050",
+   "name": "Mamoswine",
+   "v": "n"
+  },
+  {
+   "n": "012/050",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "013/050",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "014/050",
+   "name": "Regice",
+   "v": "n"
+  },
+  {
+   "n": "015/050",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "016/050",
+   "name": "Alolan Raichu",
+   "v": "n"
+  },
+  {
+   "n": "017/050",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "018/050",
+   "name": "Mismagius",
+   "v": "n"
+  },
+  {
+   "n": "019/050",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "020/050",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "021/050",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "022/050",
+   "name": "Nihilego-GX",
+   "v": "n"
+  },
+  {
+   "n": "023/050",
+   "name": "Mankey",
+   "v": "n"
+  },
+  {
+   "n": "024/050",
+   "name": "Primeape",
+   "v": "n"
+  },
+  {
+   "n": "025/050",
+   "name": "Regirock",
+   "v": "n"
+  },
+  {
+   "n": "026/050",
+   "name": "Stufful",
+   "v": "n"
+  },
+  {
+   "n": "027/050",
+   "name": "Bewear",
+   "v": "n"
+  },
+  {
+   "n": "028/050",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "029/050",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "030/050",
+   "name": "Deino",
+   "v": "n"
+  },
+  {
+   "n": "031/050",
+   "name": "Zweilous",
+   "v": "n"
+  },
+  {
+   "n": "032/050",
+   "name": "Hydreigon",
+   "v": "n"
+  },
+  {
+   "n": "033/050",
+   "name": "Guzzlord-GX",
+   "v": "n"
+  },
+  {
+   "n": "034/050",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "035/050",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "036/050",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "037/050",
+   "name": "Alolan Exeggutor-GX",
+   "v": "n"
+  },
+  {
+   "n": "038/050",
+   "name": "Jangmo-o",
+   "v": "n"
+  },
+  {
+   "n": "039/050",
+   "name": "Hakamo-o",
+   "v": "n"
+  },
+  {
+   "n": "040/050",
+   "name": "Kommo-o",
+   "v": "n"
+  },
+  {
+   "n": "041/050",
+   "name": "Miltank",
+   "v": "n"
+  },
+  {
+   "n": "042/050",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "043/050",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "044/050",
+   "name": "Bunnelby",
+   "v": "n"
+  },
+  {
+   "n": "045/050",
+   "name": "Diggersby",
+   "v": "n"
+  },
+  {
+   "n": "046/050",
+   "name": "Dashing Pouch",
+   "v": "n"
+  },
+  {
+   "n": "047/050",
+   "name": "Lusamine",
+   "v": "n"
+  },
+  {
+   "n": "048/050",
+   "name": "Devoured Field",
+   "v": "n"
+  },
+  {
+   "n": "049/050",
+   "name": "Sea of Nothingness",
+   "v": "n"
+  },
+  {
+   "n": "050/050",
+   "name": "Counter Energy",
+   "v": "n"
+  },
+  {
+   "n": "051/050",
+   "name": "Gyarados-GX",
+   "v": "n"
+  },
+  {
+   "n": "052/050",
+   "name": "Nihilego-GX",
+   "v": "n"
+  },
+  {
+   "n": "053/050",
+   "name": "Guzzlord-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/050",
+   "name": "Alolan Exeggutor-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/050",
+   "name": "Lusamine",
+   "v": "n"
+  },
+  {
+   "n": "056/050",
+   "name": "Gyarados-GX",
+   "v": "n"
+  },
+  {
+   "n": "057/050",
+   "name": "Nihilego-GX",
+   "v": "n"
+  },
+  {
+   "n": "058/050",
+   "name": "Guzzlord-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/050",
+   "name": "Alolan Exeggutor-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/050",
+   "name": "Wishful Baton",
+   "v": "n"
+  },
+  {
+   "n": "061/050",
+   "name": "Counter Energy",
+   "v": "n"
+  },
+  {
+   "n": "062/050",
+   "name": "Water Energy",
+   "v": "n"
+  }
+ ]
+}

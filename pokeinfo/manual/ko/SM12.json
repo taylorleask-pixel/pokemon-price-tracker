@@ -1,0 +1,600 @@
+{
+ "id": "SM12",
+ "name": "얼터제네시스",
+ "name_en": "Alter Genesis",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-09-06",
+ "official": 95,
+ "abbr": "SM12",
+ "logo": "img/logos/ja/SM12.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/095",
+   "name": "Sunkern",
+   "v": "n"
+  },
+  {
+   "n": "002/095",
+   "name": "Sunflora",
+   "v": "n"
+  },
+  {
+   "n": "003/095",
+   "name": "Lileep",
+   "v": "n"
+  },
+  {
+   "n": "004/095",
+   "name": "Cradily",
+   "v": "n"
+  },
+  {
+   "n": "005/095",
+   "name": "Kricketot",
+   "v": "n"
+  },
+  {
+   "n": "006/095",
+   "name": "Kricketune",
+   "v": "n"
+  },
+  {
+   "n": "007/095",
+   "name": "Rowlet",
+   "v": "n"
+  },
+  {
+   "n": "008/095",
+   "name": "Rowlet",
+   "v": "n"
+  },
+  {
+   "n": "009/095",
+   "name": "Dartrix",
+   "v": "n"
+  },
+  {
+   "n": "010/095",
+   "name": "Decidueye",
+   "v": "n"
+  },
+  {
+   "n": "011/095",
+   "name": "Buzzwole",
+   "v": "n"
+  },
+  {
+   "n": "012/095",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "013/095",
+   "name": "Volcarona-GX",
+   "v": "n"
+  },
+  {
+   "n": "014/095",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "015/095",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "016/095",
+   "name": "Alolan Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "017/095",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "018/095",
+   "name": "Glalie",
+   "v": "n"
+  },
+  {
+   "n": "019/095",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "020/095",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "021/095",
+   "name": "Sealeo",
+   "v": "n"
+  },
+  {
+   "n": "022/095",
+   "name": "Walrein",
+   "v": "n"
+  },
+  {
+   "n": "023/095",
+   "name": "Ducklett",
+   "v": "n"
+  },
+  {
+   "n": "024/095",
+   "name": "Swanna",
+   "v": "n"
+  },
+  {
+   "n": "025/095",
+   "name": "Black Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "026/095",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "027/095",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "028/095",
+   "name": "Togedemaru",
+   "v": "n"
+  },
+  {
+   "n": "029/095",
+   "name": "Woobat",
+   "v": "n"
+  },
+  {
+   "n": "030/095",
+   "name": "Swoobat",
+   "v": "n"
+  },
+  {
+   "n": "031/095",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "032/095",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "033/095",
+   "name": "Skrelp",
+   "v": "n"
+  },
+  {
+   "n": "034/095",
+   "name": "Dragalge",
+   "v": "n"
+  },
+  {
+   "n": "035/095",
+   "name": "Oricorio-GX",
+   "v": "n"
+  },
+  {
+   "n": "036/095",
+   "name": "Cosmog",
+   "v": "n"
+  },
+  {
+   "n": "037/095",
+   "name": "Cosmog",
+   "v": "n"
+  },
+  {
+   "n": "038/095",
+   "name": "Cosmoem",
+   "v": "n"
+  },
+  {
+   "n": "039/095",
+   "name": "Lunala",
+   "v": "n"
+  },
+  {
+   "n": "040/095",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "041/095",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "042/095",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "043/095",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "044/095",
+   "name": "Flygon-GX",
+   "v": "n"
+  },
+  {
+   "n": "045/095",
+   "name": "Anorith",
+   "v": "n"
+  },
+  {
+   "n": "046/095",
+   "name": "Armaldo",
+   "v": "n"
+  },
+  {
+   "n": "047/095",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "048/095",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "049/095",
+   "name": "Sandygast",
+   "v": "n"
+  },
+  {
+   "n": "050/095",
+   "name": "Palossand",
+   "v": "n"
+  },
+  {
+   "n": "051/095",
+   "name": "Alolan Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "052/095",
+   "name": "Alolan Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "053/095",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "054/095",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "055/095",
+   "name": "Solgaleo",
+   "v": "n"
+  },
+  {
+   "n": "056/095",
+   "name": "Alolan Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "057/095",
+   "name": "Azurill",
+   "v": "n"
+  },
+  {
+   "n": "058/095",
+   "name": "Flabébé",
+   "v": "n"
+  },
+  {
+   "n": "059/095",
+   "name": "Flabébé",
+   "v": "n"
+  },
+  {
+   "n": "060/095",
+   "name": "Floette",
+   "v": "n"
+  },
+  {
+   "n": "061/095",
+   "name": "Florges",
+   "v": "n"
+  },
+  {
+   "n": "062/095",
+   "name": "Swirlix",
+   "v": "n"
+  },
+  {
+   "n": "063/095",
+   "name": "Slurpuff",
+   "v": "n"
+  },
+  {
+   "n": "064/095",
+   "name": "Sylveon",
+   "v": "n"
+  },
+  {
+   "n": "065/095",
+   "name": "Arceus & Dialga & Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "066/095",
+   "name": "Naganadel & Guzzlord-GX",
+   "v": "n"
+  },
+  {
+   "n": "067/095",
+   "name": "Drampa",
+   "v": "n"
+  },
+  {
+   "n": "068/095",
+   "name": "Jangmo-o",
+   "v": "n"
+  },
+  {
+   "n": "069/095",
+   "name": "Jangmo-o",
+   "v": "n"
+  },
+  {
+   "n": "070/095",
+   "name": "Hakamo-o",
+   "v": "n"
+  },
+  {
+   "n": "071/095",
+   "name": "Kommo-o",
+   "v": "n"
+  },
+  {
+   "n": "072/095",
+   "name": "Ultra Necrozma",
+   "v": "n"
+  },
+  {
+   "n": "073/095",
+   "name": "Mega Lopunny & Jigglypuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "074/095",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "075/095",
+   "name": "Aipom",
+   "v": "n"
+  },
+  {
+   "n": "076/095",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "077/095",
+   "name": "Teddiursa",
+   "v": "n"
+  },
+  {
+   "n": "078/095",
+   "name": "Ursaring",
+   "v": "n"
+  },
+  {
+   "n": "079/095",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "080/095",
+   "name": "Braviary",
+   "v": "n"
+  },
+  {
+   "n": "081/095",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "082/095",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "083/095",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "084/095",
+   "name": "Tag Call",
+   "v": "n"
+  },
+  {
+   "n": "085/095",
+   "name": "Beastite",
+   "v": "n"
+  },
+  {
+   "n": "086/095",
+   "name": "Island Challenge Amulet",
+   "v": "n"
+  },
+  {
+   "n": "087/095",
+   "name": "Guzma & Hala",
+   "v": "n"
+  },
+  {
+   "n": "088/095",
+   "name": "Cynthia & Caitlin",
+   "v": "n"
+  },
+  {
+   "n": "089/095",
+   "name": "Red & Blue",
+   "v": "n"
+  },
+  {
+   "n": "090/095",
+   "name": "Mallow & Lana",
+   "v": "n"
+  },
+  {
+   "n": "091/095",
+   "name": "Chaotic Swell",
+   "v": "n"
+  },
+  {
+   "n": "092/095",
+   "name": "Adventure Bag",
+   "v": "n"
+  },
+  {
+   "n": "093/095",
+   "name": "Pokémon Communication",
+   "v": "n"
+  },
+  {
+   "n": "094/095",
+   "name": "Cherish Ball",
+   "v": "n"
+  },
+  {
+   "n": "095/095",
+   "name": "Professor Elm's Lecture",
+   "v": "n"
+  },
+  {
+   "n": "096/095",
+   "name": "Volcarona-GX",
+   "v": "n"
+  },
+  {
+   "n": "097/095",
+   "name": "Oricorio-GX",
+   "v": "n"
+  },
+  {
+   "n": "098/095",
+   "name": "Flygon-GX",
+   "v": "n"
+  },
+  {
+   "n": "099/095",
+   "name": "Arceus & Dialga & Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "100/095",
+   "name": "Arceus & Dialga & Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "101/095",
+   "name": "Naganadel & Guzzlord-GX",
+   "v": "n"
+  },
+  {
+   "n": "102/095",
+   "name": "Naganadel & Guzzlord-GX",
+   "v": "n"
+  },
+  {
+   "n": "103/095",
+   "name": "Mega Lopunny & Jigglypuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "104/095",
+   "name": "Mega Lopunny & Jigglypuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "105/095",
+   "name": "Guzma & Hala",
+   "v": "n"
+  },
+  {
+   "n": "106/095",
+   "name": "Cynthia & Caitlin",
+   "v": "n"
+  },
+  {
+   "n": "107/095",
+   "name": "Red & Blue",
+   "v": "n"
+  },
+  {
+   "n": "108/095",
+   "name": "Mallow & Lana",
+   "v": "n"
+  },
+  {
+   "n": "109/095",
+   "name": "Volcarona-GX",
+   "v": "n"
+  },
+  {
+   "n": "110/095",
+   "name": "Oricorio-GX",
+   "v": "n"
+  },
+  {
+   "n": "111/095",
+   "name": "Flygon-GX",
+   "v": "n"
+  },
+  {
+   "n": "112/095",
+   "name": "Arceus & Dialga & Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "113/095",
+   "name": "Naganadel & Guzzlord-GX",
+   "v": "n"
+  },
+  {
+   "n": "114/095",
+   "name": "Mega Lopunny & Jigglypuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "115/095",
+   "name": "Tag Call",
+   "v": "n"
+  },
+  {
+   "n": "116/095",
+   "name": "Island Challenge Amulet",
+   "v": "n"
+  },
+  {
+   "n": "117/095",
+   "name": "Giant Hearth",
+   "v": "n"
+  }
+ ]
+}

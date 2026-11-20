@@ -1,0 +1,475 @@
+{
+ "id": "SV9a",
+ "name": "Hot Wind Arena",
+ "name_en": "Hot Wind Arena",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2025-03-14",
+ "official": 63,
+ "abbr": "SV9a",
+ "logo": "img/logos/ja/SV9a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/063",
+   "name": "Ethan's Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "002/063",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "003/063",
+   "name": "Yanmega ex",
+   "v": "n"
+  },
+  {
+   "n": "004/063",
+   "name": "Cynthia's Roselia",
+   "v": "n"
+  },
+  {
+   "n": "005/063",
+   "name": "Cynthia's Roserade",
+   "v": "n"
+  },
+  {
+   "n": "006/063",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "007/063",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "008/063",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "009/063",
+   "name": "Applin",
+   "v": "n"
+  },
+  {
+   "n": "010/063",
+   "name": "Dipplin",
+   "v": "n"
+  },
+  {
+   "n": "011/063",
+   "name": "Hydrapple",
+   "v": "n"
+  },
+  {
+   "n": "012/063",
+   "name": "Teal Mask Ogerpon",
+   "v": "n"
+  },
+  {
+   "n": "013/063",
+   "name": "Ponyta",
+   "v": "n"
+  },
+  {
+   "n": "014/063",
+   "name": "Rapidash",
+   "v": "n"
+  },
+  {
+   "n": "015/063",
+   "name": "Ethan's Cyndaquil",
+   "v": "n"
+  },
+  {
+   "n": "016/063",
+   "name": "Ethan's Quilava",
+   "v": "n"
+  },
+  {
+   "n": "017/063",
+   "name": "Ethan's Typhlosion",
+   "v": "n"
+  },
+  {
+   "n": "018/063",
+   "name": "Ethan's Slugma",
+   "v": "n"
+  },
+  {
+   "n": "019/063",
+   "name": "Ethan's Magcargo",
+   "v": "n"
+  },
+  {
+   "n": "020/063",
+   "name": "Ethan's Ho-Oh ex",
+   "v": "n"
+  },
+  {
+   "n": "021/063",
+   "name": "Hearthflame Mask Ogerpon",
+   "v": "n"
+  },
+  {
+   "n": "022/063",
+   "name": "Misty's Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "023/063",
+   "name": "Misty's Staryu",
+   "v": "n"
+  },
+  {
+   "n": "024/063",
+   "name": "Misty's Starmie",
+   "v": "n"
+  },
+  {
+   "n": "025/063",
+   "name": "Misty's Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "026/063",
+   "name": "Misty's Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "027/063",
+   "name": "Misty's Lapras",
+   "v": "n"
+  },
+  {
+   "n": "028/063",
+   "name": "Cynthia's Feebas",
+   "v": "n"
+  },
+  {
+   "n": "029/063",
+   "name": "Cynthia's Milotic",
+   "v": "n"
+  },
+  {
+   "n": "030/063",
+   "name": "Buizel",
+   "v": "n"
+  },
+  {
+   "n": "031/063",
+   "name": "Floatzel",
+   "v": "n"
+  },
+  {
+   "n": "032/063",
+   "name": "Dondozo ex",
+   "v": "n"
+  },
+  {
+   "n": "033/063",
+   "name": "Wellspring Mask Ogerpon",
+   "v": "n"
+  },
+  {
+   "n": "034/063",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "035/063",
+   "name": "Electivire ex",
+   "v": "n"
+  },
+  {
+   "n": "036/063",
+   "name": "Ethan's Pichu",
+   "v": "n"
+  },
+  {
+   "n": "037/063",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "038/063",
+   "name": "Manectric",
+   "v": "n"
+  },
+  {
+   "n": "039/063",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "040/063",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "041/063",
+   "name": "Ethan's Sudowoodo",
+   "v": "n"
+  },
+  {
+   "n": "042/063",
+   "name": "Cynthia's Gible",
+   "v": "n"
+  },
+  {
+   "n": "043/063",
+   "name": "Cynthia's Gabite",
+   "v": "n"
+  },
+  {
+   "n": "044/063",
+   "name": "Cynthia's Garchomp ex",
+   "v": "n"
+  },
+  {
+   "n": "045/063",
+   "name": "Mudbray",
+   "v": "n"
+  },
+  {
+   "n": "046/063",
+   "name": "Mudsdale",
+   "v": "n"
+  },
+  {
+   "n": "047/063",
+   "name": "Arven's Toedscool",
+   "v": "n"
+  },
+  {
+   "n": "048/063",
+   "name": "Arven's Toedscruel",
+   "v": "n"
+  },
+  {
+   "n": "049/063",
+   "name": "Cornerstone Mask Ogerpon",
+   "v": "n"
+  },
+  {
+   "n": "050/063",
+   "name": "Cynthia's Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "051/063",
+   "name": "Arven's Maschiff",
+   "v": "n"
+  },
+  {
+   "n": "052/063",
+   "name": "Arven's Mabosstiff ex",
+   "v": "n"
+  },
+  {
+   "n": "053/063",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "054/063",
+   "name": "Arven's Skwovet",
+   "v": "n"
+  },
+  {
+   "n": "055/063",
+   "name": "Arven's Greedent",
+   "v": "n"
+  },
+  {
+   "n": "056/063",
+   "name": "Sacred Ash",
+   "v": "n"
+  },
+  {
+   "n": "057/063",
+   "name": "Arven's Sandwich",
+   "v": "n"
+  },
+  {
+   "n": "058/063",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "059/063",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "060/063",
+   "name": "Cynthia's Power Weight",
+   "v": "n"
+  },
+  {
+   "n": "061/063",
+   "name": "Emcee's Hype",
+   "v": "n"
+  },
+  {
+   "n": "062/063",
+   "name": "Ethan's Adventure",
+   "v": "n"
+  },
+  {
+   "n": "063/063",
+   "name": "Judge",
+   "v": "n"
+  },
+  {
+   "n": "064/063",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "065/063",
+   "name": "Cynthia's Roserade",
+   "v": "n"
+  },
+  {
+   "n": "066/063",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "067/063",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "068/063",
+   "name": "Hydrapple",
+   "v": "n"
+  },
+  {
+   "n": "069/063",
+   "name": "Rapidash",
+   "v": "n"
+  },
+  {
+   "n": "070/063",
+   "name": "Ethan's Typhlosion",
+   "v": "n"
+  },
+  {
+   "n": "071/063",
+   "name": "Misty's Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "072/063",
+   "name": "Misty's Lapras",
+   "v": "n"
+  },
+  {
+   "n": "073/063",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "074/063",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "075/063",
+   "name": "Arven's Greedent",
+   "v": "n"
+  },
+  {
+   "n": "076/063",
+   "name": "Yanmega ex",
+   "v": "n"
+  },
+  {
+   "n": "077/063",
+   "name": "Ethan's Ho-Oh ex",
+   "v": "n"
+  },
+  {
+   "n": "078/063",
+   "name": "Dondozo ex",
+   "v": "n"
+  },
+  {
+   "n": "079/063",
+   "name": "Electivire ex",
+   "v": "n"
+  },
+  {
+   "n": "080/063",
+   "name": "Cynthia's Garchomp ex",
+   "v": "n"
+  },
+  {
+   "n": "081/063",
+   "name": "Arven's Mabosstiff ex",
+   "v": "n"
+  },
+  {
+   "n": "082/063",
+   "name": "Emcee's Hype",
+   "v": "n"
+  },
+  {
+   "n": "083/063",
+   "name": "Ethan's Adventure",
+   "v": "n"
+  },
+  {
+   "n": "084/063",
+   "name": "Judge",
+   "v": "n"
+  },
+  {
+   "n": "085/063",
+   "name": "Yanmega ex",
+   "v": "n"
+  },
+  {
+   "n": "086/063",
+   "name": "Ethan's Ho-Oh ex",
+   "v": "n"
+  },
+  {
+   "n": "087/063",
+   "name": "Cynthia's Garchomp ex",
+   "v": "n"
+  },
+  {
+   "n": "088/063",
+   "name": "Arven's Mabosstiff ex",
+   "v": "n"
+  },
+  {
+   "n": "089/063",
+   "name": "Ethan's Adventure",
+   "v": "n"
+  },
+  {
+   "n": "090/063",
+   "name": "Ethan's Ho-Oh ex",
+   "v": "n"
+  },
+  {
+   "n": "091/063",
+   "name": "Cynthia's Garchomp ex",
+   "v": "n"
+  },
+  {
+   "n": "092/063",
+   "name": "Levincia",
+   "v": "n"
+  }
+ ]
+}

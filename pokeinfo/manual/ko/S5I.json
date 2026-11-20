@@ -1,0 +1,470 @@
+{
+ "id": "S5I",
+ "name": "일격마스터",
+ "name_en": "Single Strike Master",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2021-01-22",
+ "official": 70,
+ "abbr": "S5I",
+ "logo": "img/logos/ja/S5I.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Cacnea",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Cacturne",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Durant",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Scatterbug",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Spewpa",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Vivillon",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Flapple V",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Flapple VMAX",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Entei",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Tepig",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Pignite",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Emboar",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Tapu Koko V",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Tapu Koko VMAX",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Yamper",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Boltund",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Galarian Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Chimecho",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Mimikyu V",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Mankey",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Primeape",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Rolycoly",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Carkol",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Coalossal",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Stonjourner",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Single Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Single Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Zubat",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Golbat",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Galarian Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Honchkrow",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Tyranitar V",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Morpeko",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Spearow",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Fearow",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Lickitung",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Lickilicky",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Stoutland V",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Drampa",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Escape Rope",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Camping Gear",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Urn of Vitality",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Single Strike Scroll of Scorn",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Exp. Share",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Single Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Bruno",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Phoebe",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Tower of Darkness",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Single Strike Energy",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Flapple V",
+   "v": "n"
+  },
+  {
+   "n": "072/070",
+   "name": "Tapu Koko V",
+   "v": "n"
+  },
+  {
+   "n": "073/070",
+   "name": "Mimikyu V",
+   "v": "n"
+  },
+  {
+   "n": "074/070",
+   "name": "Single Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "075/070",
+   "name": "Single Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "076/070",
+   "name": "Tyranitar V",
+   "v": "n"
+  },
+  {
+   "n": "077/070",
+   "name": "Tyranitar V",
+   "v": "n"
+  },
+  {
+   "n": "078/070",
+   "name": "Stoutland V",
+   "v": "n"
+  },
+  {
+   "n": "079/070",
+   "name": "Single Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "080/070",
+   "name": "Bruno",
+   "v": "n"
+  },
+  {
+   "n": "081/070",
+   "name": "Phoebe",
+   "v": "n"
+  },
+  {
+   "n": "082/070",
+   "name": "Flapple VMAX",
+   "v": "n"
+  },
+  {
+   "n": "083/070",
+   "name": "Tapu Koko VMAX",
+   "v": "n"
+  },
+  {
+   "n": "084/070",
+   "name": "Single Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "085/070",
+   "name": "Single Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "086/070",
+   "name": "Single Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "087/070",
+   "name": "Bruno",
+   "v": "n"
+  },
+  {
+   "n": "088/070",
+   "name": "Phoebe",
+   "v": "n"
+  },
+  {
+   "n": "089/070",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "090/070",
+   "name": "Exp. Share",
+   "v": "n"
+  },
+  {
+   "n": "091/070",
+   "name": "Single Strike Energy",
+   "v": "n"
+  }
+ ]
+}

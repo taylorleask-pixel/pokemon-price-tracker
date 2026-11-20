@@ -1,0 +1,445 @@
+{
+ "id": "SM6b",
+ "name": "챔피언로드",
+ "name_en": "Champion Road",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2018-05-30",
+ "official": 66,
+ "abbr": "SM6b",
+ "logo": "img/logos/ja/SM6b.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/066",
+   "name": "Bellsprout",
+   "v": "n"
+  },
+  {
+   "n": "002/066",
+   "name": "Weepinbell",
+   "v": "n"
+  },
+  {
+   "n": "003/066",
+   "name": "Victreebel",
+   "v": "n"
+  },
+  {
+   "n": "004/066",
+   "name": "Scyther",
+   "v": "n"
+  },
+  {
+   "n": "005/066",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "006/066",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "007/066",
+   "name": "Cacnea",
+   "v": "n"
+  },
+  {
+   "n": "008/066",
+   "name": "Cacturne",
+   "v": "n"
+  },
+  {
+   "n": "009/066",
+   "name": "Slugma",
+   "v": "n"
+  },
+  {
+   "n": "010/066",
+   "name": "Magcargo",
+   "v": "n"
+  },
+  {
+   "n": "011/066",
+   "name": "Torchic",
+   "v": "n"
+  },
+  {
+   "n": "012/066",
+   "name": "Combusken",
+   "v": "n"
+  },
+  {
+   "n": "013/066",
+   "name": "Blaziken",
+   "v": "n"
+  },
+  {
+   "n": "014/066",
+   "name": "Articuno-GX",
+   "v": "n"
+  },
+  {
+   "n": "015/066",
+   "name": "Totodile",
+   "v": "n"
+  },
+  {
+   "n": "016/066",
+   "name": "Croconaw",
+   "v": "n"
+  },
+  {
+   "n": "017/066",
+   "name": "Feraligatr",
+   "v": "n"
+  },
+  {
+   "n": "018/066",
+   "name": "Lotad",
+   "v": "n"
+  },
+  {
+   "n": "019/066",
+   "name": "Lombre",
+   "v": "n"
+  },
+  {
+   "n": "020/066",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "021/066",
+   "name": "Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "022/066",
+   "name": "Electrode-GX",
+   "v": "n"
+  },
+  {
+   "n": "023/066",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "024/066",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "025/066",
+   "name": "Mr. Mime-GX",
+   "v": "n"
+  },
+  {
+   "n": "026/066",
+   "name": "Gulpin",
+   "v": "n"
+  },
+  {
+   "n": "027/066",
+   "name": "Swalot",
+   "v": "n"
+  },
+  {
+   "n": "028/066",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "029/066",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "030/066",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "031/066",
+   "name": "Banette-GX",
+   "v": "n"
+  },
+  {
+   "n": "032/066",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "033/066",
+   "name": "Phanpy",
+   "v": "n"
+  },
+  {
+   "n": "034/066",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "035/066",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "036/066",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "037/066",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "038/066",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "039/066",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "040/066",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "041/066",
+   "name": "Scizor-GX",
+   "v": "n"
+  },
+  {
+   "n": "042/066",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "043/066",
+   "name": "Bagon",
+   "v": "n"
+  },
+  {
+   "n": "044/066",
+   "name": "Shelgon",
+   "v": "n"
+  },
+  {
+   "n": "045/066",
+   "name": "Salamence-GX",
+   "v": "n"
+  },
+  {
+   "n": "046/066",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "047/066",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "048/066",
+   "name": "Ho-Oh",
+   "v": "n"
+  },
+  {
+   "n": "049/066",
+   "name": "Slakoth",
+   "v": "n"
+  },
+  {
+   "n": "050/066",
+   "name": "Vigoroth",
+   "v": "n"
+  },
+  {
+   "n": "051/066",
+   "name": "Slaking",
+   "v": "n"
+  },
+  {
+   "n": "052/066",
+   "name": "Lure Ball",
+   "v": "n"
+  },
+  {
+   "n": "053/066",
+   "name": "Life Herb",
+   "v": "n"
+  },
+  {
+   "n": "054/066",
+   "name": "Super Scoop Up",
+   "v": "n"
+  },
+  {
+   "n": "055/066",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "056/066",
+   "name": "Energy Recycle System",
+   "v": "n"
+  },
+  {
+   "n": "057/066",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "058/066",
+   "name": "PokéNav",
+   "v": "n"
+  },
+  {
+   "n": "059/066",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "060/066",
+   "name": "Friend Ball",
+   "v": "n"
+  },
+  {
+   "n": "061/066",
+   "name": "TV Reporter",
+   "v": "n"
+  },
+  {
+   "n": "062/066",
+   "name": "Apricorn Maker",
+   "v": "n"
+  },
+  {
+   "n": "063/066",
+   "name": "Underground Expedition",
+   "v": "n"
+  },
+  {
+   "n": "064/066",
+   "name": "Bill's Maintenance",
+   "v": "n"
+  },
+  {
+   "n": "065/066",
+   "name": "Copycat",
+   "v": "n"
+  },
+  {
+   "n": "066/066",
+   "name": "Rainbow Energy",
+   "v": "n"
+  },
+  {
+   "n": "067/066",
+   "name": "Articuno-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/066",
+   "name": "Electrode-GX",
+   "v": "n"
+  },
+  {
+   "n": "069/066",
+   "name": "Mr. Mime-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/066",
+   "name": "Banette-GX",
+   "v": "n"
+  },
+  {
+   "n": "071/066",
+   "name": "Scizor-GX",
+   "v": "n"
+  },
+  {
+   "n": "072/066",
+   "name": "Salamence-GX",
+   "v": "n"
+  },
+  {
+   "n": "073/066",
+   "name": "TV Reporter",
+   "v": "n"
+  },
+  {
+   "n": "074/066",
+   "name": "Apricorn Maker",
+   "v": "n"
+  },
+  {
+   "n": "075/066",
+   "name": "Underground Expedition",
+   "v": "n"
+  },
+  {
+   "n": "076/066",
+   "name": "Bill's Maintenance",
+   "v": "n"
+  },
+  {
+   "n": "077/066",
+   "name": "Copycat",
+   "v": "n"
+  },
+  {
+   "n": "078/066",
+   "name": "Articuno-GX",
+   "v": "n"
+  },
+  {
+   "n": "079/066",
+   "name": "Electrode-GX",
+   "v": "n"
+  },
+  {
+   "n": "080/066",
+   "name": "Mr. Mime-GX",
+   "v": "n"
+  },
+  {
+   "n": "081/066",
+   "name": "Banette-GX",
+   "v": "n"
+  },
+  {
+   "n": "082/066",
+   "name": "Scizor-GX",
+   "v": "n"
+  },
+  {
+   "n": "083/066",
+   "name": "Salamence-GX",
+   "v": "n"
+  },
+  {
+   "n": "084/066",
+   "name": "Life Herb",
+   "v": "n"
+  },
+  {
+   "n": "085/066",
+   "name": "PokéNav",
+   "v": "n"
+  },
+  {
+   "n": "086/066",
+   "name": "Rainbow Energy",
+   "v": "n"
+  }
+ ]
+}

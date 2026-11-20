@@ -1,0 +1,480 @@
+{
+ "id": "S10b",
+ "name": "Pokémon GO",
+ "name_en": "Pokémon GO",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2022-06-17",
+ "official": 71,
+ "abbr": "S10b",
+ "logo": "img/logos/ja/S10b.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/071",
+   "name": "Bulbasaur",
+   "v": "n"
+  },
+  {
+   "n": "002/071",
+   "name": "Ivysaur",
+   "v": "n"
+  },
+  {
+   "n": "003/071",
+   "name": "Venusaur",
+   "v": "n"
+  },
+  {
+   "n": "004/071",
+   "name": "Radiant Venusaur",
+   "v": "n"
+  },
+  {
+   "n": "005/071",
+   "name": "Alolan Exeggutor V",
+   "v": "n"
+  },
+  {
+   "n": "006/071",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "007/071",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "008/071",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "009/071",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "010/071",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "011/071",
+   "name": "Radiant Charizard",
+   "v": "n"
+  },
+  {
+   "n": "012/071",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "013/071",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "014/071",
+   "name": "Camerupt",
+   "v": "n"
+  },
+  {
+   "n": "015/071",
+   "name": "Squirtle",
+   "v": "n"
+  },
+  {
+   "n": "016/071",
+   "name": "Wartortle",
+   "v": "n"
+  },
+  {
+   "n": "017/071",
+   "name": "Blastoise",
+   "v": "n"
+  },
+  {
+   "n": "018/071",
+   "name": "Radiant Blastoise",
+   "v": "n"
+  },
+  {
+   "n": "019/071",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "020/071",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "021/071",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "022/071",
+   "name": "Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "023/071",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "024/071",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "025/071",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "026/071",
+   "name": "Golisopod",
+   "v": "n"
+  },
+  {
+   "n": "027/071",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "028/071",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "029/071",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "030/071",
+   "name": "Mewtwo V",
+   "v": "n"
+  },
+  {
+   "n": "031/071",
+   "name": "Mewtwo VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "032/071",
+   "name": "Natu",
+   "v": "n"
+  },
+  {
+   "n": "033/071",
+   "name": "Xatu",
+   "v": "n"
+  },
+  {
+   "n": "034/071",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "035/071",
+   "name": "Sylveon",
+   "v": "n"
+  },
+  {
+   "n": "036/071",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "037/071",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "038/071",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "039/071",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "040/071",
+   "name": "Conkeldurr V",
+   "v": "n"
+  },
+  {
+   "n": "041/071",
+   "name": "Alolan Rattata",
+   "v": "n"
+  },
+  {
+   "n": "042/071",
+   "name": "Alolan Raticate",
+   "v": "n"
+  },
+  {
+   "n": "043/071",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "044/071",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "045/071",
+   "name": "Meltan",
+   "v": "n"
+  },
+  {
+   "n": "046/071",
+   "name": "Melmetal",
+   "v": "n"
+  },
+  {
+   "n": "047/071",
+   "name": "Melmetal V",
+   "v": "n"
+  },
+  {
+   "n": "048/071",
+   "name": "Melmetal VMAX",
+   "v": "n"
+  },
+  {
+   "n": "049/071",
+   "name": "Dragonite V",
+   "v": "n"
+  },
+  {
+   "n": "050/071",
+   "name": "Dragonite VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "051/071",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "052/071",
+   "name": "Blissey",
+   "v": "n"
+  },
+  {
+   "n": "053/071",
+   "name": "Ditto",
+   "v": "n"
+  },
+  {
+   "n": "054/071",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "055/071",
+   "name": "Radiant Eevee",
+   "v": "n"
+  },
+  {
+   "n": "056/071",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "057/071",
+   "name": "Aipom",
+   "v": "n"
+  },
+  {
+   "n": "058/071",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "059/071",
+   "name": "Slaking V",
+   "v": "n"
+  },
+  {
+   "n": "060/071",
+   "name": "Bidoof",
+   "v": "n"
+  },
+  {
+   "n": "061/071",
+   "name": "Bibarel",
+   "v": "n"
+  },
+  {
+   "n": "062/071",
+   "name": "Pidove",
+   "v": "n"
+  },
+  {
+   "n": "063/071",
+   "name": "Tranquill",
+   "v": "n"
+  },
+  {
+   "n": "064/071",
+   "name": "Unfezant",
+   "v": "n"
+  },
+  {
+   "n": "065/071",
+   "name": "Lure Module",
+   "v": "n"
+  },
+  {
+   "n": "066/071",
+   "name": "Egg Incubator",
+   "v": "n"
+  },
+  {
+   "n": "067/071",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "068/071",
+   "name": "Blanche",
+   "v": "n"
+  },
+  {
+   "n": "069/071",
+   "name": "Spark",
+   "v": "n"
+  },
+  {
+   "n": "070/071",
+   "name": "Candela",
+   "v": "n"
+  },
+  {
+   "n": "071/071",
+   "name": "PokéStop",
+   "v": "n"
+  },
+  {
+   "n": "072/071",
+   "name": "Alolan Exeggutor V",
+   "v": "n"
+  },
+  {
+   "n": "073/071",
+   "name": "Mewtwo V",
+   "v": "n"
+  },
+  {
+   "n": "074/071",
+   "name": "Mewtwo V",
+   "v": "n"
+  },
+  {
+   "n": "075/071",
+   "name": "Conkeldurr V",
+   "v": "n"
+  },
+  {
+   "n": "076/071",
+   "name": "Conkeldurr V",
+   "v": "n"
+  },
+  {
+   "n": "077/071",
+   "name": "Melmetal V",
+   "v": "n"
+  },
+  {
+   "n": "078/071",
+   "name": "Dragonite V",
+   "v": "n"
+  },
+  {
+   "n": "079/071",
+   "name": "Slaking V",
+   "v": "n"
+  },
+  {
+   "n": "080/071",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "081/071",
+   "name": "Blanche",
+   "v": "n"
+  },
+  {
+   "n": "082/071",
+   "name": "Spark",
+   "v": "n"
+  },
+  {
+   "n": "083/071",
+   "name": "Candela",
+   "v": "n"
+  },
+  {
+   "n": "084/071",
+   "name": "Mewtwo VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "085/071",
+   "name": "Melmetal VMAX",
+   "v": "n"
+  },
+  {
+   "n": "086/071",
+   "name": "Dragonite VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "087/071",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "088/071",
+   "name": "Blanche",
+   "v": "n"
+  },
+  {
+   "n": "089/071",
+   "name": "Spark",
+   "v": "n"
+  },
+  {
+   "n": "090/071",
+   "name": "Candela",
+   "v": "n"
+  },
+  {
+   "n": "091/071",
+   "name": "Mewtwo VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "092/071",
+   "name": "Lure Module",
+   "v": "n"
+  },
+  {
+   "n": "093/071",
+   "name": "Egg Incubator",
+   "v": "n"
+  }
+ ]
+}

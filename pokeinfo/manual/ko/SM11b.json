@@ -1,0 +1,390 @@
+{
+ "id": "SM11b",
+ "name": "드림리그",
+ "name_en": "Dream League",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-08-02",
+ "official": 49,
+ "abbr": "SM11b",
+ "logo": "img/logos/ja/SM11b.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/049",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "002/049",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "003/049",
+   "name": "Vileplume-GX",
+   "v": "n"
+  },
+  {
+   "n": "004/049",
+   "name": "Slugma",
+   "v": "n"
+  },
+  {
+   "n": "005/049",
+   "name": "Magcargo",
+   "v": "n"
+  },
+  {
+   "n": "006/049",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "007/049",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "008/049",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "009/049",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "010/049",
+   "name": "Prinplup",
+   "v": "n"
+  },
+  {
+   "n": "011/049",
+   "name": "Empoleon",
+   "v": "n"
+  },
+  {
+   "n": "012/049",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "013/049",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "014/049",
+   "name": "Dewpider",
+   "v": "n"
+  },
+  {
+   "n": "015/049",
+   "name": "Araquanid",
+   "v": "n"
+  },
+  {
+   "n": "016/049",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "017/049",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "018/049",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "019/049",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "020/049",
+   "name": "Solgaleo & Lunala-GX",
+   "v": "n"
+  },
+  {
+   "n": "021/049",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "022/049",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "023/049",
+   "name": "Natu",
+   "v": "n"
+  },
+  {
+   "n": "024/049",
+   "name": "Xatu",
+   "v": "n"
+  },
+  {
+   "n": "025/049",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "026/049",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "027/049",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "028/049",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "029/049",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "030/049",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "031/049",
+   "name": "Excadrill",
+   "v": "n"
+  },
+  {
+   "n": "032/049",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "033/049",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "034/049",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "035/049",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "036/049",
+   "name": "Reshiram & Zekrom-GX",
+   "v": "n"
+  },
+  {
+   "n": "037/049",
+   "name": "Lillipup",
+   "v": "n"
+  },
+  {
+   "n": "038/049",
+   "name": "Herdier",
+   "v": "n"
+  },
+  {
+   "n": "039/049",
+   "name": "Stoutland",
+   "v": "n"
+  },
+  {
+   "n": "040/049",
+   "name": "Type: Null",
+   "v": "n"
+  },
+  {
+   "n": "041/049",
+   "name": "Silvally-GX",
+   "v": "n"
+  },
+  {
+   "n": "042/049",
+   "name": "Lillie's Poké Doll",
+   "v": "n"
+  },
+  {
+   "n": "043/049",
+   "name": "Lana's Fishing Rod",
+   "v": "n"
+  },
+  {
+   "n": "044/049",
+   "name": "N's Resolve",
+   "v": "n"
+  },
+  {
+   "n": "045/049",
+   "name": "Lillie's Full Force",
+   "v": "n"
+  },
+  {
+   "n": "046/049",
+   "name": "Rosa",
+   "v": "n"
+  },
+  {
+   "n": "047/049",
+   "name": "Roxie",
+   "v": "n"
+  },
+  {
+   "n": "048/049",
+   "name": "Clay",
+   "v": "n"
+  },
+  {
+   "n": "049/049",
+   "name": "Will",
+   "v": "n"
+  },
+  {
+   "n": "050/049",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "051/049",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "052/049",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "053/049",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "054/049",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "055/049",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "056/049",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "057/049",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "058/049",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "059/049",
+   "name": "Excadrill",
+   "v": "n"
+  },
+  {
+   "n": "060/049",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "061/049",
+   "name": "Stoutland",
+   "v": "n"
+  },
+  {
+   "n": "062/049",
+   "name": "Vileplume-GX",
+   "v": "n"
+  },
+  {
+   "n": "063/049",
+   "name": "Solgaleo & Lunala-GX",
+   "v": "n"
+  },
+  {
+   "n": "064/049",
+   "name": "Reshiram & Zekrom-GX",
+   "v": "n"
+  },
+  {
+   "n": "065/049",
+   "name": "Silvally-GX",
+   "v": "n"
+  },
+  {
+   "n": "066/049",
+   "name": "N's Resolve",
+   "v": "n"
+  },
+  {
+   "n": "067/049",
+   "name": "Lillie's Full Force",
+   "v": "n"
+  },
+  {
+   "n": "068/049",
+   "name": "Rosa",
+   "v": "n"
+  },
+  {
+   "n": "069/049",
+   "name": "Vileplume-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/049",
+   "name": "Solgaleo & Lunala-GX",
+   "v": "n"
+  },
+  {
+   "n": "071/049",
+   "name": "Reshiram & Zekrom-GX",
+   "v": "n"
+  },
+  {
+   "n": "072/049",
+   "name": "Silvally-GX",
+   "v": "n"
+  },
+  {
+   "n": "073/049",
+   "name": "Lillie's Poké Doll",
+   "v": "n"
+  },
+  {
+   "n": "074/049",
+   "name": "Lana's Fishing Rod",
+   "v": "n"
+  },
+  {
+   "n": "075/049",
+   "name": "Power Plant",
+   "v": "n"
+  }
+ ]
+}

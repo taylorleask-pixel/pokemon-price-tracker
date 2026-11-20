@@ -1,0 +1,530 @@
+{
+ "id": "SV1a",
+ "name": "트리플렛비트",
+ "name_en": "Triplet Beat",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2023-03-10",
+ "official": 73,
+ "abbr": "SV1a",
+ "logo": "img/logos/ja/SV1a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/073",
+   "name": "Tropius",
+   "v": "n"
+  },
+  {
+   "n": "002/073",
+   "name": "Foongus",
+   "v": "n"
+  },
+  {
+   "n": "003/073",
+   "name": "Amoonguss",
+   "v": "n"
+  },
+  {
+   "n": "004/073",
+   "name": "Sprigatito",
+   "v": "n"
+  },
+  {
+   "n": "005/073",
+   "name": "Sprigatito",
+   "v": "n"
+  },
+  {
+   "n": "006/073",
+   "name": "Floragato",
+   "v": "n"
+  },
+  {
+   "n": "007/073",
+   "name": "Meowscarada ex",
+   "v": "n"
+  },
+  {
+   "n": "008/073",
+   "name": "Nymble",
+   "v": "n"
+  },
+  {
+   "n": "009/073",
+   "name": "Nymble",
+   "v": "n"
+  },
+  {
+   "n": "010/073",
+   "name": "Lokix",
+   "v": "n"
+  },
+  {
+   "n": "011/073",
+   "name": "Paldean Tauros",
+   "v": "n"
+  },
+  {
+   "n": "012/073",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "013/073",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "014/073",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "015/073",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "016/073",
+   "name": "Oricorio",
+   "v": "n"
+  },
+  {
+   "n": "017/073",
+   "name": "Fuecoco",
+   "v": "n"
+  },
+  {
+   "n": "018/073",
+   "name": "Fuecoco",
+   "v": "n"
+  },
+  {
+   "n": "019/073",
+   "name": "Crocalor",
+   "v": "n"
+  },
+  {
+   "n": "020/073",
+   "name": "Skeledirge ex",
+   "v": "n"
+  },
+  {
+   "n": "021/073",
+   "name": "Paldean Tauros",
+   "v": "n"
+  },
+  {
+   "n": "022/073",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "023/073",
+   "name": "Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "024/073",
+   "name": "Delibird",
+   "v": "n"
+  },
+  {
+   "n": "025/073",
+   "name": "Buizel",
+   "v": "n"
+  },
+  {
+   "n": "026/073",
+   "name": "Floatzel",
+   "v": "n"
+  },
+  {
+   "n": "027/073",
+   "name": "Quaxly",
+   "v": "n"
+  },
+  {
+   "n": "028/073",
+   "name": "Quaxly",
+   "v": "n"
+  },
+  {
+   "n": "029/073",
+   "name": "Quaxwell",
+   "v": "n"
+  },
+  {
+   "n": "030/073",
+   "name": "Quaquaval ex",
+   "v": "n"
+  },
+  {
+   "n": "031/073",
+   "name": "Wattrel",
+   "v": "n"
+  },
+  {
+   "n": "032/073",
+   "name": "Wattrel",
+   "v": "n"
+  },
+  {
+   "n": "033/073",
+   "name": "Kilowattrel",
+   "v": "n"
+  },
+  {
+   "n": "034/073",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "035/073",
+   "name": "Mismagius",
+   "v": "n"
+  },
+  {
+   "n": "036/073",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "037/073",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "038/073",
+   "name": "Dedenne ex",
+   "v": "n"
+  },
+  {
+   "n": "039/073",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "040/073",
+   "name": "Tinkatink",
+   "v": "n"
+  },
+  {
+   "n": "041/073",
+   "name": "Tinkatink",
+   "v": "n"
+  },
+  {
+   "n": "042/073",
+   "name": "Tinkatuff",
+   "v": "n"
+  },
+  {
+   "n": "043/073",
+   "name": "Tinkaton",
+   "v": "n"
+  },
+  {
+   "n": "044/073",
+   "name": "Diglett",
+   "v": "n"
+  },
+  {
+   "n": "045/073",
+   "name": "Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "046/073",
+   "name": "Paldean Tauros",
+   "v": "n"
+  },
+  {
+   "n": "047/073",
+   "name": "Makuhita",
+   "v": "n"
+  },
+  {
+   "n": "048/073",
+   "name": "Hariyama",
+   "v": "n"
+  },
+  {
+   "n": "049/073",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "050/073",
+   "name": "Lycanroc ex",
+   "v": "n"
+  },
+  {
+   "n": "051/073",
+   "name": "Falinks",
+   "v": "n"
+  },
+  {
+   "n": "052/073",
+   "name": "Paldean Wooper",
+   "v": "n"
+  },
+  {
+   "n": "053/073",
+   "name": "Paldean Wooper",
+   "v": "n"
+  },
+  {
+   "n": "054/073",
+   "name": "Paldean Clodsire ex",
+   "v": "n"
+  },
+  {
+   "n": "055/073",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "056/073",
+   "name": "Seviper",
+   "v": "n"
+  },
+  {
+   "n": "057/073",
+   "name": "Deino",
+   "v": "n"
+  },
+  {
+   "n": "058/073",
+   "name": "Zweilous",
+   "v": "n"
+  },
+  {
+   "n": "059/073",
+   "name": "Hydreigon",
+   "v": "n"
+  },
+  {
+   "n": "060/073",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "061/073",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "062/073",
+   "name": "Yungoos",
+   "v": "n"
+  },
+  {
+   "n": "063/073",
+   "name": "Gumshoos",
+   "v": "n"
+  },
+  {
+   "n": "064/073",
+   "name": "Superior Energy Retrieval",
+   "v": "n"
+  },
+  {
+   "n": "065/073",
+   "name": "Great Ball",
+   "v": "n"
+  },
+  {
+   "n": "066/073",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "067/073",
+   "name": "Falkner",
+   "v": "n"
+  },
+  {
+   "n": "068/073",
+   "name": "Dendra",
+   "v": "n"
+  },
+  {
+   "n": "069/073",
+   "name": "Clavell",
+   "v": "n"
+  },
+  {
+   "n": "070/073",
+   "name": "Practice Studio",
+   "v": "n"
+  },
+  {
+   "n": "071/073",
+   "name": "Artazon",
+   "v": "n"
+  },
+  {
+   "n": "072/073",
+   "name": "Luminous Energy",
+   "v": "n"
+  },
+  {
+   "n": "073/073",
+   "name": "Jet Energy",
+   "v": "n"
+  },
+  {
+   "n": "074/073",
+   "name": "Tropius",
+   "v": "n"
+  },
+  {
+   "n": "075/073",
+   "name": "Sprigatito",
+   "v": "n"
+  },
+  {
+   "n": "076/073",
+   "name": "Floragato",
+   "v": "n"
+  },
+  {
+   "n": "077/073",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "078/073",
+   "name": "Fuecoco",
+   "v": "n"
+  },
+  {
+   "n": "079/073",
+   "name": "Crocalor",
+   "v": "n"
+  },
+  {
+   "n": "080/073",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "081/073",
+   "name": "Quaxly",
+   "v": "n"
+  },
+  {
+   "n": "082/073",
+   "name": "Quaxwell",
+   "v": "n"
+  },
+  {
+   "n": "083/073",
+   "name": "Mismagius",
+   "v": "n"
+  },
+  {
+   "n": "084/073",
+   "name": "Paldean Tauros",
+   "v": "n"
+  },
+  {
+   "n": "085/073",
+   "name": "Paldean Wooper",
+   "v": "n"
+  },
+  {
+   "n": "086/073",
+   "name": "Meowscarada ex",
+   "v": "n"
+  },
+  {
+   "n": "087/073",
+   "name": "Skeledirge ex",
+   "v": "n"
+  },
+  {
+   "n": "088/073",
+   "name": "Quaquaval ex",
+   "v": "n"
+  },
+  {
+   "n": "089/073",
+   "name": "Dedenne ex",
+   "v": "n"
+  },
+  {
+   "n": "090/073",
+   "name": "Lycanroc ex",
+   "v": "n"
+  },
+  {
+   "n": "091/073",
+   "name": "Paldean Clodsire ex",
+   "v": "n"
+  },
+  {
+   "n": "092/073",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "093/073",
+   "name": "Falkner",
+   "v": "n"
+  },
+  {
+   "n": "094/073",
+   "name": "Dendra",
+   "v": "n"
+  },
+  {
+   "n": "095/073",
+   "name": "Clavell",
+   "v": "n"
+  },
+  {
+   "n": "096/073",
+   "name": "Meowscarada ex",
+   "v": "n"
+  },
+  {
+   "n": "097/073",
+   "name": "Skeledirge ex",
+   "v": "n"
+  },
+  {
+   "n": "098/073",
+   "name": "Quaquaval ex",
+   "v": "n"
+  },
+  {
+   "n": "099/073",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "100/073",
+   "name": "Dendra",
+   "v": "n"
+  },
+  {
+   "n": "101/073",
+   "name": "Meowscarada ex",
+   "v": "n"
+  },
+  {
+   "n": "102/073",
+   "name": "Skeledirge ex",
+   "v": "n"
+  },
+  {
+   "n": "103/073",
+   "name": "Quaquaval ex",
+   "v": "n"
+  }
+ ]
+}

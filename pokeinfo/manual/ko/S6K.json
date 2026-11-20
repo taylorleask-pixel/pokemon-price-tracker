@@ -1,0 +1,490 @@
+{
+ "id": "S6K",
+ "name": "칠흑의 가이스트",
+ "name_en": "Jet-Black Spirit",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2021-04-23",
+ "official": 70,
+ "abbr": "S6K",
+ "logo": "img/logos/ja/S6K.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Ledyba",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Ledian",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Celebi V",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Celebi VMAX",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Seedot",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Grookey",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Thwackey",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Rillaboom",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Castform Rainy Form",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Luvdisc",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Tapu Fini",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Arctovish V",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Ampharos",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Zeraora V",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Gengar",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Cresselia",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Cutiefly",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Ribombee",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Shadow Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Shadow Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Crabrawler",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Crabominable",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Clobbopus",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Grapploct",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Galarian Weezing",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Nuzleaf",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Shiftry",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Metagross V",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Metagross VMAX",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Blissey V",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Castform",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Skwovet",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Greedent",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Fog Crystal",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Rapid Strike Scroll of Skies",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Justified Gloves",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Weeding Gloves",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Agatha",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Peonia",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Siebold",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Caitlin",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Old Cemetery",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Lucky Energy",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Spiral Energy",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Celebi V",
+   "v": "n"
+  },
+  {
+   "n": "072/070",
+   "name": "Arctovish V",
+   "v": "n"
+  },
+  {
+   "n": "073/070",
+   "name": "Zeraora V",
+   "v": "n"
+  },
+  {
+   "n": "074/070",
+   "name": "Zeraora V",
+   "v": "n"
+  },
+  {
+   "n": "075/070",
+   "name": "Shadow Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "076/070",
+   "name": "Shadow Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "077/070",
+   "name": "Metagross V",
+   "v": "n"
+  },
+  {
+   "n": "078/070",
+   "name": "Blissey V",
+   "v": "n"
+  },
+  {
+   "n": "079/070",
+   "name": "Blissey V",
+   "v": "n"
+  },
+  {
+   "n": "080/070",
+   "name": "Agatha",
+   "v": "n"
+  },
+  {
+   "n": "081/070",
+   "name": "Peonia",
+   "v": "n"
+  },
+  {
+   "n": "082/070",
+   "name": "Siebold",
+   "v": "n"
+  },
+  {
+   "n": "083/070",
+   "name": "Caitlin",
+   "v": "n"
+  },
+  {
+   "n": "084/070",
+   "name": "Celebi VMAX",
+   "v": "n"
+  },
+  {
+   "n": "085/070",
+   "name": "Shadow Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "086/070",
+   "name": "Shadow Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "087/070",
+   "name": "Metagross VMAX",
+   "v": "n"
+  },
+  {
+   "n": "088/070",
+   "name": "Agatha",
+   "v": "n"
+  },
+  {
+   "n": "089/070",
+   "name": "Peonia",
+   "v": "n"
+  },
+  {
+   "n": "090/070",
+   "name": "Siebold",
+   "v": "n"
+  },
+  {
+   "n": "091/070",
+   "name": "Caitlin",
+   "v": "n"
+  },
+  {
+   "n": "092/070",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "093/070",
+   "name": "Echoing Horn",
+   "v": "n"
+  },
+  {
+   "n": "094/070",
+   "name": "Fog Crystal",
+   "v": "n"
+  },
+  {
+   "n": "095/070",
+   "name": "Basic Psychic Energy",
+   "v": "n"
+  }
+ ]
+}

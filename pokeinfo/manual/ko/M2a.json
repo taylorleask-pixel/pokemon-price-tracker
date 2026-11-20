@@ -1,0 +1,1265 @@
+{
+ "id": "M2a",
+ "name": "MEGA Dream ex",
+ "name_en": "MEGA Dream ex",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2025-11-28",
+ "official": 193,
+ "abbr": "M2a",
+ "logo": "img/logos/ja/M2a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/193",
+   "name": "Ethan's Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "002/193",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "003/193",
+   "name": "Yanmega ex",
+   "v": "n"
+  },
+  {
+   "n": "004/193",
+   "name": "Wurmple",
+   "v": "n"
+  },
+  {
+   "n": "005/193",
+   "name": "Silcoon",
+   "v": "n"
+  },
+  {
+   "n": "006/193",
+   "name": "Beautifly",
+   "v": "n"
+  },
+  {
+   "n": "007/193",
+   "name": "Cascoon",
+   "v": "n"
+  },
+  {
+   "n": "008/193",
+   "name": "Dustox",
+   "v": "n"
+  },
+  {
+   "n": "009/193",
+   "name": "Cynthia's Roselia",
+   "v": "n"
+  },
+  {
+   "n": "010/193",
+   "name": "Cynthia's Roserade",
+   "v": "n"
+  },
+  {
+   "n": "011/193",
+   "name": "Budew",
+   "v": "n"
+  },
+  {
+   "n": "012/193",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "013/193",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "014/193",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "015/193",
+   "name": "Team Rocket's Tarountula",
+   "v": "n"
+  },
+  {
+   "n": "016/193",
+   "name": "Team Rocket's Spidops",
+   "v": "n"
+  },
+  {
+   "n": "017/193",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "018/193",
+   "name": "Ethan's Slugma",
+   "v": "n"
+  },
+  {
+   "n": "019/193",
+   "name": "Ethan's Magcargo",
+   "v": "n"
+  },
+  {
+   "n": "020/193",
+   "name": "Entei",
+   "v": "n"
+  },
+  {
+   "n": "021/193",
+   "name": "Ethan's Ho-Oh ex",
+   "v": "n"
+  },
+  {
+   "n": "022/193",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "023/193",
+   "name": "Camerupt",
+   "v": "n"
+  },
+  {
+   "n": "024/193",
+   "name": "Tepig",
+   "v": "n"
+  },
+  {
+   "n": "025/193",
+   "name": "Pignite",
+   "v": "n"
+  },
+  {
+   "n": "026/193",
+   "name": "Emboar",
+   "v": "n"
+  },
+  {
+   "n": "027/193",
+   "name": "N's Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "028/193",
+   "name": "N's Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "029/193",
+   "name": "Reshiram ex",
+   "v": "n"
+  },
+  {
+   "n": "030/193",
+   "name": "Charcadet",
+   "v": "n"
+  },
+  {
+   "n": "031/193",
+   "name": "Ceruledge ex",
+   "v": "n"
+  },
+  {
+   "n": "032/193",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "033/193",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "034/193",
+   "name": "Team Rocket's Articuno",
+   "v": "n"
+  },
+  {
+   "n": "035/193",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "036/193",
+   "name": "Mega Froslass ex",
+   "v": "n"
+  },
+  {
+   "n": "037/193",
+   "name": "N's Vanillite",
+   "v": "n"
+  },
+  {
+   "n": "038/193",
+   "name": "N's Vanillish",
+   "v": "n"
+  },
+  {
+   "n": "039/193",
+   "name": "N's Vanilluxe",
+   "v": "n"
+  },
+  {
+   "n": "040/193",
+   "name": "Snom",
+   "v": "n"
+  },
+  {
+   "n": "041/193",
+   "name": "Frosmoth",
+   "v": "n"
+  },
+  {
+   "n": "042/193",
+   "name": "Glastrier",
+   "v": "n"
+  },
+  {
+   "n": "043/193",
+   "name": "Chien-Pao",
+   "v": "n"
+  },
+  {
+   "n": "044/193",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "045/193",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "046/193",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "047/193",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "048/193",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "049/193",
+   "name": "Mega Eelektross ex",
+   "v": "n"
+  },
+  {
+   "n": "050/193",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "051/193",
+   "name": "Zekrom ex",
+   "v": "n"
+  },
+  {
+   "n": "052/193",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "053/193",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "054/193",
+   "name": "Tapu Koko",
+   "v": "n"
+  },
+  {
+   "n": "055/193",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "056/193",
+   "name": "Iono's Tadbulb",
+   "v": "n"
+  },
+  {
+   "n": "057/193",
+   "name": "Iono's Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "058/193",
+   "name": "Iono's Wattrel",
+   "v": "n"
+  },
+  {
+   "n": "059/193",
+   "name": "Iono's Kilowattrel",
+   "v": "n"
+  },
+  {
+   "n": "060/193",
+   "name": "Lillie's Clefairy ex",
+   "v": "n"
+  },
+  {
+   "n": "061/193",
+   "name": "Team Rocket's Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "062/193",
+   "name": "Team Rocket's Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "063/193",
+   "name": "Team Rocket's Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "064/193",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "065/193",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "066/193",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "067/193",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "068/193",
+   "name": "Mismagius",
+   "v": "n"
+  },
+  {
+   "n": "069/193",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "070/193",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "071/193",
+   "name": "Mega Gardevoir ex",
+   "v": "n"
+  },
+  {
+   "n": "072/193",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "073/193",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "074/193",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "075/193",
+   "name": "Latias ex",
+   "v": "n"
+  },
+  {
+   "n": "076/193",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "077/193",
+   "name": "Hop's Phantump",
+   "v": "n"
+  },
+  {
+   "n": "078/193",
+   "name": "Hop's Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "079/193",
+   "name": "Team Rocket's Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "080/193",
+   "name": "Spectrier",
+   "v": "n"
+  },
+  {
+   "n": "081/193",
+   "name": "Munkidori",
+   "v": "n"
+  },
+  {
+   "n": "082/193",
+   "name": "Team Rocket's Diglett",
+   "v": "n"
+  },
+  {
+   "n": "083/193",
+   "name": "Team Rocket's Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "084/193",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "085/193",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "086/193",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "087/193",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "088/193",
+   "name": "Cynthia's Gible",
+   "v": "n"
+  },
+  {
+   "n": "089/193",
+   "name": "Cynthia's Gabite",
+   "v": "n"
+  },
+  {
+   "n": "090/193",
+   "name": "Cynthia's Garchomp ex",
+   "v": "n"
+  },
+  {
+   "n": "091/193",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "092/193",
+   "name": "Mega Lucario ex",
+   "v": "n"
+  },
+  {
+   "n": "093/193",
+   "name": "Pancham",
+   "v": "n"
+  },
+  {
+   "n": "094/193",
+   "name": "Mega Hawlucha ex",
+   "v": "n"
+  },
+  {
+   "n": "095/193",
+   "name": "Rolycoly",
+   "v": "n"
+  },
+  {
+   "n": "096/193",
+   "name": "Carkol",
+   "v": "n"
+  },
+  {
+   "n": "097/193",
+   "name": "Coalossal",
+   "v": "n"
+  },
+  {
+   "n": "098/193",
+   "name": "Okidogi",
+   "v": "n"
+  },
+  {
+   "n": "099/193",
+   "name": "Team Rocket's Zubat",
+   "v": "n"
+  },
+  {
+   "n": "100/193",
+   "name": "Team Rocket's Golbat",
+   "v": "n"
+  },
+  {
+   "n": "101/193",
+   "name": "Team Rocket's Crobat ex",
+   "v": "n"
+  },
+  {
+   "n": "102/193",
+   "name": "Team Rocket's Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "103/193",
+   "name": "Team Rocket's Honchkrow",
+   "v": "n"
+  },
+  {
+   "n": "104/193",
+   "name": "Team Rocket's Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "105/193",
+   "name": "Galarian Zigzagoon",
+   "v": "n"
+  },
+  {
+   "n": "106/193",
+   "name": "Galarian Linoone",
+   "v": "n"
+  },
+  {
+   "n": "107/193",
+   "name": "Galarian Obstagoon",
+   "v": "n"
+  },
+  {
+   "n": "108/193",
+   "name": "Cynthia's Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "109/193",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "110/193",
+   "name": "Mega Scrafty ex",
+   "v": "n"
+  },
+  {
+   "n": "111/193",
+   "name": "N's Zorua",
+   "v": "n"
+  },
+  {
+   "n": "112/193",
+   "name": "N's Zoroark ex",
+   "v": "n"
+  },
+  {
+   "n": "113/193",
+   "name": "Pangoro",
+   "v": "n"
+  },
+  {
+   "n": "114/193",
+   "name": "Fezandipiti ex",
+   "v": "n"
+  },
+  {
+   "n": "115/193",
+   "name": "Pecharunt",
+   "v": "n"
+  },
+  {
+   "n": "116/193",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "117/193",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "118/193",
+   "name": "Kingambit",
+   "v": "n"
+  },
+  {
+   "n": "119/193",
+   "name": "Genesect ex",
+   "v": "n"
+  },
+  {
+   "n": "120/193",
+   "name": "Magearna",
+   "v": "n"
+  },
+  {
+   "n": "121/193",
+   "name": "Duraludon",
+   "v": "n"
+  },
+  {
+   "n": "122/193",
+   "name": "Archaludon ex",
+   "v": "n"
+  },
+  {
+   "n": "123/193",
+   "name": "Hop's Zacian ex",
+   "v": "n"
+  },
+  {
+   "n": "124/193",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "125/193",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "126/193",
+   "name": "Mega Dragonite ex",
+   "v": "n"
+  },
+  {
+   "n": "127/193",
+   "name": "Rayquaza",
+   "v": "n"
+  },
+  {
+   "n": "128/193",
+   "name": "N's Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "129/193",
+   "name": "N's Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "130/193",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "131/193",
+   "name": "Noivern",
+   "v": "n"
+  },
+  {
+   "n": "132/193",
+   "name": "Dreepy",
+   "v": "n"
+  },
+  {
+   "n": "133/193",
+   "name": "Drakloak",
+   "v": "n"
+  },
+  {
+   "n": "134/193",
+   "name": "Dragapult ex",
+   "v": "n"
+  },
+  {
+   "n": "135/193",
+   "name": "Tatsugiri",
+   "v": "n"
+  },
+  {
+   "n": "136/193",
+   "name": "Hop's Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "137/193",
+   "name": "Hoothoot",
+   "v": "n"
+  },
+  {
+   "n": "138/193",
+   "name": "Noctowl",
+   "v": "n"
+  },
+  {
+   "n": "139/193",
+   "name": "Fan Rotom",
+   "v": "n"
+  },
+  {
+   "n": "140/193",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "141/193",
+   "name": "Hop's Wooloo",
+   "v": "n"
+  },
+  {
+   "n": "142/193",
+   "name": "Hop's Dubwool",
+   "v": "n"
+  },
+  {
+   "n": "143/193",
+   "name": "Hop's Cramorant",
+   "v": "n"
+  },
+  {
+   "n": "144/193",
+   "name": "Terapagos",
+   "v": "n"
+  },
+  {
+   "n": "145/193",
+   "name": "Terapagos ex",
+   "v": "n"
+  },
+  {
+   "n": "146/193",
+   "name": "N's PP Up",
+   "v": "n"
+  },
+  {
+   "n": "147/193",
+   "name": "Enhanced Hammer",
+   "v": "n"
+  },
+  {
+   "n": "148/193",
+   "name": "Bug Catching Set",
+   "v": "n"
+  },
+  {
+   "n": "149/193",
+   "name": "Team Rocket's Transceiver",
+   "v": "n"
+  },
+  {
+   "n": "150/193",
+   "name": "Mega Signal",
+   "v": "n"
+  },
+  {
+   "n": "151/193",
+   "name": "Night Stretcher",
+   "v": "n"
+  },
+  {
+   "n": "152/193",
+   "name": "Sacred Ash",
+   "v": "n"
+  },
+  {
+   "n": "153/193",
+   "name": "Energy Recycler",
+   "v": "n"
+  },
+  {
+   "n": "154/193",
+   "name": "Glass Trumpet",
+   "v": "n"
+  },
+  {
+   "n": "155/193",
+   "name": "Buddy-Buddy Poffin",
+   "v": "n"
+  },
+  {
+   "n": "156/193",
+   "name": "Tera Orb",
+   "v": "n"
+  },
+  {
+   "n": "157/193",
+   "name": "Tool Scrapper",
+   "v": "n"
+  },
+  {
+   "n": "158/193",
+   "name": "Premium Power Pro",
+   "v": "n"
+  },
+  {
+   "n": "159/193",
+   "name": "Fighting Gong",
+   "v": "n"
+  },
+  {
+   "n": "160/193",
+   "name": "Hop's Bag",
+   "v": "n"
+  },
+  {
+   "n": "161/193",
+   "name": "Cynthia's Power Weight",
+   "v": "n"
+  },
+  {
+   "n": "162/193",
+   "name": "Thick Scale",
+   "v": "n"
+  },
+  {
+   "n": "163/193",
+   "name": "Brave Bangle",
+   "v": "n"
+  },
+  {
+   "n": "164/193",
+   "name": "Light Ball",
+   "v": "n"
+  },
+  {
+   "n": "165/193",
+   "name": "Counter Gain",
+   "v": "n"
+  },
+  {
+   "n": "166/193",
+   "name": "Air Balloon",
+   "v": "n"
+  },
+  {
+   "n": "167/193",
+   "name": "Hop's Choice Band",
+   "v": "n"
+  },
+  {
+   "n": "168/193",
+   "name": "Team Rocket's Petrel",
+   "v": "n"
+  },
+  {
+   "n": "169/193",
+   "name": "Team Rocket's Proton",
+   "v": "n"
+  },
+  {
+   "n": "170/193",
+   "name": "Team Rocket's Giovanni",
+   "v": "n"
+  },
+  {
+   "n": "171/193",
+   "name": "Team Rocket's Ariana",
+   "v": "n"
+  },
+  {
+   "n": "172/193",
+   "name": "Team Rocket's Archer",
+   "v": "n"
+  },
+  {
+   "n": "173/193",
+   "name": "Lillie's Determination",
+   "v": "n"
+  },
+  {
+   "n": "174/193",
+   "name": "Anthea and Concordia",
+   "v": "n"
+  },
+  {
+   "n": "175/193",
+   "name": "Surfer",
+   "v": "n"
+  },
+  {
+   "n": "176/193",
+   "name": "Ethan's Adventure",
+   "v": "n"
+  },
+  {
+   "n": "177/193",
+   "name": "Acerola's Mischief",
+   "v": "n"
+  },
+  {
+   "n": "178/193",
+   "name": "Iris's Fighting Spirit",
+   "v": "n"
+  },
+  {
+   "n": "179/193",
+   "name": "Canari",
+   "v": "n"
+  },
+  {
+   "n": "180/193",
+   "name": "Hilda",
+   "v": "n"
+  },
+  {
+   "n": "181/193",
+   "name": "N's Castle",
+   "v": "n"
+  },
+  {
+   "n": "182/193",
+   "name": "Gravity Mountain",
+   "v": "n"
+  },
+  {
+   "n": "183/193",
+   "name": "Levincia",
+   "v": "n"
+  },
+  {
+   "n": "184/193",
+   "name": "Team Rocket's Watchtower",
+   "v": "n"
+  },
+  {
+   "n": "185/193",
+   "name": "Team Rocket's Factory",
+   "v": "n"
+  },
+  {
+   "n": "186/193",
+   "name": "Mystery Garden",
+   "v": "n"
+  },
+  {
+   "n": "187/193",
+   "name": "Nighttime Mine",
+   "v": "n"
+  },
+  {
+   "n": "188/193",
+   "name": "Area Zero Underdepths",
+   "v": "n"
+  },
+  {
+   "n": "189/193",
+   "name": "Postwick",
+   "v": "n"
+  },
+  {
+   "n": "190/193",
+   "name": "Forest of Vitality",
+   "v": "n"
+  },
+  {
+   "n": "191/193",
+   "name": "Team Rocket's Energy",
+   "v": "n"
+  },
+  {
+   "n": "192/193",
+   "name": "Ignition Energy",
+   "v": "n"
+  },
+  {
+   "n": "193/193",
+   "name": "Prism Energy",
+   "v": "n"
+  },
+  {
+   "n": "194/193",
+   "name": "Beautifly",
+   "v": "n"
+  },
+  {
+   "n": "195/193",
+   "name": "Dustox",
+   "v": "n"
+  },
+  {
+   "n": "196/193",
+   "name": "Budew",
+   "v": "n"
+  },
+  {
+   "n": "197/193",
+   "name": "Ethan's Magcargo",
+   "v": "n"
+  },
+  {
+   "n": "198/193",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "199/193",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "200/193",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "201/193",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "202/193",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "203/193",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "204/193",
+   "name": "Hop's Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "205/193",
+   "name": "Team Rocket's Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "206/193",
+   "name": "Team Rocket's Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "207/193",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "208/193",
+   "name": "Cynthia's Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "209/193",
+   "name": "Galarian Obstagoon",
+   "v": "n"
+  },
+  {
+   "n": "210/193",
+   "name": "N's Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "211/193",
+   "name": "Dreepy",
+   "v": "n"
+  },
+  {
+   "n": "212/193",
+   "name": "Drakloak",
+   "v": "n"
+  },
+  {
+   "n": "213/193",
+   "name": "Fan Rotom",
+   "v": "n"
+  },
+  {
+   "n": "214/193",
+   "name": "N's PP Up",
+   "v": "n"
+  },
+  {
+   "n": "215/193",
+   "name": "Team Rocket's Transceiver",
+   "v": "n"
+  },
+  {
+   "n": "216/193",
+   "name": "Glass Trumpet",
+   "v": "n"
+  },
+  {
+   "n": "217/193",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "218/193",
+   "name": "Counter Gain",
+   "v": "n"
+  },
+  {
+   "n": "219/193",
+   "name": "Anthea and Concordia",
+   "v": "n"
+  },
+  {
+   "n": "220/193",
+   "name": "Canari",
+   "v": "n"
+  },
+  {
+   "n": "221/193",
+   "name": "Black Belt's Training",
+   "v": "n"
+  },
+  {
+   "n": "222/193",
+   "name": "Jamming Tower",
+   "v": "n"
+  },
+  {
+   "n": "223/193",
+   "name": "Mega Charizard X ex",
+   "v": "n"
+  },
+  {
+   "n": "224/193",
+   "name": "Mega Froslass ex",
+   "v": "n"
+  },
+  {
+   "n": "225/193",
+   "name": "Mega Eelektross ex",
+   "v": "n"
+  },
+  {
+   "n": "226/193",
+   "name": "Mega Gardevoir ex",
+   "v": "n"
+  },
+  {
+   "n": "227/193",
+   "name": "Mega Diancie ex",
+   "v": "n"
+  },
+  {
+   "n": "228/193",
+   "name": "Mega Lucario ex",
+   "v": "n"
+  },
+  {
+   "n": "229/193",
+   "name": "Mega Hawlucha ex",
+   "v": "n"
+  },
+  {
+   "n": "230/193",
+   "name": "Mega Gengar ex",
+   "v": "n"
+  },
+  {
+   "n": "231/193",
+   "name": "Mega Scrafty ex",
+   "v": "n"
+  },
+  {
+   "n": "232/193",
+   "name": "Mega Dragonite ex",
+   "v": "n"
+  },
+  {
+   "n": "233/193",
+   "name": "Mega Froslass ex",
+   "v": "n"
+  },
+  {
+   "n": "234/193",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "235/193",
+   "name": "Mega Eelektross ex",
+   "v": "n"
+  },
+  {
+   "n": "236/193",
+   "name": "Iono's Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "237/193",
+   "name": "Team Rocket's Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "238/193",
+   "name": "Mega Diancie ex",
+   "v": "n"
+  },
+  {
+   "n": "239/193",
+   "name": "Mega Hawlucha ex",
+   "v": "n"
+  },
+  {
+   "n": "240/193",
+   "name": "Mega Gengar ex",
+   "v": "n"
+  },
+  {
+   "n": "241/193",
+   "name": "Mega Scrafty ex",
+   "v": "n"
+  },
+  {
+   "n": "242/193",
+   "name": "N's Zoroark ex",
+   "v": "n"
+  },
+  {
+   "n": "243/193",
+   "name": "Marnie's Grimmsnarl ex",
+   "v": "n"
+  },
+  {
+   "n": "244/193",
+   "name": "Fezandipiti ex",
+   "v": "n"
+  },
+  {
+   "n": "245/193",
+   "name": "Steven's Metagross ex",
+   "v": "n"
+  },
+  {
+   "n": "246/193",
+   "name": "Mega Dragonite ex",
+   "v": "n"
+  },
+  {
+   "n": "247/193",
+   "name": "Surfer",
+   "v": "n"
+  },
+  {
+   "n": "248/193",
+   "name": "Iris's Fighting Spirit",
+   "v": "n"
+  },
+  {
+   "n": "249/193",
+   "name": "Canari",
+   "v": "n"
+  },
+  {
+   "n": "250/193",
+   "name": "Mega Dragonite ex",
+   "v": "n"
+  }
+ ]
+}

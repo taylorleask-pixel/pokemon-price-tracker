@@ -1,0 +1,325 @@
+{
+ "id": "SM2K",
+ "name": "알로라의 햇빛",
+ "name_en": "Islands Await You",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2017-03-17",
+ "official": 50,
+ "abbr": "SM2K",
+ "logo": "img/logos/ja/SM2K.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/050",
+   "name": "Bellsprout",
+   "v": "n"
+  },
+  {
+   "n": "002/050",
+   "name": "Weepinbell",
+   "v": "n"
+  },
+  {
+   "n": "003/050",
+   "name": "Victreebel",
+   "v": "n"
+  },
+  {
+   "n": "004/050",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "005/050",
+   "name": "Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "006/050",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "007/050",
+   "name": "Golisopod",
+   "v": "n"
+  },
+  {
+   "n": "008/050",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "009/050",
+   "name": "Turtonator-GX",
+   "v": "n"
+  },
+  {
+   "n": "010/050",
+   "name": "Alolan Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "011/050",
+   "name": "Alolan Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "012/050",
+   "name": "Alolan Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "013/050",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "014/050",
+   "name": "Delibird",
+   "v": "n"
+  },
+  {
+   "n": "015/050",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "016/050",
+   "name": "Glalie",
+   "v": "n"
+  },
+  {
+   "n": "017/050",
+   "name": "Vanillite",
+   "v": "n"
+  },
+  {
+   "n": "018/050",
+   "name": "Vanillish",
+   "v": "n"
+  },
+  {
+   "n": "019/050",
+   "name": "Vanilluxe",
+   "v": "n"
+  },
+  {
+   "n": "020/050",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "021/050",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "022/050",
+   "name": "Tapu Koko-GX",
+   "v": "n"
+  },
+  {
+   "n": "023/050",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "024/050",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "025/050",
+   "name": "Gothita",
+   "v": "n"
+  },
+  {
+   "n": "026/050",
+   "name": "Gothorita",
+   "v": "n"
+  },
+  {
+   "n": "027/050",
+   "name": "Gothitelle",
+   "v": "n"
+  },
+  {
+   "n": "028/050",
+   "name": "Machop",
+   "v": "n"
+  },
+  {
+   "n": "029/050",
+   "name": "Machoke",
+   "v": "n"
+  },
+  {
+   "n": "030/050",
+   "name": "Machamp",
+   "v": "n"
+  },
+  {
+   "n": "031/050",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "032/050",
+   "name": "Barboach",
+   "v": "n"
+  },
+  {
+   "n": "033/050",
+   "name": "Whiscash",
+   "v": "n"
+  },
+  {
+   "n": "034/050",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "035/050",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "036/050",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "037/050",
+   "name": "Comfey",
+   "v": "n"
+  },
+  {
+   "n": "038/050",
+   "name": "Drampa",
+   "v": "n"
+  },
+  {
+   "n": "039/050",
+   "name": "Jangmo-o",
+   "v": "n"
+  },
+  {
+   "n": "040/050",
+   "name": "Hakamo-o",
+   "v": "n"
+  },
+  {
+   "n": "041/050",
+   "name": "Kommo-o-GX",
+   "v": "n"
+  },
+  {
+   "n": "042/050",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "043/050",
+   "name": "Blissey",
+   "v": "n"
+  },
+  {
+   "n": "044/050",
+   "name": "Taillow",
+   "v": "n"
+  },
+  {
+   "n": "045/050",
+   "name": "Swellow",
+   "v": "n"
+  },
+  {
+   "n": "046/050",
+   "name": "Komala",
+   "v": "n"
+  },
+  {
+   "n": "047/050",
+   "name": "Energy Loto",
+   "v": "n"
+  },
+  {
+   "n": "048/050",
+   "name": "Field Blower",
+   "v": "n"
+  },
+  {
+   "n": "049/050",
+   "name": "Hala",
+   "v": "n"
+  },
+  {
+   "n": "050/050",
+   "name": "Aether Paradise Conservation Area",
+   "v": "n"
+  },
+  {
+   "n": "051/050",
+   "name": "Turtonator-GX",
+   "v": "n"
+  },
+  {
+   "n": "052/050",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "053/050",
+   "name": "Tapu Koko-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/050",
+   "name": "Kommo-o-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/050",
+   "name": "Hala",
+   "v": "n"
+  },
+  {
+   "n": "056/050",
+   "name": "Turtonator-GX",
+   "v": "n"
+  },
+  {
+   "n": "057/050",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "058/050",
+   "name": "Tapu Koko-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/050",
+   "name": "Kommo-o-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/050",
+   "name": "Field Blower",
+   "v": "n"
+  },
+  {
+   "n": "061/050",
+   "name": "Max Potion",
+   "v": "n"
+  },
+  {
+   "n": "062/050",
+   "name": "Lightning Energy",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "id": "SM9a",
+ "name": "나이트유니슨",
+ "name_en": "Night Unison",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-01-11",
+ "official": 55,
+ "abbr": "SM9a",
+ "logo": "img/logos/ja/SM9a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/055",
+   "name": "Venonat",
+   "v": "n"
+  },
+  {
+   "n": "002/055",
+   "name": "Venomoth-GX",
+   "v": "n"
+  },
+  {
+   "n": "003/055",
+   "name": "Bellsprout",
+   "v": "n"
+  },
+  {
+   "n": "004/055",
+   "name": "Weepinbell",
+   "v": "n"
+  },
+  {
+   "n": "005/055",
+   "name": "Victreebel",
+   "v": "n"
+  },
+  {
+   "n": "006/055",
+   "name": "Grubbin",
+   "v": "n"
+  },
+  {
+   "n": "007/055",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "008/055",
+   "name": "Tentacruel",
+   "v": "n"
+  },
+  {
+   "n": "009/055",
+   "name": "Goldeen",
+   "v": "n"
+  },
+  {
+   "n": "010/055",
+   "name": "Seaking",
+   "v": "n"
+  },
+  {
+   "n": "011/055",
+   "name": "Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "012/055",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "013/055",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "014/055",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "015/055",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "016/055",
+   "name": "Dedenne-GX",
+   "v": "n"
+  },
+  {
+   "n": "017/055",
+   "name": "Charjabug",
+   "v": "n"
+  },
+  {
+   "n": "018/055",
+   "name": "Vikavolt",
+   "v": "n"
+  },
+  {
+   "n": "019/055",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "020/055",
+   "name": "Marshadow",
+   "v": "n"
+  },
+  {
+   "n": "021/055",
+   "name": "Wooper",
+   "v": "n"
+  },
+  {
+   "n": "022/055",
+   "name": "Quagsire",
+   "v": "n"
+  },
+  {
+   "n": "023/055",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "024/055",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "025/055",
+   "name": "Greninja & Zoroark-GX",
+   "v": "n"
+  },
+  {
+   "n": "026/055",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "027/055",
+   "name": "Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "028/055",
+   "name": "Greninja",
+   "v": "n"
+  },
+  {
+   "n": "029/055",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "030/055",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "031/055",
+   "name": "Gardevoir & Sylveon-GX",
+   "v": "n"
+  },
+  {
+   "n": "032/055",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "033/055",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "034/055",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "035/055",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "036/055",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "037/055",
+   "name": "Spritzee",
+   "v": "n"
+  },
+  {
+   "n": "038/055",
+   "name": "Aromatisse",
+   "v": "n"
+  },
+  {
+   "n": "039/055",
+   "name": "Rattata",
+   "v": "n"
+  },
+  {
+   "n": "040/055",
+   "name": "Raticate",
+   "v": "n"
+  },
+  {
+   "n": "041/055",
+   "name": "Lickitung",
+   "v": "n"
+  },
+  {
+   "n": "042/055",
+   "name": "Lickilicky",
+   "v": "n"
+  },
+  {
+   "n": "043/055",
+   "name": "Surprise Box",
+   "v": "n"
+  },
+  {
+   "n": "044/055",
+   "name": "Electromagnetic Radar",
+   "v": "n"
+  },
+  {
+   "n": "045/055",
+   "name": "Pokégear 3.0",
+   "v": "n"
+  },
+  {
+   "n": "046/055",
+   "name": "Stealthy Hood",
+   "v": "n"
+  },
+  {
+   "n": "047/055",
+   "name": "Fairy Charm Lightning",
+   "v": "n"
+  },
+  {
+   "n": "048/055",
+   "name": "Fairy Charm Ability",
+   "v": "n"
+  },
+  {
+   "n": "049/055",
+   "name": "Janine",
+   "v": "n"
+  },
+  {
+   "n": "050/055",
+   "name": "Koga's Trap",
+   "v": "n"
+  },
+  {
+   "n": "051/055",
+   "name": "Lt. Surge's Strategy",
+   "v": "n"
+  },
+  {
+   "n": "052/055",
+   "name": "Enhanced Hammer",
+   "v": "n"
+  },
+  {
+   "n": "053/055",
+   "name": "Electropower",
+   "v": "n"
+  },
+  {
+   "n": "054/055",
+   "name": "Max Potion",
+   "v": "n"
+  },
+  {
+   "n": "055/055",
+   "name": "Guzma",
+   "v": "n"
+  },
+  {
+   "n": "056/055",
+   "name": "Venomoth-GX",
+   "v": "n"
+  },
+  {
+   "n": "057/055",
+   "name": "Dedenne-GX",
+   "v": "n"
+  },
+  {
+   "n": "058/055",
+   "name": "Greninja & Zoroark-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/055",
+   "name": "Greninja & Zoroark-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/055",
+   "name": "Gardevoir & Sylveon-GX",
+   "v": "n"
+  },
+  {
+   "n": "061/055",
+   "name": "Gardevoir & Sylveon-GX",
+   "v": "n"
+  },
+  {
+   "n": "062/055",
+   "name": "Janine",
+   "v": "n"
+  },
+  {
+   "n": "063/055",
+   "name": "Koga's Trap",
+   "v": "n"
+  },
+  {
+   "n": "064/055",
+   "name": "Venomoth-GX",
+   "v": "n"
+  },
+  {
+   "n": "065/055",
+   "name": "Dedenne-GX",
+   "v": "n"
+  },
+  {
+   "n": "066/055",
+   "name": "Greninja & Zoroark-GX",
+   "v": "n"
+  },
+  {
+   "n": "067/055",
+   "name": "Gardevoir & Sylveon-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/055",
+   "name": "Electromagnetic Radar",
+   "v": "n"
+  },
+  {
+   "n": "069/055",
+   "name": "Pokégear 3.0",
+   "v": "n"
+  },
+  {
+   "n": "070/055",
+   "name": "Aether Paradise Conservation Area",
+   "v": "n"
+  }
+ ]
+}

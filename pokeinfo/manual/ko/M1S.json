@@ -1,0 +1,475 @@
+{
+ "id": "M1S",
+ "name": "Mega Symphonia",
+ "name_en": "Mega Symphonia",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2025-08-01",
+ "official": 63,
+ "abbr": "M1S",
+ "logo": "img/logos/ja/M1S.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/063",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "002/063",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "003/063",
+   "name": "Chikorita",
+   "v": "n"
+  },
+  {
+   "n": "004/063",
+   "name": "Bayleef",
+   "v": "n"
+  },
+  {
+   "n": "005/063",
+   "name": "Meganium",
+   "v": "n"
+  },
+  {
+   "n": "006/063",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "007/063",
+   "name": "Nincada",
+   "v": "n"
+  },
+  {
+   "n": "008/063",
+   "name": "Ninjask",
+   "v": "n"
+  },
+  {
+   "n": "009/063",
+   "name": "Dhelmise",
+   "v": "n"
+  },
+  {
+   "n": "010/063",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "011/063",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "012/063",
+   "name": "Sizzlipede",
+   "v": "n"
+  },
+  {
+   "n": "013/063",
+   "name": "Centiskorch",
+   "v": "n"
+  },
+  {
+   "n": "014/063",
+   "name": "Chi-Yu",
+   "v": "n"
+  },
+  {
+   "n": "015/063",
+   "name": "Mantine",
+   "v": "n"
+  },
+  {
+   "n": "016/063",
+   "name": "Kyogre",
+   "v": "n"
+  },
+  {
+   "n": "017/063",
+   "name": "Snover",
+   "v": "n"
+  },
+  {
+   "n": "018/063",
+   "name": "Mega Abomasnow ex",
+   "v": "n"
+  },
+  {
+   "n": "019/063",
+   "name": "Clauncher",
+   "v": "n"
+  },
+  {
+   "n": "020/063",
+   "name": "Clawitzer",
+   "v": "n"
+  },
+  {
+   "n": "021/063",
+   "name": "Sobble",
+   "v": "n"
+  },
+  {
+   "n": "022/063",
+   "name": "Drizzile",
+   "v": "n"
+  },
+  {
+   "n": "023/063",
+   "name": "Inteleon",
+   "v": "n"
+  },
+  {
+   "n": "024/063",
+   "name": "Snom",
+   "v": "n"
+  },
+  {
+   "n": "025/063",
+   "name": "Frosmoth",
+   "v": "n"
+  },
+  {
+   "n": "026/063",
+   "name": "Eiscue",
+   "v": "n"
+  },
+  {
+   "n": "027/063",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "028/063",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "029/063",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "030/063",
+   "name": "Raikou",
+   "v": "n"
+  },
+  {
+   "n": "031/063",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "032/063",
+   "name": "Mega Manectric ex",
+   "v": "n"
+  },
+  {
+   "n": "033/063",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "034/063",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "035/063",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "036/063",
+   "name": "Abra",
+   "v": "n"
+  },
+  {
+   "n": "037/063",
+   "name": "Kadabra",
+   "v": "n"
+  },
+  {
+   "n": "038/063",
+   "name": "Alakazam",
+   "v": "n"
+  },
+  {
+   "n": "039/063",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "040/063",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "041/063",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "042/063",
+   "name": "Mega Gardevoir ex",
+   "v": "n"
+  },
+  {
+   "n": "043/063",
+   "name": "Shedinja",
+   "v": "n"
+  },
+  {
+   "n": "044/063",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "045/063",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "046/063",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "047/063",
+   "name": "Greavard",
+   "v": "n"
+  },
+  {
+   "n": "048/063",
+   "name": "Houndstone",
+   "v": "n"
+  },
+  {
+   "n": "049/063",
+   "name": "Mega Latias ex",
+   "v": "n"
+  },
+  {
+   "n": "050/063",
+   "name": "Latios",
+   "v": "n"
+  },
+  {
+   "n": "051/063",
+   "name": "Mega Kangaskhan ex",
+   "v": "n"
+  },
+  {
+   "n": "052/063",
+   "name": "Delibird",
+   "v": "n"
+  },
+  {
+   "n": "053/063",
+   "name": "Buneary",
+   "v": "n"
+  },
+  {
+   "n": "054/063",
+   "name": "Lopunny",
+   "v": "n"
+  },
+  {
+   "n": "055/063",
+   "name": "Stufful",
+   "v": "n"
+  },
+  {
+   "n": "056/063",
+   "name": "Bewear",
+   "v": "n"
+  },
+  {
+   "n": "057/063",
+   "name": "Strange Timepiece",
+   "v": "n"
+  },
+  {
+   "n": "058/063",
+   "name": "Mega Signal",
+   "v": "n"
+  },
+  {
+   "n": "059/063",
+   "name": "Wally's Compassion",
+   "v": "n"
+  },
+  {
+   "n": "060/063",
+   "name": "Acerola's Mischief",
+   "v": "n"
+  },
+  {
+   "n": "061/063",
+   "name": "Mystery Garden",
+   "v": "n"
+  },
+  {
+   "n": "062/063",
+   "name": "Surfing Beach",
+   "v": "n"
+  },
+  {
+   "n": "063/063",
+   "name": "Forest of Vitality",
+   "v": "n"
+  },
+  {
+   "n": "064/063",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "065/063",
+   "name": "Ninjask",
+   "v": "n"
+  },
+  {
+   "n": "066/063",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "067/063",
+   "name": "Snover",
+   "v": "n"
+  },
+  {
+   "n": "068/063",
+   "name": "Clawitzer",
+   "v": "n"
+  },
+  {
+   "n": "069/063",
+   "name": "Inteleon",
+   "v": "n"
+  },
+  {
+   "n": "070/063",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "071/063",
+   "name": "Alakazam",
+   "v": "n"
+  },
+  {
+   "n": "072/063",
+   "name": "Shedinja",
+   "v": "n"
+  },
+  {
+   "n": "073/063",
+   "name": "Houndstone",
+   "v": "n"
+  },
+  {
+   "n": "074/063",
+   "name": "Delibird",
+   "v": "n"
+  },
+  {
+   "n": "075/063",
+   "name": "Stufful",
+   "v": "n"
+  },
+  {
+   "n": "076/063",
+   "name": "Mega Abomasnow ex",
+   "v": "n"
+  },
+  {
+   "n": "077/063",
+   "name": "Mega Manectric ex",
+   "v": "n"
+  },
+  {
+   "n": "078/063",
+   "name": "Mega Gardevoir ex",
+   "v": "n"
+  },
+  {
+   "n": "079/063",
+   "name": "Mega Latias ex",
+   "v": "n"
+  },
+  {
+   "n": "080/063",
+   "name": "Mega Kangaskhan ex",
+   "v": "n"
+  },
+  {
+   "n": "081/063",
+   "name": "Mega Signal",
+   "v": "n"
+  },
+  {
+   "n": "082/063",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "083/063",
+   "name": "Buddy-Buddy Poffin",
+   "v": "n"
+  },
+  {
+   "n": "084/063",
+   "name": "Wally's Compassion",
+   "v": "n"
+  },
+  {
+   "n": "085/063",
+   "name": "Acerola's Mischief",
+   "v": "n"
+  },
+  {
+   "n": "086/063",
+   "name": "Mystery Garden",
+   "v": "n"
+  },
+  {
+   "n": "087/063",
+   "name": "Mega Gardevoir ex",
+   "v": "n"
+  },
+  {
+   "n": "088/063",
+   "name": "Mega Latias ex",
+   "v": "n"
+  },
+  {
+   "n": "089/063",
+   "name": "Mega Kangaskhan ex",
+   "v": "n"
+  },
+  {
+   "n": "090/063",
+   "name": "Wally's Compassion",
+   "v": "n"
+  },
+  {
+   "n": "091/063",
+   "name": "Acerola's Mischief",
+   "v": "n"
+  },
+  {
+   "n": "092/063",
+   "name": "Mega Gardevoir ex",
+   "v": "n"
+  }
+ ]
+}

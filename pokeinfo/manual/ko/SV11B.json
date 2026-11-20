@@ -1,0 +1,885 @@
+{
+ "id": "SV11B",
+ "name": "Black Bolt",
+ "name_en": "Black Bolt",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2025-06-06",
+ "official": 86,
+ "abbr": "SV11B",
+ "logo": "img/logos/ja/SV11B.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/086",
+   "name": "Snivy",
+   "v": "n"
+  },
+  {
+   "n": "002/086",
+   "name": "Servine",
+   "v": "n"
+  },
+  {
+   "n": "003/086",
+   "name": "Serperior ex",
+   "v": "n"
+  },
+  {
+   "n": "004/086",
+   "name": "Pansage",
+   "v": "n"
+  },
+  {
+   "n": "005/086",
+   "name": "Simisage",
+   "v": "n"
+  },
+  {
+   "n": "006/086",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "007/086",
+   "name": "Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "008/086",
+   "name": "Maractus",
+   "v": "n"
+  },
+  {
+   "n": "009/086",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "010/086",
+   "name": "Foongus",
+   "v": "n"
+  },
+  {
+   "n": "011/086",
+   "name": "Amoonguss",
+   "v": "n"
+  },
+  {
+   "n": "012/086",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "013/086",
+   "name": "Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "014/086",
+   "name": "Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "015/086",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "016/086",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "017/086",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "018/086",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "019/086",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "020/086",
+   "name": "Panpour",
+   "v": "n"
+  },
+  {
+   "n": "021/086",
+   "name": "Simipour",
+   "v": "n"
+  },
+  {
+   "n": "022/086",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "023/086",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "024/086",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "025/086",
+   "name": "Tirtouga",
+   "v": "n"
+  },
+  {
+   "n": "026/086",
+   "name": "Carracosta",
+   "v": "n"
+  },
+  {
+   "n": "027/086",
+   "name": "Alomomola",
+   "v": "n"
+  },
+  {
+   "n": "028/086",
+   "name": "Cubchoo",
+   "v": "n"
+  },
+  {
+   "n": "029/086",
+   "name": "Beartic",
+   "v": "n"
+  },
+  {
+   "n": "030/086",
+   "name": "Cryogonal",
+   "v": "n"
+  },
+  {
+   "n": "031/086",
+   "name": "Kyurem ex",
+   "v": "n"
+  },
+  {
+   "n": "032/086",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "033/086",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "034/086",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "035/086",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "036/086",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "037/086",
+   "name": "Zekrom ex",
+   "v": "n"
+  },
+  {
+   "n": "038/086",
+   "name": "Munna",
+   "v": "n"
+  },
+  {
+   "n": "039/086",
+   "name": "Musharna",
+   "v": "n"
+  },
+  {
+   "n": "040/086",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "041/086",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "042/086",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "043/086",
+   "name": "Elgyem",
+   "v": "n"
+  },
+  {
+   "n": "044/086",
+   "name": "Beheeyem",
+   "v": "n"
+  },
+  {
+   "n": "045/086",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "046/086",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "047/086",
+   "name": "Meloetta ex",
+   "v": "n"
+  },
+  {
+   "n": "048/086",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "049/086",
+   "name": "Excadrill ex",
+   "v": "n"
+  },
+  {
+   "n": "050/086",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "051/086",
+   "name": "Gurdurr",
+   "v": "n"
+  },
+  {
+   "n": "052/086",
+   "name": "Conkeldurr",
+   "v": "n"
+  },
+  {
+   "n": "053/086",
+   "name": "Throh",
+   "v": "n"
+  },
+  {
+   "n": "054/086",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "055/086",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "056/086",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "057/086",
+   "name": "Venipede",
+   "v": "n"
+  },
+  {
+   "n": "058/086",
+   "name": "Whirlipede",
+   "v": "n"
+  },
+  {
+   "n": "059/086",
+   "name": "Scolipede",
+   "v": "n"
+  },
+  {
+   "n": "060/086",
+   "name": "Sandile",
+   "v": "n"
+  },
+  {
+   "n": "061/086",
+   "name": "Krokorok",
+   "v": "n"
+  },
+  {
+   "n": "062/086",
+   "name": "Krookodile",
+   "v": "n"
+  },
+  {
+   "n": "063/086",
+   "name": "Vullaby",
+   "v": "n"
+  },
+  {
+   "n": "064/086",
+   "name": "Mandibuzz",
+   "v": "n"
+  },
+  {
+   "n": "065/086",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "066/086",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "067/086",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "068/086",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "069/086",
+   "name": "Genesect ex",
+   "v": "n"
+  },
+  {
+   "n": "070/086",
+   "name": "Axew",
+   "v": "n"
+  },
+  {
+   "n": "071/086",
+   "name": "Fraxure",
+   "v": "n"
+  },
+  {
+   "n": "072/086",
+   "name": "Haxorus",
+   "v": "n"
+  },
+  {
+   "n": "073/086",
+   "name": "Pidove",
+   "v": "n"
+  },
+  {
+   "n": "074/086",
+   "name": "Tranquill",
+   "v": "n"
+  },
+  {
+   "n": "075/086",
+   "name": "Unfezant",
+   "v": "n"
+  },
+  {
+   "n": "076/086",
+   "name": "Audino",
+   "v": "n"
+  },
+  {
+   "n": "077/086",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "078/086",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "079/086",
+   "name": "Energy Coin",
+   "v": "n"
+  },
+  {
+   "n": "080/086",
+   "name": "Antique Cover Fossil",
+   "v": "n"
+  },
+  {
+   "n": "081/086",
+   "name": "Pokégear 3.0",
+   "v": "n"
+  },
+  {
+   "n": "082/086",
+   "name": "Air Balloon",
+   "v": "n"
+  },
+  {
+   "n": "083/086",
+   "name": "N's Plan",
+   "v": "n"
+  },
+  {
+   "n": "084/086",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "085/086",
+   "name": "Fennel",
+   "v": "n"
+  },
+  {
+   "n": "086/086",
+   "name": "Prism Energy",
+   "v": "n"
+  },
+  {
+   "n": "087/086",
+   "name": "Snivy",
+   "v": "n"
+  },
+  {
+   "n": "088/086",
+   "name": "Servine",
+   "v": "n"
+  },
+  {
+   "n": "089/086",
+   "name": "Pansage",
+   "v": "n"
+  },
+  {
+   "n": "090/086",
+   "name": "Simisage",
+   "v": "n"
+  },
+  {
+   "n": "091/086",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "092/086",
+   "name": "Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "093/086",
+   "name": "Maractus",
+   "v": "n"
+  },
+  {
+   "n": "094/086",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "095/086",
+   "name": "Foongus",
+   "v": "n"
+  },
+  {
+   "n": "096/086",
+   "name": "Amoonguss",
+   "v": "n"
+  },
+  {
+   "n": "097/086",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "098/086",
+   "name": "Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "099/086",
+   "name": "Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "100/086",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "101/086",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "102/086",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "103/086",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "104/086",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "105/086",
+   "name": "Panpour",
+   "v": "n"
+  },
+  {
+   "n": "106/086",
+   "name": "Simipour",
+   "v": "n"
+  },
+  {
+   "n": "107/086",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "108/086",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "109/086",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "110/086",
+   "name": "Tirtouga",
+   "v": "n"
+  },
+  {
+   "n": "111/086",
+   "name": "Carracosta",
+   "v": "n"
+  },
+  {
+   "n": "112/086",
+   "name": "Alomomola",
+   "v": "n"
+  },
+  {
+   "n": "113/086",
+   "name": "Cubchoo",
+   "v": "n"
+  },
+  {
+   "n": "114/086",
+   "name": "Beartic",
+   "v": "n"
+  },
+  {
+   "n": "115/086",
+   "name": "Cryogonal",
+   "v": "n"
+  },
+  {
+   "n": "116/086",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "117/086",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "118/086",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "119/086",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "120/086",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "121/086",
+   "name": "Munna",
+   "v": "n"
+  },
+  {
+   "n": "122/086",
+   "name": "Musharna",
+   "v": "n"
+  },
+  {
+   "n": "123/086",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "124/086",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "125/086",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "126/086",
+   "name": "Elgyem",
+   "v": "n"
+  },
+  {
+   "n": "127/086",
+   "name": "Beheeyem",
+   "v": "n"
+  },
+  {
+   "n": "128/086",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "129/086",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "130/086",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "131/086",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "132/086",
+   "name": "Gurdurr",
+   "v": "n"
+  },
+  {
+   "n": "133/086",
+   "name": "Conkeldurr",
+   "v": "n"
+  },
+  {
+   "n": "134/086",
+   "name": "Throh",
+   "v": "n"
+  },
+  {
+   "n": "135/086",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "136/086",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "137/086",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "138/086",
+   "name": "Venipede",
+   "v": "n"
+  },
+  {
+   "n": "139/086",
+   "name": "Whirlipede",
+   "v": "n"
+  },
+  {
+   "n": "140/086",
+   "name": "Scolipede",
+   "v": "n"
+  },
+  {
+   "n": "141/086",
+   "name": "Sandile",
+   "v": "n"
+  },
+  {
+   "n": "142/086",
+   "name": "Krokorok",
+   "v": "n"
+  },
+  {
+   "n": "143/086",
+   "name": "Krookodile",
+   "v": "n"
+  },
+  {
+   "n": "144/086",
+   "name": "Vullaby",
+   "v": "n"
+  },
+  {
+   "n": "145/086",
+   "name": "Mandibuzz",
+   "v": "n"
+  },
+  {
+   "n": "146/086",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "147/086",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "148/086",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "149/086",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "150/086",
+   "name": "Axew",
+   "v": "n"
+  },
+  {
+   "n": "151/086",
+   "name": "Fraxure",
+   "v": "n"
+  },
+  {
+   "n": "152/086",
+   "name": "Haxorus",
+   "v": "n"
+  },
+  {
+   "n": "153/086",
+   "name": "Pidove",
+   "v": "n"
+  },
+  {
+   "n": "154/086",
+   "name": "Tranquill",
+   "v": "n"
+  },
+  {
+   "n": "155/086",
+   "name": "Unfezant",
+   "v": "n"
+  },
+  {
+   "n": "156/086",
+   "name": "Audino",
+   "v": "n"
+  },
+  {
+   "n": "157/086",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "158/086",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "159/086",
+   "name": "Serperior ex",
+   "v": "n"
+  },
+  {
+   "n": "160/086",
+   "name": "Kyurem ex",
+   "v": "n"
+  },
+  {
+   "n": "161/086",
+   "name": "Zekrom ex",
+   "v": "n"
+  },
+  {
+   "n": "162/086",
+   "name": "Meloetta ex",
+   "v": "n"
+  },
+  {
+   "n": "163/086",
+   "name": "Excadrill ex",
+   "v": "n"
+  },
+  {
+   "n": "164/086",
+   "name": "Genesect ex",
+   "v": "n"
+  },
+  {
+   "n": "165/086",
+   "name": "N's Plan",
+   "v": "n"
+  },
+  {
+   "n": "166/086",
+   "name": "Fennel",
+   "v": "n"
+  },
+  {
+   "n": "167/086",
+   "name": "Serperior ex",
+   "v": "n"
+  },
+  {
+   "n": "168/086",
+   "name": "Kyurem ex",
+   "v": "n"
+  },
+  {
+   "n": "169/086",
+   "name": "Zekrom ex",
+   "v": "n"
+  },
+  {
+   "n": "170/086",
+   "name": "Meloetta ex",
+   "v": "n"
+  },
+  {
+   "n": "171/086",
+   "name": "Excadrill ex",
+   "v": "n"
+  },
+  {
+   "n": "172/086",
+   "name": "Genesect ex",
+   "v": "n"
+  },
+  {
+   "n": "173/086",
+   "name": "N's Plan",
+   "v": "n"
+  },
+  {
+   "n": "174/086",
+   "name": "Zekrom ex",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,1440 @@
+{
+ "id": "S8b",
+ "name": "VMAX 클라이맥스",
+ "name_en": "VMAX Climax",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2021-12-03",
+ "official": 184,
+ "abbr": "S8b",
+ "logo": "img/logos/ja/S8b.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/184",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/184",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/184",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "004/184",
+   "name": "Kricketune V",
+   "v": "n"
+  },
+  {
+   "n": "005/184",
+   "name": "Cherubi",
+   "v": "n"
+  },
+  {
+   "n": "006/184",
+   "name": "Cherrim",
+   "v": "n"
+  },
+  {
+   "n": "007/184",
+   "name": "Snover",
+   "v": "n"
+  },
+  {
+   "n": "008/184",
+   "name": "Abomasnow",
+   "v": "n"
+  },
+  {
+   "n": "009/184",
+   "name": "Blipbug",
+   "v": "n"
+  },
+  {
+   "n": "010/184",
+   "name": "Orbeetle V",
+   "v": "n"
+  },
+  {
+   "n": "011/184",
+   "name": "Orbeetle VMAX",
+   "v": "n"
+  },
+  {
+   "n": "012/184",
+   "name": "Applin",
+   "v": "n"
+  },
+  {
+   "n": "013/184",
+   "name": "Flapple",
+   "v": "n"
+  },
+  {
+   "n": "014/184",
+   "name": "Zarude",
+   "v": "n"
+  },
+  {
+   "n": "015/184",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "016/184",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "017/184",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "018/184",
+   "name": "Flareon",
+   "v": "n"
+  },
+  {
+   "n": "019/184",
+   "name": "Blaziken V",
+   "v": "n"
+  },
+  {
+   "n": "020/184",
+   "name": "Blaziken VMAX",
+   "v": "n"
+  },
+  {
+   "n": "021/184",
+   "name": "Castform Sunny Form",
+   "v": "n"
+  },
+  {
+   "n": "022/184",
+   "name": "Centiskorch V",
+   "v": "n"
+  },
+  {
+   "n": "023/184",
+   "name": "Centiskorch VMAX",
+   "v": "n"
+  },
+  {
+   "n": "024/184",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "025/184",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "026/184",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "027/184",
+   "name": "Galarian Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "028/184",
+   "name": "Galarian Mr. Rime",
+   "v": "n"
+  },
+  {
+   "n": "029/184",
+   "name": "Vaporeon",
+   "v": "n"
+  },
+  {
+   "n": "030/184",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "031/184",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "032/184",
+   "name": "Castform Rainy Form",
+   "v": "n"
+  },
+  {
+   "n": "033/184",
+   "name": "Castform Snowy Form",
+   "v": "n"
+  },
+  {
+   "n": "034/184",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "035/184",
+   "name": "Froslass",
+   "v": "n"
+  },
+  {
+   "n": "036/184",
+   "name": "Sobble",
+   "v": "n"
+  },
+  {
+   "n": "037/184",
+   "name": "Drizzile",
+   "v": "n"
+  },
+  {
+   "n": "038/184",
+   "name": "Inteleon",
+   "v": "n"
+  },
+  {
+   "n": "039/184",
+   "name": "Snom",
+   "v": "n"
+  },
+  {
+   "n": "040/184",
+   "name": "Frosmoth",
+   "v": "n"
+  },
+  {
+   "n": "041/184",
+   "name": "Eiscue",
+   "v": "n"
+  },
+  {
+   "n": "042/184",
+   "name": "Rapid Strike Urshifu",
+   "v": "n"
+  },
+  {
+   "n": "043/184",
+   "name": "Ice Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "044/184",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "045/184",
+   "name": "Pikachu V",
+   "v": "n"
+  },
+  {
+   "n": "046/184",
+   "name": "Pikachu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "047/184",
+   "name": "Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "048/184",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "049/184",
+   "name": "Jolteon",
+   "v": "n"
+  },
+  {
+   "n": "050/184",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "051/184",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "052/184",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "053/184",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "054/184",
+   "name": "Zeraora V",
+   "v": "n"
+  },
+  {
+   "n": "055/184",
+   "name": "Boltund V",
+   "v": "n"
+  },
+  {
+   "n": "056/184",
+   "name": "Morpeko V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "057/184",
+   "name": "Morpeko V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "058/184",
+   "name": "Morpeko V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "059/184",
+   "name": "Morpeko V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "060/184",
+   "name": "Galarian Articuno V",
+   "v": "n"
+  },
+  {
+   "n": "061/184",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "062/184",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "063/184",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "064/184",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "065/184",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "066/184",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "067/184",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "068/184",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "069/184",
+   "name": "Cresselia",
+   "v": "n"
+  },
+  {
+   "n": "070/184",
+   "name": "Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "071/184",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "072/184",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "073/184",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "074/184",
+   "name": "Sylveon V",
+   "v": "n"
+  },
+  {
+   "n": "075/184",
+   "name": "Sylveon VMAX",
+   "v": "n"
+  },
+  {
+   "n": "076/184",
+   "name": "Mimikyu V",
+   "v": "n"
+  },
+  {
+   "n": "077/184",
+   "name": "Mimikyu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "078/184",
+   "name": "Dottler",
+   "v": "n"
+  },
+  {
+   "n": "079/184",
+   "name": "Orbeetle",
+   "v": "n"
+  },
+  {
+   "n": "080/184",
+   "name": "Milcery",
+   "v": "n"
+  },
+  {
+   "n": "081/184",
+   "name": "Alcremie",
+   "v": "n"
+  },
+  {
+   "n": "082/184",
+   "name": "Shadow Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "083/184",
+   "name": "Shadow Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "084/184",
+   "name": "Galarian Zapdos V",
+   "v": "n"
+  },
+  {
+   "n": "085/184",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "086/184",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "087/184",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "088/184",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "089/184",
+   "name": "Falinks",
+   "v": "n"
+  },
+  {
+   "n": "090/184",
+   "name": "Stonjourner",
+   "v": "n"
+  },
+  {
+   "n": "091/184",
+   "name": "Kubfu",
+   "v": "n"
+  },
+  {
+   "n": "092/184",
+   "name": "Single Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "093/184",
+   "name": "Single Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "094/184",
+   "name": "Rapid Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "095/184",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "096/184",
+   "name": "Galarian Moltres V",
+   "v": "n"
+  },
+  {
+   "n": "097/184",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "098/184",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "099/184",
+   "name": "Crobat V",
+   "v": "n"
+  },
+  {
+   "n": "100/184",
+   "name": "Umbreon V",
+   "v": "n"
+  },
+  {
+   "n": "101/184",
+   "name": "Umbreon VMAX",
+   "v": "n"
+  },
+  {
+   "n": "102/184",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "103/184",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "104/184",
+   "name": "Galarian Zigzagoon",
+   "v": "n"
+  },
+  {
+   "n": "105/184",
+   "name": "Galarian Linoone",
+   "v": "n"
+  },
+  {
+   "n": "106/184",
+   "name": "Galarian Obstagoon",
+   "v": "n"
+  },
+  {
+   "n": "107/184",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "108/184",
+   "name": "Hoopa",
+   "v": "n"
+  },
+  {
+   "n": "109/184",
+   "name": "Eternatus V",
+   "v": "n"
+  },
+  {
+   "n": "110/184",
+   "name": "Eternatus VMAX",
+   "v": "n"
+  },
+  {
+   "n": "111/184",
+   "name": "Single Strike Urshifu",
+   "v": "n"
+  },
+  {
+   "n": "112/184",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "113/184",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "114/184",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "115/184",
+   "name": "Corviknight V",
+   "v": "n"
+  },
+  {
+   "n": "116/184",
+   "name": "Corviknight VMAX",
+   "v": "n"
+  },
+  {
+   "n": "117/184",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "118/184",
+   "name": "Zamazenta V",
+   "v": "n"
+  },
+  {
+   "n": "119/184",
+   "name": "Rayquaza V",
+   "v": "n"
+  },
+  {
+   "n": "120/184",
+   "name": "Rayquaza VMAX",
+   "v": "n"
+  },
+  {
+   "n": "121/184",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "122/184",
+   "name": "Duraludon V",
+   "v": "n"
+  },
+  {
+   "n": "123/184",
+   "name": "Duraludon VMAX",
+   "v": "n"
+  },
+  {
+   "n": "124/184",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "125/184",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "126/184",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "127/184",
+   "name": "Blissey V",
+   "v": "n"
+  },
+  {
+   "n": "128/184",
+   "name": "Castform",
+   "v": "n"
+  },
+  {
+   "n": "129/184",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "130/184",
+   "name": "Capacious Bucket",
+   "v": "n"
+  },
+  {
+   "n": "131/184",
+   "name": "Fan of Waves",
+   "v": "n"
+  },
+  {
+   "n": "132/184",
+   "name": "Escape Rope",
+   "v": "n"
+  },
+  {
+   "n": "133/184",
+   "name": "Level Ball",
+   "v": "n"
+  },
+  {
+   "n": "134/184",
+   "name": "Welcoming Lantern",
+   "v": "n"
+  },
+  {
+   "n": "135/184",
+   "name": "Echoing Horn",
+   "v": "n"
+  },
+  {
+   "n": "136/184",
+   "name": "Ordinary Rod",
+   "v": "n"
+  },
+  {
+   "n": "137/184",
+   "name": "Fog Crystal",
+   "v": "n"
+  },
+  {
+   "n": "138/184",
+   "name": "Turbo Patch",
+   "v": "n"
+  },
+  {
+   "n": "139/184",
+   "name": "Tool Scrapper",
+   "v": "n"
+  },
+  {
+   "n": "140/184",
+   "name": "Urn of Vitality",
+   "v": "n"
+  },
+  {
+   "n": "141/184",
+   "name": "Scoop Up Net",
+   "v": "n"
+  },
+  {
+   "n": "142/184",
+   "name": "Cleansing Gloves",
+   "v": "n"
+  },
+  {
+   "n": "143/184",
+   "name": "Telescopic Sight",
+   "v": "n"
+  },
+  {
+   "n": "144/184",
+   "name": "Memory Capsule",
+   "v": "n"
+  },
+  {
+   "n": "145/184",
+   "name": "Cape of Toughness",
+   "v": "n"
+  },
+  {
+   "n": "146/184",
+   "name": "Air Balloon",
+   "v": "n"
+  },
+  {
+   "n": "147/184",
+   "name": "Hunting Gloves",
+   "v": "n"
+  },
+  {
+   "n": "148/184",
+   "name": "Friends in Galar",
+   "v": "n"
+  },
+  {
+   "n": "149/184",
+   "name": "Raihan",
+   "v": "n"
+  },
+  {
+   "n": "150/184",
+   "name": "Leon",
+   "v": "n"
+  },
+  {
+   "n": "151/184",
+   "name": "Klara",
+   "v": "n"
+  },
+  {
+   "n": "152/184",
+   "name": "Rose",
+   "v": "n"
+  },
+  {
+   "n": "153/184",
+   "name": "Marnie",
+   "v": "n"
+  },
+  {
+   "n": "154/184",
+   "name": "Café Master",
+   "v": "n"
+  },
+  {
+   "n": "155/184",
+   "name": "Melony",
+   "v": "n"
+  },
+  {
+   "n": "156/184",
+   "name": "Cheryl",
+   "v": "n"
+  },
+  {
+   "n": "157/184",
+   "name": "Adventurer's Discovery",
+   "v": "n"
+  },
+  {
+   "n": "158/184",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "159/184",
+   "name": "Bird Keeper",
+   "v": "n"
+  },
+  {
+   "n": "160/184",
+   "name": "Bruno",
+   "v": "n"
+  },
+  {
+   "n": "161/184",
+   "name": "Acerola's Premonition",
+   "v": "n"
+  },
+  {
+   "n": "162/184",
+   "name": "Nessa",
+   "v": "n"
+  },
+  {
+   "n": "163/184",
+   "name": "Gloria",
+   "v": "n"
+  },
+  {
+   "n": "164/184",
+   "name": "Korrina's Focus",
+   "v": "n"
+  },
+  {
+   "n": "165/184",
+   "name": "Peony",
+   "v": "n"
+  },
+  {
+   "n": "166/184",
+   "name": "Tower of Waters",
+   "v": "n"
+  },
+  {
+   "n": "167/184",
+   "name": "Tower of Darkness",
+   "v": "n"
+  },
+  {
+   "n": "168/184",
+   "name": "Old Cemetery",
+   "v": "n"
+  },
+  {
+   "n": "169/184",
+   "name": "Path to the Peak",
+   "v": "n"
+  },
+  {
+   "n": "170/184",
+   "name": "Turffield Stadium",
+   "v": "n"
+  },
+  {
+   "n": "171/184",
+   "name": "Aromatic Grass Energy",
+   "v": "n"
+  },
+  {
+   "n": "172/184",
+   "name": "Heat Fire Energy",
+   "v": "n"
+  },
+  {
+   "n": "173/184",
+   "name": "Wash Water Energy",
+   "v": "n"
+  },
+  {
+   "n": "174/184",
+   "name": "Speed Lightning Energy",
+   "v": "n"
+  },
+  {
+   "n": "175/184",
+   "name": "Horror Psychic Energy",
+   "v": "n"
+  },
+  {
+   "n": "176/184",
+   "name": "Stone Fighting Energy",
+   "v": "n"
+  },
+  {
+   "n": "177/184",
+   "name": "Hiding Darkness Energy",
+   "v": "n"
+  },
+  {
+   "n": "178/184",
+   "name": "Coating Metal Energy",
+   "v": "n"
+  },
+  {
+   "n": "179/184",
+   "name": "Powerful Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "180/184",
+   "name": "Rapid Strike Energy",
+   "v": "n"
+  },
+  {
+   "n": "181/184",
+   "name": "Aurora Energy",
+   "v": "n"
+  },
+  {
+   "n": "182/184",
+   "name": "Single Strike Energy",
+   "v": "n"
+  },
+  {
+   "n": "183/184",
+   "name": "Capture Energy",
+   "v": "n"
+  },
+  {
+   "n": "184/184",
+   "name": "Twin Energy",
+   "v": "n"
+  },
+  {
+   "n": "185/184",
+   "name": "Abomasnow",
+   "v": "n"
+  },
+  {
+   "n": "186/184",
+   "name": "Flapple",
+   "v": "n"
+  },
+  {
+   "n": "187/184",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "188/184",
+   "name": "Flareon",
+   "v": "n"
+  },
+  {
+   "n": "189/184",
+   "name": "Vaporeon",
+   "v": "n"
+  },
+  {
+   "n": "190/184",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "191/184",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "192/184",
+   "name": "Frosmoth",
+   "v": "n"
+  },
+  {
+   "n": "193/184",
+   "name": "Jolteon",
+   "v": "n"
+  },
+  {
+   "n": "194/184",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "195/184",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "196/184",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "197/184",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "198/184",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "199/184",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "200/184",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "201/184",
+   "name": "Alcremie",
+   "v": "n"
+  },
+  {
+   "n": "202/184",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "203/184",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "204/184",
+   "name": "Falinks",
+   "v": "n"
+  },
+  {
+   "n": "205/184",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "206/184",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "207/184",
+   "name": "Galarian Obstagoon",
+   "v": "n"
+  },
+  {
+   "n": "208/184",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "209/184",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "210/184",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "211/184",
+   "name": "Castform",
+   "v": "n"
+  },
+  {
+   "n": "212/184",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "213/184",
+   "name": "Kricketune V",
+   "v": "n"
+  },
+  {
+   "n": "214/184",
+   "name": "Orbeetle V",
+   "v": "n"
+  },
+  {
+   "n": "215/184",
+   "name": "Orbeetle VMAX",
+   "v": "n"
+  },
+  {
+   "n": "216/184",
+   "name": "Blaziken V",
+   "v": "n"
+  },
+  {
+   "n": "217/184",
+   "name": "Blaziken VMAX",
+   "v": "n"
+  },
+  {
+   "n": "218/184",
+   "name": "Centiskorch V",
+   "v": "n"
+  },
+  {
+   "n": "219/184",
+   "name": "Centiskorch VMAX",
+   "v": "n"
+  },
+  {
+   "n": "220/184",
+   "name": "Ice Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "221/184",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "222/184",
+   "name": "Pikachu V",
+   "v": "n"
+  },
+  {
+   "n": "223/184",
+   "name": "Pikachu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "224/184",
+   "name": "Zeraora V",
+   "v": "n"
+  },
+  {
+   "n": "225/184",
+   "name": "Boltund V",
+   "v": "n"
+  },
+  {
+   "n": "226/184",
+   "name": "Morpeko V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "227/184",
+   "name": "Morpeko V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "228/184",
+   "name": "Morpeko V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "229/184",
+   "name": "Morpeko V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "230/184",
+   "name": "Galarian Articuno V",
+   "v": "n"
+  },
+  {
+   "n": "231/184",
+   "name": "Sylveon V",
+   "v": "n"
+  },
+  {
+   "n": "232/184",
+   "name": "Sylveon VMAX",
+   "v": "n"
+  },
+  {
+   "n": "233/184",
+   "name": "Mimikyu V",
+   "v": "n"
+  },
+  {
+   "n": "234/184",
+   "name": "Mimikyu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "235/184",
+   "name": "Shadow Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "236/184",
+   "name": "Shadow Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "237/184",
+   "name": "Galarian Zapdos V",
+   "v": "n"
+  },
+  {
+   "n": "238/184",
+   "name": "Single Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "239/184",
+   "name": "Single Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "240/184",
+   "name": "Rapid Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "241/184",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "242/184",
+   "name": "Galarian Moltres V",
+   "v": "n"
+  },
+  {
+   "n": "243/184",
+   "name": "Crobat V",
+   "v": "n"
+  },
+  {
+   "n": "244/184",
+   "name": "Umbreon V",
+   "v": "n"
+  },
+  {
+   "n": "245/184",
+   "name": "Umbreon VMAX",
+   "v": "n"
+  },
+  {
+   "n": "246/184",
+   "name": "Eternatus V",
+   "v": "n"
+  },
+  {
+   "n": "247/184",
+   "name": "Eternatus VMAX",
+   "v": "n"
+  },
+  {
+   "n": "248/184",
+   "name": "Corviknight V",
+   "v": "n"
+  },
+  {
+   "n": "249/184",
+   "name": "Corviknight VMAX",
+   "v": "n"
+  },
+  {
+   "n": "250/184",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "251/184",
+   "name": "Zamazenta V",
+   "v": "n"
+  },
+  {
+   "n": "252/184",
+   "name": "Rayquaza VMAX",
+   "v": "n"
+  },
+  {
+   "n": "253/184",
+   "name": "Duraludon VMAX",
+   "v": "n"
+  },
+  {
+   "n": "254/184",
+   "name": "Blissey V",
+   "v": "n"
+  },
+  {
+   "n": "255/184",
+   "name": "Friends in Galar",
+   "v": "n"
+  },
+  {
+   "n": "256/184",
+   "name": "Raihan",
+   "v": "n"
+  },
+  {
+   "n": "257/184",
+   "name": "Piers",
+   "v": "n"
+  },
+  {
+   "n": "258/184",
+   "name": "Café Master",
+   "v": "n"
+  },
+  {
+   "n": "259/184",
+   "name": "Rapid Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "260/184",
+   "name": "Single Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "261/184",
+   "name": "Gordie",
+   "v": "n"
+  },
+  {
+   "n": "262/184",
+   "name": "Melony",
+   "v": "n"
+  },
+  {
+   "n": "263/184",
+   "name": "Adventurer's Discovery",
+   "v": "n"
+  },
+  {
+   "n": "264/184",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "265/184",
+   "name": "Professor Burnet",
+   "v": "n"
+  },
+  {
+   "n": "266/184",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "267/184",
+   "name": "Sordward & Shielbert",
+   "v": "n"
+  },
+  {
+   "n": "268/184",
+   "name": "Kabu",
+   "v": "n"
+  },
+  {
+   "n": "269/184",
+   "name": "Acerola's Premonition",
+   "v": "n"
+  },
+  {
+   "n": "270/184",
+   "name": "Milo",
+   "v": "n"
+  },
+  {
+   "n": "271/184",
+   "name": "Nessa",
+   "v": "n"
+  },
+  {
+   "n": "272/184",
+   "name": "Allister",
+   "v": "n"
+  },
+  {
+   "n": "273/184",
+   "name": "Gloria",
+   "v": "n"
+  },
+  {
+   "n": "274/184",
+   "name": "Judge",
+   "v": "n"
+  },
+  {
+   "n": "275/184",
+   "name": "Bea",
+   "v": "n"
+  },
+  {
+   "n": "276/184",
+   "name": "Cook",
+   "v": "n"
+  },
+  {
+   "n": "277/184",
+   "name": "Opal",
+   "v": "n"
+  },
+  {
+   "n": "278/184",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "279/184",
+   "name": "Pikachu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "280/184",
+   "name": "Mew VMAX",
+   "v": "n"
+  },
+  {
+   "n": "281/184",
+   "name": "Shadow Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "282/184",
+   "name": "Single Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "283/184",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "284/184",
+   "name": "Rayquaza VMAX",
+   "v": "n"
+  },
+  {
+   "n": "285/184",
+   "name": "Duraludon VMAX",
+   "v": "n"
+  }
+ ]
+}

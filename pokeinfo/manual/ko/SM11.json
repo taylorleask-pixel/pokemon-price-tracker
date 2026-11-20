@@ -1,0 +1,590 @@
+{
+ "id": "SM11",
+ "name": "미라클트윈",
+ "name_en": "Miracle Twin",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-05-31",
+ "official": 94,
+ "abbr": "SM11",
+ "logo": "img/logos/ja/SM11.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/094",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "002/094",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "003/094",
+   "name": "Celebi",
+   "v": "n"
+  },
+  {
+   "n": "004/094",
+   "name": "Shroomish",
+   "v": "n"
+  },
+  {
+   "n": "005/094",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "006/094",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "007/094",
+   "name": "Swadloon",
+   "v": "n"
+  },
+  {
+   "n": "008/094",
+   "name": "Leavanny",
+   "v": "n"
+  },
+  {
+   "n": "009/094",
+   "name": "Foongus",
+   "v": "n"
+  },
+  {
+   "n": "010/094",
+   "name": "Amoonguss",
+   "v": "n"
+  },
+  {
+   "n": "011/094",
+   "name": "Slowpoke & Psyduck-GX",
+   "v": "n"
+  },
+  {
+   "n": "012/094",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "013/094",
+   "name": "Finneon",
+   "v": "n"
+  },
+  {
+   "n": "014/094",
+   "name": "Lumineon",
+   "v": "n"
+  },
+  {
+   "n": "015/094",
+   "name": "Basculin",
+   "v": "n"
+  },
+  {
+   "n": "016/094",
+   "name": "Tirtouga",
+   "v": "n"
+  },
+  {
+   "n": "017/094",
+   "name": "Carracosta",
+   "v": "n"
+  },
+  {
+   "n": "018/094",
+   "name": "Dewpider",
+   "v": "n"
+  },
+  {
+   "n": "019/094",
+   "name": "Araquanid",
+   "v": "n"
+  },
+  {
+   "n": "020/094",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "021/094",
+   "name": "Golisopod",
+   "v": "n"
+  },
+  {
+   "n": "022/094",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "023/094",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "024/094",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "025/094",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "026/094",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "027/094",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "028/094",
+   "name": "Tapu Koko",
+   "v": "n"
+  },
+  {
+   "n": "029/094",
+   "name": "Mewtwo & Mew-GX",
+   "v": "n"
+  },
+  {
+   "n": "030/094",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "031/094",
+   "name": "Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "032/094",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "033/094",
+   "name": "Wynaut",
+   "v": "n"
+  },
+  {
+   "n": "034/094",
+   "name": "Latios-GX",
+   "v": "n"
+  },
+  {
+   "n": "035/094",
+   "name": "Skorupi",
+   "v": "n"
+  },
+  {
+   "n": "036/094",
+   "name": "Elgyem",
+   "v": "n"
+  },
+  {
+   "n": "037/094",
+   "name": "Beheeyem",
+   "v": "n"
+  },
+  {
+   "n": "038/094",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "039/094",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "040/094",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "041/094",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "042/094",
+   "name": "Necrozma",
+   "v": "n"
+  },
+  {
+   "n": "043/094",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "044/094",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "045/094",
+   "name": "Aerodactyl-GX",
+   "v": "n"
+  },
+  {
+   "n": "046/094",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "047/094",
+   "name": "Breloom",
+   "v": "n"
+  },
+  {
+   "n": "048/094",
+   "name": "Relicanth",
+   "v": "n"
+  },
+  {
+   "n": "049/094",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "050/094",
+   "name": "Excadrill",
+   "v": "n"
+  },
+  {
+   "n": "051/094",
+   "name": "Archen",
+   "v": "n"
+  },
+  {
+   "n": "052/094",
+   "name": "Archeops",
+   "v": "n"
+  },
+  {
+   "n": "053/094",
+   "name": "Terrakion",
+   "v": "n"
+  },
+  {
+   "n": "054/094",
+   "name": "Mega Sableye & Tyranitar-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/094",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "056/094",
+   "name": "Drapion",
+   "v": "n"
+  },
+  {
+   "n": "057/094",
+   "name": "Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "058/094",
+   "name": "Liepard",
+   "v": "n"
+  },
+  {
+   "n": "059/094",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "060/094",
+   "name": "Scrafty",
+   "v": "n"
+  },
+  {
+   "n": "061/094",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "062/094",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "063/094",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "064/094",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "065/094",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "066/094",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "067/094",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "068/094",
+   "name": "Dragonite",
+   "v": "n"
+  },
+  {
+   "n": "069/094",
+   "name": "Dragonite-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/094",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "071/094",
+   "name": "Noivern",
+   "v": "n"
+  },
+  {
+   "n": "072/094",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "073/094",
+   "name": "Slakoth",
+   "v": "n"
+  },
+  {
+   "n": "074/094",
+   "name": "Slakoth",
+   "v": "n"
+  },
+  {
+   "n": "075/094",
+   "name": "Vigoroth",
+   "v": "n"
+  },
+  {
+   "n": "076/094",
+   "name": "Slaking",
+   "v": "n"
+  },
+  {
+   "n": "077/094",
+   "name": "Yungoos",
+   "v": "n"
+  },
+  {
+   "n": "078/094",
+   "name": "Gumshoos",
+   "v": "n"
+  },
+  {
+   "n": "079/094",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "080/094",
+   "name": "Komala",
+   "v": "n"
+  },
+  {
+   "n": "081/094",
+   "name": "Great Potion",
+   "v": "n"
+  },
+  {
+   "n": "082/094",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "083/094",
+   "name": "Stadium Nav",
+   "v": "n"
+  },
+  {
+   "n": "084/094",
+   "name": "Giant Bomb",
+   "v": "n"
+  },
+  {
+   "n": "085/094",
+   "name": "Blue's Tactics",
+   "v": "n"
+  },
+  {
+   "n": "086/094",
+   "name": "Misty's Favor",
+   "v": "n"
+  },
+  {
+   "n": "087/094",
+   "name": "Channeler",
+   "v": "n"
+  },
+  {
+   "n": "088/094",
+   "name": "Slumbering Forest",
+   "v": "n"
+  },
+  {
+   "n": "089/094",
+   "name": "Pokémon Research Lab",
+   "v": "n"
+  },
+  {
+   "n": "090/094",
+   "name": "Weakness Guard Energy",
+   "v": "n"
+  },
+  {
+   "n": "091/094",
+   "name": "Mysterious Treasure",
+   "v": "n"
+  },
+  {
+   "n": "092/094",
+   "name": "Pal Pad",
+   "v": "n"
+  },
+  {
+   "n": "093/094",
+   "name": "Pokégear 3.0",
+   "v": "n"
+  },
+  {
+   "n": "094/094",
+   "name": "Sightseer",
+   "v": "n"
+  },
+  {
+   "n": "095/094",
+   "name": "Slowpoke & Psyduck-GX",
+   "v": "n"
+  },
+  {
+   "n": "096/094",
+   "name": "Slowpoke & Psyduck-GX",
+   "v": "n"
+  },
+  {
+   "n": "097/094",
+   "name": "Mewtwo & Mew-GX",
+   "v": "n"
+  },
+  {
+   "n": "098/094",
+   "name": "Mewtwo & Mew-GX",
+   "v": "n"
+  },
+  {
+   "n": "099/094",
+   "name": "Latios-GX",
+   "v": "n"
+  },
+  {
+   "n": "100/094",
+   "name": "Aerodactyl-GX",
+   "v": "n"
+  },
+  {
+   "n": "101/094",
+   "name": "Mega Sableye & Tyranitar-GX",
+   "v": "n"
+  },
+  {
+   "n": "102/094",
+   "name": "Mega Sableye & Tyranitar-GX",
+   "v": "n"
+  },
+  {
+   "n": "103/094",
+   "name": "Dragonite-GX",
+   "v": "n"
+  },
+  {
+   "n": "104/094",
+   "name": "Blue's Tactics",
+   "v": "n"
+  },
+  {
+   "n": "105/094",
+   "name": "Misty's Favor",
+   "v": "n"
+  },
+  {
+   "n": "106/094",
+   "name": "Channeler",
+   "v": "n"
+  },
+  {
+   "n": "107/094",
+   "name": "Slowpoke & Psyduck-GX",
+   "v": "n"
+  },
+  {
+   "n": "108/094",
+   "name": "Mewtwo & Mew-GX",
+   "v": "n"
+  },
+  {
+   "n": "109/094",
+   "name": "Latios-GX",
+   "v": "n"
+  },
+  {
+   "n": "110/094",
+   "name": "Aerodactyl-GX",
+   "v": "n"
+  },
+  {
+   "n": "111/094",
+   "name": "Mega Sableye & Tyranitar-GX",
+   "v": "n"
+  },
+  {
+   "n": "112/094",
+   "name": "Dragonite-GX",
+   "v": "n"
+  },
+  {
+   "n": "113/094",
+   "name": "Cherish Ball",
+   "v": "n"
+  },
+  {
+   "n": "114/094",
+   "name": "Giant Bomb",
+   "v": "n"
+  },
+  {
+   "n": "115/094",
+   "name": "Weakness Guard Energy",
+   "v": "n"
+  }
+ ]
+}

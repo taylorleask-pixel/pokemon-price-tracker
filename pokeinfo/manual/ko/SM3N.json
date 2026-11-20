@@ -1,0 +1,335 @@
+{
+ "id": "SM3N",
+ "name": "빛을 삼킨 어둠",
+ "name_en": "Darkness that Consumes Light",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2017-06-16",
+ "official": 51,
+ "abbr": "SM3N",
+ "logo": "img/logos/ja/SM3N.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/051",
+   "name": "Caterpie",
+   "v": "n"
+  },
+  {
+   "n": "002/051",
+   "name": "Metapod",
+   "v": "n"
+  },
+  {
+   "n": "003/051",
+   "name": "Butterfree",
+   "v": "n"
+  },
+  {
+   "n": "004/051",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "005/051",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "006/051",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "007/051",
+   "name": "Golisopod-GX",
+   "v": "n"
+  },
+  {
+   "n": "008/051",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "009/051",
+   "name": "Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "010/051",
+   "name": "Panpour",
+   "v": "n"
+  },
+  {
+   "n": "011/051",
+   "name": "Simipour",
+   "v": "n"
+  },
+  {
+   "n": "012/051",
+   "name": "Bruxish",
+   "v": "n"
+  },
+  {
+   "n": "013/051",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "014/051",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "015/051",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "016/051",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "017/051",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "018/051",
+   "name": "Seviper",
+   "v": "n"
+  },
+  {
+   "n": "019/051",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "020/051",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "021/051",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "022/051",
+   "name": "Croagunk",
+   "v": "n"
+  },
+  {
+   "n": "023/051",
+   "name": "Toxicroak",
+   "v": "n"
+  },
+  {
+   "n": "024/051",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "025/051",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "026/051",
+   "name": "Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "027/051",
+   "name": "Rhyhorn",
+   "v": "n"
+  },
+  {
+   "n": "028/051",
+   "name": "Rhydon",
+   "v": "n"
+  },
+  {
+   "n": "029/051",
+   "name": "Rhyperior",
+   "v": "n"
+  },
+  {
+   "n": "030/051",
+   "name": "Sawk",
+   "v": "n"
+  },
+  {
+   "n": "031/051",
+   "name": "Mudbray",
+   "v": "n"
+  },
+  {
+   "n": "032/051",
+   "name": "Mudsdale",
+   "v": "n"
+  },
+  {
+   "n": "033/051",
+   "name": "Marshadow-GX",
+   "v": "n"
+  },
+  {
+   "n": "034/051",
+   "name": "Alolan Rattata",
+   "v": "n"
+  },
+  {
+   "n": "035/051",
+   "name": "Alolan Raticate",
+   "v": "n"
+  },
+  {
+   "n": "036/051",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "037/051",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "038/051",
+   "name": "Gardevoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "039/051",
+   "name": "Morelull",
+   "v": "n"
+  },
+  {
+   "n": "040/051",
+   "name": "Shiinotic",
+   "v": "n"
+  },
+  {
+   "n": "041/051",
+   "name": "Zygarde",
+   "v": "n"
+  },
+  {
+   "n": "042/051",
+   "name": "Porygon",
+   "v": "n"
+  },
+  {
+   "n": "043/051",
+   "name": "Porygon2",
+   "v": "n"
+  },
+  {
+   "n": "044/051",
+   "name": "Porygon-Z",
+   "v": "n"
+  },
+  {
+   "n": "045/051",
+   "name": "Stufful",
+   "v": "n"
+  },
+  {
+   "n": "046/051",
+   "name": "Bewear",
+   "v": "n"
+  },
+  {
+   "n": "047/051",
+   "name": "Super Scoop Up",
+   "v": "n"
+  },
+  {
+   "n": "048/051",
+   "name": "Tormenting Spray",
+   "v": "n"
+  },
+  {
+   "n": "049/051",
+   "name": "Guzma",
+   "v": "n"
+  },
+  {
+   "n": "050/051",
+   "name": "Wicke",
+   "v": "n"
+  },
+  {
+   "n": "051/051",
+   "name": "Po Town",
+   "v": "n"
+  },
+  {
+   "n": "052/051",
+   "name": "Golisopod-GX",
+   "v": "n"
+  },
+  {
+   "n": "053/051",
+   "name": "Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/051",
+   "name": "Marshadow-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/051",
+   "name": "Gardevoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "056/051",
+   "name": "Guzma",
+   "v": "n"
+  },
+  {
+   "n": "057/051",
+   "name": "Wicke",
+   "v": "n"
+  },
+  {
+   "n": "058/051",
+   "name": "Golisopod-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/051",
+   "name": "Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/051",
+   "name": "Marshadow-GX",
+   "v": "n"
+  },
+  {
+   "n": "061/051",
+   "name": "Gardevoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "062/051",
+   "name": "Rescue Stretcher",
+   "v": "n"
+  },
+  {
+   "n": "063/051",
+   "name": "Super Scoop Up",
+   "v": "n"
+  },
+  {
+   "n": "064/051",
+   "name": "Fairy Energy",
+   "v": "n"
+  }
+ ]
+}

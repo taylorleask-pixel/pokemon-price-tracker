@@ -1,0 +1,340 @@
+{
+ "id": "SM8a",
+ "name": "다크오더",
+ "name_en": "Dark Order",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2018-10-05",
+ "official": 52,
+ "abbr": "SM8a",
+ "logo": "img/logos/ja/SM8a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/052",
+   "name": "Litten",
+   "v": "n"
+  },
+  {
+   "n": "002/052",
+   "name": "Torracat",
+   "v": "n"
+  },
+  {
+   "n": "003/052",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "004/052",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "005/052",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "006/052",
+   "name": "Ampharos-GX",
+   "v": "n"
+  },
+  {
+   "n": "007/052",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "008/052",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "009/052",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "010/052",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "011/052",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "012/052",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "013/052",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "014/052",
+   "name": "Tapu Koko ◇",
+   "v": "n"
+  },
+  {
+   "n": "015/052",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "016/052",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "017/052",
+   "name": "Pancham",
+   "v": "n"
+  },
+  {
+   "n": "018/052",
+   "name": "Alolan Grimer",
+   "v": "n"
+  },
+  {
+   "n": "019/052",
+   "name": "Alolan Muk",
+   "v": "n"
+  },
+  {
+   "n": "020/052",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "021/052",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "022/052",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "023/052",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "024/052",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "025/052",
+   "name": "Zorua",
+   "v": "n"
+  },
+  {
+   "n": "026/052",
+   "name": "Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "027/052",
+   "name": "Vullaby",
+   "v": "n"
+  },
+  {
+   "n": "028/052",
+   "name": "Mandibuzz",
+   "v": "n"
+  },
+  {
+   "n": "029/052",
+   "name": "Pangoro",
+   "v": "n"
+  },
+  {
+   "n": "030/052",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "031/052",
+   "name": "Hoopa-GX",
+   "v": "n"
+  },
+  {
+   "n": "032/052",
+   "name": "Incineroar-GX",
+   "v": "n"
+  },
+  {
+   "n": "033/052",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "034/052",
+   "name": "Jirachi",
+   "v": "n"
+  },
+  {
+   "n": "035/052",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "036/052",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "037/052",
+   "name": "Ferroseed",
+   "v": "n"
+  },
+  {
+   "n": "038/052",
+   "name": "Ferrothorn",
+   "v": "n"
+  },
+  {
+   "n": "039/052",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "040/052",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "041/052",
+   "name": "Cobalion-GX",
+   "v": "n"
+  },
+  {
+   "n": "042/052",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "043/052",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "044/052",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "045/052",
+   "name": "Klefki",
+   "v": "n"
+  },
+  {
+   "n": "046/052",
+   "name": "Dangerous Drill",
+   "v": "n"
+  },
+  {
+   "n": "047/052",
+   "name": "Electrocharger",
+   "v": "n"
+  },
+  {
+   "n": "048/052",
+   "name": "Electropower",
+   "v": "n"
+  },
+  {
+   "n": "049/052",
+   "name": "Metal Goggles",
+   "v": "n"
+  },
+  {
+   "n": "050/052",
+   "name": "Jasmine",
+   "v": "n"
+  },
+  {
+   "n": "051/052",
+   "name": "Nanu",
+   "v": "n"
+  },
+  {
+   "n": "052/052",
+   "name": "Black Market ◇",
+   "v": "n"
+  },
+  {
+   "n": "053/052",
+   "name": "Ampharos-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/052",
+   "name": "Hoopa-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/052",
+   "name": "Incineroar-GX",
+   "v": "n"
+  },
+  {
+   "n": "056/052",
+   "name": "Cobalion-GX",
+   "v": "n"
+  },
+  {
+   "n": "057/052",
+   "name": "Jasmine",
+   "v": "n"
+  },
+  {
+   "n": "058/052",
+   "name": "Nanu",
+   "v": "n"
+  },
+  {
+   "n": "059/052",
+   "name": "Ampharos-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/052",
+   "name": "Hoopa-GX",
+   "v": "n"
+  },
+  {
+   "n": "061/052",
+   "name": "Incineroar-GX",
+   "v": "n"
+  },
+  {
+   "n": "062/052",
+   "name": "Cobalion-GX",
+   "v": "n"
+  },
+  {
+   "n": "063/052",
+   "name": "Dangerous Drill",
+   "v": "n"
+  },
+  {
+   "n": "064/052",
+   "name": "Electrocharger",
+   "v": "n"
+  },
+  {
+   "n": "065/052",
+   "name": "Metal Goggles",
+   "v": "n"
+  }
+ ]
+}

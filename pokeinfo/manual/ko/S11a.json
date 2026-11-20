@@ -1,0 +1,485 @@
+{
+ "id": "S11a",
+ "name": "백열의 아르카나",
+ "name_en": "Incandescent Arcana",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2022-09-02",
+ "official": 68,
+ "abbr": "S11a",
+ "logo": "img/logos/ja/S11a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/068",
+   "name": "Scyther",
+   "v": "n"
+  },
+  {
+   "n": "002/068",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "003/068",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "004/068",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "005/068",
+   "name": "Serperior V",
+   "v": "n"
+  },
+  {
+   "n": "006/068",
+   "name": "Serperior VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "007/068",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "008/068",
+   "name": "Hisuian Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "009/068",
+   "name": "Radiant Tsareena",
+   "v": "n"
+  },
+  {
+   "n": "010/068",
+   "name": "Zarude",
+   "v": "n"
+  },
+  {
+   "n": "011/068",
+   "name": "Calyrex",
+   "v": "n"
+  },
+  {
+   "n": "012/068",
+   "name": "Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "013/068",
+   "name": "Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "014/068",
+   "name": "Entei",
+   "v": "n"
+  },
+  {
+   "n": "015/068",
+   "name": "Reshiram V",
+   "v": "n"
+  },
+  {
+   "n": "016/068",
+   "name": "Fennekin",
+   "v": "n"
+  },
+  {
+   "n": "017/068",
+   "name": "Braixen",
+   "v": "n"
+  },
+  {
+   "n": "018/068",
+   "name": "Delphox",
+   "v": "n"
+  },
+  {
+   "n": "019/068",
+   "name": "Volcanion",
+   "v": "n"
+  },
+  {
+   "n": "020/068",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "021/068",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "022/068",
+   "name": "Alolan Vulpix V",
+   "v": "n"
+  },
+  {
+   "n": "023/068",
+   "name": "Alolan Vulpix VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "024/068",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "025/068",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "026/068",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "027/068",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "028/068",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "029/068",
+   "name": "Luvdisc",
+   "v": "n"
+  },
+  {
+   "n": "030/068",
+   "name": "Kyogre",
+   "v": "n"
+  },
+  {
+   "n": "031/068",
+   "name": "Radiant Alakazam",
+   "v": "n"
+  },
+  {
+   "n": "032/068",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "033/068",
+   "name": "Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "034/068",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "035/068",
+   "name": "Mewtwo",
+   "v": "n"
+  },
+  {
+   "n": "036/068",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "037/068",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "038/068",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "039/068",
+   "name": "Mawile V",
+   "v": "n"
+  },
+  {
+   "n": "040/068",
+   "name": "Mawile VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "041/068",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "042/068",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "043/068",
+   "name": "Tapu Lele",
+   "v": "n"
+  },
+  {
+   "n": "044/068",
+   "name": "Scizor",
+   "v": "n"
+  },
+  {
+   "n": "045/068",
+   "name": "Radiant Jirachi",
+   "v": "n"
+  },
+  {
+   "n": "046/068",
+   "name": "Klink",
+   "v": "n"
+  },
+  {
+   "n": "047/068",
+   "name": "Klang",
+   "v": "n"
+  },
+  {
+   "n": "048/068",
+   "name": "Klinklang",
+   "v": "n"
+  },
+  {
+   "n": "049/068",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "050/068",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "051/068",
+   "name": "Magearna V",
+   "v": "n"
+  },
+  {
+   "n": "052/068",
+   "name": "Zacian",
+   "v": "n"
+  },
+  {
+   "n": "053/068",
+   "name": "Zamazenta",
+   "v": "n"
+  },
+  {
+   "n": "054/068",
+   "name": "Smeargle",
+   "v": "n"
+  },
+  {
+   "n": "055/068",
+   "name": "Ho-Oh V",
+   "v": "n"
+  },
+  {
+   "n": "056/068",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "057/068",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "058/068",
+   "name": "Chatot",
+   "v": "n"
+  },
+  {
+   "n": "059/068",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "060/068",
+   "name": "Capturing Aroma",
+   "v": "n"
+  },
+  {
+   "n": "061/068",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "062/068",
+   "name": "Emergency Jelly",
+   "v": "n"
+  },
+  {
+   "n": "063/068",
+   "name": "Furisode Girl",
+   "v": "n"
+  },
+  {
+   "n": "064/068",
+   "name": "Serena",
+   "v": "n"
+  },
+  {
+   "n": "065/068",
+   "name": "Wallace",
+   "v": "n"
+  },
+  {
+   "n": "066/068",
+   "name": "Judge",
+   "v": "n"
+  },
+  {
+   "n": "067/068",
+   "name": "Double Turbo Energy",
+   "v": "n"
+  },
+  {
+   "n": "068/068",
+   "name": "V Guard Energy",
+   "v": "n"
+  },
+  {
+   "n": "069/068",
+   "name": "Braixen",
+   "v": "n"
+  },
+  {
+   "n": "070/068",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "071/068",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "072/068",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "073/068",
+   "name": "Smeargle",
+   "v": "n"
+  },
+  {
+   "n": "074/068",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "075/068",
+   "name": "Serperior V",
+   "v": "n"
+  },
+  {
+   "n": "076/068",
+   "name": "Reshiram V",
+   "v": "n"
+  },
+  {
+   "n": "077/068",
+   "name": "Alolan Vulpix V",
+   "v": "n"
+  },
+  {
+   "n": "078/068",
+   "name": "Mawile V",
+   "v": "n"
+  },
+  {
+   "n": "079/068",
+   "name": "Magearna V",
+   "v": "n"
+  },
+  {
+   "n": "080/068",
+   "name": "Ho-Oh V",
+   "v": "n"
+  },
+  {
+   "n": "081/068",
+   "name": "Furisode Girl",
+   "v": "n"
+  },
+  {
+   "n": "082/068",
+   "name": "Serena",
+   "v": "n"
+  },
+  {
+   "n": "083/068",
+   "name": "Wallace",
+   "v": "n"
+  },
+  {
+   "n": "084/068",
+   "name": "Serperior V",
+   "v": "n"
+  },
+  {
+   "n": "085/068",
+   "name": "Mawile V",
+   "v": "n"
+  },
+  {
+   "n": "086/068",
+   "name": "Serperior VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "087/068",
+   "name": "Alolan Vulpix VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "088/068",
+   "name": "Mawile VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "089/068",
+   "name": "Furisode Girl",
+   "v": "n"
+  },
+  {
+   "n": "090/068",
+   "name": "Serena",
+   "v": "n"
+  },
+  {
+   "n": "091/068",
+   "name": "Wallace",
+   "v": "n"
+  },
+  {
+   "n": "092/068",
+   "name": "Serperior VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "093/068",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "094/068",
+   "name": "V Guard Energy",
+   "v": "n"
+  }
+ ]
+}

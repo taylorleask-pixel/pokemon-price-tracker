@@ -1,0 +1,840 @@
+{
+ "id": "M6a",
+ "name": "30th Celebration",
+ "name_en": "30th Celebration",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2026-09-16",
+ "official": 103,
+ "abbr": "M6a",
+ "logo": "img/logos/ja/M6a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/103",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "002/103",
+   "name": "Alolan Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "003/103",
+   "name": "Volbeat",
+   "v": "n"
+  },
+  {
+   "n": "004/103",
+   "name": "Illumise",
+   "v": "n"
+  },
+  {
+   "n": "005/103",
+   "name": "Vivillon",
+   "v": "n"
+  },
+  {
+   "n": "006/103",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "007/103",
+   "name": "Ho-Oh",
+   "v": "n"
+  },
+  {
+   "n": "008/103",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "009/103",
+   "name": "Fuecoco ex",
+   "v": "n"
+  },
+  {
+   "n": "010/103",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "011/103",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "012/103",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "013/103",
+   "name": "Kyogre",
+   "v": "n"
+  },
+  {
+   "n": "014/103",
+   "name": "Palkia",
+   "v": "n"
+  },
+  {
+   "n": "015/103",
+   "name": "Greninja ex",
+   "v": "n"
+  },
+  {
+   "n": "016/103",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "017/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "018/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "019/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "020/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "021/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "022/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "023/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "024/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "025/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "026/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "027/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "028/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "029/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "030/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "031/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "032/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "033/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "034/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "035/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "036/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "037/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "038/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "039/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "040/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "041/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "042/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "043/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "044/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "045/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "046/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "047/103",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "048/103",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "049/103",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "050/103",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "051/103",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "052/103",
+   "name": "Morpeko",
+   "v": "n"
+  },
+  {
+   "n": "053/103",
+   "name": "Miraidon",
+   "v": "n"
+  },
+  {
+   "n": "054/103",
+   "name": "Mewtwo",
+   "v": "n"
+  },
+  {
+   "n": "055/103",
+   "name": "Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "056/103",
+   "name": "Mew",
+   "v": "n"
+  },
+  {
+   "n": "057/103",
+   "name": "Mew ex",
+   "v": "n"
+  },
+  {
+   "n": "058/103",
+   "name": "Espeon",
+   "v": "n"
+  },
+  {
+   "n": "059/103",
+   "name": "Sylveon ex",
+   "v": "n"
+  },
+  {
+   "n": "060/103",
+   "name": "Unown",
+   "v": "n"
+  },
+  {
+   "n": "061/103",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "062/103",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "063/103",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "064/103",
+   "name": "Cosmog",
+   "v": "n"
+  },
+  {
+   "n": "065/103",
+   "name": "Cosmoem",
+   "v": "n"
+  },
+  {
+   "n": "066/103",
+   "name": "Lunala",
+   "v": "n"
+  },
+  {
+   "n": "067/103",
+   "name": "Gimmighoul",
+   "v": "n"
+  },
+  {
+   "n": "068/103",
+   "name": "Groudon",
+   "v": "n"
+  },
+  {
+   "n": "069/103",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "070/103",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "071/103",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "072/103",
+   "name": "Koraidon",
+   "v": "n"
+  },
+  {
+   "n": "073/103",
+   "name": "Nidoran ♀",
+   "v": "n"
+  },
+  {
+   "n": "074/103",
+   "name": "Nidorina",
+   "v": "n"
+  },
+  {
+   "n": "075/103",
+   "name": "Alolan Meowth",
+   "v": "n"
+  },
+  {
+   "n": "076/103",
+   "name": "Gengar ex",
+   "v": "n"
+  },
+  {
+   "n": "077/103",
+   "name": "Umbreon",
+   "v": "n"
+  },
+  {
+   "n": "078/103",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "079/103",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "080/103",
+   "name": "Galarian Meowth",
+   "v": "n"
+  },
+  {
+   "n": "081/103",
+   "name": "Jirachi ex",
+   "v": "n"
+  },
+  {
+   "n": "082/103",
+   "name": "Dialga",
+   "v": "n"
+  },
+  {
+   "n": "083/103",
+   "name": "Ferrothorn",
+   "v": "n"
+  },
+  {
+   "n": "084/103",
+   "name": "Solgaleo",
+   "v": "n"
+  },
+  {
+   "n": "085/103",
+   "name": "Zacian",
+   "v": "n"
+  },
+  {
+   "n": "086/103",
+   "name": "Zamazenta",
+   "v": "n"
+  },
+  {
+   "n": "087/103",
+   "name": "Gholdengo",
+   "v": "n"
+  },
+  {
+   "n": "088/103",
+   "name": "Salamence ex",
+   "v": "n"
+  },
+  {
+   "n": "089/103",
+   "name": "Jangmo-o",
+   "v": "n"
+  },
+  {
+   "n": "090/103",
+   "name": "Hakamo-o",
+   "v": "n"
+  },
+  {
+   "n": "091/103",
+   "name": "Kommo-o",
+   "v": "n"
+  },
+  {
+   "n": "092/103",
+   "name": "Meowth",
+   "v": "n"
+  },
+  {
+   "n": "093/103",
+   "name": "Ditto",
+   "v": "n"
+  },
+  {
+   "n": "094/103",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "095/103",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "096/103",
+   "name": "Igglybuff",
+   "v": "n"
+  },
+  {
+   "n": "097/103",
+   "name": "Lugia",
+   "v": "n"
+  },
+  {
+   "n": "098/103",
+   "name": "Hisuian Zorua",
+   "v": "n"
+  },
+  {
+   "n": "099/103",
+   "name": "Hisuian Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "100/103",
+   "name": "Maushold",
+   "v": "n"
+  },
+  {
+   "n": "101/103",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "102/103",
+   "name": "Poké Pad",
+   "v": "n"
+  },
+  {
+   "n": "103/103",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "104/103",
+   "name": "Alolan Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "105/103",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "106/103",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "107/103",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "108/103",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "109/103",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "110/103",
+   "name": "Morpeko",
+   "v": "n"
+  },
+  {
+   "n": "111/103",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "112/103",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "113/103",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "114/103",
+   "name": "Nidorina",
+   "v": "n"
+  },
+  {
+   "n": "115/103",
+   "name": "Alolan Meowth",
+   "v": "n"
+  },
+  {
+   "n": "116/103",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "117/103",
+   "name": "Galarian Meowth",
+   "v": "n"
+  },
+  {
+   "n": "118/103",
+   "name": "Gholdengo",
+   "v": "n"
+  },
+  {
+   "n": "119/103",
+   "name": "Kommo-o",
+   "v": "n"
+  },
+  {
+   "n": "120/103",
+   "name": "Meowth",
+   "v": "n"
+  },
+  {
+   "n": "121/103",
+   "name": "Ditto",
+   "v": "n"
+  },
+  {
+   "n": "122/103",
+   "name": "Hisuian Zorua",
+   "v": "n"
+  },
+  {
+   "n": "123/103",
+   "name": "Maushold",
+   "v": "n"
+  },
+  {
+   "n": "124/103",
+   "name": "Fuecoco ex",
+   "v": "n"
+  },
+  {
+   "n": "125/103",
+   "name": "Greninja ex",
+   "v": "n"
+  },
+  {
+   "n": "126/103",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "127/103",
+   "name": "Pikachu ex",
+   "v": "n"
+  },
+  {
+   "n": "128/103",
+   "name": "Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "129/103",
+   "name": "Mew ex",
+   "v": "n"
+  },
+  {
+   "n": "130/103",
+   "name": "Sylveon ex",
+   "v": "n"
+  },
+  {
+   "n": "131/103",
+   "name": "Gengar ex",
+   "v": "n"
+  },
+  {
+   "n": "132/103",
+   "name": "Jirachi ex",
+   "v": "n"
+  },
+  {
+   "n": "133/103",
+   "name": "Salamence ex",
+   "v": "n"
+  },
+  {
+   "n": "134/103",
+   "name": "Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "135/103",
+   "name": "Mew ex",
+   "v": "n"
+  },
+  {
+   "n": "136/103",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "137/103",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "138/103",
+   "name": "Misty",
+   "v": "n"
+  },
+  {
+   "n": "139/103",
+   "name": "Erika's Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "140/103",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "141/103",
+   "name": "Shining Celebi",
+   "v": "n"
+  },
+  {
+   "n": "142/103",
+   "name": "Lugia",
+   "v": "n"
+  },
+  {
+   "n": "143/103",
+   "name": "Delcatty",
+   "v": "n"
+  },
+  {
+   "n": "144/103",
+   "name": "Dark Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "145/103",
+   "name": "Scizor ex",
+   "v": "n"
+  },
+  {
+   "n": "146/103",
+   "name": "Metagross",
+   "v": "n"
+  },
+  {
+   "n": "147/103",
+   "name": "Palkia LV.X",
+   "v": "n"
+  },
+  {
+   "n": "148/103",
+   "name": "Uxie",
+   "v": "n"
+  },
+  {
+   "n": "149/103",
+   "name": "Crobat G",
+   "v": "n"
+  },
+  {
+   "n": "150/103",
+   "name": "Gengar",
+   "v": "n"
+  },
+  {
+   "n": "151/103",
+   "name": "Darkrai & Cresselia LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "152/103",
+   "name": "Darkrai & Cresselia LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "153/103",
+   "name": "N",
+   "v": "n"
+  },
+  {
+   "n": "154/103",
+   "name": "Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "155/103",
+   "name": "Genesect-EX",
+   "v": "n"
+  },
+  {
+   "n": "156/103",
+   "name": "M Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "157/103",
+   "name": "Greninja BREAK",
+   "v": "n"
+  },
+  {
+   "n": "158/103",
+   "name": "Solgaleo-GX",
+   "v": "n"
+  },
+  {
+   "n": "159/103",
+   "name": "Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "160/103",
+   "name": "Pikachu & Zekrom-GX",
+   "v": "n"
+  },
+  {
+   "n": "161/103",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "162/103",
+   "name": "Raikou",
+   "v": "n"
+  },
+  {
+   "n": "163/103",
+   "name": "Mew VMAX",
+   "v": "n"
+  },
+  {
+   "n": "164/103",
+   "name": "Arceus VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "165/103",
+   "name": "Magikarp",
+   "v": "n"
+  }
+ ]
+}

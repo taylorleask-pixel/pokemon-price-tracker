@@ -1,0 +1,325 @@
+{
+ "id": "SM2L",
+ "name": "알로라의 달빛",
+ "name_en": "Alolan Moonlight",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2017-03-17",
+ "official": 50,
+ "abbr": "SM2L",
+ "logo": "img/logos/ja/SM2L.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/050",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "002/050",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "003/050",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "004/050",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "005/050",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "006/050",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "007/050",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "008/050",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "009/050",
+   "name": "Tentacruel",
+   "v": "n"
+  },
+  {
+   "n": "010/050",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "011/050",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "012/050",
+   "name": "Alomomola",
+   "v": "n"
+  },
+  {
+   "n": "013/050",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "014/050",
+   "name": "Wishiwashi-GX",
+   "v": "n"
+  },
+  {
+   "n": "015/050",
+   "name": "Alolan Geodude",
+   "v": "n"
+  },
+  {
+   "n": "016/050",
+   "name": "Alolan Graveler",
+   "v": "n"
+  },
+  {
+   "n": "017/050",
+   "name": "Alolan Golem",
+   "v": "n"
+  },
+  {
+   "n": "018/050",
+   "name": "Trubbish",
+   "v": "n"
+  },
+  {
+   "n": "019/050",
+   "name": "Garbodor",
+   "v": "n"
+  },
+  {
+   "n": "020/050",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "021/050",
+   "name": "Dhelmise",
+   "v": "n"
+  },
+  {
+   "n": "022/050",
+   "name": "Tapu Lele-GX",
+   "v": "n"
+  },
+  {
+   "n": "023/050",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "024/050",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "025/050",
+   "name": "Pancham",
+   "v": "n"
+  },
+  {
+   "n": "026/050",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "027/050",
+   "name": "Lycanroc-GX",
+   "v": "n"
+  },
+  {
+   "n": "028/050",
+   "name": "Minior",
+   "v": "n"
+  },
+  {
+   "n": "029/050",
+   "name": "Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "030/050",
+   "name": "Honchkrow",
+   "v": "n"
+  },
+  {
+   "n": "031/050",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "032/050",
+   "name": "Pangoro",
+   "v": "n"
+  },
+  {
+   "n": "033/050",
+   "name": "Beldum",
+   "v": "n"
+  },
+  {
+   "n": "034/050",
+   "name": "Metang",
+   "v": "n"
+  },
+  {
+   "n": "035/050",
+   "name": "Metagross-GX",
+   "v": "n"
+  },
+  {
+   "n": "036/050",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "037/050",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "038/050",
+   "name": "Goomy",
+   "v": "n"
+  },
+  {
+   "n": "039/050",
+   "name": "Sliggoo",
+   "v": "n"
+  },
+  {
+   "n": "040/050",
+   "name": "Goodra",
+   "v": "n"
+  },
+  {
+   "n": "041/050",
+   "name": "Castform",
+   "v": "n"
+  },
+  {
+   "n": "042/050",
+   "name": "Patrat",
+   "v": "n"
+  },
+  {
+   "n": "043/050",
+   "name": "Watchog",
+   "v": "n"
+  },
+  {
+   "n": "044/050",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "045/050",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "046/050",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "047/050",
+   "name": "Rescue Stretcher",
+   "v": "n"
+  },
+  {
+   "n": "048/050",
+   "name": "Aqua Patch",
+   "v": "n"
+  },
+  {
+   "n": "049/050",
+   "name": "Mallow",
+   "v": "n"
+  },
+  {
+   "n": "050/050",
+   "name": "Brooklet Hill",
+   "v": "n"
+  },
+  {
+   "n": "051/050",
+   "name": "Wishiwashi-GX",
+   "v": "n"
+  },
+  {
+   "n": "052/050",
+   "name": "Tapu Lele-GX",
+   "v": "n"
+  },
+  {
+   "n": "053/050",
+   "name": "Lycanroc-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/050",
+   "name": "Metagross-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/050",
+   "name": "Mallow",
+   "v": "n"
+  },
+  {
+   "n": "056/050",
+   "name": "Wishiwashi-GX",
+   "v": "n"
+  },
+  {
+   "n": "057/050",
+   "name": "Tapu Lele-GX",
+   "v": "n"
+  },
+  {
+   "n": "058/050",
+   "name": "Lycanroc-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/050",
+   "name": "Metagross-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/050",
+   "name": "Aqua Patch",
+   "v": "n"
+  },
+  {
+   "n": "061/050",
+   "name": "Enhanced Hammer",
+   "v": "n"
+  },
+  {
+   "n": "062/050",
+   "name": "Fighting Energy",
+   "v": "n"
+  }
+ ]
+}

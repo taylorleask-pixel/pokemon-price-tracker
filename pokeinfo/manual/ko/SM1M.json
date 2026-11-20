@@ -1,0 +1,380 @@
+{
+ "id": "SM1M",
+ "name": "문 컬렉션",
+ "name_en": "Collection Moon",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2016-12-09",
+ "official": 60,
+ "abbr": "SM1M",
+ "logo": "img/logos/ja/SM1M.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/060",
+   "name": "Paste list Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "002/060",
+   "name": "Surskit",
+   "v": "n"
+  },
+  {
+   "n": "003/060",
+   "name": "Masquerain",
+   "v": "n"
+  },
+  {
+   "n": "004/060",
+   "name": "Grubbin",
+   "v": "n"
+  },
+  {
+   "n": "005/060",
+   "name": "Fomantis",
+   "v": "n"
+  },
+  {
+   "n": "006/060",
+   "name": "Lurantis-GX",
+   "v": "n"
+  },
+  {
+   "n": "007/060",
+   "name": "Morelull",
+   "v": "n"
+  },
+  {
+   "n": "008/060",
+   "name": "Shiinotic",
+   "v": "n"
+  },
+  {
+   "n": "009/060",
+   "name": "Poliwag",
+   "v": "n"
+  },
+  {
+   "n": "010/060",
+   "name": "Poliwhirl",
+   "v": "n"
+  },
+  {
+   "n": "011/060",
+   "name": "Poliwrath",
+   "v": "n"
+  },
+  {
+   "n": "012/060",
+   "name": "Corsola",
+   "v": "n"
+  },
+  {
+   "n": "013/060",
+   "name": "Wingull",
+   "v": "n"
+  },
+  {
+   "n": "014/060",
+   "name": "Pelipper",
+   "v": "n"
+  },
+  {
+   "n": "015/060",
+   "name": "Crabominable",
+   "v": "n"
+  },
+  {
+   "n": "016/060",
+   "name": "Bruxish",
+   "v": "n"
+  },
+  {
+   "n": "017/060",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "018/060",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "019/060",
+   "name": "Charjabug",
+   "v": "n"
+  },
+  {
+   "n": "020/060",
+   "name": "Vikavolt",
+   "v": "n"
+  },
+  {
+   "n": "021/060",
+   "name": "Togedemaru",
+   "v": "n"
+  },
+  {
+   "n": "022/060",
+   "name": "Alolan Grimer",
+   "v": "n"
+  },
+  {
+   "n": "023/060",
+   "name": "Alolan Muk",
+   "v": "n"
+  },
+  {
+   "n": "024/060",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "025/060",
+   "name": "Hypno",
+   "v": "n"
+  },
+  {
+   "n": "026/060",
+   "name": "Cosmog",
+   "v": "n"
+  },
+  {
+   "n": "027/060",
+   "name": "Cosmoem",
+   "v": "n"
+  },
+  {
+   "n": "028/060",
+   "name": "Lunala-GX",
+   "v": "n"
+  },
+  {
+   "n": "029/060",
+   "name": "Roggenrola",
+   "v": "n"
+  },
+  {
+   "n": "030/060",
+   "name": "Boldore",
+   "v": "n"
+  },
+  {
+   "n": "031/060",
+   "name": "Gigalith",
+   "v": "n"
+  },
+  {
+   "n": "032/060",
+   "name": "Crabrawler",
+   "v": "n"
+  },
+  {
+   "n": "033/060",
+   "name": "Sandygast",
+   "v": "n"
+  },
+  {
+   "n": "034/060",
+   "name": "Palossand",
+   "v": "n"
+  },
+  {
+   "n": "035/060",
+   "name": "Alolan Rattata",
+   "v": "n"
+  },
+  {
+   "n": "036/060",
+   "name": "Alolan Raticate",
+   "v": "n"
+  },
+  {
+   "n": "037/060",
+   "name": "Umbreon-GX",
+   "v": "n"
+  },
+  {
+   "n": "038/060",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "039/060",
+   "name": "Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "040/060",
+   "name": "Snubbull",
+   "v": "n"
+  },
+  {
+   "n": "041/060",
+   "name": "Granbull",
+   "v": "n"
+  },
+  {
+   "n": "042/060",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "043/060",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "044/060",
+   "name": "Dragonite",
+   "v": "n"
+  },
+  {
+   "n": "045/060",
+   "name": "Spearow",
+   "v": "n"
+  },
+  {
+   "n": "046/060",
+   "name": "Fearow",
+   "v": "n"
+  },
+  {
+   "n": "047/060",
+   "name": "Tauros-GX",
+   "v": "n"
+  },
+  {
+   "n": "048/060",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "049/060",
+   "name": "Pikipek",
+   "v": "n"
+  },
+  {
+   "n": "050/060",
+   "name": "Trumbeak",
+   "v": "n"
+  },
+  {
+   "n": "051/060",
+   "name": "Toucannon",
+   "v": "n"
+  },
+  {
+   "n": "052/060",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "053/060",
+   "name": "Nest Ball",
+   "v": "n"
+  },
+  {
+   "n": "054/060",
+   "name": "Energy Retrieval",
+   "v": "n"
+  },
+  {
+   "n": "055/060",
+   "name": "Big Malasada",
+   "v": "n"
+  },
+  {
+   "n": "056/060",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "057/060",
+   "name": "Poison Barb",
+   "v": "n"
+  },
+  {
+   "n": "058/060",
+   "name": "Lillie",
+   "v": "n"
+  },
+  {
+   "n": "059/060",
+   "name": "Team Skull Grunt",
+   "v": "n"
+  },
+  {
+   "n": "060/060",
+   "name": "Rainbow Energy",
+   "v": "n"
+  },
+  {
+   "n": "061/060",
+   "name": "Lurantis-GX",
+   "v": "n"
+  },
+  {
+   "n": "062/060",
+   "name": "Lunala-GX",
+   "v": "n"
+  },
+  {
+   "n": "063/060",
+   "name": "Umbreon-GX",
+   "v": "n"
+  },
+  {
+   "n": "064/060",
+   "name": "Tauros-GX",
+   "v": "n"
+  },
+  {
+   "n": "065/060",
+   "name": "Lillie",
+   "v": "n"
+  },
+  {
+   "n": "066/060",
+   "name": "Team Skull Grunt",
+   "v": "n"
+  },
+  {
+   "n": "067/060",
+   "name": "Lurantis-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/060",
+   "name": "Lunala-GX",
+   "v": "n"
+  },
+  {
+   "n": "069/060",
+   "name": "Umbreon-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/060",
+   "name": "Tauros-GX",
+   "v": "n"
+  },
+  {
+   "n": "071/060",
+   "name": "Nest Ball",
+   "v": "n"
+  },
+  {
+   "n": "072/060",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "073/060",
+   "name": "Psychic Energy",
+   "v": "n"
+  }
+ ]
+}

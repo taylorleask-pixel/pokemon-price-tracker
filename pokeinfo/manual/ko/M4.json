@@ -1,0 +1,615 @@
+{
+ "id": "M4",
+ "name": "Ninja Spinner",
+ "name_en": "Ninja Spinner",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2026-03-13",
+ "official": 83,
+ "abbr": "M4",
+ "logo": "img/logos/ja/M4.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/083",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/083",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/083",
+   "name": "Beedrill ex",
+   "v": "n"
+  },
+  {
+   "n": "004/083",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "005/083",
+   "name": "Chespin",
+   "v": "n"
+  },
+  {
+   "n": "006/083",
+   "name": "Quilladin",
+   "v": "n"
+  },
+  {
+   "n": "007/083",
+   "name": "Chesnaught",
+   "v": "n"
+  },
+  {
+   "n": "008/083",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "009/083",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "010/083",
+   "name": "Ho-Oh",
+   "v": "n"
+  },
+  {
+   "n": "011/083",
+   "name": "Fennekin",
+   "v": "n"
+  },
+  {
+   "n": "012/083",
+   "name": "Braixen",
+   "v": "n"
+  },
+  {
+   "n": "013/083",
+   "name": "Delphox",
+   "v": "n"
+  },
+  {
+   "n": "014/083",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "015/083",
+   "name": "Mega Pyroar ex",
+   "v": "n"
+  },
+  {
+   "n": "016/083",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "017/083",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "018/083",
+   "name": "Delibird",
+   "v": "n"
+  },
+  {
+   "n": "019/083",
+   "name": "Keldeo",
+   "v": "n"
+  },
+  {
+   "n": "020/083",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "021/083",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "022/083",
+   "name": "Mega Greninja ex",
+   "v": "n"
+  },
+  {
+   "n": "023/083",
+   "name": "Bergmite",
+   "v": "n"
+  },
+  {
+   "n": "024/083",
+   "name": "Avalugg",
+   "v": "n"
+  },
+  {
+   "n": "025/083",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "026/083",
+   "name": "Golisopod",
+   "v": "n"
+  },
+  {
+   "n": "027/083",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "028/083",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "029/083",
+   "name": "Ampharos",
+   "v": "n"
+  },
+  {
+   "n": "030/083",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "031/083",
+   "name": "Deoxys",
+   "v": "n"
+  },
+  {
+   "n": "032/083",
+   "name": "Deoxys",
+   "v": "n"
+  },
+  {
+   "n": "033/083",
+   "name": "Deoxys",
+   "v": "n"
+  },
+  {
+   "n": "034/083",
+   "name": "Deoxys",
+   "v": "n"
+  },
+  {
+   "n": "035/083",
+   "name": "Mega Floette ex",
+   "v": "n"
+  },
+  {
+   "n": "036/083",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "037/083",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "038/083",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "039/083",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "040/083",
+   "name": "Pumpkaboo",
+   "v": "n"
+  },
+  {
+   "n": "041/083",
+   "name": "Gourgeist ex",
+   "v": "n"
+  },
+  {
+   "n": "042/083",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "043/083",
+   "name": "Sudowoodo",
+   "v": "n"
+  },
+  {
+   "n": "044/083",
+   "name": "Phanpy",
+   "v": "n"
+  },
+  {
+   "n": "045/083",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "046/083",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "047/083",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "048/083",
+   "name": "Zubat",
+   "v": "n"
+  },
+  {
+   "n": "049/083",
+   "name": "Golbat",
+   "v": "n"
+  },
+  {
+   "n": "050/083",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "051/083",
+   "name": "Qwilfish",
+   "v": "n"
+  },
+  {
+   "n": "052/083",
+   "name": "Stunky",
+   "v": "n"
+  },
+  {
+   "n": "053/083",
+   "name": "Skuntank",
+   "v": "n"
+  },
+  {
+   "n": "054/083",
+   "name": "Trubbish",
+   "v": "n"
+  },
+  {
+   "n": "055/083",
+   "name": "Garbodor",
+   "v": "n"
+  },
+  {
+   "n": "056/083",
+   "name": "Skrelp",
+   "v": "n"
+  },
+  {
+   "n": "057/083",
+   "name": "Beldum",
+   "v": "n"
+  },
+  {
+   "n": "058/083",
+   "name": "Metang",
+   "v": "n"
+  },
+  {
+   "n": "059/083",
+   "name": "Metagross",
+   "v": "n"
+  },
+  {
+   "n": "060/083",
+   "name": "Ferroseed",
+   "v": "n"
+  },
+  {
+   "n": "061/083",
+   "name": "Ferrothorn",
+   "v": "n"
+  },
+  {
+   "n": "062/083",
+   "name": "Cobalion ex",
+   "v": "n"
+  },
+  {
+   "n": "063/083",
+   "name": "Mega Dragalge ex",
+   "v": "n"
+  },
+  {
+   "n": "064/083",
+   "name": "Goomy",
+   "v": "n"
+  },
+  {
+   "n": "065/083",
+   "name": "Sliggoo",
+   "v": "n"
+  },
+  {
+   "n": "066/083",
+   "name": "Goodra",
+   "v": "n"
+  },
+  {
+   "n": "067/083",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "068/083",
+   "name": "Patrat",
+   "v": "n"
+  },
+  {
+   "n": "069/083",
+   "name": "Watchog",
+   "v": "n"
+  },
+  {
+   "n": "070/083",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "071/083",
+   "name": "Cinccino ex",
+   "v": "n"
+  },
+  {
+   "n": "072/083",
+   "name": "Transformation Tome",
+   "v": "n"
+  },
+  {
+   "n": "073/083",
+   "name": "Special Red Card",
+   "v": "n"
+  },
+  {
+   "n": "074/083",
+   "name": "Great Haul Net",
+   "v": "n"
+  },
+  {
+   "n": "075/083",
+   "name": "AZ's Tranquility",
+   "v": "n"
+  },
+  {
+   "n": "076/083",
+   "name": "Emma",
+   "v": "n"
+  },
+  {
+   "n": "077/083",
+   "name": "Roxie's Performance",
+   "v": "n"
+  },
+  {
+   "n": "078/083",
+   "name": "Philippe",
+   "v": "n"
+  },
+  {
+   "n": "079/083",
+   "name": "Ange Floette",
+   "v": "n"
+  },
+  {
+   "n": "080/083",
+   "name": "Prism Tower",
+   "v": "n"
+  },
+  {
+   "n": "081/083",
+   "name": "Nitro Fire Energy",
+   "v": "n"
+  },
+  {
+   "n": "082/083",
+   "name": "Bubbly Water Energy",
+   "v": "n"
+  },
+  {
+   "n": "083/083",
+   "name": "Magnetic Metal Energy",
+   "v": "n"
+  },
+  {
+   "n": "084/083",
+   "name": "Chespin",
+   "v": "n"
+  },
+  {
+   "n": "085/083",
+   "name": "Fennekin",
+   "v": "n"
+  },
+  {
+   "n": "086/083",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "087/083",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "088/083",
+   "name": "Ampharos",
+   "v": "n"
+  },
+  {
+   "n": "089/083",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "090/083",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "091/083",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "092/083",
+   "name": "Metang",
+   "v": "n"
+  },
+  {
+   "n": "093/083",
+   "name": "Sliggoo",
+   "v": "n"
+  },
+  {
+   "n": "094/083",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "095/083",
+   "name": "Watchog",
+   "v": "n"
+  },
+  {
+   "n": "096/083",
+   "name": "Beedrill ex",
+   "v": "n"
+  },
+  {
+   "n": "097/083",
+   "name": "Mega Pyroar ex",
+   "v": "n"
+  },
+  {
+   "n": "098/083",
+   "name": "Mega Greninja ex",
+   "v": "n"
+  },
+  {
+   "n": "099/083",
+   "name": "Mega Floette ex",
+   "v": "n"
+  },
+  {
+   "n": "100/083",
+   "name": "Gourgeist ex",
+   "v": "n"
+  },
+  {
+   "n": "101/083",
+   "name": "Cobalion ex",
+   "v": "n"
+  },
+  {
+   "n": "102/083",
+   "name": "Mega Dragalge ex",
+   "v": "n"
+  },
+  {
+   "n": "103/083",
+   "name": "Cinccino ex",
+   "v": "n"
+  },
+  {
+   "n": "104/083",
+   "name": "Special Red Card",
+   "v": "n"
+  },
+  {
+   "n": "105/083",
+   "name": "Energy Retrieval",
+   "v": "n"
+  },
+  {
+   "n": "106/083",
+   "name": "Jumbo Ice Cream",
+   "v": "n"
+  },
+  {
+   "n": "107/083",
+   "name": "Tool Scrapper",
+   "v": "n"
+  },
+  {
+   "n": "108/083",
+   "name": "AZ's Tranquility",
+   "v": "n"
+  },
+  {
+   "n": "109/083",
+   "name": "Emma",
+   "v": "n"
+  },
+  {
+   "n": "110/083",
+   "name": "Roxie's Performance",
+   "v": "n"
+  },
+  {
+   "n": "111/083",
+   "name": "Philippe",
+   "v": "n"
+  },
+  {
+   "n": "112/083",
+   "name": "Surfing Beach",
+   "v": "n"
+  },
+  {
+   "n": "113/083",
+   "name": "Prism Tower",
+   "v": "n"
+  },
+  {
+   "n": "114/083",
+   "name": "Mega Greninja ex",
+   "v": "n"
+  },
+  {
+   "n": "115/083",
+   "name": "Mega Floette ex",
+   "v": "n"
+  },
+  {
+   "n": "116/083",
+   "name": "Mega Dragalge ex",
+   "v": "n"
+  },
+  {
+   "n": "117/083",
+   "name": "Cinccino ex",
+   "v": "n"
+  },
+  {
+   "n": "118/083",
+   "name": "AZ's Tranquility",
+   "v": "n"
+  },
+  {
+   "n": "119/083",
+   "name": "Roxie's Performance",
+   "v": "n"
+  },
+  {
+   "n": "120/083",
+   "name": "Mega Greninja ex",
+   "v": "n"
+  }
+ ]
+}

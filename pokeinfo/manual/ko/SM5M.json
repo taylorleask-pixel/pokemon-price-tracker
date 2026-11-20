@@ -1,0 +1,405 @@
+{
+ "id": "SM5M",
+ "name": "울트라문",
+ "name_en": "Ultra Moon",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2017-12-08",
+ "official": 66,
+ "abbr": "SM5M",
+ "logo": "img/logos/ja/SM5M.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/066",
+   "name": "Alolan Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "002/066",
+   "name": "Alolan Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "003/066",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "004/066",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "005/066",
+   "name": "Prinplup",
+   "v": "n"
+  },
+  {
+   "n": "006/066",
+   "name": "Empoleon",
+   "v": "n"
+  },
+  {
+   "n": "007/066",
+   "name": "Buizel",
+   "v": "n"
+  },
+  {
+   "n": "008/066",
+   "name": "Floatzel",
+   "v": "n"
+  },
+  {
+   "n": "009/066",
+   "name": "Snover",
+   "v": "n"
+  },
+  {
+   "n": "010/066",
+   "name": "Abomasnow",
+   "v": "n"
+  },
+  {
+   "n": "011/066",
+   "name": "Glaceon-GX",
+   "v": "n"
+  },
+  {
+   "n": "012/066",
+   "name": "Wash Rotom",
+   "v": "n"
+  },
+  {
+   "n": "013/066",
+   "name": "Frost Rotom",
+   "v": "n"
+  },
+  {
+   "n": "014/066",
+   "name": "Manaphy",
+   "v": "n"
+  },
+  {
+   "n": "015/066",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "016/066",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "017/066",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "018/066",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "019/066",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "020/066",
+   "name": "Luxray",
+   "v": "n"
+  },
+  {
+   "n": "021/066",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "022/066",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "023/066",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "024/066",
+   "name": "Drifblim",
+   "v": "n"
+  },
+  {
+   "n": "025/066",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "026/066",
+   "name": "Skorupi",
+   "v": "n"
+  },
+  {
+   "n": "027/066",
+   "name": "Drapion",
+   "v": "n"
+  },
+  {
+   "n": "028/066",
+   "name": "Croagunk",
+   "v": "n"
+  },
+  {
+   "n": "029/066",
+   "name": "Toxicroak",
+   "v": "n"
+  },
+  {
+   "n": "030/066",
+   "name": "Giratina ◇",
+   "v": "n"
+  },
+  {
+   "n": "031/066",
+   "name": "Cresselia",
+   "v": "n"
+  },
+  {
+   "n": "032/066",
+   "name": "Lunala ◇",
+   "v": "n"
+  },
+  {
+   "n": "033/066",
+   "name": "Dawn Wings Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "034/066",
+   "name": "Cranidos",
+   "v": "n"
+  },
+  {
+   "n": "035/066",
+   "name": "Rampardos",
+   "v": "n"
+  },
+  {
+   "n": "036/066",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "037/066",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "038/066",
+   "name": "Hippopotas",
+   "v": "n"
+  },
+  {
+   "n": "039/066",
+   "name": "Hippowdon",
+   "v": "n"
+  },
+  {
+   "n": "040/066",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "041/066",
+   "name": "Gible",
+   "v": "n"
+  },
+  {
+   "n": "042/066",
+   "name": "Gible",
+   "v": "n"
+  },
+  {
+   "n": "043/066",
+   "name": "Gabite",
+   "v": "n"
+  },
+  {
+   "n": "044/066",
+   "name": "Garchomp",
+   "v": "n"
+  },
+  {
+   "n": "045/066",
+   "name": "Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "046/066",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "047/066",
+   "name": "Buneary",
+   "v": "n"
+  },
+  {
+   "n": "048/066",
+   "name": "Lopunny",
+   "v": "n"
+  },
+  {
+   "n": "049/066",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "050/066",
+   "name": "Yungoos",
+   "v": "n"
+  },
+  {
+   "n": "051/066",
+   "name": "Gumshoos",
+   "v": "n"
+  },
+  {
+   "n": "052/066",
+   "name": "Drampa",
+   "v": "n"
+  },
+  {
+   "n": "053/066",
+   "name": "Order Pad",
+   "v": "n"
+  },
+  {
+   "n": "054/066",
+   "name": "Rescue Stretcher",
+   "v": "n"
+  },
+  {
+   "n": "055/066",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "056/066",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "057/066",
+   "name": "Crushing Hammer",
+   "v": "n"
+  },
+  {
+   "n": "058/066",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "059/066",
+   "name": "Looker Whistle",
+   "v": "n"
+  },
+  {
+   "n": "060/066",
+   "name": "Escape Board",
+   "v": "n"
+  },
+  {
+   "n": "061/066",
+   "name": "Cynthia",
+   "v": "n"
+  },
+  {
+   "n": "062/066",
+   "name": "Sophocles",
+   "v": "n"
+  },
+  {
+   "n": "063/066",
+   "name": "Volkner",
+   "v": "n"
+  },
+  {
+   "n": "064/066",
+   "name": "Looker",
+   "v": "n"
+  },
+  {
+   "n": "065/066",
+   "name": "Unit Energy LPM",
+   "v": "n"
+  },
+  {
+   "n": "066/066",
+   "name": "Super Boost Energy ◇",
+   "v": "n"
+  },
+  {
+   "n": "067/066",
+   "name": "Glaceon-GX",
+   "v": "n"
+  },
+  {
+   "n": "068/066",
+   "name": "Dawn Wings Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "069/066",
+   "name": "Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "070/066",
+   "name": "Cynthia",
+   "v": "n"
+  },
+  {
+   "n": "071/066",
+   "name": "Volkner",
+   "v": "n"
+  },
+  {
+   "n": "072/066",
+   "name": "Looker",
+   "v": "n"
+  },
+  {
+   "n": "073/066",
+   "name": "Glaceon-GX",
+   "v": "n"
+  },
+  {
+   "n": "074/066",
+   "name": "Dawn Wings Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "075/066",
+   "name": "Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "076/066",
+   "name": "Crushing Hammer",
+   "v": "n"
+  },
+  {
+   "n": "077/066",
+   "name": "Escape Board",
+   "v": "n"
+  },
+  {
+   "n": "078/066",
+   "name": "Unit Energy LPM",
+   "v": "n"
+  }
+ ]
+}

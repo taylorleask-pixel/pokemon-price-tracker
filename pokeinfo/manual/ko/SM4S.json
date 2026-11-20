@@ -1,0 +1,325 @@
+{
+ "id": "SM4S",
+ "name": "각성의 용사",
+ "name_en": "Awakened Heroes",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2017-09-15",
+ "official": 50,
+ "abbr": "SM4S",
+ "logo": "img/logos/ja/SM4S.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/050",
+   "name": "Cacnea",
+   "v": "n"
+  },
+  {
+   "n": "002/050",
+   "name": "Cacturne",
+   "v": "n"
+  },
+  {
+   "n": "003/050",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "004/050",
+   "name": "Skiddo",
+   "v": "n"
+  },
+  {
+   "n": "005/050",
+   "name": "Gogoat",
+   "v": "n"
+  },
+  {
+   "n": "006/050",
+   "name": "Alolan Marowak",
+   "v": "n"
+  },
+  {
+   "n": "007/050",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "008/050",
+   "name": "Camerupt",
+   "v": "n"
+  },
+  {
+   "n": "009/050",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "010/050",
+   "name": "Starmie",
+   "v": "n"
+  },
+  {
+   "n": "011/050",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "012/050",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "013/050",
+   "name": "Corphish",
+   "v": "n"
+  },
+  {
+   "n": "014/050",
+   "name": "Crawdaunt",
+   "v": "n"
+  },
+  {
+   "n": "015/050",
+   "name": "Shellos",
+   "v": "n"
+  },
+  {
+   "n": "016/050",
+   "name": "Alolan Geodude",
+   "v": "n"
+  },
+  {
+   "n": "017/050",
+   "name": "Alolan Graveler",
+   "v": "n"
+  },
+  {
+   "n": "018/050",
+   "name": "Alolan Golem-GX",
+   "v": "n"
+  },
+  {
+   "n": "019/050",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "020/050",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "021/050",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "022/050",
+   "name": "Gengar",
+   "v": "n"
+  },
+  {
+   "n": "023/050",
+   "name": "Chimecho",
+   "v": "n"
+  },
+  {
+   "n": "024/050",
+   "name": "Pumpkaboo",
+   "v": "n"
+  },
+  {
+   "n": "025/050",
+   "name": "Gourgeist",
+   "v": "n"
+  },
+  {
+   "n": "026/050",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "027/050",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "028/050",
+   "name": "Cubone",
+   "v": "n"
+  },
+  {
+   "n": "029/050",
+   "name": "Gastrodon",
+   "v": "n"
+  },
+  {
+   "n": "030/050",
+   "name": "Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "031/050",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "032/050",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "033/050",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "034/050",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "035/050",
+   "name": "Registeel",
+   "v": "n"
+  },
+  {
+   "n": "036/050",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "037/050",
+   "name": "Kartana-GX",
+   "v": "n"
+  },
+  {
+   "n": "038/050",
+   "name": "Starly",
+   "v": "n"
+  },
+  {
+   "n": "039/050",
+   "name": "Staravia",
+   "v": "n"
+  },
+  {
+   "n": "040/050",
+   "name": "Staraptor",
+   "v": "n"
+  },
+  {
+   "n": "041/050",
+   "name": "Regigigas",
+   "v": "n"
+  },
+  {
+   "n": "042/050",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "043/050",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "044/050",
+   "name": "Type: Null",
+   "v": "n"
+  },
+  {
+   "n": "045/050",
+   "name": "Silvally-GX",
+   "v": "n"
+  },
+  {
+   "n": "046/050",
+   "name": "Peeking Red Card",
+   "v": "n"
+  },
+  {
+   "n": "047/050",
+   "name": "Counter Catcher",
+   "v": "n"
+  },
+  {
+   "n": "048/050",
+   "name": "Psychic Memory",
+   "v": "n"
+  },
+  {
+   "n": "049/050",
+   "name": "Fighting Memory",
+   "v": "n"
+  },
+  {
+   "n": "050/050",
+   "name": "Gladion",
+   "v": "n"
+  },
+  {
+   "n": "051/050",
+   "name": "Alolan Golem-GX",
+   "v": "n"
+  },
+  {
+   "n": "052/050",
+   "name": "Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "053/050",
+   "name": "Kartana-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/050",
+   "name": "Silvally-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/050",
+   "name": "Gladion",
+   "v": "n"
+  },
+  {
+   "n": "056/050",
+   "name": "Alolan Golem-GX",
+   "v": "n"
+  },
+  {
+   "n": "057/050",
+   "name": "Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "058/050",
+   "name": "Kartana-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/050",
+   "name": "Silvally-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/050",
+   "name": "Counter Catcher",
+   "v": "n"
+  },
+  {
+   "n": "061/050",
+   "name": "Warp Energy",
+   "v": "n"
+  },
+  {
+   "n": "062/050",
+   "name": "Metal Energy",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,595 @@
+{
+ "id": "M2",
+ "name": "Inferno X",
+ "name_en": "Inferno X",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2025-09-26",
+ "official": 80,
+ "abbr": "M2",
+ "logo": "img/logos/ja/M2.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/080",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "002/080",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "003/080",
+   "name": "Vileplume",
+   "v": "n"
+  },
+  {
+   "n": "004/080",
+   "name": "Mega Heracross ex",
+   "v": "n"
+  },
+  {
+   "n": "005/080",
+   "name": "Lotad",
+   "v": "n"
+  },
+  {
+   "n": "006/080",
+   "name": "Lombre",
+   "v": "n"
+  },
+  {
+   "n": "007/080",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "008/080",
+   "name": "Genesect",
+   "v": "n"
+  },
+  {
+   "n": "009/080",
+   "name": "Nymble",
+   "v": "n"
+  },
+  {
+   "n": "010/080",
+   "name": "Lokix",
+   "v": "n"
+  },
+  {
+   "n": "011/080",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "012/080",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "013/080",
+   "name": "Mega Charizard X ex",
+   "v": "n"
+  },
+  {
+   "n": "014/080",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "015/080",
+   "name": "Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "016/080",
+   "name": "Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "017/080",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "018/080",
+   "name": "Oricorio ex",
+   "v": "n"
+  },
+  {
+   "n": "019/080",
+   "name": "Charcadet",
+   "v": "n"
+  },
+  {
+   "n": "020/080",
+   "name": "Ceruledge",
+   "v": "n"
+  },
+  {
+   "n": "021/080",
+   "name": "Seel",
+   "v": "n"
+  },
+  {
+   "n": "022/080",
+   "name": "Dewgong",
+   "v": "n"
+  },
+  {
+   "n": "023/080",
+   "name": "Swinub",
+   "v": "n"
+  },
+  {
+   "n": "024/080",
+   "name": "Piloswine",
+   "v": "n"
+  },
+  {
+   "n": "025/080",
+   "name": "Mamoswine",
+   "v": "n"
+  },
+  {
+   "n": "026/080",
+   "name": "Suicune",
+   "v": "n"
+  },
+  {
+   "n": "027/080",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "028/080",
+   "name": "Prinplup",
+   "v": "n"
+  },
+  {
+   "n": "029/080",
+   "name": "Rotom ex",
+   "v": "n"
+  },
+  {
+   "n": "030/080",
+   "name": "Yamper",
+   "v": "n"
+  },
+  {
+   "n": "031/080",
+   "name": "Boltund",
+   "v": "n"
+  },
+  {
+   "n": "032/080",
+   "name": "Pawmi",
+   "v": "n"
+  },
+  {
+   "n": "033/080",
+   "name": "Pawmo",
+   "v": "n"
+  },
+  {
+   "n": "034/080",
+   "name": "Pawmot",
+   "v": "n"
+  },
+  {
+   "n": "035/080",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "036/080",
+   "name": "Mismagius ex",
+   "v": "n"
+  },
+  {
+   "n": "037/080",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "038/080",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "039/080",
+   "name": "Zacian",
+   "v": "n"
+  },
+  {
+   "n": "040/080",
+   "name": "Bramblin",
+   "v": "n"
+  },
+  {
+   "n": "041/080",
+   "name": "Brambleghast",
+   "v": "n"
+  },
+  {
+   "n": "042/080",
+   "name": "Paldean Tauros",
+   "v": "n"
+  },
+  {
+   "n": "043/080",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "044/080",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "045/080",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "046/080",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "047/080",
+   "name": "Flygon",
+   "v": "n"
+  },
+  {
+   "n": "048/080",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "049/080",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "050/080",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "051/080",
+   "name": "Mega Sharpedo ex",
+   "v": "n"
+  },
+  {
+   "n": "052/080",
+   "name": "Seviper",
+   "v": "n"
+  },
+  {
+   "n": "053/080",
+   "name": "Sandile",
+   "v": "n"
+  },
+  {
+   "n": "054/080",
+   "name": "Krokorok",
+   "v": "n"
+  },
+  {
+   "n": "055/080",
+   "name": "Krookodile",
+   "v": "n"
+  },
+  {
+   "n": "056/080",
+   "name": "Toxel",
+   "v": "n"
+  },
+  {
+   "n": "057/080",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "058/080",
+   "name": "Empoleon ex",
+   "v": "n"
+  },
+  {
+   "n": "059/080",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "060/080",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "061/080",
+   "name": "Togedemaru",
+   "v": "n"
+  },
+  {
+   "n": "062/080",
+   "name": "Duraludon",
+   "v": "n"
+  },
+  {
+   "n": "063/080",
+   "name": "Archaludon",
+   "v": "n"
+  },
+  {
+   "n": "064/080",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "065/080",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "066/080",
+   "name": "Aipom",
+   "v": "n"
+  },
+  {
+   "n": "067/080",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "068/080",
+   "name": "Smeargle",
+   "v": "n"
+  },
+  {
+   "n": "069/080",
+   "name": "Zigzagoon",
+   "v": "n"
+  },
+  {
+   "n": "070/080",
+   "name": "Linoone",
+   "v": "n"
+  },
+  {
+   "n": "071/080",
+   "name": "Buneary",
+   "v": "n"
+  },
+  {
+   "n": "072/080",
+   "name": "Mega Lopunny ex",
+   "v": "n"
+  },
+  {
+   "n": "073/080",
+   "name": "Jumbo Ice Cream",
+   "v": "n"
+  },
+  {
+   "n": "074/080",
+   "name": "Blowtorch",
+   "v": "n"
+  },
+  {
+   "n": "075/080",
+   "name": "Sacred Charm",
+   "v": "n"
+  },
+  {
+   "n": "076/080",
+   "name": "Firebreather",
+   "v": "n"
+  },
+  {
+   "n": "077/080",
+   "name": "Grimsley's Move",
+   "v": "n"
+  },
+  {
+   "n": "078/080",
+   "name": "Dawn",
+   "v": "n"
+  },
+  {
+   "n": "079/080",
+   "name": "Battle Cage",
+   "v": "n"
+  },
+  {
+   "n": "080/080",
+   "name": "Dizzying Valley",
+   "v": "n"
+  },
+  {
+   "n": "081/080",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "082/080",
+   "name": "Nymble",
+   "v": "n"
+  },
+  {
+   "n": "083/080",
+   "name": "Charcadet",
+   "v": "n"
+  },
+  {
+   "n": "084/080",
+   "name": "Dewgong",
+   "v": "n"
+  },
+  {
+   "n": "085/080",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "086/080",
+   "name": "Yamper",
+   "v": "n"
+  },
+  {
+   "n": "087/080",
+   "name": "Zacian",
+   "v": "n"
+  },
+  {
+   "n": "088/080",
+   "name": "Flygon",
+   "v": "n"
+  },
+  {
+   "n": "089/080",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "090/080",
+   "name": "Togedemaru",
+   "v": "n"
+  },
+  {
+   "n": "091/080",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "092/080",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "093/080",
+   "name": "Mega Heracross ex",
+   "v": "n"
+  },
+  {
+   "n": "094/080",
+   "name": "Mega Charizard X ex",
+   "v": "n"
+  },
+  {
+   "n": "095/080",
+   "name": "Oricorio ex",
+   "v": "n"
+  },
+  {
+   "n": "096/080",
+   "name": "Rotom ex",
+   "v": "n"
+  },
+  {
+   "n": "097/080",
+   "name": "Mismagius ex",
+   "v": "n"
+  },
+  {
+   "n": "098/080",
+   "name": "Mega Sharpedo ex",
+   "v": "n"
+  },
+  {
+   "n": "099/080",
+   "name": "Empoleon ex",
+   "v": "n"
+  },
+  {
+   "n": "100/080",
+   "name": "Mega Lopunny ex",
+   "v": "n"
+  },
+  {
+   "n": "101/080",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "102/080",
+   "name": "Blowtorch",
+   "v": "n"
+  },
+  {
+   "n": "103/080",
+   "name": "Sacred Charm",
+   "v": "n"
+  },
+  {
+   "n": "104/080",
+   "name": "Punk Helmet",
+   "v": "n"
+  },
+  {
+   "n": "105/080",
+   "name": "Firebreather",
+   "v": "n"
+  },
+  {
+   "n": "106/080",
+   "name": "Grimsley's Move",
+   "v": "n"
+  },
+  {
+   "n": "107/080",
+   "name": "Dawn",
+   "v": "n"
+  },
+  {
+   "n": "108/080",
+   "name": "Battle Cage",
+   "v": "n"
+  },
+  {
+   "n": "109/080",
+   "name": "Ignition Energy",
+   "v": "n"
+  },
+  {
+   "n": "110/080",
+   "name": "Mega Charizard X ex",
+   "v": "n"
+  },
+  {
+   "n": "111/080",
+   "name": "Oricorio ex",
+   "v": "n"
+  },
+  {
+   "n": "112/080",
+   "name": "Rotom ex",
+   "v": "n"
+  },
+  {
+   "n": "113/080",
+   "name": "Mega Sharpedo ex",
+   "v": "n"
+  },
+  {
+   "n": "114/080",
+   "name": "Mega Lopunny ex",
+   "v": "n"
+  },
+  {
+   "n": "115/080",
+   "name": "Dawn",
+   "v": "n"
+  },
+  {
+   "n": "116/080",
+   "name": "Mega Charizard X ex",
+   "v": "n"
+  }
+ ]
+}

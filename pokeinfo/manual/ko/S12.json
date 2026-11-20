@@ -1,0 +1,640 @@
+{
+ "id": "S12",
+ "name": "패러다임트리거",
+ "name_en": "Paradigm Trigger",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2022-10-21",
+ "official": 98,
+ "abbr": "S12",
+ "logo": "img/logos/ja/S12.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/098",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "002/098",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "003/098",
+   "name": "Bellossom",
+   "v": "n"
+  },
+  {
+   "n": "004/098",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "005/098",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "006/098",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "007/098",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "008/098",
+   "name": "Virizion",
+   "v": "n"
+  },
+  {
+   "n": "009/098",
+   "name": "Chesnaught V",
+   "v": "n"
+  },
+  {
+   "n": "010/098",
+   "name": "Ponyta",
+   "v": "n"
+  },
+  {
+   "n": "011/098",
+   "name": "Rapidash",
+   "v": "n"
+  },
+  {
+   "n": "012/098",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "013/098",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "014/098",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "015/098",
+   "name": "Litten",
+   "v": "n"
+  },
+  {
+   "n": "016/098",
+   "name": "Torracat",
+   "v": "n"
+  },
+  {
+   "n": "017/098",
+   "name": "Incineroar",
+   "v": "n"
+  },
+  {
+   "n": "018/098",
+   "name": "Omastar V",
+   "v": "n"
+  },
+  {
+   "n": "019/098",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "020/098",
+   "name": "Glalie",
+   "v": "n"
+  },
+  {
+   "n": "021/098",
+   "name": "Froslass",
+   "v": "n"
+  },
+  {
+   "n": "022/098",
+   "name": "Relicanth",
+   "v": "n"
+  },
+  {
+   "n": "023/098",
+   "name": "Keldeo",
+   "v": "n"
+  },
+  {
+   "n": "024/098",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "025/098",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "026/098",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "027/098",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "028/098",
+   "name": "Luxray",
+   "v": "n"
+  },
+  {
+   "n": "029/098",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "030/098",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "031/098",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "032/098",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "033/098",
+   "name": "Regieleki V",
+   "v": "n"
+  },
+  {
+   "n": "034/098",
+   "name": "Regieleki VMAX",
+   "v": "n"
+  },
+  {
+   "n": "035/098",
+   "name": "Unown V",
+   "v": "n"
+  },
+  {
+   "n": "036/098",
+   "name": "Unown VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "037/098",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "038/098",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "039/098",
+   "name": "Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "040/098",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "041/098",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "042/098",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "043/098",
+   "name": "Elgyem",
+   "v": "n"
+  },
+  {
+   "n": "044/098",
+   "name": "Beheeyem",
+   "v": "n"
+  },
+  {
+   "n": "045/098",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "046/098",
+   "name": "Hisuian Arcanine V",
+   "v": "n"
+  },
+  {
+   "n": "047/098",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "048/098",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "049/098",
+   "name": "Anorith",
+   "v": "n"
+  },
+  {
+   "n": "050/098",
+   "name": "Armaldo",
+   "v": "n"
+  },
+  {
+   "n": "051/098",
+   "name": "Terrakion",
+   "v": "n"
+  },
+  {
+   "n": "052/098",
+   "name": "Pancham",
+   "v": "n"
+  },
+  {
+   "n": "053/098",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "054/098",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "055/098",
+   "name": "Stonjourner",
+   "v": "n"
+  },
+  {
+   "n": "056/098",
+   "name": "Skuntank V",
+   "v": "n"
+  },
+  {
+   "n": "057/098",
+   "name": "Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "058/098",
+   "name": "Liepard",
+   "v": "n"
+  },
+  {
+   "n": "059/098",
+   "name": "Pangoro",
+   "v": "n"
+  },
+  {
+   "n": "060/098",
+   "name": "Skrelp",
+   "v": "n"
+  },
+  {
+   "n": "061/098",
+   "name": "Dragalge",
+   "v": "n"
+  },
+  {
+   "n": "062/098",
+   "name": "Morpeko",
+   "v": "n"
+  },
+  {
+   "n": "063/098",
+   "name": "Galarian Meowth",
+   "v": "n"
+  },
+  {
+   "n": "064/098",
+   "name": "Galarian Perrserker",
+   "v": "n"
+  },
+  {
+   "n": "065/098",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "066/098",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "067/098",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "068/098",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "069/098",
+   "name": "Togedemaru",
+   "v": "n"
+  },
+  {
+   "n": "070/098",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "071/098",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "072/098",
+   "name": "Dragonite",
+   "v": "n"
+  },
+  {
+   "n": "073/098",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "074/098",
+   "name": "Noivern",
+   "v": "n"
+  },
+  {
+   "n": "075/098",
+   "name": "Zygarde",
+   "v": "n"
+  },
+  {
+   "n": "076/098",
+   "name": "Regidrago V",
+   "v": "n"
+  },
+  {
+   "n": "077/098",
+   "name": "Regidrago VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "078/098",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "079/098",
+   "name": "Lugia V",
+   "v": "n"
+  },
+  {
+   "n": "080/098",
+   "name": "Lugia VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "081/098",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "082/098",
+   "name": "Archen",
+   "v": "n"
+  },
+  {
+   "n": "083/098",
+   "name": "Archeops",
+   "v": "n"
+  },
+  {
+   "n": "084/098",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "085/098",
+   "name": "Hisuian Braviary",
+   "v": "n"
+  },
+  {
+   "n": "086/098",
+   "name": "Yungoos",
+   "v": "n"
+  },
+  {
+   "n": "087/098",
+   "name": "Gumshoos",
+   "v": "n"
+  },
+  {
+   "n": "088/098",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "089/098",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "090/098",
+   "name": "Quad Stone",
+   "v": "n"
+  },
+  {
+   "n": "091/098",
+   "name": "Earthen Seal Stone",
+   "v": "n"
+  },
+  {
+   "n": "092/098",
+   "name": "Forest Seal Stone",
+   "v": "n"
+  },
+  {
+   "n": "093/098",
+   "name": "Brandon",
+   "v": "n"
+  },
+  {
+   "n": "094/098",
+   "name": "Lance",
+   "v": "n"
+  },
+  {
+   "n": "095/098",
+   "name": "Candice",
+   "v": "n"
+  },
+  {
+   "n": "096/098",
+   "name": "Worker",
+   "v": "n"
+  },
+  {
+   "n": "097/098",
+   "name": "Primordial Altar",
+   "v": "n"
+  },
+  {
+   "n": "098/098",
+   "name": "Regenerative Energy",
+   "v": "n"
+  },
+  {
+   "n": "099/098",
+   "name": "Chesnaught V",
+   "v": "n"
+  },
+  {
+   "n": "100/098",
+   "name": "Omastar V",
+   "v": "n"
+  },
+  {
+   "n": "101/098",
+   "name": "Regieleki V",
+   "v": "n"
+  },
+  {
+   "n": "102/098",
+   "name": "Unown V",
+   "v": "n"
+  },
+  {
+   "n": "103/098",
+   "name": "Unown V",
+   "v": "n"
+  },
+  {
+   "n": "104/098",
+   "name": "Hisuian Arcanine V",
+   "v": "n"
+  },
+  {
+   "n": "105/098",
+   "name": "Skuntank V",
+   "v": "n"
+  },
+  {
+   "n": "106/098",
+   "name": "Skuntank V",
+   "v": "n"
+  },
+  {
+   "n": "107/098",
+   "name": "Regidrago V",
+   "v": "n"
+  },
+  {
+   "n": "108/098",
+   "name": "Regidrago V",
+   "v": "n"
+  },
+  {
+   "n": "109/098",
+   "name": "Lugia V",
+   "v": "n"
+  },
+  {
+   "n": "110/098",
+   "name": "Lugia V",
+   "v": "n"
+  },
+  {
+   "n": "111/098",
+   "name": "Brandon",
+   "v": "n"
+  },
+  {
+   "n": "112/098",
+   "name": "Lance",
+   "v": "n"
+  },
+  {
+   "n": "113/098",
+   "name": "Candice",
+   "v": "n"
+  },
+  {
+   "n": "114/098",
+   "name": "Worker",
+   "v": "n"
+  },
+  {
+   "n": "115/098",
+   "name": "Regieleki VMAX",
+   "v": "n"
+  },
+  {
+   "n": "116/098",
+   "name": "Unown VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "117/098",
+   "name": "Regidrago VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "118/098",
+   "name": "Lugia VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "119/098",
+   "name": "Brandon",
+   "v": "n"
+  },
+  {
+   "n": "120/098",
+   "name": "Lance",
+   "v": "n"
+  },
+  {
+   "n": "121/098",
+   "name": "Candice",
+   "v": "n"
+  },
+  {
+   "n": "122/098",
+   "name": "Worker",
+   "v": "n"
+  },
+  {
+   "n": "123/098",
+   "name": "Lugia VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "124/098",
+   "name": "Leafy Camo Poncho",
+   "v": "n"
+  },
+  {
+   "n": "125/098",
+   "name": "Gapejaw Bog",
+   "v": "n"
+  }
+ ]
+}

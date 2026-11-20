@@ -1,0 +1,140 @@
+{
+ "id": "S8a-P",
+ "name": "Promo Card Pack 25th Anniversary Edition",
+ "name_en": "Promo Card Pack 25th Anniversary Edition",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2021-10-22",
+ "official": 25,
+ "abbr": "S8a-P",
+ "logo": null,
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/025",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "002/025",
+   "name": "Venusaur",
+   "v": "n"
+  },
+  {
+   "n": "003/025",
+   "name": "Blastoise",
+   "v": "n"
+  },
+  {
+   "n": "004/025",
+   "name": "Imposter Professor Oak",
+   "v": "n"
+  },
+  {
+   "n": "005/025",
+   "name": "Dark Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "006/025",
+   "name": "Here Comes Team Rocket!",
+   "v": "n"
+  },
+  {
+   "n": "007/025",
+   "name": "_'s Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "008/025",
+   "name": "Rocket's Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "009/025",
+   "name": "Cleffa",
+   "v": "n"
+  },
+  {
+   "n": "010/025",
+   "name": "Shining Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "011/025",
+   "name": "Team Magma's Groudon",
+   "v": "n"
+  },
+  {
+   "n": "012/025",
+   "name": "Umbreon ☆",
+   "v": "n"
+  },
+  {
+   "n": "013/025",
+   "name": "Rocket's Admin.",
+   "v": "n"
+  },
+  {
+   "n": "014/025",
+   "name": "Mew ex",
+   "v": "n"
+  },
+  {
+   "n": "015/025",
+   "name": "Gardevoir ex",
+   "v": "n"
+  },
+  {
+   "n": "016/025",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "017/025",
+   "name": "Luxray GL LV.X",
+   "v": "n"
+  },
+  {
+   "n": "018/025",
+   "name": "Garchomp C LV.X",
+   "v": "n"
+  },
+  {
+   "n": "019/025",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "020/025",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "021/025",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "022/025",
+   "name": "Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "023/025",
+   "name": "Xerneas-EX",
+   "v": "n"
+  },
+  {
+   "n": "024/025",
+   "name": "M Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "025/025",
+   "name": "Tapu Lele-GX",
+   "v": "n"
+  }
+ ]
+}

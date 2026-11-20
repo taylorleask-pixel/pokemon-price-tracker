@@ -1,0 +1,1325 @@
+{
+ "id": "S12a",
+ "name": "VSTAR 유니버스",
+ "name_en": "VSTAR Universe",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2022-12-02",
+ "official": 172,
+ "abbr": "S12a",
+ "logo": "img/logos/ja/S12a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/172",
+   "name": "Paras",
+   "v": "n"
+  },
+  {
+   "n": "002/172",
+   "name": "Parasect",
+   "v": "n"
+  },
+  {
+   "n": "003/172",
+   "name": "Hisuian Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "004/172",
+   "name": "Hisuian Electrode",
+   "v": "n"
+  },
+  {
+   "n": "005/172",
+   "name": "Hisuian Electrode V",
+   "v": "n"
+  },
+  {
+   "n": "006/172",
+   "name": "Turtwig",
+   "v": "n"
+  },
+  {
+   "n": "007/172",
+   "name": "Grotle",
+   "v": "n"
+  },
+  {
+   "n": "008/172",
+   "name": "Torterra",
+   "v": "n"
+  },
+  {
+   "n": "009/172",
+   "name": "Kricketot",
+   "v": "n"
+  },
+  {
+   "n": "010/172",
+   "name": "Kricketune",
+   "v": "n"
+  },
+  {
+   "n": "011/172",
+   "name": "Leafeon V",
+   "v": "n"
+  },
+  {
+   "n": "012/172",
+   "name": "Leafeon VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "013/172",
+   "name": "Charizard V",
+   "v": "n"
+  },
+  {
+   "n": "014/172",
+   "name": "Charizard VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "015/172",
+   "name": "Radiant Charizard",
+   "v": "n"
+  },
+  {
+   "n": "016/172",
+   "name": "Magmar",
+   "v": "n"
+  },
+  {
+   "n": "017/172",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "018/172",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "019/172",
+   "name": "Entei V",
+   "v": "n"
+  },
+  {
+   "n": "020/172",
+   "name": "Simisear V",
+   "v": "n"
+  },
+  {
+   "n": "021/172",
+   "name": "Simisear VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "022/172",
+   "name": "Oricorio",
+   "v": "n"
+  },
+  {
+   "n": "023/172",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "024/172",
+   "name": "Suicune V",
+   "v": "n"
+  },
+  {
+   "n": "025/172",
+   "name": "Regice",
+   "v": "n"
+  },
+  {
+   "n": "026/172",
+   "name": "Lumineon V",
+   "v": "n"
+  },
+  {
+   "n": "027/172",
+   "name": "Origin Forme Palkia V",
+   "v": "n"
+  },
+  {
+   "n": "028/172",
+   "name": "Origin Forme Palkia VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "029/172",
+   "name": "Manaphy",
+   "v": "n"
+  },
+  {
+   "n": "030/172",
+   "name": "Hisuian Basculin",
+   "v": "n"
+  },
+  {
+   "n": "031/172",
+   "name": "Hisuian Basculegion",
+   "v": "n"
+  },
+  {
+   "n": "032/172",
+   "name": "Keldeo",
+   "v": "n"
+  },
+  {
+   "n": "033/172",
+   "name": "Radiant Greninja",
+   "v": "n"
+  },
+  {
+   "n": "034/172",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "035/172",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "036/172",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "037/172",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "038/172",
+   "name": "Raikou V",
+   "v": "n"
+  },
+  {
+   "n": "039/172",
+   "name": "Radiant Charjabug",
+   "v": "n"
+  },
+  {
+   "n": "040/172",
+   "name": "Zeraora V",
+   "v": "n"
+  },
+  {
+   "n": "041/172",
+   "name": "Zeraora VMAX",
+   "v": "n"
+  },
+  {
+   "n": "042/172",
+   "name": "Zeraora VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "043/172",
+   "name": "Toxel",
+   "v": "n"
+  },
+  {
+   "n": "044/172",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "045/172",
+   "name": "Regieleki",
+   "v": "n"
+  },
+  {
+   "n": "046/172",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "047/172",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "048/172",
+   "name": "Gengar",
+   "v": "n"
+  },
+  {
+   "n": "049/172",
+   "name": "Galarian Articuno",
+   "v": "n"
+  },
+  {
+   "n": "050/172",
+   "name": "Mewtwo V",
+   "v": "n"
+  },
+  {
+   "n": "051/172",
+   "name": "Mewtwo VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "052/172",
+   "name": "Mew",
+   "v": "n"
+  },
+  {
+   "n": "053/172",
+   "name": "Mew V",
+   "v": "n"
+  },
+  {
+   "n": "054/172",
+   "name": "Mew VMAX",
+   "v": "n"
+  },
+  {
+   "n": "055/172",
+   "name": "Radiant Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "056/172",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "057/172",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "058/172",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "059/172",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "060/172",
+   "name": "Deoxys",
+   "v": "n"
+  },
+  {
+   "n": "061/172",
+   "name": "Pumpkaboo",
+   "v": "n"
+  },
+  {
+   "n": "062/172",
+   "name": "Gourgeist",
+   "v": "n"
+  },
+  {
+   "n": "063/172",
+   "name": "Diancie",
+   "v": "n"
+  },
+  {
+   "n": "064/172",
+   "name": "Comfey",
+   "v": "n"
+  },
+  {
+   "n": "065/172",
+   "name": "Hatterene V",
+   "v": "n"
+  },
+  {
+   "n": "066/172",
+   "name": "Hatterene VMAX",
+   "v": "n"
+  },
+  {
+   "n": "067/172",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "068/172",
+   "name": "Enamorus V",
+   "v": "n"
+  },
+  {
+   "n": "069/172",
+   "name": "Hisuian Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "070/172",
+   "name": "Hisuian Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "071/172",
+   "name": "Machamp V",
+   "v": "n"
+  },
+  {
+   "n": "072/172",
+   "name": "Machamp VMAX",
+   "v": "n"
+  },
+  {
+   "n": "073/172",
+   "name": "Galarian Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "074/172",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "075/172",
+   "name": "Regirock",
+   "v": "n"
+  },
+  {
+   "n": "076/172",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "077/172",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "078/172",
+   "name": "Radiant Hawlucha",
+   "v": "n"
+  },
+  {
+   "n": "079/172",
+   "name": "Galarian Moltres",
+   "v": "n"
+  },
+  {
+   "n": "080/172",
+   "name": "Galarian Moltres V",
+   "v": "n"
+  },
+  {
+   "n": "081/172",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "082/172",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "083/172",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "084/172",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "085/172",
+   "name": "Drapion V",
+   "v": "n"
+  },
+  {
+   "n": "086/172",
+   "name": "Hisuian Samurott V",
+   "v": "n"
+  },
+  {
+   "n": "087/172",
+   "name": "Hisuian Samurott VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "088/172",
+   "name": "Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "089/172",
+   "name": "Liepard",
+   "v": "n"
+  },
+  {
+   "n": "090/172",
+   "name": "Zorua",
+   "v": "n"
+  },
+  {
+   "n": "091/172",
+   "name": "Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "092/172",
+   "name": "Nickit",
+   "v": "n"
+  },
+  {
+   "n": "093/172",
+   "name": "Thievul",
+   "v": "n"
+  },
+  {
+   "n": "094/172",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "095/172",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "096/172",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "097/172",
+   "name": "Registeel",
+   "v": "n"
+  },
+  {
+   "n": "098/172",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "099/172",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "100/172",
+   "name": "Origin Forme Dialga V",
+   "v": "n"
+  },
+  {
+   "n": "101/172",
+   "name": "Origin Forme Dialga VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "102/172",
+   "name": "Genesect V",
+   "v": "n"
+  },
+  {
+   "n": "103/172",
+   "name": "Zamazenta V",
+   "v": "n"
+  },
+  {
+   "n": "104/172",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "105/172",
+   "name": "Latias",
+   "v": "n"
+  },
+  {
+   "n": "106/172",
+   "name": "Latios",
+   "v": "n"
+  },
+  {
+   "n": "107/172",
+   "name": "Rayquaza V",
+   "v": "n"
+  },
+  {
+   "n": "108/172",
+   "name": "Rayquaza VMAX",
+   "v": "n"
+  },
+  {
+   "n": "109/172",
+   "name": "Garchomp V",
+   "v": "n"
+  },
+  {
+   "n": "110/172",
+   "name": "Giratina V",
+   "v": "n"
+  },
+  {
+   "n": "111/172",
+   "name": "Giratina VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "112/172",
+   "name": "Goomy",
+   "v": "n"
+  },
+  {
+   "n": "113/172",
+   "name": "Hisuian Sliggoo",
+   "v": "n"
+  },
+  {
+   "n": "114/172",
+   "name": "Hisuian Goodra",
+   "v": "n"
+  },
+  {
+   "n": "115/172",
+   "name": "Radiant Eternatus",
+   "v": "n"
+  },
+  {
+   "n": "116/172",
+   "name": "Regidrago",
+   "v": "n"
+  },
+  {
+   "n": "117/172",
+   "name": "Ditto",
+   "v": "n"
+  },
+  {
+   "n": "118/172",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "119/172",
+   "name": "Miltank",
+   "v": "n"
+  },
+  {
+   "n": "120/172",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "121/172",
+   "name": "Bidoof",
+   "v": "n"
+  },
+  {
+   "n": "122/172",
+   "name": "Bibarel",
+   "v": "n"
+  },
+  {
+   "n": "123/172",
+   "name": "Regigigas",
+   "v": "n"
+  },
+  {
+   "n": "124/172",
+   "name": "Regigigas V",
+   "v": "n"
+  },
+  {
+   "n": "125/172",
+   "name": "Regigigas VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "126/172",
+   "name": "Arceus V",
+   "v": "n"
+  },
+  {
+   "n": "127/172",
+   "name": "Arceus VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "128/172",
+   "name": "Hisuian Zoroark V",
+   "v": "n"
+  },
+  {
+   "n": "129/172",
+   "name": "Hisuian Zoroark VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "130/172",
+   "name": "Oranguru V",
+   "v": "n"
+  },
+  {
+   "n": "131/172",
+   "name": "Wyrdeer V",
+   "v": "n"
+  },
+  {
+   "n": "132/172",
+   "name": "Gutsy Pickaxe",
+   "v": "n"
+  },
+  {
+   "n": "133/172",
+   "name": "Fan of Waves",
+   "v": "n"
+  },
+  {
+   "n": "134/172",
+   "name": "Dark Patch",
+   "v": "n"
+  },
+  {
+   "n": "135/172",
+   "name": "Damage Pump",
+   "v": "n"
+  },
+  {
+   "n": "136/172",
+   "name": "Level Ball",
+   "v": "n"
+  },
+  {
+   "n": "137/172",
+   "name": "Rescue Carrier",
+   "v": "n"
+  },
+  {
+   "n": "138/172",
+   "name": "Lost Vacuum",
+   "v": "n"
+  },
+  {
+   "n": "139/172",
+   "name": "Mirage Gate",
+   "v": "n"
+  },
+  {
+   "n": "140/172",
+   "name": "Fog Crystal",
+   "v": "n"
+  },
+  {
+   "n": "141/172",
+   "name": "Trekking Shoes",
+   "v": "n"
+  },
+  {
+   "n": "142/172",
+   "name": "Power Tablet",
+   "v": "n"
+  },
+  {
+   "n": "143/172",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "144/172",
+   "name": "Hisuian Heavy Ball",
+   "v": "n"
+  },
+  {
+   "n": "145/172",
+   "name": "Choice Belt",
+   "v": "n"
+  },
+  {
+   "n": "146/172",
+   "name": "Leafy Camo Poncho",
+   "v": "n"
+  },
+  {
+   "n": "147/172",
+   "name": "Sky Seal Stone",
+   "v": "n"
+  },
+  {
+   "n": "148/172",
+   "name": "Raihan",
+   "v": "n"
+  },
+  {
+   "n": "149/172",
+   "name": "Cynthia's Ambition",
+   "v": "n"
+  },
+  {
+   "n": "150/172",
+   "name": "Melony",
+   "v": "n"
+  },
+  {
+   "n": "151/172",
+   "name": "Cheryl",
+   "v": "n"
+  },
+  {
+   "n": "152/172",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "153/172",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "154/172",
+   "name": "Friends in Sinnoh",
+   "v": "n"
+  },
+  {
+   "n": "155/172",
+   "name": "Colress's Experiment",
+   "v": "n"
+  },
+  {
+   "n": "156/172",
+   "name": "Roxanne",
+   "v": "n"
+  },
+  {
+   "n": "157/172",
+   "name": "Gardenia's Vigor",
+   "v": "n"
+  },
+  {
+   "n": "158/172",
+   "name": "Grant",
+   "v": "n"
+  },
+  {
+   "n": "159/172",
+   "name": "Irida",
+   "v": "n"
+  },
+  {
+   "n": "160/172",
+   "name": "Adaman",
+   "v": "n"
+  },
+  {
+   "n": "161/172",
+   "name": "Cheren's Care",
+   "v": "n"
+  },
+  {
+   "n": "162/172",
+   "name": "Elesa's Sparkle",
+   "v": "n"
+  },
+  {
+   "n": "163/172",
+   "name": "Friends in Hisui",
+   "v": "n"
+  },
+  {
+   "n": "164/172",
+   "name": "Magma Basin",
+   "v": "n"
+  },
+  {
+   "n": "165/172",
+   "name": "Collapsed Stadium",
+   "v": "n"
+  },
+  {
+   "n": "166/172",
+   "name": "Temple of Sinnoh",
+   "v": "n"
+  },
+  {
+   "n": "167/172",
+   "name": "Path to the Peak",
+   "v": "n"
+  },
+  {
+   "n": "168/172",
+   "name": "Jubilife Village",
+   "v": "n"
+  },
+  {
+   "n": "169/172",
+   "name": "Gapejaw Bog",
+   "v": "n"
+  },
+  {
+   "n": "170/172",
+   "name": "Stormy Mountains",
+   "v": "n"
+  },
+  {
+   "n": "171/172",
+   "name": "Double Turbo Energy",
+   "v": "n"
+  },
+  {
+   "n": "172/172",
+   "name": "Fusion Strike Energy",
+   "v": "n"
+  },
+  {
+   "n": "173/172",
+   "name": "Hisuian Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "174/172",
+   "name": "Kricketune",
+   "v": "n"
+  },
+  {
+   "n": "175/172",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "176/172",
+   "name": "Oricorio",
+   "v": "n"
+  },
+  {
+   "n": "177/172",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "178/172",
+   "name": "Manaphy",
+   "v": "n"
+  },
+  {
+   "n": "179/172",
+   "name": "Keldeo",
+   "v": "n"
+  },
+  {
+   "n": "180/172",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "181/172",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "182/172",
+   "name": "Galarian Articuno",
+   "v": "n"
+  },
+  {
+   "n": "183/172",
+   "name": "Mew",
+   "v": "n"
+  },
+  {
+   "n": "184/172",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "185/172",
+   "name": "Deoxys",
+   "v": "n"
+  },
+  {
+   "n": "186/172",
+   "name": "Diancie",
+   "v": "n"
+  },
+  {
+   "n": "187/172",
+   "name": "Comfey",
+   "v": "n"
+  },
+  {
+   "n": "188/172",
+   "name": "Galarian Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "189/172",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "190/172",
+   "name": "Galarian Moltres",
+   "v": "n"
+  },
+  {
+   "n": "191/172",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "192/172",
+   "name": "Thievul",
+   "v": "n"
+  },
+  {
+   "n": "193/172",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "194/172",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "195/172",
+   "name": "Latias",
+   "v": "n"
+  },
+  {
+   "n": "196/172",
+   "name": "Hisuian Goodra",
+   "v": "n"
+  },
+  {
+   "n": "197/172",
+   "name": "Ditto",
+   "v": "n"
+  },
+  {
+   "n": "198/172",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "199/172",
+   "name": "Miltank",
+   "v": "n"
+  },
+  {
+   "n": "200/172",
+   "name": "Bibarel",
+   "v": "n"
+  },
+  {
+   "n": "201/172",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "202/172",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "203/172",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "204/172",
+   "name": "Bidoof",
+   "v": "n"
+  },
+  {
+   "n": "205/172",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "206/172",
+   "name": "Turtwig",
+   "v": "n"
+  },
+  {
+   "n": "207/172",
+   "name": "Paras",
+   "v": "n"
+  },
+  {
+   "n": "208/172",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "209/172",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "210/172",
+   "name": "Leafeon VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "211/172",
+   "name": "Charizard V",
+   "v": "n"
+  },
+  {
+   "n": "212/172",
+   "name": "Charizard VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "213/172",
+   "name": "Entei V",
+   "v": "n"
+  },
+  {
+   "n": "214/172",
+   "name": "Simisear VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "215/172",
+   "name": "Suicune V",
+   "v": "n"
+  },
+  {
+   "n": "216/172",
+   "name": "Lumineon V",
+   "v": "n"
+  },
+  {
+   "n": "217/172",
+   "name": "Glaceon VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "218/172",
+   "name": "Raikou V",
+   "v": "n"
+  },
+  {
+   "n": "219/172",
+   "name": "Zeraora VMAX",
+   "v": "n"
+  },
+  {
+   "n": "220/172",
+   "name": "Zeraora VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "221/172",
+   "name": "Mewtwo VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "222/172",
+   "name": "Deoxys VMAX",
+   "v": "n"
+  },
+  {
+   "n": "223/172",
+   "name": "Deoxys VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "224/172",
+   "name": "Hatterene VMAX",
+   "v": "n"
+  },
+  {
+   "n": "225/172",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "226/172",
+   "name": "Lucario VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "227/172",
+   "name": "Drapion V",
+   "v": "n"
+  },
+  {
+   "n": "228/172",
+   "name": "Darkrai VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "229/172",
+   "name": "Hisuian Samurott V",
+   "v": "n"
+  },
+  {
+   "n": "230/172",
+   "name": "Hisuian Samurott VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "231/172",
+   "name": "Hoopa V",
+   "v": "n"
+  },
+  {
+   "n": "232/172",
+   "name": "Zamazenta V",
+   "v": "n"
+  },
+  {
+   "n": "233/172",
+   "name": "Regigigas VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "234/172",
+   "name": "Hisuian Zoroark VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "235/172",
+   "name": "Raihan",
+   "v": "n"
+  },
+  {
+   "n": "236/172",
+   "name": "Cynthia's Ambition",
+   "v": "n"
+  },
+  {
+   "n": "237/172",
+   "name": "Melony",
+   "v": "n"
+  },
+  {
+   "n": "238/172",
+   "name": "Colress's Experiment",
+   "v": "n"
+  },
+  {
+   "n": "239/172",
+   "name": "Roxanne",
+   "v": "n"
+  },
+  {
+   "n": "240/172",
+   "name": "Gardenia's Vigor",
+   "v": "n"
+  },
+  {
+   "n": "241/172",
+   "name": "Grant",
+   "v": "n"
+  },
+  {
+   "n": "242/172",
+   "name": "Irida",
+   "v": "n"
+  },
+  {
+   "n": "243/172",
+   "name": "Adaman",
+   "v": "n"
+  },
+  {
+   "n": "244/172",
+   "name": "Cheren's Care",
+   "v": "n"
+  },
+  {
+   "n": "245/172",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "246/172",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "247/172",
+   "name": "Friends in Sinnoh",
+   "v": "n"
+  },
+  {
+   "n": "248/172",
+   "name": "Volo",
+   "v": "n"
+  },
+  {
+   "n": "249/172",
+   "name": "Elesa's Sparkle",
+   "v": "n"
+  },
+  {
+   "n": "250/172",
+   "name": "Friends in Hisui",
+   "v": "n"
+  },
+  {
+   "n": "251/172",
+   "name": "Basic Grass Energy",
+   "v": "n"
+  },
+  {
+   "n": "252/172",
+   "name": "Basic Fire Energy",
+   "v": "n"
+  },
+  {
+   "n": "253/172",
+   "name": "Basic Water Energy",
+   "v": "n"
+  },
+  {
+   "n": "254/172",
+   "name": "Basic Lightning Energy",
+   "v": "n"
+  },
+  {
+   "n": "255/172",
+   "name": "Basic Psychic Energy",
+   "v": "n"
+  },
+  {
+   "n": "256/172",
+   "name": "Basic Fighting Energy",
+   "v": "n"
+  },
+  {
+   "n": "257/172",
+   "name": "Basic Darkness Energy",
+   "v": "n"
+  },
+  {
+   "n": "258/172",
+   "name": "Basic Metal Energy",
+   "v": "n"
+  },
+  {
+   "n": "259/172",
+   "name": "Origin Forme Palkia VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "260/172",
+   "name": "Origin Forme Dialga VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "261/172",
+   "name": "Giratina VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "262/172",
+   "name": "Arceus VSTAR",
+   "v": "n"
+  }
+ ]
+}

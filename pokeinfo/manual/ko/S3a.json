@@ -1,0 +1,485 @@
+{
+ "id": "S3a",
+ "name": "전설의 고동",
+ "name_en": "Legendary Heartbeat",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2020-07-10",
+ "official": 76,
+ "abbr": "S3a",
+ "logo": "img/logos/ja/S3a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/076",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/076",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/076",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "004/076",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "005/076",
+   "name": "Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "006/076",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "007/076",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "008/076",
+   "name": "Pineco",
+   "v": "n"
+  },
+  {
+   "n": "009/076",
+   "name": "Celebi",
+   "v": "n"
+  },
+  {
+   "n": "010/076",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "011/076",
+   "name": "Genesect",
+   "v": "n"
+  },
+  {
+   "n": "012/076",
+   "name": "Dhelmise",
+   "v": "n"
+  },
+  {
+   "n": "013/076",
+   "name": "Zarude V",
+   "v": "n"
+  },
+  {
+   "n": "014/076",
+   "name": "Ampharos V",
+   "v": "n"
+  },
+  {
+   "n": "015/076",
+   "name": "Raikou",
+   "v": "n"
+  },
+  {
+   "n": "016/076",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "017/076",
+   "name": "Manectric",
+   "v": "n"
+  },
+  {
+   "n": "018/076",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "019/076",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "020/076",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "021/076",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "022/076",
+   "name": "Pincurchin",
+   "v": "n"
+  },
+  {
+   "n": "023/076",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "024/076",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "025/076",
+   "name": "Girafarig",
+   "v": "n"
+  },
+  {
+   "n": "026/076",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "027/076",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "028/076",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "029/076",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "030/076",
+   "name": "Diancie",
+   "v": "n"
+  },
+  {
+   "n": "031/076",
+   "name": "Alcremie V",
+   "v": "n"
+  },
+  {
+   "n": "032/076",
+   "name": "Alcremie VMAX",
+   "v": "n"
+  },
+  {
+   "n": "033/076",
+   "name": "Zacian",
+   "v": "n"
+  },
+  {
+   "n": "034/076",
+   "name": "Wooper",
+   "v": "n"
+  },
+  {
+   "n": "035/076",
+   "name": "Quagsire",
+   "v": "n"
+  },
+  {
+   "n": "036/076",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "037/076",
+   "name": "Regirock",
+   "v": "n"
+  },
+  {
+   "n": "038/076",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "039/076",
+   "name": "Zygarde",
+   "v": "n"
+  },
+  {
+   "n": "040/076",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "041/076",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "042/076",
+   "name": "Coalossal V",
+   "v": "n"
+  },
+  {
+   "n": "043/076",
+   "name": "Coalossal VMAX",
+   "v": "n"
+  },
+  {
+   "n": "044/076",
+   "name": "Zamazenta",
+   "v": "n"
+  },
+  {
+   "n": "045/076",
+   "name": "Forretress",
+   "v": "n"
+  },
+  {
+   "n": "046/076",
+   "name": "Steelix V",
+   "v": "n"
+  },
+  {
+   "n": "047/076",
+   "name": "Beldum",
+   "v": "n"
+  },
+  {
+   "n": "048/076",
+   "name": "Metang",
+   "v": "n"
+  },
+  {
+   "n": "049/076",
+   "name": "Metagross",
+   "v": "n"
+  },
+  {
+   "n": "050/076",
+   "name": "Jirachi",
+   "v": "n"
+  },
+  {
+   "n": "051/076",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "052/076",
+   "name": "Dialga",
+   "v": "n"
+  },
+  {
+   "n": "053/076",
+   "name": "Galarian Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "054/076",
+   "name": "Magearna",
+   "v": "n"
+  },
+  {
+   "n": "055/076",
+   "name": "Lugia",
+   "v": "n"
+  },
+  {
+   "n": "056/076",
+   "name": "Rayquaza",
+   "v": "n"
+  },
+  {
+   "n": "057/076",
+   "name": "Chatot",
+   "v": "n"
+  },
+  {
+   "n": "058/076",
+   "name": "Togekiss V",
+   "v": "n"
+  },
+  {
+   "n": "059/076",
+   "name": "Togekiss VMAX",
+   "v": "n"
+  },
+  {
+   "n": "060/076",
+   "name": "Tornadus",
+   "v": "n"
+  },
+  {
+   "n": "061/076",
+   "name": "Pikipek",
+   "v": "n"
+  },
+  {
+   "n": "062/076",
+   "name": "Trumbeak",
+   "v": "n"
+  },
+  {
+   "n": "063/076",
+   "name": "Toucannon",
+   "v": "n"
+  },
+  {
+   "n": "064/076",
+   "name": "Great Ball",
+   "v": "n"
+  },
+  {
+   "n": "065/076",
+   "name": "Moomoo Cheese",
+   "v": "n"
+  },
+  {
+   "n": "066/076",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "067/076",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "068/076",
+   "name": "Hero's Medal",
+   "v": "n"
+  },
+  {
+   "n": "069/076",
+   "name": "Rocky Helmet",
+   "v": "n"
+  },
+  {
+   "n": "070/076",
+   "name": "Marnie",
+   "v": "n"
+  },
+  {
+   "n": "071/076",
+   "name": "Beauty",
+   "v": "n"
+  },
+  {
+   "n": "072/076",
+   "name": "Allister",
+   "v": "n"
+  },
+  {
+   "n": "073/076",
+   "name": "Opal",
+   "v": "n"
+  },
+  {
+   "n": "074/076",
+   "name": "Aromatic Grass Energy",
+   "v": "n"
+  },
+  {
+   "n": "075/076",
+   "name": "Stone Fighting Energy",
+   "v": "n"
+  },
+  {
+   "n": "076/076",
+   "name": "Twin Energy",
+   "v": "n"
+  },
+  {
+   "n": "077/076",
+   "name": "Zarude V",
+   "v": "n"
+  },
+  {
+   "n": "078/076",
+   "name": "Ampharos V",
+   "v": "n"
+  },
+  {
+   "n": "079/076",
+   "name": "Alcremie V",
+   "v": "n"
+  },
+  {
+   "n": "080/076",
+   "name": "Coalossal V",
+   "v": "n"
+  },
+  {
+   "n": "081/076",
+   "name": "Steelix V",
+   "v": "n"
+  },
+  {
+   "n": "082/076",
+   "name": "Togekiss V",
+   "v": "n"
+  },
+  {
+   "n": "083/076",
+   "name": "Beauty",
+   "v": "n"
+  },
+  {
+   "n": "084/076",
+   "name": "Allister",
+   "v": "n"
+  },
+  {
+   "n": "085/076",
+   "name": "Opal",
+   "v": "n"
+  },
+  {
+   "n": "086/076",
+   "name": "Alcremie VMAX",
+   "v": "n"
+  },
+  {
+   "n": "087/076",
+   "name": "Coalossal VMAX",
+   "v": "n"
+  },
+  {
+   "n": "088/076",
+   "name": "Togekiss VMAX",
+   "v": "n"
+  },
+  {
+   "n": "089/076",
+   "name": "Beauty",
+   "v": "n"
+  },
+  {
+   "n": "090/076",
+   "name": "Allister",
+   "v": "n"
+  },
+  {
+   "n": "091/076",
+   "name": "Opal",
+   "v": "n"
+  },
+  {
+   "n": "092/076",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "093/076",
+   "name": "Hero's Medal",
+   "v": "n"
+  },
+  {
+   "n": "094/076",
+   "name": "Cape of Toughness",
+   "v": "n"
+  }
+ ]
+}

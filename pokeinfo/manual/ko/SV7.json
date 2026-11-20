@@ -1,0 +1,690 @@
+{
+ "id": "SV7",
+ "name": "Stellar Miracle",
+ "name_en": "Stellar Miracle",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2024-07-19",
+ "official": 102,
+ "abbr": "SV7",
+ "logo": "img/logos/ja/SV7.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/102",
+   "name": "Ledyba",
+   "v": "n"
+  },
+  {
+   "n": "002/102",
+   "name": "Ledian",
+   "v": "n"
+  },
+  {
+   "n": "003/102",
+   "name": "Lileep",
+   "v": "n"
+  },
+  {
+   "n": "004/102",
+   "name": "Cradily",
+   "v": "n"
+  },
+  {
+   "n": "005/102",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "006/102",
+   "name": "Mow Rotom",
+   "v": "n"
+  },
+  {
+   "n": "007/102",
+   "name": "Grubbin",
+   "v": "n"
+  },
+  {
+   "n": "008/102",
+   "name": "Gossifleur",
+   "v": "n"
+  },
+  {
+   "n": "009/102",
+   "name": "Eldegoss",
+   "v": "n"
+  },
+  {
+   "n": "010/102",
+   "name": "Applin",
+   "v": "n"
+  },
+  {
+   "n": "011/102",
+   "name": "Dipplin",
+   "v": "n"
+  },
+  {
+   "n": "012/102",
+   "name": "Hydrapple ex",
+   "v": "n"
+  },
+  {
+   "n": "013/102",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "014/102",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "015/102",
+   "name": "Turtonator",
+   "v": "n"
+  },
+  {
+   "n": "016/102",
+   "name": "Scorbunny",
+   "v": "n"
+  },
+  {
+   "n": "017/102",
+   "name": "Raboot",
+   "v": "n"
+  },
+  {
+   "n": "018/102",
+   "name": "Cinderace ex",
+   "v": "n"
+  },
+  {
+   "n": "019/102",
+   "name": "Lapras ex",
+   "v": "n"
+  },
+  {
+   "n": "020/102",
+   "name": "Finneon",
+   "v": "n"
+  },
+  {
+   "n": "021/102",
+   "name": "Lumineon",
+   "v": "n"
+  },
+  {
+   "n": "022/102",
+   "name": "Tirtouga",
+   "v": "n"
+  },
+  {
+   "n": "023/102",
+   "name": "Carracosta",
+   "v": "n"
+  },
+  {
+   "n": "024/102",
+   "name": "Crabominable",
+   "v": "n"
+  },
+  {
+   "n": "025/102",
+   "name": "Chewtle",
+   "v": "n"
+  },
+  {
+   "n": "026/102",
+   "name": "Drednaw",
+   "v": "n"
+  },
+  {
+   "n": "027/102",
+   "name": "Veluza",
+   "v": "n"
+  },
+  {
+   "n": "028/102",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "029/102",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "030/102",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "031/102",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "032/102",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "033/102",
+   "name": "Galvantula ex",
+   "v": "n"
+  },
+  {
+   "n": "034/102",
+   "name": "Charjabug",
+   "v": "n"
+  },
+  {
+   "n": "035/102",
+   "name": "Vikavolt",
+   "v": "n"
+  },
+  {
+   "n": "036/102",
+   "name": "Togedemaru",
+   "v": "n"
+  },
+  {
+   "n": "037/102",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "038/102",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "039/102",
+   "name": "Slowking",
+   "v": "n"
+  },
+  {
+   "n": "040/102",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "041/102",
+   "name": "Drifblim",
+   "v": "n"
+  },
+  {
+   "n": "042/102",
+   "name": "Comfey",
+   "v": "n"
+  },
+  {
+   "n": "043/102",
+   "name": "Milcery",
+   "v": "n"
+  },
+  {
+   "n": "044/102",
+   "name": "Alcremie",
+   "v": "n"
+  },
+  {
+   "n": "045/102",
+   "name": "Fidough",
+   "v": "n"
+  },
+  {
+   "n": "046/102",
+   "name": "Dachsbun ex",
+   "v": "n"
+  },
+  {
+   "n": "047/102",
+   "name": "Iron Boulder",
+   "v": "n"
+  },
+  {
+   "n": "048/102",
+   "name": "Cubone",
+   "v": "n"
+  },
+  {
+   "n": "049/102",
+   "name": "Marowak",
+   "v": "n"
+  },
+  {
+   "n": "050/102",
+   "name": "Rhyhorn",
+   "v": "n"
+  },
+  {
+   "n": "051/102",
+   "name": "Rhydon",
+   "v": "n"
+  },
+  {
+   "n": "052/102",
+   "name": "Rhyperior",
+   "v": "n"
+  },
+  {
+   "n": "053/102",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "054/102",
+   "name": "Medicham ex",
+   "v": "n"
+  },
+  {
+   "n": "055/102",
+   "name": "Mienfoo",
+   "v": "n"
+  },
+  {
+   "n": "056/102",
+   "name": "Mienshao",
+   "v": "n"
+  },
+  {
+   "n": "057/102",
+   "name": "Pancham",
+   "v": "n"
+  },
+  {
+   "n": "058/102",
+   "name": "Diancie",
+   "v": "n"
+  },
+  {
+   "n": "059/102",
+   "name": "Crabrawler",
+   "v": "n"
+  },
+  {
+   "n": "060/102",
+   "name": "Falinks",
+   "v": "n"
+  },
+  {
+   "n": "061/102",
+   "name": "Gulpin",
+   "v": "n"
+  },
+  {
+   "n": "062/102",
+   "name": "Swalot",
+   "v": "n"
+  },
+  {
+   "n": "063/102",
+   "name": "Pangoro",
+   "v": "n"
+  },
+  {
+   "n": "064/102",
+   "name": "Impidimp",
+   "v": "n"
+  },
+  {
+   "n": "065/102",
+   "name": "Morgrem",
+   "v": "n"
+  },
+  {
+   "n": "066/102",
+   "name": "Grimmsnarl",
+   "v": "n"
+  },
+  {
+   "n": "067/102",
+   "name": "Klink",
+   "v": "n"
+  },
+  {
+   "n": "068/102",
+   "name": "Klang",
+   "v": "n"
+  },
+  {
+   "n": "069/102",
+   "name": "Klinklang",
+   "v": "n"
+  },
+  {
+   "n": "070/102",
+   "name": "Meltan",
+   "v": "n"
+  },
+  {
+   "n": "071/102",
+   "name": "Melmetal",
+   "v": "n"
+  },
+  {
+   "n": "072/102",
+   "name": "Duraludon",
+   "v": "n"
+  },
+  {
+   "n": "073/102",
+   "name": "Archaludon",
+   "v": "n"
+  },
+  {
+   "n": "074/102",
+   "name": "Orthworm ex",
+   "v": "n"
+  },
+  {
+   "n": "075/102",
+   "name": "Raging Bolt",
+   "v": "n"
+  },
+  {
+   "n": "076/102",
+   "name": "Hoothoot",
+   "v": "n"
+  },
+  {
+   "n": "077/102",
+   "name": "Noctowl",
+   "v": "n"
+  },
+  {
+   "n": "078/102",
+   "name": "Glameow",
+   "v": "n"
+  },
+  {
+   "n": "079/102",
+   "name": "Purugly",
+   "v": "n"
+  },
+  {
+   "n": "080/102",
+   "name": "Fan Rotom",
+   "v": "n"
+  },
+  {
+   "n": "081/102",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "082/102",
+   "name": "Tornadus",
+   "v": "n"
+  },
+  {
+   "n": "083/102",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "084/102",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "085/102",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "086/102",
+   "name": "Wooloo",
+   "v": "n"
+  },
+  {
+   "n": "087/102",
+   "name": "Dubwool",
+   "v": "n"
+  },
+  {
+   "n": "088/102",
+   "name": "Terapagos ex",
+   "v": "n"
+  },
+  {
+   "n": "089/102",
+   "name": "Antique Cover Fossil",
+   "v": "n"
+  },
+  {
+   "n": "090/102",
+   "name": "Antique Root Fossil",
+   "v": "n"
+  },
+  {
+   "n": "091/102",
+   "name": "Glass Trumpet",
+   "v": "n"
+  },
+  {
+   "n": "092/102",
+   "name": "Deluxe Bomb",
+   "v": "n"
+  },
+  {
+   "n": "093/102",
+   "name": "Sparkling Crystal",
+   "v": "n"
+  },
+  {
+   "n": "094/102",
+   "name": "Payapa Berry",
+   "v": "n"
+  },
+  {
+   "n": "095/102",
+   "name": "Occa Berry",
+   "v": "n"
+  },
+  {
+   "n": "096/102",
+   "name": "Gravity Gemstone",
+   "v": "n"
+  },
+  {
+   "n": "097/102",
+   "name": "Kofu",
+   "v": "n"
+  },
+  {
+   "n": "098/102",
+   "name": "Briar",
+   "v": "n"
+  },
+  {
+   "n": "099/102",
+   "name": "Lacey",
+   "v": "n"
+  },
+  {
+   "n": "100/102",
+   "name": "Crispin",
+   "v": "n"
+  },
+  {
+   "n": "101/102",
+   "name": "Grand Tree",
+   "v": "n"
+  },
+  {
+   "n": "102/102",
+   "name": "Area Zero Underdepths",
+   "v": "n"
+  },
+  {
+   "n": "103/102",
+   "name": "Ledian",
+   "v": "n"
+  },
+  {
+   "n": "104/102",
+   "name": "Lileep",
+   "v": "n"
+  },
+  {
+   "n": "105/102",
+   "name": "Turtonator",
+   "v": "n"
+  },
+  {
+   "n": "106/102",
+   "name": "Raboot",
+   "v": "n"
+  },
+  {
+   "n": "107/102",
+   "name": "Crabominable",
+   "v": "n"
+  },
+  {
+   "n": "108/102",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "109/102",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "110/102",
+   "name": "Milcery",
+   "v": "n"
+  },
+  {
+   "n": "111/102",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "112/102",
+   "name": "Gulpin",
+   "v": "n"
+  },
+  {
+   "n": "113/102",
+   "name": "Archaludon",
+   "v": "n"
+  },
+  {
+   "n": "114/102",
+   "name": "Noctowl",
+   "v": "n"
+  },
+  {
+   "n": "115/102",
+   "name": "Hydrapple ex",
+   "v": "n"
+  },
+  {
+   "n": "116/102",
+   "name": "Cinderace ex",
+   "v": "n"
+  },
+  {
+   "n": "117/102",
+   "name": "Lapras ex",
+   "v": "n"
+  },
+  {
+   "n": "118/102",
+   "name": "Galvantula ex",
+   "v": "n"
+  },
+  {
+   "n": "119/102",
+   "name": "Dachsbun ex",
+   "v": "n"
+  },
+  {
+   "n": "120/102",
+   "name": "Medicham ex",
+   "v": "n"
+  },
+  {
+   "n": "121/102",
+   "name": "Orthworm ex",
+   "v": "n"
+  },
+  {
+   "n": "122/102",
+   "name": "Terapagos ex",
+   "v": "n"
+  },
+  {
+   "n": "123/102",
+   "name": "Kofu",
+   "v": "n"
+  },
+  {
+   "n": "124/102",
+   "name": "Briar",
+   "v": "n"
+  },
+  {
+   "n": "125/102",
+   "name": "Lacey",
+   "v": "n"
+  },
+  {
+   "n": "126/102",
+   "name": "Crispin",
+   "v": "n"
+  },
+  {
+   "n": "127/102",
+   "name": "Hydrapple ex",
+   "v": "n"
+  },
+  {
+   "n": "128/102",
+   "name": "Galvantula ex",
+   "v": "n"
+  },
+  {
+   "n": "129/102",
+   "name": "Dachsbun ex",
+   "v": "n"
+  },
+  {
+   "n": "130/102",
+   "name": "Terapagos ex",
+   "v": "n"
+  },
+  {
+   "n": "131/102",
+   "name": "Briar",
+   "v": "n"
+  },
+  {
+   "n": "132/102",
+   "name": "Lacey",
+   "v": "n"
+  },
+  {
+   "n": "133/102",
+   "name": "Terapagos ex",
+   "v": "n"
+  },
+  {
+   "n": "134/102",
+   "name": "Bravery Charm",
+   "v": "n"
+  },
+  {
+   "n": "135/102",
+   "name": "Area Zero Underdepths",
+   "v": "n"
+  }
+ ]
+}

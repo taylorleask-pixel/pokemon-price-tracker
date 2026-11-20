@@ -1,0 +1,605 @@
+{
+ "id": "M5",
+ "name": "Abyss Eye",
+ "name_en": "Abyss Eye",
+ "serie": "Mega Evolution",
+ "serie_id": "M",
+ "date": "2026-05-22",
+ "official": 81,
+ "abbr": "M5",
+ "logo": "img/logos/ja/M5.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/081",
+   "name": "Tropius",
+   "v": "n"
+  },
+  {
+   "n": "002/081",
+   "name": "Grubbin",
+   "v": "n"
+  },
+  {
+   "n": "003/081",
+   "name": "Fomantis",
+   "v": "n"
+  },
+  {
+   "n": "004/081",
+   "name": "Lurantis ex",
+   "v": "n"
+  },
+  {
+   "n": "005/081",
+   "name": "Poltchageist",
+   "v": "n"
+  },
+  {
+   "n": "006/081",
+   "name": "Sinistcha",
+   "v": "n"
+  },
+  {
+   "n": "007/081",
+   "name": "Heatran",
+   "v": "n"
+  },
+  {
+   "n": "008/081",
+   "name": "Sizzlipede",
+   "v": "n"
+  },
+  {
+   "n": "009/081",
+   "name": "Centiskorch",
+   "v": "n"
+  },
+  {
+   "n": "010/081",
+   "name": "Charcadet",
+   "v": "n"
+  },
+  {
+   "n": "011/081",
+   "name": "Armarouge",
+   "v": "n"
+  },
+  {
+   "n": "012/081",
+   "name": "Goldeen",
+   "v": "n"
+  },
+  {
+   "n": "013/081",
+   "name": "Seaking",
+   "v": "n"
+  },
+  {
+   "n": "014/081",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "015/081",
+   "name": "Wailord ex",
+   "v": "n"
+  },
+  {
+   "n": "016/081",
+   "name": "Relicanth",
+   "v": "n"
+  },
+  {
+   "n": "017/081",
+   "name": "Popplio",
+   "v": "n"
+  },
+  {
+   "n": "018/081",
+   "name": "Brionne",
+   "v": "n"
+  },
+  {
+   "n": "019/081",
+   "name": "Primarina",
+   "v": "n"
+  },
+  {
+   "n": "020/081",
+   "name": "Finizen",
+   "v": "n"
+  },
+  {
+   "n": "021/081",
+   "name": "Palafin",
+   "v": "n"
+  },
+  {
+   "n": "022/081",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "023/081",
+   "name": "Manectric",
+   "v": "n"
+  },
+  {
+   "n": "024/081",
+   "name": "Charjabug",
+   "v": "n"
+  },
+  {
+   "n": "025/081",
+   "name": "Vikavolt",
+   "v": "n"
+  },
+  {
+   "n": "026/081",
+   "name": "Mega Zeraora ex",
+   "v": "n"
+  },
+  {
+   "n": "027/081",
+   "name": "Miraidon",
+   "v": "n"
+  },
+  {
+   "n": "028/081",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "029/081",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "030/081",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "031/081",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "032/081",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "033/081",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "034/081",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "035/081",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "036/081",
+   "name": "Mega Chandelure ex",
+   "v": "n"
+  },
+  {
+   "n": "037/081",
+   "name": "Dhelmise",
+   "v": "n"
+  },
+  {
+   "n": "038/081",
+   "name": "Marshadow",
+   "v": "n"
+  },
+  {
+   "n": "039/081",
+   "name": "Annihilape",
+   "v": "n"
+  },
+  {
+   "n": "040/081",
+   "name": "Mankey",
+   "v": "n"
+  },
+  {
+   "n": "041/081",
+   "name": "Primeape",
+   "v": "n"
+  },
+  {
+   "n": "042/081",
+   "name": "Cranidos",
+   "v": "n"
+  },
+  {
+   "n": "043/081",
+   "name": "Rampardos ex",
+   "v": "n"
+  },
+  {
+   "n": "044/081",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "045/081",
+   "name": "Koraidon",
+   "v": "n"
+  },
+  {
+   "n": "046/081",
+   "name": "Mega Darkrai ex",
+   "v": "n"
+  },
+  {
+   "n": "047/081",
+   "name": "Vullaby",
+   "v": "n"
+  },
+  {
+   "n": "048/081",
+   "name": "Mandibuzz",
+   "v": "n"
+  },
+  {
+   "n": "049/081",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "050/081",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "051/081",
+   "name": "Nickit",
+   "v": "n"
+  },
+  {
+   "n": "052/081",
+   "name": "Thievul",
+   "v": "n"
+  },
+  {
+   "n": "053/081",
+   "name": "Morpeko ex",
+   "v": "n"
+  },
+  {
+   "n": "054/081",
+   "name": "Zarude",
+   "v": "n"
+  },
+  {
+   "n": "055/081",
+   "name": "Maschiff",
+   "v": "n"
+  },
+  {
+   "n": "056/081",
+   "name": "Mabosstiff",
+   "v": "n"
+  },
+  {
+   "n": "057/081",
+   "name": "Chi-Yu",
+   "v": "n"
+  },
+  {
+   "n": "058/081",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "059/081",
+   "name": "Shieldon",
+   "v": "n"
+  },
+  {
+   "n": "060/081",
+   "name": "Bastiodon",
+   "v": "n"
+  },
+  {
+   "n": "061/081",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "062/081",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "063/081",
+   "name": "Mega Excadrill ex",
+   "v": "n"
+  },
+  {
+   "n": "064/081",
+   "name": "Pikipek",
+   "v": "n"
+  },
+  {
+   "n": "065/081",
+   "name": "Trumbeak",
+   "v": "n"
+  },
+  {
+   "n": "066/081",
+   "name": "Toucannon",
+   "v": "n"
+  },
+  {
+   "n": "067/081",
+   "name": "Type: Null",
+   "v": "n"
+  },
+  {
+   "n": "068/081",
+   "name": "Silvally",
+   "v": "n"
+  },
+  {
+   "n": "069/081",
+   "name": "Bombirdier",
+   "v": "n"
+  },
+  {
+   "n": "070/081",
+   "name": "Dark Bell",
+   "v": "n"
+  },
+  {
+   "n": "071/081",
+   "name": "Antique Skull Fossil",
+   "v": "n"
+  },
+  {
+   "n": "072/081",
+   "name": "Antique Armor Fossil",
+   "v": "n"
+  },
+  {
+   "n": "073/081",
+   "name": "Backtrack Badge",
+   "v": "n"
+  },
+  {
+   "n": "074/081",
+   "name": "Tremendous Bomb",
+   "v": "n"
+  },
+  {
+   "n": "075/081",
+   "name": "Gladion's Final Battle",
+   "v": "n"
+  },
+  {
+   "n": "076/081",
+   "name": "Rust Syndicate Grunt",
+   "v": "n"
+  },
+  {
+   "n": "077/081",
+   "name": "Gwynn",
+   "v": "n"
+  },
+  {
+   "n": "078/081",
+   "name": "Misty's Vitality",
+   "v": "n"
+  },
+  {
+   "n": "079/081",
+   "name": "Fossil Quarry",
+   "v": "n"
+  },
+  {
+   "n": "080/081",
+   "name": "Voltaic Lightning Energy",
+   "v": "n"
+  },
+  {
+   "n": "081/081",
+   "name": "Shadowy Darkness Energy",
+   "v": "n"
+  },
+  {
+   "n": "082/081",
+   "name": "Fomantis",
+   "v": "n"
+  },
+  {
+   "n": "083/081",
+   "name": "Armarouge",
+   "v": "n"
+  },
+  {
+   "n": "084/081",
+   "name": "Goldeen",
+   "v": "n"
+  },
+  {
+   "n": "085/081",
+   "name": "Primarina",
+   "v": "n"
+  },
+  {
+   "n": "086/081",
+   "name": "Manectric",
+   "v": "n"
+  },
+  {
+   "n": "087/081",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "088/081",
+   "name": "Dhelmise",
+   "v": "n"
+  },
+  {
+   "n": "089/081",
+   "name": "Thievul",
+   "v": "n"
+  },
+  {
+   "n": "090/081",
+   "name": "Zarude",
+   "v": "n"
+  },
+  {
+   "n": "091/081",
+   "name": "Bastiodon",
+   "v": "n"
+  },
+  {
+   "n": "092/081",
+   "name": "Toucannon",
+   "v": "n"
+  },
+  {
+   "n": "093/081",
+   "name": "Silvally",
+   "v": "n"
+  },
+  {
+   "n": "094/081",
+   "name": "Lurantis ex",
+   "v": "n"
+  },
+  {
+   "n": "095/081",
+   "name": "Wailord ex",
+   "v": "n"
+  },
+  {
+   "n": "096/081",
+   "name": "Mega Zeraora ex",
+   "v": "n"
+  },
+  {
+   "n": "097/081",
+   "name": "Mega Chandelure ex",
+   "v": "n"
+  },
+  {
+   "n": "098/081",
+   "name": "Rampardos ex",
+   "v": "n"
+  },
+  {
+   "n": "099/081",
+   "name": "Mega Darkrai ex",
+   "v": "n"
+  },
+  {
+   "n": "100/081",
+   "name": "Morpeko ex",
+   "v": "n"
+  },
+  {
+   "n": "101/081",
+   "name": "Mega Excadrill ex",
+   "v": "n"
+  },
+  {
+   "n": "102/081",
+   "name": "Dark Bell",
+   "v": "n"
+  },
+  {
+   "n": "103/081",
+   "name": "Iron Defender",
+   "v": "n"
+  },
+  {
+   "n": "104/081",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "105/081",
+   "name": "Crushing Hammer",
+   "v": "n"
+  },
+  {
+   "n": "106/081",
+   "name": "Brave Bangle",
+   "v": "n"
+  },
+  {
+   "n": "107/081",
+   "name": "Tremendous Bomb",
+   "v": "n"
+  },
+  {
+   "n": "108/081",
+   "name": "Gladion's Final Battle",
+   "v": "n"
+  },
+  {
+   "n": "109/081",
+   "name": "Rust Syndicate Grunt",
+   "v": "n"
+  },
+  {
+   "n": "110/081",
+   "name": "Gwynn",
+   "v": "n"
+  },
+  {
+   "n": "111/081",
+   "name": "Misty's Vitality",
+   "v": "n"
+  },
+  {
+   "n": "112/081",
+   "name": "Mega Zeraora ex",
+   "v": "n"
+  },
+  {
+   "n": "113/081",
+   "name": "Mega Chandelure ex",
+   "v": "n"
+  },
+  {
+   "n": "114/081",
+   "name": "Mega Darkrai ex",
+   "v": "n"
+  },
+  {
+   "n": "115/081",
+   "name": "Morpeko ex",
+   "v": "n"
+  },
+  {
+   "n": "116/081",
+   "name": "Gladion's Final Battle",
+   "v": "n"
+  },
+  {
+   "n": "117/081",
+   "name": "Gwynn",
+   "v": "n"
+  },
+  {
+   "n": "118/081",
+   "name": "Mega Darkrai ex",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,360 @@
+{
+ "id": "SM9b",
+ "name": "풀메탈월",
+ "name_en": "Full Metal Wall",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-02-01",
+ "official": 54,
+ "abbr": "SM9b",
+ "logo": "img/logos/ja/SM9b.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/054",
+   "name": "Pheromosa & Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "002/054",
+   "name": "Caterpie",
+   "v": "n"
+  },
+  {
+   "n": "003/054",
+   "name": "Metapod",
+   "v": "n"
+  },
+  {
+   "n": "004/054",
+   "name": "Butterfree",
+   "v": "n"
+  },
+  {
+   "n": "005/054",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "006/054",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "007/054",
+   "name": "Kartana",
+   "v": "n"
+  },
+  {
+   "n": "008/054",
+   "name": "Squirtle",
+   "v": "n"
+  },
+  {
+   "n": "009/054",
+   "name": "Wartortle",
+   "v": "n"
+  },
+  {
+   "n": "010/054",
+   "name": "Blastoise-GX",
+   "v": "n"
+  },
+  {
+   "n": "011/054",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "012/054",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "013/054",
+   "name": "Pyukumuku",
+   "v": "n"
+  },
+  {
+   "n": "014/054",
+   "name": "Ekans",
+   "v": "n"
+  },
+  {
+   "n": "015/054",
+   "name": "Arbok",
+   "v": "n"
+  },
+  {
+   "n": "016/054",
+   "name": "Zubat",
+   "v": "n"
+  },
+  {
+   "n": "017/054",
+   "name": "Golbat",
+   "v": "n"
+  },
+  {
+   "n": "018/054",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "019/054",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "020/054",
+   "name": "Hypno",
+   "v": "n"
+  },
+  {
+   "n": "021/054",
+   "name": "Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "022/054",
+   "name": "Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "023/054",
+   "name": "Geodude",
+   "v": "n"
+  },
+  {
+   "n": "024/054",
+   "name": "Graveler",
+   "v": "n"
+  },
+  {
+   "n": "025/054",
+   "name": "Golem",
+   "v": "n"
+  },
+  {
+   "n": "026/054",
+   "name": "Hitmontop",
+   "v": "n"
+  },
+  {
+   "n": "027/054",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "028/054",
+   "name": "Stakataka",
+   "v": "n"
+  },
+  {
+   "n": "029/054",
+   "name": "Lucario & Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "030/054",
+   "name": "Alolan Diglett",
+   "v": "n"
+  },
+  {
+   "n": "031/054",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "032/054",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "033/054",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "034/054",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "035/054",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "036/054",
+   "name": "Genesect",
+   "v": "n"
+  },
+  {
+   "n": "037/054",
+   "name": "Meltan",
+   "v": "n"
+  },
+  {
+   "n": "038/054",
+   "name": "Melmetal",
+   "v": "n"
+  },
+  {
+   "n": "039/054",
+   "name": "Spearow",
+   "v": "n"
+  },
+  {
+   "n": "040/054",
+   "name": "Fearow",
+   "v": "n"
+  },
+  {
+   "n": "041/054",
+   "name": "Glameow",
+   "v": "n"
+  },
+  {
+   "n": "042/054",
+   "name": "Purugly",
+   "v": "n"
+  },
+  {
+   "n": "043/054",
+   "name": "Celesteela-GX",
+   "v": "n"
+  },
+  {
+   "n": "044/054",
+   "name": "Devolution Spray Z",
+   "v": "n"
+  },
+  {
+   "n": "045/054",
+   "name": "Metal Core Barrier",
+   "v": "n"
+  },
+  {
+   "n": "046/054",
+   "name": "Beast Bringer",
+   "v": "n"
+  },
+  {
+   "n": "047/054",
+   "name": "Molayne",
+   "v": "n"
+  },
+  {
+   "n": "048/054",
+   "name": "Green's Exploration",
+   "v": "n"
+  },
+  {
+   "n": "049/054",
+   "name": "Ultra Forest Kartenvoy",
+   "v": "n"
+  },
+  {
+   "n": "050/054",
+   "name": "Power Plant",
+   "v": "n"
+  },
+  {
+   "n": "051/054",
+   "name": "Beast Ring",
+   "v": "n"
+  },
+  {
+   "n": "052/054",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "053/054",
+   "name": "Metal Frying Pan",
+   "v": "n"
+  },
+  {
+   "n": "054/054",
+   "name": "Acerola",
+   "v": "n"
+  },
+  {
+   "n": "055/054",
+   "name": "Pheromosa & Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "056/054",
+   "name": "Pheromosa & Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "057/054",
+   "name": "Blastoise-GX",
+   "v": "n"
+  },
+  {
+   "n": "058/054",
+   "name": "Lucario & Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/054",
+   "name": "Lucario & Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/054",
+   "name": "Celesteela-GX",
+   "v": "n"
+  },
+  {
+   "n": "061/054",
+   "name": "Molayne",
+   "v": "n"
+  },
+  {
+   "n": "062/054",
+   "name": "Green's Exploration",
+   "v": "n"
+  },
+  {
+   "n": "063/054",
+   "name": "Pheromosa & Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "064/054",
+   "name": "Blastoise-GX",
+   "v": "n"
+  },
+  {
+   "n": "065/054",
+   "name": "Lucario & Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "066/054",
+   "name": "Celesteela-GX",
+   "v": "n"
+  },
+  {
+   "n": "067/054",
+   "name": "Metal Core Barrier",
+   "v": "n"
+  },
+  {
+   "n": "068/054",
+   "name": "Beast Bringer",
+   "v": "n"
+  },
+  {
+   "n": "069/054",
+   "name": "Mt. Coronet",
+   "v": "n"
+  }
+ ]
+}

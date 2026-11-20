@@ -1,0 +1,330 @@
+{
+ "id": "SM7b",
+ "name": "페어리라이즈",
+ "name_en": "Fairy Rise",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2018-08-03",
+ "official": 50,
+ "abbr": "SM7b",
+ "logo": "img/logos/ja/SM7b.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/050",
+   "name": "Paste list Tangela",
+   "v": "n"
+  },
+  {
+   "n": "002/050",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "003/050",
+   "name": "Treecko",
+   "v": "n"
+  },
+  {
+   "n": "004/050",
+   "name": "Grovyle",
+   "v": "n"
+  },
+  {
+   "n": "005/050",
+   "name": "Sceptile-GX",
+   "v": "n"
+  },
+  {
+   "n": "006/050",
+   "name": "Wurmple",
+   "v": "n"
+  },
+  {
+   "n": "007/050",
+   "name": "Silcoon",
+   "v": "n"
+  },
+  {
+   "n": "008/050",
+   "name": "Beautifly",
+   "v": "n"
+  },
+  {
+   "n": "009/050",
+   "name": "Nincada",
+   "v": "n"
+  },
+  {
+   "n": "010/050",
+   "name": "Ninjask",
+   "v": "n"
+  },
+  {
+   "n": "011/050",
+   "name": "Combee",
+   "v": "n"
+  },
+  {
+   "n": "012/050",
+   "name": "Vespiquen",
+   "v": "n"
+  },
+  {
+   "n": "013/050",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "014/050",
+   "name": "Alolan Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "015/050",
+   "name": "Shedinja",
+   "v": "n"
+  },
+  {
+   "n": "016/050",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "017/050",
+   "name": "Giratina",
+   "v": "n"
+  },
+  {
+   "n": "018/050",
+   "name": "Sigilyph-GX",
+   "v": "n"
+  },
+  {
+   "n": "019/050",
+   "name": "Yamask",
+   "v": "n"
+  },
+  {
+   "n": "020/050",
+   "name": "Cofagrigus",
+   "v": "n"
+  },
+  {
+   "n": "021/050",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "022/050",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "023/050",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "024/050",
+   "name": "Meloetta",
+   "v": "n"
+  },
+  {
+   "n": "025/050",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "026/050",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "027/050",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "028/050",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "029/050",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "030/050",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "031/050",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "032/050",
+   "name": "Carbink",
+   "v": "n"
+  },
+  {
+   "n": "033/050",
+   "name": "Xerneas ◇",
+   "v": "n"
+  },
+  {
+   "n": "034/050",
+   "name": "Cutiefly",
+   "v": "n"
+  },
+  {
+   "n": "035/050",
+   "name": "Ribombee",
+   "v": "n"
+  },
+  {
+   "n": "036/050",
+   "name": "Morelull",
+   "v": "n"
+  },
+  {
+   "n": "037/050",
+   "name": "Shiinotic",
+   "v": "n"
+  },
+  {
+   "n": "038/050",
+   "name": "Mimikyu-GX",
+   "v": "n"
+  },
+  {
+   "n": "039/050",
+   "name": "Tapu Lele",
+   "v": "n"
+  },
+  {
+   "n": "040/050",
+   "name": "Tapu Fini",
+   "v": "n"
+  },
+  {
+   "n": "041/050",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "042/050",
+   "name": "Net Ball",
+   "v": "n"
+  },
+  {
+   "n": "043/050",
+   "name": "Adventure Bag",
+   "v": "n"
+  },
+  {
+   "n": "044/050",
+   "name": "Spell Tag",
+   "v": "n"
+  },
+  {
+   "n": "045/050",
+   "name": "Fairy Charm Psychic",
+   "v": "n"
+  },
+  {
+   "n": "046/050",
+   "name": "Fairy Charm Fighting",
+   "v": "n"
+  },
+  {
+   "n": "047/050",
+   "name": "Fairy Charm Dragon",
+   "v": "n"
+  },
+  {
+   "n": "048/050",
+   "name": "Mina",
+   "v": "n"
+  },
+  {
+   "n": "049/050",
+   "name": "Morty",
+   "v": "n"
+  },
+  {
+   "n": "050/050",
+   "name": "Life Forest ◇",
+   "v": "n"
+  },
+  {
+   "n": "051/050",
+   "name": "Sceptile-GX",
+   "v": "n"
+  },
+  {
+   "n": "052/050",
+   "name": "Sigilyph-GX",
+   "v": "n"
+  },
+  {
+   "n": "053/050",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "054/050",
+   "name": "Mimikyu-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/050",
+   "name": "Mina",
+   "v": "n"
+  },
+  {
+   "n": "056/050",
+   "name": "Morty",
+   "v": "n"
+  },
+  {
+   "n": "057/050",
+   "name": "Sceptile-GX",
+   "v": "n"
+  },
+  {
+   "n": "058/050",
+   "name": "Sigilyph-GX",
+   "v": "n"
+  },
+  {
+   "n": "059/050",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "060/050",
+   "name": "Mimikyu-GX",
+   "v": "n"
+  },
+  {
+   "n": "061/050",
+   "name": "Net Ball",
+   "v": "n"
+  },
+  {
+   "n": "062/050",
+   "name": "Adventure Bag",
+   "v": "n"
+  },
+  {
+   "n": "063/050",
+   "name": "Spell Tag",
+   "v": "n"
+  }
+ ]
+}

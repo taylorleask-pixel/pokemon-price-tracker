@@ -1,0 +1,485 @@
+{
+ "id": "SV7a",
+ "name": "Paradise Dragona",
+ "name_en": "Paradise Dragona",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2024-09-13",
+ "official": 64,
+ "abbr": "SV7a",
+ "logo": "img/logos/ja/SV7a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/064",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "002/064",
+   "name": "Morelull",
+   "v": "n"
+  },
+  {
+   "n": "003/064",
+   "name": "Shiinotic",
+   "v": "n"
+  },
+  {
+   "n": "004/064",
+   "name": "Dhelmise",
+   "v": "n"
+  },
+  {
+   "n": "005/064",
+   "name": "Zarude",
+   "v": "n"
+  },
+  {
+   "n": "006/064",
+   "name": "Castform Sunny Form",
+   "v": "n"
+  },
+  {
+   "n": "007/064",
+   "name": "Pansear",
+   "v": "n"
+  },
+  {
+   "n": "008/064",
+   "name": "Simisear",
+   "v": "n"
+  },
+  {
+   "n": "009/064",
+   "name": "Gouging Fire",
+   "v": "n"
+  },
+  {
+   "n": "010/064",
+   "name": "Cryogonal",
+   "v": "n"
+  },
+  {
+   "n": "011/064",
+   "name": "Black Kyurem ex",
+   "v": "n"
+  },
+  {
+   "n": "012/064",
+   "name": "Bruxish",
+   "v": "n"
+  },
+  {
+   "n": "013/064",
+   "name": "Quaxly",
+   "v": "n"
+  },
+  {
+   "n": "014/064",
+   "name": "Quaxwell",
+   "v": "n"
+  },
+  {
+   "n": "015/064",
+   "name": "Quaquaval",
+   "v": "n"
+  },
+  {
+   "n": "016/064",
+   "name": "Cetoddle",
+   "v": "n"
+  },
+  {
+   "n": "017/064",
+   "name": "Cetitan",
+   "v": "n"
+  },
+  {
+   "n": "018/064",
+   "name": "Smoochum",
+   "v": "n"
+  },
+  {
+   "n": "019/064",
+   "name": "Latias ex",
+   "v": "n"
+  },
+  {
+   "n": "020/064",
+   "name": "Latios",
+   "v": "n"
+  },
+  {
+   "n": "021/064",
+   "name": "Tapu Lele",
+   "v": "n"
+  },
+  {
+   "n": "022/064",
+   "name": "Flittle",
+   "v": "n"
+  },
+  {
+   "n": "023/064",
+   "name": "Espathra",
+   "v": "n"
+  },
+  {
+   "n": "024/064",
+   "name": "Gimmighoul",
+   "v": "n"
+  },
+  {
+   "n": "025/064",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "026/064",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "027/064",
+   "name": "Flygon ex",
+   "v": "n"
+  },
+  {
+   "n": "028/064",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "029/064",
+   "name": "Excadrill",
+   "v": "n"
+  },
+  {
+   "n": "030/064",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "031/064",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "032/064",
+   "name": "Clobbopus",
+   "v": "n"
+  },
+  {
+   "n": "033/064",
+   "name": "Grapploct",
+   "v": "n"
+  },
+  {
+   "n": "034/064",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "035/064",
+   "name": "Klefki",
+   "v": "n"
+  },
+  {
+   "n": "036/064",
+   "name": "Duraludon",
+   "v": "n"
+  },
+  {
+   "n": "037/064",
+   "name": "Archaludon ex",
+   "v": "n"
+  },
+  {
+   "n": "038/064",
+   "name": "Gholdengo",
+   "v": "n"
+  },
+  {
+   "n": "039/064",
+   "name": "Iron Crown",
+   "v": "n"
+  },
+  {
+   "n": "040/064",
+   "name": "Alolan Exeggutor ex",
+   "v": "n"
+  },
+  {
+   "n": "041/064",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "042/064",
+   "name": "Dialga",
+   "v": "n"
+  },
+  {
+   "n": "043/064",
+   "name": "Palkia",
+   "v": "n"
+  },
+  {
+   "n": "044/064",
+   "name": "Turtonator",
+   "v": "n"
+  },
+  {
+   "n": "045/064",
+   "name": "Applin",
+   "v": "n"
+  },
+  {
+   "n": "046/064",
+   "name": "Flapple",
+   "v": "n"
+  },
+  {
+   "n": "047/064",
+   "name": "Appletun",
+   "v": "n"
+  },
+  {
+   "n": "048/064",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "049/064",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "050/064",
+   "name": "Braviary",
+   "v": "n"
+  },
+  {
+   "n": "051/064",
+   "name": "Cyclizar ex",
+   "v": "n"
+  },
+  {
+   "n": "052/064",
+   "name": "Dusk Ball",
+   "v": "n"
+  },
+  {
+   "n": "053/064",
+   "name": "Call Bell",
+   "v": "n"
+  },
+  {
+   "n": "054/064",
+   "name": "Megaton Blower",
+   "v": "n"
+  },
+  {
+   "n": "055/064",
+   "name": "Meddling Memo",
+   "v": "n"
+  },
+  {
+   "n": "056/064",
+   "name": "Energy Search Pro",
+   "v": "n"
+  },
+  {
+   "n": "057/064",
+   "name": "Dragon Elixir",
+   "v": "n"
+  },
+  {
+   "n": "058/064",
+   "name": "Passho Berry",
+   "v": "n"
+  },
+  {
+   "n": "059/064",
+   "name": "Counter Gain",
+   "v": "n"
+  },
+  {
+   "n": "060/064",
+   "name": "Drasna",
+   "v": "n"
+  },
+  {
+   "n": "061/064",
+   "name": "Lisia's Appeal",
+   "v": "n"
+  },
+  {
+   "n": "062/064",
+   "name": "Surfer",
+   "v": "n"
+  },
+  {
+   "n": "063/064",
+   "name": "Drayton",
+   "v": "n"
+  },
+  {
+   "n": "064/064",
+   "name": "Enriching Energy",
+   "v": "n"
+  },
+  {
+   "n": "065/064",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "066/064",
+   "name": "Shiinotic",
+   "v": "n"
+  },
+  {
+   "n": "067/064",
+   "name": "Castform Sunny Form",
+   "v": "n"
+  },
+  {
+   "n": "068/064",
+   "name": "Bruxish",
+   "v": "n"
+  },
+  {
+   "n": "069/064",
+   "name": "Cetitan",
+   "v": "n"
+  },
+  {
+   "n": "070/064",
+   "name": "Latios",
+   "v": "n"
+  },
+  {
+   "n": "071/064",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "072/064",
+   "name": "Clobbopus",
+   "v": "n"
+  },
+  {
+   "n": "073/064",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "074/064",
+   "name": "Flapple",
+   "v": "n"
+  },
+  {
+   "n": "075/064",
+   "name": "Appletun",
+   "v": "n"
+  },
+  {
+   "n": "076/064",
+   "name": "Braviary",
+   "v": "n"
+  },
+  {
+   "n": "077/064",
+   "name": "Black Kyurem ex",
+   "v": "n"
+  },
+  {
+   "n": "078/064",
+   "name": "Latias ex",
+   "v": "n"
+  },
+  {
+   "n": "079/064",
+   "name": "Flygon ex",
+   "v": "n"
+  },
+  {
+   "n": "080/064",
+   "name": "Archaludon ex",
+   "v": "n"
+  },
+  {
+   "n": "081/064",
+   "name": "Alolan Exeggutor ex",
+   "v": "n"
+  },
+  {
+   "n": "082/064",
+   "name": "Cyclizar ex",
+   "v": "n"
+  },
+  {
+   "n": "083/064",
+   "name": "Drasna",
+   "v": "n"
+  },
+  {
+   "n": "084/064",
+   "name": "Lisia's Appeal",
+   "v": "n"
+  },
+  {
+   "n": "085/064",
+   "name": "Surfer",
+   "v": "n"
+  },
+  {
+   "n": "086/064",
+   "name": "Drayton",
+   "v": "n"
+  },
+  {
+   "n": "087/064",
+   "name": "Latias ex",
+   "v": "n"
+  },
+  {
+   "n": "088/064",
+   "name": "Archaludon ex",
+   "v": "n"
+  },
+  {
+   "n": "089/064",
+   "name": "Alolan Exeggutor ex",
+   "v": "n"
+  },
+  {
+   "n": "090/064",
+   "name": "Lisia's Appeal",
+   "v": "n"
+  },
+  {
+   "n": "091/064",
+   "name": "Drayton",
+   "v": "n"
+  },
+  {
+   "n": "092/064",
+   "name": "Alolan Exeggutor ex",
+   "v": "n"
+  },
+  {
+   "n": "093/064",
+   "name": "Counter Gain",
+   "v": "n"
+  },
+  {
+   "n": "094/064",
+   "name": "Jet Energy",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,610 @@
+{
+ "id": "S3",
+ "name": "무한존",
+ "name_en": "Infinity Zone",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2020-06-05",
+ "official": 100,
+ "abbr": "S3",
+ "logo": "img/logos/ja/S3.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/100",
+   "name": "Paras",
+   "v": "n"
+  },
+  {
+   "n": "002/100",
+   "name": "Parasect",
+   "v": "n"
+  },
+  {
+   "n": "003/100",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "004/100",
+   "name": "Pansage",
+   "v": "n"
+  },
+  {
+   "n": "005/100",
+   "name": "Simisage",
+   "v": "n"
+  },
+  {
+   "n": "006/100",
+   "name": "Rowlet",
+   "v": "n"
+  },
+  {
+   "n": "007/100",
+   "name": "Dartrix",
+   "v": "n"
+  },
+  {
+   "n": "008/100",
+   "name": "Decidueye",
+   "v": "n"
+  },
+  {
+   "n": "009/100",
+   "name": "Houndoom V",
+   "v": "n"
+  },
+  {
+   "n": "010/100",
+   "name": "Torchic",
+   "v": "n"
+  },
+  {
+   "n": "011/100",
+   "name": "Combusken",
+   "v": "n"
+  },
+  {
+   "n": "012/100",
+   "name": "Blaziken",
+   "v": "n"
+  },
+  {
+   "n": "013/100",
+   "name": "Pansear",
+   "v": "n"
+  },
+  {
+   "n": "014/100",
+   "name": "Simisear",
+   "v": "n"
+  },
+  {
+   "n": "015/100",
+   "name": "Galarian Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "016/100",
+   "name": "Suicune",
+   "v": "n"
+  },
+  {
+   "n": "017/100",
+   "name": "Relicanth",
+   "v": "n"
+  },
+  {
+   "n": "018/100",
+   "name": "Panpour",
+   "v": "n"
+  },
+  {
+   "n": "019/100",
+   "name": "Simipour",
+   "v": "n"
+  },
+  {
+   "n": "020/100",
+   "name": "Galarian Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "021/100",
+   "name": "Vanillite",
+   "v": "n"
+  },
+  {
+   "n": "022/100",
+   "name": "Vanillish",
+   "v": "n"
+  },
+  {
+   "n": "023/100",
+   "name": "Vanilluxe",
+   "v": "n"
+  },
+  {
+   "n": "024/100",
+   "name": "Mareanie",
+   "v": "n"
+  },
+  {
+   "n": "025/100",
+   "name": "Toxapex",
+   "v": "n"
+  },
+  {
+   "n": "026/100",
+   "name": "Drednaw V",
+   "v": "n"
+  },
+  {
+   "n": "027/100",
+   "name": "Drednaw VMAX",
+   "v": "n"
+  },
+  {
+   "n": "028/100",
+   "name": "Dracovish",
+   "v": "n"
+  },
+  {
+   "n": "029/100",
+   "name": "Arctovish",
+   "v": "n"
+  },
+  {
+   "n": "030/100",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "031/100",
+   "name": "Manectric",
+   "v": "n"
+  },
+  {
+   "n": "032/100",
+   "name": "Tapu Koko",
+   "v": "n"
+  },
+  {
+   "n": "033/100",
+   "name": "Dracozolt",
+   "v": "n"
+  },
+  {
+   "n": "034/100",
+   "name": "Arctozolt",
+   "v": "n"
+  },
+  {
+   "n": "035/100",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "036/100",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "037/100",
+   "name": "Gothita",
+   "v": "n"
+  },
+  {
+   "n": "038/100",
+   "name": "Gothorita",
+   "v": "n"
+  },
+  {
+   "n": "039/100",
+   "name": "Gothitelle",
+   "v": "n"
+  },
+  {
+   "n": "040/100",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "041/100",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "042/100",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "043/100",
+   "name": "Galarian Cursola V",
+   "v": "n"
+  },
+  {
+   "n": "044/100",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "045/100",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "046/100",
+   "name": "Flygon",
+   "v": "n"
+  },
+  {
+   "n": "047/100",
+   "name": "Hippopotas",
+   "v": "n"
+  },
+  {
+   "n": "048/100",
+   "name": "Hippowdon",
+   "v": "n"
+  },
+  {
+   "n": "049/100",
+   "name": "Rhyperior V",
+   "v": "n"
+  },
+  {
+   "n": "050/100",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "051/100",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "052/100",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "053/100",
+   "name": "Crobat V",
+   "v": "n"
+  },
+  {
+   "n": "054/100",
+   "name": "Galarian Zigzagoon",
+   "v": "n"
+  },
+  {
+   "n": "055/100",
+   "name": "Galarian Linoone",
+   "v": "n"
+  },
+  {
+   "n": "056/100",
+   "name": "Galarian Obstagoon",
+   "v": "n"
+  },
+  {
+   "n": "057/100",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "058/100",
+   "name": "Scrafty",
+   "v": "n"
+  },
+  {
+   "n": "059/100",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "060/100",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "061/100",
+   "name": "Hoopa",
+   "v": "n"
+  },
+  {
+   "n": "062/100",
+   "name": "Nickit",
+   "v": "n"
+  },
+  {
+   "n": "063/100",
+   "name": "Thievul",
+   "v": "n"
+  },
+  {
+   "n": "064/100",
+   "name": "Eternatus V",
+   "v": "n"
+  },
+  {
+   "n": "065/100",
+   "name": "Eternatus VMAX",
+   "v": "n"
+  },
+  {
+   "n": "066/100",
+   "name": "Scizor V",
+   "v": "n"
+  },
+  {
+   "n": "067/100",
+   "name": "Scizor VMAX",
+   "v": "n"
+  },
+  {
+   "n": "068/100",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "069/100",
+   "name": "Klink",
+   "v": "n"
+  },
+  {
+   "n": "070/100",
+   "name": "Klang",
+   "v": "n"
+  },
+  {
+   "n": "071/100",
+   "name": "Klinklang",
+   "v": "n"
+  },
+  {
+   "n": "072/100",
+   "name": "Cufant",
+   "v": "n"
+  },
+  {
+   "n": "073/100",
+   "name": "Copperajah",
+   "v": "n"
+  },
+  {
+   "n": "074/100",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "075/100",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "076/100",
+   "name": "Teddiursa",
+   "v": "n"
+  },
+  {
+   "n": "077/100",
+   "name": "Ursaring",
+   "v": "n"
+  },
+  {
+   "n": "078/100",
+   "name": "Skitty",
+   "v": "n"
+  },
+  {
+   "n": "079/100",
+   "name": "Delcatty",
+   "v": "n"
+  },
+  {
+   "n": "080/100",
+   "name": "Salamence V",
+   "v": "n"
+  },
+  {
+   "n": "081/100",
+   "name": "Salamence VMAX",
+   "v": "n"
+  },
+  {
+   "n": "082/100",
+   "name": "Starly",
+   "v": "n"
+  },
+  {
+   "n": "083/100",
+   "name": "Staravia",
+   "v": "n"
+  },
+  {
+   "n": "084/100",
+   "name": "Staraptor",
+   "v": "n"
+  },
+  {
+   "n": "085/100",
+   "name": "Ducklett",
+   "v": "n"
+  },
+  {
+   "n": "086/100",
+   "name": "Swanna",
+   "v": "n"
+  },
+  {
+   "n": "087/100",
+   "name": "Skwovet",
+   "v": "n"
+  },
+  {
+   "n": "088/100",
+   "name": "Greedent",
+   "v": "n"
+  },
+  {
+   "n": "089/100",
+   "name": "Yell Horn",
+   "v": "n"
+  },
+  {
+   "n": "090/100",
+   "name": "Turbo Patch",
+   "v": "n"
+  },
+  {
+   "n": "091/100",
+   "name": "Rare Fossil",
+   "v": "n"
+  },
+  {
+   "n": "092/100",
+   "name": "Billowing Smoke",
+   "v": "n"
+  },
+  {
+   "n": "093/100",
+   "name": "Cape of Toughness",
+   "v": "n"
+  },
+  {
+   "n": "094/100",
+   "name": "Piers",
+   "v": "n"
+  },
+  {
+   "n": "095/100",
+   "name": "Rose",
+   "v": "n"
+  },
+  {
+   "n": "096/100",
+   "name": "Bird Keeper",
+   "v": "n"
+  },
+  {
+   "n": "097/100",
+   "name": "Rose Tower",
+   "v": "n"
+  },
+  {
+   "n": "098/100",
+   "name": "Spikemuth",
+   "v": "n"
+  },
+  {
+   "n": "099/100",
+   "name": "Hiding Darkness Energy",
+   "v": "n"
+  },
+  {
+   "n": "100/100",
+   "name": "Powerful Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "101/100",
+   "name": "Houndoom V",
+   "v": "n"
+  },
+  {
+   "n": "102/100",
+   "name": "Drednaw V",
+   "v": "n"
+  },
+  {
+   "n": "103/100",
+   "name": "Galarian Cursola V",
+   "v": "n"
+  },
+  {
+   "n": "104/100",
+   "name": "Rhyperior V",
+   "v": "n"
+  },
+  {
+   "n": "105/100",
+   "name": "Crobat V",
+   "v": "n"
+  },
+  {
+   "n": "106/100",
+   "name": "Eternatus V",
+   "v": "n"
+  },
+  {
+   "n": "107/100",
+   "name": "Scizor V",
+   "v": "n"
+  },
+  {
+   "n": "108/100",
+   "name": "Salamence V",
+   "v": "n"
+  },
+  {
+   "n": "109/100",
+   "name": "Piers",
+   "v": "n"
+  },
+  {
+   "n": "110/100",
+   "name": "Rose",
+   "v": "n"
+  },
+  {
+   "n": "111/100",
+   "name": "Drednaw VMAX",
+   "v": "n"
+  },
+  {
+   "n": "112/100",
+   "name": "Eternatus VMAX",
+   "v": "n"
+  },
+  {
+   "n": "113/100",
+   "name": "Scizor VMAX",
+   "v": "n"
+  },
+  {
+   "n": "114/100",
+   "name": "Salamence VMAX",
+   "v": "n"
+  },
+  {
+   "n": "115/100",
+   "name": "Piers",
+   "v": "n"
+  },
+  {
+   "n": "116/100",
+   "name": "Rose",
+   "v": "n"
+  },
+  {
+   "n": "117/100",
+   "name": "Coalossal",
+   "v": "n"
+  },
+  {
+   "n": "118/100",
+   "name": "Turbo Patch",
+   "v": "n"
+  },
+  {
+   "n": "119/100",
+   "name": "Capture Energy",
+   "v": "n"
+  }
+ ]
+}

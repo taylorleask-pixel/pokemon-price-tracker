@@ -1,0 +1,455 @@
+{
+ "id": "S10D",
+ "name": "타임게이저",
+ "name_en": "Time Gazer",
+ "serie": "검과 방패",
+ "serie_id": "S",
+ "date": "2022-04-08",
+ "official": 67,
+ "abbr": "S10D",
+ "logo": "img/logos/ja/S10D.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/067",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "002/067",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "003/067",
+   "name": "Leafeon",
+   "v": "n"
+  },
+  {
+   "n": "004/067",
+   "name": "Shaymin",
+   "v": "n"
+  },
+  {
+   "n": "005/067",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "006/067",
+   "name": "Hisuian Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "007/067",
+   "name": "Hisuian Lilligant V",
+   "v": "n"
+  },
+  {
+   "n": "008/067",
+   "name": "Hisuian Lilligant VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "009/067",
+   "name": "Cyndaquil",
+   "v": "n"
+  },
+  {
+   "n": "010/067",
+   "name": "Quilava",
+   "v": "n"
+  },
+  {
+   "n": "011/067",
+   "name": "Poliwag",
+   "v": "n"
+  },
+  {
+   "n": "012/067",
+   "name": "Poliwhirl",
+   "v": "n"
+  },
+  {
+   "n": "013/067",
+   "name": "Politoed",
+   "v": "n"
+  },
+  {
+   "n": "014/067",
+   "name": "Mantine",
+   "v": "n"
+  },
+  {
+   "n": "015/067",
+   "name": "Oshawott",
+   "v": "n"
+  },
+  {
+   "n": "016/067",
+   "name": "Dewott",
+   "v": "n"
+  },
+  {
+   "n": "017/067",
+   "name": "Ducklett",
+   "v": "n"
+  },
+  {
+   "n": "018/067",
+   "name": "Swanna",
+   "v": "n"
+  },
+  {
+   "n": "019/067",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "020/067",
+   "name": "Manectric",
+   "v": "n"
+  },
+  {
+   "n": "021/067",
+   "name": "Luxray V",
+   "v": "n"
+  },
+  {
+   "n": "022/067",
+   "name": "Regieleki",
+   "v": "n"
+  },
+  {
+   "n": "023/067",
+   "name": "Hisuian Typhlosion",
+   "v": "n"
+  },
+  {
+   "n": "024/067",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "025/067",
+   "name": "Jirachi V",
+   "v": "n"
+  },
+  {
+   "n": "026/067",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "027/067",
+   "name": "Drifblim",
+   "v": "n"
+  },
+  {
+   "n": "028/067",
+   "name": "Cresselia",
+   "v": "n"
+  },
+  {
+   "n": "029/067",
+   "name": "Hisuian Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "030/067",
+   "name": "Hisuian Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "031/067",
+   "name": "Poliwrath",
+   "v": "n"
+  },
+  {
+   "n": "032/067",
+   "name": "Machamp V",
+   "v": "n"
+  },
+  {
+   "n": "033/067",
+   "name": "Machamp VMAX",
+   "v": "n"
+  },
+  {
+   "n": "034/067",
+   "name": "Sudowoodo",
+   "v": "n"
+  },
+  {
+   "n": "035/067",
+   "name": "Cranidos",
+   "v": "n"
+  },
+  {
+   "n": "036/067",
+   "name": "Rampardos",
+   "v": "n"
+  },
+  {
+   "n": "037/067",
+   "name": "Mienfoo",
+   "v": "n"
+  },
+  {
+   "n": "038/067",
+   "name": "Mienshao",
+   "v": "n"
+  },
+  {
+   "n": "039/067",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "040/067",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "041/067",
+   "name": "Hisuian Samurott",
+   "v": "n"
+  },
+  {
+   "n": "042/067",
+   "name": "Nickit",
+   "v": "n"
+  },
+  {
+   "n": "043/067",
+   "name": "Thievul",
+   "v": "n"
+  },
+  {
+   "n": "044/067",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "045/067",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "046/067",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "047/067",
+   "name": "Registeel",
+   "v": "n"
+  },
+  {
+   "n": "048/067",
+   "name": "Origin Forme Dialga V",
+   "v": "n"
+  },
+  {
+   "n": "049/067",
+   "name": "Origin Forme Dialga VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "050/067",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "051/067",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "052/067",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "053/067",
+   "name": "Chatot",
+   "v": "n"
+  },
+  {
+   "n": "054/067",
+   "name": "Regigigas",
+   "v": "n"
+  },
+  {
+   "n": "055/067",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "056/067",
+   "name": "Hisuian Braviary",
+   "v": "n"
+  },
+  {
+   "n": "057/067",
+   "name": "Skwovet",
+   "v": "n"
+  },
+  {
+   "n": "058/067",
+   "name": "Greedent",
+   "v": "n"
+  },
+  {
+   "n": "059/067",
+   "name": "Wyrdeer V",
+   "v": "n"
+  },
+  {
+   "n": "060/067",
+   "name": "Switch Cart",
+   "v": "n"
+  },
+  {
+   "n": "061/067",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "062/067",
+   "name": "Trekking Shoes",
+   "v": "n"
+  },
+  {
+   "n": "063/067",
+   "name": "Feather Ball",
+   "v": "n"
+  },
+  {
+   "n": "064/067",
+   "name": "Gardenia's Vigor",
+   "v": "n"
+  },
+  {
+   "n": "065/067",
+   "name": "Adaman",
+   "v": "n"
+  },
+  {
+   "n": "066/067",
+   "name": "Zisu",
+   "v": "n"
+  },
+  {
+   "n": "067/067",
+   "name": "Gapejaw Bog",
+   "v": "n"
+  },
+  {
+   "n": "068/067",
+   "name": "Hisuian Lilligant V",
+   "v": "n"
+  },
+  {
+   "n": "069/067",
+   "name": "Hisuian Lilligant V",
+   "v": "n"
+  },
+  {
+   "n": "070/067",
+   "name": "Luxray V",
+   "v": "n"
+  },
+  {
+   "n": "071/067",
+   "name": "Jirachi V",
+   "v": "n"
+  },
+  {
+   "n": "072/067",
+   "name": "Machamp V",
+   "v": "n"
+  },
+  {
+   "n": "073/067",
+   "name": "Machamp V",
+   "v": "n"
+  },
+  {
+   "n": "074/067",
+   "name": "Origin Forme Dialga V",
+   "v": "n"
+  },
+  {
+   "n": "075/067",
+   "name": "Origin Forme Dialga V",
+   "v": "n"
+  },
+  {
+   "n": "076/067",
+   "name": "Wyrdeer V",
+   "v": "n"
+  },
+  {
+   "n": "077/067",
+   "name": "Gardenia's Vigor",
+   "v": "n"
+  },
+  {
+   "n": "078/067",
+   "name": "Adaman",
+   "v": "n"
+  },
+  {
+   "n": "079/067",
+   "name": "Zisu",
+   "v": "n"
+  },
+  {
+   "n": "080/067",
+   "name": "Hisuian Lilligant VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "081/067",
+   "name": "Machamp VMAX",
+   "v": "n"
+  },
+  {
+   "n": "082/067",
+   "name": "Origin Forme Dialga VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "083/067",
+   "name": "Gardenia's Vigor",
+   "v": "n"
+  },
+  {
+   "n": "084/067",
+   "name": "Adaman",
+   "v": "n"
+  },
+  {
+   "n": "085/067",
+   "name": "Zisu",
+   "v": "n"
+  },
+  {
+   "n": "086/067",
+   "name": "Origin Forme Dialga VSTAR",
+   "v": "n"
+  },
+  {
+   "n": "087/067",
+   "name": "Trekking Shoes",
+   "v": "n"
+  },
+  {
+   "n": "088/067",
+   "name": "Path to the Peak",
+   "v": "n"
+  }
+ ]
+}

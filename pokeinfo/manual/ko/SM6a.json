@@ -1,0 +1,345 @@
+{
+ "id": "SM6a",
+ "name": "드래곤스톰",
+ "name_en": "Dragon Storm",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2018-04-06",
+ "official": 53,
+ "abbr": "SM6a",
+ "logo": "img/logos/ja/SM6a.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document (Korean cards section).",
+ "cards": [
+  {
+   "n": "001/053",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "002/053",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "003/053",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "004/053",
+   "name": "Victini ◇",
+   "v": "n"
+  },
+  {
+   "n": "005/053",
+   "name": "Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "006/053",
+   "name": "Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "007/053",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "008/053",
+   "name": "Reshiram-GX",
+   "v": "n"
+  },
+  {
+   "n": "009/053",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "010/053",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "011/053",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "012/053",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "013/053",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "014/053",
+   "name": "Kingdra-GX",
+   "v": "n"
+  },
+  {
+   "n": "015/053",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "016/053",
+   "name": "Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "017/053",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "018/053",
+   "name": "Wooper",
+   "v": "n"
+  },
+  {
+   "n": "019/053",
+   "name": "Quagsire",
+   "v": "n"
+  },
+  {
+   "n": "020/053",
+   "name": "Corsola",
+   "v": "n"
+  },
+  {
+   "n": "021/053",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "022/053",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "023/053",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "024/053",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "025/053",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "026/053",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "027/053",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "028/053",
+   "name": "Dragonite-GX",
+   "v": "n"
+  },
+  {
+   "n": "029/053",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "030/053",
+   "name": "Flygon",
+   "v": "n"
+  },
+  {
+   "n": "031/053",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "032/053",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "033/053",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "034/053",
+   "name": "Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "035/053",
+   "name": "White Kyurem-GX",
+   "v": "n"
+  },
+  {
+   "n": "036/053",
+   "name": "Zygarde",
+   "v": "n"
+  },
+  {
+   "n": "037/053",
+   "name": "Turtonator",
+   "v": "n"
+  },
+  {
+   "n": "038/053",
+   "name": "Drampa",
+   "v": "n"
+  },
+  {
+   "n": "039/053",
+   "name": "Jangmo-o",
+   "v": "n"
+  },
+  {
+   "n": "040/053",
+   "name": "Hakamo-o",
+   "v": "n"
+  },
+  {
+   "n": "041/053",
+   "name": "Kommo-o",
+   "v": "n"
+  },
+  {
+   "n": "042/053",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "043/053",
+   "name": "Switch Raft",
+   "v": "n"
+  },
+  {
+   "n": "044/053",
+   "name": "Fiery Flint",
+   "v": "n"
+  },
+  {
+   "n": "045/053",
+   "name": "Aqua Patch",
+   "v": "n"
+  },
+  {
+   "n": "046/053",
+   "name": "Dragon Talon",
+   "v": "n"
+  },
+  {
+   "n": "047/053",
+   "name": "Blaine's Last Stand",
+   "v": "n"
+  },
+  {
+   "n": "048/053",
+   "name": "Lance ◇",
+   "v": "n"
+  },
+  {
+   "n": "049/053",
+   "name": "Kiawe",
+   "v": "n"
+  },
+  {
+   "n": "050/053",
+   "name": "Zinnia",
+   "v": "n"
+  },
+  {
+   "n": "051/053",
+   "name": "Wela Volcano Park",
+   "v": "n"
+  },
+  {
+   "n": "052/053",
+   "name": "Brooklet Hill",
+   "v": "n"
+  },
+  {
+   "n": "053/053",
+   "name": "Devoured Field",
+   "v": "n"
+  },
+  {
+   "n": "054/053",
+   "name": "Reshiram-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/053",
+   "name": "Kingdra-GX",
+   "v": "n"
+  },
+  {
+   "n": "056/053",
+   "name": "Dragonite-GX",
+   "v": "n"
+  },
+  {
+   "n": "057/053",
+   "name": "White Kyurem-GX",
+   "v": "n"
+  },
+  {
+   "n": "058/053",
+   "name": "Blaine's Last Stand",
+   "v": "n"
+  },
+  {
+   "n": "059/053",
+   "name": "Zinnia",
+   "v": "n"
+  },
+  {
+   "n": "060/053",
+   "name": "Reshiram-GX",
+   "v": "n"
+  },
+  {
+   "n": "061/053",
+   "name": "Kingdra-GX",
+   "v": "n"
+  },
+  {
+   "n": "062/053",
+   "name": "Dragonite-GX",
+   "v": "n"
+  },
+  {
+   "n": "063/053",
+   "name": "White Kyurem-GX",
+   "v": "n"
+  },
+  {
+   "n": "064/053",
+   "name": "Switch Raft",
+   "v": "n"
+  },
+  {
+   "n": "065/053",
+   "name": "Fiery Flint",
+   "v": "n"
+  },
+  {
+   "n": "066/053",
+   "name": "Dragon Talon",
+   "v": "n"
+  }
+ ]
+}
