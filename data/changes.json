@@ -1,6 +1,50 @@
 {
-"updated": "2026-11-20T12:20+10:00",
+"updated": "2026-11-20T21:42+10:00",
 "events": [
+{
+"time": "2026-11-20T21:42+10:00",
+"store": "sidequest",
+"key": "SCH|pack|30th Celebration",
+"title": "Pokémon TCG 30th Anniversary Celebration - Booster Pack (Simplified Chinese)",
+"url": "https://sidequestcards.com.au/products/pokemon-30th-celebration-booster-pack-simplified-chinese",
+"category": "pack",
+"lang": "SCH",
+"type": "sold-out",
+"old": 8.0
+},
+{
+"time": "2026-11-20T21:42+10:00",
+"store": "raptor",
+"key": "blister-multi|pokemon tcg mega evolution delta reign three pack blister",
+"title": "Pokemon TCG: Mega Evolution Delta Reign Three Pack Blister",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-delta-reign-three-pack-blister",
+"category": "blister-multi",
+"lang": "EN",
+"type": "sold-out",
+"old": 35.0
+},
+{
+"time": "2026-11-20T21:42+10:00",
+"store": "raptor",
+"key": "other|30th Celebration ex Tin",
+"title": "Pokemon TCG: 30th Celebration Booster Tin",
+"url": "https://raptorgames.com/products/preorder-pokemon-tcg-30th-celebration-5-booster-tin",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 85.0
+},
+{
+"time": "2026-11-20T21:42+10:00",
+"store": "raptor",
+"key": "other|30th Celebration Tech Sticker Collection",
+"title": "Pokemon TCG: 30th Celebration Tech Sticker Blister",
+"url": "https://raptorgames.com/products/pokemon-tcg-30th-celebration-tech-sticker-blister",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 60.0
+},
 {
 "time": "2026-11-20T12:20+10:00",
 "store": "misty",
