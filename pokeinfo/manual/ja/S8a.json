@@ -1,0 +1,163 @@
+{
+ "id": "S8a",
+ "name": "25th アニバーサリーコレクション",
+ "serie": "剣と盾",
+ "serie_id": "S",
+ "date": "2021-10-22",
+ "official": 28,
+ "abbr": "S8a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Taylor's document.",
+ "cards": [
+  {
+   "n": "001/028",
+   "name": "Pikachu",
+   "v": "nr"
+  },
+  {
+   "n": "002/028",
+   "name": "Mew",
+   "v": "nr"
+  },
+  {
+   "n": "003/028",
+   "name": "Professor's Research",
+   "v": "nr"
+  },
+  {
+   "n": "004/028",
+   "name": "Ho-Oh",
+   "v": "nr"
+  },
+  {
+   "n": "005/028",
+   "name": "Lugia",
+   "v": "nr"
+  },
+  {
+   "n": "006/028",
+   "name": "Groudon",
+   "v": "nr"
+  },
+  {
+   "n": "007/028",
+   "name": "Kyogre",
+   "v": "nr"
+  },
+  {
+   "n": "008/028",
+   "name": "Dialga",
+   "v": "nr"
+  },
+  {
+   "n": "009/028",
+   "name": "Palkia",
+   "v": "nr"
+  },
+  {
+   "n": "010/028",
+   "name": "Reshiram",
+   "v": "nr"
+  },
+  {
+   "n": "011/028",
+   "name": "Poke Ball",
+   "v": "nhr"
+  },
+  {
+   "n": "012/028",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "013/028",
+   "name": "Yveltal",
+   "v": "nr"
+  },
+  {
+   "n": "014/028",
+   "name": "Cosmog",
+   "v": "nr"
+  },
+  {
+   "n": "015/028",
+   "name": "Cosmoem",
+   "v": "nr"
+  },
+  {
+   "n": "016/028",
+   "name": "Solgaleo",
+   "v": "nr"
+  },
+  {
+   "n": "017/028",
+   "name": "Lunala",
+   "v": "nr"
+  },
+  {
+   "n": "018/028",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "019/028",
+   "name": "Zamazenta V",
+   "v": "n"
+  },
+  {
+   "n": "020/028",
+   "name": "Pikachu V",
+   "v": "n"
+  },
+  {
+   "n": "021/028",
+   "name": "Surfing Pikachu V",
+   "v": "n"
+  },
+  {
+   "n": "022/028",
+   "name": "Surfing Pikachu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "023/028",
+   "name": "Flying Pikachu V",
+   "v": "n"
+  },
+  {
+   "n": "024/028",
+   "name": "Flying Pikachu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "025/028",
+   "name": "Pikachu V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "026/028",
+   "name": "Pikachu V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "027/028",
+   "name": "Pikachu V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "028/028",
+   "name": "Pikachu V-UNION",
+   "v": "n"
+  },
+  {
+   "n": "029/028",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "030/028",
+   "name": "Mew",
+   "v": "n"
+  }
+ ]
+}
