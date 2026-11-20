@@ -1,6 +1,175 @@
 {
 "events": [
 {
+"time": "2026-11-20T11:55+10:00",
+"store": "evo-orion",
+"card": 110,
+"condition": "NM",
+"price": 7.0,
+"url": "https://www.evogamesorion.com.au/products/mega-gengar-ex-056-094-me02-phantasmal-flames-holofoil?variant=48598977904861",
+"type": "sold-out"
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "mint",
+"card": 103,
+"condition": "NM",
+"price": 3.0,
+"url": "https://mintcollectables.com.au/products/gengar-2021-copyright-date-057-198-trick-or-trade-booster-bundle-holofoil?variant=51444209320100",
+"type": "price-down",
+"old": 7.0
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "misty",
+"card": 97,
+"condition": "",
+"price": 26.66,
+"url": "https://mistyscollectables.com.au/cards/cmqz5d9rh44o311fkg4oauc9b",
+"type": "price-down",
+"old": 27.72
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "misty",
+"card": 60,
+"condition": "",
+"price": 15.63,
+"url": "https://mistyscollectables.com.au/cards/cmqz5c1yz3ipj11fkja88v8t5",
+"type": "price-down",
+"old": 15.74
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "misty",
+"card": 104,
+"condition": "",
+"price": 20.37,
+"url": "https://mistyscollectables.com.au/cards/cmqz5admw2n1v11fkweg4oj7w",
+"type": "price-down",
+"old": 20.9
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "misty",
+"card": 73,
+"condition": "",
+"price": 15.03,
+"url": "https://mistyscollectables.com.au/cards/cmqz57qvm1fbj11fk9evrofe1",
+"type": "price-down",
+"old": 16.27
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "misty",
+"card": 107,
+"condition": "",
+"price": 4.26,
+"url": "https://mistyscollectables.com.au/cards/cmqz57qvm1fbj11fk9evrofe1",
+"type": "price-up",
+"old": 4.01
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "misty",
+"card": 75,
+"condition": "",
+"price": 3.17,
+"url": "https://mistyscollectables.com.au/cards/cmqz5774m16fl11fkm2i17a5r",
+"type": "price-up",
+"old": 3.04
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "misty",
+"card": 108,
+"condition": "",
+"price": 0.56,
+"url": "https://mistyscollectables.com.au/cards/cmqz5774m16fl11fkm2i17a5r",
+"type": "price-up",
+"old": 0.55
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "misty",
+"card": 109,
+"condition": "",
+"price": 12.62,
+"url": "https://mistyscollectables.com.au/cards/cmqz572h113jl11fkvnv7ie6z",
+"type": "price-up",
+"old": 12.55
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "card-house",
+"card": 67,
+"condition": "Damaged Holofoil",
+"price": 960.25,
+"url": "https://www.cardhouse.com.au/products/gengar-vmax-271-264-sword-shield-fusion-strike?variant=42396519563455",
+"type": "price-up",
+"old": 958.75
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "card-house",
+"card": 104,
+"condition": "Near Mint Holofoil",
+"price": 24.0,
+"url": "https://www.cardhouse.com.au/products/gengar-v-156-264-sword-shield-fusion-strike?variant=42396518940863",
+"type": "price-down",
+"old": 24.5
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "card-house",
+"card": 39,
+"condition": "Near Mint Holofoil",
+"price": 157.0,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-34-119-xy-phantom-forces?variant=42392775557311",
+"type": "price-down",
+"old": 157.5
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "card-house",
+"card": 101,
+"condition": "Near Mint Holofoil",
+"price": 90.5,
+"url": "https://www.cardhouse.com.au/products/mortys-conviction-211-162-scarlet-violet-temporal-forces?variant=43080520695999",
+"type": "price-down",
+"old": 91.0
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "card-house",
+"card": 87,
+"condition": "Near Mint",
+"price": 104.8,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-154-128-holofoil-me-30th-celebration-special-illustration-rare?variant=67862176792767",
+"type": "price-down",
+"old": 105.4
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "card-house",
+"card": 73,
+"condition": "Near Mint Holofoil",
+"price": 5.0,
+"url": "https://www.cardhouse.com.au/products/gengar-094-165-scarlet-violet-151?variant=42489440501951",
+"type": "price-up",
+"old": 4.0
+},
+{
+"time": "2026-11-20T11:55+10:00",
+"store": "card-house",
+"card": 42,
+"condition": "Near Mint Holofoil",
+"price": 971.5,
+"url": "https://www.cardhouse.com.au/products/m-gengar-ex-121-119-xy-phantom-forces?variant=42394996637887",
+"type": "price-up",
+"old": 965.5
+},
+{
 "time": "2026-11-19T20:48+10:00",
 "store": "evo-orion",
 "card": 114,
