@@ -1,0 +1,328 @@
+{
+ "id": "XY1b",
+ "name": "コレクションY",
+ "serie": "XY",
+ "serie_id": "XY",
+ "date": "2013-12-13",
+ "official": 60,
+ "abbr": "XY1b",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/060",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/060",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/060",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "004/060",
+   "name": "Ledyba",
+   "v": "n"
+  },
+  {
+   "n": "005/060",
+   "name": "Ledian",
+   "v": "n"
+  },
+  {
+   "n": "006/060",
+   "name": "Illumise",
+   "v": "n"
+  },
+  {
+   "n": "007/060",
+   "name": "Chespin",
+   "v": "n"
+  },
+  {
+   "n": "008/060",
+   "name": "Quilladin",
+   "v": "n"
+  },
+  {
+   "n": "009/060",
+   "name": "Chesnaught",
+   "v": "n"
+  },
+  {
+   "n": "010/060",
+   "name": "Pansear",
+   "v": "n"
+  },
+  {
+   "n": "011/060",
+   "name": "Simisear",
+   "v": "n"
+  },
+  {
+   "n": "012/060",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "013/060",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "014/060",
+   "name": "Blastoise-EX",
+   "v": "n"
+  },
+  {
+   "n": "015/060",
+   "name": "M Blastoise-EX",
+   "v": "n"
+  },
+  {
+   "n": "016/060",
+   "name": "Shellder",
+   "v": "n"
+  },
+  {
+   "n": "017/060",
+   "name": "Cloyster",
+   "v": "n"
+  },
+  {
+   "n": "018/060",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "019/060",
+   "name": "Panpour",
+   "v": "n"
+  },
+  {
+   "n": "020/060",
+   "name": "Simipour",
+   "v": "n"
+  },
+  {
+   "n": "021/060",
+   "name": "Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "022/060",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "023/060",
+   "name": "Emolga-EX",
+   "v": "n"
+  },
+  {
+   "n": "024/060",
+   "name": "Venipede",
+   "v": "n"
+  },
+  {
+   "n": "025/060",
+   "name": "Whirlipede",
+   "v": "n"
+  },
+  {
+   "n": "026/060",
+   "name": "Scolipede",
+   "v": "n"
+  },
+  {
+   "n": "027/060",
+   "name": "Pumpkaboo",
+   "v": "n"
+  },
+  {
+   "n": "028/060",
+   "name": "Gourgeist",
+   "v": "n"
+  },
+  {
+   "n": "029/060",
+   "name": "Diglett",
+   "v": "n"
+  },
+  {
+   "n": "030/060",
+   "name": "Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "031/060",
+   "name": "Rhyhorn",
+   "v": "n"
+  },
+  {
+   "n": "032/060",
+   "name": "Rhydon",
+   "v": "n"
+  },
+  {
+   "n": "033/060",
+   "name": "Rhyperior",
+   "v": "n"
+  },
+  {
+   "n": "034/060",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "035/060",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "036/060",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "037/060",
+   "name": "Yveltal-EX",
+   "v": "n"
+  },
+  {
+   "n": "038/060",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "039/060",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "040/060",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "041/060",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "042/060",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "043/060",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "044/060",
+   "name": "Spritzee",
+   "v": "n"
+  },
+  {
+   "n": "045/060",
+   "name": "Aromatisse",
+   "v": "n"
+  },
+  {
+   "n": "046/060",
+   "name": "Doduo",
+   "v": "n"
+  },
+  {
+   "n": "047/060",
+   "name": "Dodrio",
+   "v": "n"
+  },
+  {
+   "n": "048/060",
+   "name": "Skitty",
+   "v": "n"
+  },
+  {
+   "n": "049/060",
+   "name": "Delcatty",
+   "v": "n"
+  },
+  {
+   "n": "050/060",
+   "name": "Bidoof",
+   "v": "n"
+  },
+  {
+   "n": "051/060",
+   "name": "Bibarel",
+   "v": "n"
+  },
+  {
+   "n": "052/060",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "053/060",
+   "name": "Furfrou",
+   "v": "n"
+  },
+  {
+   "n": "054/060",
+   "name": "Super Potion",
+   "v": "n"
+  },
+  {
+   "n": "055/060",
+   "name": "Professor's Letter",
+   "v": "n"
+  },
+  {
+   "n": "056/060",
+   "name": "Red Card",
+   "v": "n"
+  },
+  {
+   "n": "057/060",
+   "name": "Hard Charm",
+   "v": "n"
+  },
+  {
+   "n": "058/060",
+   "name": "Cassius",
+   "v": "n"
+  },
+  {
+   "n": "059/060",
+   "name": "Tierno",
+   "v": "n"
+  },
+  {
+   "n": "060/060",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "061/060",
+   "name": "Blastoise-EX",
+   "v": "n"
+  },
+  {
+   "n": "062/060",
+   "name": "Emolga-EX",
+   "v": "n"
+  },
+  {
+   "n": "063/060",
+   "name": "Yveltal-EX",
+   "v": "n"
+  }
+ ]
+}

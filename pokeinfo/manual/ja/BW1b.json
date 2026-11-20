@@ -1,0 +1,293 @@
+{
+ "id": "BW1b",
+ "name": "ホワイトコレクション",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2010-12-17",
+ "official": 53,
+ "abbr": "BW1b",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/053",
+   "name": "Snivy",
+   "v": "n"
+  },
+  {
+   "n": "002/053",
+   "name": "Servine",
+   "v": "n"
+  },
+  {
+   "n": "003/053",
+   "name": "Serperior",
+   "v": "n"
+  },
+  {
+   "n": "004/053",
+   "name": "Pansage",
+   "v": "n"
+  },
+  {
+   "n": "005/053",
+   "name": "Simisage",
+   "v": "n"
+  },
+  {
+   "n": "006/053",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "007/053",
+   "name": "Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "008/053",
+   "name": "Maractus",
+   "v": "n"
+  },
+  {
+   "n": "009/053",
+   "name": "Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "010/053",
+   "name": "Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "011/053",
+   "name": "Oshawott",
+   "v": "n"
+  },
+  {
+   "n": "012/053",
+   "name": "Dewott",
+   "v": "n"
+  },
+  {
+   "n": "013/053",
+   "name": "Samurott",
+   "v": "n"
+  },
+  {
+   "n": "014/053",
+   "name": "Panpour",
+   "v": "n"
+  },
+  {
+   "n": "015/053",
+   "name": "Simipour",
+   "v": "n"
+  },
+  {
+   "n": "016/053",
+   "name": "Alomomola",
+   "v": "n"
+  },
+  {
+   "n": "017/053",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "018/053",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "019/053",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "020/053",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "021/053",
+   "name": "Venipede",
+   "v": "n"
+  },
+  {
+   "n": "022/053",
+   "name": "Whirlipede",
+   "v": "n"
+  },
+  {
+   "n": "023/053",
+   "name": "Scolipede",
+   "v": "n"
+  },
+  {
+   "n": "024/053",
+   "name": "Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "025/053",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "026/053",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "027/053",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "028/053",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "029/053",
+   "name": "Gurdurr",
+   "v": "n"
+  },
+  {
+   "n": "030/053",
+   "name": "Throh",
+   "v": "n"
+  },
+  {
+   "n": "031/053",
+   "name": "Sandile",
+   "v": "n"
+  },
+  {
+   "n": "032/053",
+   "name": "Krokorok",
+   "v": "n"
+  },
+  {
+   "n": "033/053",
+   "name": "Krookodile",
+   "v": "n"
+  },
+  {
+   "n": "034/053",
+   "name": "Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "035/053",
+   "name": "Liepard",
+   "v": "n"
+  },
+  {
+   "n": "036/053",
+   "name": "Zorua",
+   "v": "n"
+  },
+  {
+   "n": "037/053",
+   "name": "Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "038/053",
+   "name": "Ferroseed",
+   "v": "n"
+  },
+  {
+   "n": "039/053",
+   "name": "Ferrothorn",
+   "v": "n"
+  },
+  {
+   "n": "040/053",
+   "name": "Patrat",
+   "v": "n"
+  },
+  {
+   "n": "041/053",
+   "name": "Watchog",
+   "v": "n"
+  },
+  {
+   "n": "042/053",
+   "name": "Lillipup",
+   "v": "n"
+  },
+  {
+   "n": "043/053",
+   "name": "Herdier",
+   "v": "n"
+  },
+  {
+   "n": "044/053",
+   "name": "Stoutland",
+   "v": "n"
+  },
+  {
+   "n": "045/053",
+   "name": "Audino",
+   "v": "n"
+  },
+  {
+   "n": "046/053",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "047/053",
+   "name": "Braviary",
+   "v": "n"
+  },
+  {
+   "n": "048/053",
+   "name": "Revive",
+   "v": "n"
+  },
+  {
+   "n": "049/053",
+   "name": "Great Ball",
+   "v": "n"
+  },
+  {
+   "n": "050/053",
+   "name": "Full Heal",
+   "v": "n"
+  },
+  {
+   "n": "051/053",
+   "name": "PlusPower",
+   "v": "n"
+  },
+  {
+   "n": "052/053",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "053/053",
+   "name": "Cheren",
+   "v": "n"
+  },
+  {
+   "n": "054/053",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "055/053",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "056/053",
+   "name": "Pikachu",
+   "v": "n"
+  }
+ ]
+}

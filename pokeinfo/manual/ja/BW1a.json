@@ -1,0 +1,293 @@
+{
+ "id": "BW1a",
+ "name": "ブラックコレクション",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2010-12-17",
+ "official": 53,
+ "abbr": "BW1a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/053",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "002/053",
+   "name": "Swadloon",
+   "v": "n"
+  },
+  {
+   "n": "003/053",
+   "name": "Leavanny",
+   "v": "n"
+  },
+  {
+   "n": "004/053",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "005/053",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "006/053",
+   "name": "Deerling",
+   "v": "n"
+  },
+  {
+   "n": "007/053",
+   "name": "Sawsbuck",
+   "v": "n"
+  },
+  {
+   "n": "008/053",
+   "name": "Tepig",
+   "v": "n"
+  },
+  {
+   "n": "009/053",
+   "name": "Pignite",
+   "v": "n"
+  },
+  {
+   "n": "010/053",
+   "name": "Emboar",
+   "v": "n"
+  },
+  {
+   "n": "011/053",
+   "name": "Pansear",
+   "v": "n"
+  },
+  {
+   "n": "012/053",
+   "name": "Simisear",
+   "v": "n"
+  },
+  {
+   "n": "013/053",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "014/053",
+   "name": "Basculin",
+   "v": "n"
+  },
+  {
+   "n": "015/053",
+   "name": "Ducklett",
+   "v": "n"
+  },
+  {
+   "n": "016/053",
+   "name": "Swanna",
+   "v": "n"
+  },
+  {
+   "n": "017/053",
+   "name": "Cubchoo",
+   "v": "n"
+  },
+  {
+   "n": "018/053",
+   "name": "Beartic",
+   "v": "n"
+  },
+  {
+   "n": "019/053",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "020/053",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "021/053",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "022/053",
+   "name": "Munna",
+   "v": "n"
+  },
+  {
+   "n": "023/053",
+   "name": "Musharna",
+   "v": "n"
+  },
+  {
+   "n": "024/053",
+   "name": "Woobat",
+   "v": "n"
+  },
+  {
+   "n": "025/053",
+   "name": "Swoobat",
+   "v": "n"
+  },
+  {
+   "n": "026/053",
+   "name": "Gothita",
+   "v": "n"
+  },
+  {
+   "n": "027/053",
+   "name": "Gothorita",
+   "v": "n"
+  },
+  {
+   "n": "028/053",
+   "name": "Gothitelle",
+   "v": "n"
+  },
+  {
+   "n": "029/053",
+   "name": "Roggenrola",
+   "v": "n"
+  },
+  {
+   "n": "030/053",
+   "name": "Boldore",
+   "v": "n"
+  },
+  {
+   "n": "031/053",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "032/053",
+   "name": "Excadrill",
+   "v": "n"
+  },
+  {
+   "n": "033/053",
+   "name": "Sawk",
+   "v": "n"
+  },
+  {
+   "n": "034/053",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "035/053",
+   "name": "Scrafty",
+   "v": "n"
+  },
+  {
+   "n": "036/053",
+   "name": "Vullaby",
+   "v": "n"
+  },
+  {
+   "n": "037/053",
+   "name": "Mandibuzz",
+   "v": "n"
+  },
+  {
+   "n": "038/053",
+   "name": "Klink",
+   "v": "n"
+  },
+  {
+   "n": "039/053",
+   "name": "Klang",
+   "v": "n"
+  },
+  {
+   "n": "040/053",
+   "name": "Klinklang",
+   "v": "n"
+  },
+  {
+   "n": "041/053",
+   "name": "Pidove",
+   "v": "n"
+  },
+  {
+   "n": "042/053",
+   "name": "Tranquill",
+   "v": "n"
+  },
+  {
+   "n": "043/053",
+   "name": "Unfezant",
+   "v": "n"
+  },
+  {
+   "n": "044/053",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "045/053",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "046/053",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "047/053",
+   "name": "Tornadus",
+   "v": "n"
+  },
+  {
+   "n": "048/053",
+   "name": "Energy Retrieval",
+   "v": "n"
+  },
+  {
+   "n": "049/053",
+   "name": "Crushing Hammer",
+   "v": "n"
+  },
+  {
+   "n": "050/053",
+   "name": "Pokémon Communication",
+   "v": "n"
+  },
+  {
+   "n": "051/053",
+   "name": "Max Potion",
+   "v": "n"
+  },
+  {
+   "n": "052/053",
+   "name": "Recycle",
+   "v": "n"
+  },
+  {
+   "n": "053/053",
+   "name": "Professor Juniper",
+   "v": "n"
+  },
+  {
+   "n": "054/053",
+   "name": "Tornadus",
+   "v": "n"
+  },
+  {
+   "n": "055/053",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "056/053",
+   "name": "Pikachu",
+   "v": "n"
+  }
+ ]
+}

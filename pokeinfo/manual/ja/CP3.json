@@ -1,0 +1,173 @@
+{
+ "id": "CP3",
+ "name": "ポケキュンコレクション",
+ "serie": "XY BREAK",
+ "serie_id": "XYb",
+ "date": "2016-01-29",
+ "official": 32,
+ "abbr": "CP3",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/032",
+   "name": "Chikorita",
+   "v": "n"
+  },
+  {
+   "n": "002/032",
+   "name": "Shroomish",
+   "v": "n"
+  },
+  {
+   "n": "003/032",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "004/032",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "005/032",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "006/032",
+   "name": "Flareon-EX",
+   "v": "n"
+  },
+  {
+   "n": "007/032",
+   "name": "Flareon-EX",
+   "v": "n"
+  },
+  {
+   "n": "008/032",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "009/032",
+   "name": "Froslass",
+   "v": "n"
+  },
+  {
+   "n": "010/032",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "011/032",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "012/032",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "013/032",
+   "name": "Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "014/032",
+   "name": "Gulpin",
+   "v": "n"
+  },
+  {
+   "n": "015/032",
+   "name": "Jirachi",
+   "v": "n"
+  },
+  {
+   "n": "016/032",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "017/032",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "018/032",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "019/032",
+   "name": "Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "020/032",
+   "name": "M Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "021/032",
+   "name": "Flabébé",
+   "v": "n"
+  },
+  {
+   "n": "022/032",
+   "name": "Floette",
+   "v": "n"
+  },
+  {
+   "n": "023/032",
+   "name": "Swirlix",
+   "v": "n"
+  },
+  {
+   "n": "024/032",
+   "name": "Slurpuff",
+   "v": "n"
+  },
+  {
+   "n": "025/032",
+   "name": "Sylveon-EX",
+   "v": "n"
+  },
+  {
+   "n": "026/032",
+   "name": "Sylveon-EX",
+   "v": "n"
+  },
+  {
+   "n": "027/032",
+   "name": "Diancie",
+   "v": "n"
+  },
+  {
+   "n": "028/032",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "029/032",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "030/032",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "031/032",
+   "name": "Floral Crown",
+   "v": "n"
+  },
+  {
+   "n": "032/032",
+   "name": "Wally",
+   "v": "n"
+  }
+ ]
+}

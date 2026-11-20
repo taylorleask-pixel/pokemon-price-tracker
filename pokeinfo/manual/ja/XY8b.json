@@ -1,0 +1,338 @@
+{
+ "id": "XY8b",
+ "name": "赤い閃光",
+ "serie": "XY BREAK",
+ "serie_id": "XYb",
+ "date": "2015-09-26",
+ "official": 59,
+ "abbr": "XY8b",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/059",
+   "name": "Paras",
+   "v": "n"
+  },
+  {
+   "n": "002/059",
+   "name": "Parasect",
+   "v": "n"
+  },
+  {
+   "n": "003/059",
+   "name": "Chespin",
+   "v": "n"
+  },
+  {
+   "n": "004/059",
+   "name": "Quilladin",
+   "v": "n"
+  },
+  {
+   "n": "005/059",
+   "name": "Chesnaught",
+   "v": "n"
+  },
+  {
+   "n": "006/059",
+   "name": "Chesnaught BREAK",
+   "v": "n"
+  },
+  {
+   "n": "007/059",
+   "name": "Skiddo",
+   "v": "n"
+  },
+  {
+   "n": "008/059",
+   "name": "Gogoat",
+   "v": "n"
+  },
+  {
+   "n": "009/059",
+   "name": "Houndoom-EX",
+   "v": "n"
+  },
+  {
+   "n": "010/059",
+   "name": "M Houndoom-EX",
+   "v": "n"
+  },
+  {
+   "n": "011/059",
+   "name": "Pansear",
+   "v": "n"
+  },
+  {
+   "n": "012/059",
+   "name": "Simisear",
+   "v": "n"
+  },
+  {
+   "n": "013/059",
+   "name": "Goldeen",
+   "v": "n"
+  },
+  {
+   "n": "014/059",
+   "name": "Seaking",
+   "v": "n"
+  },
+  {
+   "n": "015/059",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "016/059",
+   "name": "Starmie",
+   "v": "n"
+  },
+  {
+   "n": "017/059",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "018/059",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "019/059",
+   "name": "Prinplup",
+   "v": "n"
+  },
+  {
+   "n": "020/059",
+   "name": "Empoleon",
+   "v": "n"
+  },
+  {
+   "n": "021/059",
+   "name": "Snover",
+   "v": "n"
+  },
+  {
+   "n": "022/059",
+   "name": "Abomasnow",
+   "v": "n"
+  },
+  {
+   "n": "023/059",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "024/059",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "025/059",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "026/059",
+   "name": "Raikou",
+   "v": "n"
+  },
+  {
+   "n": "027/059",
+   "name": "Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "028/059",
+   "name": "M Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "029/059",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "030/059",
+   "name": "Mismagius",
+   "v": "n"
+  },
+  {
+   "n": "031/059",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "032/059",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "033/059",
+   "name": "Cresselia",
+   "v": "n"
+  },
+  {
+   "n": "034/059",
+   "name": "Cubone",
+   "v": "n"
+  },
+  {
+   "n": "035/059",
+   "name": "Marowak",
+   "v": "n"
+  },
+  {
+   "n": "036/059",
+   "name": "Marowak BREAK",
+   "v": "n"
+  },
+  {
+   "n": "037/059",
+   "name": "Swinub",
+   "v": "n"
+  },
+  {
+   "n": "038/059",
+   "name": "Piloswine",
+   "v": "n"
+  },
+  {
+   "n": "039/059",
+   "name": "Mamoswine",
+   "v": "n"
+  },
+  {
+   "n": "040/059",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "041/059",
+   "name": "Zorua",
+   "v": "n"
+  },
+  {
+   "n": "042/059",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "043/059",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "044/059",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "045/059",
+   "name": "Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "046/059",
+   "name": "Spritzee",
+   "v": "n"
+  },
+  {
+   "n": "047/059",
+   "name": "Aromatisse",
+   "v": "n"
+  },
+  {
+   "n": "048/059",
+   "name": "Axew",
+   "v": "n"
+  },
+  {
+   "n": "049/059",
+   "name": "Doduo",
+   "v": "n"
+  },
+  {
+   "n": "050/059",
+   "name": "Dodrio",
+   "v": "n"
+  },
+  {
+   "n": "051/059",
+   "name": "Starly",
+   "v": "n"
+  },
+  {
+   "n": "052/059",
+   "name": "Staravia",
+   "v": "n"
+  },
+  {
+   "n": "053/059",
+   "name": "Staraptor",
+   "v": "n"
+  },
+  {
+   "n": "054/059",
+   "name": "Heavy Ball",
+   "v": "n"
+  },
+  {
+   "n": "055/059",
+   "name": "Assault Vest",
+   "v": "n"
+  },
+  {
+   "n": "056/059",
+   "name": "Houndoom Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "057/059",
+   "name": "Mewtwo Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "058/059",
+   "name": "Giovanni's Scheme",
+   "v": "n"
+  },
+  {
+   "n": "059/059",
+   "name": "Burning Energy",
+   "v": "n"
+  },
+  {
+   "n": "060/059",
+   "name": "Houndoom-EX",
+   "v": "n"
+  },
+  {
+   "n": "061/059",
+   "name": "M Houndoom-EX",
+   "v": "n"
+  },
+  {
+   "n": "062/059",
+   "name": "Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "063/059",
+   "name": "M Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "064/059",
+   "name": "Giovanni's Scheme",
+   "v": "n"
+  },
+  {
+   "n": "065/059",
+   "name": "Mewtwo-EX",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,508 @@
+{
+ "id": "EBB",
+ "name": "EXバトルブースト",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2013-07-13",
+ "official": 93,
+ "abbr": "EBB",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/093",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "002/093",
+   "name": "Snivy",
+   "v": "n"
+  },
+  {
+   "n": "003/093",
+   "name": "Servine",
+   "v": "n"
+  },
+  {
+   "n": "004/093",
+   "name": "Serperior",
+   "v": "n"
+  },
+  {
+   "n": "005/093",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "006/093",
+   "name": "Swadloon",
+   "v": "n"
+  },
+  {
+   "n": "007/093",
+   "name": "Leavanny",
+   "v": "n"
+  },
+  {
+   "n": "008/093",
+   "name": "Virizion",
+   "v": "n"
+  },
+  {
+   "n": "009/093",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "010/093",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "011/093",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "012/093",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "013/093",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "014/093",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "015/093",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "016/093",
+   "name": "Victini-EX",
+   "v": "n"
+  },
+  {
+   "n": "017/093",
+   "name": "Tepig",
+   "v": "n"
+  },
+  {
+   "n": "018/093",
+   "name": "Pignite",
+   "v": "n"
+  },
+  {
+   "n": "019/093",
+   "name": "Emboar",
+   "v": "n"
+  },
+  {
+   "n": "020/093",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "021/093",
+   "name": "Reshiram-EX",
+   "v": "n"
+  },
+  {
+   "n": "022/093",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "023/093",
+   "name": "Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "024/093",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "025/093",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "026/093",
+   "name": "Prinplup",
+   "v": "n"
+  },
+  {
+   "n": "027/093",
+   "name": "Empoleon",
+   "v": "n"
+  },
+  {
+   "n": "028/093",
+   "name": "Phione",
+   "v": "n"
+  },
+  {
+   "n": "029/093",
+   "name": "Oshawott",
+   "v": "n"
+  },
+  {
+   "n": "030/093",
+   "name": "Dewott",
+   "v": "n"
+  },
+  {
+   "n": "031/093",
+   "name": "Samurott",
+   "v": "n"
+  },
+  {
+   "n": "032/093",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "033/093",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "034/093",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "035/093",
+   "name": "Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "036/093",
+   "name": "Kyurem-EX",
+   "v": "n"
+  },
+  {
+   "n": "037/093",
+   "name": "Keldeo-EX",
+   "v": "n"
+  },
+  {
+   "n": "038/093",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "039/093",
+   "name": "Plusle",
+   "v": "n"
+  },
+  {
+   "n": "040/093",
+   "name": "Minun",
+   "v": "n"
+  },
+  {
+   "n": "041/093",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "042/093",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "043/093",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "044/093",
+   "name": "Zekrom-EX",
+   "v": "n"
+  },
+  {
+   "n": "045/093",
+   "name": "Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "046/093",
+   "name": "Natu",
+   "v": "n"
+  },
+  {
+   "n": "047/093",
+   "name": "Xatu",
+   "v": "n"
+  },
+  {
+   "n": "048/093",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "049/093",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "050/093",
+   "name": "Croagunk",
+   "v": "n"
+  },
+  {
+   "n": "051/093",
+   "name": "Toxicroak",
+   "v": "n"
+  },
+  {
+   "n": "052/093",
+   "name": "Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "053/093",
+   "name": "Trubbish",
+   "v": "n"
+  },
+  {
+   "n": "054/093",
+   "name": "Garbodor",
+   "v": "n"
+  },
+  {
+   "n": "055/093",
+   "name": "Gothita",
+   "v": "n"
+  },
+  {
+   "n": "056/093",
+   "name": "Gothorita",
+   "v": "n"
+  },
+  {
+   "n": "057/093",
+   "name": "Gothitelle",
+   "v": "n"
+  },
+  {
+   "n": "058/093",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "059/093",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "060/093",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "061/093",
+   "name": "Chandelure-EX",
+   "v": "n"
+  },
+  {
+   "n": "062/093",
+   "name": "Meloetta",
+   "v": "n"
+  },
+  {
+   "n": "063/093",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "064/093",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "065/093",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "066/093",
+   "name": "Excadrill-EX",
+   "v": "n"
+  },
+  {
+   "n": "067/093",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "068/093",
+   "name": "Terrakion",
+   "v": "n"
+  },
+  {
+   "n": "069/093",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "070/093",
+   "name": "Meloetta",
+   "v": "n"
+  },
+  {
+   "n": "071/093",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "072/093",
+   "name": "Darkrai-EX",
+   "v": "n"
+  },
+  {
+   "n": "073/093",
+   "name": "Zorua",
+   "v": "n"
+  },
+  {
+   "n": "074/093",
+   "name": "Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "075/093",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "076/093",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "077/093",
+   "name": "Rayquaza",
+   "v": "n"
+  },
+  {
+   "n": "078/093",
+   "name": "Gible",
+   "v": "n"
+  },
+  {
+   "n": "079/093",
+   "name": "Gabite",
+   "v": "n"
+  },
+  {
+   "n": "080/093",
+   "name": "Garchomp",
+   "v": "n"
+  },
+  {
+   "n": "081/093",
+   "name": "Deino",
+   "v": "n"
+  },
+  {
+   "n": "082/093",
+   "name": "Zweilous",
+   "v": "n"
+  },
+  {
+   "n": "083/093",
+   "name": "Hydreigon",
+   "v": "n"
+  },
+  {
+   "n": "084/093",
+   "name": "Black Kyurem-EX",
+   "v": "n"
+  },
+  {
+   "n": "085/093",
+   "name": "White Kyurem-EX",
+   "v": "n"
+  },
+  {
+   "n": "086/093",
+   "name": "Lugia-EX",
+   "v": "n"
+  },
+  {
+   "n": "087/093",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "088/093",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "089/093",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "090/093",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "091/093",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "092/093",
+   "name": "Tornadus",
+   "v": "n"
+  },
+  {
+   "n": "093/093",
+   "name": "Cedric Juniper",
+   "v": "n"
+  },
+  {
+   "n": "094/093",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "095/093",
+   "name": "Zekrom",
+   "v": "n"
+  },
+  {
+   "n": "096/093",
+   "name": "Imakuni?",
+   "v": "n"
+  },
+  {
+   "n": "097/093",
+   "name": "Pokémon Enterprise",
+   "v": "n"
+  },
+  {
+   "n": "098/093",
+   "name": "Pokémon Enterprise",
+   "v": "n"
+  },
+  {
+   "n": "099/093",
+   "name": "Pokémon Enterprise",
+   "v": "n"
+  }
+ ]
+}

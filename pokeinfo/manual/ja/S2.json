@@ -1,0 +1,588 @@
+{
+ "id": "S2",
+ "name": "反逆クラッシュ",
+ "serie": "剣と盾",
+ "serie_id": "S",
+ "date": "2020-03-06",
+ "official": 96,
+ "abbr": "S2",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/096",
+   "name": "Scyther",
+   "v": "n"
+  },
+  {
+   "n": "002/096",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "003/096",
+   "name": "Lotad",
+   "v": "n"
+  },
+  {
+   "n": "004/096",
+   "name": "Lombre",
+   "v": "n"
+  },
+  {
+   "n": "005/096",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "006/096",
+   "name": "Surskit",
+   "v": "n"
+  },
+  {
+   "n": "007/096",
+   "name": "Masquerain",
+   "v": "n"
+  },
+  {
+   "n": "008/096",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "009/096",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "010/096",
+   "name": "Eldegoss V",
+   "v": "n"
+  },
+  {
+   "n": "011/096",
+   "name": "Applin",
+   "v": "n"
+  },
+  {
+   "n": "012/096",
+   "name": "Flapple",
+   "v": "n"
+  },
+  {
+   "n": "013/096",
+   "name": "Ninetales V",
+   "v": "n"
+  },
+  {
+   "n": "014/096",
+   "name": "Magmar",
+   "v": "n"
+  },
+  {
+   "n": "015/096",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "016/096",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "017/096",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "018/096",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "019/096",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "020/096",
+   "name": "Wingull",
+   "v": "n"
+  },
+  {
+   "n": "021/096",
+   "name": "Pelipper",
+   "v": "n"
+  },
+  {
+   "n": "022/096",
+   "name": "Milotic V",
+   "v": "n"
+  },
+  {
+   "n": "023/096",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "024/096",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "025/096",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "026/096",
+   "name": "Galarian Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "027/096",
+   "name": "Galarian Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "028/096",
+   "name": "Eiscue",
+   "v": "n"
+  },
+  {
+   "n": "029/096",
+   "name": "Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "030/096",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "031/096",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "032/096",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "033/096",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "034/096",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "035/096",
+   "name": "Luxray",
+   "v": "n"
+  },
+  {
+   "n": "036/096",
+   "name": "Toxtricity V",
+   "v": "n"
+  },
+  {
+   "n": "037/096",
+   "name": "Toxtricity VMAX",
+   "v": "n"
+  },
+  {
+   "n": "038/096",
+   "name": "Morpeko",
+   "v": "n"
+  },
+  {
+   "n": "039/096",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "040/096",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "041/096",
+   "name": "Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "042/096",
+   "name": "Sandygast",
+   "v": "n"
+  },
+  {
+   "n": "043/096",
+   "name": "Palossand",
+   "v": "n"
+  },
+  {
+   "n": "044/096",
+   "name": "Hatenna",
+   "v": "n"
+  },
+  {
+   "n": "045/096",
+   "name": "Hattrem",
+   "v": "n"
+  },
+  {
+   "n": "046/096",
+   "name": "Hatterene",
+   "v": "n"
+  },
+  {
+   "n": "047/096",
+   "name": "Milcery",
+   "v": "n"
+  },
+  {
+   "n": "048/096",
+   "name": "Alcremie",
+   "v": "n"
+  },
+  {
+   "n": "049/096",
+   "name": "Dragapult V",
+   "v": "n"
+  },
+  {
+   "n": "050/096",
+   "name": "Dragapult VMAX",
+   "v": "n"
+  },
+  {
+   "n": "051/096",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "052/096",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "053/096",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "054/096",
+   "name": "Barboach",
+   "v": "n"
+  },
+  {
+   "n": "055/096",
+   "name": "Whiscash",
+   "v": "n"
+  },
+  {
+   "n": "056/096",
+   "name": "Galarian Yamask",
+   "v": "n"
+  },
+  {
+   "n": "057/096",
+   "name": "Galarian Runerigus",
+   "v": "n"
+  },
+  {
+   "n": "058/096",
+   "name": "Rolycoly",
+   "v": "n"
+  },
+  {
+   "n": "059/096",
+   "name": "Carkol",
+   "v": "n"
+  },
+  {
+   "n": "060/096",
+   "name": "Coalossal",
+   "v": "n"
+  },
+  {
+   "n": "061/096",
+   "name": "Falinks V",
+   "v": "n"
+  },
+  {
+   "n": "062/096",
+   "name": "Stonjourner",
+   "v": "n"
+  },
+  {
+   "n": "063/096",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "064/096",
+   "name": "Galarian Weezing",
+   "v": "n"
+  },
+  {
+   "n": "065/096",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "066/096",
+   "name": "Trubbish",
+   "v": "n"
+  },
+  {
+   "n": "067/096",
+   "name": "Garbodor",
+   "v": "n"
+  },
+  {
+   "n": "068/096",
+   "name": "Vullaby",
+   "v": "n"
+  },
+  {
+   "n": "069/096",
+   "name": "Mandibuzz",
+   "v": "n"
+  },
+  {
+   "n": "070/096",
+   "name": "Malamar V",
+   "v": "n"
+  },
+  {
+   "n": "071/096",
+   "name": "Malamar VMAX",
+   "v": "n"
+  },
+  {
+   "n": "072/096",
+   "name": "Scizor",
+   "v": "n"
+  },
+  {
+   "n": "073/096",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "074/096",
+   "name": "Durant",
+   "v": "n"
+  },
+  {
+   "n": "075/096",
+   "name": "Copperajah V",
+   "v": "n"
+  },
+  {
+   "n": "076/096",
+   "name": "Copperajah VMAX",
+   "v": "n"
+  },
+  {
+   "n": "077/096",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "078/096",
+   "name": "Chatot",
+   "v": "n"
+  },
+  {
+   "n": "079/096",
+   "name": "Pidove",
+   "v": "n"
+  },
+  {
+   "n": "080/096",
+   "name": "Tranquill",
+   "v": "n"
+  },
+  {
+   "n": "081/096",
+   "name": "Unfezant",
+   "v": "n"
+  },
+  {
+   "n": "082/096",
+   "name": "Stufful",
+   "v": "n"
+  },
+  {
+   "n": "083/096",
+   "name": "Bewear",
+   "v": "n"
+  },
+  {
+   "n": "084/096",
+   "name": "Skwovet",
+   "v": "n"
+  },
+  {
+   "n": "085/096",
+   "name": "Greedent",
+   "v": "n"
+  },
+  {
+   "n": "086/096",
+   "name": "Scoop Up Net",
+   "v": "n"
+  },
+  {
+   "n": "087/096",
+   "name": "Nugget",
+   "v": "n"
+  },
+  {
+   "n": "088/096",
+   "name": "Tool Scrapper",
+   "v": "n"
+  },
+  {
+   "n": "089/096",
+   "name": "Cursed Shovel",
+   "v": "n"
+  },
+  {
+   "n": "090/096",
+   "name": "Oleana",
+   "v": "n"
+  },
+  {
+   "n": "091/096",
+   "name": "Dan",
+   "v": "n"
+  },
+  {
+   "n": "092/096",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "093/096",
+   "name": "Galar Mine",
+   "v": "n"
+  },
+  {
+   "n": "094/096",
+   "name": "Speed Lightning Energy",
+   "v": "n"
+  },
+  {
+   "n": "095/096",
+   "name": "Horror Psychic Energy",
+   "v": "n"
+  },
+  {
+   "n": "096/096",
+   "name": "Capture Energy",
+   "v": "n"
+  },
+  {
+   "n": "097/096",
+   "name": "Eldegoss V",
+   "v": "n"
+  },
+  {
+   "n": "098/096",
+   "name": "Ninetales V",
+   "v": "n"
+  },
+  {
+   "n": "099/096",
+   "name": "Milotic V",
+   "v": "n"
+  },
+  {
+   "n": "100/096",
+   "name": "Toxtricity V",
+   "v": "n"
+  },
+  {
+   "n": "101/096",
+   "name": "Dragapult V",
+   "v": "n"
+  },
+  {
+   "n": "102/096",
+   "name": "Falinks V",
+   "v": "n"
+  },
+  {
+   "n": "103/096",
+   "name": "Malamar V",
+   "v": "n"
+  },
+  {
+   "n": "104/096",
+   "name": "Copperajah V",
+   "v": "n"
+  },
+  {
+   "n": "105/096",
+   "name": "Oleana",
+   "v": "n"
+  },
+  {
+   "n": "106/096",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "107/096",
+   "name": "Toxtricity VMAX",
+   "v": "n"
+  },
+  {
+   "n": "108/096",
+   "name": "Dragapult VMAX",
+   "v": "n"
+  },
+  {
+   "n": "109/096",
+   "name": "Malamar VMAX",
+   "v": "n"
+  },
+  {
+   "n": "110/096",
+   "name": "Copperajah VMAX",
+   "v": "n"
+  },
+  {
+   "n": "111/096",
+   "name": "Oleana",
+   "v": "n"
+  },
+  {
+   "n": "112/096",
+   "name": "Boss's Orders",
+   "v": "n"
+  },
+  {
+   "n": "113/096",
+   "name": "Galarian Perrserker",
+   "v": "n"
+  },
+  {
+   "n": "114/096",
+   "name": "Scoop Up Net",
+   "v": "n"
+  },
+  {
+   "n": "115/096",
+   "name": "Tool Scrapper",
+   "v": "n"
+  }
+ ]
+}

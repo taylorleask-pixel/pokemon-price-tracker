@@ -1,0 +1,298 @@
+{
+ "id": "BW3a",
+ "name": "サイコドライブ",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2011-09-16",
+ "official": 52,
+ "abbr": "BW3a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/052",
+   "name": "Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "002/052",
+   "name": "Seedot",
+   "v": "n"
+  },
+  {
+   "n": "003/052",
+   "name": "Kricketot",
+   "v": "n"
+  },
+  {
+   "n": "004/052",
+   "name": "Kricketune",
+   "v": "n"
+  },
+  {
+   "n": "005/052",
+   "name": "Shaymin-EX",
+   "v": "n"
+  },
+  {
+   "n": "006/052",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "007/052",
+   "name": "Swadloon",
+   "v": "n"
+  },
+  {
+   "n": "008/052",
+   "name": "Leavanny",
+   "v": "n"
+  },
+  {
+   "n": "009/052",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "010/052",
+   "name": "Pansear",
+   "v": "n"
+  },
+  {
+   "n": "011/052",
+   "name": "Simisear",
+   "v": "n"
+  },
+  {
+   "n": "012/052",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "013/052",
+   "name": "Starmie",
+   "v": "n"
+  },
+  {
+   "n": "014/052",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "015/052",
+   "name": "Kyogre-EX",
+   "v": "n"
+  },
+  {
+   "n": "016/052",
+   "name": "Panpour",
+   "v": "n"
+  },
+  {
+   "n": "017/052",
+   "name": "Simipour",
+   "v": "n"
+  },
+  {
+   "n": "018/052",
+   "name": "Basculin",
+   "v": "n"
+  },
+  {
+   "n": "019/052",
+   "name": "Frillish",
+   "v": "n"
+  },
+  {
+   "n": "020/052",
+   "name": "Jellicent",
+   "v": "n"
+  },
+  {
+   "n": "021/052",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "022/052",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "023/052",
+   "name": "Luxray",
+   "v": "n"
+  },
+  {
+   "n": "024/052",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "025/052",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "026/052",
+   "name": "Grimer",
+   "v": "n"
+  },
+  {
+   "n": "027/052",
+   "name": "Muk",
+   "v": "n"
+  },
+  {
+   "n": "028/052",
+   "name": "Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "029/052",
+   "name": "Munna",
+   "v": "n"
+  },
+  {
+   "n": "030/052",
+   "name": "Musharna",
+   "v": "n"
+  },
+  {
+   "n": "031/052",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "032/052",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "033/052",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "034/052",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "035/052",
+   "name": "Gurdurr",
+   "v": "n"
+  },
+  {
+   "n": "036/052",
+   "name": "Conkeldurr",
+   "v": "n"
+  },
+  {
+   "n": "037/052",
+   "name": "Mienfoo",
+   "v": "n"
+  },
+  {
+   "n": "038/052",
+   "name": "Mienshao",
+   "v": "n"
+  },
+  {
+   "n": "039/052",
+   "name": "Nuzleaf",
+   "v": "n"
+  },
+  {
+   "n": "040/052",
+   "name": "Shiftry",
+   "v": "n"
+  },
+  {
+   "n": "041/052",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "042/052",
+   "name": "Scrafty",
+   "v": "n"
+  },
+  {
+   "n": "043/052",
+   "name": "Ferroseed",
+   "v": "n"
+  },
+  {
+   "n": "044/052",
+   "name": "Ferrothorn",
+   "v": "n"
+  },
+  {
+   "n": "045/052",
+   "name": "Meowth",
+   "v": "n"
+  },
+  {
+   "n": "046/052",
+   "name": "Persian",
+   "v": "n"
+  },
+  {
+   "n": "047/052",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "048/052",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "049/052",
+   "name": "Level Ball",
+   "v": "n"
+  },
+  {
+   "n": "050/052",
+   "name": "Exp. Share",
+   "v": "n"
+  },
+  {
+   "n": "051/052",
+   "name": "Skyarrow Bridge",
+   "v": "n"
+  },
+  {
+   "n": "052/052",
+   "name": "Prism Energy",
+   "v": "n"
+  },
+  {
+   "n": "053/052",
+   "name": "Shaymin-EX",
+   "v": "n"
+  },
+  {
+   "n": "054/052",
+   "name": "Kyogre-EX",
+   "v": "n"
+  },
+  {
+   "n": "055/052",
+   "name": "Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "056/052",
+   "name": "Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "057/052",
+   "name": "Hydreigon",
+   "v": "n"
+  }
+ ]
+}

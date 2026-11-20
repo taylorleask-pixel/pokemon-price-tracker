@@ -1,0 +1,443 @@
+{
+ "id": "S2a",
+ "name": "爆炎ウォーカー",
+ "serie": "剣と盾",
+ "serie_id": "S",
+ "date": "2020-04-24",
+ "official": 70,
+ "abbr": "S2a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Butterfree V",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Butterfree VMAX",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Shelmet",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Accelgor",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Bounsweet",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Steenee",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Tsareena",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Golisopod",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Heatran",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Centiskorch V",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Centiskorch VMAX",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Galarian Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Galarian Mr. Rime",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Cubchoo",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Beartic",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Vikavolt V",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Toxel",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Toxtricity",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Snubbull",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Granbull",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Gardevoir V",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Gardevoir VMAX",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Dedenne",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Morelull",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Shiinotic",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Sinistea",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Polteageist",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Diglett",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Diggersby",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Grapploct V",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Grimer",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Muk",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Darkrai",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Liepard",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Galarian Stunfisk V",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Sentret",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Furret",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Bunnelby",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Rookidee",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Corvisquire",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Corviknight",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Strange Food Tin",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Lookalike Bell",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Old Computer",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Big Parasol",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Kabu",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Pokémon Breeder's Nurturing",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Glimwood Tangle",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Heat Fire Energy",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Butterfree V",
+   "v": "n"
+  },
+  {
+   "n": "072/070",
+   "name": "Centiskorch V",
+   "v": "n"
+  },
+  {
+   "n": "073/070",
+   "name": "Vikavolt V",
+   "v": "n"
+  },
+  {
+   "n": "074/070",
+   "name": "Gardevoir V",
+   "v": "n"
+  },
+  {
+   "n": "075/070",
+   "name": "Grapploct V",
+   "v": "n"
+  },
+  {
+   "n": "076/070",
+   "name": "Galarian Stunfisk V",
+   "v": "n"
+  },
+  {
+   "n": "077/070",
+   "name": "Kabu",
+   "v": "n"
+  },
+  {
+   "n": "078/070",
+   "name": "Pokémon Breeder's Nurturing",
+   "v": "n"
+  },
+  {
+   "n": "079/070",
+   "name": "Butterfree VMAX",
+   "v": "n"
+  },
+  {
+   "n": "080/070",
+   "name": "Centiskorch VMAX",
+   "v": "n"
+  },
+  {
+   "n": "081/070",
+   "name": "Gardevoir VMAX",
+   "v": "n"
+  },
+  {
+   "n": "082/070",
+   "name": "Kabu",
+   "v": "n"
+  },
+  {
+   "n": "083/070",
+   "name": "Pokémon Breeder's Nurturing",
+   "v": "n"
+  },
+  {
+   "n": "084/070",
+   "name": "Rillaboom",
+   "v": "n"
+  },
+  {
+   "n": "085/070",
+   "name": "Strange Food Tin",
+   "v": "n"
+  },
+  {
+   "n": "086/070",
+   "name": "Big Parasol",
+   "v": "n"
+  }
+ ]
+}

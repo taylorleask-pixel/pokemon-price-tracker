@@ -1,0 +1,278 @@
+{
+ "id": "ADV2",
+ "name": "砂漠のきせき",
+ "serie": "ADV",
+ "serie_id": "ADV",
+ "date": "2003-04-18",
+ "official": 53,
+ "abbr": "ADV2",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/053",
+   "name": "Seedot",
+   "v": "n"
+  },
+  {
+   "n": "002/053",
+   "name": "Nuzleaf",
+   "v": "n"
+  },
+  {
+   "n": "003/053",
+   "name": "Shiftry",
+   "v": "n"
+  },
+  {
+   "n": "004/053",
+   "name": "Volbeat",
+   "v": "n"
+  },
+  {
+   "n": "005/053",
+   "name": "Illumise",
+   "v": "n"
+  },
+  {
+   "n": "006/053",
+   "name": "Cacnea",
+   "v": "n"
+  },
+  {
+   "n": "007/053",
+   "name": "Cacturne",
+   "v": "n"
+  },
+  {
+   "n": "008/053",
+   "name": "Seviper",
+   "v": "n"
+  },
+  {
+   "n": "009/053",
+   "name": "Lileep",
+   "v": "n"
+  },
+  {
+   "n": "010/053",
+   "name": "Cradily",
+   "v": "n"
+  },
+  {
+   "n": "011/053",
+   "name": "Cyndaquil",
+   "v": "n"
+  },
+  {
+   "n": "012/053",
+   "name": "Quilava",
+   "v": "n"
+  },
+  {
+   "n": "013/053",
+   "name": "Typhlosion ex",
+   "v": "n"
+  },
+  {
+   "n": "014/053",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "015/053",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "016/053",
+   "name": "Marill",
+   "v": "n"
+  },
+  {
+   "n": "017/053",
+   "name": "Azumarill",
+   "v": "n"
+  },
+  {
+   "n": "018/053",
+   "name": "Lotad",
+   "v": "n"
+  },
+  {
+   "n": "019/053",
+   "name": "Lombre",
+   "v": "n"
+  },
+  {
+   "n": "020/053",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "021/053",
+   "name": "Wailord ex",
+   "v": "n"
+  },
+  {
+   "n": "022/053",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "023/053",
+   "name": "Raichu ex",
+   "v": "n"
+  },
+  {
+   "n": "024/053",
+   "name": "Pichu",
+   "v": "n"
+  },
+  {
+   "n": "025/053",
+   "name": "Natu",
+   "v": "n"
+  },
+  {
+   "n": "026/053",
+   "name": "Xatu",
+   "v": "n"
+  },
+  {
+   "n": "027/053",
+   "name": "Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "028/053",
+   "name": "Gardevoir ex",
+   "v": "n"
+  },
+  {
+   "n": "029/053",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "030/053",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "031/053",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "032/053",
+   "name": "Wynaut",
+   "v": "n"
+  },
+  {
+   "n": "033/053",
+   "name": "Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "034/053",
+   "name": "Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "035/053",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "036/053",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "037/053",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "038/053",
+   "name": "Anorith",
+   "v": "n"
+  },
+  {
+   "n": "039/053",
+   "name": "Armaldo",
+   "v": "n"
+  },
+  {
+   "n": "040/053",
+   "name": "Zigzagoon",
+   "v": "n"
+  },
+  {
+   "n": "041/053",
+   "name": "Azurill",
+   "v": "n"
+  },
+  {
+   "n": "042/053",
+   "name": "Zangoose",
+   "v": "n"
+  },
+  {
+   "n": "043/053",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "044/053",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "045/053",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "046/053",
+   "name": "Aggron ex",
+   "v": "n"
+  },
+  {
+   "n": "047/053",
+   "name": "Claw Fossil",
+   "v": "n"
+  },
+  {
+   "n": "048/053",
+   "name": "Root Fossil",
+   "v": "n"
+  },
+  {
+   "n": "049/053",
+   "name": "Double Full Heal",
+   "v": "n"
+  },
+  {
+   "n": "050/053",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "051/053",
+   "name": "Lanette's Net Search",
+   "v": "n"
+  },
+  {
+   "n": "052/053",
+   "name": "Wally's Training",
+   "v": "n"
+  },
+  {
+   "n": "053/053",
+   "name": "Multi Energy",
+   "v": "n"
+  }
+ ]
+}

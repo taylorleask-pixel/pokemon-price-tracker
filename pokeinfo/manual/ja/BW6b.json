@@ -1,0 +1,338 @@
+{
+ "id": "BW6b",
+ "name": "コールドフレア",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2012-07-13",
+ "official": 59,
+ "abbr": "BW6b",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/059",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "002/059",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "003/059",
+   "name": "Scyther",
+   "v": "n"
+  },
+  {
+   "n": "004/059",
+   "name": "Celebi-EX",
+   "v": "n"
+  },
+  {
+   "n": "005/059",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "006/059",
+   "name": "Swadloon",
+   "v": "n"
+  },
+  {
+   "n": "007/059",
+   "name": "Leavanny",
+   "v": "n"
+  },
+  {
+   "n": "008/059",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "009/059",
+   "name": "Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "010/059",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "011/059",
+   "name": "Camerupt",
+   "v": "n"
+  },
+  {
+   "n": "012/059",
+   "name": "Squirtle",
+   "v": "n"
+  },
+  {
+   "n": "013/059",
+   "name": "Wartortle",
+   "v": "n"
+  },
+  {
+   "n": "014/059",
+   "name": "Blastoise",
+   "v": "n"
+  },
+  {
+   "n": "015/059",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "016/059",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "017/059",
+   "name": "Ducklett",
+   "v": "n"
+  },
+  {
+   "n": "018/059",
+   "name": "Swanna",
+   "v": "n"
+  },
+  {
+   "n": "019/059",
+   "name": "Keldeo-EX",
+   "v": "n"
+  },
+  {
+   "n": "020/059",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "021/059",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "022/059",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "023/059",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "024/059",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "025/059",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "026/059",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "027/059",
+   "name": "Croagunk",
+   "v": "n"
+  },
+  {
+   "n": "028/059",
+   "name": "Toxicroak",
+   "v": "n"
+  },
+  {
+   "n": "029/059",
+   "name": "Woobat",
+   "v": "n"
+  },
+  {
+   "n": "030/059",
+   "name": "Swoobat",
+   "v": "n"
+  },
+  {
+   "n": "031/059",
+   "name": "Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "032/059",
+   "name": "Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "033/059",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "034/059",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "035/059",
+   "name": "Gurdurr",
+   "v": "n"
+  },
+  {
+   "n": "036/059",
+   "name": "Conkeldurr",
+   "v": "n"
+  },
+  {
+   "n": "037/059",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "038/059",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "039/059",
+   "name": "Scizor",
+   "v": "n"
+  },
+  {
+   "n": "040/059",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "041/059",
+   "name": "White Kyurem-EX",
+   "v": "n"
+  },
+  {
+   "n": "042/059",
+   "name": "Ditto",
+   "v": "n"
+  },
+  {
+   "n": "043/059",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "044/059",
+   "name": "Whismur",
+   "v": "n"
+  },
+  {
+   "n": "045/059",
+   "name": "Loudred",
+   "v": "n"
+  },
+  {
+   "n": "046/059",
+   "name": "Exploud",
+   "v": "n"
+  },
+  {
+   "n": "047/059",
+   "name": "Skitty",
+   "v": "n"
+  },
+  {
+   "n": "048/059",
+   "name": "Delcatty",
+   "v": "n"
+  },
+  {
+   "n": "049/059",
+   "name": "Patrat",
+   "v": "n"
+  },
+  {
+   "n": "050/059",
+   "name": "Watchog",
+   "v": "n"
+  },
+  {
+   "n": "051/059",
+   "name": "Lillipup",
+   "v": "n"
+  },
+  {
+   "n": "052/059",
+   "name": "Herdier",
+   "v": "n"
+  },
+  {
+   "n": "053/059",
+   "name": "Stoutland",
+   "v": "n"
+  },
+  {
+   "n": "054/059",
+   "name": "Bicycle",
+   "v": "n"
+  },
+  {
+   "n": "055/059",
+   "name": "Ether",
+   "v": "n"
+  },
+  {
+   "n": "056/059",
+   "name": "Skyla",
+   "v": "n"
+  },
+  {
+   "n": "057/059",
+   "name": "Aspertia City Gym",
+   "v": "n"
+  },
+  {
+   "n": "058/059",
+   "name": "Computer Search",
+   "v": "n"
+  },
+  {
+   "n": "059/059",
+   "name": "Crystal Edge",
+   "v": "n"
+  },
+  {
+   "n": "060/059",
+   "name": "Celebi EX",
+   "v": "n"
+  },
+  {
+   "n": "061/059",
+   "name": "Keldeo-EX",
+   "v": "n"
+  },
+  {
+   "n": "062/059",
+   "name": "White Kyurem-EX",
+   "v": "n"
+  },
+  {
+   "n": "063/059",
+   "name": "Bianca",
+   "v": "n"
+  },
+  {
+   "n": "064/059",
+   "name": "Terrakion",
+   "v": "n"
+  },
+  {
+   "n": "065/059",
+   "name": "Altaria",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "id": "BW5b",
+ "name": "リューノブレード",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2012-03-16",
+ "official": 50,
+ "abbr": "BW5b",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/050",
+   "name": "Hoppip",
+   "v": "n"
+  },
+  {
+   "n": "002/050",
+   "name": "Skiploom",
+   "v": "n"
+  },
+  {
+   "n": "003/050",
+   "name": "Jumpluff",
+   "v": "n"
+  },
+  {
+   "n": "004/050",
+   "name": "Nincada",
+   "v": "n"
+  },
+  {
+   "n": "005/050",
+   "name": "Ninjask",
+   "v": "n"
+  },
+  {
+   "n": "006/050",
+   "name": "Maractus",
+   "v": "n"
+  },
+  {
+   "n": "007/050",
+   "name": "Magmar",
+   "v": "n"
+  },
+  {
+   "n": "008/050",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "009/050",
+   "name": "Ho-Oh-EX",
+   "v": "n"
+  },
+  {
+   "n": "010/050",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "011/050",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "012/050",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "013/050",
+   "name": "Sealeo",
+   "v": "n"
+  },
+  {
+   "n": "014/050",
+   "name": "Walrein",
+   "v": "n"
+  },
+  {
+   "n": "015/050",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "016/050",
+   "name": "Manectric",
+   "v": "n"
+  },
+  {
+   "n": "017/050",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "018/050",
+   "name": "Shedinja",
+   "v": "n"
+  },
+  {
+   "n": "019/050",
+   "name": "Gothita",
+   "v": "n"
+  },
+  {
+   "n": "020/050",
+   "name": "Gothorita",
+   "v": "n"
+  },
+  {
+   "n": "021/050",
+   "name": "Gothitelle",
+   "v": "n"
+  },
+  {
+   "n": "022/050",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "023/050",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "024/050",
+   "name": "Cubone",
+   "v": "n"
+  },
+  {
+   "n": "025/050",
+   "name": "Marowak",
+   "v": "n"
+  },
+  {
+   "n": "026/050",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "027/050",
+   "name": "Roggenrola",
+   "v": "n"
+  },
+  {
+   "n": "028/050",
+   "name": "Boldore",
+   "v": "n"
+  },
+  {
+   "n": "029/050",
+   "name": "Gigalith",
+   "v": "n"
+  },
+  {
+   "n": "030/050",
+   "name": "Throh",
+   "v": "n"
+  },
+  {
+   "n": "031/050",
+   "name": "Sawk",
+   "v": "n"
+  },
+  {
+   "n": "032/050",
+   "name": "Stunky",
+   "v": "n"
+  },
+  {
+   "n": "033/050",
+   "name": "Skuntank",
+   "v": "n"
+  },
+  {
+   "n": "034/050",
+   "name": "Registeel-EX",
+   "v": "n"
+  },
+  {
+   "n": "035/050",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "036/050",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "037/050",
+   "name": "Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "038/050",
+   "name": "Gible",
+   "v": "n"
+  },
+  {
+   "n": "039/050",
+   "name": "Gabite",
+   "v": "n"
+  },
+  {
+   "n": "040/050",
+   "name": "Garchomp",
+   "v": "n"
+  },
+  {
+   "n": "041/050",
+   "name": "Slakoth",
+   "v": "n"
+  },
+  {
+   "n": "042/050",
+   "name": "Vigoroth",
+   "v": "n"
+  },
+  {
+   "n": "043/050",
+   "name": "Slaking",
+   "v": "n"
+  },
+  {
+   "n": "044/050",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "045/050",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "046/050",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "047/050",
+   "name": "Braviary",
+   "v": "n"
+  },
+  {
+   "n": "048/050",
+   "name": "Tool Scrapper",
+   "v": "n"
+  },
+  {
+   "n": "049/050",
+   "name": "Giant Cape",
+   "v": "n"
+  },
+  {
+   "n": "050/050",
+   "name": "Blend Energy WLFM",
+   "v": "n"
+  },
+  {
+   "n": "051/050",
+   "name": "Ho-Oh-EX",
+   "v": "n"
+  },
+  {
+   "n": "052/050",
+   "name": "Registeel-EX",
+   "v": "n"
+  },
+  {
+   "n": "053/050",
+   "name": "Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "054/050",
+   "name": "Serperior",
+   "v": "n"
+  },
+  {
+   "n": "055/050",
+   "name": "Krookodile",
+   "v": "n"
+  }
+ ]
+}

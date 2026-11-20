@@ -1,0 +1,413 @@
+{
+ "id": "ADV4",
+ "name": "強化拡張パックex1マグマVSアクア ふたつの野望",
+ "serie": "ADV",
+ "serie_id": "ADV",
+ "date": "2003-10-24",
+ "official": 80,
+ "abbr": "ADV4",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/080",
+   "name": "Ekans",
+   "v": "n"
+  },
+  {
+   "n": "002/080",
+   "name": "Arbok",
+   "v": "n"
+  },
+  {
+   "n": "003/080",
+   "name": "Pineco",
+   "v": "n"
+  },
+  {
+   "n": "004/080",
+   "name": "Treecko",
+   "v": "n"
+  },
+  {
+   "n": "005/080",
+   "name": "Grovyle",
+   "v": "n"
+  },
+  {
+   "n": "006/080",
+   "name": "Sceptile ex",
+   "v": "n"
+  },
+  {
+   "n": "007/080",
+   "name": "Cacnea",
+   "v": "n"
+  },
+  {
+   "n": "008/080",
+   "name": "Lileep",
+   "v": "n"
+  },
+  {
+   "n": "009/080",
+   "name": "Cradily ex",
+   "v": "n"
+  },
+  {
+   "n": "010/080",
+   "name": "Team Aqua's Seviper",
+   "v": "n"
+  },
+  {
+   "n": "011/080",
+   "name": "Team Aqua's Cacnea",
+   "v": "n"
+  },
+  {
+   "n": "012/080",
+   "name": "Team Aqua's Cacturne",
+   "v": "n"
+  },
+  {
+   "n": "013/080",
+   "name": "Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "014/080",
+   "name": "Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "015/080",
+   "name": "Flareon",
+   "v": "n"
+  },
+  {
+   "n": "016/080",
+   "name": "Torchic",
+   "v": "n"
+  },
+  {
+   "n": "017/080",
+   "name": "Combusken",
+   "v": "n"
+  },
+  {
+   "n": "018/080",
+   "name": "Blaziken ex",
+   "v": "n"
+  },
+  {
+   "n": "019/080",
+   "name": "Team Magma's Houndour",
+   "v": "n"
+  },
+  {
+   "n": "020/080",
+   "name": "Team Magma's Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "021/080",
+   "name": "Team Magma's Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "022/080",
+   "name": "Vaporeon",
+   "v": "n"
+  },
+  {
+   "n": "023/080",
+   "name": "Omanyte",
+   "v": "n"
+  },
+  {
+   "n": "024/080",
+   "name": "Omastar",
+   "v": "n"
+  },
+  {
+   "n": "025/080",
+   "name": "Kabuto",
+   "v": "n"
+  },
+  {
+   "n": "026/080",
+   "name": "Kabutops ex",
+   "v": "n"
+  },
+  {
+   "n": "027/080",
+   "name": "Suicune ex",
+   "v": "n"
+  },
+  {
+   "n": "028/080",
+   "name": "Mudkip",
+   "v": "n"
+  },
+  {
+   "n": "029/080",
+   "name": "Marshtomp",
+   "v": "n"
+  },
+  {
+   "n": "030/080",
+   "name": "Wingull",
+   "v": "n"
+  },
+  {
+   "n": "031/080",
+   "name": "Pelipper",
+   "v": "n"
+  },
+  {
+   "n": "032/080",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "033/080",
+   "name": "Team Aqua's Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "034/080",
+   "name": "Team Aqua's Corphish",
+   "v": "n"
+  },
+  {
+   "n": "035/080",
+   "name": "Team Aqua's Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "036/080",
+   "name": "Team Aqua's Crawdaunt",
+   "v": "n"
+  },
+  {
+   "n": "037/080",
+   "name": "Jolteon",
+   "v": "n"
+  },
+  {
+   "n": "038/080",
+   "name": "Team Aqua's Electrike",
+   "v": "n"
+  },
+  {
+   "n": "039/080",
+   "name": "Team Aqua's Manectric",
+   "v": "n"
+  },
+  {
+   "n": "040/080",
+   "name": "Espeon",
+   "v": "n"
+  },
+  {
+   "n": "041/080",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "042/080",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "043/080",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "044/080",
+   "name": "Team Magma's Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "045/080",
+   "name": "Team Magma's Claydol",
+   "v": "n"
+  },
+  {
+   "n": "046/080",
+   "name": "Geodude",
+   "v": "n"
+  },
+  {
+   "n": "047/080",
+   "name": "Graveler",
+   "v": "n"
+  },
+  {
+   "n": "048/080",
+   "name": "Golem ex",
+   "v": "n"
+  },
+  {
+   "n": "049/080",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "050/080",
+   "name": "Swampert ex",
+   "v": "n"
+  },
+  {
+   "n": "051/080",
+   "name": "Anorith",
+   "v": "n"
+  },
+  {
+   "n": "052/080",
+   "name": "Team Magma's Rhyhorn",
+   "v": "n"
+  },
+  {
+   "n": "053/080",
+   "name": "Team Magma's Rhydon",
+   "v": "n"
+  },
+  {
+   "n": "054/080",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "055/080",
+   "name": "Aerodactyl ex",
+   "v": "n"
+  },
+  {
+   "n": "056/080",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "057/080",
+   "name": "Linoone",
+   "v": "n"
+  },
+  {
+   "n": "058/080",
+   "name": "Swellow",
+   "v": "n"
+  },
+  {
+   "n": "059/080",
+   "name": "Skitty",
+   "v": "n"
+  },
+  {
+   "n": "060/080",
+   "name": "Delcatty",
+   "v": "n"
+  },
+  {
+   "n": "061/080",
+   "name": "Team Magma's Zangoose",
+   "v": "n"
+  },
+  {
+   "n": "062/080",
+   "name": "Umbreon",
+   "v": "n"
+  },
+  {
+   "n": "063/080",
+   "name": "Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "064/080",
+   "name": "Forretress",
+   "v": "n"
+  },
+  {
+   "n": "065/080",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "066/080",
+   "name": "Dual Ball",
+   "v": "n"
+  },
+  {
+   "n": "067/080",
+   "name": "Mysterious Fossil",
+   "v": "n"
+  },
+  {
+   "n": "068/080",
+   "name": "Warp Point",
+   "v": "n"
+  },
+  {
+   "n": "069/080",
+   "name": "Strength Charm",
+   "v": "n"
+  },
+  {
+   "n": "070/080",
+   "name": "Team Magma Belt",
+   "v": "n"
+  },
+  {
+   "n": "071/080",
+   "name": "Team Aqua Belt",
+   "v": "n"
+  },
+  {
+   "n": "072/080",
+   "name": "Team Magma Schemer",
+   "v": "n"
+  },
+  {
+   "n": "073/080",
+   "name": "Team Aqua Schemer",
+   "v": "n"
+  },
+  {
+   "n": "074/080",
+   "name": "Maxie",
+   "v": "n"
+  },
+  {
+   "n": "075/080",
+   "name": "Archie",
+   "v": "n"
+  },
+  {
+   "n": "076/080",
+   "name": "Team Magma Technical Machine 01",
+   "v": "n"
+  },
+  {
+   "n": "077/080",
+   "name": "Team Aqua Technical Machine 01",
+   "v": "n"
+  },
+  {
+   "n": "078/080",
+   "name": "Double Rainbow Energy",
+   "v": "n"
+  },
+  {
+   "n": "079/080",
+   "name": "Magma Energy",
+   "v": "n"
+  },
+  {
+   "n": "080/080",
+   "name": "Aqua Energy",
+   "v": "n"
+  }
+ ]
+}

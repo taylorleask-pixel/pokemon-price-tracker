@@ -1,0 +1,468 @@
+{
+ "id": "XY6",
+ "name": "エメラルドブレイク",
+ "serie": "XY",
+ "serie_id": "XY",
+ "date": "2015-03-14",
+ "official": 78,
+ "abbr": "XY6",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/078",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "002/078",
+   "name": "Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "003/078",
+   "name": "Wurmple",
+   "v": "n"
+  },
+  {
+   "n": "004/078",
+   "name": "Silcoon",
+   "v": "n"
+  },
+  {
+   "n": "005/078",
+   "name": "Beautifly",
+   "v": "n"
+  },
+  {
+   "n": "006/078",
+   "name": "Cascoon",
+   "v": "n"
+  },
+  {
+   "n": "007/078",
+   "name": "Dustox",
+   "v": "n"
+  },
+  {
+   "n": "008/078",
+   "name": "Dustox",
+   "v": "n"
+  },
+  {
+   "n": "009/078",
+   "name": "Nincada",
+   "v": "n"
+  },
+  {
+   "n": "010/078",
+   "name": "Ninjask",
+   "v": "n"
+  },
+  {
+   "n": "011/078",
+   "name": "Shedinja",
+   "v": "n"
+  },
+  {
+   "n": "012/078",
+   "name": "Tropius",
+   "v": "n"
+  },
+  {
+   "n": "013/078",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "014/078",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "015/078",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "016/078",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "017/078",
+   "name": "Wingull",
+   "v": "n"
+  },
+  {
+   "n": "018/078",
+   "name": "Pelipper",
+   "v": "n"
+  },
+  {
+   "n": "019/078",
+   "name": "Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "020/078",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "021/078",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "022/078",
+   "name": "Thundurus-EX",
+   "v": "n"
+  },
+  {
+   "n": "023/078",
+   "name": "Natu",
+   "v": "n"
+  },
+  {
+   "n": "024/078",
+   "name": "Natu",
+   "v": "n"
+  },
+  {
+   "n": "025/078",
+   "name": "Xatu",
+   "v": "n"
+  },
+  {
+   "n": "026/078",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "027/078",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "028/078",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "029/078",
+   "name": "Deoxys",
+   "v": "n"
+  },
+  {
+   "n": "030/078",
+   "name": "Gallade-EX",
+   "v": "n"
+  },
+  {
+   "n": "031/078",
+   "name": "M Gallade-EX",
+   "v": "n"
+  },
+  {
+   "n": "032/078",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "033/078",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "034/078",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "035/078",
+   "name": "Jirachi",
+   "v": "n"
+  },
+  {
+   "n": "036/078",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "037/078",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "038/078",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "039/078",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "040/078",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "041/078",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "042/078",
+   "name": "Dragonite",
+   "v": "n"
+  },
+  {
+   "n": "043/078",
+   "name": "Dragonite",
+   "v": "n"
+  },
+  {
+   "n": "044/078",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "045/078",
+   "name": "Bagon",
+   "v": "n"
+  },
+  {
+   "n": "046/078",
+   "name": "Shelgon",
+   "v": "n"
+  },
+  {
+   "n": "047/078",
+   "name": "Salamence",
+   "v": "n"
+  },
+  {
+   "n": "048/078",
+   "name": "Latios-EX",
+   "v": "n"
+  },
+  {
+   "n": "049/078",
+   "name": "M Latios-EX",
+   "v": "n"
+  },
+  {
+   "n": "050/078",
+   "name": "Hydreigon-EX",
+   "v": "n"
+  },
+  {
+   "n": "051/078",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "052/078",
+   "name": "Spearow",
+   "v": "n"
+  },
+  {
+   "n": "053/078",
+   "name": "Fearow",
+   "v": "n"
+  },
+  {
+   "n": "054/078",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "055/078",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "056/078",
+   "name": "Taillow",
+   "v": "n"
+  },
+  {
+   "n": "057/078",
+   "name": "Swellow",
+   "v": "n"
+  },
+  {
+   "n": "058/078",
+   "name": "Swellow",
+   "v": "n"
+  },
+  {
+   "n": "059/078",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "060/078",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "061/078",
+   "name": "Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "062/078",
+   "name": "M Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "063/078",
+   "name": "Shaymin-EX",
+   "v": "n"
+  },
+  {
+   "n": "064/078",
+   "name": "Pidove",
+   "v": "n"
+  },
+  {
+   "n": "065/078",
+   "name": "Tranquill",
+   "v": "n"
+  },
+  {
+   "n": "066/078",
+   "name": "Unfezant",
+   "v": "n"
+  },
+  {
+   "n": "067/078",
+   "name": "Unfezant",
+   "v": "n"
+  },
+  {
+   "n": "068/078",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "069/078",
+   "name": "Revive",
+   "v": "n"
+  },
+  {
+   "n": "070/078",
+   "name": "Trainers' Mail",
+   "v": "n"
+  },
+  {
+   "n": "071/078",
+   "name": "Mega Turbo",
+   "v": "n"
+  },
+  {
+   "n": "072/078",
+   "name": "Wide Lens",
+   "v": "n"
+  },
+  {
+   "n": "073/078",
+   "name": "Gallade Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "074/078",
+   "name": "Latios Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "075/078",
+   "name": "Winona",
+   "v": "n"
+  },
+  {
+   "n": "076/078",
+   "name": "Wally",
+   "v": "n"
+  },
+  {
+   "n": "077/078",
+   "name": "Sky Field",
+   "v": "n"
+  },
+  {
+   "n": "078/078",
+   "name": "Double Dragon Energy",
+   "v": "n"
+  },
+  {
+   "n": "079/078",
+   "name": "Thundurus-EX",
+   "v": "n"
+  },
+  {
+   "n": "080/078",
+   "name": "Gallade-EX",
+   "v": "n"
+  },
+  {
+   "n": "081/078",
+   "name": "M Gallade-EX",
+   "v": "n"
+  },
+  {
+   "n": "082/078",
+   "name": "Latios-EX",
+   "v": "n"
+  },
+  {
+   "n": "083/078",
+   "name": "M Latios-EX",
+   "v": "n"
+  },
+  {
+   "n": "084/078",
+   "name": "Hydreigon-EX",
+   "v": "n"
+  },
+  {
+   "n": "085/078",
+   "name": "Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "086/078",
+   "name": "M Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "087/078",
+   "name": "Shaymin-EX",
+   "v": "n"
+  },
+  {
+   "n": "088/078",
+   "name": "Winona",
+   "v": "n"
+  },
+  {
+   "n": "089/078",
+   "name": "Wally",
+   "v": "n"
+  },
+  {
+   "n": "090/078",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "091/078",
+   "name": "VS Seeker",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,388 @@
+{
+ "id": "S1H",
+ "name": "シールド",
+ "serie": "剣と盾",
+ "serie_id": "S",
+ "date": "2019-12-06",
+ "official": 60,
+ "abbr": "S1H",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/060",
+   "name": "Blipbug",
+   "v": "n"
+  },
+  {
+   "n": "002/060",
+   "name": "Dottler",
+   "v": "n"
+  },
+  {
+   "n": "003/060",
+   "name": "Orbeetle",
+   "v": "n"
+  },
+  {
+   "n": "004/060",
+   "name": "Gossifleur",
+   "v": "n"
+  },
+  {
+   "n": "005/060",
+   "name": "Eldegoss",
+   "v": "n"
+  },
+  {
+   "n": "006/060",
+   "name": "Torkoal V",
+   "v": "n"
+  },
+  {
+   "n": "007/060",
+   "name": "Scorbunny",
+   "v": "n"
+  },
+  {
+   "n": "008/060",
+   "name": "Raboot",
+   "v": "n"
+  },
+  {
+   "n": "009/060",
+   "name": "Cinderace",
+   "v": "n"
+  },
+  {
+   "n": "010/060",
+   "name": "Goldeen",
+   "v": "n"
+  },
+  {
+   "n": "011/060",
+   "name": "Seaking",
+   "v": "n"
+  },
+  {
+   "n": "012/060",
+   "name": "Qwilfish",
+   "v": "n"
+  },
+  {
+   "n": "013/060",
+   "name": "Chewtle",
+   "v": "n"
+  },
+  {
+   "n": "014/060",
+   "name": "Drednaw",
+   "v": "n"
+  },
+  {
+   "n": "015/060",
+   "name": "Snom",
+   "v": "n"
+  },
+  {
+   "n": "016/060",
+   "name": "Frosmoth",
+   "v": "n"
+  },
+  {
+   "n": "017/060",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "018/060",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "019/060",
+   "name": "Morpeko V",
+   "v": "n"
+  },
+  {
+   "n": "020/060",
+   "name": "Morpeko VMAX",
+   "v": "n"
+  },
+  {
+   "n": "021/060",
+   "name": "Galarian Ponyta",
+   "v": "n"
+  },
+  {
+   "n": "022/060",
+   "name": "Galarian Rapidash",
+   "v": "n"
+  },
+  {
+   "n": "023/060",
+   "name": "Munna",
+   "v": "n"
+  },
+  {
+   "n": "024/060",
+   "name": "Musharna",
+   "v": "n"
+  },
+  {
+   "n": "025/060",
+   "name": "Indeedee V",
+   "v": "n"
+  },
+  {
+   "n": "026/060",
+   "name": "Hitmonlee",
+   "v": "n"
+  },
+  {
+   "n": "027/060",
+   "name": "Hitmonchan",
+   "v": "n"
+  },
+  {
+   "n": "028/060",
+   "name": "Rhyhorn",
+   "v": "n"
+  },
+  {
+   "n": "029/060",
+   "name": "Rhydon",
+   "v": "n"
+  },
+  {
+   "n": "030/060",
+   "name": "Rhyperior",
+   "v": "n"
+  },
+  {
+   "n": "031/060",
+   "name": "Silicobra",
+   "v": "n"
+  },
+  {
+   "n": "032/060",
+   "name": "Sandaconda",
+   "v": "n"
+  },
+  {
+   "n": "033/060",
+   "name": "Galarian Zigzagoon",
+   "v": "n"
+  },
+  {
+   "n": "034/060",
+   "name": "Galarian Linoone",
+   "v": "n"
+  },
+  {
+   "n": "035/060",
+   "name": "Galarian Obstagoon",
+   "v": "n"
+  },
+  {
+   "n": "036/060",
+   "name": "Sableye V",
+   "v": "n"
+  },
+  {
+   "n": "037/060",
+   "name": "Skorupi",
+   "v": "n"
+  },
+  {
+   "n": "038/060",
+   "name": "Drapion",
+   "v": "n"
+  },
+  {
+   "n": "039/060",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "040/060",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "041/060",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "042/060",
+   "name": "Cufant",
+   "v": "n"
+  },
+  {
+   "n": "043/060",
+   "name": "Copperajah",
+   "v": "n"
+  },
+  {
+   "n": "044/060",
+   "name": "Zamazenta V",
+   "v": "n"
+  },
+  {
+   "n": "045/060",
+   "name": "Snorlax V",
+   "v": "n"
+  },
+  {
+   "n": "046/060",
+   "name": "Snorlax VMAX",
+   "v": "n"
+  },
+  {
+   "n": "047/060",
+   "name": "Hoothoot",
+   "v": "n"
+  },
+  {
+   "n": "048/060",
+   "name": "Noctowl",
+   "v": "n"
+  },
+  {
+   "n": "049/060",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "050/060",
+   "name": "Wooloo",
+   "v": "n"
+  },
+  {
+   "n": "051/060",
+   "name": "Dubwool",
+   "v": "n"
+  },
+  {
+   "n": "052/060",
+   "name": "Quick Ball",
+   "v": "n"
+  },
+  {
+   "n": "053/060",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "054/060",
+   "name": "Metal Saucer",
+   "v": "n"
+  },
+  {
+   "n": "055/060",
+   "name": "Sitrus Berry",
+   "v": "n"
+  },
+  {
+   "n": "056/060",
+   "name": "Vitality Band",
+   "v": "n"
+  },
+  {
+   "n": "057/060",
+   "name": "Lucky Egg",
+   "v": "n"
+  },
+  {
+   "n": "058/060",
+   "name": "Team Yell Grunt",
+   "v": "n"
+  },
+  {
+   "n": "059/060",
+   "name": "Marnie",
+   "v": "n"
+  },
+  {
+   "n": "060/060",
+   "name": "Aurora Energy",
+   "v": "n"
+  },
+  {
+   "n": "061/060",
+   "name": "Torkoal V",
+   "v": "n"
+  },
+  {
+   "n": "062/060",
+   "name": "Morpeko V",
+   "v": "n"
+  },
+  {
+   "n": "063/060",
+   "name": "Indeedee V",
+   "v": "n"
+  },
+  {
+   "n": "064/060",
+   "name": "Sableye V",
+   "v": "n"
+  },
+  {
+   "n": "065/060",
+   "name": "Zamazenta V",
+   "v": "n"
+  },
+  {
+   "n": "066/060",
+   "name": "Snorlax V",
+   "v": "n"
+  },
+  {
+   "n": "067/060",
+   "name": "Team Yell Grunt",
+   "v": "n"
+  },
+  {
+   "n": "068/060",
+   "name": "Marnie",
+   "v": "n"
+  },
+  {
+   "n": "069/060",
+   "name": "Morpeko VMAX",
+   "v": "n"
+  },
+  {
+   "n": "070/060",
+   "name": "Snorlax VMAX",
+   "v": "n"
+  },
+  {
+   "n": "071/060",
+   "name": "Team Yell Grunt",
+   "v": "n"
+  },
+  {
+   "n": "072/060",
+   "name": "Marnie",
+   "v": "n"
+  },
+  {
+   "n": "073/060",
+   "name": "Zamazenta V",
+   "v": "n"
+  },
+  {
+   "n": "074/060",
+   "name": "Quick Ball",
+   "v": "n"
+  },
+  {
+   "n": "075/060",
+   "name": "Metal Saucer",
+   "v": "n"
+  }
+ ]
+}

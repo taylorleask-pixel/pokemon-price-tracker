@@ -1,0 +1,308 @@
+{
+ "id": "XY11b",
+ "name": "冷酷の反逆者",
+ "serie": "XY BREAK",
+ "serie_id": "XYb",
+ "date": "2016-06-17",
+ "official": 54,
+ "abbr": "XY11b",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/054",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "002/054",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "003/054",
+   "name": "Hoppip",
+   "v": "n"
+  },
+  {
+   "n": "004/054",
+   "name": "Skiploom",
+   "v": "n"
+  },
+  {
+   "n": "005/054",
+   "name": "Jumpluff",
+   "v": "n"
+  },
+  {
+   "n": "006/054",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "007/054",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "008/054",
+   "name": "Yanmega BREAK",
+   "v": "n"
+  },
+  {
+   "n": "009/054",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "010/054",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "011/054",
+   "name": "Chimchar",
+   "v": "n"
+  },
+  {
+   "n": "012/054",
+   "name": "Monferno",
+   "v": "n"
+  },
+  {
+   "n": "013/054",
+   "name": "Infernape",
+   "v": "n"
+  },
+  {
+   "n": "014/054",
+   "name": "Mantine",
+   "v": "n"
+  },
+  {
+   "n": "015/054",
+   "name": "Bergmite",
+   "v": "n"
+  },
+  {
+   "n": "016/054",
+   "name": "Avalugg",
+   "v": "n"
+  },
+  {
+   "n": "017/054",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "018/054",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "019/054",
+   "name": "Ampharos",
+   "v": "n"
+  },
+  {
+   "n": "020/054",
+   "name": "Nidoran ♂",
+   "v": "n"
+  },
+  {
+   "n": "021/054",
+   "name": "Nidorino",
+   "v": "n"
+  },
+  {
+   "n": "022/054",
+   "name": "Nidoking",
+   "v": "n"
+  },
+  {
+   "n": "023/054",
+   "name": "Hoopa",
+   "v": "n"
+  },
+  {
+   "n": "024/054",
+   "name": "Mankey",
+   "v": "n"
+  },
+  {
+   "n": "025/054",
+   "name": "Primeape",
+   "v": "n"
+  },
+  {
+   "n": "026/054",
+   "name": "Anorith",
+   "v": "n"
+  },
+  {
+   "n": "027/054",
+   "name": "Armaldo",
+   "v": "n"
+  },
+  {
+   "n": "028/054",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "029/054",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "030/054",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "031/054",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "032/054",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "033/054",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "034/054",
+   "name": "Yveltal BREAK",
+   "v": "n"
+  },
+  {
+   "n": "035/054",
+   "name": "Magearna-EX",
+   "v": "n"
+  },
+  {
+   "n": "036/054",
+   "name": "Marill",
+   "v": "n"
+  },
+  {
+   "n": "037/054",
+   "name": "Azumarill",
+   "v": "n"
+  },
+  {
+   "n": "038/054",
+   "name": "Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "039/054",
+   "name": "M Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "040/054",
+   "name": "Deino",
+   "v": "n"
+  },
+  {
+   "n": "041/054",
+   "name": "Zweilous",
+   "v": "n"
+  },
+  {
+   "n": "042/054",
+   "name": "Hydreigon",
+   "v": "n"
+  },
+  {
+   "n": "043/054",
+   "name": "Hydreigon BREAK",
+   "v": "n"
+  },
+  {
+   "n": "044/054",
+   "name": "Meowth",
+   "v": "n"
+  },
+  {
+   "n": "045/054",
+   "name": "Persian",
+   "v": "n"
+  },
+  {
+   "n": "046/054",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "047/054",
+   "name": "Braviary",
+   "v": "n"
+  },
+  {
+   "n": "048/054",
+   "name": "Hawlucha",
+   "v": "n"
+  },
+  {
+   "n": "049/054",
+   "name": "Claw Fossil Anorith",
+   "v": "n"
+  },
+  {
+   "n": "050/054",
+   "name": "Special Charge",
+   "v": "n"
+  },
+  {
+   "n": "051/054",
+   "name": "Greedy Dice",
+   "v": "n"
+  },
+  {
+   "n": "052/054",
+   "name": "Gardevoir Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "053/054",
+   "name": "Ninja Boy",
+   "v": "n"
+  },
+  {
+   "n": "054/054",
+   "name": "Pokémon Ranger",
+   "v": "n"
+  },
+  {
+   "n": "055/054",
+   "name": "Magearna-EX",
+   "v": "n"
+  },
+  {
+   "n": "056/054",
+   "name": "Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "057/054",
+   "name": "M Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "058/054",
+   "name": "Pokémon Ranger",
+   "v": "n"
+  },
+  {
+   "n": "059/054",
+   "name": "Gardevoir-EX",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "id": "XY1a",
+ "name": "コレクションX",
+ "serie": "XY",
+ "serie_id": "XY",
+ "date": "2013-12-13",
+ "official": 60,
+ "abbr": "XY1a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/060",
+   "name": "Venusaur-EX",
+   "v": "n"
+  },
+  {
+   "n": "002/060",
+   "name": "M Venusaur-EX",
+   "v": "n"
+  },
+  {
+   "n": "003/060",
+   "name": "Volbeat",
+   "v": "n"
+  },
+  {
+   "n": "004/060",
+   "name": "Pansage",
+   "v": "n"
+  },
+  {
+   "n": "005/060",
+   "name": "Simisage",
+   "v": "n"
+  },
+  {
+   "n": "006/060",
+   "name": "Scatterbug",
+   "v": "n"
+  },
+  {
+   "n": "007/060",
+   "name": "Spewpa",
+   "v": "n"
+  },
+  {
+   "n": "008/060",
+   "name": "Vivillon",
+   "v": "n"
+  },
+  {
+   "n": "009/060",
+   "name": "Skiddo",
+   "v": "n"
+  },
+  {
+   "n": "010/060",
+   "name": "Gogoat",
+   "v": "n"
+  },
+  {
+   "n": "011/060",
+   "name": "Slugma",
+   "v": "n"
+  },
+  {
+   "n": "012/060",
+   "name": "Magcargo",
+   "v": "n"
+  },
+  {
+   "n": "013/060",
+   "name": "Fennekin",
+   "v": "n"
+  },
+  {
+   "n": "014/060",
+   "name": "Braixen",
+   "v": "n"
+  },
+  {
+   "n": "015/060",
+   "name": "Delphox",
+   "v": "n"
+  },
+  {
+   "n": "016/060",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "017/060",
+   "name": "Starmie",
+   "v": "n"
+  },
+  {
+   "n": "018/060",
+   "name": "Corsola",
+   "v": "n"
+  },
+  {
+   "n": "019/060",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "020/060",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "021/060",
+   "name": "Greninja",
+   "v": "n"
+  },
+  {
+   "n": "022/060",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "023/060",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "024/060",
+   "name": "Ekans",
+   "v": "n"
+  },
+  {
+   "n": "025/060",
+   "name": "Arbok",
+   "v": "n"
+  },
+  {
+   "n": "026/060",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "027/060",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "028/060",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "029/060",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "030/060",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "031/060",
+   "name": "Timburr",
+   "v": "n"
+  },
+  {
+   "n": "032/060",
+   "name": "Gurdurr",
+   "v": "n"
+  },
+  {
+   "n": "033/060",
+   "name": "Conkeldurr",
+   "v": "n"
+  },
+  {
+   "n": "034/060",
+   "name": "Sandile",
+   "v": "n"
+  },
+  {
+   "n": "035/060",
+   "name": "Krokorok",
+   "v": "n"
+  },
+  {
+   "n": "036/060",
+   "name": "Krookodile",
+   "v": "n"
+  },
+  {
+   "n": "037/060",
+   "name": "Zorua",
+   "v": "n"
+  },
+  {
+   "n": "038/060",
+   "name": "Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "039/060",
+   "name": "Skarmory-EX",
+   "v": "n"
+  },
+  {
+   "n": "040/060",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "041/060",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "042/060",
+   "name": "Swirlix",
+   "v": "n"
+  },
+  {
+   "n": "043/060",
+   "name": "Slurpuff",
+   "v": "n"
+  },
+  {
+   "n": "044/060",
+   "name": "Xerneas-EX",
+   "v": "n"
+  },
+  {
+   "n": "045/060",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "046/060",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "047/060",
+   "name": "Taillow",
+   "v": "n"
+  },
+  {
+   "n": "048/060",
+   "name": "Swellow",
+   "v": "n"
+  },
+  {
+   "n": "049/060",
+   "name": "Lillipup",
+   "v": "n"
+  },
+  {
+   "n": "050/060",
+   "name": "Herdier",
+   "v": "n"
+  },
+  {
+   "n": "051/060",
+   "name": "Stoutland",
+   "v": "n"
+  },
+  {
+   "n": "052/060",
+   "name": "Bunnelby",
+   "v": "n"
+  },
+  {
+   "n": "053/060",
+   "name": "Diggersby",
+   "v": "n"
+  },
+  {
+   "n": "054/060",
+   "name": "Max Revive",
+   "v": "n"
+  },
+  {
+   "n": "055/060",
+   "name": "Evosoda",
+   "v": "n"
+  },
+  {
+   "n": "056/060",
+   "name": "Roller Skates",
+   "v": "n"
+  },
+  {
+   "n": "057/060",
+   "name": "Muscle Band",
+   "v": "n"
+  },
+  {
+   "n": "058/060",
+   "name": "Professor Sycamore",
+   "v": "n"
+  },
+  {
+   "n": "059/060",
+   "name": "Team Flare Grunt",
+   "v": "n"
+  },
+  {
+   "n": "060/060",
+   "name": "Rainbow Energy",
+   "v": "n"
+  },
+  {
+   "n": "061/060",
+   "name": "Venusaur-EX",
+   "v": "n"
+  },
+  {
+   "n": "062/060",
+   "name": "Skarmory-EX",
+   "v": "n"
+  },
+  {
+   "n": "063/060",
+   "name": "Xerneas-EX",
+   "v": "n"
+  }
+ ]
+}

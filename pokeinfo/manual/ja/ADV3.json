@@ -1,0 +1,283 @@
+{
+ "id": "ADV3",
+ "name": "天空の覇者",
+ "serie": "ADV",
+ "serie_id": "ADV",
+ "date": "2003-06-25",
+ "official": 54,
+ "abbr": "ADV3",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/054",
+   "name": "Grimer",
+   "v": "n"
+  },
+  {
+   "n": "002/054",
+   "name": "Muk ex",
+   "v": "n"
+  },
+  {
+   "n": "003/054",
+   "name": "Wurmple",
+   "v": "n"
+  },
+  {
+   "n": "004/054",
+   "name": "Nincada",
+   "v": "n"
+  },
+  {
+   "n": "005/054",
+   "name": "Ninjask",
+   "v": "n"
+  },
+  {
+   "n": "006/054",
+   "name": "Shedinja",
+   "v": "n"
+  },
+  {
+   "n": "007/054",
+   "name": "Roselia",
+   "v": "n"
+  },
+  {
+   "n": "008/054",
+   "name": "Slugma",
+   "v": "n"
+  },
+  {
+   "n": "009/054",
+   "name": "Magcargo ex",
+   "v": "n"
+  },
+  {
+   "n": "010/054",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "011/054",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "012/054",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "013/054",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "014/054",
+   "name": "Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "015/054",
+   "name": "Kingdra ex",
+   "v": "n"
+  },
+  {
+   "n": "016/054",
+   "name": "Barboach",
+   "v": "n"
+  },
+  {
+   "n": "017/054",
+   "name": "Whiscash",
+   "v": "n"
+  },
+  {
+   "n": "018/054",
+   "name": "Corphish",
+   "v": "n"
+  },
+  {
+   "n": "019/054",
+   "name": "Crawdaunt",
+   "v": "n"
+  },
+  {
+   "n": "020/054",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "021/054",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "022/054",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "023/054",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "024/054",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "025/054",
+   "name": "Ampharos ex",
+   "v": "n"
+  },
+  {
+   "n": "026/054",
+   "name": "Plusle",
+   "v": "n"
+  },
+  {
+   "n": "027/054",
+   "name": "Minun",
+   "v": "n"
+  },
+  {
+   "n": "028/054",
+   "name": "Girafarig",
+   "v": "n"
+  },
+  {
+   "n": "029/054",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "030/054",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "031/054",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "032/054",
+   "name": "Geodude",
+   "v": "n"
+  },
+  {
+   "n": "033/054",
+   "name": "Graveler",
+   "v": "n"
+  },
+  {
+   "n": "034/054",
+   "name": "Golem",
+   "v": "n"
+  },
+  {
+   "n": "035/054",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "036/054",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "037/054",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "038/054",
+   "name": "Dragonite ex",
+   "v": "n"
+  },
+  {
+   "n": "039/054",
+   "name": "Taillow",
+   "v": "n"
+  },
+  {
+   "n": "040/054",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "041/054",
+   "name": "Flygon",
+   "v": "n"
+  },
+  {
+   "n": "042/054",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "043/054",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "044/054",
+   "name": "Bagon",
+   "v": "n"
+  },
+  {
+   "n": "045/054",
+   "name": "Shelgon",
+   "v": "n"
+  },
+  {
+   "n": "046/054",
+   "name": "Salamence",
+   "v": "n"
+  },
+  {
+   "n": "047/054",
+   "name": "Rayquaza ex",
+   "v": "n"
+  },
+  {
+   "n": "048/054",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "049/054",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "050/054",
+   "name": "Energy Recycle System",
+   "v": "n"
+  },
+  {
+   "n": "051/054",
+   "name": "TV Reporter",
+   "v": "n"
+  },
+  {
+   "n": "052/054",
+   "name": "Mr. Briney's Compassion",
+   "v": "n"
+  },
+  {
+   "n": "053/054",
+   "name": "Balloon Berry",
+   "v": "n"
+  },
+  {
+   "n": "054/054",
+   "name": "Buffer Piece",
+   "v": "n"
+  }
+ ]
+}

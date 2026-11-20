@@ -1,0 +1,138 @@
+{
+ "id": "SMP2",
+ "name": "名探偵ピカチュウ",
+ "serie": "サン＆ムーン",
+ "serie_id": "SM",
+ "date": "2019-04-26",
+ "official": 24,
+ "abbr": "SMP2",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/024",
+   "name": "Bulbasaur",
+   "v": "n"
+  },
+  {
+   "n": "002/024",
+   "name": "Bulbasaur",
+   "v": "n"
+  },
+  {
+   "n": "003/024",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "004/024",
+   "name": "Morelull",
+   "v": "n"
+  },
+  {
+   "n": "005/024",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "006/024",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "007/024",
+   "name": "Charizard-GX",
+   "v": "n"
+  },
+  {
+   "n": "008/024",
+   "name": "Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "009/024",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "010/024",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "011/024",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "012/024",
+   "name": "Greninja",
+   "v": "n"
+  },
+  {
+   "n": "013/024",
+   "name": "Greninja-GX",
+   "v": "n"
+  },
+  {
+   "n": "014/024",
+   "name": "Detective Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "015/024",
+   "name": "Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "016/024",
+   "name": "Mewtwo",
+   "v": "n"
+  },
+  {
+   "n": "017/024",
+   "name": "Mewtwo-GX",
+   "v": "n"
+  },
+  {
+   "n": "018/024",
+   "name": "Machamp",
+   "v": "n"
+  },
+  {
+   "n": "019/024",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "020/024",
+   "name": "Snubbull",
+   "v": "n"
+  },
+  {
+   "n": "021/024",
+   "name": "Snubbull",
+   "v": "n"
+  },
+  {
+   "n": "022/024",
+   "name": "Lickitung",
+   "v": "n"
+  },
+  {
+   "n": "023/024",
+   "name": "Ditto",
+   "v": "n"
+  },
+  {
+   "n": "024/024",
+   "name": "Slaking",
+   "v": "n"
+  },
+  {
+   "n": "025/024",
+   "name": "Lt. Yoshida",
+   "v": "n"
+  }
+ ]
+}

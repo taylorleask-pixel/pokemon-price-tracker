@@ -1,0 +1,950 @@
+{
+ "ja": {
+  "M6a": {
+   "logo": "img/logos/ja/M6a.webp"
+  },
+  "M6": {
+   "logo": "img/logos/ja/M6.webp"
+  },
+  "M5": {
+   "logo": "img/logos/ja/M5.webp"
+  },
+  "M4": {
+   "logo": "img/logos/ja/M4.webp"
+  },
+  "M3": {
+   "logo": "img/logos/ja/M3.webp"
+  },
+  "M2a": {
+   "logo": "img/logos/ja/M2a.webp"
+  },
+  "M2": {
+   "logo": "img/logos/ja/M2.webp"
+  },
+  "M1S": {
+   "logo": "img/logos/ja/M1S.webp"
+  },
+  "M1L": {
+   "logo": "img/logos/ja/M1L.webp"
+  },
+  "SV11W": {
+   "logo": "img/logos/ja/SV11W.webp"
+  },
+  "SV11B": {
+   "logo": "img/logos/ja/SV11B.webp"
+  },
+  "SV10": {
+   "logo": "img/logos/ja/SV10.webp"
+  },
+  "SV9a": {
+   "logo": "img/logos/ja/SV9a.webp"
+  },
+  "SV9": {
+   "logo": "img/logos/ja/SV9.webp"
+  },
+  "SV8a": {
+   "logo": "img/logos/ja/SV8a.webp"
+  },
+  "SV8": {
+   "logo": "img/logos/ja/SV8.webp"
+  },
+  "SV7a": {
+   "logo": "img/logos/ja/SV7a.webp"
+  },
+  "SV7": {
+   "logo": "img/logos/ja/SV7.webp"
+  },
+  "SV6a": {
+   "logo": "img/logos/ja/SV6a.webp"
+  },
+  "SV6": {
+   "logo": "img/logos/ja/SV6.webp"
+  },
+  "SV5a": {
+   "logo": "img/logos/ja/SV5a.webp"
+  },
+  "SV5M": {
+   "logo": "img/logos/ja/SV5M.webp"
+  },
+  "SV5K": {
+   "logo": "img/logos/ja/SV5K.webp"
+  },
+  "SV4a": {
+   "logo": "img/logos/ja/SV4a.webp"
+  },
+  "SV4M": {
+   "logo": "img/logos/ja/SV4M.webp"
+  },
+  "SV4K": {
+   "logo": "img/logos/ja/SV4K.webp"
+  },
+  "SV3": {
+   "logo": "img/logos/ja/SV3.webp"
+  },
+  "SV2a": {
+   "logo": "img/logos/ja/SV2a.webp"
+  },
+  "SV2D": {
+   "logo": "img/logos/ja/SV2D.webp"
+  },
+  "SV2P": {
+   "logo": "img/logos/ja/SV2P.webp"
+  },
+  "SV1a": {
+   "logo": "img/logos/ja/SV1a.webp"
+  },
+  "SV1V": {
+   "logo": "img/logos/ja/SV1V.webp"
+  },
+  "SV1S": {
+   "logo": "img/logos/ja/SV1S.webp"
+  },
+  "S12a": {
+   "logo": "img/logos/ja/S12a.webp"
+  },
+  "S12": {
+   "logo": "img/logos/ja/S12.webp"
+  },
+  "S11a": {
+   "logo": "img/logos/ja/S11a.webp"
+  },
+  "S11": {
+   "logo": "img/logos/ja/S11.webp"
+  },
+  "S10a": {
+   "logo": "img/logos/ja/S10a.webp"
+  },
+  "S10P": {
+   "logo": "img/logos/ja/S10P.webp"
+  },
+  "S10D": {
+   "logo": "img/logos/ja/S10D.webp"
+  },
+  "S9a": {
+   "logo": "img/logos/ja/S9a.webp"
+  },
+  "S9": {
+   "logo": "img/logos/ja/S9.webp"
+  },
+  "S8b": {
+   "logo": "img/logos/ja/S8b.webp"
+  },
+  "S8a": {
+   "logo": "img/logos/ja/S8a.webp"
+  },
+  "S8": {
+   "logo": "img/logos/ja/S8.webp"
+  },
+  "S7R": {
+   "logo": "img/logos/ja/S7R.webp"
+  },
+  "S7D": {
+   "logo": "img/logos/ja/S7D.webp"
+  },
+  "S6a": {
+   "logo": "img/logos/ja/S6a.webp"
+  },
+  "S6K": {
+   "logo": "img/logos/ja/S6K.webp"
+  },
+  "S6H": {
+   "logo": "img/logos/ja/S6H.webp"
+  },
+  "S5a": {
+   "logo": "img/logos/ja/S5a.webp"
+  },
+  "S5R": {
+   "logo": "img/logos/ja/S5R.webp"
+  },
+  "S5I": {
+   "logo": "img/logos/ja/S5I.webp"
+  },
+  "S4a": {
+   "logo": "img/logos/ja/S4a.webp"
+  },
+  "S4": {
+   "logo": "img/logos/ja/S4.webp"
+  },
+  "S3a": {
+   "logo": "img/logos/ja/S3a.webp"
+  },
+  "S3": {
+   "logo": "img/logos/ja/S3.webp"
+  },
+  "S2a": {
+   "logo": "img/logos/ja/S2a.webp"
+  },
+  "S2": {
+   "logo": "img/logos/ja/S2.webp"
+  },
+  "S1a": {
+   "logo": "img/logos/ja/S1a.webp"
+  },
+  "S1H": {
+   "logo": "img/logos/ja/S1H.webp"
+  },
+  "S1W": {
+   "logo": "img/logos/ja/S1W.webp"
+  },
+  "SM12a": {
+   "logo": "img/logos/ja/SM12a.webp"
+  },
+  "SM12": {
+   "logo": "img/logos/ja/SM12.webp"
+  },
+  "SM11b": {
+   "logo": "img/logos/ja/SM11b.webp"
+  },
+  "SM11a": {
+   "logo": "img/logos/ja/SM11a.webp"
+  },
+  "SM11": {
+   "logo": "img/logos/ja/SM11.webp"
+  },
+  "SMP2": {
+   "logo": "img/logos/ja/SMP2.webp"
+  },
+  "SM10b": {
+   "logo": "img/logos/ja/SM10b.webp"
+  },
+  "SM10a": {
+   "logo": "img/logos/ja/SM10a.webp"
+  },
+  "SM10": {
+   "logo": "img/logos/ja/SM10.webp"
+  },
+  "SM9b": {
+   "logo": "img/logos/ja/SM9b.webp"
+  },
+  "SM9a": {
+   "logo": "img/logos/ja/SM9a.webp"
+  },
+  "SM9": {
+   "logo": "img/logos/ja/SM9.webp"
+  },
+  "SM8b": {
+   "logo": "img/logos/ja/SM8b.webp"
+  },
+  "SM8a": {
+   "logo": "img/logos/ja/SM8a.webp"
+  },
+  "SM7b": {
+   "logo": "img/logos/ja/SM7b.webp"
+  },
+  "SM7a": {
+   "logo": "img/logos/ja/SM7a.webp"
+  },
+  "SM6b": {
+   "logo": "img/logos/ja/SM6b.webp"
+  },
+  "SM6a": {
+   "logo": "img/logos/ja/SM6a.webp"
+  },
+  "SM5p": {
+   "logo": "img/logos/ja/SM5p.webp"
+  },
+  "SM5M": {
+   "logo": "img/logos/ja/SM5M.webp"
+  },
+  "SM5S": {
+   "logo": "img/logos/ja/SM5S.webp"
+  },
+  "SM4p": {
+   "logo": "img/logos/ja/SM4p.webp"
+  },
+  "SM4A": {
+   "logo": "img/logos/ja/SM4A.webp"
+  },
+  "SM4S": {
+   "logo": "img/logos/ja/SM4S.webp"
+  },
+  "SM3p": {
+   "logo": "img/logos/ja/SM3p.webp"
+  },
+  "SM2p": {
+   "logo": "img/logos/ja/SM2p.webp"
+  },
+  "SM2K": {
+   "logo": "img/logos/ja/SM2K.webp"
+  },
+  "SM2L": {
+   "logo": "img/logos/ja/SM2L.webp"
+  },
+  "SM1M": {
+   "logo": "img/logos/ja/SM1M.webp"
+  },
+  "SM1S": {
+   "logo": "img/logos/ja/SM1S.webp"
+  },
+  "CP6": {
+   "logo": "img/logos/ja/CP6.webp"
+  },
+  "XY11b": {
+   "logo": "img/logos/ja/XY11b.webp"
+  },
+  "XY11a": {
+   "logo": "img/logos/ja/XY11a.webp"
+  },
+  "CP4": {
+   "logo": "img/logos/ja/CP4.webp"
+  },
+  "XY10": {
+   "logo": "img/logos/ja/XY10.webp"
+  },
+  "CP3": {
+   "logo": "img/logos/ja/CP3.webp"
+  },
+  "XY9": {
+   "logo": "img/logos/ja/XY9.webp"
+  },
+  "XY8b": {
+   "logo": "img/logos/ja/XY8b.webp"
+  },
+  "XY8a": {
+   "logo": "img/logos/ja/XY8a.webp"
+  },
+  "CP2": {
+   "logo": "img/logos/ja/CP2.webp"
+  },
+  "XY7": {
+   "logo": "img/logos/ja/XY7.webp"
+  },
+  "XY6": {
+   "logo": "img/logos/ja/XY6.webp"
+  },
+  "CP1": {
+   "logo": "img/logos/ja/CP1.webp"
+  },
+  "XY5b": {
+   "logo": "img/logos/ja/XY5b.webp"
+  },
+  "XY5a": {
+   "logo": "img/logos/ja/XY5a.webp"
+  },
+  "XY4": {
+   "logo": "img/logos/ja/XY4.webp"
+  },
+  "XY3": {
+   "logo": "img/logos/ja/XY3.webp"
+  },
+  "XY2": {
+   "logo": "img/logos/ja/XY2.webp"
+  },
+  "XY1b": {
+   "logo": "img/logos/ja/XY1b.webp"
+  },
+  "XY1a": {
+   "logo": "img/logos/ja/XY1a.webp"
+  },
+  "EBB": {
+   "logo": "img/logos/ja/EBB.webp"
+  },
+  "BW9": {
+   "logo": "img/logos/ja/BW9.webp"
+  },
+  "SC": {
+   "logo": "img/logos/ja/SC.webp"
+  },
+  "BW8b": {
+   "logo": "img/logos/ja/BW8b.webp"
+  },
+  "BW8a": {
+   "logo": "img/logos/ja/BW8a.webp"
+  },
+  "BW7": {
+   "logo": "img/logos/ja/BW7.webp"
+  },
+  "BW6a": {
+   "logo": "img/logos/ja/BW6a.webp"
+  },
+  "BW5a": {
+   "logo": "img/logos/ja/BW5a.webp"
+  },
+  "BW5b": {
+   "logo": "img/logos/ja/BW5b.webp"
+  },
+  "DS": {
+   "logo": "img/logos/ja/DS.webp"
+  },
+  "BW4": {
+   "logo": "img/logos/ja/BW4.webp"
+  },
+  "BW3a": {
+   "logo": "img/logos/ja/BW3a.webp"
+  },
+  "BW3b": {
+   "logo": "img/logos/ja/BW3b.webp"
+  },
+  "BW2": {
+   "logo": "img/logos/ja/BW2.webp"
+  },
+  "BW1b": {
+   "logo": "img/logos/ja/BW1b.webp"
+  },
+  "BW1a": {
+   "logo": "img/logos/ja/BW1a.webp"
+  },
+  "LL": {
+   "logo": "img/logos/ja/LL.webp"
+  },
+  "L2": {
+   "logo": "img/logos/ja/L2.webp"
+  },
+  "L1b": {
+   "logo": "img/logos/ja/L1b.webp"
+  },
+  "L1a": {
+   "logo": "img/logos/ja/L1a.webp"
+  },
+  "S10b": {
+   "logo": "img/logos/ja/S10b.webp"
+  },
+  "SM8": {
+   "logo": "img/logos/ja/SM8.webp"
+  },
+  "SM7": {
+   "logo": "img/logos/ja/SM7.webp"
+  },
+  "SM3N": {
+   "logo": "img/logos/ja/SM3N.webp"
+  },
+  "SM3H": {
+   "logo": "img/logos/ja/SM3H.webp"
+  },
+  "SM1p": {
+   "logo": "img/logos/ja/SM1p.webp"
+  },
+  "BW6b": {
+   "logo": "img/logos/ja/BW6b.webp"
+  },
+  "L3": {
+   "logo": "img/logos/ja/L3.webp"
+  },
+  "VS1": {
+   "logo": "img/logos/ja/VS1.webp"
+  }
+ },
+ "en": {
+  "me06": {
+   "logo": "img/logos/en/me06.webp",
+   "symbol": "img/symbols/en/me06.webp"
+  },
+  "30th": {
+   "logo": "img/logos/en/30th.webp",
+   "symbol": "img/symbols/en/30th.webp"
+  },
+  "me05": {
+   "logo": "img/logos/en/me05.webp",
+   "symbol": "img/symbols/en/me05.webp"
+  },
+  "me04": {
+   "logo": "img/logos/en/me04.webp",
+   "symbol": "img/symbols/en/me04.webp"
+  },
+  "me03": {
+   "logo": "img/logos/en/me03.webp",
+   "symbol": "img/symbols/en/me03.webp"
+  },
+  "me02.5": {
+   "logo": "img/logos/en/me02.5.webp",
+   "symbol": "img/symbols/en/me02.5.webp"
+  },
+  "me02": {
+   "logo": "img/logos/en/me02.webp",
+   "symbol": "img/symbols/en/me02.webp"
+  },
+  "me01": {
+   "logo": "img/logos/en/me01.webp",
+   "symbol": "img/symbols/en/me01.webp"
+  },
+  "sv10.5w": {
+   "logo": "img/logos/en/sv10.5w.webp",
+   "symbol": "img/symbols/en/sv10.5w.webp"
+  },
+  "sv10.5b": {
+   "logo": "img/logos/en/sv10.5b.webp",
+   "symbol": "img/symbols/en/sv10.5b.webp"
+  },
+  "sv10": {
+   "logo": "img/logos/en/sv10.webp",
+   "symbol": "img/symbols/en/sv10.webp"
+  },
+  "sv09": {
+   "logo": "img/logos/en/sv09.webp",
+   "symbol": "img/symbols/en/sv09.webp"
+  },
+  "sv08.5": {
+   "logo": "img/logos/en/sv08.5.webp",
+   "symbol": "img/symbols/en/sv08.5.webp"
+  },
+  "sv08": {
+   "logo": "img/logos/en/sv08.webp",
+   "symbol": "img/symbols/en/sv08.webp"
+  },
+  "sv07": {
+   "logo": "img/logos/en/sv07.webp",
+   "symbol": "img/symbols/en/sv07.webp"
+  },
+  "sv06.5": {
+   "logo": "img/logos/en/sv06.5.webp",
+   "symbol": "img/symbols/en/sv06.5.webp"
+  },
+  "sv06": {
+   "logo": "img/logos/en/sv06.webp",
+   "symbol": "img/symbols/en/sv06.webp"
+  },
+  "sv05": {
+   "logo": "img/logos/en/sv05.webp",
+   "symbol": "img/symbols/en/sv05.webp"
+  },
+  "sv04.5": {
+   "logo": "img/logos/en/sv04.5.webp",
+   "symbol": "img/symbols/en/sv04.5.webp"
+  },
+  "sv04": {
+   "logo": "img/logos/en/sv04.webp",
+   "symbol": "img/symbols/en/sv04.webp"
+  },
+  "sv03.5": {
+   "logo": "img/logos/en/sv03.5.webp",
+   "symbol": "img/symbols/en/sv03.5.webp"
+  },
+  "sv03": {
+   "logo": "img/logos/en/sv03.webp",
+   "symbol": "img/symbols/en/sv03.webp"
+  },
+  "sv02": {
+   "logo": "img/logos/en/sv02.webp",
+   "symbol": "img/symbols/en/sv02.webp"
+  },
+  "sv01": {
+   "logo": "img/logos/en/sv01.webp",
+   "symbol": "img/symbols/en/sv01.webp"
+  },
+  "swsh12.5": {
+   "logo": "img/logos/en/swsh12.5.webp",
+   "symbol": "img/symbols/en/swsh12.5.webp"
+  },
+  "swsh12": {
+   "logo": "img/logos/en/swsh12.webp",
+   "symbol": "img/symbols/en/swsh12.webp"
+  },
+  "swsh11": {
+   "logo": "img/logos/en/swsh11.webp",
+   "symbol": "img/symbols/en/swsh11.webp"
+  },
+  "swsh10.5": {
+   "logo": "img/logos/en/swsh10.5.webp",
+   "symbol": "img/symbols/en/swsh10.5.webp"
+  },
+  "swsh10": {
+   "logo": "img/logos/en/swsh10.webp",
+   "symbol": "img/symbols/en/swsh10.webp"
+  },
+  "swsh9": {
+   "logo": "img/logos/en/swsh9.webp",
+   "symbol": "img/symbols/en/swsh9.webp"
+  },
+  "swsh8": {
+   "logo": "img/logos/en/swsh8.webp",
+   "symbol": "img/symbols/en/swsh8.webp"
+  },
+  "cel25": {
+   "logo": "img/logos/en/cel25.webp",
+   "symbol": "img/symbols/en/cel25.webp"
+  },
+  "swsh7": {
+   "logo": "img/logos/en/swsh7.webp",
+   "symbol": "img/symbols/en/swsh7.webp"
+  },
+  "swsh6": {
+   "logo": "img/logos/en/swsh6.webp",
+   "symbol": "img/symbols/en/swsh6.webp"
+  },
+  "swsh5": {
+   "logo": "img/logos/en/swsh5.webp",
+   "symbol": "img/symbols/en/swsh5.webp"
+  },
+  "swsh4.5": {
+   "logo": "img/logos/en/swsh4.5.webp",
+   "symbol": "img/symbols/en/swsh4.5.webp"
+  },
+  "swsh4": {
+   "logo": "img/logos/en/swsh4.webp",
+   "symbol": "img/symbols/en/swsh4.webp"
+  },
+  "swsh3.5": {
+   "logo": "img/logos/en/swsh3.5.webp",
+   "symbol": "img/symbols/en/swsh3.5.webp"
+  },
+  "swsh3": {
+   "logo": "img/logos/en/swsh3.webp",
+   "symbol": "img/symbols/en/swsh3.webp"
+  },
+  "swsh2": {
+   "logo": "img/logos/en/swsh2.webp",
+   "symbol": "img/symbols/en/swsh2.webp"
+  },
+  "swsh1": {
+   "logo": "img/logos/en/swsh1.webp",
+   "symbol": "img/symbols/en/swsh1.webp"
+  },
+  "sm12": {
+   "logo": "img/logos/en/sm12.webp",
+   "symbol": "img/symbols/en/sm12.webp"
+  },
+  "sm115": {
+   "logo": "img/logos/en/sm115.webp",
+   "symbol": "img/symbols/en/sm115.webp"
+  },
+  "sm11": {
+   "logo": "img/logos/en/sm11.webp",
+   "symbol": "img/symbols/en/sm11.webp"
+  },
+  "sm10": {
+   "logo": "img/logos/en/sm10.webp",
+   "symbol": "img/symbols/en/sm10.webp"
+  },
+  "det1": {
+   "logo": "img/logos/en/det1.webp",
+   "symbol": "img/symbols/en/det1.webp"
+  },
+  "sm9": {
+   "logo": "img/logos/en/sm9.webp",
+   "symbol": "img/symbols/en/sm9.webp"
+  },
+  "sm8": {
+   "logo": "img/logos/en/sm8.webp",
+   "symbol": "img/symbols/en/sm8.webp"
+  },
+  "sm7.5": {
+   "logo": "img/logos/en/sm7.5.webp",
+   "symbol": "img/symbols/en/sm7.5.webp"
+  },
+  "sm7": {
+   "logo": "img/logos/en/sm7.webp",
+   "symbol": "img/symbols/en/sm7.webp"
+  },
+  "sm6": {
+   "logo": "img/logos/en/sm6.webp",
+   "symbol": "img/symbols/en/sm6.webp"
+  },
+  "sm5": {
+   "logo": "img/logos/en/sm5.webp",
+   "symbol": "img/symbols/en/sm5.webp"
+  },
+  "sm4": {
+   "logo": "img/logos/en/sm4.webp",
+   "symbol": "img/symbols/en/sm4.webp"
+  },
+  "sm3.5": {
+   "logo": "img/logos/en/sm3.5.webp",
+   "symbol": "img/symbols/en/sm3.5.webp"
+  },
+  "sm3": {
+   "logo": "img/logos/en/sm3.webp",
+   "symbol": "img/symbols/en/sm3.webp"
+  },
+  "sm2": {
+   "logo": "img/logos/en/sm2.webp",
+   "symbol": "img/symbols/en/sm2.webp"
+  },
+  "sm1": {
+   "logo": "img/logos/en/sm1.webp",
+   "symbol": "img/symbols/en/sm1.webp"
+  },
+  "xy12": {
+   "logo": "img/logos/en/xy12.webp",
+   "symbol": "img/symbols/en/xy12.webp"
+  },
+  "xy11": {
+   "logo": "img/logos/en/xy11.webp",
+   "symbol": "img/symbols/en/xy11.webp"
+  },
+  "xy10": {
+   "logo": "img/logos/en/xy10.webp",
+   "symbol": "img/symbols/en/xy10.webp"
+  },
+  "g1": {
+   "logo": "img/logos/en/g1.webp",
+   "symbol": "img/symbols/en/g1.webp"
+  },
+  "xy9": {
+   "logo": "img/logos/en/xy9.webp",
+   "symbol": "img/symbols/en/xy9.webp"
+  },
+  "xy8": {
+   "logo": "img/logos/en/xy8.webp",
+   "symbol": "img/symbols/en/xy8.webp"
+  },
+  "xy7": {
+   "logo": "img/logos/en/xy7.webp",
+   "symbol": "img/symbols/en/xy7.webp"
+  },
+  "xy6": {
+   "logo": "img/logos/en/xy6.webp",
+   "symbol": "img/symbols/en/xy6.webp"
+  },
+  "dc1": {
+   "logo": "img/logos/en/dc1.webp",
+   "symbol": "img/symbols/en/dc1.webp"
+  },
+  "xy5": {
+   "logo": "img/logos/en/xy5.webp",
+   "symbol": "img/symbols/en/xy5.webp"
+  },
+  "xy4": {
+   "logo": "img/logos/en/xy4.webp",
+   "symbol": "img/symbols/en/xy4.webp"
+  },
+  "xy3": {
+   "logo": "img/logos/en/xy3.webp",
+   "symbol": "img/symbols/en/xy3.webp"
+  },
+  "xy2": {
+   "logo": "img/logos/en/xy2.webp",
+   "symbol": "img/symbols/en/xy2.webp"
+  },
+  "xy1": {
+   "logo": "img/logos/en/xy1.webp",
+   "symbol": "img/symbols/en/xy1.webp"
+  },
+  "bw11": {
+   "logo": "img/logos/en/bw11.webp",
+   "symbol": "img/symbols/en/bw11.webp"
+  },
+  "bw10": {
+   "logo": "img/logos/en/bw10.webp",
+   "symbol": "img/symbols/en/bw10.webp"
+  },
+  "bw9": {
+   "logo": "img/logos/en/bw9.webp",
+   "symbol": "img/symbols/en/bw9.webp"
+  },
+  "bw8": {
+   "logo": "img/logos/en/bw8.webp",
+   "symbol": "img/symbols/en/bw8.webp"
+  },
+  "bw7": {
+   "logo": "img/logos/en/bw7.webp",
+   "symbol": "img/symbols/en/bw7.webp"
+  },
+  "dv1": {
+   "logo": "img/logos/en/dv1.webp",
+   "symbol": "img/symbols/en/dv1.webp"
+  },
+  "bw6": {
+   "logo": "img/logos/en/bw6.webp",
+   "symbol": "img/symbols/en/bw6.webp"
+  },
+  "bw5": {
+   "logo": "img/logos/en/bw5.webp",
+   "symbol": "img/symbols/en/bw5.webp"
+  },
+  "bw4": {
+   "logo": "img/logos/en/bw4.webp",
+   "symbol": "img/symbols/en/bw4.webp"
+  },
+  "bw3": {
+   "logo": "img/logos/en/bw3.webp",
+   "symbol": "img/symbols/en/bw3.webp"
+  },
+  "bw2": {
+   "logo": "img/logos/en/bw2.webp",
+   "symbol": "img/symbols/en/bw2.webp"
+  },
+  "bw1": {
+   "logo": "img/logos/en/bw1.webp",
+   "symbol": "img/symbols/en/bw1.webp"
+  },
+  "col1": {
+   "logo": "img/logos/en/col1.webp",
+   "symbol": "img/symbols/en/col1.webp"
+  },
+  "hgss4": {
+   "logo": "img/logos/en/hgss4.webp",
+   "symbol": "img/symbols/en/hgss4.webp"
+  },
+  "hgss3": {
+   "logo": "img/logos/en/hgss3.webp",
+   "symbol": "img/symbols/en/hgss3.webp"
+  },
+  "hgss2": {
+   "logo": "img/logos/en/hgss2.webp",
+   "symbol": "img/symbols/en/hgss2.webp"
+  },
+  "hgss1": {
+   "logo": "img/logos/en/hgss1.webp",
+   "symbol": "img/symbols/en/hgss1.webp"
+  },
+  "pl4": {
+   "logo": "img/logos/en/pl4.webp",
+   "symbol": "img/symbols/en/pl4.webp"
+  },
+  "pl3": {
+   "logo": "img/logos/en/pl3.webp",
+   "symbol": "img/symbols/en/pl3.webp"
+  },
+  "pl2": {
+   "logo": "img/logos/en/pl2.webp",
+   "symbol": "img/symbols/en/pl2.webp"
+  },
+  "pl1": {
+   "logo": "img/logos/en/pl1.webp",
+   "symbol": "img/symbols/en/pl1.webp"
+  },
+  "dp7": {
+   "logo": "img/logos/en/dp7.webp",
+   "symbol": "img/symbols/en/dp7.webp"
+  },
+  "dp6": {
+   "logo": "img/logos/en/dp6.webp",
+   "symbol": "img/symbols/en/dp6.webp"
+  },
+  "dp5": {
+   "logo": "img/logos/en/dp5.webp",
+   "symbol": "img/symbols/en/dp5.webp"
+  },
+  "dp4": {
+   "logo": "img/logos/en/dp4.webp",
+   "symbol": "img/symbols/en/dp4.webp"
+  },
+  "dp3": {
+   "logo": "img/logos/en/dp3.webp",
+   "symbol": "img/symbols/en/dp3.webp"
+  },
+  "dp2": {
+   "logo": "img/logos/en/dp2.webp",
+   "symbol": "img/symbols/en/dp2.webp"
+  },
+  "dp1": {
+   "logo": "img/logos/en/dp1.webp",
+   "symbol": "img/symbols/en/dp1.webp"
+  },
+  "ex15": {
+   "logo": "img/logos/en/ex15.webp",
+   "symbol": "img/symbols/en/ex15.webp"
+  },
+  "ex14": {
+   "logo": "img/logos/en/ex14.webp",
+   "symbol": "img/symbols/en/ex14.webp"
+  },
+  "ex13": {
+   "logo": "img/logos/en/ex13.webp",
+   "symbol": "img/symbols/en/ex13.webp"
+  },
+  "ex12": {
+   "logo": "img/logos/en/ex12.webp",
+   "symbol": "img/symbols/en/ex12.webp"
+  },
+  "ex11": {
+   "logo": "img/logos/en/ex11.webp",
+   "symbol": "img/symbols/en/ex11.webp"
+  },
+  "ex10": {
+   "logo": "img/logos/en/ex10.webp",
+   "symbol": "img/symbols/en/ex10.webp"
+  },
+  "ex9": {
+   "logo": "img/logos/en/ex9.webp",
+   "symbol": "img/symbols/en/ex9.webp"
+  },
+  "ex8": {
+   "logo": "img/logos/en/ex8.webp",
+   "symbol": "img/symbols/en/ex8.webp"
+  },
+  "ex7": {
+   "logo": "img/logos/en/ex7.webp",
+   "symbol": "img/symbols/en/ex7.webp"
+  },
+  "ex6": {
+   "logo": "img/logos/en/ex6.webp",
+   "symbol": "img/symbols/en/ex6.webp"
+  },
+  "ex5": {
+   "logo": "img/logos/en/ex5.webp",
+   "symbol": "img/symbols/en/ex5.webp"
+  },
+  "ex4": {
+   "logo": "img/logos/en/ex4.webp",
+   "symbol": "img/symbols/en/ex4.webp"
+  },
+  "ex3": {
+   "logo": "img/logos/en/ex3.webp",
+   "symbol": "img/symbols/en/ex3.webp"
+  },
+  "ex2": {
+   "logo": "img/logos/en/ex2.webp",
+   "symbol": "img/symbols/en/ex2.webp"
+  },
+  "ex1": {
+   "logo": "img/logos/en/ex1.webp",
+   "symbol": "img/symbols/en/ex1.webp"
+  },
+  "ecard3": {
+   "logo": "img/logos/en/ecard3.webp",
+   "symbol": "img/symbols/en/ecard3.webp"
+  },
+  "ecard2": {
+   "logo": "img/logos/en/ecard2.webp",
+   "symbol": "img/symbols/en/ecard2.webp"
+  },
+  "neo4": {
+   "logo": "img/logos/en/neo4.webp",
+   "symbol": "img/symbols/en/neo4.webp"
+  },
+  "neo3": {
+   "logo": "img/logos/en/neo3.webp",
+   "symbol": "img/symbols/en/neo3.webp"
+  },
+  "neo2": {
+   "logo": "img/logos/en/neo2.webp",
+   "symbol": "img/symbols/en/neo2.webp"
+  },
+  "neo1": {
+   "logo": "img/logos/en/neo1.webp",
+   "symbol": "img/symbols/en/neo1.webp"
+  },
+  "gym2": {
+   "logo": "img/logos/en/gym2.webp",
+   "symbol": "img/symbols/en/gym2.webp"
+  },
+  "gym1": {
+   "logo": "img/logos/en/gym1.webp",
+   "symbol": "img/symbols/en/gym1.webp"
+  },
+  "base5": {
+   "logo": "img/logos/en/base5.webp",
+   "symbol": "img/symbols/en/base5.webp"
+  },
+  "base3": {
+   "logo": "img/logos/en/base3.webp",
+   "symbol": "img/symbols/en/base3.webp"
+  },
+  "base2": {
+   "logo": "img/logos/en/base2.webp",
+   "symbol": "img/symbols/en/base2.webp"
+  },
+  "ex16": {
+   "logo": "img/logos/en/ex16.webp",
+   "symbol": "img/symbols/en/ex16.webp"
+  },
+  "ecard1": {
+   "logo": "img/logos/en/ecard1.webp",
+   "symbol": "img/symbols/en/ecard1.webp"
+  },
+  "base1": {
+   "logo": "img/logos/en/base1.webp",
+   "symbol": "img/symbols/en/base1.webp"
+  },
+  "tk-ex-m": {
+   "symbol": "img/symbols/en/tk-ex-m.webp"
+  },
+  "2023sv": {
+   "symbol": "img/symbols/en/2023sv.webp"
+  },
+  "2024sv": {
+   "symbol": "img/symbols/en/2024sv.webp"
+  }
+ }
+}

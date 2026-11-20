@@ -1,0 +1,393 @@
+{
+ "id": "BW4",
+ "name": "ダークラッシュ",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2011-12-16",
+ "official": 69,
+ "abbr": "BW4",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/069",
+   "name": "Bulbasaur",
+   "v": "n"
+  },
+  {
+   "n": "002/069",
+   "name": "Ivysaur",
+   "v": "n"
+  },
+  {
+   "n": "003/069",
+   "name": "Venusaur",
+   "v": "n"
+  },
+  {
+   "n": "004/069",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "005/069",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "006/069",
+   "name": "Shelmet",
+   "v": "n"
+  },
+  {
+   "n": "007/069",
+   "name": "Accelgor",
+   "v": "n"
+  },
+  {
+   "n": "008/069",
+   "name": "Flareon",
+   "v": "n"
+  },
+  {
+   "n": "009/069",
+   "name": "Entei-EX",
+   "v": "n"
+  },
+  {
+   "n": "010/069",
+   "name": "Torchic",
+   "v": "n"
+  },
+  {
+   "n": "011/069",
+   "name": "Combusken",
+   "v": "n"
+  },
+  {
+   "n": "012/069",
+   "name": "Blaziken",
+   "v": "n"
+  },
+  {
+   "n": "013/069",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "014/069",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "015/069",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "016/069",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "017/069",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "018/069",
+   "name": "Vaporeon",
+   "v": "n"
+  },
+  {
+   "n": "019/069",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "020/069",
+   "name": "Prinplup",
+   "v": "n"
+  },
+  {
+   "n": "021/069",
+   "name": "Empoleon",
+   "v": "n"
+  },
+  {
+   "n": "022/069",
+   "name": "Ducklett",
+   "v": "n"
+  },
+  {
+   "n": "023/069",
+   "name": "Swanna",
+   "v": "n"
+  },
+  {
+   "n": "024/069",
+   "name": "Jolteon",
+   "v": "n"
+  },
+  {
+   "n": "025/069",
+   "name": "Raikou-EX",
+   "v": "n"
+  },
+  {
+   "n": "026/069",
+   "name": "Plusle",
+   "v": "n"
+  },
+  {
+   "n": "027/069",
+   "name": "Minun",
+   "v": "n"
+  },
+  {
+   "n": "028/069",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "029/069",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "030/069",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "031/069",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "032/069",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "033/069",
+   "name": "Espeon",
+   "v": "n"
+  },
+  {
+   "n": "034/069",
+   "name": "Slowking",
+   "v": "n"
+  },
+  {
+   "n": "035/069",
+   "name": "Woobat",
+   "v": "n"
+  },
+  {
+   "n": "036/069",
+   "name": "Swoobat",
+   "v": "n"
+  },
+  {
+   "n": "037/069",
+   "name": "Yamask",
+   "v": "n"
+  },
+  {
+   "n": "038/069",
+   "name": "Cofagrigus",
+   "v": "n"
+  },
+  {
+   "n": "039/069",
+   "name": "Aerodactyl",
+   "v": "n"
+  },
+  {
+   "n": "040/069",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "041/069",
+   "name": "Excadrill",
+   "v": "n"
+  },
+  {
+   "n": "042/069",
+   "name": "Umbreon",
+   "v": "n"
+  },
+  {
+   "n": "043/069",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "044/069",
+   "name": "Darkrai-EX",
+   "v": "n"
+  },
+  {
+   "n": "045/069",
+   "name": "Sandile",
+   "v": "n"
+  },
+  {
+   "n": "046/069",
+   "name": "Krokorok",
+   "v": "n"
+  },
+  {
+   "n": "047/069",
+   "name": "Krookodile",
+   "v": "n"
+  },
+  {
+   "n": "048/069",
+   "name": "Zorua",
+   "v": "n"
+  },
+  {
+   "n": "049/069",
+   "name": "Zoroark",
+   "v": "n"
+  },
+  {
+   "n": "050/069",
+   "name": "Vullaby",
+   "v": "n"
+  },
+  {
+   "n": "051/069",
+   "name": "Mandibuzz",
+   "v": "n"
+  },
+  {
+   "n": "052/069",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "053/069",
+   "name": "Klink",
+   "v": "n"
+  },
+  {
+   "n": "054/069",
+   "name": "Klang",
+   "v": "n"
+  },
+  {
+   "n": "055/069",
+   "name": "Klinklang",
+   "v": "n"
+  },
+  {
+   "n": "056/069",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "057/069",
+   "name": "Blissey",
+   "v": "n"
+  },
+  {
+   "n": "058/069",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "059/069",
+   "name": "Lillipup",
+   "v": "n"
+  },
+  {
+   "n": "060/069",
+   "name": "Herdier",
+   "v": "n"
+  },
+  {
+   "n": "061/069",
+   "name": "Stoutland",
+   "v": "n"
+  },
+  {
+   "n": "062/069",
+   "name": "Tornadus-EX",
+   "v": "n"
+  },
+  {
+   "n": "063/069",
+   "name": "Enhanced Hammer",
+   "v": "n"
+  },
+  {
+   "n": "064/069",
+   "name": "Dark Patch",
+   "v": "n"
+  },
+  {
+   "n": "065/069",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "066/069",
+   "name": "Old Amber Aerodactyl",
+   "v": "n"
+  },
+  {
+   "n": "067/069",
+   "name": "Dark Claw",
+   "v": "n"
+  },
+  {
+   "n": "068/069",
+   "name": "Hooligans Jim & Cas",
+   "v": "n"
+  },
+  {
+   "n": "069/069",
+   "name": "Twist Mountain",
+   "v": "n"
+  },
+  {
+   "n": "070/069",
+   "name": "Entei-EX",
+   "v": "n"
+  },
+  {
+   "n": "071/069",
+   "name": "Raikou-EX",
+   "v": "n"
+  },
+  {
+   "n": "072/069",
+   "name": "Darkrai-EX",
+   "v": "n"
+  },
+  {
+   "n": "073/069",
+   "name": "Tornadus-EX",
+   "v": "n"
+  },
+  {
+   "n": "074/069",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "075/069",
+   "name": "Archeops",
+   "v": "n"
+  },
+  {
+   "n": "076/069",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  }
+ ]
+}

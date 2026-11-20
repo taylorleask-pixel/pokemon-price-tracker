@@ -1,0 +1,388 @@
+{
+ "id": "S1W",
+ "name": "ソード",
+ "serie": "剣と盾",
+ "serie_id": "S",
+ "date": "2019-12-06",
+ "official": 60,
+ "abbr": "S1W",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/060",
+   "name": "Roselia",
+   "v": "n"
+  },
+  {
+   "n": "002/060",
+   "name": "Roserade",
+   "v": "n"
+  },
+  {
+   "n": "003/060",
+   "name": "Maractus",
+   "v": "n"
+  },
+  {
+   "n": "004/060",
+   "name": "Dhelmise V",
+   "v": "n"
+  },
+  {
+   "n": "005/060",
+   "name": "Grookey",
+   "v": "n"
+  },
+  {
+   "n": "006/060",
+   "name": "Thwackey",
+   "v": "n"
+  },
+  {
+   "n": "007/060",
+   "name": "Rillaboom",
+   "v": "n"
+  },
+  {
+   "n": "008/060",
+   "name": "Salandit",
+   "v": "n"
+  },
+  {
+   "n": "009/060",
+   "name": "Salazzle",
+   "v": "n"
+  },
+  {
+   "n": "010/060",
+   "name": "Sizzlipede",
+   "v": "n"
+  },
+  {
+   "n": "011/060",
+   "name": "Centiskorch",
+   "v": "n"
+  },
+  {
+   "n": "012/060",
+   "name": "Krabby",
+   "v": "n"
+  },
+  {
+   "n": "013/060",
+   "name": "Kingler",
+   "v": "n"
+  },
+  {
+   "n": "014/060",
+   "name": "Lapras V",
+   "v": "n"
+  },
+  {
+   "n": "015/060",
+   "name": "Lapras VMAX",
+   "v": "n"
+  },
+  {
+   "n": "016/060",
+   "name": "Mantine",
+   "v": "n"
+  },
+  {
+   "n": "017/060",
+   "name": "Sobble",
+   "v": "n"
+  },
+  {
+   "n": "018/060",
+   "name": "Drizzile",
+   "v": "n"
+  },
+  {
+   "n": "019/060",
+   "name": "Inteleon",
+   "v": "n"
+  },
+  {
+   "n": "020/060",
+   "name": "Yamper",
+   "v": "n"
+  },
+  {
+   "n": "021/060",
+   "name": "Boltund",
+   "v": "n"
+  },
+  {
+   "n": "022/060",
+   "name": "Pincurchin",
+   "v": "n"
+  },
+  {
+   "n": "023/060",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "024/060",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "025/060",
+   "name": "Gengar",
+   "v": "n"
+  },
+  {
+   "n": "026/060",
+   "name": "Wobbuffet V",
+   "v": "n"
+  },
+  {
+   "n": "027/060",
+   "name": "Sinistea",
+   "v": "n"
+  },
+  {
+   "n": "028/060",
+   "name": "Polteageist",
+   "v": "n"
+  },
+  {
+   "n": "029/060",
+   "name": "Sudowoodo",
+   "v": "n"
+  },
+  {
+   "n": "030/060",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "031/060",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "032/060",
+   "name": "Clobbopus",
+   "v": "n"
+  },
+  {
+   "n": "033/060",
+   "name": "Grapploct",
+   "v": "n"
+  },
+  {
+   "n": "034/060",
+   "name": "Stonjourner V",
+   "v": "n"
+  },
+  {
+   "n": "035/060",
+   "name": "Stonjourner VMAX",
+   "v": "n"
+  },
+  {
+   "n": "036/060",
+   "name": "Croagunk",
+   "v": "n"
+  },
+  {
+   "n": "037/060",
+   "name": "Toxicroak",
+   "v": "n"
+  },
+  {
+   "n": "038/060",
+   "name": "Nickit",
+   "v": "n"
+  },
+  {
+   "n": "039/060",
+   "name": "Thievul",
+   "v": "n"
+  },
+  {
+   "n": "040/060",
+   "name": "Galarian Meowth",
+   "v": "n"
+  },
+  {
+   "n": "041/060",
+   "name": "Galarian Perrserker",
+   "v": "n"
+  },
+  {
+   "n": "042/060",
+   "name": "Ferroseed",
+   "v": "n"
+  },
+  {
+   "n": "043/060",
+   "name": "Ferrothorn",
+   "v": "n"
+  },
+  {
+   "n": "044/060",
+   "name": "Galarian Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "045/060",
+   "name": "Corviknight",
+   "v": "n"
+  },
+  {
+   "n": "046/060",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "047/060",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "048/060",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "049/060",
+   "name": "Rookidee",
+   "v": "n"
+  },
+  {
+   "n": "050/060",
+   "name": "Corvisquire",
+   "v": "n"
+  },
+  {
+   "n": "051/060",
+   "name": "Cramorant V",
+   "v": "n"
+  },
+  {
+   "n": "052/060",
+   "name": "Evolution Incense",
+   "v": "n"
+  },
+  {
+   "n": "053/060",
+   "name": "Hyper Potion",
+   "v": "n"
+  },
+  {
+   "n": "054/060",
+   "name": "Ordinary Rod",
+   "v": "n"
+  },
+  {
+   "n": "055/060",
+   "name": "Rotom Bike",
+   "v": "n"
+  },
+  {
+   "n": "056/060",
+   "name": "Big Charm",
+   "v": "n"
+  },
+  {
+   "n": "057/060",
+   "name": "Air Balloon",
+   "v": "n"
+  },
+  {
+   "n": "058/060",
+   "name": "Lum Berry",
+   "v": "n"
+  },
+  {
+   "n": "059/060",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "060/060",
+   "name": "Bede",
+   "v": "n"
+  },
+  {
+   "n": "061/060",
+   "name": "Dhelmise V",
+   "v": "n"
+  },
+  {
+   "n": "062/060",
+   "name": "Lapras V",
+   "v": "n"
+  },
+  {
+   "n": "063/060",
+   "name": "Wobbuffet V",
+   "v": "n"
+  },
+  {
+   "n": "064/060",
+   "name": "Stonjourner V",
+   "v": "n"
+  },
+  {
+   "n": "065/060",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "066/060",
+   "name": "Cramorant V",
+   "v": "n"
+  },
+  {
+   "n": "067/060",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "068/060",
+   "name": "Bede",
+   "v": "n"
+  },
+  {
+   "n": "069/060",
+   "name": "Lapras VMAX",
+   "v": "n"
+  },
+  {
+   "n": "070/060",
+   "name": "Stonjourner VMAX",
+   "v": "n"
+  },
+  {
+   "n": "071/060",
+   "name": "Professor's Research",
+   "v": "n"
+  },
+  {
+   "n": "072/060",
+   "name": "Bede",
+   "v": "n"
+  },
+  {
+   "n": "073/060",
+   "name": "Zacian V",
+   "v": "n"
+  },
+  {
+   "n": "074/060",
+   "name": "Ordinary Rod",
+   "v": "n"
+  },
+  {
+   "n": "075/060",
+   "name": "Air Balloon",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,368 @@
+{
+ "id": "L1a",
+ "name": "ハートゴールドコレクション",
+ "serie": "LEGEND",
+ "serie_id": "L",
+ "date": "2009-10-09",
+ "official": 70,
+ "abbr": "L1a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Hoppip",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Skiploom",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Jumpluff",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Sunkern",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Sunflora",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Growlithe",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Arcanine",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Ho-Oh LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Ho-Oh LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Starmie",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Totodile",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Croconaw",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Feraligatr",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Feraligatr",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Qwilfish",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Corsola",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Mantine",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Ampharos",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Ampharos",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Smoochum",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Slowking",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Unown",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Mankey",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Primeape",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Phanpy",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Spearow",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Fearow",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Cleffa",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Blissey",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Blissey",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Sentret",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Furret",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Hoothoot",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Noctowl",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Girafarig",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Stantler",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Pokémon Reversal",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Poké Ball",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Professor Elm's Training Method",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Professor Oak's New Theory",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Bill",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Alph Lithograph",
+   "v": "n"
+  }
+ ]
+}

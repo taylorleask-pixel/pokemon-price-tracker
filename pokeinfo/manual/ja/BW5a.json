@@ -1,0 +1,288 @@
+{
+ "id": "BW5a",
+ "name": "リューズブラスト",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2012-03-16",
+ "official": 50,
+ "abbr": "BW5a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/050",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "002/050",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "003/050",
+   "name": "Wurmple",
+   "v": "n"
+  },
+  {
+   "n": "004/050",
+   "name": "Silcoon",
+   "v": "n"
+  },
+  {
+   "n": "005/050",
+   "name": "Beautifly",
+   "v": "n"
+  },
+  {
+   "n": "006/050",
+   "name": "Cascoon",
+   "v": "n"
+  },
+  {
+   "n": "007/050",
+   "name": "Roselia",
+   "v": "n"
+  },
+  {
+   "n": "008/050",
+   "name": "Roserade",
+   "v": "n"
+  },
+  {
+   "n": "009/050",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "010/050",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "011/050",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "012/050",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "013/050",
+   "name": "Buizel",
+   "v": "n"
+  },
+  {
+   "n": "014/050",
+   "name": "Floatzel",
+   "v": "n"
+  },
+  {
+   "n": "015/050",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "016/050",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "017/050",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "018/050",
+   "name": "Alomomola",
+   "v": "n"
+  },
+  {
+   "n": "019/050",
+   "name": "Mareep",
+   "v": "n"
+  },
+  {
+   "n": "020/050",
+   "name": "Flaaffy",
+   "v": "n"
+  },
+  {
+   "n": "021/050",
+   "name": "Ampharos",
+   "v": "n"
+  },
+  {
+   "n": "022/050",
+   "name": "Mew-EX",
+   "v": "n"
+  },
+  {
+   "n": "023/050",
+   "name": "Dustox",
+   "v": "n"
+  },
+  {
+   "n": "024/050",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "025/050",
+   "name": "Drifblim",
+   "v": "n"
+  },
+  {
+   "n": "026/050",
+   "name": "Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "027/050",
+   "name": "Trubbish",
+   "v": "n"
+  },
+  {
+   "n": "028/050",
+   "name": "Garbodor",
+   "v": "n"
+  },
+  {
+   "n": "029/050",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "030/050",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "031/050",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "032/050",
+   "name": "Terrakion-EX",
+   "v": "n"
+  },
+  {
+   "n": "033/050",
+   "name": "Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "034/050",
+   "name": "Honchkrow",
+   "v": "n"
+  },
+  {
+   "n": "035/050",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "036/050",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "037/050",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "038/050",
+   "name": "Durant",
+   "v": "n"
+  },
+  {
+   "n": "039/050",
+   "name": "Giratina-EX",
+   "v": "n"
+  },
+  {
+   "n": "040/050",
+   "name": "Deino",
+   "v": "n"
+  },
+  {
+   "n": "041/050",
+   "name": "Zweilous",
+   "v": "n"
+  },
+  {
+   "n": "042/050",
+   "name": "Hydreigon",
+   "v": "n"
+  },
+  {
+   "n": "043/050",
+   "name": "Aipom",
+   "v": "n"
+  },
+  {
+   "n": "044/050",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "045/050",
+   "name": "Bidoof",
+   "v": "n"
+  },
+  {
+   "n": "046/050",
+   "name": "Bibarel",
+   "v": "n"
+  },
+  {
+   "n": "047/050",
+   "name": "Audino",
+   "v": "n"
+  },
+  {
+   "n": "048/050",
+   "name": "Devolution Spray",
+   "v": "n"
+  },
+  {
+   "n": "049/050",
+   "name": "Rescue Scarf",
+   "v": "n"
+  },
+  {
+   "n": "050/050",
+   "name": "Blend Energy GRPD",
+   "v": "n"
+  },
+  {
+   "n": "051/050",
+   "name": "Mew-EX",
+   "v": "n"
+  },
+  {
+   "n": "052/050",
+   "name": "Terrakion-EX",
+   "v": "n"
+  },
+  {
+   "n": "053/050",
+   "name": "Giratina-EX",
+   "v": "n"
+  },
+  {
+   "n": "054/050",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "055/050",
+   "name": "Rayquaza",
+   "v": "n"
+  }
+ ]
+}

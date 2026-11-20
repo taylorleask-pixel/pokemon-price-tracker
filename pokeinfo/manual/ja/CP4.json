@@ -1,0 +1,668 @@
+{
+ "id": "CP4",
+ "name": "プレミアムチャンピオンパック EX×M×BREAK",
+ "serie": "XY BREAK",
+ "serie_id": "XYb",
+ "date": "2016-04-16",
+ "official": 131,
+ "abbr": "CP4",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/131",
+   "name": "Beedrill-EX",
+   "v": "n"
+  },
+  {
+   "n": "002/131",
+   "name": "M Beedrill-EX",
+   "v": "n"
+  },
+  {
+   "n": "003/131",
+   "name": "Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "004/131",
+   "name": "Spinarak",
+   "v": "n"
+  },
+  {
+   "n": "005/131",
+   "name": "Ariados",
+   "v": "n"
+  },
+  {
+   "n": "006/131",
+   "name": "Sceptile-EX",
+   "v": "n"
+  },
+  {
+   "n": "007/131",
+   "name": "M Sceptile-EX",
+   "v": "n"
+  },
+  {
+   "n": "008/131",
+   "name": "Nincada",
+   "v": "n"
+  },
+  {
+   "n": "009/131",
+   "name": "Shedinja",
+   "v": "n"
+  },
+  {
+   "n": "010/131",
+   "name": "Combee",
+   "v": "n"
+  },
+  {
+   "n": "011/131",
+   "name": "Vespiquen",
+   "v": "n"
+  },
+  {
+   "n": "012/131",
+   "name": "Chespin",
+   "v": "n"
+  },
+  {
+   "n": "013/131",
+   "name": "Quilladin",
+   "v": "n"
+  },
+  {
+   "n": "014/131",
+   "name": "Chesnaught",
+   "v": "n"
+  },
+  {
+   "n": "015/131",
+   "name": "Chesnaught BREAK",
+   "v": "n"
+  },
+  {
+   "n": "016/131",
+   "name": "Entei",
+   "v": "n"
+  },
+  {
+   "n": "017/131",
+   "name": "Fennekin",
+   "v": "n"
+  },
+  {
+   "n": "018/131",
+   "name": "Braixen",
+   "v": "n"
+  },
+  {
+   "n": "019/131",
+   "name": "Delphox",
+   "v": "n"
+  },
+  {
+   "n": "020/131",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "021/131",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "022/131",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "023/131",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "024/131",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "025/131",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "026/131",
+   "name": "Mudkip",
+   "v": "n"
+  },
+  {
+   "n": "027/131",
+   "name": "Marshtomp",
+   "v": "n"
+  },
+  {
+   "n": "028/131",
+   "name": "Swampert",
+   "v": "n"
+  },
+  {
+   "n": "029/131",
+   "name": "Regice",
+   "v": "n"
+  },
+  {
+   "n": "030/131",
+   "name": "Seismitoad-EX",
+   "v": "n"
+  },
+  {
+   "n": "031/131",
+   "name": "Cubchoo",
+   "v": "n"
+  },
+  {
+   "n": "032/131",
+   "name": "Beartic",
+   "v": "n"
+  },
+  {
+   "n": "033/131",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "034/131",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "035/131",
+   "name": "Greninja",
+   "v": "n"
+  },
+  {
+   "n": "036/131",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "037/131",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "038/131",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "039/131",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "040/131",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "041/131",
+   "name": "Zapdos",
+   "v": "n"
+  },
+  {
+   "n": "042/131",
+   "name": "Manectric-EX",
+   "v": "n"
+  },
+  {
+   "n": "043/131",
+   "name": "M Manectric-EX",
+   "v": "n"
+  },
+  {
+   "n": "044/131",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "045/131",
+   "name": "Zubat",
+   "v": "n"
+  },
+  {
+   "n": "046/131",
+   "name": "Golbat",
+   "v": "n"
+  },
+  {
+   "n": "047/131",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "048/131",
+   "name": "Gengar-EX",
+   "v": "n"
+  },
+  {
+   "n": "049/131",
+   "name": "M Gengar-EX",
+   "v": "n"
+  },
+  {
+   "n": "050/131",
+   "name": "Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "051/131",
+   "name": "M Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "052/131",
+   "name": "M Mewtwo-EX",
+   "v": "n"
+  },
+  {
+   "n": "053/131",
+   "name": "Unown",
+   "v": "n"
+  },
+  {
+   "n": "054/131",
+   "name": "Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "055/131",
+   "name": "Wobbuffet BREAK",
+   "v": "n"
+  },
+  {
+   "n": "056/131",
+   "name": "Deoxys",
+   "v": "n"
+  },
+  {
+   "n": "057/131",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "058/131",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "059/131",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "060/131",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "061/131",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "062/131",
+   "name": "Pumpkaboo",
+   "v": "n"
+  },
+  {
+   "n": "063/131",
+   "name": "Gourgeist",
+   "v": "n"
+  },
+  {
+   "n": "064/131",
+   "name": "Hoopa-EX",
+   "v": "n"
+  },
+  {
+   "n": "065/131",
+   "name": "Machop",
+   "v": "n"
+  },
+  {
+   "n": "066/131",
+   "name": "Machoke",
+   "v": "n"
+  },
+  {
+   "n": "067/131",
+   "name": "Machamp",
+   "v": "n"
+  },
+  {
+   "n": "068/131",
+   "name": "Cubone",
+   "v": "n"
+  },
+  {
+   "n": "069/131",
+   "name": "Marowak",
+   "v": "n"
+  },
+  {
+   "n": "070/131",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "071/131",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "072/131",
+   "name": "Groudon-EX",
+   "v": "n"
+  },
+  {
+   "n": "073/131",
+   "name": "Primal Groudon-EX",
+   "v": "n"
+  },
+  {
+   "n": "074/131",
+   "name": "Lucario-EX",
+   "v": "n"
+  },
+  {
+   "n": "075/131",
+   "name": "M Lucario-EX",
+   "v": "n"
+  },
+  {
+   "n": "076/131",
+   "name": "Hawlucha",
+   "v": "n"
+  },
+  {
+   "n": "077/131",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "078/131",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "079/131",
+   "name": "Yveltal-EX",
+   "v": "n"
+  },
+  {
+   "n": "080/131",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "081/131",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "082/131",
+   "name": "Heatran",
+   "v": "n"
+  },
+  {
+   "n": "083/131",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "084/131",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "085/131",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "086/131",
+   "name": "Florges-EX",
+   "v": "n"
+  },
+  {
+   "n": "087/131",
+   "name": "Spritzee",
+   "v": "n"
+  },
+  {
+   "n": "088/131",
+   "name": "Aromatisse",
+   "v": "n"
+  },
+  {
+   "n": "089/131",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "090/131",
+   "name": "Xerneas-EX",
+   "v": "n"
+  },
+  {
+   "n": "091/131",
+   "name": "Giratina-EX",
+   "v": "n"
+  },
+  {
+   "n": "092/131",
+   "name": "Noivern",
+   "v": "n"
+  },
+  {
+   "n": "093/131",
+   "name": "Kangaskhan-EX",
+   "v": "n"
+  },
+  {
+   "n": "094/131",
+   "name": "M Kangaskhan-EX",
+   "v": "n"
+  },
+  {
+   "n": "095/131",
+   "name": "Miltank",
+   "v": "n"
+  },
+  {
+   "n": "096/131",
+   "name": "Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "097/131",
+   "name": "M Rayquaza-EX",
+   "v": "n"
+  },
+  {
+   "n": "098/131",
+   "name": "Shaymin-EX",
+   "v": "n"
+  },
+  {
+   "n": "099/131",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "100/131",
+   "name": "Escape Rope",
+   "v": "n"
+  },
+  {
+   "n": "101/131",
+   "name": "Enhanced Hammer",
+   "v": "n"
+  },
+  {
+   "n": "102/131",
+   "name": "Trainers' Mail",
+   "v": "n"
+  },
+  {
+   "n": "103/131",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "104/131",
+   "name": "Battle Compressor",
+   "v": "n"
+  },
+  {
+   "n": "105/131",
+   "name": "VS Seeker",
+   "v": "n"
+  },
+  {
+   "n": "106/131",
+   "name": "Startling Megaphone",
+   "v": "n"
+  },
+  {
+   "n": "107/131",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "108/131",
+   "name": "Red Card",
+   "v": "n"
+  },
+  {
+   "n": "109/131",
+   "name": "Float Stone",
+   "v": "n"
+  },
+  {
+   "n": "110/131",
+   "name": "Groudon Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "111/131",
+   "name": "Gengar Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "112/131",
+   "name": "Sceptile Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "113/131",
+   "name": "Beedrill Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "114/131",
+   "name": "Mewtwo Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "115/131",
+   "name": "Manectric Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "116/131",
+   "name": "Rayquaza Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "117/131",
+   "name": "Head Ringer",
+   "v": "n"
+  },
+  {
+   "n": "118/131",
+   "name": "Brigette",
+   "v": "n"
+  },
+  {
+   "n": "119/131",
+   "name": "Xerosic",
+   "v": "n"
+  },
+  {
+   "n": "120/131",
+   "name": "Korrina",
+   "v": "n"
+  },
+  {
+   "n": "121/131",
+   "name": "Giovanni's Scheme",
+   "v": "n"
+  },
+  {
+   "n": "122/131",
+   "name": "Shauna",
+   "v": "n"
+  },
+  {
+   "n": "123/131",
+   "name": "Teammates",
+   "v": "n"
+  },
+  {
+   "n": "124/131",
+   "name": "Professor Sycamore",
+   "v": "n"
+  },
+  {
+   "n": "125/131",
+   "name": "Lysandre",
+   "v": "n"
+  },
+  {
+   "n": "126/131",
+   "name": "Team Flare Grunt",
+   "v": "n"
+  },
+  {
+   "n": "127/131",
+   "name": "Forest of Giant Plants",
+   "v": "n"
+  },
+  {
+   "n": "128/131",
+   "name": "Dimension Valley",
+   "v": "n"
+  },
+  {
+   "n": "129/131",
+   "name": "Sky Field",
+   "v": "n"
+  },
+  {
+   "n": "130/131",
+   "name": "Fighting Stadium",
+   "v": "n"
+  },
+  {
+   "n": "131/131",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  }
+ ]
+}

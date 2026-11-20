@@ -1,0 +1,213 @@
+{
+ "id": "LL",
+ "name": "強化パック ロストリンク",
+ "serie": "LEGEND",
+ "serie_id": "L",
+ "date": "2010-04-16",
+ "official": 40,
+ "abbr": "LL",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/040",
+   "name": "Venonat",
+   "v": "n"
+  },
+  {
+   "n": "002/040",
+   "name": "Venomoth",
+   "v": "n"
+  },
+  {
+   "n": "003/040",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "004/040",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "005/040",
+   "name": "Volbeat",
+   "v": "n"
+  },
+  {
+   "n": "006/040",
+   "name": "Illumise",
+   "v": "n"
+  },
+  {
+   "n": "007/040",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "008/040",
+   "name": "Relicanth",
+   "v": "n"
+  },
+  {
+   "n": "009/040",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "010/040",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "011/040",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "012/040",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "013/040",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "014/040",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "015/040",
+   "name": "Gengar",
+   "v": "n"
+  },
+  {
+   "n": "016/040",
+   "name": "Mime Jr.",
+   "v": "n"
+  },
+  {
+   "n": "017/040",
+   "name": "Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "018/040",
+   "name": "Mew",
+   "v": "n"
+  },
+  {
+   "n": "019/040",
+   "name": "Seviper",
+   "v": "n"
+  },
+  {
+   "n": "020/040",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "021/040",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "022/040",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "023/040",
+   "name": "Diglett",
+   "v": "n"
+  },
+  {
+   "n": "024/040",
+   "name": "Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "025/040",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "026/040",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "027/040",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "028/040",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "029/040",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "030/040",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "031/040",
+   "name": "Dragonite",
+   "v": "n"
+  },
+  {
+   "n": "032/040",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "033/040",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "034/040",
+   "name": "Zangoose",
+   "v": "n"
+  },
+  {
+   "n": "035/040",
+   "name": "Darkrai & Cresselia LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "036/040",
+   "name": "Darkrai & Cresselia LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "037/040",
+   "name": "Research Record",
+   "v": "n"
+  },
+  {
+   "n": "038/040",
+   "name": "Lost Remover",
+   "v": "n"
+  },
+  {
+   "n": "039/040",
+   "name": "Seeker",
+   "v": "n"
+  },
+  {
+   "n": "040/040",
+   "name": "Lost World",
+   "v": "n"
+  }
+ ]
+}

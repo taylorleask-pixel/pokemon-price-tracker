@@ -1,0 +1,288 @@
+{
+ "id": "ADV1",
+ "name": "拡張パック",
+ "serie": "ADV",
+ "serie_id": "ADV",
+ "date": "2003-01-31",
+ "official": 55,
+ "abbr": "ADV1",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/055",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "002/055",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "003/055",
+   "name": "Sceptile",
+   "v": "n"
+  },
+  {
+   "n": "004/055",
+   "name": "Wurmple",
+   "v": "n"
+  },
+  {
+   "n": "005/055",
+   "name": "Silcoon",
+   "v": "n"
+  },
+  {
+   "n": "006/055",
+   "name": "Beautifly",
+   "v": "n"
+  },
+  {
+   "n": "007/055",
+   "name": "Cascoon",
+   "v": "n"
+  },
+  {
+   "n": "008/055",
+   "name": "Dustox",
+   "v": "n"
+  },
+  {
+   "n": "009/055",
+   "name": "Shroomish",
+   "v": "n"
+  },
+  {
+   "n": "010/055",
+   "name": "Breloom",
+   "v": "n"
+  },
+  {
+   "n": "011/055",
+   "name": "Blaziken",
+   "v": "n"
+  },
+  {
+   "n": "012/055",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "013/055",
+   "name": "Camerupt",
+   "v": "n"
+  },
+  {
+   "n": "014/055",
+   "name": "Goldeen",
+   "v": "n"
+  },
+  {
+   "n": "015/055",
+   "name": "Seaking",
+   "v": "n"
+  },
+  {
+   "n": "016/055",
+   "name": "Swampert",
+   "v": "n"
+  },
+  {
+   "n": "017/055",
+   "name": "Wingull",
+   "v": "n"
+  },
+  {
+   "n": "018/055",
+   "name": "Pelipper",
+   "v": "n"
+  },
+  {
+   "n": "019/055",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "020/055",
+   "name": "Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "021/055",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "022/055",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "023/055",
+   "name": "Electabuzz ex",
+   "v": "n"
+  },
+  {
+   "n": "024/055",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "025/055",
+   "name": "Manectric",
+   "v": "n"
+  },
+  {
+   "n": "026/055",
+   "name": "Mewtwo ex",
+   "v": "n"
+  },
+  {
+   "n": "027/055",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "028/055",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "029/055",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "030/055",
+   "name": "Hitmonchan ex",
+   "v": "n"
+  },
+  {
+   "n": "031/055",
+   "name": "Phanpy",
+   "v": "n"
+  },
+  {
+   "n": "032/055",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "033/055",
+   "name": "Makuhita",
+   "v": "n"
+  },
+  {
+   "n": "034/055",
+   "name": "Hariyama",
+   "v": "n"
+  },
+  {
+   "n": "035/055",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "036/055",
+   "name": "Chansey ex",
+   "v": "n"
+  },
+  {
+   "n": "037/055",
+   "name": "Zigzagoon",
+   "v": "n"
+  },
+  {
+   "n": "038/055",
+   "name": "Linoone",
+   "v": "n"
+  },
+  {
+   "n": "039/055",
+   "name": "Taillow",
+   "v": "n"
+  },
+  {
+   "n": "040/055",
+   "name": "Swellow",
+   "v": "n"
+  },
+  {
+   "n": "041/055",
+   "name": "Slakoth",
+   "v": "n"
+  },
+  {
+   "n": "042/055",
+   "name": "Vigoroth",
+   "v": "n"
+  },
+  {
+   "n": "043/055",
+   "name": "Slaking",
+   "v": "n"
+  },
+  {
+   "n": "044/055",
+   "name": "Skitty",
+   "v": "n"
+  },
+  {
+   "n": "045/055",
+   "name": "Delcatty",
+   "v": "n"
+  },
+  {
+   "n": "046/055",
+   "name": "Sneasel ex",
+   "v": "n"
+  },
+  {
+   "n": "047/055",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "048/055",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "049/055",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "050/055",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "051/055",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "052/055",
+   "name": "PokéNav",
+   "v": "n"
+  },
+  {
+   "n": "053/055",
+   "name": "Lady Outing",
+   "v": "n"
+  },
+  {
+   "n": "054/055",
+   "name": "Professor Birch",
+   "v": "n"
+  },
+  {
+   "n": "055/055",
+   "name": "Oran Berry",
+   "v": "n"
+  }
+ ]
+}

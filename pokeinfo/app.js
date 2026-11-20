@@ -37,7 +37,8 @@ const store = {
 const S = { lang: store.get("pi-lang", "en"), q: "", show: "all", newest: true, type: null, own: "all", list: [] };
 const D = { sets: {}, setFiles: {}, en: null };
 // English name for a non-English set (by set code), or "" for English sets
-const enName = (s, lang = S.lang) => lang === "en" || !D.en ? "" : (D.en[lang]?.[s.id] || D.en.sets?.[s.id] || "");
+const enName = (s, lang = S.lang) => lang === "en" ? "" : (D.en?.[lang]?.[s.id] || D.en?.sets?.[s.id] || (s.name_en && s.name_en !== s.name ? s.name_en : ""));
+const symImg = (s, cls = "sym") => s.symbol ? `<img class="${cls}" src="${esc(s.symbol)}" alt="" loading="lazy" onerror="this.remove()">` : "";
 const enSerie = (name) => S.lang === "en" || !D.en ? "" : (D.en.series?.[name] || "");
 // collection: cards = what you have ("nr" = normal + reverse), had = cards you traded or sold, log = every change
 let C = norm(store.get("pi-col", null));                  // last known collection (with my unsynced changes applied)
@@ -246,7 +247,7 @@ function renderHome() {
           <span class="logo${!s.logo && s.cover ? " cover" : ""}">${s.logo || s.cover ? `<img src="${esc(s.logo || s.cover)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'abbr',textContent:this.dataset.a}))" data-a="${esc(s.abbr || s.id)}">`
             : `<span class="abbr">${esc(s.abbr || s.id)}</span>`}</span>
           <b>${esc(s.name)}${enName(s) ? `<small class="en">${esc(enName(s))}</small>` : ""}</b>
-          <span class="meta"><span>${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n}</span></span>
+          <span class="meta"><span>${symImg(s)}${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n}</span></span>
           <span class="bar${h >= s.cards_n ? " done" : ""}"><i style="width:${(h / s.cards_n) * 100}%"></i></span></a>`;
       }).join("")}</div>`).join("") || `<p class="none">No sets match.</p>`;
   };
@@ -292,7 +293,7 @@ async function renderSet(id) {
   $("#view").innerHTML = `<button class="back" id="back">← All ${esc(LANGS.find((l) => l.id === S.lang).name)} sets</button>
     <div class="sethead">
       ${meta.logo ? `<img class="logo" src="${esc(meta.logo)}" alt="" onerror="this.remove()">` : meta.cover ? `<img class="logo cover" src="${esc(meta.cover)}" alt="" onerror="this.remove()">` : ""}
-      <h1>${esc(set.name || meta.name)}</h1>
+      <h1>${symImg(meta, "sym big")}${esc(set.name || meta.name)}</h1>
       ${enName(meta) ? `<p class="en-title">${esc(enName(meta))}</p>` : ""}
       <p>${esc([meta.serie, fmtDate(meta.date), meta.abbr].filter(Boolean).join(" · "))}</p>
       ${FULL_LISTS[S.lang] && set.cards.some((c) => !pic(c)) ? `<p class="note">Pictures missing? See this set on ${fullListLink(S.lang, FULL_LISTS[S.lang].site)}</p>` : ""}
@@ -503,7 +504,7 @@ async function drawMissing() {
   const { empty, unlisted } = await missingSets(S.lang);
   const L = LANGS.find((l) => l.id === S.lang);
   const row = (s) => `<li><span><b>${esc(s.kind === "unlisted" ? (enName(s, "ja") || s.name) : s.name)}</b>
-      <span class="note">${esc([s.kind === "unlisted" ? "" : enName(s), s.id, s.date ? s.date.slice(0, 4) : ""].filter(Boolean).join(" · "))}</span></span>
+      <span class="note">${esc([s.kind === "unlisted" ? "" : enName(s), s.id.startsWith("x-") ? "Not in the card database yet" : s.id, s.date ? s.date.slice(0, 4) : ""].filter(Boolean).join(" · "))}</span></span>
       <button type="button" class="btn ghost small" data-paste="${esc(s.id)}" data-kind="${s.kind}">Paste list</button></li>`;
   $("#missing summary").textContent = `Missing sets (${empty.length + unlisted.length})`;
   $("#missinglist").innerHTML = `<p class="note">Sets PokeInfo doesn't have a card list for yet. Find one on ${fullListLink(S.lang, FULL_LISTS[S.lang]?.site || "another site")}, copy its card list and tap <b>Paste list</b>.</p>

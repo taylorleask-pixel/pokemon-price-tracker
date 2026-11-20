@@ -1,0 +1,338 @@
+{
+ "id": "BW6a",
+ "name": "フリーズボルト",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2012-07-13",
+ "official": 59,
+ "abbr": "BW6a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/059",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "002/059",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "003/059",
+   "name": "Vileplume",
+   "v": "n"
+  },
+  {
+   "n": "004/059",
+   "name": "Bellossom",
+   "v": "n"
+  },
+  {
+   "n": "005/059",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "006/059",
+   "name": "Combee",
+   "v": "n"
+  },
+  {
+   "n": "007/059",
+   "name": "Vespiquen",
+   "v": "n"
+  },
+  {
+   "n": "008/059",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "009/059",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "010/059",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "011/059",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "012/059",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "013/059",
+   "name": "Darumaka",
+   "v": "n"
+  },
+  {
+   "n": "014/059",
+   "name": "Darmanitan",
+   "v": "n"
+  },
+  {
+   "n": "015/059",
+   "name": "Marill",
+   "v": "n"
+  },
+  {
+   "n": "016/059",
+   "name": "Azumarill",
+   "v": "n"
+  },
+  {
+   "n": "017/059",
+   "name": "Swinub",
+   "v": "n"
+  },
+  {
+   "n": "018/059",
+   "name": "Piloswine",
+   "v": "n"
+  },
+  {
+   "n": "019/059",
+   "name": "Mamoswine",
+   "v": "n"
+  },
+  {
+   "n": "020/059",
+   "name": "Delibird",
+   "v": "n"
+  },
+  {
+   "n": "021/059",
+   "name": "Frillish",
+   "v": "n"
+  },
+  {
+   "n": "022/059",
+   "name": "Jellicent",
+   "v": "n"
+  },
+  {
+   "n": "023/059",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "024/059",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "025/059",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "026/059",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "027/059",
+   "name": "Cresselia-EX",
+   "v": "n"
+  },
+  {
+   "n": "028/059",
+   "name": "Munna",
+   "v": "n"
+  },
+  {
+   "n": "029/059",
+   "name": "Musharna",
+   "v": "n"
+  },
+  {
+   "n": "030/059",
+   "name": "Venipede",
+   "v": "n"
+  },
+  {
+   "n": "031/059",
+   "name": "Whirlipede",
+   "v": "n"
+  },
+  {
+   "n": "032/059",
+   "name": "Scolipede",
+   "v": "n"
+  },
+  {
+   "n": "033/059",
+   "name": "Meloetta",
+   "v": "n"
+  },
+  {
+   "n": "034/059",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "035/059",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "036/059",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "037/059",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "038/059",
+   "name": "Mienfoo",
+   "v": "n"
+  },
+  {
+   "n": "039/059",
+   "name": "Mienshao",
+   "v": "n"
+  },
+  {
+   "n": "040/059",
+   "name": "Landorus-EX",
+   "v": "n"
+  },
+  {
+   "n": "041/059",
+   "name": "Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "042/059",
+   "name": "Liepard",
+   "v": "n"
+  },
+  {
+   "n": "043/059",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "044/059",
+   "name": "Flygon",
+   "v": "n"
+  },
+  {
+   "n": "045/059",
+   "name": "Black Kyurem-EX",
+   "v": "n"
+  },
+  {
+   "n": "046/059",
+   "name": "Rattata",
+   "v": "n"
+  },
+  {
+   "n": "047/059",
+   "name": "Raticate",
+   "v": "n"
+  },
+  {
+   "n": "048/059",
+   "name": "Buneary",
+   "v": "n"
+  },
+  {
+   "n": "049/059",
+   "name": "Lopunny",
+   "v": "n"
+  },
+  {
+   "n": "050/059",
+   "name": "Pidove",
+   "v": "n"
+  },
+  {
+   "n": "051/059",
+   "name": "Tranquill",
+   "v": "n"
+  },
+  {
+   "n": "052/059",
+   "name": "Unfezant",
+   "v": "n"
+  },
+  {
+   "n": "053/059",
+   "name": "Audino",
+   "v": "n"
+  },
+  {
+   "n": "054/059",
+   "name": "Escape Rope",
+   "v": "n"
+  },
+  {
+   "n": "055/059",
+   "name": "Town Map",
+   "v": "n"
+  },
+  {
+   "n": "056/059",
+   "name": "Hugh",
+   "v": "n"
+  },
+  {
+   "n": "057/059",
+   "name": "Virbank City Gym",
+   "v": "n"
+  },
+  {
+   "n": "058/059",
+   "name": "Gold Potion",
+   "v": "n"
+  },
+  {
+   "n": "059/059",
+   "name": "Crystal Wall",
+   "v": "n"
+  },
+  {
+   "n": "060/059",
+   "name": "Cresselia-EX",
+   "v": "n"
+  },
+  {
+   "n": "061/059",
+   "name": "Landorus-EX",
+   "v": "n"
+  },
+  {
+   "n": "062/059",
+   "name": "Black Kyurem-EX",
+   "v": "n"
+  },
+  {
+   "n": "063/059",
+   "name": "Cheren",
+   "v": "n"
+  },
+  {
+   "n": "064/059",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "065/059",
+   "name": "Rocky Helmet",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,458 @@
+{
+ "id": "XY9",
+ "name": "破天の怒り",
+ "serie": "XY BREAK",
+ "serie_id": "XYb",
+ "date": "2015-12-11",
+ "official": 80,
+ "abbr": "XY9",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/080",
+   "name": "Chikorita",
+   "v": "n"
+  },
+  {
+   "n": "002/080",
+   "name": "Bayleef",
+   "v": "n"
+  },
+  {
+   "n": "003/080",
+   "name": "Meganium",
+   "v": "n"
+  },
+  {
+   "n": "004/080",
+   "name": "Seedot",
+   "v": "n"
+  },
+  {
+   "n": "005/080",
+   "name": "Kricketot",
+   "v": "n"
+  },
+  {
+   "n": "006/080",
+   "name": "Kricketune",
+   "v": "n"
+  },
+  {
+   "n": "007/080",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "008/080",
+   "name": "Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "009/080",
+   "name": "Durant",
+   "v": "n"
+  },
+  {
+   "n": "010/080",
+   "name": "Numel",
+   "v": "n"
+  },
+  {
+   "n": "011/080",
+   "name": "Camerupt",
+   "v": "n"
+  },
+  {
+   "n": "012/080",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "013/080",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "014/080",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "015/080",
+   "name": "Slowking",
+   "v": "n"
+  },
+  {
+   "n": "016/080",
+   "name": "Shellder",
+   "v": "n"
+  },
+  {
+   "n": "017/080",
+   "name": "Cloyster",
+   "v": "n"
+  },
+  {
+   "n": "018/080",
+   "name": "Gyarados-EX",
+   "v": "n"
+  },
+  {
+   "n": "019/080",
+   "name": "M Gyarados-EX",
+   "v": "n"
+  },
+  {
+   "n": "020/080",
+   "name": "Suicune",
+   "v": "n"
+  },
+  {
+   "n": "021/080",
+   "name": "Manaphy-EX",
+   "v": "n"
+  },
+  {
+   "n": "022/080",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "023/080",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "024/080",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "025/080",
+   "name": "Ducklett",
+   "v": "n"
+  },
+  {
+   "n": "026/080",
+   "name": "Swanna",
+   "v": "n"
+  },
+  {
+   "n": "027/080",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "028/080",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "029/080",
+   "name": "Greninja",
+   "v": "n"
+  },
+  {
+   "n": "030/080",
+   "name": "Greninja BREAK",
+   "v": "n"
+  },
+  {
+   "n": "031/080",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "032/080",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "033/080",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "034/080",
+   "name": "Hypno",
+   "v": "n"
+  },
+  {
+   "n": "035/080",
+   "name": "Espeon-EX",
+   "v": "n"
+  },
+  {
+   "n": "036/080",
+   "name": "Skorupi",
+   "v": "n"
+  },
+  {
+   "n": "037/080",
+   "name": "Drapion",
+   "v": "n"
+  },
+  {
+   "n": "038/080",
+   "name": "Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "039/080",
+   "name": "Trubbish",
+   "v": "n"
+  },
+  {
+   "n": "040/080",
+   "name": "Garbodor",
+   "v": "n"
+  },
+  {
+   "n": "041/080",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "042/080",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "043/080",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "044/080",
+   "name": "Skrelp",
+   "v": "n"
+  },
+  {
+   "n": "045/080",
+   "name": "Phantump",
+   "v": "n"
+  },
+  {
+   "n": "046/080",
+   "name": "Trevenant",
+   "v": "n"
+  },
+  {
+   "n": "047/080",
+   "name": "Trevenant BREAK",
+   "v": "n"
+  },
+  {
+   "n": "048/080",
+   "name": "Sudowoodo",
+   "v": "n"
+  },
+  {
+   "n": "049/080",
+   "name": "Gible",
+   "v": "n"
+  },
+  {
+   "n": "050/080",
+   "name": "Gabite",
+   "v": "n"
+  },
+  {
+   "n": "051/080",
+   "name": "Garchomp",
+   "v": "n"
+  },
+  {
+   "n": "052/080",
+   "name": "Pancham",
+   "v": "n"
+  },
+  {
+   "n": "053/080",
+   "name": "Nuzleaf",
+   "v": "n"
+  },
+  {
+   "n": "054/080",
+   "name": "Shiftry",
+   "v": "n"
+  },
+  {
+   "n": "055/080",
+   "name": "Darkrai-EX",
+   "v": "n"
+  },
+  {
+   "n": "056/080",
+   "name": "Pangoro",
+   "v": "n"
+  },
+  {
+   "n": "057/080",
+   "name": "Scizor-EX",
+   "v": "n"
+  },
+  {
+   "n": "058/080",
+   "name": "M Scizor-EX",
+   "v": "n"
+  },
+  {
+   "n": "059/080",
+   "name": "Ferroseed",
+   "v": "n"
+  },
+  {
+   "n": "060/080",
+   "name": "Ferrothorn",
+   "v": "n"
+  },
+  {
+   "n": "061/080",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "062/080",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "063/080",
+   "name": "Dragalge",
+   "v": "n"
+  },
+  {
+   "n": "064/080",
+   "name": "Rattata",
+   "v": "n"
+  },
+  {
+   "n": "065/080",
+   "name": "Raticate",
+   "v": "n"
+  },
+  {
+   "n": "066/080",
+   "name": "Raticate BREAK",
+   "v": "n"
+  },
+  {
+   "n": "067/080",
+   "name": "Stantler",
+   "v": "n"
+  },
+  {
+   "n": "068/080",
+   "name": "Ho-Oh-EX",
+   "v": "n"
+  },
+  {
+   "n": "069/080",
+   "name": "Glameow",
+   "v": "n"
+  },
+  {
+   "n": "070/080",
+   "name": "Purugly",
+   "v": "n"
+  },
+  {
+   "n": "071/080",
+   "name": "Puzzle of Time",
+   "v": "n"
+  },
+  {
+   "n": "072/080",
+   "name": "Max Elixir",
+   "v": "n"
+  },
+  {
+   "n": "073/080",
+   "name": "Bursting Balloon",
+   "v": "n"
+  },
+  {
+   "n": "074/080",
+   "name": "Fighting Fury Belt",
+   "v": "n"
+  },
+  {
+   "n": "075/080",
+   "name": "Gyarados Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "076/080",
+   "name": "Scizor Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "077/080",
+   "name": "Delinquent",
+   "v": "n"
+  },
+  {
+   "n": "078/080",
+   "name": "Psychics Third Eye",
+   "v": "n"
+  },
+  {
+   "n": "079/080",
+   "name": "Reverse Valley",
+   "v": "n"
+  },
+  {
+   "n": "080/080",
+   "name": "Splash Energy",
+   "v": "n"
+  },
+  {
+   "n": "081/080",
+   "name": "Gyarados-EX",
+   "v": "n"
+  },
+  {
+   "n": "082/080",
+   "name": "M Gyarados-EX",
+   "v": "n"
+  },
+  {
+   "n": "083/080",
+   "name": "Manaphy-EX",
+   "v": "n"
+  },
+  {
+   "n": "084/080",
+   "name": "Espeon-EX",
+   "v": "n"
+  },
+  {
+   "n": "085/080",
+   "name": "Darkrai-EX",
+   "v": "n"
+  },
+  {
+   "n": "086/080",
+   "name": "Scizor-EX",
+   "v": "n"
+  },
+  {
+   "n": "087/080",
+   "name": "M Scizor-EX",
+   "v": "n"
+  },
+  {
+   "n": "088/080",
+   "name": "Ho-Oh-EX",
+   "v": "n"
+  },
+  {
+   "n": "089/080",
+   "name": "Gyarados-EX",
+   "v": "n"
+  }
+ ]
+}

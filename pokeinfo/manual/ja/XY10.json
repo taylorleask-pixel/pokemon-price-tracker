@@ -1,0 +1,453 @@
+{
+ "id": "XY10",
+ "name": "めざめる超王",
+ "serie": "XY BREAK",
+ "serie_id": "XYb",
+ "date": "2016-03-18",
+ "official": 78,
+ "abbr": "XY10",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/078",
+   "name": "Shuckle",
+   "v": "n"
+  },
+  {
+   "n": "002/078",
+   "name": "Burmy",
+   "v": "n"
+  },
+  {
+   "n": "003/078",
+   "name": "Wormadam",
+   "v": "n"
+  },
+  {
+   "n": "004/078",
+   "name": "Mothim",
+   "v": "n"
+  },
+  {
+   "n": "005/078",
+   "name": "Snivy",
+   "v": "n"
+  },
+  {
+   "n": "006/078",
+   "name": "Servine",
+   "v": "n"
+  },
+  {
+   "n": "007/078",
+   "name": "Serperior",
+   "v": "n"
+  },
+  {
+   "n": "008/078",
+   "name": "Moltres",
+   "v": "n"
+  },
+  {
+   "n": "009/078",
+   "name": "Fennekin",
+   "v": "n"
+  },
+  {
+   "n": "010/078",
+   "name": "Braixen",
+   "v": "n"
+  },
+  {
+   "n": "011/078",
+   "name": "Delphox",
+   "v": "n"
+  },
+  {
+   "n": "012/078",
+   "name": "Delphox BREAK",
+   "v": "n"
+  },
+  {
+   "n": "013/078",
+   "name": "Seel",
+   "v": "n"
+  },
+  {
+   "n": "014/078",
+   "name": "Dewgong",
+   "v": "n"
+  },
+  {
+   "n": "015/078",
+   "name": "Omanyte",
+   "v": "n"
+  },
+  {
+   "n": "016/078",
+   "name": "Omastar",
+   "v": "n"
+  },
+  {
+   "n": "017/078",
+   "name": "Omastar BREAK",
+   "v": "n"
+  },
+  {
+   "n": "018/078",
+   "name": "Glaceon-EX",
+   "v": "n"
+  },
+  {
+   "n": "019/078",
+   "name": "White Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "020/078",
+   "name": "Binacle",
+   "v": "n"
+  },
+  {
+   "n": "021/078",
+   "name": "Barbaracle",
+   "v": "n"
+  },
+  {
+   "n": "022/078",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "023/078",
+   "name": "Alakazam-EX",
+   "v": "n"
+  },
+  {
+   "n": "024/078",
+   "name": "M Alakazam-EX",
+   "v": "n"
+  },
+  {
+   "n": "025/078",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "026/078",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "027/078",
+   "name": "Mew",
+   "v": "n"
+  },
+  {
+   "n": "028/078",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "029/078",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "030/078",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "031/078",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "032/078",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "033/078",
+   "name": "Kabuto",
+   "v": "n"
+  },
+  {
+   "n": "034/078",
+   "name": "Kabutops",
+   "v": "n"
+  },
+  {
+   "n": "035/078",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "036/078",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "037/078",
+   "name": "Wormadam",
+   "v": "n"
+  },
+  {
+   "n": "038/078",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "039/078",
+   "name": "Carbink",
+   "v": "n"
+  },
+  {
+   "n": "040/078",
+   "name": "Zygarde",
+   "v": "n"
+  },
+  {
+   "n": "041/078",
+   "name": "Zygarde",
+   "v": "n"
+  },
+  {
+   "n": "042/078",
+   "name": "Umbreon-EX",
+   "v": "n"
+  },
+  {
+   "n": "043/078",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "044/078",
+   "name": "Vullaby",
+   "v": "n"
+  },
+  {
+   "n": "045/078",
+   "name": "Mandibuzz",
+   "v": "n"
+  },
+  {
+   "n": "046/078",
+   "name": "Wormadam",
+   "v": "n"
+  },
+  {
+   "n": "047/078",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "048/078",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "049/078",
+   "name": "Bronzong BREAK",
+   "v": "n"
+  },
+  {
+   "n": "050/078",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "051/078",
+   "name": "Genesect-EX",
+   "v": "n"
+  },
+  {
+   "n": "052/078",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "053/078",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "054/078",
+   "name": "M Altaria-EX",
+   "v": "n"
+  },
+  {
+   "n": "055/078",
+   "name": "Kingdra-EX",
+   "v": "n"
+  },
+  {
+   "n": "056/078",
+   "name": "Aerodactyl",
+   "v": "n"
+  },
+  {
+   "n": "057/078",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "058/078",
+   "name": "Lugia",
+   "v": "n"
+  },
+  {
+   "n": "059/078",
+   "name": "Lugia BREAK",
+   "v": "n"
+  },
+  {
+   "n": "060/078",
+   "name": "Whismur",
+   "v": "n"
+  },
+  {
+   "n": "061/078",
+   "name": "Loudred",
+   "v": "n"
+  },
+  {
+   "n": "062/078",
+   "name": "Exploud",
+   "v": "n"
+  },
+  {
+   "n": "063/078",
+   "name": "Altaria-EX",
+   "v": "n"
+  },
+  {
+   "n": "064/078",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "065/078",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "066/078",
+   "name": "Fossil Excavation Kit",
+   "v": "n"
+  },
+  {
+   "n": "067/078",
+   "name": "Devolution Spray",
+   "v": "n"
+  },
+  {
+   "n": "068/078",
+   "name": "Mega Catcher",
+   "v": "n"
+  },
+  {
+   "n": "069/078",
+   "name": "Helix Fossil Omanyte",
+   "v": "n"
+  },
+  {
+   "n": "070/078",
+   "name": "Dome Fossil Kabuto",
+   "v": "n"
+  },
+  {
+   "n": "071/078",
+   "name": "Old Amber Aerodactyl",
+   "v": "n"
+  },
+  {
+   "n": "072/078",
+   "name": "Energy Pouch",
+   "v": "n"
+  },
+  {
+   "n": "073/078",
+   "name": "Bent Spoon",
+   "v": "n"
+  },
+  {
+   "n": "074/078",
+   "name": "Altaria Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "075/078",
+   "name": "Alakazam Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "076/078",
+   "name": "N",
+   "v": "n"
+  },
+  {
+   "n": "077/078",
+   "name": "Team Rocket's Handiwork",
+   "v": "n"
+  },
+  {
+   "n": "078/078",
+   "name": "Chaos Tower",
+   "v": "n"
+  },
+  {
+   "n": "079/078",
+   "name": "Glaceon-EX",
+   "v": "n"
+  },
+  {
+   "n": "080/078",
+   "name": "Alakazam-EX",
+   "v": "n"
+  },
+  {
+   "n": "081/078",
+   "name": "M Alakazam-EX",
+   "v": "n"
+  },
+  {
+   "n": "082/078",
+   "name": "Umbreon-EX",
+   "v": "n"
+  },
+  {
+   "n": "083/078",
+   "name": "Genesect-EX",
+   "v": "n"
+  },
+  {
+   "n": "084/078",
+   "name": "M Altaria-EX",
+   "v": "n"
+  },
+  {
+   "n": "085/078",
+   "name": "Kingdra-EX",
+   "v": "n"
+  },
+  {
+   "n": "086/078",
+   "name": "Altaria-EX",
+   "v": "n"
+  },
+  {
+   "n": "087/078",
+   "name": "Team Rocket's Handiwork",
+   "v": "n"
+  },
+  {
+   "n": "088/078",
+   "name": "Alakazam-EX",
+   "v": "n"
+  }
+ ]
+}

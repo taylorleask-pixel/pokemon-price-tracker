@@ -1,0 +1,553 @@
+{
+ "id": "PCG10",
+ "name": "ワールドチャンピオンズパック",
+ "serie": "PCG",
+ "serie_id": "PCG",
+ "date": "2007-07-05",
+ "official": 108,
+ "abbr": "PCG10",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/108",
+   "name": "Seedot",
+   "v": "n"
+  },
+  {
+   "n": "002/108",
+   "name": "Cacnea",
+   "v": "n"
+  },
+  {
+   "n": "003/108",
+   "name": "Seviper",
+   "v": "n"
+  },
+  {
+   "n": "004/108",
+   "name": "Lileep",
+   "v": "n"
+  },
+  {
+   "n": "005/108",
+   "name": "Cradily",
+   "v": "n"
+  },
+  {
+   "n": "006/108",
+   "name": "Charmander",
+   "v": "n"
+  },
+  {
+   "n": "007/108",
+   "name": "Charmeleon",
+   "v": "n"
+  },
+  {
+   "n": "008/108",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "009/108",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "010/108",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "011/108",
+   "name": "Flareon ☆",
+   "v": "n"
+  },
+  {
+   "n": "012/108",
+   "name": "Torchic",
+   "v": "n"
+  },
+  {
+   "n": "013/108",
+   "name": "Combusken",
+   "v": "n"
+  },
+  {
+   "n": "014/108",
+   "name": "Blaziken",
+   "v": "n"
+  },
+  {
+   "n": "015/108",
+   "name": "Vaporeon ☆",
+   "v": "n"
+  },
+  {
+   "n": "016/108",
+   "name": "Omanyte",
+   "v": "n"
+  },
+  {
+   "n": "017/108",
+   "name": "Omastar",
+   "v": "n"
+  },
+  {
+   "n": "018/108",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "019/108",
+   "name": "Glalie",
+   "v": "n"
+  },
+  {
+   "n": "020/108",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "021/108",
+   "name": "Sealeo",
+   "v": "n"
+  },
+  {
+   "n": "022/108",
+   "name": "Walrein ex",
+   "v": "n"
+  },
+  {
+   "n": "023/108",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "024/108",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "025/108",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "026/108",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "027/108",
+   "name": "Jolteon ☆",
+   "v": "n"
+  },
+  {
+   "n": "028/108",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "029/108",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "030/108",
+   "name": "Pichu",
+   "v": "n"
+  },
+  {
+   "n": "031/108",
+   "name": "Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "032/108",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "033/108",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "034/108",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "035/108",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "036/108",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "037/108",
+   "name": "Claydol ex",
+   "v": "n"
+  },
+  {
+   "n": "038/108",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "039/108",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "040/108",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "041/108",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "042/108",
+   "name": "Wynaut",
+   "v": "n"
+  },
+  {
+   "n": "043/108",
+   "name": "Machop",
+   "v": "n"
+  },
+  {
+   "n": "044/108",
+   "name": "Machoke",
+   "v": "n"
+  },
+  {
+   "n": "045/108",
+   "name": "Machamp",
+   "v": "n"
+  },
+  {
+   "n": "046/108",
+   "name": "Kabuto",
+   "v": "n"
+  },
+  {
+   "n": "047/108",
+   "name": "Kabutops",
+   "v": "n"
+  },
+  {
+   "n": "048/108",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "049/108",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "050/108",
+   "name": "Trapinch",
+   "v": "n"
+  },
+  {
+   "n": "051/108",
+   "name": "Anorith",
+   "v": "n"
+  },
+  {
+   "n": "052/108",
+   "name": "Armaldo",
+   "v": "n"
+  },
+  {
+   "n": "053/108",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "054/108",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "055/108",
+   "name": "Nuzleaf",
+   "v": "n"
+  },
+  {
+   "n": "056/108",
+   "name": "Shiftry ex",
+   "v": "n"
+  },
+  {
+   "n": "057/108",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "058/108",
+   "name": "Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "059/108",
+   "name": "Cacturne",
+   "v": "n"
+  },
+  {
+   "n": "060/108",
+   "name": "Absol ex",
+   "v": "n"
+  },
+  {
+   "n": "061/108",
+   "name": "Skarmory ex",
+   "v": "n"
+  },
+  {
+   "n": "062/108",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "063/108",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "064/108",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "065/108",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "066/108",
+   "name": "Beldum",
+   "v": "n"
+  },
+  {
+   "n": "067/108",
+   "name": "Metang",
+   "v": "n"
+  },
+  {
+   "n": "068/108",
+   "name": "Metagross ex",
+   "v": "n"
+  },
+  {
+   "n": "069/108",
+   "name": "Slakoth",
+   "v": "n"
+  },
+  {
+   "n": "070/108",
+   "name": "Vigoroth",
+   "v": "n"
+  },
+  {
+   "n": "071/108",
+   "name": "Slaking",
+   "v": "n"
+  },
+  {
+   "n": "072/108",
+   "name": "Skitty",
+   "v": "n"
+  },
+  {
+   "n": "073/108",
+   "name": "Delcatty",
+   "v": "n"
+  },
+  {
+   "n": "074/108",
+   "name": "Vibrava",
+   "v": "n"
+  },
+  {
+   "n": "075/108",
+   "name": "Flygon ex",
+   "v": "n"
+  },
+  {
+   "n": "076/108",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "077/108",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "078/108",
+   "name": "Zangoose",
+   "v": "n"
+  },
+  {
+   "n": "079/108",
+   "name": "Bagon",
+   "v": "n"
+  },
+  {
+   "n": "080/108",
+   "name": "Shelgon",
+   "v": "n"
+  },
+  {
+   "n": "081/108",
+   "name": "Salamence ex",
+   "v": "n"
+  },
+  {
+   "n": "082/108",
+   "name": "Energy Recycle System",
+   "v": "n"
+  },
+  {
+   "n": "083/108",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "084/108",
+   "name": "Energy Removal",
+   "v": "n"
+  },
+  {
+   "n": "085/108",
+   "name": "Great Ball",
+   "v": "n"
+  },
+  {
+   "n": "086/108",
+   "name": "Claw Fossil",
+   "v": "n"
+  },
+  {
+   "n": "087/108",
+   "name": "Mysterious Fossil",
+   "v": "n"
+  },
+  {
+   "n": "088/108",
+   "name": "Root Fossil",
+   "v": "n"
+  },
+  {
+   "n": "089/108",
+   "name": "Master Ball",
+   "v": "n"
+  },
+  {
+   "n": "090/108",
+   "name": "Scott",
+   "v": "n"
+  },
+  {
+   "n": "091/108",
+   "name": "Professor Birch",
+   "v": "n"
+  },
+  {
+   "n": "092/108",
+   "name": "Steven's Advice",
+   "v": "n"
+  },
+  {
+   "n": "093/108",
+   "name": "Battle Frontier",
+   "v": "n"
+  },
+  {
+   "n": "094/108",
+   "name": "Sidney's Stadium",
+   "v": "n"
+  },
+  {
+   "n": "095/108",
+   "name": "Drake's Stadium",
+   "v": "n"
+  },
+  {
+   "n": "096/108",
+   "name": "Phoebe's Stadium",
+   "v": "n"
+  },
+  {
+   "n": "097/108",
+   "name": "Glacia's Stadium",
+   "v": "n"
+  },
+  {
+   "n": "098/108",
+   "name": "Cyclone Energy",
+   "v": "n"
+  },
+  {
+   "n": "099/108",
+   "name": "Multi Energy",
+   "v": "n"
+  },
+  {
+   "n": "100/108",
+   "name": "Warp Energy",
+   "v": "n"
+  },
+  {
+   "n": "101/108",
+   "name": "Darkness Energy",
+   "v": "n"
+  },
+  {
+   "n": "102/108",
+   "name": "Metal Energy",
+   "v": "n"
+  },
+  {
+   "n": "103/108",
+   "name": "Grass Energy",
+   "v": "n"
+  },
+  {
+   "n": "104/108",
+   "name": "Fire Energy",
+   "v": "n"
+  },
+  {
+   "n": "105/108",
+   "name": "Water Energy",
+   "v": "n"
+  },
+  {
+   "n": "106/108",
+   "name": "Lightning Energy",
+   "v": "n"
+  },
+  {
+   "n": "107/108",
+   "name": "Psychic Energy",
+   "v": "n"
+  },
+  {
+   "n": "108/108",
+   "name": "Fighting Energy",
+   "v": "n"
+  }
+ ]
+}

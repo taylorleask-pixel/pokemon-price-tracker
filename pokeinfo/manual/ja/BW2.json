@@ -1,0 +1,373 @@
+{
+ "id": "BW2",
+ "name": "レッドコレクション",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2011-07-15",
+ "official": 66,
+ "abbr": "BW2",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/066",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "002/066",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "003/066",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "004/066",
+   "name": "Foongus",
+   "v": "n"
+  },
+  {
+   "n": "005/066",
+   "name": "Amoonguss",
+   "v": "n"
+  },
+  {
+   "n": "006/066",
+   "name": "Shelmet",
+   "v": "n"
+  },
+  {
+   "n": "007/066",
+   "name": "Accelgor",
+   "v": "n"
+  },
+  {
+   "n": "008/066",
+   "name": "Virizion",
+   "v": "n"
+  },
+  {
+   "n": "009/066",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "010/066",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "011/066",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "012/066",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "013/066",
+   "name": "Tympole",
+   "v": "n"
+  },
+  {
+   "n": "014/066",
+   "name": "Palpitoad",
+   "v": "n"
+  },
+  {
+   "n": "015/066",
+   "name": "Seismitoad",
+   "v": "n"
+  },
+  {
+   "n": "016/066",
+   "name": "Tirtouga",
+   "v": "n"
+  },
+  {
+   "n": "017/066",
+   "name": "Carracosta",
+   "v": "n"
+  },
+  {
+   "n": "018/066",
+   "name": "Vanillite",
+   "v": "n"
+  },
+  {
+   "n": "019/066",
+   "name": "Vanillish",
+   "v": "n"
+  },
+  {
+   "n": "020/066",
+   "name": "Vanilluxe",
+   "v": "n"
+  },
+  {
+   "n": "021/066",
+   "name": "Frillish",
+   "v": "n"
+  },
+  {
+   "n": "022/066",
+   "name": "Jellicent",
+   "v": "n"
+  },
+  {
+   "n": "023/066",
+   "name": "Cryogonal",
+   "v": "n"
+  },
+  {
+   "n": "024/066",
+   "name": "Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "025/066",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "026/066",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "027/066",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "028/066",
+   "name": "Yamask",
+   "v": "n"
+  },
+  {
+   "n": "029/066",
+   "name": "Cofagrigus",
+   "v": "n"
+  },
+  {
+   "n": "030/066",
+   "name": "Trubbish",
+   "v": "n"
+  },
+  {
+   "n": "031/066",
+   "name": "Garbodor",
+   "v": "n"
+  },
+  {
+   "n": "032/066",
+   "name": "Elgyem",
+   "v": "n"
+  },
+  {
+   "n": "033/066",
+   "name": "Beheeyem",
+   "v": "n"
+  },
+  {
+   "n": "034/066",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "035/066",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "036/066",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "037/066",
+   "name": "Gigalith",
+   "v": "n"
+  },
+  {
+   "n": "038/066",
+   "name": "Conkeldurr",
+   "v": "n"
+  },
+  {
+   "n": "039/066",
+   "name": "Archen",
+   "v": "n"
+  },
+  {
+   "n": "040/066",
+   "name": "Archeops",
+   "v": "n"
+  },
+  {
+   "n": "041/066",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "042/066",
+   "name": "Mienfoo",
+   "v": "n"
+  },
+  {
+   "n": "043/066",
+   "name": "Mienshao",
+   "v": "n"
+  },
+  {
+   "n": "044/066",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "045/066",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "046/066",
+   "name": "Terrakion",
+   "v": "n"
+  },
+  {
+   "n": "047/066",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "048/066",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "049/066",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "050/066",
+   "name": "Deino",
+   "v": "n"
+  },
+  {
+   "n": "051/066",
+   "name": "Zweilous",
+   "v": "n"
+  },
+  {
+   "n": "052/066",
+   "name": "Hydreigon",
+   "v": "n"
+  },
+  {
+   "n": "053/066",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "054/066",
+   "name": "Durant",
+   "v": "n"
+  },
+  {
+   "n": "055/066",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "056/066",
+   "name": "Axew",
+   "v": "n"
+  },
+  {
+   "n": "057/066",
+   "name": "Fraxure",
+   "v": "n"
+  },
+  {
+   "n": "058/066",
+   "name": "Haxorus",
+   "v": "n"
+  },
+  {
+   "n": "059/066",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "060/066",
+   "name": "Super Rod",
+   "v": "n"
+  },
+  {
+   "n": "061/066",
+   "name": "Xtransceiver",
+   "v": "n"
+  },
+  {
+   "n": "062/066",
+   "name": "Plume Fossil",
+   "v": "n"
+  },
+  {
+   "n": "063/066",
+   "name": "Cover Fossil",
+   "v": "n"
+  },
+  {
+   "n": "064/066",
+   "name": "Rocky Helmet",
+   "v": "n"
+  },
+  {
+   "n": "065/066",
+   "name": "Eviolite",
+   "v": "n"
+  },
+  {
+   "n": "066/066",
+   "name": "N",
+   "v": "n"
+  },
+  {
+   "n": "067/066",
+   "name": "Virizion",
+   "v": "n"
+  },
+  {
+   "n": "068/066",
+   "name": "Terrakion",
+   "v": "n"
+  },
+  {
+   "n": "069/066",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "070/066",
+   "name": "Victini",
+   "v": "n"
+  },
+  {
+   "n": "071/066",
+   "name": "N",
+   "v": "n"
+  },
+  {
+   "n": "072/066",
+   "name": "Meowth",
+   "v": "n"
+  }
+ ]
+}

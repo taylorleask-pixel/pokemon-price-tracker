@@ -1,0 +1,428 @@
+{
+ "id": "ADV5",
+ "name": "とかれた封印",
+ "serie": "ADV",
+ "serie_id": "ADV",
+ "date": "2004-01-16",
+ "official": 83,
+ "abbr": "ADV5",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/083",
+   "name": "Zubat",
+   "v": "n"
+  },
+  {
+   "n": "002/083",
+   "name": "Golbat",
+   "v": "n"
+  },
+  {
+   "n": "003/083",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "004/083",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "005/083",
+   "name": "Vileplume ex",
+   "v": "n"
+  },
+  {
+   "n": "006/083",
+   "name": "Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "007/083",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "008/083",
+   "name": "Bellossom",
+   "v": "n"
+  },
+  {
+   "n": "009/083",
+   "name": "Heracross",
+   "v": "n"
+  },
+  {
+   "n": "010/083",
+   "name": "Seedot",
+   "v": "n"
+  },
+  {
+   "n": "011/083",
+   "name": "Surskit",
+   "v": "n"
+  },
+  {
+   "n": "012/083",
+   "name": "Masquerain",
+   "v": "n"
+  },
+  {
+   "n": "013/083",
+   "name": "Gulpin",
+   "v": "n"
+  },
+  {
+   "n": "014/083",
+   "name": "Swalot",
+   "v": "n"
+  },
+  {
+   "n": "015/083",
+   "name": "Tropius",
+   "v": "n"
+  },
+  {
+   "n": "016/083",
+   "name": "Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "017/083",
+   "name": "Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "018/083",
+   "name": "Ninetales ex",
+   "v": "n"
+  },
+  {
+   "n": "019/083",
+   "name": "Sunny Castform",
+   "v": "n"
+  },
+  {
+   "n": "020/083",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "021/083",
+   "name": "Tentacruel",
+   "v": "n"
+  },
+  {
+   "n": "022/083",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "023/083",
+   "name": "Corsola",
+   "v": "n"
+  },
+  {
+   "n": "024/083",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "025/083",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "026/083",
+   "name": "Rain Castform",
+   "v": "n"
+  },
+  {
+   "n": "027/083",
+   "name": "Snow-cloud Castform",
+   "v": "n"
+  },
+  {
+   "n": "028/083",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "029/083",
+   "name": "Glalie",
+   "v": "n"
+  },
+  {
+   "n": "030/083",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "031/083",
+   "name": "Sealeo",
+   "v": "n"
+  },
+  {
+   "n": "032/083",
+   "name": "Walrein",
+   "v": "n"
+  },
+  {
+   "n": "033/083",
+   "name": "Clamperl",
+   "v": "n"
+  },
+  {
+   "n": "034/083",
+   "name": "Huntail",
+   "v": "n"
+  },
+  {
+   "n": "035/083",
+   "name": "Gorebyss",
+   "v": "n"
+  },
+  {
+   "n": "036/083",
+   "name": "Relicanth",
+   "v": "n"
+  },
+  {
+   "n": "037/083",
+   "name": "Luvdisc",
+   "v": "n"
+  },
+  {
+   "n": "038/083",
+   "name": "Regice ex",
+   "v": "n"
+  },
+  {
+   "n": "039/083",
+   "name": "Kyogre ex",
+   "v": "n"
+  },
+  {
+   "n": "040/083",
+   "name": "Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "041/083",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "042/083",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "043/083",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "044/083",
+   "name": "Starmie",
+   "v": "n"
+  },
+  {
+   "n": "045/083",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "046/083",
+   "name": "Shuppet",
+   "v": "n"
+  },
+  {
+   "n": "047/083",
+   "name": "Banette",
+   "v": "n"
+  },
+  {
+   "n": "048/083",
+   "name": "Chimecho",
+   "v": "n"
+  },
+  {
+   "n": "049/083",
+   "name": "Machop",
+   "v": "n"
+  },
+  {
+   "n": "050/083",
+   "name": "Machoke",
+   "v": "n"
+  },
+  {
+   "n": "051/083",
+   "name": "Machamp",
+   "v": "n"
+  },
+  {
+   "n": "052/083",
+   "name": "Rhyhorn",
+   "v": "n"
+  },
+  {
+   "n": "053/083",
+   "name": "Rhydon",
+   "v": "n"
+  },
+  {
+   "n": "054/083",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "055/083",
+   "name": "Regirock ex",
+   "v": "n"
+  },
+  {
+   "n": "056/083",
+   "name": "Groudon ex",
+   "v": "n"
+  },
+  {
+   "n": "057/083",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "058/083",
+   "name": "Wigglytuff ex",
+   "v": "n"
+  },
+  {
+   "n": "059/083",
+   "name": "Doduo",
+   "v": "n"
+  },
+  {
+   "n": "060/083",
+   "name": "Dodrio",
+   "v": "n"
+  },
+  {
+   "n": "061/083",
+   "name": "Igglybuff",
+   "v": "n"
+  },
+  {
+   "n": "062/083",
+   "name": "Whismur",
+   "v": "n"
+  },
+  {
+   "n": "063/083",
+   "name": "Loudred",
+   "v": "n"
+  },
+  {
+   "n": "064/083",
+   "name": "Exploud",
+   "v": "n"
+  },
+  {
+   "n": "065/083",
+   "name": "Spinda",
+   "v": "n"
+  },
+  {
+   "n": "066/083",
+   "name": "Castform",
+   "v": "n"
+  },
+  {
+   "n": "067/083",
+   "name": "Nuzleaf",
+   "v": "n"
+  },
+  {
+   "n": "068/083",
+   "name": "Shiftry",
+   "v": "n"
+  },
+  {
+   "n": "069/083",
+   "name": "Beldum",
+   "v": "n"
+  },
+  {
+   "n": "070/083",
+   "name": "Metang",
+   "v": "n"
+  },
+  {
+   "n": "071/083",
+   "name": "Metagross ex",
+   "v": "n"
+  },
+  {
+   "n": "072/083",
+   "name": "Registeel ex",
+   "v": "n"
+  },
+  {
+   "n": "073/083",
+   "name": "Life Herb",
+   "v": "n"
+  },
+  {
+   "n": "074/083",
+   "name": "Steven's Advice",
+   "v": "n"
+  },
+  {
+   "n": "075/083",
+   "name": "Ancient Technical Machine [Ice]",
+   "v": "n"
+  },
+  {
+   "n": "076/083",
+   "name": "Ancient Technical Machine [Rock]",
+   "v": "n"
+  },
+  {
+   "n": "077/083",
+   "name": "Ancient Technical Machine [Steel]",
+   "v": "n"
+  },
+  {
+   "n": "078/083",
+   "name": "Island Cave",
+   "v": "n"
+  },
+  {
+   "n": "079/083",
+   "name": "Ancient Tomb",
+   "v": "n"
+  },
+  {
+   "n": "080/083",
+   "name": "Desert Ruins",
+   "v": "n"
+  },
+  {
+   "n": "081/083",
+   "name": "High Pressure System",
+   "v": "n"
+  },
+  {
+   "n": "082/083",
+   "name": "Low Pressure System",
+   "v": "n"
+  },
+  {
+   "n": "083/083",
+   "name": "Magnetic Storm",
+   "v": "n"
+  }
+ ]
+}

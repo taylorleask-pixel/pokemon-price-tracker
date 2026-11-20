@@ -1,0 +1,413 @@
+{
+ "id": "XY5b",
+ "name": "タイダルストーム",
+ "serie": "XY",
+ "serie_id": "XY",
+ "date": "2014-12-13",
+ "official": 70,
+ "abbr": "XY5b",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Lotad",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Lombre",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Surskit",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Masquerain",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Mudkip",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Marshtomp",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Swampert",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Swampert",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Wailord-EX",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Barboach",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Whiscash",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Whiscash",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Corphish",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Feebas",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Milotic",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Sealeo",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Walrein",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Clamperl",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Huntail",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Gorebyss",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Gorebyss",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Kyogre-EX",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Primal Kyogre-EX",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Manaphy",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Tentacruel",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Starmie",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Sharpedo-EX",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Crawdaunt",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Marill",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Azumarill",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Azumarill",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "M Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Skitty",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Delcatty",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Spinda",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Bidoof",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Bidoof",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Bibarel",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Escape Rope",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Fresh Water Set",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Dive Ball",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Exp. Share",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Kyogre Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Gardevoir Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Archie's Ace in the Hole",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Professor Birch's Observations",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Rough Seas",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Silent Lab",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Wonder Energy",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Wailord-EX",
+   "v": "n"
+  },
+  {
+   "n": "072/070",
+   "name": "Kyogre-EX",
+   "v": "n"
+  },
+  {
+   "n": "073/070",
+   "name": "Primal Kyogre-EX",
+   "v": "n"
+  },
+  {
+   "n": "074/070",
+   "name": "Sharpedo-EX",
+   "v": "n"
+  },
+  {
+   "n": "075/070",
+   "name": "Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "076/070",
+   "name": "M Gardevoir-EX",
+   "v": "n"
+  },
+  {
+   "n": "077/070",
+   "name": "Archie's Ace in the Hole",
+   "v": "n"
+  },
+  {
+   "n": "078/070",
+   "name": "Professor Birch's Observations",
+   "v": "n"
+  },
+  {
+   "n": "079/070",
+   "name": "Enhanced Hammer",
+   "v": "n"
+  },
+  {
+   "n": "080/070",
+   "name": "Dive Ball",
+   "v": "n"
+  }
+ ]
+}

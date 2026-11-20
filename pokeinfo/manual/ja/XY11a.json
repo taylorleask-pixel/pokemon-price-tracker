@@ -1,0 +1,308 @@
+{
+ "id": "XY11a",
+ "name": "爆熱の闘士",
+ "serie": "XY BREAK",
+ "serie_id": "XYb",
+ "date": "2016-06-17",
+ "official": 54,
+ "abbr": "XY11a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/054",
+   "name": "Seedot",
+   "v": "n"
+  },
+  {
+   "n": "002/054",
+   "name": "Nuzleaf",
+   "v": "n"
+  },
+  {
+   "n": "003/054",
+   "name": "Shiftry",
+   "v": "n"
+  },
+  {
+   "n": "004/054",
+   "name": "Foongus",
+   "v": "n"
+  },
+  {
+   "n": "005/054",
+   "name": "Amoonguss",
+   "v": "n"
+  },
+  {
+   "n": "006/054",
+   "name": "Ponyta",
+   "v": "n"
+  },
+  {
+   "n": "007/054",
+   "name": "Rapidash",
+   "v": "n"
+  },
+  {
+   "n": "008/054",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "009/054",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "010/054",
+   "name": "Pyroar BREAK",
+   "v": "n"
+  },
+  {
+   "n": "011/054",
+   "name": "Volcanion",
+   "v": "n"
+  },
+  {
+   "n": "012/054",
+   "name": "Volcanion-EX",
+   "v": "n"
+  },
+  {
+   "n": "013/054",
+   "name": "Shellos",
+   "v": "n"
+  },
+  {
+   "n": "014/054",
+   "name": "Gastrodon",
+   "v": "n"
+  },
+  {
+   "n": "015/054",
+   "name": "Oshawott",
+   "v": "n"
+  },
+  {
+   "n": "016/054",
+   "name": "Dewott",
+   "v": "n"
+  },
+  {
+   "n": "017/054",
+   "name": "Samurott",
+   "v": "n"
+  },
+  {
+   "n": "018/054",
+   "name": "Clauncher",
+   "v": "n"
+  },
+  {
+   "n": "019/054",
+   "name": "Clawitzer",
+   "v": "n"
+  },
+  {
+   "n": "020/054",
+   "name": "Clawitzer BREAK",
+   "v": "n"
+  },
+  {
+   "n": "021/054",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "022/054",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "023/054",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "024/054",
+   "name": "Drifblim",
+   "v": "n"
+  },
+  {
+   "n": "025/054",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "026/054",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "027/054",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "028/054",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "029/054",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "030/054",
+   "name": "Croagunk",
+   "v": "n"
+  },
+  {
+   "n": "031/054",
+   "name": "Toxicroak",
+   "v": "n"
+  },
+  {
+   "n": "032/054",
+   "name": "Steelix-EX",
+   "v": "n"
+  },
+  {
+   "n": "033/054",
+   "name": "M Steelix-EX",
+   "v": "n"
+  },
+  {
+   "n": "034/054",
+   "name": "Shieldon",
+   "v": "n"
+  },
+  {
+   "n": "035/054",
+   "name": "Bastiodon",
+   "v": "n"
+  },
+  {
+   "n": "036/054",
+   "name": "Klink",
+   "v": "n"
+  },
+  {
+   "n": "037/054",
+   "name": "Klang",
+   "v": "n"
+  },
+  {
+   "n": "038/054",
+   "name": "Klinklang",
+   "v": "n"
+  },
+  {
+   "n": "039/054",
+   "name": "Cobalion",
+   "v": "n"
+  },
+  {
+   "n": "040/054",
+   "name": "Klefki",
+   "v": "n"
+  },
+  {
+   "n": "041/054",
+   "name": "Xerneas",
+   "v": "n"
+  },
+  {
+   "n": "042/054",
+   "name": "Xerneas BREAK",
+   "v": "n"
+  },
+  {
+   "n": "043/054",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "044/054",
+   "name": "Aipom",
+   "v": "n"
+  },
+  {
+   "n": "045/054",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "046/054",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "047/054",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "048/054",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "049/054",
+   "name": "Armor Fossil Shieldon",
+   "v": "n"
+  },
+  {
+   "n": "050/054",
+   "name": "Special Charge",
+   "v": "n"
+  },
+  {
+   "n": "051/054",
+   "name": "Greedy Dice",
+   "v": "n"
+  },
+  {
+   "n": "052/054",
+   "name": "Steelix Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "053/054",
+   "name": "Ninja Boy",
+   "v": "n"
+  },
+  {
+   "n": "054/054",
+   "name": "Pokémon Ranger",
+   "v": "n"
+  },
+  {
+   "n": "055/054",
+   "name": "Volcanion-EX",
+   "v": "n"
+  },
+  {
+   "n": "056/054",
+   "name": "Steelix-EX",
+   "v": "n"
+  },
+  {
+   "n": "057/054",
+   "name": "M Steelix-EX",
+   "v": "n"
+  },
+  {
+   "n": "058/054",
+   "name": "Pokémon Ranger",
+   "v": "n"
+  },
+  {
+   "n": "059/054",
+   "name": "Volcanion-EX",
+   "v": "n"
+  }
+ ]
+}

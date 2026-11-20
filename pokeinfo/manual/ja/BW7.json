@@ -1,0 +1,408 @@
+{
+ "id": "BW7",
+ "name": "プラズマゲイル",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2012-09-14",
+ "official": 70,
+ "abbr": "BW7",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/070",
+   "name": "Turtwig",
+   "v": "n"
+  },
+  {
+   "n": "002/070",
+   "name": "Grotle",
+   "v": "n"
+  },
+  {
+   "n": "003/070",
+   "name": "Torterra",
+   "v": "n"
+  },
+  {
+   "n": "004/070",
+   "name": "Cherubi",
+   "v": "n"
+  },
+  {
+   "n": "005/070",
+   "name": "Cherrim",
+   "v": "n"
+  },
+  {
+   "n": "006/070",
+   "name": "Maractus",
+   "v": "n"
+  },
+  {
+   "n": "007/070",
+   "name": "Foongus",
+   "v": "n"
+  },
+  {
+   "n": "008/070",
+   "name": "Amoonguss",
+   "v": "n"
+  },
+  {
+   "n": "009/070",
+   "name": "Chimchar",
+   "v": "n"
+  },
+  {
+   "n": "010/070",
+   "name": "Monferno",
+   "v": "n"
+  },
+  {
+   "n": "011/070",
+   "name": "Infernape",
+   "v": "n"
+  },
+  {
+   "n": "012/070",
+   "name": "Victini-EX",
+   "v": "n"
+  },
+  {
+   "n": "013/070",
+   "name": "Pansear",
+   "v": "n"
+  },
+  {
+   "n": "014/070",
+   "name": "Simisear",
+   "v": "n"
+  },
+  {
+   "n": "015/070",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "016/070",
+   "name": "Articuno-EX",
+   "v": "n"
+  },
+  {
+   "n": "017/070",
+   "name": "Lotad",
+   "v": "n"
+  },
+  {
+   "n": "018/070",
+   "name": "Lombre",
+   "v": "n"
+  },
+  {
+   "n": "019/070",
+   "name": "Ludicolo",
+   "v": "n"
+  },
+  {
+   "n": "020/070",
+   "name": "Manaphy",
+   "v": "n"
+  },
+  {
+   "n": "021/070",
+   "name": "Cubchoo",
+   "v": "n"
+  },
+  {
+   "n": "022/070",
+   "name": "Beartic",
+   "v": "n"
+  },
+  {
+   "n": "023/070",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "024/070",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "025/070",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "026/070",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "027/070",
+   "name": "Zubat",
+   "v": "n"
+  },
+  {
+   "n": "028/070",
+   "name": "Golbat",
+   "v": "n"
+  },
+  {
+   "n": "029/070",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "030/070",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "031/070",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "032/070",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "033/070",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "034/070",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "035/070",
+   "name": "Giratina",
+   "v": "n"
+  },
+  {
+   "n": "036/070",
+   "name": "Trubbish",
+   "v": "n"
+  },
+  {
+   "n": "037/070",
+   "name": "Garbodor",
+   "v": "n"
+  },
+  {
+   "n": "038/070",
+   "name": "Elgyem",
+   "v": "n"
+  },
+  {
+   "n": "039/070",
+   "name": "Beheeyem",
+   "v": "n"
+  },
+  {
+   "n": "040/070",
+   "name": "Phanpy",
+   "v": "n"
+  },
+  {
+   "n": "041/070",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "042/070",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "043/070",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "044/070",
+   "name": "Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "045/070",
+   "name": "Liepard",
+   "v": "n"
+  },
+  {
+   "n": "046/070",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "047/070",
+   "name": "Scrafty",
+   "v": "n"
+  },
+  {
+   "n": "048/070",
+   "name": "Durant",
+   "v": "n"
+  },
+  {
+   "n": "049/070",
+   "name": "Cobalion-EX",
+   "v": "n"
+  },
+  {
+   "n": "050/070",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "051/070",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "052/070",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "053/070",
+   "name": "Doduo",
+   "v": "n"
+  },
+  {
+   "n": "054/070",
+   "name": "Dodrio",
+   "v": "n"
+  },
+  {
+   "n": "055/070",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "056/070",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "057/070",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "058/070",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "059/070",
+   "name": "Lugia-EX",
+   "v": "n"
+  },
+  {
+   "n": "060/070",
+   "name": "Patrat",
+   "v": "n"
+  },
+  {
+   "n": "061/070",
+   "name": "Watchog",
+   "v": "n"
+  },
+  {
+   "n": "062/070",
+   "name": "Colress Machine",
+   "v": "n"
+  },
+  {
+   "n": "063/070",
+   "name": "Hypnotoxic Laser",
+   "v": "n"
+  },
+  {
+   "n": "064/070",
+   "name": "Colress",
+   "v": "n"
+  },
+  {
+   "n": "065/070",
+   "name": "Team Plasma Grunt",
+   "v": "n"
+  },
+  {
+   "n": "066/070",
+   "name": "Plasma Frigate",
+   "v": "n"
+  },
+  {
+   "n": "067/070",
+   "name": "Plasma Energy",
+   "v": "n"
+  },
+  {
+   "n": "068/070",
+   "name": "Scramble Switch",
+   "v": "n"
+  },
+  {
+   "n": "069/070",
+   "name": "Dowsing Machine",
+   "v": "n"
+  },
+  {
+   "n": "070/070",
+   "name": "Victory Piece",
+   "v": "n"
+  },
+  {
+   "n": "071/070",
+   "name": "Victini-EX",
+   "v": "n"
+  },
+  {
+   "n": "072/070",
+   "name": "Articuno-EX",
+   "v": "n"
+  },
+  {
+   "n": "073/070",
+   "name": "Cobalion-EX",
+   "v": "n"
+  },
+  {
+   "n": "074/070",
+   "name": "Lugia-EX",
+   "v": "n"
+  },
+  {
+   "n": "075/070",
+   "name": "Colress",
+   "v": "n"
+  },
+  {
+   "n": "076/070",
+   "name": "Skyla",
+   "v": "n"
+  },
+  {
+   "n": "077/070",
+   "name": "Charizard",
+   "v": "n"
+  },
+  {
+   "n": "078/070",
+   "name": "Blastoise",
+   "v": "n"
+  },
+  {
+   "n": "079/070",
+   "name": "Random Receiver",
+   "v": "n"
+  }
+ ]
+}

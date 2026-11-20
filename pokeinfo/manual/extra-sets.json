@@ -1,0 +1,197 @@
+{
+ "ja": [
+  {
+   "id": "x-aura-seeker",
+   "name": "Aura Seeker",
+   "name_en": "Aura Seeker",
+   "date": "2026-11-27",
+   "official": 190,
+   "logo": "img/logos/ja/x-aura-seeker.webp"
+  },
+  {
+   "id": "x-starter-set-tapu-bulu-gx",
+   "name": "Starter Set Tapu Bulu GX",
+   "name_en": "Starter Set Tapu Bulu GX",
+   "date": "2017-03-17",
+   "official": 21,
+   "logo": "img/logos/ja/x-starter-set-tapu-bulu-gx.webp"
+  },
+  {
+   "id": "x-perfect-battle-deck-60-mega-audino-ex",
+   "name": "Perfect Battle Deck 60 Mega Audino EX",
+   "name_en": "Perfect Battle Deck 60 Mega Audino EX",
+   "date": "2015-03-18",
+   "official": 16,
+   "logo": "img/logos/ja/x-perfect-battle-deck-60-mega-audino-ex.webp"
+  },
+  {
+   "id": "x-perfect-battle-deck-60-zygarde-ex",
+   "name": "Perfect Battle Deck 60 Zygarde EX",
+   "name_en": "Perfect Battle Deck 60 Zygarde EX",
+   "date": "2016-03-18",
+   "official": 16,
+   "logo": "img/logos/ja/x-perfect-battle-deck-60-zygarde-ex.webp"
+  },
+  {
+   "id": "x-break-combo-deck-golduck-break-palkia-ex",
+   "name": "Break Combo Deck Golduck BREAK Palkia EX",
+   "name_en": "Break Combo Deck Golduck BREAK Palkia EX",
+   "date": "2015-10-09",
+   "official": 16,
+   "logo": "img/logos/ja/x-break-combo-deck-golduck-break-palkia-ex.webp"
+  },
+  {
+   "id": "x-break-evolution-pack-noivern-break",
+   "name": "Break Evolution Pack Noivern BREAK",
+   "name_en": "Break Evolution Pack Noivern BREAK",
+   "date": "2015-09-26",
+   "official": 10,
+   "logo": "img/logos/ja/x-break-evolution-pack-noivern-break.webp"
+  },
+  {
+   "id": "x-break-evolution-pack-raichu-break",
+   "name": "Break Evolution Pack Raichu BREAK",
+   "name_en": "Break Evolution Pack Raichu BREAK",
+   "date": "2015-09-26",
+   "official": 10,
+   "logo": "img/logos/ja/x-break-evolution-pack-raichu-break.webp"
+  },
+  {
+   "id": "x-mega-battle-deck-m-rayquaza-ex",
+   "name": "Mega Battle Deck M Rayquaza EX",
+   "name_en": "Mega Battle Deck M Rayquaza EX",
+   "date": "2015-03-14",
+   "official": 18,
+   "logo": "img/logos/ja/x-mega-battle-deck-m-rayquaza-ex.webp"
+  },
+  {
+   "id": "x-hyper-metal-chain-deck",
+   "name": "Hyper Metal Chain Deck",
+   "name_en": "Hyper Metal Chain Deck",
+   "date": "2014-09-13",
+   "official": 18
+  },
+  {
+   "id": "x-mega-battle-deck-m-charizard-ex",
+   "name": "Mega Battle Deck M Charizard EX",
+   "name_en": "Mega Battle Deck M Charizard EX",
+   "date": "2014-03-15",
+   "official": 21,
+   "logo": "img/logos/ja/x-mega-battle-deck-m-charizard-ex.webp"
+  },
+  {
+   "id": "x-mewtwo-vs-genesect-genesect",
+   "name": "Mewtwo VS Genesect - Genesect",
+   "name_en": "Mewtwo VS Genesect - Genesect",
+   "date": "2013-07-13",
+   "official": 16,
+   "logo": "img/logos/ja/x-mewtwo-vs-genesect-genesect.webp"
+  },
+  {
+   "id": "x-mewtwo-vs-genesect-mewtwo",
+   "name": "Mewtwo VS Genesect - Mewtwo",
+   "name_en": "Mewtwo VS Genesect - Mewtwo",
+   "date": "2013-07-13",
+   "official": 16,
+   "logo": "img/logos/ja/x-mewtwo-vs-genesect-mewtwo.webp"
+  },
+  {
+   "id": "x-team-plasma-power-deck",
+   "name": "Team Plasma Power Deck",
+   "name_en": "Team Plasma Power Deck",
+   "date": "2012-09-14",
+   "official": 17,
+   "logo": "img/logos/ja/x-team-plasma-power-deck.webp"
+  },
+  {
+   "id": "x-hydreigon-deck",
+   "name": "Hydreigon Deck",
+   "name_en": "Hydreigon Deck",
+   "date": "2012-03-16",
+   "official": 15,
+   "logo": "img/logos/ja/x-hydreigon-deck.webp"
+  },
+  {
+   "id": "x-garchomp-deck",
+   "name": "Garchomp Deck",
+   "name_en": "Garchomp Deck",
+   "date": "2012-03-16",
+   "official": 15,
+   "logo": "img/logos/ja/x-garchomp-deck.webp"
+  },
+  {
+   "id": "x-steelix-metal",
+   "name": "Steelix Metal",
+   "name_en": "Steelix Metal",
+   "date": "2010-02-11",
+   "official": 19,
+   "logo": "img/logos/ja/x-steelix-metal.webp"
+  },
+  {
+   "id": "x-tyranitar-darkness",
+   "name": "Tyranitar Darkness",
+   "name_en": "Tyranitar Darkness",
+   "date": "2010-02-11",
+   "official": 19,
+   "logo": "img/logos/ja/x-tyranitar-darkness.webp"
+  },
+  {
+   "id": "x-arceus-lv-x-lightning-and-psychic",
+   "name": "Arceus Lv X Lightning and Psychic",
+   "name_en": "Arceus Lv X Lightning and Psychic",
+   "date": "2009-07-08",
+   "official": 17,
+   "logo": "img/logos/ja/x-arceus-lv-x-lightning-and-psychic.webp"
+  },
+  {
+   "id": "x-arceus-lv-x-grass-and-fire",
+   "name": "Arceus Lv X Grass and Fire",
+   "name_en": "Arceus Lv X Grass and Fire",
+   "date": "2009-07-08",
+   "official": 17,
+   "logo": "img/logos/ja/x-arceus-lv-x-grass-and-fire.webp"
+  },
+  {
+   "id": "x-advent-of-arceus",
+   "name": "Advent of Arceus",
+   "name_en": "Advent of Arceus",
+   "date": "2009-07-08",
+   "official": 90,
+   "logo": "img/logos/ja/x-advent-of-arceus.webp"
+  },
+  {
+   "id": "x-charizard-half-deck",
+   "name": "Charizard Half Deck",
+   "name_en": "Charizard Half Deck",
+   "date": "2009-03-06",
+   "official": 16,
+   "logo": "img/logos/ja/x-charizard-half-deck.webp"
+  },
+  {
+   "id": "x-garchomp-half-deck",
+   "name": "Garchomp Half Deck",
+   "name_en": "Garchomp Half Deck",
+   "date": "2009-03-06",
+   "official": 16,
+   "logo": "img/logos/ja/x-garchomp-half-deck.webp"
+  },
+  {
+   "id": "x-pulse-of-the-frontier",
+   "name": "Pulse of the Frontier",
+   "name_en": "Pulse of the Frontier",
+   "date": "2009-03-06",
+   "official": 100,
+   "logo": "img/logos/ja/x-pulse-of-the-frontier.webp"
+  }
+ ],
+ "en": [
+  {
+   "id": "x-flowing-fists",
+   "name": "Flowing Fists",
+   "date": "2027-02-06",
+   "official": 145,
+   "logo": "img/logos/en/x-flowing-fists.webp",
+   "symbol": "img/symbols/en/x-flowing-fists.webp"
+  }
+ ]
+}

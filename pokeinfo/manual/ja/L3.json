@@ -1,0 +1,418 @@
+{
+ "id": "L3",
+ "name": "頂上大激突",
+ "serie": "LEGEND",
+ "serie_id": "L",
+ "date": "2010-07-08",
+ "official": 80,
+ "abbr": "L3",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/080",
+   "name": "Bellsprout",
+   "v": "n"
+  },
+  {
+   "n": "002/080",
+   "name": "Weepinbell",
+   "v": "n"
+  },
+  {
+   "n": "003/080",
+   "name": "Victreebel",
+   "v": "n"
+  },
+  {
+   "n": "004/080",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "005/080",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "006/080",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "007/080",
+   "name": "Celebi",
+   "v": "n"
+  },
+  {
+   "n": "008/080",
+   "name": "Kricketot",
+   "v": "n"
+  },
+  {
+   "n": "009/080",
+   "name": "Kricketune",
+   "v": "n"
+  },
+  {
+   "n": "010/080",
+   "name": "Ponyta",
+   "v": "n"
+  },
+  {
+   "n": "011/080",
+   "name": "Rapidash",
+   "v": "n"
+  },
+  {
+   "n": "012/080",
+   "name": "Magby",
+   "v": "n"
+  },
+  {
+   "n": "013/080",
+   "name": "Magmar",
+   "v": "n"
+  },
+  {
+   "n": "014/080",
+   "name": "Magmortar",
+   "v": "n"
+  },
+  {
+   "n": "015/080",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "016/080",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "017/080",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "018/080",
+   "name": "Tentacruel",
+   "v": "n"
+  },
+  {
+   "n": "019/080",
+   "name": "Swinub",
+   "v": "n"
+  },
+  {
+   "n": "020/080",
+   "name": "Piloswine",
+   "v": "n"
+  },
+  {
+   "n": "021/080",
+   "name": "Mamoswine",
+   "v": "n"
+  },
+  {
+   "n": "022/080",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "023/080",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "024/080",
+   "name": "Luvdisc",
+   "v": "n"
+  },
+  {
+   "n": "025/080",
+   "name": "Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "026/080",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "027/080",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "028/080",
+   "name": "Elekid",
+   "v": "n"
+  },
+  {
+   "n": "029/080",
+   "name": "Electabuzz",
+   "v": "n"
+  },
+  {
+   "n": "030/080",
+   "name": "Electivire",
+   "v": "n"
+  },
+  {
+   "n": "031/080",
+   "name": "Nidoran ♀",
+   "v": "n"
+  },
+  {
+   "n": "032/080",
+   "name": "Nidorina",
+   "v": "n"
+  },
+  {
+   "n": "033/080",
+   "name": "Nidoqueen",
+   "v": "n"
+  },
+  {
+   "n": "034/080",
+   "name": "Nidoran ♂",
+   "v": "n"
+  },
+  {
+   "n": "035/080",
+   "name": "Nidorino",
+   "v": "n"
+  },
+  {
+   "n": "036/080",
+   "name": "Unown",
+   "v": "n"
+  },
+  {
+   "n": "037/080",
+   "name": "Celebi",
+   "v": "n"
+  },
+  {
+   "n": "038/080",
+   "name": "Spoink",
+   "v": "n"
+  },
+  {
+   "n": "039/080",
+   "name": "Grumpig",
+   "v": "n"
+  },
+  {
+   "n": "040/080",
+   "name": "Skorupi",
+   "v": "n"
+  },
+  {
+   "n": "041/080",
+   "name": "Nidoking",
+   "v": "n"
+  },
+  {
+   "n": "042/080",
+   "name": "Machop",
+   "v": "n"
+  },
+  {
+   "n": "043/080",
+   "name": "Machoke",
+   "v": "n"
+  },
+  {
+   "n": "044/080",
+   "name": "Machamp",
+   "v": "n"
+  },
+  {
+   "n": "045/080",
+   "name": "Machamp",
+   "v": "n"
+  },
+  {
+   "n": "046/080",
+   "name": "Cubone",
+   "v": "n"
+  },
+  {
+   "n": "047/080",
+   "name": "Marowak",
+   "v": "n"
+  },
+  {
+   "n": "048/080",
+   "name": "Lunatone",
+   "v": "n"
+  },
+  {
+   "n": "049/080",
+   "name": "Solrock",
+   "v": "n"
+  },
+  {
+   "n": "050/080",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "051/080",
+   "name": "Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "052/080",
+   "name": "Drapion",
+   "v": "n"
+  },
+  {
+   "n": "053/080",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "054/080",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "055/080",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "056/080",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "057/080",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "058/080",
+   "name": "Pidgey",
+   "v": "n"
+  },
+  {
+   "n": "059/080",
+   "name": "Pidgeotto",
+   "v": "n"
+  },
+  {
+   "n": "060/080",
+   "name": "Pidgeot",
+   "v": "n"
+  },
+  {
+   "n": "061/080",
+   "name": "Lickitung",
+   "v": "n"
+  },
+  {
+   "n": "062/080",
+   "name": "Lickilicky",
+   "v": "n"
+  },
+  {
+   "n": "063/080",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "064/080",
+   "name": "Ditto",
+   "v": "n"
+  },
+  {
+   "n": "065/080",
+   "name": "Porygon",
+   "v": "n"
+  },
+  {
+   "n": "066/080",
+   "name": "Porygon2",
+   "v": "n"
+  },
+  {
+   "n": "067/080",
+   "name": "Porygon-Z",
+   "v": "n"
+  },
+  {
+   "n": "068/080",
+   "name": "Aipom",
+   "v": "n"
+  },
+  {
+   "n": "069/080",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "070/080",
+   "name": "Kyogre & Groudon LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "071/080",
+   "name": "Kyogre & Groudon LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "072/080",
+   "name": "Palkia & Dialga LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "073/080",
+   "name": "Palkia & Dialga LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "074/080",
+   "name": "Rayquaza & Deoxys LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "075/080",
+   "name": "Rayquaza & Deoxys LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "076/080",
+   "name": "Junk Arm",
+   "v": "n"
+  },
+  {
+   "n": "077/080",
+   "name": "Black Belt",
+   "v": "n"
+  },
+  {
+   "n": "078/080",
+   "name": "Twins",
+   "v": "n"
+  },
+  {
+   "n": "079/080",
+   "name": "Indigo Plateau",
+   "v": "n"
+  },
+  {
+   "n": "080/080",
+   "name": "Rescue Energy",
+   "v": "n"
+  },
+  {
+   "n": "081/080",
+   "name": "Alph Lithograph",
+   "v": "n"
+  }
+ ]
+}

@@ -90,7 +90,8 @@ def build_set(lang, brief, old):
 
 
 def norm_name(n):
-    return re.sub(r"[^a-z0-9]+", " ", (n or "").lower().replace("&", " and ")).strip()
+    # keeps letters in any language (Japanese, Korean, Chinese), drops punctuation and spacing differences
+    return re.sub(r"[\W_]+", " ", (n or "").lower().replace("&", " and ")).strip()
 
 
 def norm_num(n):
@@ -203,7 +204,8 @@ def add_manual(lang, sets):
     for f in sorted((MANUAL / lang).glob("*.json")) if (MANUAL / lang).exists() else []:
         m = json.loads(f.read_text(encoding="utf-8"))
         db = have_ids.get(m["id"])
-        if (db and db["cards_n"] >= len(m["cards"])) or (not db and (norm_name(m["name"]) in have or any(norm_name(a) in have for a in m.get("also_called", [])))):
+        known_id = any(x["id"] == m["id"] for x in sets)      # targets a set the database lists: decide by its code, not its name
+        if (db and db["cards_n"] >= len(m["cards"])) or (not db and not known_id and (norm_name(m["name"]) in have or any(norm_name(a) in have for a in m.get("also_called", [])))):
             print(f"   {m['name']}: now in the card database, hand-made copy not used")
             continue
         sets[:] = [x for x in sets if x["id"] != m["id"]]      # replaces the database's empty (or shorter) copy
@@ -237,12 +239,45 @@ def add_manual(lang, sets):
 RARE_ORDER = ["mega hyper", "hyper", "special illustration", "illustration", "ultra", "secret", "shiny ultra", "double", "holo", "rare"]
 
 
+def add_extra_sets(lang, sets):
+    """Sets the card database doesn't list at all (from Taylor's set lists): added with no cards, so they show
+    under Missing sets with their logo, ready for a pasted card list."""
+    try:
+        extra = json.loads((MANUAL / "extra-sets.json").read_text(encoding="utf-8")).get(lang, [])
+    except Exception:  # noqa: BLE001
+        return
+    have = {norm_name(x["name"]) for x in sets} | {x["id"] for x in sets}
+    for e in extra:
+        if e["id"] in have or norm_name(e["name"]) in have:
+            continue
+        sets.append({"id": e["id"], "name": e["name"], "name_en": e.get("name_en"), "serie": e.get("serie"), "serie_id": e.get("serie_id"),
+                     "date": e.get("date"), "official": e.get("official"), "total": e.get("official"), "cards_n": 0, "img_n": 0,
+                     "logo": e.get("logo"), "symbol": e.get("symbol"), "abbr": None, "extra": True})
+
+
+def apply_art(lang, sets):
+    """Logos and set symbols Taylor supplied, for sets the card database has none for."""
+    try:
+        art = json.loads((MANUAL / "art.json").read_text(encoding="utf-8")).get(lang, {})
+    except Exception:  # noqa: BLE001
+        return
+    for x in sets:
+        a = art.get(x["id"]) or {}
+        if a.get("logo") and not x.get("logo"):
+            x["logo"] = a["logo"]
+        if a.get("symbol") and not x.get("symbol"):
+            x["symbol"] = a["symbol"]
+
+
 def fill_logos(lang, sets):
     """Sets the card database has no logo for: the main set's logo for sub-sets (Trainer Gallery...),
     pokemontcg.io's logo, the set symbol, or failing all that the set's best card as a cover picture."""
     with_logo = sorted([x for x in sets if x.get("logo")], key=lambda x: -len(x["name"]))
     for x in sets:
         x.pop("cover", None)
+        sym_parent = next((p for p in sets if p is not x and p.get("symbol") and norm_name(x["name"]).startswith(norm_name(p["name"]) + " ")), None)
+        if sym_parent and not x.get("symbol"):
+            x["symbol"] = sym_parent["symbol"]
         if x.get("logo"):
             continue
         parent = next((p for p in with_logo if p is not x and norm_name(x["name"]).startswith(norm_name(p["name"]) + " ")), None)
@@ -296,7 +331,9 @@ def build_lang(lang):
     sets = [x for x in sets if x.get("serie_id") not in SKIP_SERIES]
     if lang == "en":
         fill_pictures(sets)
+    add_extra_sets(lang, sets)
     add_manual(lang, sets)
+    apply_art(lang, sets)
     fill_logos(lang, sets)
     sets.sort(key=lambda x: (x["date"] or "9999", x["id"]))
     rep = {"name": LANGS[lang], "sets": len(sets), "sets_with_cards": sum(1 for x in sets if x["cards_n"]),

@@ -1,0 +1,443 @@
+{
+ "id": "BW9",
+ "name": "メガロキャノン",
+ "serie": "BW",
+ "serie_id": "BW",
+ "date": "2013-03-15",
+ "official": 76,
+ "abbr": "BW9",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/076",
+   "name": "Surskit",
+   "v": "n"
+  },
+  {
+   "n": "002/076",
+   "name": "Masquerain",
+   "v": "n"
+  },
+  {
+   "n": "003/076",
+   "name": "Lileep",
+   "v": "n"
+  },
+  {
+   "n": "004/076",
+   "name": "Cradily",
+   "v": "n"
+  },
+  {
+   "n": "005/076",
+   "name": "Tropius",
+   "v": "n"
+  },
+  {
+   "n": "006/076",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "007/076",
+   "name": "Shelmet",
+   "v": "n"
+  },
+  {
+   "n": "008/076",
+   "name": "Accelgor",
+   "v": "n"
+  },
+  {
+   "n": "009/076",
+   "name": "Virizion-EX",
+   "v": "n"
+  },
+  {
+   "n": "010/076",
+   "name": "Genesect-EX",
+   "v": "n"
+  },
+  {
+   "n": "011/076",
+   "name": "Larvesta",
+   "v": "n"
+  },
+  {
+   "n": "012/076",
+   "name": "Volcarona",
+   "v": "n"
+  },
+  {
+   "n": "013/076",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "014/076",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "015/076",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "016/076",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "017/076",
+   "name": "Glalie",
+   "v": "n"
+  },
+  {
+   "n": "018/076",
+   "name": "Relicanth",
+   "v": "n"
+  },
+  {
+   "n": "019/076",
+   "name": "Snover",
+   "v": "n"
+  },
+  {
+   "n": "020/076",
+   "name": "Abomasnow",
+   "v": "n"
+  },
+  {
+   "n": "021/076",
+   "name": "Tirtouga",
+   "v": "n"
+  },
+  {
+   "n": "022/076",
+   "name": "Carracosta",
+   "v": "n"
+  },
+  {
+   "n": "023/076",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "024/076",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "025/076",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "026/076",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "027/076",
+   "name": "Drifblim",
+   "v": "n"
+  },
+  {
+   "n": "028/076",
+   "name": "Uxie",
+   "v": "n"
+  },
+  {
+   "n": "029/076",
+   "name": "Mesprit",
+   "v": "n"
+  },
+  {
+   "n": "030/076",
+   "name": "Azelf",
+   "v": "n"
+  },
+  {
+   "n": "031/076",
+   "name": "Munna",
+   "v": "n"
+  },
+  {
+   "n": "032/076",
+   "name": "Musharna",
+   "v": "n"
+  },
+  {
+   "n": "033/076",
+   "name": "Sigilyph",
+   "v": "n"
+  },
+  {
+   "n": "034/076",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "035/076",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "036/076",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "037/076",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "038/076",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "039/076",
+   "name": "Machop",
+   "v": "n"
+  },
+  {
+   "n": "040/076",
+   "name": "Machoke",
+   "v": "n"
+  },
+  {
+   "n": "041/076",
+   "name": "Machamp",
+   "v": "n"
+  },
+  {
+   "n": "042/076",
+   "name": "Throh",
+   "v": "n"
+  },
+  {
+   "n": "043/076",
+   "name": "Sawk",
+   "v": "n"
+  },
+  {
+   "n": "044/076",
+   "name": "Archen",
+   "v": "n"
+  },
+  {
+   "n": "045/076",
+   "name": "Archeops",
+   "v": "n"
+  },
+  {
+   "n": "046/076",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "047/076",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "048/076",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "049/076",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "050/076",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "051/076",
+   "name": "Jirachi-EX",
+   "v": "n"
+  },
+  {
+   "n": "052/076",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "053/076",
+   "name": "Dialga-EX",
+   "v": "n"
+  },
+  {
+   "n": "054/076",
+   "name": "Palkia-EX",
+   "v": "n"
+  },
+  {
+   "n": "055/076",
+   "name": "Axew",
+   "v": "n"
+  },
+  {
+   "n": "056/076",
+   "name": "Fraxure",
+   "v": "n"
+  },
+  {
+   "n": "057/076",
+   "name": "Haxorus",
+   "v": "n"
+  },
+  {
+   "n": "058/076",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "059/076",
+   "name": "Porygon",
+   "v": "n"
+  },
+  {
+   "n": "060/076",
+   "name": "Porygon2",
+   "v": "n"
+  },
+  {
+   "n": "061/076",
+   "name": "Porygon-Z",
+   "v": "n"
+  },
+  {
+   "n": "062/076",
+   "name": "Teddiursa",
+   "v": "n"
+  },
+  {
+   "n": "063/076",
+   "name": "Ursaring",
+   "v": "n"
+  },
+  {
+   "n": "064/076",
+   "name": "Chatot",
+   "v": "n"
+  },
+  {
+   "n": "065/076",
+   "name": "Root Fossil Lileep",
+   "v": "n"
+  },
+  {
+   "n": "066/076",
+   "name": "Plume Fossil",
+   "v": "n"
+  },
+  {
+   "n": "067/076",
+   "name": "Cover Fossil",
+   "v": "n"
+  },
+  {
+   "n": "068/076",
+   "name": "Silver Bangle",
+   "v": "n"
+  },
+  {
+   "n": "069/076",
+   "name": "Silver Mirror",
+   "v": "n"
+  },
+  {
+   "n": "070/076",
+   "name": "Reversal Trigger",
+   "v": "n"
+  },
+  {
+   "n": "071/076",
+   "name": "Iris",
+   "v": "n"
+  },
+  {
+   "n": "072/076",
+   "name": "Caitlin",
+   "v": "n"
+  },
+  {
+   "n": "073/076",
+   "name": "Scoop Up Cyclone",
+   "v": "n"
+  },
+  {
+   "n": "074/076",
+   "name": "G Scope",
+   "v": "n"
+  },
+  {
+   "n": "075/076",
+   "name": "G Booster",
+   "v": "n"
+  },
+  {
+   "n": "076/076",
+   "name": "Plasma Energy",
+   "v": "n"
+  },
+  {
+   "n": "077/076",
+   "name": "Virizion-EX",
+   "v": "n"
+  },
+  {
+   "n": "078/076",
+   "name": "Genesect-EX",
+   "v": "n"
+  },
+  {
+   "n": "079/076",
+   "name": "Jirachi-EX",
+   "v": "n"
+  },
+  {
+   "n": "080/076",
+   "name": "Dialga-EX",
+   "v": "n"
+  },
+  {
+   "n": "081/076",
+   "name": "Palkia-EX",
+   "v": "n"
+  },
+  {
+   "n": "082/076",
+   "name": "Iris",
+   "v": "n"
+  },
+  {
+   "n": "083/076",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "084/076",
+   "name": "Virizion",
+   "v": "n"
+  },
+  {
+   "n": "085/076",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "086/076",
+   "name": "Rare Candy",
+   "v": "n"
+  }
+ ]
+}

@@ -1,0 +1,418 @@
+{
+ "id": "L2",
+ "name": "よみがえる伝説",
+ "serie": "LEGEND",
+ "serie_id": "L",
+ "date": "2010-02-11",
+ "official": 80,
+ "abbr": "L2",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/080",
+   "name": "Oddish",
+   "v": "n"
+  },
+  {
+   "n": "002/080",
+   "name": "Gloom",
+   "v": "n"
+  },
+  {
+   "n": "003/080",
+   "name": "Vileplume",
+   "v": "n"
+  },
+  {
+   "n": "004/080",
+   "name": "Bellossom",
+   "v": "n"
+  },
+  {
+   "n": "005/080",
+   "name": "Scyther",
+   "v": "n"
+  },
+  {
+   "n": "006/080",
+   "name": "Pineco",
+   "v": "n"
+  },
+  {
+   "n": "007/080",
+   "name": "Combee",
+   "v": "n"
+  },
+  {
+   "n": "008/080",
+   "name": "Vespiquen",
+   "v": "n"
+  },
+  {
+   "n": "009/080",
+   "name": "Flareon",
+   "v": "n"
+  },
+  {
+   "n": "010/080",
+   "name": "Slugma",
+   "v": "n"
+  },
+  {
+   "n": "011/080",
+   "name": "Magcargo",
+   "v": "n"
+  },
+  {
+   "n": "012/080",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "013/080",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "014/080",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "015/080",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "016/080",
+   "name": "Vaporeon",
+   "v": "n"
+  },
+  {
+   "n": "017/080",
+   "name": "Jolteon",
+   "v": "n"
+  },
+  {
+   "n": "018/080",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "019/080",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "020/080",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "021/080",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "022/080",
+   "name": "Grimer",
+   "v": "n"
+  },
+  {
+   "n": "023/080",
+   "name": "Muk",
+   "v": "n"
+  },
+  {
+   "n": "024/080",
+   "name": "Espeon",
+   "v": "n"
+  },
+  {
+   "n": "025/080",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "026/080",
+   "name": "Mismagius",
+   "v": "n"
+  },
+  {
+   "n": "027/080",
+   "name": "Unown",
+   "v": "n"
+  },
+  {
+   "n": "028/080",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "029/080",
+   "name": "Drifblim",
+   "v": "n"
+  },
+  {
+   "n": "030/080",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "031/080",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "032/080",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "033/080",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "034/080",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "035/080",
+   "name": "Makuhita",
+   "v": "n"
+  },
+  {
+   "n": "036/080",
+   "name": "Hariyama",
+   "v": "n"
+  },
+  {
+   "n": "037/080",
+   "name": "Umbreon",
+   "v": "n"
+  },
+  {
+   "n": "038/080",
+   "name": "Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "039/080",
+   "name": "Honchkrow",
+   "v": "n"
+  },
+  {
+   "n": "040/080",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "041/080",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "042/080",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "043/080",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "044/080",
+   "name": "Tyranitar",
+   "v": "n"
+  },
+  {
+   "n": "045/080",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "046/080",
+   "name": "Forretress",
+   "v": "n"
+  },
+  {
+   "n": "047/080",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "048/080",
+   "name": "Scizor",
+   "v": "n"
+  },
+  {
+   "n": "049/080",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "050/080",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "051/080",
+   "name": "Beldum",
+   "v": "n"
+  },
+  {
+   "n": "052/080",
+   "name": "Metang",
+   "v": "n"
+  },
+  {
+   "n": "053/080",
+   "name": "Metagross",
+   "v": "n"
+  },
+  {
+   "n": "054/080",
+   "name": "Rattata",
+   "v": "n"
+  },
+  {
+   "n": "055/080",
+   "name": "Raticate",
+   "v": "n"
+  },
+  {
+   "n": "056/080",
+   "name": "Doduo",
+   "v": "n"
+  },
+  {
+   "n": "057/080",
+   "name": "Dodrio",
+   "v": "n"
+  },
+  {
+   "n": "058/080",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "059/080",
+   "name": "Togepi",
+   "v": "n"
+  },
+  {
+   "n": "060/080",
+   "name": "Togetic",
+   "v": "n"
+  },
+  {
+   "n": "061/080",
+   "name": "Togekiss",
+   "v": "n"
+  },
+  {
+   "n": "062/080",
+   "name": "Smeargle",
+   "v": "n"
+  },
+  {
+   "n": "063/080",
+   "name": "Entei & Raikou LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "064/080",
+   "name": "Entei & Raikou LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "065/080",
+   "name": "Suicune & Entei LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "066/080",
+   "name": "Suicune & Entei LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "067/080",
+   "name": "Raikou & Suicune LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "068/080",
+   "name": "Raikou & Suicune LEGEND",
+   "v": "n"
+  },
+  {
+   "n": "069/080",
+   "name": "Energy Exchanger",
+   "v": "n"
+  },
+  {
+   "n": "070/080",
+   "name": "Defender",
+   "v": "n"
+  },
+  {
+   "n": "071/080",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "072/080",
+   "name": "PlusPower",
+   "v": "n"
+  },
+  {
+   "n": "073/080",
+   "name": "Legend Box",
+   "v": "n"
+  },
+  {
+   "n": "074/080",
+   "name": "Flower Shop Lady",
+   "v": "n"
+  },
+  {
+   "n": "075/080",
+   "name": "Sage's Training",
+   "v": "n"
+  },
+  {
+   "n": "076/080",
+   "name": "Team Rocket's Trickery",
+   "v": "n"
+  },
+  {
+   "n": "077/080",
+   "name": "Ruins of Alph",
+   "v": "n"
+  },
+  {
+   "n": "078/080",
+   "name": "Burned Tower",
+   "v": "n"
+  },
+  {
+   "n": "079/080",
+   "name": "Darkness Energy",
+   "v": "n"
+  },
+  {
+   "n": "080/080",
+   "name": "Metal Energy",
+   "v": "n"
+  },
+  {
+   "n": "081/080",
+   "name": "Alph Lithograph",
+   "v": "n"
+  }
+ ]
+}

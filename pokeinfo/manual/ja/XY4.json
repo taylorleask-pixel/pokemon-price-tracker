@@ -1,0 +1,498 @@
+{
+ "id": "XY4",
+ "name": "ファントムゲート",
+ "serie": "XY",
+ "serie_id": "XY",
+ "date": "2014-09-13",
+ "official": 88,
+ "abbr": "XY4",
+ "note": "Card list from Taylor. Card names are in English.",
+ "source": "Card list from Taylor's document.",
+ "cards": [
+  {
+   "n": "001/088",
+   "name": "Venonat",
+   "v": "n"
+  },
+  {
+   "n": "002/088",
+   "name": "Venomoth",
+   "v": "n"
+  },
+  {
+   "n": "003/088",
+   "name": "Yanma",
+   "v": "n"
+  },
+  {
+   "n": "004/088",
+   "name": "Yanmega",
+   "v": "n"
+  },
+  {
+   "n": "005/088",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "006/088",
+   "name": "Swadloon",
+   "v": "n"
+  },
+  {
+   "n": "007/088",
+   "name": "Leavanny",
+   "v": "n"
+  },
+  {
+   "n": "008/088",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "009/088",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "010/088",
+   "name": "Talonflame",
+   "v": "n"
+  },
+  {
+   "n": "011/088",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "012/088",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "013/088",
+   "name": "Krabby",
+   "v": "n"
+  },
+  {
+   "n": "014/088",
+   "name": "Kingler",
+   "v": "n"
+  },
+  {
+   "n": "015/088",
+   "name": "Totodile",
+   "v": "n"
+  },
+  {
+   "n": "016/088",
+   "name": "Croconaw",
+   "v": "n"
+  },
+  {
+   "n": "017/088",
+   "name": "Feraligatr",
+   "v": "n"
+  },
+  {
+   "n": "018/088",
+   "name": "Finneon",
+   "v": "n"
+  },
+  {
+   "n": "019/088",
+   "name": "Lumineon",
+   "v": "n"
+  },
+  {
+   "n": "020/088",
+   "name": "Frillish",
+   "v": "n"
+  },
+  {
+   "n": "021/088",
+   "name": "Jellicent",
+   "v": "n"
+  },
+  {
+   "n": "022/088",
+   "name": "Alomomola",
+   "v": "n"
+  },
+  {
+   "n": "023/088",
+   "name": "Manectric-EX",
+   "v": "n"
+  },
+  {
+   "n": "024/088",
+   "name": "M Manectric-EX",
+   "v": "n"
+  },
+  {
+   "n": "025/088",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "026/088",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "027/088",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "028/088",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "029/088",
+   "name": "Heliolisk",
+   "v": "n"
+  },
+  {
+   "n": "030/088",
+   "name": "Zubat",
+   "v": "n"
+  },
+  {
+   "n": "031/088",
+   "name": "Golbat",
+   "v": "n"
+  },
+  {
+   "n": "032/088",
+   "name": "Crobat",
+   "v": "n"
+  },
+  {
+   "n": "033/088",
+   "name": "Gengar-EX",
+   "v": "n"
+  },
+  {
+   "n": "034/088",
+   "name": "M Gengar-EX",
+   "v": "n"
+  },
+  {
+   "n": "035/088",
+   "name": "Wobbuffet",
+   "v": "n"
+  },
+  {
+   "n": "036/088",
+   "name": "Gulpin",
+   "v": "n"
+  },
+  {
+   "n": "037/088",
+   "name": "Swalot",
+   "v": "n"
+  },
+  {
+   "n": "038/088",
+   "name": "Munna",
+   "v": "n"
+  },
+  {
+   "n": "039/088",
+   "name": "Musharna",
+   "v": "n"
+  },
+  {
+   "n": "040/088",
+   "name": "Litwick",
+   "v": "n"
+  },
+  {
+   "n": "041/088",
+   "name": "Lampent",
+   "v": "n"
+  },
+  {
+   "n": "042/088",
+   "name": "Chandelure",
+   "v": "n"
+  },
+  {
+   "n": "043/088",
+   "name": "Pumpkaboo",
+   "v": "n"
+  },
+  {
+   "n": "044/088",
+   "name": "Gourgeist",
+   "v": "n"
+  },
+  {
+   "n": "045/088",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "046/088",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "047/088",
+   "name": "Roggenrola",
+   "v": "n"
+  },
+  {
+   "n": "048/088",
+   "name": "Boldore",
+   "v": "n"
+  },
+  {
+   "n": "049/088",
+   "name": "Gigalith",
+   "v": "n"
+  },
+  {
+   "n": "050/088",
+   "name": "Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "051/088",
+   "name": "Honchkrow",
+   "v": "n"
+  },
+  {
+   "n": "052/088",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "053/088",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "054/088",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "055/088",
+   "name": "Purrloin",
+   "v": "n"
+  },
+  {
+   "n": "056/088",
+   "name": "Liepard",
+   "v": "n"
+  },
+  {
+   "n": "057/088",
+   "name": "Malamar-EX",
+   "v": "n"
+  },
+  {
+   "n": "058/088",
+   "name": "Heatran",
+   "v": "n"
+  },
+  {
+   "n": "059/088",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "060/088",
+   "name": "Florges-EX",
+   "v": "n"
+  },
+  {
+   "n": "061/088",
+   "name": "Swirlix",
+   "v": "n"
+  },
+  {
+   "n": "062/088",
+   "name": "Slurpuff",
+   "v": "n"
+  },
+  {
+   "n": "063/088",
+   "name": "Deino",
+   "v": "n"
+  },
+  {
+   "n": "064/088",
+   "name": "Zweilous",
+   "v": "n"
+  },
+  {
+   "n": "065/088",
+   "name": "Hydreigon",
+   "v": "n"
+  },
+  {
+   "n": "066/088",
+   "name": "Spearow",
+   "v": "n"
+  },
+  {
+   "n": "067/088",
+   "name": "Fearow",
+   "v": "n"
+  },
+  {
+   "n": "068/088",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "069/088",
+   "name": "Blissey",
+   "v": "n"
+  },
+  {
+   "n": "070/088",
+   "name": "Girafarig",
+   "v": "n"
+  },
+  {
+   "n": "071/088",
+   "name": "Whismur",
+   "v": "n"
+  },
+  {
+   "n": "072/088",
+   "name": "Loudred",
+   "v": "n"
+  },
+  {
+   "n": "073/088",
+   "name": "Exploud",
+   "v": "n"
+  },
+  {
+   "n": "074/088",
+   "name": "Regigigas",
+   "v": "n"
+  },
+  {
+   "n": "075/088",
+   "name": "Bunnelby",
+   "v": "n"
+  },
+  {
+   "n": "076/088",
+   "name": "Diggersby",
+   "v": "n"
+  },
+  {
+   "n": "077/088",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "078/088",
+   "name": "Target Whistle",
+   "v": "n"
+  },
+  {
+   "n": "079/088",
+   "name": "Battle Compressor",
+   "v": "n"
+  },
+  {
+   "n": "080/088",
+   "name": "Robo Substitute",
+   "v": "n"
+  },
+  {
+   "n": "081/088",
+   "name": "Manectric Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "082/088",
+   "name": "Jamming Net",
+   "v": "n"
+  },
+  {
+   "n": "083/088",
+   "name": "Head Ringer",
+   "v": "n"
+  },
+  {
+   "n": "084/088",
+   "name": "AZ",
+   "v": "n"
+  },
+  {
+   "n": "085/088",
+   "name": "Xerosic",
+   "v": "n"
+  },
+  {
+   "n": "086/088",
+   "name": "Lysandre's Trump Card",
+   "v": "n"
+  },
+  {
+   "n": "087/088",
+   "name": "Dimension Valley",
+   "v": "n"
+  },
+  {
+   "n": "088/088",
+   "name": "Mystery Energy",
+   "v": "n"
+  },
+  {
+   "n": "089/088",
+   "name": "Manectric-EX",
+   "v": "n"
+  },
+  {
+   "n": "090/088",
+   "name": "Gengar-EX",
+   "v": "n"
+  },
+  {
+   "n": "091/088",
+   "name": "Malamar-EX",
+   "v": "n"
+  },
+  {
+   "n": "092/088",
+   "name": "Florges-EX",
+   "v": "n"
+  },
+  {
+   "n": "093/088",
+   "name": "AZ",
+   "v": "n"
+  },
+  {
+   "n": "094/088",
+   "name": "Xerosic",
+   "v": "n"
+  },
+  {
+   "n": "095/088",
+   "name": "Lysandre's Trump Card",
+   "v": "n"
+  },
+  {
+   "n": "096/088",
+   "name": "M Manectric-EX",
+   "v": "n"
+  },
+  {
+   "n": "097/088",
+   "name": "M Gengar-EX",
+   "v": "n"
+  }
+ ]
+}
