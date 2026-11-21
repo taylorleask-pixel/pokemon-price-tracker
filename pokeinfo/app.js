@@ -38,6 +38,8 @@ const S = { lang: store.get("pi-lang", "en"), q: "", show: "all", newest: true, 
 const D = { sets: {}, setFiles: {}, en: null };
 // English name for a non-English set (by set code), or "" for English sets
 const enName = (s, lang = S.lang) => lang === "en" ? "" : (D.en?.[lang]?.[s.id] || D.en?.sets?.[s.id] || (s.name_en && s.name_en !== s.name ? s.name_en : ""));
+// percent done: never shows 100% until the set really is complete, and shows <1% instead of 0% once you've started
+const pct = (h, t) => !t ? "0%" : h >= t ? "100%" : h > 0 && h / t < 0.01 ? "<1%" : `${Math.floor((h / t) * 100)}%`;
 const symImg = (s, cls = "sym") => s.symbol ? `<img class="${cls}" src="${esc(s.symbol)}" alt="" loading="lazy" onerror="this.remove()">` : "";
 const enSerie = (name) => S.lang === "en" || !D.en ? "" : (D.en.series?.[name] || "");
 // collection: cards = what you have ("nr" = normal + reverse), had = cards you traded or sold, log = every change
@@ -215,7 +217,7 @@ function renderHome() {
   $("#view").innerHTML = `
     <section class="hero">
       <h1>${esc(L.name)} sets</h1>
-      <div class="big">${have.toLocaleString()}<small> / ${total.toLocaleString()} cards</small></div>
+      <div class="big">${have.toLocaleString()}<small> / ${total.toLocaleString()} cards · ${pct(have, total)}</small></div>
       <div class="bar${have && have === total ? " done" : ""}"><i style="width:${total ? (have / total) * 100 : 0}%"></i></div>
       <p class="note">${sets.length} sets${hidden ? `. ${hidden} more are listed by the database without their cards yet, so they're hidden` : ""}${noPics ? `. ${Math.round(((total - noPics) / total) * 100)}% of cards have pictures in the card database; the rest show their number and name` : ""}.</p>
       ${FULL_LISTS[S.lang] ? `<p class="note">Missing a set or card? ${fullListLink(S.lang)}${S.lang === "ja" ? ` · <a class="extlink" href="https://www.pokeguardian.com/sets/set-lists/japanese-sets" target="_blank" rel="noopener">Newest Japanese sets on PokeGuardian ↗</a>` : ""}</p>` : ""}
@@ -249,7 +251,7 @@ function renderHome() {
           <span class="logo${!s.logo && s.cover ? " cover" : ""}">${s.logo || s.cover ? `<img src="${esc(s.logo || s.cover)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'abbr',textContent:this.dataset.a}))" data-a="${esc(s.abbr || s.id)}">`
             : `<span class="abbr">${esc(s.abbr || s.id)}</span>`}</span>
           <b>${esc(s.name)}${enName(s) ? `<small class="en">${esc(enName(s))}</small>` : ""}</b>
-          <span class="meta"><span>${symImg(s)}${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n}</span></span>
+          <span class="meta"><span>${symImg(s)}${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n} <span class="pct">${pct(h, s.cards_n)}</span></span></span>
           <span class="bar${h >= s.cards_n ? " done" : ""}"><i style="width:${(h / s.cards_n) * 100}%"></i></span></a>`;
       }).join("")}</div>`).join("") || `<p class="none">No sets match.</p>`;
   };
@@ -344,9 +346,9 @@ async function renderSet(id) {
       ${FULL_LISTS[S.lang] && set.cards.some((c) => !pic(c)) ? `<p class="note">Pictures missing? See this set on ${fullListLink(S.lang, FULL_LISTS[S.lang].site)}</p>` : ""}
     </div>
     <div class="prog">
-      <div><div class="lbl">Cards</div><div class="num">${have}<small> / ${cards.length}</small></div>
+      <div><div class="lbl">Cards</div><div class="num">${have}<small> / ${cards.length} · ${pct(have, cards.length)}</small></div>
         <div class="bar${have === cards.length ? " done" : ""}"><i style="width:${(have / cards.length) * 100}%"></i></div></div>
-      ${varTotal > cards.length ? `<div><div class="lbl">Master set (every version, e.g. reverse holos)</div><div class="num">${varHave}<small> / ${varTotal}</small></div>
+      ${varTotal > cards.length ? `<div><div class="lbl">Master set (every version, e.g. reverse holos)</div><div class="num">${varHave}<small> / ${varTotal} · ${pct(varHave, varTotal)}</small></div>
         <div class="bar${varHave === varTotal ? " done" : ""}"><i style="width:${(varHave / varTotal) * 100}%"></i></div></div>` : ""}
     </div>
     <p class="note" style="margin-top:-4px">${cards.length} cards${esc(official)}${rev ? `. ${rev} also come as a reverse holo` : ""}.${hadN ? ` You've traded or sold ${hadN}.` : ""}</p>
@@ -445,7 +447,7 @@ function refreshProgress(id) {
   const boxes = document.querySelectorAll(".prog > div");
   [[have, set.cards.length], [varHave, varTotal]].forEach(([h, t], i) => {
     const b = boxes[i]; if (!b) return;
-    b.querySelector(".num").innerHTML = `${h}<small> / ${t}</small>`;
+    b.querySelector(".num").innerHTML = `${h}<small> / ${t} · ${pct(h, t)}</small>`;
     b.querySelector(".bar").classList.toggle("done", h === t);
     b.querySelector(".bar i").style.width = `${(h / t) * 100}%`;
   });
