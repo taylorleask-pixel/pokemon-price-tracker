@@ -39,7 +39,8 @@
   "ko|M2a|M2a-104-193": "n",
   "ko|M2a|M2a-131-193": "n",
   "ko|M2a|M2a-211-193": "n",
-  "ko|M2a|M2a-123-193": "n"
+  "ko|M2a|M2a-123-193": "n",
+  "en|tot23|tot23-097-193": "n"
  },
  "had": {},
  "log": [
@@ -552,7 +553,17 @@
    "name": "Hop's Zacian ex",
    "n": "123/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:54:16.123Z",
+   "k": "en|tot23|tot23-097-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Mimikyu",
+   "n": "097/193",
+   "set": "Trick or Trade 2023"
   }
  ],
- "updated": "2026-11-21T00:36:15.895Z"
+ "updated": "2026-11-21T00:54:18.577Z"
 }
