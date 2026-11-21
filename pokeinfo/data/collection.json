@@ -152,7 +152,8 @@
   "en|sv08|sv08-002": "n",
   "en|sv08|sv08-143": "n",
   "en|sv08|sv08-082": "n",
-  "en|sv08|sv08-100": "n"
+  "en|sv08|sv08-100": "n",
+  "en|sv08|sv08-043": "n"
  },
  "had": {},
  "log": [
@@ -1875,7 +1876,17 @@
    "name": "Annihilape",
    "n": "100",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:58:33.365Z",
+   "k": "en|sv08|sv08-043",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Spheal",
+   "n": "043",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:58:27.710Z"
+ "updated": "2026-11-21T01:58:35.661Z"
 }
