@@ -157,7 +157,8 @@
   "en|sv08|sv08-028": "n",
   "en|sv08|sv08-146": "n",
   "en|sv08|sv08-080": "n",
-  "en|sv08|sv08-177": "n"
+  "en|sv08|sv08-177": "n",
+  "en|sv08|sv08-123": "n"
  },
  "had": {},
  "log": [
@@ -1930,7 +1931,17 @@
    "name": "Gravity Mountain",
    "n": "177",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:58:56.799Z",
+   "k": "en|sv08|sv08-123",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Alolan Dugtrio",
+   "n": "123",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:58:55.009Z"
+ "updated": "2026-11-21T01:58:57.396Z"
 }
