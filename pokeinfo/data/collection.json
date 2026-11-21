@@ -141,7 +141,8 @@
   "en|sv02|sv02-164": "n",
   "en|sv02|sv02-114": "n",
   "en|sv02|sv02-149": "n",
-  "en|sv02|sv02-076": "h"
+  "en|sv02|sv02-076": "h",
+  "en|sv02|sv02-113": "h"
  },
  "had": {},
  "log": [
@@ -1744,7 +1745,17 @@
    "name": "Pawmot",
    "n": "076",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:56:24.306Z",
+   "k": "en|sv02|sv02-113",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Hariyama",
+   "n": "113",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:56:17.525Z"
+ "updated": "2026-11-21T01:56:26.656Z"
 }
