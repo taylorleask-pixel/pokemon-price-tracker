@@ -12,7 +12,8 @@
   "en|swsh6|swsh6-49": "n",
   "en|swsh6|swsh6-48": "n",
   "en|swsh6|swsh6-13": "n",
-  "en|swsh6|swsh6-67": "n"
+  "en|swsh6|swsh6-67": "n",
+  "en|swsh6|swsh6-37": "n"
  },
  "had": {},
  "log": [
@@ -255,7 +256,17 @@
    "name": "Swirlix",
    "n": "67",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:18:50.791Z",
+   "k": "en|swsh6|swsh6-37",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Spheal",
+   "n": "37",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:18:48.002Z"
+ "updated": "2026-11-21T00:18:53.267Z"
 }
