@@ -140,7 +140,8 @@
   "en|sv02|sv02-065": "n",
   "en|sv02|sv02-164": "n",
   "en|sv02|sv02-114": "n",
-  "en|sv02|sv02-149": "n"
+  "en|sv02|sv02-149": "n",
+  "en|sv02|sv02-076": "h"
  },
  "had": {},
  "log": [
@@ -1733,7 +1734,17 @@
    "name": "Cufant",
    "n": "149",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:56:14.690Z",
+   "k": "en|sv02|sv02-076",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Pawmot",
+   "n": "076",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:56:08.655Z"
+ "updated": "2026-11-21T01:56:17.525Z"
 }
