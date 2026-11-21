@@ -55,7 +55,8 @@
   "en|tot23|tot23-066-196": "n",
   "en|tot22|tot22-031-192": "n",
   "en|tot22|tot22-076-203": "n",
-  "en|tot22|tot22-062-172": "n"
+  "en|tot22|tot22-062-172": "n",
+  "en|tot23|tot23-071-185": "n"
  },
  "had": {},
  "log": [
@@ -728,7 +729,17 @@
    "name": "Dusknoir",
    "n": "062/172",
    "set": "Trick or Trade 2022"
+  },
+  {
+   "t": "2026-11-21T00:57:29.933Z",
+   "k": "en|tot23|tot23-071-185",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Dusknoir",
+   "n": "071/185",
+   "set": "Trick or Trade 2023"
   }
  ],
- "updated": "2026-11-21T00:57:24.156Z"
+ "updated": "2026-11-21T00:57:32.244Z"
 }
