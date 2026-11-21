@@ -11,7 +11,8 @@
   "en|swsh6|swsh6-50": "n",
   "en|swsh6|swsh6-49": "n",
   "en|swsh6|swsh6-48": "n",
-  "en|swsh6|swsh6-13": "n"
+  "en|swsh6|swsh6-13": "n",
+  "en|swsh6|swsh6-67": "n"
  },
  "had": {},
  "log": [
@@ -244,7 +245,17 @@
    "name": "Bounsweet",
    "n": "13",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:18:45.650Z",
+   "k": "en|swsh6|swsh6-67",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Swirlix",
+   "n": "67",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:18:43.333Z"
+ "updated": "2026-11-21T00:18:48.002Z"
 }
