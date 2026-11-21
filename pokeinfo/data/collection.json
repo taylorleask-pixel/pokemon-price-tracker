@@ -131,7 +131,8 @@
   "en|sv02|sv02-082": "n",
   "en|sv02|sv02-006": "n",
   "en|sv02|sv02-039": "n",
-  "en|sv02|sv02-016": "n"
+  "en|sv02|sv02-016": "n",
+  "en|sv02|sv02-110": "n"
  },
  "had": {},
  "log": [
@@ -1634,7 +1635,17 @@
    "name": "Tarountula",
    "n": "016",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:55:12.636Z",
+   "k": "en|sv02|sv02-110",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Larvitar",
+   "n": "110",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:55:08.387Z"
+ "updated": "2026-11-21T01:55:14.976Z"
 }
