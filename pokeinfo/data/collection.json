@@ -28,7 +28,8 @@
   "ko|M2a|M2a-115-193": "n",
   "ko|M2a|M2a-041-193": "n",
   "ko|M2a|M2a-007-193": "n",
-  "ko|M2a|M2a-084-193": "n"
+  "ko|M2a|M2a-084-193": "n",
+  "ko|M2a|M2a-151-193": "n"
  },
  "had": {},
  "log": [
@@ -431,7 +432,17 @@
    "name": "Meditite",
    "n": "084/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:27:15.887Z",
+   "k": "ko|M2a|M2a-151-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Night Stretcher",
+   "n": "151/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:27:13.064Z"
+ "updated": "2026-11-21T00:27:18.237Z"
 }
