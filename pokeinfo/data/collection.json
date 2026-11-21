@@ -100,7 +100,8 @@
   "en|me03|me03-066": "n",
   "en|me03|me03-027": "n",
   "en|me03|me03-018": "n",
-  "en|me03|me03-034": "n"
+  "en|me03|me03-034": "n",
+  "en|me03|me03-036": "n"
  },
  "had": {},
  "log": [
@@ -1263,7 +1264,17 @@
    "name": "Meowstic",
    "n": "034",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:38:29.172Z",
+   "k": "en|me03|me03-036",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Aromatisse",
+   "n": "036",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:38:27.844Z"
+ "updated": "2026-11-21T01:38:30.414Z"
 }
