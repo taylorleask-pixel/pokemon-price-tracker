@@ -4,7 +4,8 @@
   "en|swsh6|swsh6-105": "n",
   "en|swsh6|swsh6-153": "n",
   "en|swsh6|swsh6-109": "n",
-  "en|swsh6|swsh6-106": "n"
+  "en|swsh6|swsh6-106": "n",
+  "en|swsh6|swsh6-66": "r"
  },
  "had": {},
  "log": [
@@ -167,7 +168,17 @@
    "name": "Whirlipede",
    "n": "106",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:18:02.739Z",
+   "k": "en|swsh6|swsh6-66",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Golurk",
+   "n": "66",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:17:58.587Z"
+ "updated": "2026-11-21T00:18:05.067Z"
 }
