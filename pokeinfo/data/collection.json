@@ -44,7 +44,8 @@
   "en|tot23|tot23-087-198": "n",
   "en|tot23|tot23-080-203": "n",
   "en|tot23|tot23-104-198": "n",
-  "en|tot23|tot23-088-193": "n"
+  "en|tot23|tot23-088-193": "n",
+  "en|tot23|tot23-024-196": "n"
  },
  "had": {},
  "log": [
@@ -607,7 +608,17 @@
    "name": "Mismagius",
    "n": "088/193",
    "set": "Trick or Trade 2023"
+  },
+  {
+   "t": "2026-11-21T00:55:20.357Z",
+   "k": "en|tot23|tot23-024-196",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Litwick",
+   "n": "024/196",
+   "set": "Trick or Trade 2023"
   }
  ],
- "updated": "2026-11-21T00:55:14.316Z"
+ "updated": "2026-11-21T00:55:22.666Z"
 }
