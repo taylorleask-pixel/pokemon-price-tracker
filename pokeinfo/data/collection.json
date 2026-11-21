@@ -135,7 +135,8 @@
   "en|sv02|sv02-110": "n",
   "en|sv02|sv02-095": "n",
   "en|sv02|sv02-170": "n",
-  "en|sv02|sv02-111": "n"
+  "en|sv02|sv02-111": "n",
+  "en|sv02|sv02-143": "n"
  },
  "had": {},
  "log": [
@@ -1678,7 +1679,17 @@
    "name": "Pupitar",
    "n": "111",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:55:41.942Z",
+   "k": "en|sv02|sv02-143",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Mabosstiff",
+   "n": "143",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:55:35.869Z"
+ "updated": "2026-11-21T01:55:44.428Z"
 }
