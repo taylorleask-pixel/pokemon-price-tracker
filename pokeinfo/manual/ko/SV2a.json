@@ -8,1058 +8,1268 @@
  "official": 165,
  "abbr": "SV2a",
  "logo": "img/logos/ja/SV2a.webp",
- "note": "Card list from Taylor. Card names are in English.",
+ "note": "Card list from Taylor, with every version (Poké Ball and Master Ball reverse holos). Card names are in English.",
  "source": "Taylor's document (Korean cards section).",
  "cards": [
   {
    "n": "001/165",
    "name": "Bulbasaur",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "002/165",
    "name": "Ivysaur",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "003/165",
    "name": "Venusaur ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "004/165",
    "name": "Charmander",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "005/165",
    "name": "Charmeleon",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "006/165",
    "name": "Charizard ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "007/165",
    "name": "Squirtle",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "008/165",
    "name": "Wartortle",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "009/165",
    "name": "Blastoise ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "010/165",
    "name": "Caterpie",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "011/165",
    "name": "Metapod",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "012/165",
    "name": "Butterfree",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "013/165",
    "name": "Weedle",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "014/165",
    "name": "Kakuna",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "015/165",
    "name": "Beedrill",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "016/165",
    "name": "Pidgey",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "017/165",
    "name": "Pidgeotto",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "018/165",
    "name": "Pidgeot",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "019/165",
    "name": "Rattata",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "020/165",
    "name": "Raticate",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "021/165",
    "name": "Spearow",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "022/165",
    "name": "Fearow",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "023/165",
    "name": "Ekans",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "024/165",
    "name": "Arbok ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "025/165",
    "name": "Pikachu",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "026/165",
    "name": "Raichu",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "027/165",
    "name": "Sandshrew",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "028/165",
    "name": "Sandslash",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "029/165",
    "name": "Nidoran ♀",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "030/165",
    "name": "Nidorina",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "031/165",
    "name": "Nidoqueen",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "032/165",
    "name": "Nidoran ♂",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "033/165",
    "name": "Nidorino",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "034/165",
    "name": "Nidoking",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "035/165",
    "name": "Clefairy",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "036/165",
    "name": "Clefable",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "037/165",
    "name": "Vulpix",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "038/165",
    "name": "Ninetales ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "039/165",
    "name": "Jigglypuff",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "040/165",
    "name": "Wigglytuff ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "041/165",
    "name": "Zubat",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "042/165",
    "name": "Golbat",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "043/165",
    "name": "Oddish",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "044/165",
    "name": "Gloom",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "045/165",
    "name": "Vileplume",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "046/165",
    "name": "Paras",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "047/165",
    "name": "Parasect",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "048/165",
    "name": "Venonat",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "049/165",
    "name": "Venomoth",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "050/165",
    "name": "Diglett",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "051/165",
    "name": "Dugtrio",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "052/165",
    "name": "Meowth",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "053/165",
    "name": "Persian",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "054/165",
    "name": "Psyduck",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "055/165",
    "name": "Golduck",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "056/165",
    "name": "Mankey",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "057/165",
    "name": "Primeape",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "058/165",
    "name": "Growlithe",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "059/165",
    "name": "Arcanine",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "060/165",
    "name": "Poliwag",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "061/165",
    "name": "Poliwhirl",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "062/165",
    "name": "Poliwrath",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "063/165",
    "name": "Abra",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "064/165",
    "name": "Kadabra",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "065/165",
    "name": "Alakazam ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "066/165",
    "name": "Machop",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "067/165",
    "name": "Machoke",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "068/165",
    "name": "Machamp",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "069/165",
    "name": "Bellsprout",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "070/165",
    "name": "Weepinbell",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "071/165",
    "name": "Victreebel",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "072/165",
    "name": "Tentacool",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "073/165",
    "name": "Tentacruel",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "074/165",
    "name": "Geodude",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "075/165",
    "name": "Graveler",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "076/165",
    "name": "Golem ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "077/165",
    "name": "Ponyta",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "078/165",
    "name": "Rapidash",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "079/165",
    "name": "Slowpoke",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "080/165",
    "name": "Slowbro",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "081/165",
    "name": "Magnemite",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "082/165",
    "name": "Magneton",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "083/165",
    "name": "Farfetch'd",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "084/165",
    "name": "Doduo",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "085/165",
    "name": "Dodrio",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "086/165",
    "name": "Seel",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "087/165",
    "name": "Dewgong",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "088/165",
    "name": "Grimer",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "089/165",
    "name": "Muk",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "090/165",
    "name": "Shellder",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "091/165",
    "name": "Cloyster",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "092/165",
    "name": "Gastly",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "093/165",
    "name": "Haunter",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "094/165",
    "name": "Gengar",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "095/165",
    "name": "Onix",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "096/165",
    "name": "Drowzee",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "097/165",
    "name": "Hypno",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "098/165",
    "name": "Krabby",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "099/165",
    "name": "Kingler",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "100/165",
    "name": "Voltorb",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "101/165",
    "name": "Electrode",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "102/165",
    "name": "Exeggcute",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "103/165",
    "name": "Exeggutor",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "104/165",
    "name": "Cubone",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "105/165",
    "name": "Marowak",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "106/165",
    "name": "Hitmonlee",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "107/165",
    "name": "Hitmonchan",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "108/165",
    "name": "Lickitung",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "109/165",
    "name": "Koffing",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "110/165",
    "name": "Weezing",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "111/165",
    "name": "Rhyhorn",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "112/165",
    "name": "Rhydon",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "113/165",
    "name": "Chansey",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "114/165",
    "name": "Tangela",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "115/165",
    "name": "Kangaskhan ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "116/165",
    "name": "Horsea",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "117/165",
    "name": "Seadra",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "118/165",
    "name": "Goldeen",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "119/165",
    "name": "Seaking",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "120/165",
    "name": "Staryu",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "121/165",
    "name": "Starmie",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "122/165",
    "name": "Mr. Mime",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "123/165",
    "name": "Scyther",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "124/165",
    "name": "Jynx ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "125/165",
    "name": "Electabuzz",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "126/165",
    "name": "Magmar",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "127/165",
    "name": "Pinsir",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "128/165",
    "name": "Tauros",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "129/165",
    "name": "Magikarp",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "130/165",
    "name": "Gyarados",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "131/165",
    "name": "Lapras",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "132/165",
    "name": "Ditto",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "133/165",
    "name": "Eevee",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "134/165",
    "name": "Vaporeon",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "135/165",
    "name": "Jolteon",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "136/165",
    "name": "Flareon",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "137/165",
    "name": "Porygon",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "138/165",
    "name": "Omanyte",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "139/165",
    "name": "Omastar",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "140/165",
    "name": "Kabuto",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "141/165",
    "name": "Kabutops",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "142/165",
    "name": "Aerodactyl",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "143/165",
    "name": "Snorlax",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "144/165",
    "name": "Articuno",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "145/165",
    "name": "Zapdos ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "146/165",
    "name": "Moltres",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "147/165",
    "name": "Dratini",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "148/165",
    "name": "Dragonair",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "149/165",
    "name": "Dragonite",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "150/165",
    "name": "Mewtwo",
-   "v": "n"
+   "r": "R",
+   "v": "hpm"
   },
   {
    "n": "151/165",
    "name": "Mew ex",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "152/165",
    "name": "Grabber",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "153/165",
    "name": "Energy Sticker",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "154/165",
    "name": "Antique Dome Fossil",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "155/165",
    "name": "Antique Old Amber",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "156/165",
    "name": "Antique Helix Fossil",
-   "v": "n"
+   "r": "C",
+   "v": "npm"
   },
   {
    "n": "157/165",
    "name": "Leftovers",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "158/165",
    "name": "Protective Goggles",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "159/165",
    "name": "Big Air Balloon",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "160/165",
    "name": "Rigid Band",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "161/165",
    "name": "Daisy's Help",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "162/165",
    "name": "Erika's Invitation",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "163/165",
    "name": "Giovanni's Charisma",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "164/165",
    "name": "Bill's Transfer",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "165/165",
    "name": "Cycling Road",
-   "v": "n"
+   "r": "U",
+   "v": "npm"
   },
   {
    "n": "166/165",
    "name": "Bulbasaur",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "167/165",
    "name": "Ivysaur",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "168/165",
    "name": "Charmander",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "169/165",
    "name": "Charmeleon",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "170/165",
    "name": "Squirtle",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "171/165",
    "name": "Wartortle",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "172/165",
    "name": "Caterpie",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "173/165",
    "name": "Pikachu",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "174/165",
    "name": "Nidoking",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "175/165",
    "name": "Psyduck",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "176/165",
    "name": "Poliwhirl",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "177/165",
    "name": "Machoke",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "178/165",
    "name": "Tangela",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "179/165",
    "name": "Mr. Mime",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "180/165",
    "name": "Omanyte",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "181/165",
    "name": "Snorlax",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "182/165",
    "name": "Dragonair",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "183/165",
    "name": "Mewtwo",
-   "v": "n"
+   "r": "AR",
+   "v": "h"
   },
   {
    "n": "184/165",
    "name": "Venusaur ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "185/165",
    "name": "Charizard ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "186/165",
    "name": "Blastoise ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "187/165",
    "name": "Arbok ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "188/165",
    "name": "Ninetales ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "189/165",
    "name": "Wigglytuff ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "190/165",
    "name": "Alakazam ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "191/165",
    "name": "Golem ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "192/165",
    "name": "Kangaskhan ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "193/165",
    "name": "Jynx ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "194/165",
    "name": "Zapdos ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "195/165",
    "name": "Mew ex",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "196/165",
    "name": "Daisy's Help",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "197/165",
    "name": "Erika's Invitation",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "198/165",
    "name": "Giovanni's Charisma",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "199/165",
    "name": "Bill's Transfer",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "200/165",
    "name": "Venusaur ex",
-   "v": "n"
+   "r": "SAR",
+   "v": "h"
   },
   {
    "n": "201/165",
    "name": "Charizard ex",
-   "v": "n"
+   "r": "SAR",
+   "v": "h"
   },
   {
    "n": "202/165",
    "name": "Blastoise ex",
-   "v": "n"
+   "r": "SAR",
+   "v": "h"
   },
   {
    "n": "203/165",
    "name": "Alakazam ex",
-   "v": "n"
+   "r": "SAR",
+   "v": "h"
   },
   {
    "n": "204/165",
    "name": "Zapdos ex",
-   "v": "n"
+   "r": "SAR",
+   "v": "h"
   },
   {
    "n": "205/165",
    "name": "Mew ex",
-   "v": "n"
+   "r": "SAR",
+   "v": "h"
   },
   {
    "n": "206/165",
    "name": "Erika's Invitation",
-   "v": "n"
+   "r": "SAR",
+   "v": "h"
   },
   {
    "n": "207/165",
    "name": "Giovanni's Charisma",
-   "v": "n"
+   "r": "SAR",
+   "v": "h"
   },
   {
    "n": "208/165",
    "name": "Mew ex",
-   "v": "n"
+   "r": "UR",
+   "v": "h"
   },
   {
    "n": "209/165",
    "name": "Switch",
-   "v": "n"
+   "r": "UR",
+   "v": "h"
   },
   {
    "n": "210/165",
    "name": "Basic Psychic Energy",
-   "v": "n"
+   "r": "UR",
+   "v": "h"
   }
  ]
 }

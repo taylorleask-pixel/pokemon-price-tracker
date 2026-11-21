@@ -25,8 +25,10 @@ const FULL_LISTS = {
 };
 const fullListLink = (lang, text) => FULL_LISTS[lang]
   ? `<a class="extlink" href="${esc(FULL_LISTS[lang].url)}" target="_blank" rel="noopener">${esc(text || `Every ${LANGS.find((l) => l.id === lang).name} set on ${FULL_LISTS[lang].site}`)} ↗</a>` : "";
-const VNAME = { n: "Normal", h: "Holo", r: "Reverse holo", f: "1st edition" };
-const VSHORT = { n: "N", h: "H", r: "R", f: "1st" };
+const VNAME = { n: "Normal", h: "Holo", r: "Reverse holo", f: "1st edition", p: "Poké Ball reverse holo", m: "Master Ball reverse holo" };
+const VLABEL = { r: "Reverse", h: "Holo", f: "1st Ed.", p: "Poké Ball", m: "Master Ball" };
+const isRev = (v) => /[rpm]/.test(v || "");
+const VSHORT = { n: "N", h: "H", r: "R", f: "1st", p: "PB", m: "MB" };
 
 const store = {
   get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : JSON.parse(v); } catch { return d; } },
@@ -380,8 +382,8 @@ function drawCardHits() {
 // ---------------------------------------------------------------- one set: the binder
 const pic = (c, size = "low") => c.img ? `${c.img}/${size}.webp` : c.ps ? (size === "low" ? c.ps : c.pl || c.ps) : null;
 const HOW = { traded: "Traded", sold: "Sold" };
-function defaultVersion(c) { return ["n", "h", "f", "r"].find((v) => (c.v || "").includes(v)) || "n"; }
-function versions(c) { return (c.v || "n").split("").sort((a, b) => "nhfr".indexOf(a) - "nhfr".indexOf(b)); }
+function defaultVersion(c) { return ["n", "h", "f", "r", "p", "m"].find((v) => (c.v || "").includes(v)) || "n"; }
+function versions(c) { return (c.v || "n").split("").sort((a, b) => "nhfrpm".indexOf(a) - "nhfrpm".indexOf(b)); }
 
 async function renderSet(id) {
   const meta = D.sets[S.lang].sets.find((s) => s.id === id);
@@ -405,7 +407,7 @@ async function renderSet(id) {
   const varHave = cards.reduce((a, c) => a + (C.cards[k(c)] || "").length, 0);
   const types = {};
   for (const c of cards) { const t = rKey(c); (types[t] ??= { n: 0, have: 0 }).n++; if (C.cards[k(c)]) types[t].have++; }
-  const rev = cards.filter((c) => (c.v || "").includes("r")).length;
+  const rev = cards.filter((c) => isRev(c.v)).length;
   const typeList = Object.entries(types);
   const showTypes = typeList.length > 1 || typeList[0]?.[0] !== "Unknown rarity";
   const official = meta.official && meta.official !== cards.length ? ` (${meta.official} in the main set, the rest are secret rares)` : "";
@@ -442,14 +444,14 @@ async function renderSet(id) {
     <div class="grid" id="grid"></div>`;
 
   const draw = () => {
-    S.list = cards.filter((c) => (!S.type || (S.type === "__rev" ? (c.v || "").includes("r") : rKey(c) === S.type)) &&
+    S.list = cards.filter((c) => (!S.type || (S.type === "__rev" ? isRev(c.v) : rKey(c) === S.type)) &&
       (S.own !== "had" || (!C.cards[k(c)] && !!C.had[k(c)])) && cardMatches(c, S.cq));
     // one tile per version, so normal and reverse holo can be ticked straight from the grid
     S.tiles = [];
     S.list.forEach((c, ci) => {
       const vs = versions(c), owned = C.cards[k(c)] || "";
       for (const v of vs) {
-        if (S.type === "__rev" && v !== "r") continue;
+        if (S.type === "__rev" && !isRev(v)) continue;
         if (S.own === "have" && !owned.includes(v)) continue;
         if (S.own === "need" && owned.includes(v)) continue;
         S.tiles.push({ c, v, ci, multi: vs.length > 1 });
@@ -502,11 +504,11 @@ function cardTile(t, ownedAll, i, had) {
   const c = t.c, v = t.v, owned = ownedAll.includes(v) ? ownedAll : "";
   had = !ownedAll && had;
   const label = t.multi && v !== "n" ? VNAME[v] : "";
-  return `<button type="button" class="card ${owned ? "have" : had ? "had" : "need"}${v === "r" ? " rev" : ""}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}${label ? `, ${label}` : ""}`)}${owned ? ", have it" : had ? `, ${HOW[had.how].toLowerCase()}` : ""}">
+  return `<button type="button" class="card ${owned ? "have" : had ? "had" : "need"}${isRev(v) ? " rev" : ""}${v === "p" ? " pball" : v === "m" ? " mball" : ""}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}${label ? `, ${label}` : ""}`)}${owned ? ", have it" : had ? `, ${HOW[had.how].toLowerCase()}` : ""}">
     <span class="pic">${pic(c) ? `<img src="${esc(pic(c))}" alt="" loading="lazy" data-ph="${esc(c.name)}" onerror="imgFail(this)">` : `<span class="ph">${esc(c.name)}</span>`}
       ${owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}
       ${had ? `<span class="hadtag">Had · ${HOW[had.how]}</span>` : ""}
-      ${label ? `<span class="vlabel">${esc({ r: "Reverse", h: "Holo", f: "1st Ed." }[v] || label)}</span>` : ""}
+      ${label ? `<span class="vlabel">${esc(VLABEL[v] || label)}</span>` : ""}
       <span class="info" role="button" aria-label="Versions and details">i</span></span>
     <span class="cap"><span>${esc(c.name)}</span><span>${rarTag(c.r)}${esc(c.n)}</span></span></button>`;
 }

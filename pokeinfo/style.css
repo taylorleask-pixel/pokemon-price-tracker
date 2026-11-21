@@ -247,3 +247,7 @@ dialog::backdrop { background: rgba(10, 14, 20, .6); }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .rsym path[fill="#1b1b1b"], :root:not([data-theme="light"]) .rsym circle[fill="#1b1b1b"] { fill: #e8ecf3; } }
 :root[data-theme="dark"] .rsym path[fill="#1b1b1b"], :root[data-theme="dark"] .rsym circle[fill="#1b1b1b"] { fill: #e8ecf3; }
 .card .cap > span:last-child { white-space: nowrap; flex: none; }
+
+/* Poké Ball and Master Ball reverse holos */
+.card.pball .vlabel { background: #d8333a; color: #fff; }
+.card.mball .vlabel { background: #7a3fb8; color: #fff; }
