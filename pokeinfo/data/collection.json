@@ -38,7 +38,8 @@
   "ko|M2a|M2a-081-193": "n",
   "ko|M2a|M2a-104-193": "n",
   "ko|M2a|M2a-131-193": "n",
-  "ko|M2a|M2a-211-193": "n"
+  "ko|M2a|M2a-211-193": "n",
+  "ko|M2a|M2a-123-193": "n"
  },
  "had": {},
  "log": [
@@ -541,7 +542,17 @@
    "name": "Dreepy",
    "n": "211/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:36:13.579Z",
+   "k": "ko|M2a|M2a-123-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Hop's Zacian ex",
+   "n": "123/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:36:08.375Z"
+ "updated": "2026-11-21T00:36:15.895Z"
 }
