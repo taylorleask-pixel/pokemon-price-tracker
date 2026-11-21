@@ -154,7 +154,8 @@
   "en|sv08|sv08-082": "n",
   "en|sv08|sv08-100": "n",
   "en|sv08|sv08-043": "n",
-  "en|sv08|sv08-028": "n"
+  "en|sv08|sv08-028": "n",
+  "en|sv08|sv08-146": "n"
  },
  "had": {},
  "log": [
@@ -1897,7 +1898,17 @@
    "name": "Centiskorch",
    "n": "028",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:58:43.694Z",
+   "k": "en|sv08|sv08-146",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Vigoroth",
+   "n": "146",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:58:41.035Z"
+ "updated": "2026-11-21T01:58:46.033Z"
 }
