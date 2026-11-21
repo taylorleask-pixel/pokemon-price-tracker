@@ -145,7 +145,8 @@
   "en|sv02|sv02-113": "h",
   "en|sv02|sv02-119": "r",
   "en|sv02|sv02-021": "r",
-  "en|sv08|sv08-167": "n"
+  "en|sv08|sv08-167": "n",
+  "en|sv08|sv08-095": "n"
  },
  "had": {},
  "log": [
@@ -1798,7 +1799,17 @@
    "name": "Clemont's Quick Wit",
    "n": "167",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:57:56.526Z",
+   "k": "en|sv08|sv08-095",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Espathra",
+   "n": "095",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:57:51.454Z"
+ "updated": "2026-11-21T01:57:58.880Z"
 }
