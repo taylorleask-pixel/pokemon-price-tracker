@@ -24,7 +24,8 @@
   "ko|M2a|M2a-068-193": "n",
   "ko|M2a|M2a-085-193": "n",
   "ko|M2a|M2a-184-193": "n",
-  "ko|M2a|M2a-166-193": "n"
+  "ko|M2a|M2a-166-193": "n",
+  "ko|M2a|M2a-115-193": "n"
  },
  "had": {},
  "log": [
@@ -387,7 +388,17 @@
    "name": "Air Balloon",
    "n": "166/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:26:50.034Z",
+   "k": "ko|M2a|M2a-115-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Pecharunt",
+   "n": "115/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:26:47.427Z"
+ "updated": "2026-11-21T00:26:52.348Z"
 }
