@@ -53,7 +53,8 @@
   "en|tot23|tot23-106-198": "n",
   "en|tot23|tot23-019-185": "n",
   "en|tot23|tot23-066-196": "n",
-  "en|tot22|tot22-031-192": "n"
+  "en|tot22|tot22-031-192": "n",
+  "en|tot22|tot22-076-203": "n"
  },
  "had": {},
  "log": [
@@ -706,7 +707,17 @@
    "name": "Litwick",
    "n": "031/192",
    "set": "Trick or Trade 2022"
+  },
+  {
+   "t": "2026-11-21T00:57:15.130Z",
+   "k": "en|tot22|tot22-076-203",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Pumpkaboo",
+   "n": "076/203",
+   "set": "Trick or Trade 2022"
   }
  ],
- "updated": "2026-11-21T00:57:14.025Z"
+ "updated": "2026-11-21T00:57:16.175Z"
 }
