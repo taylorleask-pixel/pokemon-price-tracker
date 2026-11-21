@@ -93,7 +93,7 @@
   "en|me03|me03-002": "n",
   "en|me03|me03-084": "n",
   "en|me03|me03-007": "n",
-  "en|me03|me03-015": "n",
+  "en|me03|me03-015": "nr",
   "en|me03|me03-033": "nr",
   "en|me03|me03-009": "n",
   "en|me03|me03-075": "n",
@@ -1350,7 +1350,17 @@
    "name": "Snorlax",
    "n": "063",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:39:20.594Z",
+   "k": "en|me03|me03-015",
+   "a": "versions",
+   "v": "nr",
+   "from": "n",
+   "name": "Salandit",
+   "n": "015",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:39:16.658Z"
+ "updated": "2026-11-21T01:39:22.937Z"
 }
