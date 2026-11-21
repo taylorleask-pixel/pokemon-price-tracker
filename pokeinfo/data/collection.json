@@ -130,7 +130,8 @@
   "en|sv02|sv02-045": "n",
   "en|sv02|sv02-082": "n",
   "en|sv02|sv02-006": "n",
-  "en|sv02|sv02-039": "n"
+  "en|sv02|sv02-039": "n",
+  "en|sv02|sv02-016": "n"
  },
  "had": {},
  "log": [
@@ -1623,7 +1624,17 @@
    "name": "Charcadet",
    "n": "039",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:55:06.041Z",
+   "k": "en|sv02|sv02-016",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Tarountula",
+   "n": "016",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:55:03.789Z"
+ "updated": "2026-11-21T01:55:08.387Z"
 }
