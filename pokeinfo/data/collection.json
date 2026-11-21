@@ -32,7 +32,8 @@
   "ko|M2a|M2a-151-193": "n",
   "ko|M2a|M2a-018-193": "n",
   "ko|M2a|M2a-109-193": "n",
-  "ko|M2a|M2a-015-193": "n"
+  "ko|M2a|M2a-015-193": "n",
+  "ko|M2a|M2a-043-193": "n"
  },
  "had": {},
  "log": [
@@ -475,7 +476,17 @@
    "name": "Team Rocket's Tarountula",
    "n": "015/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:27:38.432Z",
+   "k": "ko|M2a|M2a-043-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Chien-Pao",
+   "n": "043/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:27:35.384Z"
+ "updated": "2026-11-21T00:27:40.776Z"
 }
