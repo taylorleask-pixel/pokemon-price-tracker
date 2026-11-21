@@ -14,7 +14,8 @@
   "en|swsh6|swsh6-13": "n",
   "en|swsh6|swsh6-67": "n",
   "en|swsh6|swsh6-37": "n",
-  "en|swsh6|swsh6-29": "n"
+  "en|swsh6|swsh6-29": "n",
+  "en|swsh6|swsh6-146": "n"
  },
  "had": {},
  "log": [
@@ -277,7 +278,17 @@
    "name": "Lapras",
    "n": "29",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:19:03.020Z",
+   "k": "en|swsh6|swsh6-146",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Melony",
+   "n": "146",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:18:57.484Z"
+ "updated": "2026-11-21T00:19:05.375Z"
 }
