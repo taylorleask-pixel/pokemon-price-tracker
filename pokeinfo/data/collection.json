@@ -163,7 +163,8 @@
   "en|sv08|sv08-107": "h",
   "en|sv08|sv08-105": "r",
   "en|sv08|sv08-038": "r",
-  "en|sv08|sv08-152": "r"
+  "en|sv08|sv08-152": "r",
+  "en|sv08|sv08-087": "r"
  },
  "had": {},
  "log": [
@@ -1996,7 +1997,17 @@
    "name": "Rufflet",
    "n": "152",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:59:33.176Z",
+   "k": "en|sv08|sv08-087",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Dedenne",
+   "n": "087",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:59:29.272Z"
+ "updated": "2026-11-21T01:59:35.512Z"
 }
