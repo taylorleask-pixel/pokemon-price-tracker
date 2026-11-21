@@ -232,7 +232,7 @@ def add_manual(lang, sets):
         path.write_text(json.dumps({"id": m["id"], "name": m["name"], "note": m.get("note"), "cards": rows}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         sets.append({"id": m["id"], "name": m["name"], "serie": m.get("serie"), "serie_id": m.get("serie_id"), "date": m.get("date"),
                      "official": m.get("official"), "total": len(rows), "cards_n": len(rows),
-                     "img_n": sum(1 for r in rows if r.get("img") or r.get("ps")), "logo": m.get("logo"), "symbol": None, "abbr": m.get("abbr"), "manual": True})
+                     "img_n": sum(1 for r in rows if r.get("img") or r.get("ps")), "logo": m.get("logo"), "symbol": None, "abbr": m.get("abbr"), "manual": True, **({"cover_pick": m["cover"]} if m.get("cover") else {})})
         print(f"   added by hand: {m['name']} ({len(rows)} cards, {found} matched to the original card)")
 
 
@@ -301,7 +301,9 @@ def fill_logos(lang, sets):
         def not_star(r):   # prefer the big Pokémon (ex, V, VSTAR, GX…) over trainers and items when nothing else says
             return re.search(r"(\bex|\bv|vmax|vstar|gx|\bex\b|ＥＸ|ｅｘ)\s*$", r.get("name", ""), re.I) is None
         pics = [r for r in rows if r.get("img") or r.get("ps")]
-        if pics:
+        if x.get("cover_pick"):   # a hand-made set that names its cover card
+            x["cover"] = x["cover_pick"]
+        elif pics:
             # the set's chase card: most valuable if there are prices, else the rarest Pokémon (not a trainer)
             best = min(pics, key=lambda r: (-(r.get("usd") or 0), (r.get("cat") or "Pokemon").lower() not in ("pokemon", "pokémon"),
                                             rank(r), not_star(r), -rows.index(r)))
