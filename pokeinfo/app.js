@@ -43,6 +43,65 @@ const pct = (h, t) => !t ? "0%" : h >= t ? "100%" : h > 0 && h / t < 0.01 ? "<1%
 // the code printed at the bottom of non-English cards (M2a, SV9a, S8b…), so you can match a card to its set
 const setCode = (s) => S.lang === "en" || !s?.id || s.id.startsWith("x-") ? "" : s.id;
 const codeTag = (s) => setCode(s) ? `<span class="code">${esc(setCode(s))}</span>` : "";
+// ---- rarities: the code printed on Japanese/Korean/Chinese cards (C, U, R, RR, AR, SR, SAR, UR…), its English name,
+// the English symbol (drawn here), and what it usually is (from Taylor's rarity guide)
+const STAR = "M12 2.6l2.9 6 6.5.8-4.8 4.5 1.2 6.5L12 17.3l-5.8 3.1 1.2-6.5L2.6 9.4l6.5-.8z";
+const SYM = {
+  circle: [["c", "#1b1b1b"]], diamond: [["d", "#1b1b1b"]], star: [["s", "#1b1b1b"]], star2: [["s", "#1b1b1b"], ["s", "#1b1b1b"]],
+  star3: [["s", "#1b1b1b"], ["s", "#1b1b1b"], ["s", "#1b1b1b"]], ace: [["s", "#E0247A"]], gold: [["s", "#F2B705"]],
+  silver2: [["s", "#9AA0A6"], ["s", "#9AA0A6"]], gold2: [["s", "#F2B705"], ["s", "#F2B705"]], gold3: [["s", "#F2B705"], ["s", "#F2B705"], ["s", "#F2B705"]],
+  shiny: [["o", "#F2B705"]], shiny2: [["o", "#F2B705"], ["o", "#F2B705"]], mega: [["s", "#E0247A"], ["s", "#2EA84A"]],
+};
+function rarSym(kind) {
+  const parts = SYM[kind]; if (!parts) return "";
+  const w = 12 + (parts.length - 1) * 8;
+  const shapes = parts.map(([t, col], i) => {
+    const x = i * 8, y = parts.length === 3 && i === 1 ? -2 : 0;
+    if (t === "c") return `<circle cx="${x + 6}" cy="6" r="4.2" fill="${col}"/>`;
+    if (t === "d") return `<path d="M${x + 6} 1.2 ${x + 10.8} 6 ${x + 6} 10.8 ${x + 1.2} 6z" fill="${col}"/>`;
+    return `<path d="${STAR}" transform="translate(${x},${y + 0.3}) scale(.5)" fill="${t === "o" ? "none" : col}" stroke="${col}" stroke-width="${t === "o" ? 2.6 : 0}"/>`;
+  }).join("");
+  return `<svg class="rsym" viewBox="0 -2 ${w} 14" width="${w}" height="12" aria-hidden="true">${shapes}</svg>`;
+}
+const RARITY = [
+  // [code, English name, symbol, what it usually is, other names it goes by]
+  ["C", "Common", "circle", "Everyday Pokémon, Trainer and Energy cards. Flat cards.", ["common"]],
+  ["U", "Uncommon", "diamond", "More everyday Pokémon, Trainer and Energy cards. Flat cards.", ["uncommon"]],
+  ["R", "Rare", "star", "Stronger cards. Usually flat, sometimes foil.", ["rare", "holo rare", "rare holo"]],
+  ["RR", "Double Rare", "star2", "Pokémon ex (and V, GX, EX in older sets). Foil.", ["double rare", "holo rare v", "holo rare vmax", "holo rare vstar"]],
+  ["RRR", "Triple Rare", "star3", "VSTAR and VMAX cards in Sword & Shield sets. Foil.", ["triple rare"]],
+  ["ACE", "ACE SPEC Rare", "ace", "Powerful Trainer cards, limited to one ACE SPEC per deck. Foil.", ["ace spec rare", "ace spec"]],
+  ["AR", "Illustration Rare", "gold", "Alternate-art versions of everyday Pokémon, full-art foil scenes.", ["illustration rare", "art rare"]],
+  ["SR", "Ultra Rare", "silver2", "Secret-numbered ex, Supporter and other cards, usually full-art.", ["ultra rare", "super rare"]],
+  ["SAR", "Special Illustration Rare", "gold2", "Full-art cards with detailed scenes, either a Pokémon or a Trainer. Secret-numbered.", ["special illustration rare", "super art rare", "sr (sa)"]],
+  ["UR", "Hyper Rare", "gold3", "The top tier. Secret-numbered, with gold treatment.", ["hyper rare"]],
+  ["HR", "Hyper Rare (rainbow)", "gold3", "Sword & Shield era top tier: rainbow cards.", []],
+  ["S", "Shiny Rare", "shiny", "Shiny Pokémon from shiny sets.", ["shiny rare", "shiny", "shiny rare v", "shiny rare vmax"]],
+  ["SSR", "Shiny Ultra Rare", "shiny2", "Full-art shiny Pokémon ex from shiny sets.", ["shiny ultra rare", "shiny super rare"]],
+  ["CHR", "Character Rare", "", "Pokémon shown with their Trainer, full-art.", ["character rare"]],
+  ["CSR", "Character Super Rare", "", "Full-art Pokémon V with their Trainer.", ["character super rare"]],
+  ["K", "Radiant Rare", "", "Radiant Pokémon, one per deck.", ["radiant rare"]],
+  ["MA", "Mega Attack Rare", "mega", "Full-art Mega Evolution Pokémon ex with a big Japanese attack name.", ["mega attack rare"]],
+  ["MUR", "Mega Hyper Rare", "gold3", "Mega Evolution Pokémon ex with gold-etched holo artwork.", ["mega hyper rare"]],
+  ["PR", "Promo", "", "Promo card from an event, product or magazine.", ["promo"]],
+];
+const RAR_BY = new Map();
+for (const r of RARITY) { RAR_BY.set(r[0].toLowerCase(), r); for (const a of r[4]) RAR_BY.set(a, r); }
+function rarity(r, serie = S.curSerie) {
+  if (!r) return null;
+  const k = String(r).trim().toLowerCase();
+  let hit = RAR_BY.get(k);
+  // the database calls some gold cards "Mega Hyper Rare" even outside Mega Evolution sets: there they're plain UR
+  if (hit?.[0] === "MUR" && serie && !/^(m|me)$/i.test(serie)) hit = RAR_BY.get("ur");
+  return hit ? { code: hit[0], en: hit[1], sym: hit[2], desc: hit[3] } : { code: "", en: String(r).trim(), sym: "", desc: "" };
+}
+const rKey = (c) => rarity(c.r)?.en || "Unknown rarity";
+// tile-sized rarity: English cards show the English symbol; other languages show the code printed on the card
+function rarTag(r, serie) {
+  const x = rarity(r, serie); if (!x) return "";
+  if (S.lang === "en") return x.sym ? `<span class="rtag" title="${esc(x.en)}">${rarSym(x.sym)}</span>` : "";
+  return x.code ? `<span class="rtag" title="${esc(x.en)}">${esc(x.code)}</span>` : "";
+}
 const symImg = (s, cls = "sym") => s.symbol ? `<img class="${cls}" src="${esc(s.symbol)}" alt="" loading="lazy" onerror="this.remove()">` : "";
 const enSerie = (name) => S.lang === "en" || !D.en ? "" : (D.en.series?.[name] || "");
 // collection: cards = what you have ("nr" = normal + reverse), had = cards you traded or sold, log = every change
@@ -309,7 +368,7 @@ function drawCardHits() {
       <div class="grid hits">${hits.slice(0, LIMIT).map((h, i) => `<a class="card hit ${h.owned ? "have" : "need"}" href="#${lang}/set/${encodeURIComponent(h.setId)}" data-h="${i}">
         <span class="pic">${h.pic ? `<img src="${esc(h.pic)}" alt="" loading="lazy" data-ph="${esc(h.name)}" onerror="imgFail(this)">` : `<span class="ph">${esc(h.name)}</span>`}
           ${h.owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}</span>
-        <span class="cap"><span>${esc(h.name)}</span><span>${esc(h.n)}</span></span>
+        <span class="cap"><span>${esc(h.name)}</span><span>${rarTag(h.r, meta(h.setId)?.serie_id)}${esc(h.n)}</span></span>
         <span class="hitset">${symImg(meta(h.setId) || {})}${codeTag(meta(h.setId))}${esc(h.setName)}${enName({ id: h.setId, name: h.setName, name_en: meta(h.setId)?.name_en }) ? ` · ${esc(enName({ id: h.setId, name: h.setName, name_en: meta(h.setId)?.name_en }))}` : ""}</span></a>`).join("")}</div>
       ${hits.length > LIMIT ? `<p><button type="button" class="btn ghost" id="morehits">Show all ${hits.length.toLocaleString()} cards</button></p>` : ""}`
       : `<p class="note">No cards match “${esc(q)}”.</p>`;
@@ -334,6 +393,7 @@ async function renderSet(id) {
   const set = D.setFiles[fk];
   if (!set || !meta) { $("#view").innerHTML = `<button class="back" id="back">← All sets</button><p class="none">That set isn't in the card list.</p>`; $("#back").onclick = () => go(S.lang); return; }
   if (S.setId !== id) { S.setId = id; S.type = null; S.own = "all"; S.cq = ""; }
+  S.curSerie = meta?.serie_id || "";
   if (S.jump?.id === id) { S.cq = S.jump.q; S.jump = null; }   // came from a card search: show just that card
   const cards = set.cards;
   const k = (c) => key(S.lang, id, c.id);
@@ -344,7 +404,7 @@ async function renderSet(id) {
   const varTotal = cards.reduce((a, c) => a + versions(c).length, 0);
   const varHave = cards.reduce((a, c) => a + (C.cards[k(c)] || "").length, 0);
   const types = {};
-  for (const c of cards) { const t = c.r || "Unknown rarity"; (types[t] ??= { n: 0, have: 0 }).n++; if (C.cards[k(c)]) types[t].have++; }
+  for (const c of cards) { const t = rKey(c); (types[t] ??= { n: 0, have: 0 }).n++; if (C.cards[k(c)]) types[t].have++; }
   const rev = cards.filter((c) => (c.v || "").includes("r")).length;
   const typeList = Object.entries(types);
   const showTypes = typeList.length > 1 || typeList[0]?.[0] !== "Unknown rarity";
@@ -368,7 +428,7 @@ async function renderSet(id) {
     ${set.note ? `<p class="note">${esc(set.note)}</p>` : ""}
     ${showTypes ? `<ul class="types" aria-label="Filter by type">
       <li><button type="button" data-type="" aria-pressed="${!S.type}">All</button></li>
-      ${typeList.map(([t, o]) => `<li><button type="button" data-type="${esc(t)}" aria-pressed="${S.type === t}"><b>${o.n}</b> ${esc(t)}${o.have ? ` · ${o.have} ✓` : ""}</button></li>`).join("")}
+      ${typeList.map(([t, o]) => { const x = rarity(t); return `<li><button type="button" data-type="${esc(t)}" aria-pressed="${S.type === t}"><b>${o.n}</b> ${x?.sym ? rarSym(x.sym) + " " : ""}${x && x.code && S.lang !== "en" ? `${esc(x.code)} · ` : ""}${esc(x ? x.en : t)}${o.have ? ` · ${o.have} ✓` : ""}</button></li>`; }).join("")}
       ${rev ? `<li><button type="button" data-type="__rev" aria-pressed="${S.type === "__rev"}"><b>${rev}</b> Reverse holo</button></li>` : ""}
     </ul>` : ""}
     <div class="tools">
@@ -382,7 +442,7 @@ async function renderSet(id) {
     <div class="grid" id="grid"></div>`;
 
   const draw = () => {
-    S.list = cards.filter((c) => (!S.type || (S.type === "__rev" ? (c.v || "").includes("r") : (c.r || "Unknown rarity") === S.type)) &&
+    S.list = cards.filter((c) => (!S.type || (S.type === "__rev" ? (c.v || "").includes("r") : rKey(c) === S.type)) &&
       (S.own !== "had" || (!C.cards[k(c)] && !!C.had[k(c)])) && cardMatches(c, S.cq));
     // one tile per version, so normal and reverse holo can be ticked straight from the grid
     S.tiles = [];
@@ -448,7 +508,7 @@ function cardTile(t, ownedAll, i, had) {
       ${had ? `<span class="hadtag">Had · ${HOW[had.how]}</span>` : ""}
       ${label ? `<span class="vlabel">${esc({ r: "Reverse", h: "Holo", f: "1st Ed." }[v] || label)}</span>` : ""}
       <span class="info" role="button" aria-label="Versions and details">i</span></span>
-    <span class="cap"><span>${esc(c.name)}</span><span>${esc(c.n)}</span></span></button>`;
+    <span class="cap"><span>${esc(c.name)}</span><span>${rarTag(c.r)}${esc(c.n)}</span></span></button>`;
 }
 function refreshProgress(id) {
   // cheap redraw of the numbers without rebuilding the grid (keeps scroll position)
@@ -469,6 +529,7 @@ function refreshProgress(id) {
 // ---------------------------------------------------------------- card sheet: versions + details
 function openCard(setId, i) {
   const dlg = $("#cardsheet"), c = S.list[i]; if (!c) return;
+  let rr;
   const kk = key(S.lang, setId, c.id), owned = C.cards[kk] || "", had = !owned && C.had[kk];
   const meta = D.sets[S.lang].sets.find((s) => s.id === setId);
   const info = S.info(c);
@@ -479,7 +540,8 @@ function openCard(setId, i) {
       <div>
         <dl class="facts">
           <div><dt>Number</dt><dd>${esc(c.n)}${meta?.official && !String(c.n).includes("/") ? ` / ${meta.official}` : ""}</dd></div>
-          ${c.r ? `<div><dt>Rarity</dt><dd>${esc(c.r)}</dd></div>` : ""}
+          ${(rr = rarity(c.r)) ? `<div><dt>Rarity</dt><dd>${rr.sym ? rarSym(rr.sym) + " " : ""}${rr.code && S.lang !== "en" ? `${esc(rr.code)} · ` : ""}${esc(rr.en)}</dd></div>
+            ${rr.desc ? `<p class="rdesc">${esc(rr.desc)}</p>` : ""}` : ""}
           ${c.cat ? `<div><dt>Type</dt><dd>${esc(c.cat)}</dd></div>` : ""}
           ${c.from ? `<div><dt>Original card</dt><dd>${esc(c.from)}</dd></div>` : ""}
           ${c.usd ? `<div><dt>Market (TCGplayer)</dt><dd>US$${c.usd.toFixed(2)}</dd></div>` : ""}

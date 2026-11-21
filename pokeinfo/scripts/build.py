@@ -310,6 +310,31 @@ def fill_logos(lang, sets):
             x["logo"] = x["symbol"]
 
 
+def borrow_rarity(lang, sets):
+    """Korean and Chinese sets are the Japanese sets with the same code and card numbers: where a card has no rarity,
+    take the Japanese card's rarity (same set code, same number)."""
+    filled = 0
+    for x in sets:
+        jp_file = OUT / "ja" / "sets" / f"{x['id']}.json"
+        path = OUT / lang / "sets" / f"{x['id']}.json"
+        if not x.get("cards_n") or not jp_file.exists() or not path.exists():
+            continue
+        try:
+            jp = {norm_num(r["n"].split("/")[0]): r.get("r") for r in json.loads(jp_file.read_text(encoding="utf-8"))["cards"] if r.get("r")}
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        n = 0
+        for r in data["cards"]:
+            if not r.get("r") and jp.get(norm_num(r["n"].split("/")[0])):
+                r["r"] = jp[norm_num(r["n"].split("/")[0])]
+                n += 1
+        if n:
+            path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+            filled += n
+    print(f"   rarity copied from the Japanese sets for {filled} cards")
+
+
 def write_index(lang, sets):
     """One small file listing every card in the language, so the app can search all sets at once.
     cards: [set index, card id (0 when it's "<set>-<number>"), number, name, rarity, picture (1 = the set's usual picture address)]"""
@@ -360,6 +385,8 @@ def build_lang(lang):
         fill_pictures(sets)
     add_extra_sets(lang, sets)
     add_manual(lang, sets)
+    if lang in ("ko", "zh-tw", "zh-cn"):
+        borrow_rarity(lang, sets)
     apply_art(lang, sets)
     fill_logos(lang, sets)
     sets.sort(key=lambda x: (x["date"] or "9999", x["id"]))
