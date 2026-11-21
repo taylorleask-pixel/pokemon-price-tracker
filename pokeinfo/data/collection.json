@@ -56,7 +56,8 @@
   "en|tot22|tot22-031-192": "n",
   "en|tot22|tot22-076-203": "n",
   "en|tot22|tot22-062-172": "n",
-  "en|tot23|tot23-071-185": "n"
+  "en|tot23|tot23-071-185": "n",
+  "ko|SV8a|SV8a-103-187": "n"
  },
  "had": {},
  "log": [
@@ -739,7 +740,17 @@
    "name": "Dusknoir",
    "n": "071/185",
    "set": "Trick or Trade 2023"
+  },
+  {
+   "t": "2026-11-21T01:21:53.415Z",
+   "k": "ko|SV8a|SV8a-103-187",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Munkidori ex",
+   "n": "103/187",
+   "set": "Terastal Festival ex (KR)"
   }
  ],
- "updated": "2026-11-21T01:09:45.461Z"
+ "updated": "2026-11-21T01:21:55.983Z"
 }
