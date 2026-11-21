@@ -25,8 +25,8 @@ const FULL_LISTS = {
 };
 const fullListLink = (lang, text) => FULL_LISTS[lang]
   ? `<a class="extlink" href="${esc(FULL_LISTS[lang].url)}" target="_blank" rel="noopener">${esc(text || `Every ${LANGS.find((l) => l.id === lang).name} set on ${FULL_LISTS[lang].site}`)} ↗</a>` : "";
-const VNAME = { n: "Normal", h: "Holo", r: "Reverse holo", f: "1st edition", p: "Poké Ball reverse holo", m: "Master Ball reverse holo" };
-const VLABEL = { r: "Reverse", h: "Holo", f: "1st Ed.", p: "Poké Ball", m: "Master Ball" };
+const VNAME = { n: "Normal", h: "Holo", r: "Reverse holo", f: "1st edition", p: "Poké Ball reverse holo", m: "Master Ball reverse holo", s: "Starlight holo" };
+const VLABEL = { r: "Reverse", h: "Holo", f: "1st Ed.", p: "Poké Ball", m: "Master Ball", s: "Starlight" };
 const isRev = (v) => /[rpm]/.test(v || "");
 const VSHORT = { n: "N", h: "H", r: "R", f: "1st", p: "PB", m: "MB" };
 
@@ -382,8 +382,8 @@ function drawCardHits() {
 // ---------------------------------------------------------------- one set: the binder
 const pic = (c, size = "low") => c.img ? `${c.img}/${size}.webp` : c.ps ? (size === "low" ? c.ps : c.pl || c.ps) : null;
 const HOW = { traded: "Traded", sold: "Sold" };
-function defaultVersion(c) { return ["n", "h", "f", "r", "p", "m"].find((v) => (c.v || "").includes(v)) || "n"; }
-function versions(c) { return (c.v || "n").split("").sort((a, b) => "nhfrpm".indexOf(a) - "nhfrpm".indexOf(b)); }
+function defaultVersion(c) { return ["n", "h", "f", "r", "p", "m", "s"].find((v) => (c.v || "").includes(v)) || "n"; }
+function versions(c) { return (c.v || "n").split("").sort((a, b) => "nhfrpms".indexOf(a) - "nhfrpms".indexOf(b)); }
 
 async function renderSet(id) {
   const meta = D.sets[S.lang].sets.find((s) => s.id === id);
@@ -503,8 +503,8 @@ function cardMatches(c, q) {
 function cardTile(t, ownedAll, i, had) {
   const c = t.c, v = t.v, owned = ownedAll.includes(v) ? ownedAll : "";
   had = !ownedAll && had;
-  const label = t.multi && v !== "n" ? VNAME[v] : "";
-  return `<button type="button" class="card ${owned ? "have" : had ? "had" : "need"}${isRev(v) ? " rev" : ""}${v === "p" ? " pball" : v === "m" ? " mball" : ""}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}${label ? `, ${label}` : ""}`)}${owned ? ", have it" : had ? `, ${HOW[had.how].toLowerCase()}` : ""}">
+  const label = (t.multi && v !== "n") || /[pms]/.test(v) ? VNAME[v] : "";   // Poké Ball / Master Ball / Starlight always say so
+  return `<button type="button" class="card ${owned ? "have" : had ? "had" : "need"}${isRev(v) ? " rev" : ""}${v === "p" ? " pball" : v === "m" ? " mball" : v === "s" ? " sball" : ""}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}${label ? `, ${label}` : ""}`)}${owned ? ", have it" : had ? `, ${HOW[had.how].toLowerCase()}` : ""}">
     <span class="pic">${pic(c) ? `<img src="${esc(pic(c))}" alt="" loading="lazy" data-ph="${esc(c.name)}" onerror="imgFail(this)">` : `<span class="ph">${esc(c.name)}</span>`}
       ${owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}
       ${had ? `<span class="hadtag">Had · ${HOW[had.how]}</span>` : ""}

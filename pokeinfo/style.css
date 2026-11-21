@@ -251,3 +251,4 @@ dialog::backdrop { background: rgba(10, 14, 20, .6); }
 /* Poké Ball and Master Ball reverse holos */
 .card.pball .vlabel { background: #d8333a; color: #fff; }
 .card.mball .vlabel { background: #7a3fb8; color: #fff; }
+.card.sball .vlabel { background: linear-gradient(90deg,#3a6fd8,#b04fd0,#e0a13a); color: #fff; }
