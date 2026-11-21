@@ -35,7 +35,8 @@
   "ko|M2a|M2a-015-193": "n",
   "ko|M2a|M2a-043-193": "n",
   "ko|M2a|M2a-097-193": "n",
-  "ko|M2a|M2a-081-193": "n"
+  "ko|M2a|M2a-081-193": "n",
+  "ko|M2a|M2a-104-193": "n"
  },
  "had": {},
  "log": [
@@ -508,7 +509,17 @@
    "name": "Munkidori",
    "n": "081/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:27:54.297Z",
+   "k": "ko|M2a|M2a-104-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Team Rocket's Sneasel",
+   "n": "104/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:27:51.378Z"
+ "updated": "2026-11-21T00:27:56.612Z"
 }
