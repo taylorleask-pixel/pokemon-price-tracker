@@ -143,7 +143,8 @@
   "en|sv02|sv02-149": "n",
   "en|sv02|sv02-076": "h",
   "en|sv02|sv02-113": "h",
-  "en|sv02|sv02-119": "r"
+  "en|sv02|sv02-119": "r",
+  "en|sv02|sv02-021": "r"
  },
  "had": {},
  "log": [
@@ -1776,7 +1777,17 @@
    "name": "Magnemite",
    "n": "065",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:56:43.727Z",
+   "k": "en|sv02|sv02-021",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Lokix",
+   "n": "021",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:56:38.490Z"
+ "updated": "2026-11-21T01:56:46.074Z"
 }
