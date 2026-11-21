@@ -5,7 +5,8 @@
   "en|swsh6|swsh6-153": "n",
   "en|swsh6|swsh6-109": "n",
   "en|swsh6|swsh6-106": "n",
-  "en|swsh6|swsh6-66": "r"
+  "en|swsh6|swsh6-66": "r",
+  "en|swsh6|swsh6-154": "r"
  },
  "had": {},
  "log": [
@@ -178,7 +179,17 @@
    "name": "Golurk",
    "n": "66",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:18:10.693Z",
+   "k": "en|swsh6|swsh6-154",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Single Strike Scroll of Piercing",
+   "n": "154",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:18:05.067Z"
+ "updated": "2026-11-21T00:18:13.471Z"
 }
