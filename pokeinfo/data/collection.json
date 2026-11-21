@@ -64,7 +64,8 @@
   "ko|SV8a|SV8a-131-187": "n",
   "ko|SV8a|SV8a-129-187": "n",
   "ko|SV8a|SV8a-110-187": "n",
-  "ko|SV8a|SV8a-154-187": "n"
+  "ko|SV8a|SV8a-154-187": "n",
+  "ko|SV8a|SV8a-186-187": "n"
  },
  "had": {},
  "log": [
@@ -867,7 +868,17 @@
    "name": "Rescue Board",
    "n": "154/187",
    "set": "Terastal Festival ex (KR)"
+  },
+  {
+   "t": "2026-11-21T01:24:25.427Z",
+   "k": "ko|SV8a|SV8a-186-187",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Mist Energy",
+   "n": "186/187",
+   "set": "Terastal Festival ex (KR)"
   }
  ],
- "updated": "2026-11-21T01:24:21.516Z"
+ "updated": "2026-11-21T01:24:27.794Z"
 }
