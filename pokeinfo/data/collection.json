@@ -150,7 +150,8 @@
   "en|sv08|sv08-153": "n",
   "en|sv08|sv08-020": "n",
   "en|sv08|sv08-002": "n",
-  "en|sv08|sv08-143": "n"
+  "en|sv08|sv08-143": "n",
+  "en|sv08|sv08-082": "n"
  },
  "had": {},
  "log": [
@@ -1853,7 +1854,17 @@
    "name": "Eevee",
    "n": "143",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:58:22.888Z",
+   "k": "en|sv08|sv08-082",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Yamask",
+   "n": "082",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:58:20.701Z"
+ "updated": "2026-11-21T01:58:25.229Z"
 }
