@@ -156,7 +156,8 @@
   "en|sv08|sv08-043": "n",
   "en|sv08|sv08-028": "n",
   "en|sv08|sv08-146": "n",
-  "en|sv08|sv08-080": "n"
+  "en|sv08|sv08-080": "n",
+  "en|sv08|sv08-177": "n"
  },
  "had": {},
  "log": [
@@ -1919,7 +1920,17 @@
    "name": "Azelf",
    "n": "080",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:58:52.655Z",
+   "k": "en|sv08|sv08-177",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Gravity Mountain",
+   "n": "177",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:58:48.441Z"
+ "updated": "2026-11-21T01:58:55.009Z"
 }
