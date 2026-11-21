@@ -60,7 +60,8 @@
   "ko|SV8a|SV8a-103-187": "n",
   "ko|SV8a|SV8a-034-187": "n",
   "ko|SV8a|SV8a-098-187": "n",
-  "ko|SV8a|SV8a-029-187": "n"
+  "ko|SV8a|SV8a-029-187": "n",
+  "ko|SV8a|SV8a-131-187": "n"
  },
  "had": {},
  "log": [
@@ -823,7 +824,17 @@
    "name": "Seaking",
    "n": "029/187",
    "set": "Terastal Festival ex (KR)"
+  },
+  {
+   "t": "2026-11-21T01:24:04.743Z",
+   "k": "ko|SV8a|SV8a-131-187",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Fan Rotom",
+   "n": "131/187",
+   "set": "Terastal Festival ex (KR)"
   }
  ],
- "updated": "2026-11-21T01:23:59.895Z"
+ "updated": "2026-11-21T01:24:07.059Z"
 }
