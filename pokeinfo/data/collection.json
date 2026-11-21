@@ -160,7 +160,8 @@
   "en|sv08|sv08-177": "n",
   "en|sv08|sv08-123": "n",
   "en|sv08|sv08-072": "h",
-  "en|sv08|sv08-107": "h"
+  "en|sv08|sv08-107": "h",
+  "en|sv08|sv08-105": "r"
  },
  "had": {},
  "log": [
@@ -1963,7 +1964,17 @@
    "name": "Gastrodon",
    "n": "107",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:59:16.736Z",
+   "k": "en|sv08|sv08-105",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Vibrava",
+   "n": "105",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:59:12.009Z"
+ "updated": "2026-11-21T01:59:19.241Z"
 }
