@@ -6,7 +6,8 @@
   "en|swsh6|swsh6-109": "n",
   "en|swsh6|swsh6-106": "n",
   "en|swsh6|swsh6-66": "r",
-  "en|swsh6|swsh6-154": "r"
+  "en|swsh6|swsh6-154": "r",
+  "en|swsh6|swsh6-135": "n"
  },
  "had": {},
  "log": [
@@ -189,7 +190,17 @@
    "name": "Single Strike Scroll of Piercing",
    "n": "154",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:18:14.983Z",
+   "k": "en|swsh6|swsh6-135",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Dyna Tree Hill",
+   "n": "135",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:18:13.471Z"
+ "updated": "2026-11-21T00:18:17.304Z"
 }
