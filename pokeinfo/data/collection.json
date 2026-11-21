@@ -48,7 +48,8 @@
   "en|tot23|tot23-024-196": "n",
   "en|tot23|tot23-131-193": "n",
   "en|tot23|tot23-090-202": "n",
-  "en|tot23|tot23-069-185": "n"
+  "en|tot23|tot23-069-185": "n",
+  "en|tot23|tot23-065-196": "n"
  },
  "had": {},
  "log": [
@@ -651,7 +652,17 @@
    "name": "Duskull",
    "n": "069/185",
    "set": "Trick or Trade 2023"
+  },
+  {
+   "t": "2026-11-21T00:55:49.069Z",
+   "k": "en|tot23|tot23-065-196",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Haunter",
+   "n": "065/196",
+   "set": "Trick or Trade 2023"
   }
  ],
- "updated": "2026-11-21T00:55:43.132Z"
+ "updated": "2026-11-21T00:55:51.387Z"
 }
