@@ -17,7 +17,8 @@
   "en|swsh6|swsh6-29": "n",
   "en|swsh6|swsh6-146": "n",
   "en|swsh6|swsh6-63": "n",
-  "en|swsh6|swsh6-151": "n"
+  "en|swsh6|swsh6-151": "n",
+  "en|swsh6|swsh6-22": "n"
  },
  "had": {},
  "log": [
@@ -310,7 +311,17 @@
    "name": "Rapid Strike Scroll of the Skies",
    "n": "151",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:19:20.579Z",
+   "k": "en|swsh6|swsh6-22",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Castform Sunny Form",
+   "n": "22",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:19:16.553Z"
+ "updated": "2026-11-21T00:19:22.938Z"
 }
