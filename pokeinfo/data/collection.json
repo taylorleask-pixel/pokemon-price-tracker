@@ -108,7 +108,8 @@
   "en|me03|me03-086": "h",
   "en|me03|me03-087": "h",
   "en|me03|me03-063": "n",
-  "en|me03|me03-039": "r"
+  "en|me03|me03-039": "r",
+  "en|me03|me03-026": "r"
  },
  "had": {},
  "log": [
@@ -1371,7 +1372,17 @@
    "name": "Hippopotas",
    "n": "039",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:39:31.982Z",
+   "k": "en|me03|me03-026",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Shinx",
+   "n": "026",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:39:29.647Z"
+ "updated": "2026-11-21T01:39:34.415Z"
 }
