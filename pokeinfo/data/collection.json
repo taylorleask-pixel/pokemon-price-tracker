@@ -86,7 +86,8 @@
   "en|me03|me03-044": "n",
   "en|me03|me03-008": "n",
   "en|me03|me03-057": "n",
-  "en|me03|me03-077": "n"
+  "en|me03|me03-077": "n",
+  "en|me03|me03-069": "n"
  },
  "had": {},
  "log": [
@@ -1109,7 +1110,17 @@
    "name": "Lumiose City",
    "n": "077",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:37:09.615Z",
+   "k": "en|me03|me03-069",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Antique Sail Fossil",
+   "n": "069",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:37:06.617Z"
+ "updated": "2026-11-21T01:37:11.957Z"
 }
