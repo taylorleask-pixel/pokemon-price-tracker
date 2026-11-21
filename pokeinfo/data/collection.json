@@ -144,7 +144,8 @@
   "en|sv02|sv02-076": "h",
   "en|sv02|sv02-113": "h",
   "en|sv02|sv02-119": "r",
-  "en|sv02|sv02-021": "r"
+  "en|sv02|sv02-021": "r",
+  "en|sv08|sv08-167": "n"
  },
  "had": {},
  "log": [
@@ -1787,7 +1788,17 @@
    "name": "Lokix",
    "n": "021",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:57:49.028Z",
+   "k": "en|sv08|sv08-167",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Clemont's Quick Wit",
+   "n": "167",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:56:46.074Z"
+ "updated": "2026-11-21T01:57:51.454Z"
 }
