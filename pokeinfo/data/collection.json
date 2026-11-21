@@ -125,7 +125,8 @@
   "zh-cn|CBB3C|CBB3C-1703": "s",
   "zh-cn|CBB3C|CBB3C-0601": "h",
   "zh-cn|CBB3C|CBB3C-0902": "p",
-  "en|sv02|sv02-200": "h"
+  "en|sv02|sv02-200": "h",
+  "en|sv02|sv02-199": "h"
  },
  "had": {},
  "log": [
@@ -1568,7 +1569,17 @@
    "name": "Pyroar",
    "n": "200",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:54:33.812Z",
+   "k": "en|sv02|sv02-199",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Fletchinder",
+   "n": "199",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:54:33.483Z"
+ "updated": "2026-11-21T01:54:35.539Z"
 }
