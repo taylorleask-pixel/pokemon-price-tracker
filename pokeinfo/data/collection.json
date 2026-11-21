@@ -50,7 +50,8 @@
   "en|tot23|tot23-090-202": "n",
   "en|tot23|tot23-069-185": "n",
   "en|tot23|tot23-065-196": "n",
-  "en|tot23|tot23-106-198": "n"
+  "en|tot23|tot23-106-198": "n",
+  "en|tot23|tot23-019-185": "n"
  },
  "had": {},
  "log": [
@@ -673,7 +674,17 @@
    "name": "Houndstone",
    "n": "106/198",
    "set": "Trick or Trade 2023"
+  },
+  {
+   "t": "2026-11-21T00:56:09.661Z",
+   "k": "en|tot23|tot23-019-185",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Dhelmise",
+   "n": "019/185",
+   "set": "Trick or Trade 2023"
   }
  ],
- "updated": "2026-11-21T00:55:59.455Z"
+ "updated": "2026-11-21T00:56:11.989Z"
 }
