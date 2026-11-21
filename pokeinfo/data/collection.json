@@ -128,7 +128,8 @@
   "en|sv02|sv02-200": "h",
   "en|sv02|sv02-199": "h",
   "en|sv02|sv02-045": "n",
-  "en|sv02|sv02-082": "n"
+  "en|sv02|sv02-082": "n",
+  "en|sv02|sv02-006": "n"
  },
  "had": {},
  "log": [
@@ -1601,7 +1602,17 @@
    "name": "Kilowattrel",
    "n": "082",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:54:53.911Z",
+   "k": "en|sv02|sv02-006",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Heracross",
+   "n": "006",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:54:50.329Z"
+ "updated": "2026-11-21T01:54:56.244Z"
 }
