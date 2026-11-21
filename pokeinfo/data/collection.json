@@ -20,7 +20,8 @@
   "en|swsh6|swsh6-151": "n",
   "en|swsh6|swsh6-22": "n",
   "en|swsh6|swsh6-82": "n",
-  "en|swsh6|swsh6-121": "n"
+  "en|swsh6|swsh6-121": "n",
+  "ko|M2a|M2a-068-193": "n"
  },
  "had": {},
  "log": [
@@ -343,7 +344,17 @@
    "name": "Castform",
    "n": "121",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:26:17.144Z",
+   "k": "ko|M2a|M2a-068-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Mismagius",
+   "n": "068/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:19:37.052Z"
+ "updated": "2026-11-21T00:26:19.429Z"
 }
