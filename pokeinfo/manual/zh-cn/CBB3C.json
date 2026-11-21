@@ -7,7 +7,7 @@
  "date": "2025-09-26",
  "official": null,
  "abbr": "CBB3C",
- "logo": null,
+ "logo": "img/logos/zh-cn/CBB3C.webp",
  "note": "Card list and pictures from Taylor. Card names are in English. Numbers are Pokémon slot + version (0101 = slot 1, version 1).",
  "cards": [
   {
@@ -946,6 +946,5 @@
    "v": "h",
    "ps": "img/zh-cn/CBB3C/2006.webp"
   }
- ],
- "cover": "img/zh-cn/CBB3C/0307.webp"
+ ]
 }
