@@ -84,7 +84,8 @@
   "en|me03|me03-079": "n",
   "en|me03|me03-065": "n",
   "en|me03|me03-044": "n",
-  "en|me03|me03-008": "n"
+  "en|me03|me03-008": "n",
+  "en|me03|me03-057": "n"
  },
  "had": {},
  "log": [
@@ -1087,7 +1088,17 @@
    "name": "Spewpa",
    "n": "008",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:36:56.700Z",
+   "k": "en|me03|me03-057",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Doublade",
+   "n": "057",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:36:51.657Z"
+ "updated": "2026-11-21T01:36:59.091Z"
 }
