@@ -124,7 +124,8 @@
   "zh-cn|CBB3C|CBB3C-0202": "p",
   "zh-cn|CBB3C|CBB3C-1703": "s",
   "zh-cn|CBB3C|CBB3C-0601": "h",
-  "zh-cn|CBB3C|CBB3C-0902": "p"
+  "zh-cn|CBB3C|CBB3C-0902": "p",
+  "en|sv02|sv02-200": "h"
  },
  "had": {},
  "log": [
@@ -1557,7 +1558,17 @@
    "name": "Mismagius",
    "n": "0902",
    "set": "宝石包Vol.3 (简中)"
+  },
+  {
+   "t": "2026-11-21T01:54:30.723Z",
+   "k": "en|sv02|sv02-200",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Pyroar",
+   "n": "200",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:53:23.807Z"
+ "updated": "2026-11-21T01:54:33.483Z"
 }
