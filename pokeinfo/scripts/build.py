@@ -256,14 +256,14 @@ def add_extra_sets(lang, sets):
 
 
 def apply_art(lang, sets):
-    """Logos and set symbols Taylor supplied, for sets the card database has none for."""
+    """Logos and set symbols Taylor supplied. His logos always win; his symbols fill gaps."""
     try:
         art = json.loads((MANUAL / "art.json").read_text(encoding="utf-8")).get(lang, {})
     except Exception:  # noqa: BLE001
         return
     for x in sets:
         a = art.get(x["id"]) or {}
-        if a.get("logo") and not x.get("logo"):
+        if a.get("logo"):
             x["logo"] = a["logo"]
         if a.get("symbol") and not x.get("symbol"):
             x["symbol"] = a["symbol"]
