@@ -105,7 +105,8 @@
   "en|me03|me03-035": "n",
   "en|me03|me03-072": "r",
   "en|me03|me03-019": "h",
-  "en|me03|me03-086": "h"
+  "en|me03|me03-086": "h",
+  "en|me03|me03-087": "h"
  },
  "had": {},
  "log": [
@@ -1328,7 +1329,17 @@
    "name": "Growing Grass Energy",
    "n": "086",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:39:07.445Z",
+   "k": "en|me03|me03-087",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Rocky Fighting Energy",
+   "n": "087",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:38:58.400Z"
+ "updated": "2026-11-21T01:39:09.757Z"
 }
