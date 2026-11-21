@@ -83,7 +83,8 @@
   "en|me03|me03-085": "n",
   "en|me03|me03-079": "n",
   "en|me03|me03-065": "n",
-  "en|me03|me03-044": "n"
+  "en|me03|me03-044": "n",
+  "en|me03|me03-008": "n"
  },
  "had": {},
  "log": [
@@ -1076,7 +1077,17 @@
    "name": "Tyrunt",
    "n": "044",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:36:49.346Z",
+   "k": "en|me03|me03-008",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Spewpa",
+   "n": "008",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:36:46.252Z"
+ "updated": "2026-11-21T01:36:51.657Z"
 }
