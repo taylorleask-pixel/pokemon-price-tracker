@@ -36,7 +36,8 @@
   "ko|M2a|M2a-043-193": "n",
   "ko|M2a|M2a-097-193": "n",
   "ko|M2a|M2a-081-193": "n",
-  "ko|M2a|M2a-104-193": "n"
+  "ko|M2a|M2a-104-193": "n",
+  "ko|M2a|M2a-131-193": "n"
  },
  "had": {},
  "log": [
@@ -519,7 +520,17 @@
    "name": "Team Rocket's Sneasel",
    "n": "104/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:28:01.021Z",
+   "k": "ko|M2a|M2a-131-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Noivern",
+   "n": "131/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:27:56.612Z"
+ "updated": "2026-11-21T00:28:03.362Z"
 }
