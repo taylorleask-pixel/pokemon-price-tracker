@@ -19,7 +19,8 @@
   "en|swsh6|swsh6-63": "n",
   "en|swsh6|swsh6-151": "n",
   "en|swsh6|swsh6-22": "n",
-  "en|swsh6|swsh6-82": "n"
+  "en|swsh6|swsh6-82": "n",
+  "en|swsh6|swsh6-121": "n"
  },
  "had": {},
  "log": [
@@ -332,7 +333,17 @@
    "name": "Galarian Yamask",
    "n": "82",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:19:34.684Z",
+   "k": "en|swsh6|swsh6-121",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Castform",
+   "n": "121",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:19:29.383Z"
+ "updated": "2026-11-21T00:19:37.052Z"
 }
