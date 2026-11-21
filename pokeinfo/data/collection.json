@@ -122,7 +122,8 @@
   "zh-cn|CBB3C|CBB3C-1207": "h",
   "zh-cn|CBB3C|CBB3C-0201": "h",
   "zh-cn|CBB3C|CBB3C-0202": "p",
-  "zh-cn|CBB3C|CBB3C-1703": "s"
+  "zh-cn|CBB3C|CBB3C-1703": "s",
+  "zh-cn|CBB3C|CBB3C-0601": "h"
  },
  "had": {},
  "log": [
@@ -1535,7 +1536,17 @@
    "name": "Houndstone",
    "n": "1703",
    "set": "宝石包Vol.3 (简中)"
+  },
+  {
+   "t": "2026-11-21T01:53:15.545Z",
+   "k": "zh-cn|CBB3C|CBB3C-0601",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Gardevoir",
+   "n": "0601",
+   "set": "宝石包Vol.3 (简中)"
   }
  ],
- "updated": "2026-11-21T01:53:09.792Z"
+ "updated": "2026-11-21T01:53:18.220Z"
 }
