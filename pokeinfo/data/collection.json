@@ -2,7 +2,8 @@
  "v": 1,
  "cards": {
   "en|swsh6|swsh6-105": "n",
-  "en|swsh6|swsh6-153": "n"
+  "en|swsh6|swsh6-153": "n",
+  "en|swsh6|swsh6-109": "n"
  },
  "had": {},
  "log": [
@@ -145,7 +146,17 @@
    "name": "Siebold",
    "n": "153",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:17:48.748Z",
+   "k": "en|swsh6|swsh6-109",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Aron",
+   "n": "109",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:17:40.999Z"
+ "updated": "2026-11-21T00:17:51.091Z"
 }
