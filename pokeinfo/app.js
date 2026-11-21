@@ -40,6 +40,9 @@ const D = { sets: {}, setFiles: {}, en: null };
 const enName = (s, lang = S.lang) => lang === "en" ? "" : (D.en?.[lang]?.[s.id] || D.en?.sets?.[s.id] || (s.name_en && s.name_en !== s.name ? s.name_en : ""));
 // percent done: never shows 100% until the set really is complete, and shows <1% instead of 0% once you've started
 const pct = (h, t) => !t ? "0%" : h >= t ? "100%" : h > 0 && h / t < 0.01 ? "<1%" : `${Math.floor((h / t) * 100)}%`;
+// the code printed at the bottom of non-English cards (M2a, SV9a, S8b…), so you can match a card to its set
+const setCode = (s) => S.lang === "en" || !s?.id || s.id.startsWith("x-") ? "" : s.id;
+const codeTag = (s) => setCode(s) ? `<span class="code">${esc(setCode(s))}</span>` : "";
 const symImg = (s, cls = "sym") => s.symbol ? `<img class="${cls}" src="${esc(s.symbol)}" alt="" loading="lazy" onerror="this.remove()">` : "";
 const enSerie = (name) => S.lang === "en" || !D.en ? "" : (D.en.series?.[name] || "");
 // collection: cards = what you have ("nr" = normal + reverse), had = cards you traded or sold, log = every change
@@ -224,7 +227,7 @@ function renderHome() {
     </section>
     ${S.lang !== "en" ? `<details class="missing" id="missing"><summary>Missing sets</summary><div id="missinglist"><p class="note">Working it out…</p></div></details>` : ""}
     <div class="tools">
-      <input class="search" id="q" type="search" placeholder="Search sets or cards (e.g. gengar)" value="${esc(S.q)}" aria-label="Search sets or cards" autocomplete="off">
+      <input class="search" id="q" type="search" placeholder="Search sets, cards or codes (gengar, M2a 57)" value="${esc(S.q)}" aria-label="Search sets or cards" autocomplete="off">
       <button type="button" class="btn ghost" id="addset">Add a set</button>
       <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["started", "Started"], ["done", "Complete"]].map(([v, l]) =>
         `<button type="button" data-show="${v}" aria-pressed="${S.show === v}">${l}</button>`).join("")}</div>
@@ -236,7 +239,9 @@ function renderHome() {
   const draw = () => {
     drawCardHits();
     const q = S.q.trim().toLowerCase();
-    let list = sets.filter((s) => (!q || `${s.name} ${enName(s)} ${s.serie} ${enSerie(s.serie)} ${s.id} ${s.abbr || ""} ${(s.date || "").slice(0, 4)}`.toLowerCase().includes(q)) &&
+    const setText = (s) => `${s.name} ${enName(s)} ${s.serie} ${enSerie(s.serie)} ${s.id} ${s.abbr || ""} ${(s.date || "").slice(0, 4)}`.toLowerCase();
+    const isCode = (s, w) => w === s.id.toLowerCase() || (s.abbr && w === s.abbr.toLowerCase());
+    let list = sets.filter((s) => (!q || setText(s).includes(q) || q.split(/\s+/).some((w) => isCode(s, w))) &&
       (S.show === "all" || (S.show === "started" ? own[s.id]?.cards : own[s.id]?.cards >= s.cards_n)));
     if (S.newest) list = list.slice().reverse();
     const eras = [];
@@ -251,7 +256,7 @@ function renderHome() {
           <span class="logo${!s.logo && s.cover ? " cover" : ""}">${s.logo || s.cover ? `<img src="${esc(s.logo || s.cover)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'abbr',textContent:this.dataset.a}))" data-a="${esc(s.abbr || s.id)}">`
             : `<span class="abbr">${esc(s.abbr || s.id)}</span>`}</span>
           <b>${esc(s.name)}${enName(s) ? `<small class="en">${esc(enName(s))}</small>` : ""}</b>
-          <span class="meta"><span>${symImg(s)}${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n} <span class="pct">${pct(h, s.cards_n)}</span></span></span>
+          <span class="meta"><span>${symImg(s)}${codeTag(s)}${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n} <span class="pct">${pct(h, s.cards_n)}</span></span></span>
           <span class="bar${h >= s.cards_n ? " done" : ""}"><i style="width:${(h / s.cards_n) * 100}%"></i></span></a>`;
       }).join("")}</div>`).join("") || `<p class="none">No sets match.</p>`;
   };
@@ -281,10 +286,18 @@ function drawCardHits() {
     const idx = await cardIndex(lang);
     if (lang !== S.lang || q !== (S.q || "").trim() || !$("#cardhits")) return;
     const order = new Map(D.sets[lang].sets.map((x, i) => [x.id, i]));
+    // a word that is a set code (M2a, SV9a, S8b… or swsh6 in English) limits the search to that set: "m2a 57", "s8b gengar"
+    const codes = new Map(idx.sets.map(([id], i) => [id.toLowerCase(), i]));
+    for (const x of D.sets[lang].sets) if (x.abbr && x.cards_n) { const i = idx.sets.findIndex(([id]) => id === x.id); if (i >= 0) codes.set(x.abbr.toLowerCase(), i); }
+    const words = q.toLowerCase().split(/\s+/);
+    const inSet = words.map((w) => codes.get(w)).find((v) => v !== undefined);
+    const rest = words.filter((w) => !codes.has(w)).join(" ");
+    if (inSet !== undefined && !rest) { box.innerHTML = ""; return; }   // just a code: the set itself is listed below
     const hits = [];
     for (const row of idx.cards) {
       const [si, cid, n, name, r, pic] = row;
-      if (!cardMatches({ name, n, r }, q)) continue;
+      if (inSet !== undefined && si !== inSet) continue;
+      if (!cardMatches({ name, n, r }, inSet !== undefined ? rest : q)) continue;
       const [setId, setName, base] = idx.sets[si];
       const id = cid || `${setId}-${n}`;
       hits.push({ setId, setName, id, n, name, r, pic: pic === 1 ? `${base}/${id.split("-").pop()}/low.webp` : pic || null, owned: C.cards[key(lang, setId, id)] || "" });
@@ -297,7 +310,7 @@ function drawCardHits() {
         <span class="pic">${h.pic ? `<img src="${esc(h.pic)}" alt="" loading="lazy" data-ph="${esc(h.name)}" onerror="imgFail(this)">` : `<span class="ph">${esc(h.name)}</span>`}
           ${h.owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}</span>
         <span class="cap"><span>${esc(h.name)}</span><span>${esc(h.n)}</span></span>
-        <span class="hitset">${symImg(meta(h.setId) || {})}${esc(h.setName)}${enName({ id: h.setId, name: h.setName, name_en: meta(h.setId)?.name_en }) ? ` · ${esc(enName({ id: h.setId, name: h.setName, name_en: meta(h.setId)?.name_en }))}` : ""}</span></a>`).join("")}</div>
+        <span class="hitset">${symImg(meta(h.setId) || {})}${codeTag(meta(h.setId))}${esc(h.setName)}${enName({ id: h.setId, name: h.setName, name_en: meta(h.setId)?.name_en }) ? ` · ${esc(enName({ id: h.setId, name: h.setName, name_en: meta(h.setId)?.name_en }))}` : ""}</span></a>`).join("")}</div>
       ${hits.length > LIMIT ? `<p><button type="button" class="btn ghost" id="morehits">Show all ${hits.length.toLocaleString()} cards</button></p>` : ""}`
       : `<p class="note">No cards match “${esc(q)}”.</p>`;
     box.querySelectorAll("a.hit").forEach((a) => a.addEventListener("click", () => { const h = hits[+a.dataset.h]; S.jump = { id: h.setId, q: `${h.n.split("/")[0]} ${h.name}` }; }));
@@ -340,7 +353,7 @@ async function renderSet(id) {
   $("#view").innerHTML = `<button class="back" id="back">← All ${esc(LANGS.find((l) => l.id === S.lang).name)} sets</button>
     <div class="sethead">
       ${meta.logo ? `<img class="logo" src="${esc(meta.logo)}" alt="" onerror="this.remove()">` : meta.cover ? `<img class="logo cover" src="${esc(meta.cover)}" alt="" onerror="this.remove()">` : ""}
-      <h1>${symImg(meta, "sym big")}${esc(set.name || meta.name)}</h1>
+      <h1>${symImg(meta, "sym big")}${esc(set.name || meta.name)}${setCode(meta) ? ` <span class="code big" title="Set code printed on the cards">${esc(setCode(meta))}</span>` : ""}</h1>
       ${enName(meta) ? `<p class="en-title">${esc(enName(meta))}</p>` : ""}
       <p>${esc([meta.serie, fmtDate(meta.date), meta.abbr].filter(Boolean).join(" · "))}</p>
       ${FULL_LISTS[S.lang] && set.cards.some((c) => !pic(c)) ? `<p class="note">Pictures missing? See this set on ${fullListLink(S.lang, FULL_LISTS[S.lang].site)}</p>` : ""}
@@ -420,7 +433,7 @@ function cardMatches(c, q) {
   return q.split(/\s+/).every((w) => {
     if (/^#?\d+[a-z]?(\/\d+)?$/.test(w)) {
       const n = w.replace(/^#/, "");
-      return n.includes("/") ? num.replace(/^0+/, "") === n.replace(/^0+/, "") || num === n : bare === n.replace(/^0+/, "") || num.startsWith(n);
+      return n.includes("/") ? num.replace(/^0+/, "") === n.replace(/^0+/, "") || num === n : bare === (n.replace(/^0+/, "") || "0");
     }
     return name.includes(w) || num.includes(w) || (c.r || "").toLowerCase().includes(w);
   });

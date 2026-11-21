@@ -233,3 +233,9 @@ dialog::backdrop { background: rgba(10, 14, 20, .6); }
 .card .hitset .sym { height: 11px; margin-right: 4px; vertical-align: -1px; }
 
 .set .meta .pct { color: var(--muted); font-weight: 400; margin-left: 3px; }
+
+/* set code as printed on the card: a small mono-width tag so M2a / SV9a / S8b are easy to read at a glance */
+.code { display: inline-block; font: 700 12px/1 ui-monospace, "SF Mono", Menlo, Consolas, monospace; letter-spacing: .02em; color: var(--ink);
+  border: 1.5px solid var(--ink); border-radius: 4px; padding: 2px 4px; margin-right: 6px; vertical-align: 1px; }
+.code.big { font-size: 16px; padding: 3px 7px; margin: 0 0 0 6px; vertical-align: 5px; }
+.card .hitset .code { font-size: 10px; padding: 1px 3px; margin-right: 4px; border-width: 1px; }
