@@ -326,8 +326,9 @@ def apply_pictures(lang, sets):
         n = 0
         for r in data["cards"]:
             p = mine.get(norm_num(r["n"].split("/")[0]))
-            if p and not r.get("img") and r.get("ps") != p:
-                r["ps"] = r["pl"] = p
+            small, big = (p[0], p[-1]) if isinstance(p, list) else (p, p)   # [small, large] or one picture
+            if p and not r.get("img") and (r.get("ps"), r.get("pl")) != (small, big):
+                r["ps"], r["pl"] = small, big
                 n += 1
         if n:
             path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

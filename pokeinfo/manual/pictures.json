@@ -505,6 +505,836 @@
 "248": "img/ja/M2a/248.webp",
 "249": "img/ja/M2a/249.webp",
 "250": "img/ja/M2a/250.webp"
+},
+"SV2a": {
+"001": [
+"https://assets.tcgdex.net/en/sv/sv03.5/001/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/001/high.webp"
+],
+"002": [
+"https://assets.tcgdex.net/en/sv/sv03.5/002/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/002/high.webp"
+],
+"003": [
+"https://assets.tcgdex.net/en/sv/sv03.5/003/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/003/high.webp"
+],
+"004": [
+"https://assets.tcgdex.net/en/sv/sv03.5/004/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/004/high.webp"
+],
+"005": [
+"https://assets.tcgdex.net/en/sv/sv03.5/005/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/005/high.webp"
+],
+"006": [
+"https://assets.tcgdex.net/en/sv/sv03.5/006/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/006/high.webp"
+],
+"007": [
+"https://assets.tcgdex.net/en/sv/sv03.5/007/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/007/high.webp"
+],
+"008": [
+"https://assets.tcgdex.net/en/sv/sv03.5/008/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/008/high.webp"
+],
+"009": [
+"https://assets.tcgdex.net/en/sv/sv03.5/009/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/009/high.webp"
+],
+"010": [
+"https://assets.tcgdex.net/en/sv/sv03.5/010/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/010/high.webp"
+],
+"011": [
+"https://assets.tcgdex.net/en/sv/sv03.5/011/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/011/high.webp"
+],
+"012": [
+"https://assets.tcgdex.net/en/sv/sv03.5/012/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/012/high.webp"
+],
+"013": [
+"https://assets.tcgdex.net/en/sv/sv03.5/013/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/013/high.webp"
+],
+"014": [
+"https://assets.tcgdex.net/en/sv/sv03.5/014/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/014/high.webp"
+],
+"015": [
+"https://assets.tcgdex.net/en/sv/sv03.5/015/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/015/high.webp"
+],
+"016": [
+"https://assets.tcgdex.net/en/sv/sv03.5/016/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/016/high.webp"
+],
+"017": [
+"https://assets.tcgdex.net/en/sv/sv03.5/017/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/017/high.webp"
+],
+"018": [
+"https://assets.tcgdex.net/en/sv/sv03.5/018/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/018/high.webp"
+],
+"019": [
+"https://assets.tcgdex.net/en/sv/sv03.5/019/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/019/high.webp"
+],
+"020": [
+"https://assets.tcgdex.net/en/sv/sv03.5/020/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/020/high.webp"
+],
+"021": [
+"https://assets.tcgdex.net/en/sv/sv03.5/021/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/021/high.webp"
+],
+"022": [
+"https://assets.tcgdex.net/en/sv/sv03.5/022/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/022/high.webp"
+],
+"023": [
+"https://assets.tcgdex.net/en/sv/sv03.5/023/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/023/high.webp"
+],
+"024": [
+"https://assets.tcgdex.net/en/sv/sv03.5/024/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/024/high.webp"
+],
+"025": [
+"https://assets.tcgdex.net/en/sv/sv03.5/025/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/025/high.webp"
+],
+"026": [
+"https://assets.tcgdex.net/en/sv/sv03.5/026/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/026/high.webp"
+],
+"027": [
+"https://assets.tcgdex.net/en/sv/sv03.5/027/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/027/high.webp"
+],
+"028": [
+"https://assets.tcgdex.net/en/sv/sv03.5/028/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/028/high.webp"
+],
+"030": [
+"https://assets.tcgdex.net/en/sv/sv03.5/030/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/030/high.webp"
+],
+"031": [
+"https://assets.tcgdex.net/en/sv/sv03.5/031/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/031/high.webp"
+],
+"033": [
+"https://assets.tcgdex.net/en/sv/sv03.5/033/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/033/high.webp"
+],
+"034": [
+"https://assets.tcgdex.net/en/sv/sv03.5/034/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/034/high.webp"
+],
+"035": [
+"https://assets.tcgdex.net/en/sv/sv03.5/035/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/035/high.webp"
+],
+"036": [
+"https://assets.tcgdex.net/en/sv/sv03.5/036/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/036/high.webp"
+],
+"037": [
+"https://assets.tcgdex.net/en/sv/sv03.5/037/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/037/high.webp"
+],
+"038": [
+"https://assets.tcgdex.net/en/sv/sv03.5/038/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/038/high.webp"
+],
+"039": [
+"https://assets.tcgdex.net/en/sv/sv03.5/039/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/039/high.webp"
+],
+"040": [
+"https://assets.tcgdex.net/en/sv/sv03.5/040/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/040/high.webp"
+],
+"041": [
+"https://assets.tcgdex.net/en/sv/sv03.5/041/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/041/high.webp"
+],
+"042": [
+"https://assets.tcgdex.net/en/sv/sv03.5/042/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/042/high.webp"
+],
+"043": [
+"https://assets.tcgdex.net/en/sv/sv03.5/043/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/043/high.webp"
+],
+"044": [
+"https://assets.tcgdex.net/en/sv/sv03.5/044/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/044/high.webp"
+],
+"045": [
+"https://assets.tcgdex.net/en/sv/sv03.5/045/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/045/high.webp"
+],
+"046": [
+"https://assets.tcgdex.net/en/sv/sv03.5/046/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/046/high.webp"
+],
+"047": [
+"https://assets.tcgdex.net/en/sv/sv03.5/047/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/047/high.webp"
+],
+"048": [
+"https://assets.tcgdex.net/en/sv/sv03.5/048/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/048/high.webp"
+],
+"049": [
+"https://assets.tcgdex.net/en/sv/sv03.5/049/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/049/high.webp"
+],
+"050": [
+"https://assets.tcgdex.net/en/sv/sv03.5/050/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/050/high.webp"
+],
+"051": [
+"https://assets.tcgdex.net/en/sv/sv03.5/051/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/051/high.webp"
+],
+"052": [
+"https://assets.tcgdex.net/en/sv/sv03.5/052/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/052/high.webp"
+],
+"053": [
+"https://assets.tcgdex.net/en/sv/sv03.5/053/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/053/high.webp"
+],
+"054": [
+"https://assets.tcgdex.net/en/sv/sv03.5/054/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/054/high.webp"
+],
+"055": [
+"https://assets.tcgdex.net/en/sv/sv03.5/055/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/055/high.webp"
+],
+"056": [
+"https://assets.tcgdex.net/en/sv/sv03.5/056/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/056/high.webp"
+],
+"057": [
+"https://assets.tcgdex.net/en/sv/sv03.5/057/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/057/high.webp"
+],
+"058": [
+"https://assets.tcgdex.net/en/sv/sv03.5/058/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/058/high.webp"
+],
+"059": [
+"https://assets.tcgdex.net/en/sv/sv03.5/059/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/059/high.webp"
+],
+"060": [
+"https://assets.tcgdex.net/en/sv/sv03.5/060/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/060/high.webp"
+],
+"061": [
+"https://assets.tcgdex.net/en/sv/sv03.5/061/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/061/high.webp"
+],
+"062": [
+"https://assets.tcgdex.net/en/sv/sv03.5/062/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/062/high.webp"
+],
+"063": [
+"https://assets.tcgdex.net/en/sv/sv03.5/063/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/063/high.webp"
+],
+"064": [
+"https://assets.tcgdex.net/en/sv/sv03.5/064/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/064/high.webp"
+],
+"065": [
+"https://assets.tcgdex.net/en/sv/sv03.5/065/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/065/high.webp"
+],
+"066": [
+"https://assets.tcgdex.net/en/sv/sv03.5/066/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/066/high.webp"
+],
+"067": [
+"https://assets.tcgdex.net/en/sv/sv03.5/067/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/067/high.webp"
+],
+"068": [
+"https://assets.tcgdex.net/en/sv/sv03.5/068/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/068/high.webp"
+],
+"069": [
+"https://assets.tcgdex.net/en/sv/sv03.5/069/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/069/high.webp"
+],
+"070": [
+"https://assets.tcgdex.net/en/sv/sv03.5/070/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/070/high.webp"
+],
+"071": [
+"https://assets.tcgdex.net/en/sv/sv03.5/071/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/071/high.webp"
+],
+"072": [
+"https://assets.tcgdex.net/en/sv/sv03.5/072/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/072/high.webp"
+],
+"073": [
+"https://assets.tcgdex.net/en/sv/sv03.5/073/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/073/high.webp"
+],
+"074": [
+"https://assets.tcgdex.net/en/sv/sv03.5/074/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/074/high.webp"
+],
+"075": [
+"https://assets.tcgdex.net/en/sv/sv03.5/075/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/075/high.webp"
+],
+"076": [
+"https://assets.tcgdex.net/en/sv/sv03.5/076/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/076/high.webp"
+],
+"077": [
+"https://assets.tcgdex.net/en/sv/sv03.5/077/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/077/high.webp"
+],
+"078": [
+"https://assets.tcgdex.net/en/sv/sv03.5/078/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/078/high.webp"
+],
+"079": [
+"https://assets.tcgdex.net/en/sv/sv03.5/079/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/079/high.webp"
+],
+"080": [
+"https://assets.tcgdex.net/en/sv/sv03.5/080/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/080/high.webp"
+],
+"081": [
+"https://assets.tcgdex.net/en/sv/sv03.5/081/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/081/high.webp"
+],
+"082": [
+"https://assets.tcgdex.net/en/sv/sv03.5/082/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/082/high.webp"
+],
+"083": [
+"https://assets.tcgdex.net/en/sv/sv03.5/083/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/083/high.webp"
+],
+"084": [
+"https://assets.tcgdex.net/en/sv/sv03.5/084/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/084/high.webp"
+],
+"085": [
+"https://assets.tcgdex.net/en/sv/sv03.5/085/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/085/high.webp"
+],
+"086": [
+"https://assets.tcgdex.net/en/sv/sv03.5/086/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/086/high.webp"
+],
+"087": [
+"https://assets.tcgdex.net/en/sv/sv03.5/087/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/087/high.webp"
+],
+"088": [
+"https://assets.tcgdex.net/en/sv/sv03.5/088/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/088/high.webp"
+],
+"089": [
+"https://assets.tcgdex.net/en/sv/sv03.5/089/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/089/high.webp"
+],
+"090": [
+"https://assets.tcgdex.net/en/sv/sv03.5/090/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/090/high.webp"
+],
+"091": [
+"https://assets.tcgdex.net/en/sv/sv03.5/091/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/091/high.webp"
+],
+"092": [
+"https://assets.tcgdex.net/en/sv/sv03.5/092/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/092/high.webp"
+],
+"093": [
+"https://assets.tcgdex.net/en/sv/sv03.5/093/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/093/high.webp"
+],
+"094": [
+"https://assets.tcgdex.net/en/sv/sv03.5/094/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/094/high.webp"
+],
+"095": [
+"https://assets.tcgdex.net/en/sv/sv03.5/095/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/095/high.webp"
+],
+"096": [
+"https://assets.tcgdex.net/en/sv/sv03.5/096/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/096/high.webp"
+],
+"097": [
+"https://assets.tcgdex.net/en/sv/sv03.5/097/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/097/high.webp"
+],
+"098": [
+"https://assets.tcgdex.net/en/sv/sv03.5/098/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/098/high.webp"
+],
+"099": [
+"https://assets.tcgdex.net/en/sv/sv03.5/099/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/099/high.webp"
+],
+"100": [
+"https://assets.tcgdex.net/en/sv/sv03.5/100/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/100/high.webp"
+],
+"101": [
+"https://assets.tcgdex.net/en/sv/sv03.5/101/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/101/high.webp"
+],
+"102": [
+"https://assets.tcgdex.net/en/sv/sv03.5/102/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/102/high.webp"
+],
+"103": [
+"https://assets.tcgdex.net/en/sv/sv03.5/103/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/103/high.webp"
+],
+"104": [
+"https://assets.tcgdex.net/en/sv/sv03.5/104/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/104/high.webp"
+],
+"105": [
+"https://assets.tcgdex.net/en/sv/sv03.5/105/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/105/high.webp"
+],
+"106": [
+"https://assets.tcgdex.net/en/sv/sv03.5/106/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/106/high.webp"
+],
+"107": [
+"https://assets.tcgdex.net/en/sv/sv03.5/107/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/107/high.webp"
+],
+"108": [
+"https://assets.tcgdex.net/en/sv/sv03.5/108/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/108/high.webp"
+],
+"109": [
+"https://assets.tcgdex.net/en/sv/sv03.5/109/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/109/high.webp"
+],
+"110": [
+"https://assets.tcgdex.net/en/sv/sv03.5/110/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/110/high.webp"
+],
+"111": [
+"https://assets.tcgdex.net/en/sv/sv03.5/111/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/111/high.webp"
+],
+"112": [
+"https://assets.tcgdex.net/en/sv/sv03.5/112/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/112/high.webp"
+],
+"113": [
+"https://assets.tcgdex.net/en/sv/sv03.5/113/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/113/high.webp"
+],
+"114": [
+"https://assets.tcgdex.net/en/sv/sv03.5/114/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/114/high.webp"
+],
+"115": [
+"https://assets.tcgdex.net/en/sv/sv03.5/115/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/115/high.webp"
+],
+"116": [
+"https://assets.tcgdex.net/en/sv/sv03.5/116/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/116/high.webp"
+],
+"117": [
+"https://assets.tcgdex.net/en/sv/sv03.5/117/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/117/high.webp"
+],
+"118": [
+"https://assets.tcgdex.net/en/sv/sv03.5/118/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/118/high.webp"
+],
+"119": [
+"https://assets.tcgdex.net/en/sv/sv03.5/119/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/119/high.webp"
+],
+"120": [
+"https://assets.tcgdex.net/en/sv/sv03.5/120/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/120/high.webp"
+],
+"121": [
+"https://assets.tcgdex.net/en/sv/sv03.5/121/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/121/high.webp"
+],
+"122": [
+"https://assets.tcgdex.net/en/sv/sv03.5/122/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/122/high.webp"
+],
+"123": [
+"https://assets.tcgdex.net/en/sv/sv03.5/123/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/123/high.webp"
+],
+"124": [
+"https://assets.tcgdex.net/en/sv/sv03.5/124/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/124/high.webp"
+],
+"125": [
+"https://assets.tcgdex.net/en/sv/sv03.5/125/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/125/high.webp"
+],
+"126": [
+"https://assets.tcgdex.net/en/sv/sv03.5/126/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/126/high.webp"
+],
+"127": [
+"https://assets.tcgdex.net/en/sv/sv03.5/127/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/127/high.webp"
+],
+"128": [
+"https://assets.tcgdex.net/en/sv/sv03.5/128/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/128/high.webp"
+],
+"129": [
+"https://assets.tcgdex.net/en/sv/sv03.5/129/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/129/high.webp"
+],
+"130": [
+"https://assets.tcgdex.net/en/sv/sv03.5/130/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/130/high.webp"
+],
+"131": [
+"https://assets.tcgdex.net/en/sv/sv03.5/131/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/131/high.webp"
+],
+"132": [
+"https://assets.tcgdex.net/en/sv/sv03.5/132/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/132/high.webp"
+],
+"133": [
+"https://assets.tcgdex.net/en/sv/sv03.5/133/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/133/high.webp"
+],
+"134": [
+"https://assets.tcgdex.net/en/sv/sv03.5/134/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/134/high.webp"
+],
+"135": [
+"https://assets.tcgdex.net/en/sv/sv03.5/135/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/135/high.webp"
+],
+"136": [
+"https://assets.tcgdex.net/en/sv/sv03.5/136/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/136/high.webp"
+],
+"137": [
+"https://assets.tcgdex.net/en/sv/sv03.5/137/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/137/high.webp"
+],
+"138": [
+"https://assets.tcgdex.net/en/sv/sv03.5/138/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/138/high.webp"
+],
+"139": [
+"https://assets.tcgdex.net/en/sv/sv03.5/139/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/139/high.webp"
+],
+"140": [
+"https://assets.tcgdex.net/en/sv/sv03.5/140/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/140/high.webp"
+],
+"141": [
+"https://assets.tcgdex.net/en/sv/sv03.5/141/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/141/high.webp"
+],
+"142": [
+"https://assets.tcgdex.net/en/sv/sv03.5/142/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/142/high.webp"
+],
+"143": [
+"https://assets.tcgdex.net/en/sv/sv03.5/143/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/143/high.webp"
+],
+"144": [
+"https://assets.tcgdex.net/en/sv/sv03.5/144/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/144/high.webp"
+],
+"145": [
+"https://assets.tcgdex.net/en/sv/sv03.5/145/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/145/high.webp"
+],
+"146": [
+"https://assets.tcgdex.net/en/sv/sv03.5/146/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/146/high.webp"
+],
+"147": [
+"https://assets.tcgdex.net/en/sv/sv03.5/147/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/147/high.webp"
+],
+"148": [
+"https://assets.tcgdex.net/en/sv/sv03.5/148/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/148/high.webp"
+],
+"149": [
+"https://assets.tcgdex.net/en/sv/sv03.5/149/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/149/high.webp"
+],
+"150": [
+"https://assets.tcgdex.net/en/sv/sv03.5/150/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/150/high.webp"
+],
+"151": [
+"https://assets.tcgdex.net/en/sv/sv03.5/151/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/151/high.webp"
+],
+"152": [
+"https://assets.tcgdex.net/en/sv/sv03.5/162/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/162/high.webp"
+],
+"153": [
+"https://assets.tcgdex.net/en/sv/sv03.5/159/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/159/high.webp"
+],
+"154": [
+"https://assets.tcgdex.net/en/sv/sv03.5/152/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/152/high.webp"
+],
+"155": [
+"https://assets.tcgdex.net/en/sv/sv03.5/154/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/154/high.webp"
+],
+"156": [
+"https://assets.tcgdex.net/en/sv/sv03.5/153/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/153/high.webp"
+],
+"157": [
+"https://assets.tcgdex.net/en/sv/sv03.5/163/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/163/high.webp"
+],
+"158": [
+"https://assets.tcgdex.net/en/sv/sv03.5/164/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/164/high.webp"
+],
+"159": [
+"https://assets.tcgdex.net/en/sv/sv03.5/155/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/155/high.webp"
+],
+"160": [
+"https://assets.tcgdex.net/en/sv/sv03.5/165/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/165/high.webp"
+],
+"161": [
+"https://assets.tcgdex.net/en/sv/sv03.5/158/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/158/high.webp"
+],
+"162": [
+"https://assets.tcgdex.net/en/sv/sv03.5/160/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/160/high.webp"
+],
+"163": [
+"https://assets.tcgdex.net/en/sv/sv03.5/161/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/161/high.webp"
+],
+"164": [
+"https://assets.tcgdex.net/en/sv/sv03.5/156/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/156/high.webp"
+],
+"165": [
+"https://assets.tcgdex.net/en/sv/sv03.5/157/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/157/high.webp"
+],
+"166": [
+"https://assets.tcgdex.net/en/sv/sv03.5/166/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/166/high.webp"
+],
+"167": [
+"https://assets.tcgdex.net/en/sv/sv03.5/167/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/167/high.webp"
+],
+"168": [
+"https://assets.tcgdex.net/en/sv/sv03.5/168/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/168/high.webp"
+],
+"169": [
+"https://assets.tcgdex.net/en/sv/sv03.5/169/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/169/high.webp"
+],
+"170": [
+"https://assets.tcgdex.net/en/sv/sv03.5/170/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/170/high.webp"
+],
+"171": [
+"https://assets.tcgdex.net/en/sv/sv03.5/171/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/171/high.webp"
+],
+"172": [
+"https://assets.tcgdex.net/en/sv/sv03.5/172/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/172/high.webp"
+],
+"173": [
+"https://assets.tcgdex.net/en/sv/sv03.5/173/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/173/high.webp"
+],
+"174": [
+"https://assets.tcgdex.net/en/sv/sv03.5/174/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/174/high.webp"
+],
+"175": [
+"https://assets.tcgdex.net/en/sv/sv03.5/175/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/175/high.webp"
+],
+"176": [
+"https://assets.tcgdex.net/en/sv/sv03.5/176/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/176/high.webp"
+],
+"177": [
+"https://assets.tcgdex.net/en/sv/sv03.5/177/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/177/high.webp"
+],
+"178": [
+"https://assets.tcgdex.net/en/sv/sv03.5/178/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/178/high.webp"
+],
+"179": [
+"https://assets.tcgdex.net/en/sv/sv03.5/179/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/179/high.webp"
+],
+"180": [
+"https://assets.tcgdex.net/en/sv/sv03.5/180/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/180/high.webp"
+],
+"182": [
+"https://assets.tcgdex.net/en/sv/sv03.5/181/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/181/high.webp"
+],
+"184": [
+"https://assets.tcgdex.net/en/sv/sv03.5/182/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/182/high.webp"
+],
+"185": [
+"https://assets.tcgdex.net/en/sv/sv03.5/183/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/183/high.webp"
+],
+"186": [
+"https://assets.tcgdex.net/en/sv/sv03.5/184/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/184/high.webp"
+],
+"187": [
+"https://assets.tcgdex.net/en/sv/sv03.5/185/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/185/high.webp"
+],
+"188": [
+"https://assets.tcgdex.net/en/sv/sv03.5/186/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/186/high.webp"
+],
+"189": [
+"https://assets.tcgdex.net/en/sv/sv03.5/187/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/187/high.webp"
+],
+"190": [
+"https://assets.tcgdex.net/en/sv/sv03.5/188/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/188/high.webp"
+],
+"191": [
+"https://assets.tcgdex.net/en/sv/sv03.5/189/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/189/high.webp"
+],
+"192": [
+"https://assets.tcgdex.net/en/sv/sv03.5/190/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/190/high.webp"
+],
+"193": [
+"https://assets.tcgdex.net/en/sv/sv03.5/191/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/191/high.webp"
+],
+"194": [
+"https://assets.tcgdex.net/en/sv/sv03.5/192/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/192/high.webp"
+],
+"195": [
+"https://assets.tcgdex.net/en/sv/sv03.5/193/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/193/high.webp"
+],
+"196": [
+"https://assets.tcgdex.net/en/sv/sv03.5/195/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/195/high.webp"
+],
+"197": [
+"https://assets.tcgdex.net/en/sv/sv03.5/196/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/196/high.webp"
+],
+"198": [
+"https://assets.tcgdex.net/en/sv/sv03.5/197/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/197/high.webp"
+],
+"199": [
+"https://assets.tcgdex.net/en/sv/sv03.5/194/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/194/high.webp"
+],
+"200": [
+"https://assets.tcgdex.net/en/sv/sv03.5/198/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/198/high.webp"
+],
+"201": [
+"https://assets.tcgdex.net/en/sv/sv03.5/199/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/199/high.webp"
+],
+"202": [
+"https://assets.tcgdex.net/en/sv/sv03.5/200/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/200/high.webp"
+],
+"203": [
+"https://assets.tcgdex.net/en/sv/sv03.5/201/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/201/high.webp"
+],
+"204": [
+"https://assets.tcgdex.net/en/sv/sv03.5/202/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/202/high.webp"
+],
+"206": [
+"https://assets.tcgdex.net/en/sv/sv03.5/203/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/203/high.webp"
+],
+"207": [
+"https://assets.tcgdex.net/en/sv/sv03.5/204/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/204/high.webp"
+],
+"208": [
+"https://assets.tcgdex.net/en/sv/sv03.5/205/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/205/high.webp"
+],
+"209": [
+"https://assets.tcgdex.net/en/sv/sv03.5/206/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/206/high.webp"
+],
+"210": [
+"https://assets.tcgdex.net/en/sv/sv03.5/207/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/207/high.webp"
+],
+"029": [
+"https://assets.tcgdex.net/en/sv/sv03.5/029/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/029/high.webp"
+],
+"032": [
+"https://assets.tcgdex.net/en/sv/sv03.5/032/low.webp",
+"https://assets.tcgdex.net/en/sv/sv03.5/032/high.webp"
+]
 }
 }
 }
