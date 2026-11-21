@@ -3,7 +3,8 @@
  "cards": {
   "en|swsh6|swsh6-105": "n",
   "en|swsh6|swsh6-153": "n",
-  "en|swsh6|swsh6-109": "n"
+  "en|swsh6|swsh6-109": "n",
+  "en|swsh6|swsh6-106": "n"
  },
  "had": {},
  "log": [
@@ -156,7 +157,17 @@
    "name": "Aron",
    "n": "109",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:17:56.141Z",
+   "k": "en|swsh6|swsh6-106",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Whirlipede",
+   "n": "106",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:17:51.091Z"
+ "updated": "2026-11-21T00:17:58.587Z"
 }
