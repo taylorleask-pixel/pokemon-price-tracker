@@ -153,7 +153,8 @@
   "en|sv08|sv08-143": "n",
   "en|sv08|sv08-082": "n",
   "en|sv08|sv08-100": "n",
-  "en|sv08|sv08-043": "n"
+  "en|sv08|sv08-043": "n",
+  "en|sv08|sv08-028": "n"
  },
  "had": {},
  "log": [
@@ -1886,7 +1887,17 @@
    "name": "Spheal",
    "n": "043",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:58:38.534Z",
+   "k": "en|sv08|sv08-028",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Centiskorch",
+   "n": "028",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:58:35.661Z"
+ "updated": "2026-11-21T01:58:41.035Z"
 }
