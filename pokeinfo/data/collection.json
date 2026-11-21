@@ -30,7 +30,8 @@
   "ko|M2a|M2a-007-193": "n",
   "ko|M2a|M2a-084-193": "n",
   "ko|M2a|M2a-151-193": "n",
-  "ko|M2a|M2a-018-193": "n"
+  "ko|M2a|M2a-018-193": "n",
+  "ko|M2a|M2a-109-193": "n"
  },
  "had": {},
  "log": [
@@ -453,7 +454,17 @@
    "name": "Ethan's Slugma",
    "n": "018/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:27:28.259Z",
+   "k": "ko|M2a|M2a-109-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Scraggy",
+   "n": "109/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:27:23.811Z"
+ "updated": "2026-11-21T00:27:30.604Z"
 }
