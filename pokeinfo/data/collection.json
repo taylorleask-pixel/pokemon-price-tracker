@@ -132,7 +132,8 @@
   "en|sv02|sv02-006": "n",
   "en|sv02|sv02-039": "n",
   "en|sv02|sv02-016": "n",
-  "en|sv02|sv02-110": "n"
+  "en|sv02|sv02-110": "n",
+  "en|sv02|sv02-095": "n"
  },
  "had": {},
  "log": [
@@ -1645,7 +1646,17 @@
    "name": "Larvitar",
    "n": "110",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:55:18.005Z",
+   "k": "en|sv02|sv02-095",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Sandygast",
+   "n": "095",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:55:14.976Z"
+ "updated": "2026-11-21T01:55:20.366Z"
 }
