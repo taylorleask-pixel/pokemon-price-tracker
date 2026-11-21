@@ -9,7 +9,8 @@
   "en|swsh6|swsh6-154": "r",
   "en|swsh6|swsh6-135": "n",
   "en|swsh6|swsh6-50": "n",
-  "en|swsh6|swsh6-49": "n"
+  "en|swsh6|swsh6-49": "n",
+  "en|swsh6|swsh6-48": "n"
  },
  "had": {},
  "log": [
@@ -222,7 +223,17 @@
    "name": "Ampharos",
    "n": "49",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:18:32.165Z",
+   "k": "en|swsh6|swsh6-48",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Flaaffy",
+   "n": "48",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:18:28.445Z"
+ "updated": "2026-11-21T00:18:34.506Z"
 }
