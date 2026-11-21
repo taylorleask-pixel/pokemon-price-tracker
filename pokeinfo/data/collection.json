@@ -21,7 +21,8 @@
   "en|swsh6|swsh6-22": "n",
   "en|swsh6|swsh6-82": "n",
   "en|swsh6|swsh6-121": "n",
-  "ko|M2a|M2a-068-193": "n"
+  "ko|M2a|M2a-068-193": "n",
+  "ko|M2a|M2a-085-193": "n"
  },
  "had": {},
  "log": [
@@ -354,7 +355,17 @@
    "name": "Mismagius",
    "n": "068/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:26:31.502Z",
+   "k": "ko|M2a|M2a-085-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Medicham",
+   "n": "085/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:26:19.429Z"
+ "updated": "2026-11-21T00:26:33.825Z"
 }
