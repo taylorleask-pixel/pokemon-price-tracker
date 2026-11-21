@@ -112,7 +112,8 @@
   "en|me03|me03-026": "r",
   "en|me03|me03-043": "r",
   "en|me03|me03-020": "r",
-  "en|me03|me03-004": "r"
+  "en|me03|me03-004": "r",
+  "en|me03|me03-024": "r"
  },
  "had": {},
  "log": [
@@ -1425,7 +1426,17 @@
    "name": "Antique Sail Fossil",
    "n": "069",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:39:58.660Z",
+   "k": "en|me03|me03-024",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Aurorus",
+   "n": "024",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:39:56.087Z"
+ "updated": "2026-11-21T01:40:01.008Z"
 }
