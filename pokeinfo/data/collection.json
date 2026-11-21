@@ -25,7 +25,8 @@
   "ko|M2a|M2a-085-193": "n",
   "ko|M2a|M2a-184-193": "n",
   "ko|M2a|M2a-166-193": "n",
-  "ko|M2a|M2a-115-193": "n"
+  "ko|M2a|M2a-115-193": "n",
+  "ko|M2a|M2a-041-193": "n"
  },
  "had": {},
  "log": [
@@ -398,7 +399,17 @@
    "name": "Pecharunt",
    "n": "115/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:26:55.529Z",
+   "k": "ko|M2a|M2a-041-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Frosmoth",
+   "n": "041/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:26:52.348Z"
+ "updated": "2026-11-21T00:26:58.036Z"
 }
