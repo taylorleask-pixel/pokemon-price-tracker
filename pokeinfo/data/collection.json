@@ -16,7 +16,8 @@
   "en|swsh6|swsh6-37": "n",
   "en|swsh6|swsh6-29": "n",
   "en|swsh6|swsh6-146": "n",
-  "en|swsh6|swsh6-63": "n"
+  "en|swsh6|swsh6-63": "n",
+  "en|swsh6|swsh6-151": "n"
  },
  "had": {},
  "log": [
@@ -299,7 +300,17 @@
    "name": "Banette",
    "n": "63",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:19:14.221Z",
+   "k": "en|swsh6|swsh6-151",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Rapid Strike Scroll of the Skies",
+   "n": "151",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:19:10.129Z"
+ "updated": "2026-11-21T00:19:16.553Z"
 }
