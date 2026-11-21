@@ -1,6 +1,8 @@
 {
  "v": 1,
- "cards": {},
+ "cards": {
+  "en|swsh6|swsh6-105": "n"
+ },
  "had": {},
  "log": [
   {
@@ -122,7 +124,17 @@
    "name": "Techno Radar",
    "n": "130",
    "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-21T00:17:30.374Z",
+   "k": "en|swsh6|swsh6-105",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Venipede",
+   "n": "105",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-20T01:42:42.781Z"
+ "updated": "2026-11-21T00:17:32.728Z"
 }
