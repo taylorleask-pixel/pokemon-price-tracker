@@ -1,6 +1,139 @@
 {
 "events": [
 {
+"time": "2026-11-21T20:17+10:00",
+"store": "evo-flinders",
+"card": 99,
+"condition": "NM",
+"price": 139.5,
+"url": "https://www.evogamescards.com.au/products/gastly-177-162-sv05-temporal-forces-holofoil?variant=50934990635170",
+"type": "new"
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "mint",
+"card": 1,
+"condition": "LP",
+"price": 250.0,
+"url": "https://mintcollectables.com.au/products/gengar-05-62-fossil-unlimited-holofoil-lp?variant=54288633954468",
+"type": "new"
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "mint",
+"card": 31,
+"condition": "HP/DMG",
+"price": 45.0,
+"url": "https://mintcollectables.com.au/products/gengar-gl-40-111-rising-rivals-reverse-holofoil-hp-dmg?variant=57606437240996",
+"type": "new"
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "mint",
+"card": 50,
+"condition": "LP",
+"price": 30.0,
+"url": "https://mintcollectables.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil-lp?variant=51429046943908",
+"type": "new"
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "mint",
+"card": 22,
+"condition": "HP/DMG",
+"price": 85.0,
+"url": "https://mintcollectables.com.au/products/gengar-5-92-legend-maker-holofoil-hp-dmg?variant=57606534103204",
+"type": "new"
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "mint",
+"card": 64,
+"condition": "NM",
+"price": 20.0,
+"url": "https://mintcollectables.com.au/products/gengar-057-198-swsh06-chilling-reign-reverse-holofoil?variant=57606519554212",
+"type": "new"
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "mint",
+"card": 105,
+"condition": "LP",
+"price": 60.0,
+"url": "https://mintcollectables.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil-lp?variant=57606376816804",
+"type": "sold-out"
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "card-house",
+"card": 100,
+"condition": "Near Mint Holofoil",
+"price": 91.0,
+"url": "https://www.cardhouse.com.au/products/pikachu-173-165-scarlet-violet-151?variant=42485369241791",
+"type": "price-down",
+"old": 93.0
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "card-house",
+"card": 88,
+"condition": "Near Mint",
+"price": 74.5,
+"url": "https://www.cardhouse.com.au/products/gengar-prime-094-102-holofoil-me-30th-celebration-classic-collection-classic-collection?variant=46206845911231",
+"type": "price-up",
+"old": 71.5
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "card-house",
+"card": 77,
+"condition": "Near Mint Holofoil",
+"price": 98.0,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-193-162-scarlet-violet-temporal-forces?variant=43080524267711",
+"type": "price-up",
+"old": 97.5
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "card-house",
+"card": 87,
+"condition": "Near Mint",
+"price": 108.1,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-154-128-holofoil-me-30th-celebration-special-illustration-rare?variant=67862176792767",
+"type": "price-up",
+"old": 103.8
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "card-house",
+"card": 78,
+"condition": "Near Mint",
+"price": 4.5,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-073-holofoil-me-mega-evolution-promo-promo?variant=45768166768831",
+"type": "price-down",
+"old": 5.5
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "card-house",
+"card": 64,
+"condition": "Near Mint Holofoil",
+"price": 9.0,
+"url": "https://www.cardhouse.com.au/products/gengar-057-198-sword-shield-chilling-reign?variant=42397041459391",
+"type": "price-up",
+"old": 8.5
+},
+{
+"time": "2026-11-21T20:17+10:00",
+"store": "card-house",
+"card": 42,
+"condition": "Near Mint Holofoil",
+"price": 988.5,
+"url": "https://www.cardhouse.com.au/products/m-gengar-ex-121-119-xy-phantom-forces?variant=42394996637887",
+"type": "price-up",
+"old": 971.5
+},
+{
 "time": "2026-11-21T11:49+10:00",
 "store": "evo-flinders",
 "card": 39,
