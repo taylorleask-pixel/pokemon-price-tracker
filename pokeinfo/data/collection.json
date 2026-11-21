@@ -137,7 +137,7 @@
   "en|sv02|sv02-170": "n",
   "en|sv02|sv02-111": "n",
   "en|sv02|sv02-143": "n",
-  "en|sv02|sv02-065": "n",
+  "en|sv02|sv02-065": "nr",
   "en|sv02|sv02-164": "n",
   "en|sv02|sv02-114": "n",
   "en|sv02|sv02-149": "n",
@@ -1766,7 +1766,17 @@
    "name": "Falinks",
    "n": "119",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:56:36.100Z",
+   "k": "en|sv02|sv02-065",
+   "a": "versions",
+   "v": "nr",
+   "from": "n",
+   "name": "Magnemite",
+   "n": "065",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:56:33.104Z"
+ "updated": "2026-11-21T01:56:38.490Z"
 }
