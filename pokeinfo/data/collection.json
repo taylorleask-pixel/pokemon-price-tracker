@@ -56,7 +56,8 @@
   "en|tot22|tot22-031-192": "n",
   "en|tot22|tot22-076-203": "n",
   "en|tot22|tot22-062-172": "n",
-  "en|tot23|tot23-071-185": "n"
+  "en|tot23|tot23-071-185": "n",
+  "ko|SV8a|SV8a-103-187": "n"
  },
  "had": {},
  "log": [
@@ -779,7 +780,17 @@
    "name": "Munkidori ex",
    "n": "103/187",
    "set": "Terastal Festival ex (KR)"
+  },
+  {
+   "t": "2026-11-21T01:22:28.697Z",
+   "k": "ko|SV8a|SV8a-103-187",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Munkidori ex",
+   "n": "103/187",
+   "set": "Terastal Festival ex (KR)"
   }
  ],
- "updated": "2026-11-21T01:22:16.015Z"
+ "updated": "2026-11-21T01:22:31.029Z"
 }
