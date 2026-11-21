@@ -155,7 +155,8 @@
   "en|sv08|sv08-100": "n",
   "en|sv08|sv08-043": "n",
   "en|sv08|sv08-028": "n",
-  "en|sv08|sv08-146": "n"
+  "en|sv08|sv08-146": "n",
+  "en|sv08|sv08-080": "n"
  },
  "had": {},
  "log": [
@@ -1908,7 +1909,17 @@
    "name": "Vigoroth",
    "n": "146",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:58:47.917Z",
+   "k": "en|sv08|sv08-080",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Azelf",
+   "n": "080",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:58:46.033Z"
+ "updated": "2026-11-21T01:58:48.441Z"
 }
