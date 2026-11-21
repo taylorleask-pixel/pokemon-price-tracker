@@ -136,7 +136,8 @@
   "en|sv02|sv02-095": "n",
   "en|sv02|sv02-170": "n",
   "en|sv02|sv02-111": "n",
-  "en|sv02|sv02-143": "n"
+  "en|sv02|sv02-143": "n",
+  "en|sv02|sv02-065": "n"
  },
  "had": {},
  "log": [
@@ -1689,7 +1690,17 @@
    "name": "Mabosstiff",
    "n": "143",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:55:48.220Z",
+   "k": "en|sv02|sv02-065",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Magnemite",
+   "n": "065",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:55:44.428Z"
+ "updated": "2026-11-21T01:55:50.553Z"
 }
