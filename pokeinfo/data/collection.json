@@ -117,7 +117,8 @@
   "zh-cn|CBB3C|CBB3C-0805": "m",
   "zh-cn|CBB3C|CBB3C-0501": "h",
   "zh-cn|CBB3C|CBB3C-1502": "p",
-  "zh-cn|CBB3C|CBB3C-1701": "h"
+  "zh-cn|CBB3C|CBB3C-1701": "h",
+  "zh-cn|CBB3C|CBB3C-0704": "h"
  },
  "had": {},
  "log": [
@@ -1480,7 +1481,17 @@
    "name": "Houndstone",
    "n": "1701",
    "set": "宝石包Vol.3 (简中)"
+  },
+  {
+   "t": "2026-11-21T01:52:34.475Z",
+   "k": "zh-cn|CBB3C|CBB3C-0704",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Banette",
+   "n": "0704",
+   "set": "宝石包Vol.3 (简中)"
   }
  ],
- "updated": "2026-11-21T01:52:25.282Z"
+ "updated": "2026-11-21T01:52:36.803Z"
 }
