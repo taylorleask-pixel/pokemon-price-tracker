@@ -54,7 +54,8 @@
   "en|tot23|tot23-019-185": "n",
   "en|tot23|tot23-066-196": "n",
   "en|tot22|tot22-031-192": "n",
-  "en|tot22|tot22-076-203": "n"
+  "en|tot22|tot22-076-203": "n",
+  "en|tot22|tot22-062-172": "n"
  },
  "had": {},
  "log": [
@@ -717,7 +718,17 @@
    "name": "Pumpkaboo",
    "n": "076/203",
    "set": "Trick or Trade 2022"
+  },
+  {
+   "t": "2026-11-21T00:57:21.880Z",
+   "k": "en|tot22|tot22-062-172",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Dusknoir",
+   "n": "062/172",
+   "set": "Trick or Trade 2022"
   }
  ],
- "updated": "2026-11-21T00:57:16.175Z"
+ "updated": "2026-11-21T00:57:24.156Z"
 }
