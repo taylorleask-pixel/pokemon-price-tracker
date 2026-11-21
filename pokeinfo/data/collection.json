@@ -106,7 +106,8 @@
   "en|me03|me03-072": "r",
   "en|me03|me03-019": "h",
   "en|me03|me03-086": "h",
-  "en|me03|me03-087": "h"
+  "en|me03|me03-087": "h",
+  "en|me03|me03-063": "n"
  },
  "had": {},
  "log": [
@@ -1339,7 +1340,17 @@
    "name": "Rocky Fighting Energy",
    "n": "087",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:39:14.323Z",
+   "k": "en|me03|me03-063",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Snorlax",
+   "n": "063",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:39:09.757Z"
+ "updated": "2026-11-21T01:39:16.658Z"
 }
