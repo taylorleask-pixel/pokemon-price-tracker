@@ -110,7 +110,8 @@
   "en|me03|me03-063": "n",
   "en|me03|me03-039": "r",
   "en|me03|me03-026": "r",
-  "en|me03|me03-043": "r"
+  "en|me03|me03-043": "r",
+  "en|me03|me03-020": "r"
  },
  "had": {},
  "log": [
@@ -1393,7 +1394,17 @@
    "name": "Barbaracle",
    "n": "043",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:39:42.348Z",
+   "k": "en|me03|me03-020",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Staryu",
+   "n": "020",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:39:38.917Z"
+ "updated": "2026-11-21T01:39:44.743Z"
 }
