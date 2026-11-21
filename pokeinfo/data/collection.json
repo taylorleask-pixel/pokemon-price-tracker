@@ -114,7 +114,8 @@
   "en|me03|me03-020": "r",
   "en|me03|me03-004": "r",
   "en|me03|me03-024": "r",
-  "zh-cn|CBB3C|CBB3C-0805": "m"
+  "zh-cn|CBB3C|CBB3C-0805": "m",
+  "zh-cn|CBB3C|CBB3C-0501": "h"
  },
  "had": {},
  "log": [
@@ -1447,7 +1448,17 @@
    "name": "Absol",
    "n": "0805",
    "set": "宝石包Vol.3 (简中)"
+  },
+  {
+   "t": "2026-11-21T01:52:10.476Z",
+   "k": "zh-cn|CBB3C|CBB3C-0501",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Houndoom",
+   "n": "0501",
+   "set": "宝石包Vol.3 (简中)"
   }
  ],
- "updated": "2026-11-21T01:52:04.963Z"
+ "updated": "2026-11-21T01:52:12.900Z"
 }
