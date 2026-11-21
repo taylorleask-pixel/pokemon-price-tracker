@@ -121,7 +121,8 @@
   "zh-cn|CBB3C|CBB3C-0704": "h",
   "zh-cn|CBB3C|CBB3C-1207": "h",
   "zh-cn|CBB3C|CBB3C-0201": "h",
-  "zh-cn|CBB3C|CBB3C-0202": "p"
+  "zh-cn|CBB3C|CBB3C-0202": "p",
+  "zh-cn|CBB3C|CBB3C-1703": "s"
  },
  "had": {},
  "log": [
@@ -1524,7 +1525,17 @@
    "name": "Meowth",
    "n": "0202",
    "set": "宝石包Vol.3 (简中)"
+  },
+  {
+   "t": "2026-11-21T01:53:07.487Z",
+   "k": "zh-cn|CBB3C|CBB3C-1703",
+   "a": "added",
+   "v": "s",
+   "from": "",
+   "name": "Houndstone",
+   "n": "1703",
+   "set": "宝石包Vol.3 (简中)"
   }
  ],
- "updated": "2026-11-21T01:52:57.887Z"
+ "updated": "2026-11-21T01:53:09.792Z"
 }
