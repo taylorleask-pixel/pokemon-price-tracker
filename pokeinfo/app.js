@@ -222,15 +222,17 @@ function renderHome() {
     </section>
     ${S.lang !== "en" ? `<details class="missing" id="missing"><summary>Missing sets</summary><div id="missinglist"><p class="note">Working it out…</p></div></details>` : ""}
     <div class="tools">
-      <input class="search" id="q" type="search" placeholder="Search sets" value="${esc(S.q)}" aria-label="Search sets">
+      <input class="search" id="q" type="search" placeholder="Search sets or cards (e.g. gengar)" value="${esc(S.q)}" aria-label="Search sets or cards" autocomplete="off">
       <button type="button" class="btn ghost" id="addset">Add a set</button>
       <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["started", "Started"], ["done", "Complete"]].map(([v, l]) =>
         `<button type="button" data-show="${v}" aria-pressed="${S.show === v}">${l}</button>`).join("")}</div>
       <div class="seg" role="group" aria-label="Order">${[[true, "Newest"], [false, "Oldest"]].map(([v, l]) =>
         `<button type="button" data-newest="${v}" aria-pressed="${S.newest === v}">${l}</button>`).join("")}</div>
     </div>
+    <div id="cardhits"></div>
     <div id="setlist"></div>`;
   const draw = () => {
+    drawCardHits();
     const q = S.q.trim().toLowerCase();
     let list = sets.filter((s) => (!q || `${s.name} ${enName(s)} ${s.serie} ${enSerie(s.serie)} ${s.id} ${s.abbr || ""} ${(s.date || "").slice(0, 4)}`.toLowerCase().includes(q)) &&
       (S.show === "all" || (S.show === "started" ? own[s.id]?.cards : own[s.id]?.cards >= s.cards_n)));
@@ -259,6 +261,48 @@ function renderHome() {
   draw();
 }
 
+// ---------------------------------------------------------------- card search across every set in the language
+D.index = {};
+async function cardIndex(lang) {
+  if (!D.index[lang]) D.index[lang] = load(`data/${lang}/index.json`).then((d) => d || { sets: [], cards: [] });
+  return D.index[lang];
+}
+let hitsTimer;
+function drawCardHits() {
+  clearTimeout(hitsTimer);
+  const q = (S.q || "").trim(), box = $("#cardhits");
+  if (!box) return;
+  if (q.length < 2) { box.innerHTML = ""; return; }
+  hitsTimer = setTimeout(async () => {
+    const lang = S.lang;
+    if (!D.index[lang]) box.innerHTML = `<p class="note">Searching every card…</p>`;
+    const idx = await cardIndex(lang);
+    if (lang !== S.lang || q !== (S.q || "").trim() || !$("#cardhits")) return;
+    const order = new Map(D.sets[lang].sets.map((x, i) => [x.id, i]));
+    const hits = [];
+    for (const row of idx.cards) {
+      const [si, cid, n, name, r, pic] = row;
+      if (!cardMatches({ name, n, r }, q)) continue;
+      const [setId, setName, base] = idx.sets[si];
+      const id = cid || `${setId}-${n}`;
+      hits.push({ setId, setName, id, n, name, r, pic: pic === 1 ? `${base}/${id.split("-").pop()}/low.webp` : pic || null, owned: C.cards[key(lang, setId, id)] || "" });
+    }
+    hits.sort((a, b) => (S.newest ? -1 : 1) * ((order.get(a.setId) ?? 0) - (order.get(b.setId) ?? 0)));
+    const LIMIT = S.allHits === q ? hits.length : 60;
+    const meta = (id) => D.sets[lang].sets.find((x) => x.id === id);
+    box.innerHTML = hits.length ? `<div class="era"><h2>Cards</h2><span>${hits.length.toLocaleString()} match${hits.length === 1 ? "" : "es"} for “${esc(q)}”${hits.length ? `, ${hits.filter((h) => h.owned).length} ticked` : ""}</span></div>
+      <div class="grid hits">${hits.slice(0, LIMIT).map((h, i) => `<a class="card hit ${h.owned ? "have" : "need"}" href="#${lang}/set/${encodeURIComponent(h.setId)}" data-h="${i}">
+        <span class="pic">${h.pic ? `<img src="${esc(h.pic)}" alt="" loading="lazy" data-ph="${esc(h.name)}" onerror="imgFail(this)">` : `<span class="ph">${esc(h.name)}</span>`}
+          ${h.owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}</span>
+        <span class="cap"><span>${esc(h.name)}</span><span>${esc(h.n)}</span></span>
+        <span class="hitset">${symImg(meta(h.setId) || {})}${esc(h.setName)}${enName({ id: h.setId, name: h.setName, name_en: meta(h.setId)?.name_en }) ? ` · ${esc(enName({ id: h.setId, name: h.setName, name_en: meta(h.setId)?.name_en }))}` : ""}</span></a>`).join("")}</div>
+      ${hits.length > LIMIT ? `<p><button type="button" class="btn ghost" id="morehits">Show all ${hits.length.toLocaleString()} cards</button></p>` : ""}`
+      : `<p class="note">No cards match “${esc(q)}”.</p>`;
+    box.querySelectorAll("a.hit").forEach((a) => a.addEventListener("click", () => { const h = hits[+a.dataset.h]; S.jump = { id: h.setId, q: `${h.n.split("/")[0]} ${h.name}` }; }));
+    $("#morehits")?.addEventListener("click", () => { S.allHits = q; drawCardHits(); });
+  }, D.index[S.lang] ? 120 : 0);
+}
+
 // ---------------------------------------------------------------- one set: the binder
 const pic = (c, size = "low") => c.img ? `${c.img}/${size}.webp` : c.ps ? (size === "low" ? c.ps : c.pl || c.ps) : null;
 const HOW = { traded: "Traded", sold: "Sold" };
@@ -275,6 +319,7 @@ async function renderSet(id) {
   const set = D.setFiles[fk];
   if (!set || !meta) { $("#view").innerHTML = `<button class="back" id="back">← All sets</button><p class="none">That set isn't in the card list.</p>`; $("#back").onclick = () => go(S.lang); return; }
   if (S.setId !== id) { S.setId = id; S.type = null; S.own = "all"; S.cq = ""; }
+  if (S.jump?.id === id) { S.cq = S.jump.q; S.jump = null; }   // came from a card search: show just that card
   const cards = set.cards;
   const k = (c) => key(S.lang, id, c.id);
   const info = (c) => ({ name: c.name, n: c.n, set: `${set.name || meta.name}${S.lang === "en" ? "" : ` (${LANGS.find((l) => l.id === S.lang).label})`}`, href: `${S.lang}/set/${id}` });

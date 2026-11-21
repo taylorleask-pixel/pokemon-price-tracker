@@ -310,6 +310,33 @@ def fill_logos(lang, sets):
             x["logo"] = x["symbol"]
 
 
+def write_index(lang, sets):
+    """One small file listing every card in the language, so the app can search all sets at once.
+    cards: [set index, card id (0 when it's "<set>-<number>"), number, name, rarity, picture (1 = the set's usual picture address)]"""
+    out_sets, out_cards = [], []
+    for x in sets:
+        if not x.get("cards_n"):
+            continue
+        try:
+            rows = json.loads((OUT / lang / "sets" / f"{x['id']}.json").read_text(encoding="utf-8"))["cards"]
+        except Exception:  # noqa: BLE001
+            continue
+        imgs = [r["img"] for r in rows if r.get("img")]
+        base = imgs[0].rsplit("/", 1)[0] if imgs else ""
+        si = len(out_sets)
+        out_sets.append([x["id"], x["name"], base])
+        for r in rows:
+            if r.get("img") and base and r["img"] == f"{base}/{r['id'].split('-')[-1]}":
+                pic = 1
+            elif r.get("img"):
+                pic = f"{r['img']}/low.webp"
+            else:
+                pic = r.get("ps") or 0
+            out_cards.append([si, 0 if r["id"] == f"{x['id']}-{r['n']}" else r["id"], r["n"], r["name"], r.get("r") or "", pic])
+    (OUT / lang / "index.json").write_text(json.dumps({"sets": out_sets, "cards": out_cards}, ensure_ascii=False, separators=(",", ":")),
+                                          encoding="utf-8")
+
+
 def build_lang(lang):
     t0 = time.time()
     try:
@@ -343,6 +370,7 @@ def build_lang(lang):
     (OUT / lang).mkdir(parents=True, exist_ok=True)
     (OUT / lang / "sets.json").write_text(json.dumps({"lang": lang, "updated": datetime.now(timezone.utc).isoformat(timespec="minutes"),
                                                       "report": rep, "sets": sets}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    write_index(lang, sets)
     print(lang, rep, flush=True)
 
 
