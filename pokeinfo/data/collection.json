@@ -31,7 +31,8 @@
   "ko|M2a|M2a-084-193": "n",
   "ko|M2a|M2a-151-193": "n",
   "ko|M2a|M2a-018-193": "n",
-  "ko|M2a|M2a-109-193": "n"
+  "ko|M2a|M2a-109-193": "n",
+  "ko|M2a|M2a-015-193": "n"
  },
  "had": {},
  "log": [
@@ -464,7 +465,17 @@
    "name": "Scraggy",
    "n": "109/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:27:32.921Z",
+   "k": "ko|M2a|M2a-015-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Team Rocket's Tarountula",
+   "n": "015/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:27:30.604Z"
+ "updated": "2026-11-21T00:27:35.384Z"
 }
