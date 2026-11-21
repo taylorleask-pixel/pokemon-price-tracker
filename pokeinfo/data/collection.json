@@ -129,7 +129,8 @@
   "en|sv02|sv02-199": "h",
   "en|sv02|sv02-045": "n",
   "en|sv02|sv02-082": "n",
-  "en|sv02|sv02-006": "n"
+  "en|sv02|sv02-006": "n",
+  "en|sv02|sv02-039": "n"
  },
  "had": {},
  "log": [
@@ -1612,7 +1613,17 @@
    "name": "Heracross",
    "n": "006",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:55:01.377Z",
+   "k": "en|sv02|sv02-039",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Charcadet",
+   "n": "039",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:54:56.244Z"
+ "updated": "2026-11-21T01:55:03.789Z"
 }
