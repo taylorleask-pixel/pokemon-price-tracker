@@ -91,7 +91,8 @@
   "en|me03|me03-038": "n",
   "en|me03|me03-029": "n",
   "en|me03|me03-002": "n",
-  "en|me03|me03-084": "n"
+  "en|me03|me03-084": "n",
+  "en|me03|me03-007": "n"
  },
  "had": {},
  "log": [
@@ -1164,7 +1165,17 @@
    "name": "Rosa's Encouragement",
    "n": "084",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:37:33.930Z",
+   "k": "en|me03|me03-007",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Scatterbug",
+   "n": "007",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:37:30.441Z"
+ "updated": "2026-11-21T01:37:36.431Z"
 }
