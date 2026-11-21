@@ -310,6 +310,31 @@ def fill_logos(lang, sets):
             x["logo"] = x["symbol"]
 
 
+def apply_pictures(lang, sets):
+    """Card pictures Taylor supplied (manual/pictures.json: language → set → card number → picture), for cards
+    the database has no picture for."""
+    try:
+        pics = json.loads((MANUAL / "pictures.json").read_text(encoding="utf-8")).get(lang, {})
+    except Exception:  # noqa: BLE001
+        return
+    for x in sets:
+        mine = {norm_num(k): v for k, v in (pics.get(x["id"]) or {}).items()}
+        path = OUT / lang / "sets" / f"{x['id']}.json"
+        if not mine or not path.exists():
+            continue
+        data = json.loads(path.read_text(encoding="utf-8"))
+        n = 0
+        for r in data["cards"]:
+            p = mine.get(norm_num(r["n"].split("/")[0]))
+            if p and not r.get("img") and r.get("ps") != p:
+                r["ps"] = r["pl"] = p
+                n += 1
+        if n:
+            path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        x["img_n"] = sum(1 for r in data["cards"] if r.get("img") or r.get("ps"))
+        print(f"   {x['id']}: {n} pictures from Taylor")
+
+
 def borrow_rarity(lang, sets):
     """Korean and Chinese sets are the Japanese sets with the same code and card numbers: where a card has no rarity,
     take the Japanese card's rarity (same set code, same number)."""
@@ -385,6 +410,7 @@ def build_lang(lang):
         fill_pictures(sets)
     add_extra_sets(lang, sets)
     add_manual(lang, sets)
+    apply_pictures(lang, sets)
     if lang in ("ko", "zh-tw", "zh-cn"):
         borrow_rarity(lang, sets)
     apply_art(lang, sets)

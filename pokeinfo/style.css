@@ -246,3 +246,4 @@ dialog::backdrop { background: rgba(10, 14, 20, .6); }
 .rdesc { margin: -2px 0 6px; font-size: 13.5px; color: var(--muted); }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .rsym path[fill="#1b1b1b"], :root:not([data-theme="light"]) .rsym circle[fill="#1b1b1b"] { fill: #e8ecf3; } }
 :root[data-theme="dark"] .rsym path[fill="#1b1b1b"], :root[data-theme="dark"] .rsym circle[fill="#1b1b1b"] { fill: #e8ecf3; }
+.card .cap > span:last-child { white-space: nowrap; flex: none; }
