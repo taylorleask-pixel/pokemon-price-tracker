@@ -146,7 +146,8 @@
   "en|sv02|sv02-119": "r",
   "en|sv02|sv02-021": "r",
   "en|sv08|sv08-167": "n",
-  "en|sv08|sv08-095": "n"
+  "en|sv08|sv08-095": "n",
+  "en|sv08|sv08-153": "n"
  },
  "had": {},
  "log": [
@@ -1809,7 +1810,17 @@
    "name": "Espathra",
    "n": "095",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:58:02.088Z",
+   "k": "en|sv08|sv08-153",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Braviary",
+   "n": "153",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:57:58.880Z"
+ "updated": "2026-11-21T01:58:04.477Z"
 }
