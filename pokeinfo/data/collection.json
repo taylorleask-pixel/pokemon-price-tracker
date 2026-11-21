@@ -133,7 +133,8 @@
   "en|sv02|sv02-039": "n",
   "en|sv02|sv02-016": "n",
   "en|sv02|sv02-110": "n",
-  "en|sv02|sv02-095": "n"
+  "en|sv02|sv02-095": "n",
+  "en|sv02|sv02-170": "n"
  },
  "had": {},
  "log": [
@@ -1656,7 +1657,17 @@
    "name": "Sandygast",
    "n": "095",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:55:24.666Z",
+   "k": "en|sv02|sv02-170",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Flamigo",
+   "n": "170",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:55:20.366Z"
+ "updated": "2026-11-21T01:55:27.156Z"
 }
