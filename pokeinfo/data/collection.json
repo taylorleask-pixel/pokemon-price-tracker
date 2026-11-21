@@ -62,7 +62,8 @@
   "ko|SV8a|SV8a-098-187": "n",
   "ko|SV8a|SV8a-029-187": "n",
   "ko|SV8a|SV8a-131-187": "n",
-  "ko|SV8a|SV8a-129-187": "n"
+  "ko|SV8a|SV8a-129-187": "n",
+  "ko|SV8a|SV8a-110-187": "n"
  },
  "had": {},
  "log": [
@@ -845,7 +846,17 @@
    "name": "Dunsparce",
    "n": "129/187",
    "set": "Terastal Festival ex (KR)"
+  },
+  {
+   "t": "2026-11-21T01:24:12.970Z",
+   "k": "ko|SV8a|SV8a-110-187",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Doublade",
+   "n": "110/187",
+   "set": "Terastal Festival ex (KR)"
   }
  ],
- "updated": "2026-11-21T01:24:10.844Z"
+ "updated": "2026-11-21T01:24:15.312Z"
 }
