@@ -1,6 +1,63 @@
 {
-"updated": "2026-11-20T21:42+10:00",
+"updated": "2026-11-21T12:16+10:00",
 "events": [
+{
+"time": "2026-11-21T12:16+10:00",
+"store": "misty",
+"key": "box|Chilling Reign",
+"title": "Chilling Reign Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 753.64,
+"new": 752.74
+},
+{
+"time": "2026-11-21T12:16+10:00",
+"store": "eden",
+"key": "blister-single|Team Up",
+"title": "Pokemon TCG - Team Up Sleeved Booster Pack Art Set (4 Booster Packs)",
+"url": "https://www.edenhunter.com.au/product/pokemon-tcg-team-up-sleeved-booster-pack-art-set-4-booster-packs-/QAVA7WAOWAYHCS54LVOEXN4N",
+"category": "blister-single",
+"lang": "EN",
+"type": "price-up",
+"old": 2000.0,
+"new": 2500.0
+},
+{
+"time": "2026-11-21T12:16+10:00",
+"store": "everson",
+"key": "box|Mega Evolution",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Box",
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster",
+"category": "box",
+"lang": "EN",
+"type": "sold-out",
+"old": 320.0
+},
+{
+"time": "2026-11-21T12:16+10:00",
+"store": "eden",
+"key": "KOR|pack|Team Rocket",
+"title": "Pokemon - Glory of Team Rocket Korean Booster Single",
+"url": "https://www.edenhunter.com.au/product/pokemon-glory-of-team-rocket-korean-booster-single/3LZT37AXZ2DGIP3JKPXGRG3C",
+"category": "pack",
+"lang": "KOR",
+"type": "removed",
+"old": 4.0
+},
+{
+"time": "2026-11-21T12:16+10:00",
+"store": "eden",
+"key": "JP|other|pokemon - rayquaza xy promo japanese",
+"title": "Pokemon - Rayquaza XY Promo Japanese",
+"url": "https://www.edenhunter.com.au/product/pokemon-rayquaza-xy-promo-japanese/GHHUL2PP4SYTXIUGBB7GHNXC",
+"category": "other",
+"lang": "JP",
+"type": "removed",
+"old": 550.0
+},
 {
 "time": "2026-11-20T21:42+10:00",
 "store": "sidequest",
