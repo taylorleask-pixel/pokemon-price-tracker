@@ -115,7 +115,8 @@
   "en|me03|me03-004": "r",
   "en|me03|me03-024": "r",
   "zh-cn|CBB3C|CBB3C-0805": "m",
-  "zh-cn|CBB3C|CBB3C-0501": "h"
+  "zh-cn|CBB3C|CBB3C-0501": "h",
+  "zh-cn|CBB3C|CBB3C-1502": "p"
  },
  "had": {},
  "log": [
@@ -1458,7 +1459,17 @@
    "name": "Houndoom",
    "n": "0501",
    "set": "宝石包Vol.3 (简中)"
+  },
+  {
+   "t": "2026-11-21T01:52:20.722Z",
+   "k": "zh-cn|CBB3C|CBB3C-1502",
+   "a": "added",
+   "v": "p",
+   "from": "",
+   "name": "Ceruledge",
+   "n": "1502",
+   "set": "宝石包Vol.3 (简中)"
   }
  ],
- "updated": "2026-11-21T01:52:12.900Z"
+ "updated": "2026-11-21T01:52:23.051Z"
 }
