@@ -139,7 +139,8 @@
   "en|sv02|sv02-143": "n",
   "en|sv02|sv02-065": "n",
   "en|sv02|sv02-164": "n",
-  "en|sv02|sv02-114": "n"
+  "en|sv02|sv02-114": "n",
+  "en|sv02|sv02-149": "n"
  },
  "had": {},
  "log": [
@@ -1722,7 +1723,17 @@
    "name": "Croagunk",
    "n": "114",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:56:06.322Z",
+   "k": "en|sv02|sv02-149",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Cufant",
+   "n": "149",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:56:04.245Z"
+ "updated": "2026-11-21T01:56:08.655Z"
 }
