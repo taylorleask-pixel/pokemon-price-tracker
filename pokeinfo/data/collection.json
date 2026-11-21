@@ -87,7 +87,7 @@
   "en|me03|me03-008": "n",
   "en|me03|me03-057": "n",
   "en|me03|me03-077": "n",
-  "en|me03|me03-069": "n",
+  "en|me03|me03-069": "nr",
   "en|me03|me03-038": "n",
   "en|me03|me03-029": "n",
   "en|me03|me03-002": "n",
@@ -1415,7 +1415,17 @@
    "name": "Snivy",
    "n": "004",
    "set": "Perfect Order"
+  },
+  {
+   "t": "2026-11-21T01:39:53.410Z",
+   "k": "en|me03|me03-069",
+   "a": "versions",
+   "v": "nr",
+   "from": "n",
+   "name": "Antique Sail Fossil",
+   "n": "069",
+   "set": "Perfect Order"
   }
  ],
- "updated": "2026-11-21T01:39:51.120Z"
+ "updated": "2026-11-21T01:39:56.087Z"
 }
