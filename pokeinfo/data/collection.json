@@ -13,7 +13,8 @@
   "en|swsh6|swsh6-48": "n",
   "en|swsh6|swsh6-13": "n",
   "en|swsh6|swsh6-67": "n",
-  "en|swsh6|swsh6-37": "n"
+  "en|swsh6|swsh6-37": "n",
+  "en|swsh6|swsh6-29": "n"
  },
  "had": {},
  "log": [
@@ -266,7 +267,17 @@
    "name": "Spheal",
    "n": "37",
    "set": "Chilling Reign"
+  },
+  {
+   "t": "2026-11-21T00:18:55.141Z",
+   "k": "en|swsh6|swsh6-29",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Lapras",
+   "n": "29",
+   "set": "Chilling Reign"
   }
  ],
- "updated": "2026-11-21T00:18:53.267Z"
+ "updated": "2026-11-21T00:18:57.484Z"
 }
