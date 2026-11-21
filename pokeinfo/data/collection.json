@@ -126,7 +126,8 @@
   "zh-cn|CBB3C|CBB3C-0601": "h",
   "zh-cn|CBB3C|CBB3C-0902": "p",
   "en|sv02|sv02-200": "h",
-  "en|sv02|sv02-199": "h"
+  "en|sv02|sv02-199": "h",
+  "en|sv02|sv02-045": "n"
  },
  "had": {},
  "log": [
@@ -1579,7 +1580,17 @@
    "name": "Fletchinder",
    "n": "199",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:54:41.908Z",
+   "k": "en|sv02|sv02-045",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Azumarill",
+   "n": "045",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:54:35.539Z"
+ "updated": "2026-11-21T01:54:44.214Z"
 }
