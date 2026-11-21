@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T12:16+10:00",
+"updated": "2026-11-21T21:03+10:00",
 "listings": [
 {
 "store": "misty",
@@ -382,26 +382,6 @@
 "product": null,
 "packs": 36,
 "key": "box|Base Set 2",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Base Set Booster Box · Unlimited (Blue Wing)",
-"price": 67999.0,
-"available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/base-set-booster-box",
-"image": "https://images.scrydex.com/pokemon/base1-s2u/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "box",
-"set": "Base Set",
-"year": 1999,
-"product": null,
-"packs": 36,
-"key": "box|Base Set",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -3060,6 +3040,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "misty",
+"title": "Base Set Booster Box · Unlimited (Blue Wing)",
+"price": 67999.0,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/base-set-booster-box",
+"image": "https://images.scrydex.com/pokemon/base1-s2u/large",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Base Set",
+"year": 1999,
+"product": null,
+"packs": 36,
+"key": "box|Base Set",
+"skip": null,
+"first_seen": null,
+"changed": "2026-11-21T21:03+10:00"
 },
 {
 "store": "misty",
@@ -20898,26 +20898,6 @@
 },
 {
 "store": "evo",
-"title": "Pokemon Japanese - Ruler of the Black Flame Deck Build Box",
-"price": 100.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pokemon-japanese-ruler-of-the-black-flame-deck-build-box/4ESYCNT6BWEAY2X243ERZJGF",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/NMW2CSFVA36SU5BFNZOQL44V.jpeg",
-"lang": "JP",
-"auto_packs": null,
-"variant": null,
-"category": "other",
-"set": null,
-"year": null,
-"product": "Ruler of the Black Flame Deck Build Box (Japanese)",
-"packs": 10,
-"key": "JP|other|pokemon japanese - ruler of the black flame deck build box",
-"skip": null,
-"first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-06T21:58+10:00"
-},
-{
-"store": "evo",
 "title": "Pokemon Celebrations Deluxe Pin Collection - Zacian",
 "price": 230.0,
 "available": true,
@@ -21335,6 +21315,26 @@
 "skip": null,
 "first_seen": "2026-11-12T21:13+10:00",
 "changed": "2026-11-12T21:13+10:00"
+},
+{
+"store": "evo",
+"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Pack",
+"price": 10.0,
+"available": true,
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-pack/TEYPVBVPEJ3OO3PT4MJWQB2J",
+"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/GYFFZKZUBWCVZ4MJA7OL7UVG.jpeg",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "pack",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 1,
+"key": "pack|Delta Reign",
+"skip": null,
+"first_seen": "2026-11-21T21:03+10:00",
+"changed": "2026-11-21T21:03+10:00"
 },
 {
 "store": "evo",
@@ -25290,7 +25290,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution -  Ascended Heroes Booster Pack",
 "price": 25.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/me02-phantasmal-flames-pokemon-booster-pack-copy",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/shopify_asset_8.webp?v=1771473512",
 "lang": "EN",
@@ -25304,7 +25304,7 @@
 "key": "pack|Ascended Heroes",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-19T21:41+10:00"
+"changed": "2026-11-21T21:03+10:00"
 },
 {
 "store": "raptor",
@@ -25765,7 +25765,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mega Emboar ex Box",
 "price": 120.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-ascended-heroes-mega-emboar-ex-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/P11436_ME02pt5_3D_Mega_ex_Box_MEmboar_Left_EN-1024x913.jpg?v=1766111027",
 "lang": "EN",
@@ -25779,7 +25779,7 @@
 "key": "other|Ascended Heroes Mega Emboar ex Box",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-21T21:03+10:00"
 },
 {
 "store": "raptor",

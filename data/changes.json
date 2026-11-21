@@ -1,6 +1,62 @@
 {
-"updated": "2026-11-21T12:16+10:00",
+"updated": "2026-11-21T21:03+10:00",
 "events": [
+{
+"time": "2026-11-21T21:03+10:00",
+"store": "misty",
+"key": "box|Base Set",
+"title": "Base Set Booster Box · Unlimited (Blue Wing)",
+"url": "https://mistyscollectables.com.au/sealed/product/base-set-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "sold-out",
+"old": 67999.0
+},
+{
+"time": "2026-11-21T21:03+10:00",
+"store": "evo",
+"key": "pack|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Pack",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-pack/TEYPVBVPEJ3OO3PT4MJWQB2J",
+"category": "pack",
+"lang": "EN",
+"type": "new",
+"new": 10.0,
+"available": true
+},
+{
+"time": "2026-11-21T21:03+10:00",
+"store": "raptor",
+"key": "pack|Ascended Heroes",
+"title": "Pokemon TCG: Mega Evolution -  Ascended Heroes Booster Pack",
+"url": "https://raptorgames.com/products/me02-phantasmal-flames-pokemon-booster-pack-copy",
+"category": "pack",
+"lang": "EN",
+"type": "sold-out",
+"old": 25.0
+},
+{
+"time": "2026-11-21T21:03+10:00",
+"store": "raptor",
+"key": "other|Ascended Heroes Mega Emboar ex Box",
+"title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mega Emboar ex Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-ascended-heroes-mega-emboar-ex-box",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 120.0
+},
+{
+"time": "2026-11-21T21:03+10:00",
+"store": "evo",
+"key": "JP|other|pokemon japanese - ruler of the black flame deck build box",
+"title": "Pokemon Japanese - Ruler of the Black Flame Deck Build Box",
+"url": "https://www.evogames.com.au/product/pokemon-japanese-ruler-of-the-black-flame-deck-build-box/4ESYCNT6BWEAY2X243ERZJGF",
+"category": "other",
+"lang": "JP",
+"type": "removed",
+"old": 100.0
+},
 {
 "time": "2026-11-21T12:16+10:00",
 "store": "misty",
