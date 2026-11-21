@@ -22,7 +22,8 @@
   "en|swsh6|swsh6-82": "n",
   "en|swsh6|swsh6-121": "n",
   "ko|M2a|M2a-068-193": "n",
-  "ko|M2a|M2a-085-193": "n"
+  "ko|M2a|M2a-085-193": "n",
+  "ko|M2a|M2a-184-193": "n"
  },
  "had": {},
  "log": [
@@ -365,7 +366,17 @@
    "name": "Medicham",
    "n": "085/193",
    "set": "MEGA Dream ex (KR)"
+  },
+  {
+   "t": "2026-11-21T00:26:40.162Z",
+   "k": "ko|M2a|M2a-184-193",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Team Rocket's Watchtower",
+   "n": "184/193",
+   "set": "MEGA Dream ex (KR)"
   }
  ],
- "updated": "2026-11-21T00:26:33.825Z"
+ "updated": "2026-11-21T00:26:42.473Z"
 }
