@@ -162,7 +162,8 @@
   "en|sv08|sv08-072": "h",
   "en|sv08|sv08-107": "h",
   "en|sv08|sv08-105": "r",
-  "en|sv08|sv08-038": "r"
+  "en|sv08|sv08-038": "r",
+  "en|sv08|sv08-152": "r"
  },
  "had": {},
  "log": [
@@ -1985,7 +1986,17 @@
    "name": "Gouging Fire",
    "n": "038",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-21T01:59:28.200Z",
+   "k": "en|sv08|sv08-152",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Rufflet",
+   "n": "152",
+   "set": "Surging Sparks"
   }
  ],
- "updated": "2026-11-21T01:59:25.429Z"
+ "updated": "2026-11-21T01:59:29.272Z"
 }
