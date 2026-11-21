@@ -58,7 +58,8 @@
   "en|tot22|tot22-062-172": "n",
   "en|tot23|tot23-071-185": "n",
   "ko|SV8a|SV8a-103-187": "n",
-  "ko|SV8a|SV8a-034-187": "n"
+  "ko|SV8a|SV8a-034-187": "n",
+  "ko|SV8a|SV8a-098-187": "n"
  },
  "had": {},
  "log": [
@@ -801,7 +802,17 @@
    "name": "Feraligatr",
    "n": "034/187",
    "set": "Terastal Festival ex (KR)"
+  },
+  {
+   "t": "2026-11-21T01:23:54.102Z",
+   "k": "ko|SV8a|SV8a-098-187",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Morpeko",
+   "n": "098/187",
+   "set": "Terastal Festival ex (KR)"
   }
  ],
- "updated": "2026-11-21T01:23:21.246Z"
+ "updated": "2026-11-21T01:23:56.550Z"
 }
