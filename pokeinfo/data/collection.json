@@ -142,7 +142,8 @@
   "en|sv02|sv02-114": "n",
   "en|sv02|sv02-149": "n",
   "en|sv02|sv02-076": "h",
-  "en|sv02|sv02-113": "h"
+  "en|sv02|sv02-113": "h",
+  "en|sv02|sv02-119": "r"
  },
  "had": {},
  "log": [
@@ -1755,7 +1756,17 @@
    "name": "Hariyama",
    "n": "113",
    "set": "Paldea Evolved"
+  },
+  {
+   "t": "2026-11-21T01:56:30.744Z",
+   "k": "en|sv02|sv02-119",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Falinks",
+   "n": "119",
+   "set": "Paldea Evolved"
   }
  ],
- "updated": "2026-11-21T01:56:26.656Z"
+ "updated": "2026-11-21T01:56:33.104Z"
 }
