@@ -1,0 +1,608 @@
+{
+ "id": "x-pulse-of-the-frontier",
+ "name": "Pulse of the Frontier",
+ "name_en": "Pulse of the Frontier",
+ "date": "2009-03-06",
+ "official": 100,
+ "logo": "img/logos/ja/x-pulse-of-the-frontier.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/100",
+   "name": "Bulbasaur",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "002/100",
+   "name": "Ivysaur",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "003/100",
+   "name": "Venusaur",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "004/100",
+   "name": "Butterfree FB",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "005/100",
+   "name": "Paras",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "006/100",
+   "name": "Parasect",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "007/100",
+   "name": "Pinsir",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "008/100",
+   "name": "Yanma",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "009/100",
+   "name": "Yanma",
+   "v": "h",
+   "r": "U"
+  },
+  {
+   "n": "010/100",
+   "name": "Yanmega",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "011/100",
+   "name": "Surskit",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "012/100",
+   "name": "Masquerain",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "013/100",
+   "name": "Shroomish",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "014/100",
+   "name": "Nincada",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "015/100",
+   "name": "Ninjask",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "016/100",
+   "name": "Shedinja",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "017/100",
+   "name": "Magmar",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "018/100",
+   "name": "Magmortar",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "019/100",
+   "name": "Blaziken FB",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "020/100",
+   "name": "Blaziken FB LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "021/100",
+   "name": "Numel",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "022/100",
+   "name": "Camerupt",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "023/100",
+   "name": "Seel",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "024/100",
+   "name": "Dewgong",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "025/100",
+   "name": "Goldeen",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "026/100",
+   "name": "Seaking",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "027/100",
+   "name": "Mudkip",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "028/100",
+   "name": "Marshtomp",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "029/100",
+   "name": "Swampert",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "030/100",
+   "name": "Wailmer",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "031/100",
+   "name": "Wailord",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "032/100",
+   "name": "Feebas",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "033/100",
+   "name": "Milotic",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "034/100",
+   "name": "Milotic",
+   "v": "h",
+   "r": "U"
+  },
+  {
+   "n": "035/100",
+   "name": "Empoleon FB",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "036/100",
+   "name": "Plusle",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "037/100",
+   "name": "Minun",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "038/100",
+   "name": "Electivire FB",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "039/100",
+   "name": "Electivire FB LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "040/100",
+   "name": "Mime Jr.",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "041/100",
+   "name": "Mr. Mime",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "042/100",
+   "name": "Meditite",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "043/100",
+   "name": "Medicham",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "044/100",
+   "name": "Lunatone",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "045/100",
+   "name": "Solrock",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "046/100",
+   "name": "Baltoy",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "047/100",
+   "name": "Claydol",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "048/100",
+   "name": "Chingling",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "049/100",
+   "name": "Chimecho",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "050/100",
+   "name": "Drifblim FB",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "051/100",
+   "name": "Dusknoir FB",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "052/100",
+   "name": "Sandshrew",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "053/100",
+   "name": "Sandslash",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "054/100",
+   "name": "Mankey",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "055/100",
+   "name": "Primeape",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "056/100",
+   "name": "Rhyhorn",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "057/100",
+   "name": "Rhydon",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "058/100",
+   "name": "Rhyperior",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "059/100",
+   "name": "Breloom",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "060/100",
+   "name": "Relicanth",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "061/100",
+   "name": "Relicanth",
+   "v": "h",
+   "r": "U"
+  },
+  {
+   "n": "062/100",
+   "name": "Murkrow",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "063/100",
+   "name": "Honchkrow",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "064/100",
+   "name": "Absol G",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "065/100",
+   "name": "Absol G LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "066/100",
+   "name": "Skarmory",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "067/100",
+   "name": "Mawile",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "068/100",
+   "name": "Beldum",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "069/100",
+   "name": "Metang",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "070/100",
+   "name": "Metagross",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "071/100",
+   "name": "Doduo",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "072/100",
+   "name": "Dodrio",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "073/100",
+   "name": "Dragonite FB",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "074/100",
+   "name": "Whismur",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "075/100",
+   "name": "Loudred",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "076/100",
+   "name": "Exploud",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "077/100",
+   "name": "Spinda",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "078/100",
+   "name": "Rayquaza C",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "079/100",
+   "name": "Rayquaza C LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "080/100",
+   "name": "Staraptor FB",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "081/100",
+   "name": "Staraptor FB LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "082/100",
+   "name": "Chatot G",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "083/100",
+   "name": "Gible",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "084/100",
+   "name": "Gabite",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "085/100",
+   "name": "Garchomp",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "086/100",
+   "name": "Lickilicky C",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "087/100",
+   "name": "Regigigas FB",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "088/100",
+   "name": "VS Seeker",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "089/100",
+   "name": "Night Teleporter",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "090/100",
+   "name": "Cyrus's Initiative",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "091/100",
+   "name": "Palmer's Contribution",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "092/100",
+   "name": "Cynthia's Guidance",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "093/100",
+   "name": "Champion's Room",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "094/100",
+   "name": "Battle Tower",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "095/100",
+   "name": "SP Energy",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "096/100",
+   "name": "Darkness Energy",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "097/100",
+   "name": "Metal Energy",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "098/100",
+   "name": "Moltres",
+   "v": "h"
+  },
+  {
+   "n": "099/100",
+   "name": "Articuno",
+   "v": "h"
+  },
+  {
+   "n": "100/100",
+   "name": "Zapdos",
+   "v": "h"
+  }
+ ]
+}
