@@ -12,297 +12,356 @@
   {
    "n": "001/054",
    "name": "Tangela",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "002/054",
    "name": "Tangrowth",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "003/054",
    "name": "Hoppip",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "004/054",
    "name": "Skiploom",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "005/054",
    "name": "Jumpluff",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "006/054",
    "name": "Yanma",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "007/054",
    "name": "Yanmega",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "008/054",
    "name": "Yanmega BREAK",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "009/054",
    "name": "Larvesta",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "010/054",
    "name": "Volcarona",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "011/054",
    "name": "Chimchar",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "012/054",
    "name": "Monferno",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "013/054",
    "name": "Infernape",
-   "v": "n"
+   "r": "R",
+   "v": "h"
   },
   {
    "n": "014/054",
    "name": "Mantine",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "015/054",
    "name": "Bergmite",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "016/054",
    "name": "Avalugg",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "017/054",
    "name": "Mareep",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "018/054",
    "name": "Flaaffy",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "019/054",
    "name": "Ampharos",
-   "v": "n"
+   "r": "R",
+   "v": "h"
   },
   {
    "n": "020/054",
    "name": "Nidoran ♂",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "021/054",
    "name": "Nidorino",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "022/054",
    "name": "Nidoking",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "023/054",
    "name": "Hoopa",
-   "v": "n"
+   "r": "R",
+   "v": "h"
   },
   {
    "n": "024/054",
    "name": "Mankey",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "025/054",
    "name": "Primeape",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "026/054",
    "name": "Anorith",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "027/054",
    "name": "Armaldo",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "028/054",
    "name": "Sneasel",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "029/054",
    "name": "Weavile",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "030/054",
    "name": "Spiritomb",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "031/054",
    "name": "Pawniard",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "032/054",
    "name": "Bisharp",
-   "v": "n"
+   "r": "R",
+   "v": "h"
   },
   {
    "n": "033/054",
    "name": "Yveltal",
-   "v": "n"
+   "r": "R",
+   "v": "h"
   },
   {
    "n": "034/054",
    "name": "Yveltal BREAK",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "035/054",
    "name": "Magearna-EX",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "036/054",
    "name": "Marill",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "037/054",
    "name": "Azumarill",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "038/054",
    "name": "Gardevoir-EX",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "039/054",
    "name": "M Gardevoir-EX",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "040/054",
    "name": "Deino",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "041/054",
    "name": "Zweilous",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "042/054",
    "name": "Hydreigon",
-   "v": "n"
+   "r": "R",
+   "v": "h"
   },
   {
    "n": "043/054",
    "name": "Hydreigon BREAK",
-   "v": "n"
+   "r": "RR",
+   "v": "h"
   },
   {
    "n": "044/054",
    "name": "Meowth",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "045/054",
    "name": "Persian",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "046/054",
    "name": "Rufflet",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "047/054",
    "name": "Braviary",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "048/054",
    "name": "Hawlucha",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "049/054",
    "name": "Claw Fossil Anorith",
+   "r": "C",
    "v": "n"
   },
   {
    "n": "050/054",
    "name": "Special Charge",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "051/054",
    "name": "Greedy Dice",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "052/054",
    "name": "Gardevoir Spirit Link",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "053/054",
    "name": "Ninja Boy",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "054/054",
    "name": "Pokémon Ranger",
+   "r": "U",
    "v": "n"
   },
   {
    "n": "055/054",
    "name": "Magearna-EX",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "056/054",
    "name": "Gardevoir-EX",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "057/054",
    "name": "M Gardevoir-EX",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "058/054",
    "name": "Pokémon Ranger",
-   "v": "n"
+   "r": "SR",
+   "v": "h"
   },
   {
    "n": "059/054",
    "name": "Gardevoir-EX",
-   "v": "n"
+   "r": "UR",
+   "v": "h"
   }
  ]
 }
