@@ -1,6 +1,6 @@
 // PokeInfo service worker: always try the network first so prices stay fresh,
 // and fall back to the last saved copy when the phone is offline.
-const CACHE = "pokeinfo-v25";
+const CACHE = "pokeinfo-v26";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {

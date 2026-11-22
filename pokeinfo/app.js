@@ -969,3 +969,15 @@ if ("serviceWorker" in navigator) window.addEventListener("load", () => navigato
 status(token() ? (queue.length ? "busy" : "ok") : (queue.length ? "local" : "local0"));
 render();
 refreshFromRemote();
+
+// ---- colours: three cozy palettes, remembered on this device
+(function palettes() {
+  const HEAD = { cottage: "#34503F", cocoa: "#5A3A2B", dusk: "#2D3A5C" };
+  const apply = (p) => {
+    if (p === "cottage") delete document.documentElement.dataset.palette; else document.documentElement.dataset.palette = p;
+    document.querySelectorAll("[data-pal]").forEach((b) => b.setAttribute("aria-pressed", b.dataset.pal === p));
+    document.querySelector('meta[name="theme-color"]')?.setAttribute("content", HEAD[p]);
+  };
+  apply(store.get("pi-palette", "cottage"));
+  document.querySelectorAll("[data-pal]").forEach((b) => b.addEventListener("click", () => { store.set("pi-palette", b.dataset.pal); apply(b.dataset.pal); }));
+})();
