@@ -1,0 +1,116 @@
+{
+ "id": "x-starter-set-tapu-bulu-gx",
+ "name": "Starter Set Tapu Bulu GX",
+ "name_en": "Starter Set Tapu Bulu GX",
+ "date": "2017-03-17",
+ "official": 21,
+ "logo": "img/logos/ja/x-starter-set-tapu-bulu-gx.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/021",
+   "name": "Bellsprout",
+   "v": "n"
+  },
+  {
+   "n": "002/021",
+   "name": "Weepinbell",
+   "v": "n"
+  },
+  {
+   "n": "003/021",
+   "name": "Grubbin",
+   "v": "n"
+  },
+  {
+   "n": "004/021",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "005/021",
+   "name": "Tapu Bulu-GX",
+   "v": "h"
+  },
+  {
+   "n": "006/021",
+   "name": "Helioptile",
+   "v": "n"
+  },
+  {
+   "n": "007/021",
+   "name": "Charjabug",
+   "v": "n"
+  },
+  {
+   "n": "008/021",
+   "name": "Vikavolt",
+   "v": "n"
+  },
+  {
+   "n": "009/021",
+   "name": "Tapu Koko",
+   "v": "n"
+  },
+  {
+   "n": "010/021",
+   "name": "Chansey",
+   "v": "n"
+  },
+  {
+   "n": "011/021",
+   "name": "Energy Recycler",
+   "v": "n"
+  },
+  {
+   "n": "012/021",
+   "name": "Nest Ball",
+   "v": "n"
+  },
+  {
+   "n": "013/021",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "014/021",
+   "name": "Rare Candy",
+   "v": "n"
+  },
+  {
+   "n": "015/021",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "016/021",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "017/021",
+   "name": "Ilima",
+   "v": "n"
+  },
+  {
+   "n": "018/021",
+   "name": "Hau",
+   "v": "n"
+  },
+  {
+   "n": "019/021",
+   "name": "Hala",
+   "v": "n"
+  },
+  {
+   "n": "020/021",
+   "name": "Sophocles",
+   "v": "n"
+  },
+  {
+   "n": "021/021",
+   "name": "Lillie",
+   "v": "n"
+  }
+ ]
+}
