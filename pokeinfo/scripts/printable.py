@@ -20,14 +20,18 @@ for g in order:
         sym = x.get("symbol") or ""
         if sym.startswith("http"):   # save a local copy so the PDF printer doesn't have to wait on the network
             local = ROOT / "print" / "sym" / (x["id"] + Path(sym).suffix)
-            try:
-                if not local.exists():
+            got = ""
+            for url in (sym, re.sub(r"\.webp$", ".png", sym)):
+                try:
+                    local = ROOT / "print" / "sym" / (x["id"] + Path(url).suffix)
                     local.parent.mkdir(parents=True, exist_ok=True)
-                    req = urllib.request.Request(sym, headers={"User-Agent": "PokeInfo"})
+                    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 PokeInfo"})
                     local.write_bytes(urllib.request.urlopen(req, timeout=30).read())
-                sym = local.as_uri()
-            except Exception:  # noqa: BLE001
-                sym = ""
+                    got = local.as_uri()
+                    break
+                except Exception as e:  # noqa: BLE001
+                    print("symbol failed", url, e)
+            sym = got
         elif sym:
             sym = (ROOT / sym).as_uri()
         img = f'<img src="{html.escape(sym)}" alt="">' if sym else ""
