@@ -3,6 +3,7 @@ box for the page number of its cover art. Writes pokeinfo/print/cover-art-pages.
 import html
 import json
 import re
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -17,7 +18,17 @@ for g in order:
     rows.append(f'<tr class="g"><td colspan="4">{html.escape(g)}</td></tr>')
     for x in groups[g]:
         sym = x.get("symbol") or ""
-        if sym and not sym.startswith("http"):
+        if sym.startswith("http"):   # save a local copy so the PDF printer doesn't have to wait on the network
+            local = ROOT / "print" / "sym" / (x["id"] + Path(sym).suffix)
+            try:
+                if not local.exists():
+                    local.parent.mkdir(parents=True, exist_ok=True)
+                    req = urllib.request.Request(sym, headers={"User-Agent": "PokeInfo"})
+                    local.write_bytes(urllib.request.urlopen(req, timeout=30).read())
+                sym = local.as_uri()
+            except Exception:  # noqa: BLE001
+                sym = ""
+        elif sym:
             sym = (ROOT / sym).as_uri()
         img = f'<img src="{html.escape(sym)}" alt="">' if sym else ""
         rows.append(f'<tr><td class="p"></td><td class="s">{img}</td><td>{html.escape(x["name"])}</td><td class="c">{html.escape(x.get("abbr") or x["id"])}</td></tr>')
