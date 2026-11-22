@@ -1,0 +1,36 @@
+{
+ "id": "SM0",
+ "name": "ピカチュウと新しい仲間たち",
+ "name_en": "Pikachu's New Friends",
+ "serie": "サン&ムーン",
+ "serie_id": "SM",
+ "date": "2016-11-18",
+ "official": 4,
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/004",
+   "name": "Rowlet",
+   "r": "PR",
+   "v": "h"
+  },
+  {
+   "n": "002/004",
+   "name": "Litten",
+   "r": "PR",
+   "v": "h"
+  },
+  {
+   "n": "003/004",
+   "name": "Popplio",
+   "r": "PR",
+   "v": "h"
+  },
+  {
+   "n": "004/004",
+   "name": "Pikachu",
+   "r": "PR",
+   "v": "h"
+  }
+ ]
+}
