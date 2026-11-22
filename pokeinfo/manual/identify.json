@@ -1,0 +1,54 @@
+{
+ "en": {
+  "mfb": [
+   "No set symbol is printed on these cards."
+  ],
+  "xya": [
+   "Same yellow A symbol as Hidden Fates Shiny Vault, but here it's on the RIGHT of the card.",
+   "Numbers end in a (24a, 28a, 54a...)."
+  ],
+  "sma": [
+   "Yellow A symbol on the LEFT of the card. Yellow A Alternate cards have the same symbol on the right.",
+   "Numbers start with SV (SV1–SV94)."
+  ],
+  "rc": [
+   "No set symbol of its own: the number starts with RC (RC1/RC25 to RC25/RC25)."
+  ],
+  "exu": [
+   "The number is a letter or sign instead of a number: A/28 to Z/28, then !/28 and ?/28."
+  ],
+  "pkw26": [
+   "Pikachu pumpkin stamp plus the Play! Pokémon logo.",
+   "Only 3 cards: Zubat 049/086, Golbat 050/086 and Crobat 051/086 (Chaos Rising), silver border, reverse holo.",
+   "Given out at Play! Pokémon League events, October 2026."
+  ],
+  "pkw25": [
+   "Pikachu pumpkin stamp plus the Play! Pokémon logo.",
+   "Only 1 card: Spiritomb 087/132 (Mega Evolution), silver border, reverse holo.",
+   "Given out at Play! Pokémon League events, October 2025."
+  ],
+  "tot24": [
+   "Pikachu pumpkin stamp only (no Play! Pokémon logo). Silver border.",
+   "Set codes are later Scarlet & Violet ones: OBF, MEW, PAR, PAF, TEF or TWM.",
+   "The 10 holos are Cosmos holo (swirling bubbles over the art and the border).",
+   "Came in orange BOOster bundles with Umbreon art."
+  ],
+  "tot23": [
+   "Pikachu pumpkin stamp only. Silver border.",
+   "Set symbol is a Sword & Shield one, or the set code is SVI or PAL.",
+   "The 10 holos are mirror/line holo, not Cosmos.",
+   "Came in green BOOster bundles."
+  ],
+  "tot22": [
+   "Pikachu pumpkin stamp only. Yellow border: the only Trick or Trade year with yellow borders.",
+   "Every card has a Sword & Shield set symbol.",
+   "Came in orange BOOster bundles with Gengar art."
+  ],
+  "jumbo": [
+   "Oversized (jumbo) cards."
+  ],
+  "miscp": [
+   "One card: Ancient Mew, given out with Pokémon: The Movie 2000."
+  ]
+ }
+}

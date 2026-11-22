@@ -529,6 +529,7 @@ async function renderSet(id) {
     </details>
     <p class="note setnote">${cards.length} cards${esc(official)}${rev ? `. ${rev} also come as a reverse holo` : ""}.${hadN ? ` You've traded or sold ${hadN}.` : ""}</p>
     ${set.note ? `<p class="note">${esc(set.note)}</p>` : ""}
+    ${meta.ident?.length ? `<div class="ident"><b>How to tell these cards apart</b><ul>${meta.ident.map((t) => `<li>${esc(t)}</li>`).join("")}</ul></div>` : ""}
     ${showTypes ? `<div class="pillbar"><ul class="types" aria-label="Filter by rarity">
       <li><button type="button" data-type="" aria-pressed="${!S.type}">All</button></li>
       ${typeList.map(([t, o]) => { const x = rarity(t); return `<li><button type="button" data-type="${esc(t)}" aria-pressed="${S.type === t}" title="${o.n} cards${o.have ? `, ${o.have} ticked` : ""}">${x?.sym ? rarSym(x.sym) + " " : ""}${x && x.code && S.lang !== "en" ? `${esc(x.code)} · ` : ""}${esc(x ? x.en : t)} <small>${o.have ? `${o.have}/` : ""}${o.n}</small></button></li>`; }).join("")}

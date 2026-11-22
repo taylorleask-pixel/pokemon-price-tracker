@@ -52,7 +52,7 @@ def card_row(lang, brief):
     c = get(f"/{lang}/cards/{brief['id']}") or {}
     v = c.get("variants") or {}
     rarity = c.get("rarity")
-    row = {"id": brief["id"], "n": brief.get("localId", ""), "name": brief.get("name", ""),
+    row = {"id": brief["id"], "n": brief.get("localId", ""), "name": brief.get("name", "").replace("%3F", "?").replace("%21", "!"),
            "img": brief.get("image"), "r": None if rarity in (None, "None", "") else rarity,
            "cat": c.get("category"),
            "v": "".join(k for k, f in (("n", "normal"), ("r", "reverse"), ("h", "holo"), ("f", "firstEdition")) if v.get(f))}
@@ -499,6 +499,13 @@ def build_lang(lang):
     fill_logos(lang, sets)
     add_art(lang, sets)
     link_stamped(lang, sets)
+    try:   # how to tell a set's cards apart (manual/identify.json), shown on its page
+        ident = json.loads((MANUAL / "identify.json").read_text(encoding="utf-8")).get(lang, {})
+    except Exception:  # noqa: BLE001
+        ident = {}
+    for x in sets:
+        if ident.get(x["id"]):
+            x["ident"] = ident[x["id"]]
     try:   # pull rates per rarity (manual/hit-rates.json), shown in the set overview
         hits = json.loads((MANUAL / "hit-rates.json").read_text(encoding="utf-8")).get(lang, {})
     except Exception:  # noqa: BLE001

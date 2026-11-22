@@ -949,7 +949,8 @@
    "logo": "img/logos/en/2011bw.webp"
   },
   "ex5.5": {
-   "logo": "img/logos/en/ex5.5.webp"
+   "logo": "img/logos/en/ex5.5.webp",
+   "symbol": "img/symbols/en/ex5.5.webp"
   },
   "tk-dp-m": {
    "logo": "img/logos/en/tk-dp-m.webp",
@@ -1008,7 +1009,8 @@
    "symbol": "img/symbols/en/2022swsh.webp"
   },
   "mcd26": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/mcd26.webp"
   },
   "rc": {
    "logo": "img/logos/en/rc.webp"
@@ -1034,7 +1036,8 @@
    "logo": "img/logos/en/mfb.webp"
   },
   "mep": {
-   "logo": "img/logos/en/mep.webp"
+   "logo": "img/logos/en/mep.webp",
+   "symbol": "img/symbols/en/mep.webp"
   },
   "30th-c": {
    "logo": "img/logos/en/30th-c.webp",
@@ -1180,6 +1183,15 @@
   },
   "fut2020": {
    "symbol": "img/symbols/en/fut2020.webp"
+  },
+  "mee": {
+   "symbol": "img/symbols/en/mee.webp"
+  },
+  "wp": {
+   "symbol": "img/symbols/en/wp.webp"
+  },
+  "xya": {
+   "symbol": "img/symbols/en/xya.webp"
   }
  },
  "ko": {
