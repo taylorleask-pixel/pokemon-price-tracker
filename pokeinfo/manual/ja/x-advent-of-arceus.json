@@ -1,0 +1,551 @@
+{
+ "id": "x-advent-of-arceus",
+ "name": "Advent of Arceus",
+ "name_en": "Advent of Arceus",
+ "date": "2009-07-08",
+ "official": 90,
+ "logo": "img/logos/ja/x-advent-of-arceus.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/090",
+   "name": "Beedrill G",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "002/090",
+   "name": "Tangela",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "003/090",
+   "name": "Tangrowth",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "004/090",
+   "name": "Tangrowth LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "005/090",
+   "name": "Treecko",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "006/090",
+   "name": "Grovyle",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "007/090",
+   "name": "Sceptile",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "008/090",
+   "name": "Burmy Plant Cloak",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "009/090",
+   "name": "Burmy Sandy Cloak",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "010/090",
+   "name": "Burmy Trash Cloak",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "011/090",
+   "name": "Wormadam Plant Cloak",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "012/090",
+   "name": "Mothim",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "013/090",
+   "name": "Cherubi",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "014/090",
+   "name": "Cherrim",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "015/090",
+   "name": "Charmander",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "016/090",
+   "name": "Charmeleon",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "017/090",
+   "name": "Charizard",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "018/090",
+   "name": "Ponyta",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "019/090",
+   "name": "Ponyta",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "020/090",
+   "name": "Rapidash",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "021/090",
+   "name": "Heatran",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "022/090",
+   "name": "Omanyte",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "023/090",
+   "name": "Omastar",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "024/090",
+   "name": "Wingull",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "025/090",
+   "name": "Pelipper",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "026/090",
+   "name": "Snorunt",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "027/090",
+   "name": "Glalie",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "028/090",
+   "name": "Froslass",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "029/090",
+   "name": "Arceus",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "030/090",
+   "name": "Pichu",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "031/090",
+   "name": "Pikachu",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "032/090",
+   "name": "Raichu",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "033/090",
+   "name": "Zapdos G",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "034/090",
+   "name": "Electrike",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "035/090",
+   "name": "Manectric",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "036/090",
+   "name": "Shinx",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "037/090",
+   "name": "Shinx",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "038/090",
+   "name": "Luxio",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "039/090",
+   "name": "Luxray",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "040/090",
+   "name": "Gastly",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "041/090",
+   "name": "Haunter",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "042/090",
+   "name": "Gengar",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "043/090",
+   "name": "Gengar LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "044/090",
+   "name": "Gulpin",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "045/090",
+   "name": "Swalot",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "046/090",
+   "name": "Geodude",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "047/090",
+   "name": "Graveler",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "048/090",
+   "name": "Golem",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "049/090",
+   "name": "Kabuto",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "050/090",
+   "name": "Kabutops",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "051/090",
+   "name": "Aerodactyl",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "052/090",
+   "name": "Makuhita",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "053/090",
+   "name": "Hariyama",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "054/090",
+   "name": "Nosepass",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "055/090",
+   "name": "Wormadam Sandy Cloak",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "056/090",
+   "name": "Croagunk",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "057/090",
+   "name": "Toxicroak",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "058/090",
+   "name": "Arceus",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "059/090",
+   "name": "Spiritomb",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "060/090",
+   "name": "Arceus",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "061/090",
+   "name": "Wormadam Trash Cloak",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "062/090",
+   "name": "Bronzor",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "063/090",
+   "name": "Bronzong",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "064/090",
+   "name": "Probopass",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "065/090",
+   "name": "Arceus",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "066/090",
+   "name": "Rattata",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "067/090",
+   "name": "Raticate",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "068/090",
+   "name": "Bagon",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "069/090",
+   "name": "Bagon",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "070/090",
+   "name": "Shelgon",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "071/090",
+   "name": "Salamence",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "072/090",
+   "name": "Salamence LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "073/090",
+   "name": "Buneary",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "074/090",
+   "name": "Lopunny",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "075/090",
+   "name": "Porygon-Z G",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "076/090",
+   "name": "Arceus",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "077/090",
+   "name": "Arceus LV.X",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "078/090",
+   "name": "Energy Search",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "079/090",
+   "name": "Beginning Door",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "080/090",
+   "name": "Pokémon Rescue",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "081/090",
+   "name": "Helix Fossil",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "082/090",
+   "name": "Dome Fossil",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "083/090",
+   "name": "Old Amber",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "084/090",
+   "name": "Lucky Egg",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "085/090",
+   "name": "Expert Belt",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "086/090",
+   "name": "Bench Shield",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "087/090",
+   "name": "Professor Oak's Visit",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "088/090",
+   "name": "Department Girl",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "089/090",
+   "name": "Bebe's Search",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "090/090",
+   "name": "Ultimate Zone",
+   "v": "n",
+   "r": "U"
+  }
+ ]
+}
