@@ -1,0 +1,96 @@
+{
+ "id": "x-arceus-lv-x-lightning-and-psychic",
+ "name": "Arceus Lv X Lightning and Psychic",
+ "name_en": "Arceus Lv X Lightning and Psychic",
+ "date": "2009-07-08",
+ "official": 17,
+ "logo": "img/logos/ja/x-arceus-lv-x-lightning-and-psychic.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Lightning, Psychic and Metal Energy.",
+ "cards": [
+  {
+   "n": "001/017",
+   "name": "Electrike",
+   "v": "n"
+  },
+  {
+   "n": "002/017",
+   "name": "Manectric",
+   "v": "h"
+  },
+  {
+   "n": "003/017",
+   "name": "Arceus",
+   "v": "h"
+  },
+  {
+   "n": "004/017",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "005/017",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "006/017",
+   "name": "Gengar",
+   "v": "h"
+  },
+  {
+   "n": "007/017",
+   "name": "Gulpin",
+   "v": "n"
+  },
+  {
+   "n": "008/017",
+   "name": "Arceus",
+   "v": "h"
+  },
+  {
+   "n": "009/017",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "010/017",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "011/017",
+   "name": "Arceus LV.X",
+   "v": "h"
+  },
+  {
+   "n": "012/017",
+   "name": "Potion",
+   "v": "n"
+  },
+  {
+   "n": "013/017",
+   "name": "Beginning Door",
+   "v": "n"
+  },
+  {
+   "n": "014/017",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "015/017",
+   "name": "Poké Ball",
+   "v": "n"
+  },
+  {
+   "n": "016/017",
+   "name": "Professor Rowan",
+   "v": "n"
+  },
+  {
+   "n": "017/017",
+   "name": "Mom's Kindness",
+   "v": "n"
+  }
+ ]
+}

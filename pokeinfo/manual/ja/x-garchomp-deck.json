@@ -1,0 +1,101 @@
+{
+ "id": "x-garchomp-deck",
+ "name": "Garchomp Deck",
+ "name_en": "Garchomp Deck",
+ "date": "2012-03-16",
+ "official": 15,
+ "logo": "img/logos/ja/x-garchomp-deck.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Water, Lightning and Fighting Energy.",
+ "cards": [
+  {
+   "n": "001/015",
+   "name": "Magikarp",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "002/015",
+   "name": "Gyarados",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "003/015",
+   "name": "Electrike",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "004/015",
+   "name": "Manectric",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "005/015",
+   "name": "Gible",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "006/015",
+   "name": "Gabite",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "007/015",
+   "name": "Garchomp",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "008/015",
+   "name": "Swablu",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "009/015",
+   "name": "Minccino",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "010/015",
+   "name": "Ultra Ball",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "011/015",
+   "name": "Rare Candy",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "012/015",
+   "name": "Giant Cape",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "013/015",
+   "name": "Professor Juniper",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "014/015",
+   "name": "Cheren",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "015/015",
+   "name": "Blend Energy WLFM",
+   "v": "h",
+   "r": "U"
+  }
+ ]
+}

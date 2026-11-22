@@ -1,0 +1,107 @@
+{
+ "id": "x-tyranitar-darkness",
+ "name": "Tyranitar Darkness",
+ "name_en": "Tyranitar Darkness",
+ "date": "2010-02-11",
+ "official": 19,
+ "logo": "img/logos/ja/x-tyranitar-darkness.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Fighting and Darkness Energy.",
+ "cards": [
+  {
+   "n": "001/019",
+   "name": "Hitmonlee",
+   "v": "n"
+  },
+  {
+   "n": "002/019",
+   "name": "Hitmonchan",
+   "v": "n"
+  },
+  {
+   "n": "003/019",
+   "name": "Larvitar",
+   "v": "n"
+  },
+  {
+   "n": "004/019",
+   "name": "Pupitar",
+   "v": "n"
+  },
+  {
+   "n": "005/019",
+   "name": "Murkrow",
+   "v": "n"
+  },
+  {
+   "n": "006/019",
+   "name": "Honchkrow",
+   "v": "n"
+  },
+  {
+   "n": "007/019",
+   "name": "Houndour",
+   "v": "n"
+  },
+  {
+   "n": "008/019",
+   "name": "Houndoom",
+   "v": "n"
+  },
+  {
+   "n": "009/019",
+   "name": "Tyranitar",
+   "v": "nh",
+   "r": "R"
+  },
+  {
+   "n": "010/019",
+   "name": "Stunky",
+   "v": "n"
+  },
+  {
+   "n": "011/019",
+   "name": "Skuntank",
+   "v": "n"
+  },
+  {
+   "n": "012/019",
+   "name": "Energy Exchanger",
+   "v": "n"
+  },
+  {
+   "n": "013/019",
+   "name": "Pokémon Reversal",
+   "v": "n"
+  },
+  {
+   "n": "014/019",
+   "name": "Professor Elm's Training Method",
+   "v": "n"
+  },
+  {
+   "n": "015/019",
+   "name": "Professor Oak's New Theory",
+   "v": "n"
+  },
+  {
+   "n": "016/019",
+   "name": "Pokémon Collector",
+   "v": "n"
+  },
+  {
+   "n": "017/019",
+   "name": "Bill",
+   "v": "n"
+  },
+  {
+   "n": "018/019",
+   "name": "Team Rocket's Trickery",
+   "v": "n"
+  },
+  {
+   "n": "019/019",
+   "name": "Special Darkness Energy",
+   "v": "n"
+  }
+ ]
+}
