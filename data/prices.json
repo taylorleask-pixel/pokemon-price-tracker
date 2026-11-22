@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22T11:21+10:00",
+"updated": "2026-11-22T21:26+10:00",
 "listings": [
 {
 "store": "misty",
@@ -125,26 +125,6 @@
 "skip": null,
 "first_seen": null,
 "changed": null
-},
-{
-"store": "misty",
-"title": "Ancient Origins Booster Pack (One (1) Assorted)",
-"price": 225.0,
-"available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/ancient-origins-booster-pack-one-1-assorted",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtryv9n008bp7vfqner6zcyn/art-e051a0ff.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "pack",
-"set": "Ancient Origins",
-"year": 2015,
-"product": null,
-"packs": 1,
-"key": "pack|Ancient Origins",
-"skip": null,
-"first_seen": null,
-"changed": "2026-11-12T21:13+10:00"
 },
 {
 "store": "misty",
@@ -937,26 +917,6 @@
 "product": "Knock Out Collection",
 "packs": 2,
 "key": "other|knock out collection suicune",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Lost Origin Booster Box",
-"price": 1250.0,
-"available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/lost-origin-booster-box",
-"image": "https://images.scrydex.com/pokemon/swsh11-s2/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "box",
-"set": "Lost Origin",
-"year": 2022,
-"product": null,
-"packs": 36,
-"key": "box|Lost Origin",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -2660,6 +2620,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "misty",
+"title": "Ancient Origins Booster Pack (One (1) Assorted)",
+"price": 225.0,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/ancient-origins-booster-pack-one-1-assorted",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtryv9n008bp7vfqner6zcyn/art-e051a0ff.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "pack",
+"set": "Ancient Origins",
+"year": 2015,
+"product": null,
+"packs": 1,
+"key": "pack|Ancient Origins",
+"skip": null,
+"first_seen": null,
+"changed": "2026-11-22T21:26+10:00"
 },
 {
 "store": "misty",
@@ -11605,6 +11585,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "misty",
+"title": "Lost Origin Booster Box",
+"price": 1250.0,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/lost-origin-booster-box",
+"image": "https://images.scrydex.com/pokemon/swsh11-s2/large",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Lost Origin",
+"year": 2022,
+"product": null,
+"packs": 36,
+"key": "box|Lost Origin",
+"skip": null,
+"first_seen": null,
+"changed": "2026-11-22T21:26+10:00"
 },
 {
 "store": "misty",
@@ -22242,6 +22242,26 @@
 "changed": "2026-11-06T21:58+10:00"
 },
 {
+"store": "eden",
+"title": "Pokemon - Emeralda Korean Booster Single",
+"price": 7.0,
+"available": true,
+"url": "https://www.edenhunter.com.au/product/pokemon-emeralda-korean-booster-single/XWOVSC4OYHJHHBFNETUENUY2",
+"image": "https://140825015.cdn6.editmysite.com/uploads/1/4/0/8/140825015/IQU7Y2AZIGDDM2UWYTC366PM.jpeg",
+"lang": "KOR",
+"auto_packs": null,
+"variant": null,
+"category": "pack",
+"set": null,
+"year": null,
+"product": null,
+"packs": 1,
+"key": "KOR|pack|pokemon - emeralda korean booster single",
+"skip": null,
+"first_seen": "2026-11-22T21:26+10:00",
+"changed": "2026-11-22T21:26+10:00"
+},
+{
 "store": "sidequest",
 "title": "(Simplified Chinese) Legendary Celebration Pikachu Poké Ball Gift Set",
 "price": 30.0,
@@ -22450,7 +22470,7 @@
 "store": "sidequest",
 "title": "Pokémon TCG 30th Anniversary Celebration - Booster Box (Simplified Chinese)",
 "price": 160.0,
-"available": true,
+"available": false,
 "url": "https://sidequestcards.com.au/products/pokemon-30th-celebration-booster-box-simplified-chinese",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/InjHR6Ex77aLpi1fkHjWpbag6vtIV-aXP7j0nGqU5QpDGV_Syxjg4Ti8tSsiq3b8WpOompgQQ1wFnyWI7K2De2UoRF1_s1l1mdcl0I1N_RXP0nc68gLJaXpCiPyqvRcv79V3bFk1QmNHQ1sKgChajHR5FTTdMZKqKUlq7n15DxxrSCJvzSJJ8rs.jpg?v=1793671942",
 "lang": "SCH",
@@ -22464,7 +22484,7 @@
 "key": "SCH|box|30th Celebration",
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-09T20:29+10:00"
+"changed": "2026-11-22T21:26+10:00"
 },
 {
 "store": "sidequest",
@@ -25080,7 +25100,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Chaos Rising Booster Bundle",
 "price": 80.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/chaos-rising-booster-bundle",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokemon-TCG-Mega-Evolution_Chaos-Rising-Booster-Bundle_EN-697x1024.jpg?v=1778030871",
 "lang": "EN",
@@ -25094,7 +25114,7 @@
 "key": "bundle|Chaos Rising",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-10T13:35+10:00"
+"changed": "2026-11-22T21:26+10:00"
 },
 {
 "store": "raptor",
@@ -32898,6 +32918,26 @@
 },
 {
 "store": "gatekeepers",
+"title": "Venusaur NO. 003 Promo Game Boy Pokemon Japanese MP",
+"price": 220.0,
+"available": true,
+"url": "https://gatekeeperstcg.com/products/venusaur-no-003-promo-game-boy-pokemon-japanese-mp-983494",
+"image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/c10408c4d4cd0751370f440bfd0aec72.jpg?v=1795316482",
+"lang": "JP",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": null,
+"year": null,
+"product": null,
+"packs": null,
+"key": "JP|other|venusaur no. 003 promo game boy pokemon japanese mp",
+"skip": null,
+"first_seen": "2026-11-22T21:26+10:00",
+"changed": "2026-11-22T21:26+10:00"
+},
+{
+"store": "gatekeepers",
 "title": "Dark Crobat NO. 169 Holo Rare Neo Destiny Pokemon Japanese LP",
 "price": 60.0,
 "available": true,
@@ -32940,7 +32980,7 @@
 "store": "gatekeepers",
 "title": "Detective Pikachu 098/SV-P Scarlet & Violet Pokemon Japanese NM",
 "price": 290.0,
-"available": true,
+"available": false,
 "url": "https://gatekeeperstcg.com/products/detective-pikachu-098sv-p-scarlet-violet-pokemon-japanese-nm-786504",
 "image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/a447793cddf6ef4cb4bfba58d8502675.jpg?v=1794464375",
 "lang": "JP",
@@ -32954,7 +32994,7 @@
 "key": "JP|other|detective pikachu 098 sv-p scarlet and violet pokemon japanese nm",
 "skip": null,
 "first_seen": "2026-11-12T21:13+10:00",
-"changed": "2026-11-12T21:13+10:00"
+"changed": "2026-11-22T21:26+10:00"
 },
 {
 "store": "gatekeepers",

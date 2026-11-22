@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:21+10:00",
+ "updated": "2026-11-22T21:26+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -8,13 +8,13 @@
   },
   "evo": {
    "ok": true,
-   "found": 64,
+   "found": 63,
    "kept": 42
   },
   "eden": {
    "ok": true,
-   "found": 70,
-   "kept": 39
+   "found": 71,
+   "kept": 40
   },
   "sidequest": {
    "ok": true,
@@ -43,8 +43,8 @@
   },
   "gatekeepers": {
    "ok": true,
-   "found": 72,
-   "kept": 24
+   "found": 168,
+   "kept": 25
   }
  }
 }
