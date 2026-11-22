@@ -952,46 +952,60 @@
    "logo": "img/logos/en/ex5.5.webp"
   },
   "tk-dp-m": {
-   "logo": "img/logos/en/tk-dp-m.webp"
+   "logo": "img/logos/en/tk-dp-m.webp",
+   "symbol": "img/symbols/en/tk-dp-m.webp"
   },
   "tk-dp-l": {
-   "logo": "img/logos/en/tk-dp-m.webp"
+   "logo": "img/logos/en/tk-dp-m.webp",
+   "symbol": "img/symbols/en/tk-dp-l.webp"
   },
   "tk-bw-z": {
-   "logo": "img/logos/en/tk-bw-z.webp"
+   "logo": "img/logos/en/tk-bw-z.webp",
+   "symbol": "img/symbols/en/tk-bw-z.webp"
   },
   "tk-bw-e": {
-   "logo": "img/logos/en/tk-bw-z.webp"
+   "logo": "img/logos/en/tk-bw-z.webp",
+   "symbol": "img/symbols/en/tk-bw-e.webp"
   },
   "2011bw": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2011bw.webp"
   },
   "2012bw": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2012bw.webp"
   },
   "2014xy": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2014xy.webp"
   },
   "2015xy": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2015xy.webp"
   },
   "2016xy": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2016xy.webp"
   },
   "2017sm": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2017sm.webp"
   },
   "2018sm": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2018sm.webp"
   },
   "2019sm": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2019sm.webp"
   },
   "2021swsh": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2021swsh.webp"
   },
   "2022swsh": {
-   "logo": "img/logos/en/2011bw.webp"
+   "logo": "img/logos/en/2011bw.webp",
+   "symbol": "img/symbols/en/2022swsh.webp"
   },
   "mcd26": {
    "logo": "img/logos/en/2011bw.webp"
@@ -1000,10 +1014,12 @@
    "logo": "img/logos/en/rc.webp"
   },
   "tk-sm-r": {
-   "logo": "img/logos/en/tk-sm-r.webp"
+   "logo": "img/logos/en/tk-sm-r.webp",
+   "symbol": "img/symbols/en/tk-sm-r.webp"
   },
   "tk-sm-l": {
-   "logo": "img/logos/en/tk-sm-r.webp"
+   "logo": "img/logos/en/tk-sm-r.webp",
+   "symbol": "img/symbols/en/tk-sm-l.webp"
   },
   "tot22": {
    "logo": "img/logos/en/tot22.webp"
@@ -1021,7 +1037,149 @@
    "logo": "img/logos/en/mep.webp"
   },
   "30th-c": {
-   "logo": "img/logos/en/30th-c.webp"
+   "logo": "img/logos/en/30th-c.webp",
+   "symbol": "img/symbols/en/30th-c.webp"
+  },
+  "sve": {
+   "symbol": "img/symbols/en/sve.webp"
+  },
+  "swsh12.5gg": {
+   "symbol": "img/symbols/en/swsh12.5gg.webp"
+  },
+  "svp": {
+   "symbol": "img/symbols/en/svp.webp"
+  },
+  "swsh12tg": {
+   "symbol": "img/symbols/en/swsh12tg.webp"
+  },
+  "swsh11tg": {
+   "symbol": "img/symbols/en/swsh11tg.webp"
+  },
+  "swsh10tg": {
+   "symbol": "img/symbols/en/swsh10tg.webp"
+  },
+  "swsh9tg": {
+   "symbol": "img/symbols/en/swsh9tg.webp"
+  },
+  "cel25cc": {
+   "symbol": "img/symbols/en/cel25cc.webp"
+  },
+  "swsh4.5sv": {
+   "symbol": "img/symbols/en/swsh4.5sv.webp"
+  },
+  "swshp": {
+   "symbol": "img/symbols/en/swshp.webp"
+  },
+  "sma": {
+   "symbol": "img/symbols/en/sma.webp"
+  },
+  "smp": {
+   "symbol": "img/symbols/en/smp.webp"
+  },
+  "tk-xy-p": {
+   "symbol": "img/symbols/en/tk-xy-p.webp"
+  },
+  "tk-xy-su": {
+   "symbol": "img/symbols/en/tk-xy-su.webp"
+  },
+  "tk-xy-latia": {
+   "symbol": "img/symbols/en/tk-xy-latia.webp"
+  },
+  "tk-xy-latio": {
+   "symbol": "img/symbols/en/tk-xy-latio.webp"
+  },
+  "tk-xy-b": {
+   "symbol": "img/symbols/en/tk-xy-b.webp"
+  },
+  "tk-xy-w": {
+   "symbol": "img/symbols/en/tk-xy-w.webp"
+  },
+  "tk-xy-n": {
+   "symbol": "img/symbols/en/tk-xy-n.webp"
+  },
+  "tk-xy-sy": {
+   "symbol": "img/symbols/en/tk-xy-sy.webp"
+  },
+  "xy0": {
+   "symbol": "img/symbols/en/xy0.webp"
+  },
+  "xyp": {
+   "symbol": "img/symbols/en/xyp.webp"
+  },
+  "bwp": {
+   "symbol": "img/symbols/en/bwp.webp"
+  },
+  "tk-hs-g": {
+   "symbol": "img/symbols/en/tk-hs-g.webp"
+  },
+  "tk-hs-r": {
+   "symbol": "img/symbols/en/tk-hs-r.webp"
+  },
+  "hgssp": {
+   "symbol": "img/symbols/en/hgssp.webp"
+  },
+  "ru1": {
+   "symbol": "img/symbols/en/ru1.webp"
+  },
+  "pop9": {
+   "symbol": "img/symbols/en/pop9.webp"
+  },
+  "pop8": {
+   "symbol": "img/symbols/en/pop8.webp"
+  },
+  "pop7": {
+   "symbol": "img/symbols/en/pop7.webp"
+  },
+  "pop6": {
+   "symbol": "img/symbols/en/pop6.webp"
+  },
+  "dpp": {
+   "symbol": "img/symbols/en/dpp.webp"
+  },
+  "pop5": {
+   "symbol": "img/symbols/en/pop5.webp"
+  },
+  "pop4": {
+   "symbol": "img/symbols/en/pop4.webp"
+  },
+  "pop3": {
+   "symbol": "img/symbols/en/pop3.webp"
+  },
+  "tk-ex-p": {
+   "symbol": "img/symbols/en/tk-ex-p.webp"
+  },
+  "pop2": {
+   "symbol": "img/symbols/en/pop2.webp"
+  },
+  "pop1": {
+   "symbol": "img/symbols/en/pop1.webp"
+  },
+  "tk-ex-latia": {
+   "symbol": "img/symbols/en/tk-ex-latia.webp"
+  },
+  "tk-ex-latio": {
+   "symbol": "img/symbols/en/tk-ex-latio.webp"
+  },
+  "np": {
+   "symbol": "img/symbols/en/np.webp"
+  },
+  "bog": {
+   "symbol": "img/symbols/en/bog.webp"
+  },
+  "lc": {
+   "symbol": "img/symbols/en/lc.webp"
+  },
+  "si1": {
+   "symbol": "img/symbols/en/si1.webp"
+  },
+  "base4": {
+   "symbol": "img/symbols/en/base4.webp"
+  },
+  "basep": {
+   "symbol": "img/symbols/en/basep.webp"
+  },
+  "fut2020": {
+   "symbol": "img/symbols/en/fut2020.webp"
   }
  },
  "ko": {

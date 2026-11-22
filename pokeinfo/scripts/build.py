@@ -259,7 +259,7 @@ def add_extra_sets(lang, sets):
 
 
 def apply_art(lang, sets):
-    """Logos and set symbols Taylor supplied. His logos always win; his symbols fill gaps."""
+    """Logos and set symbols Taylor supplied. His always win."""
     try:
         art = json.loads((MANUAL / "art.json").read_text(encoding="utf-8")).get(lang, {})
     except Exception:  # noqa: BLE001
@@ -268,7 +268,7 @@ def apply_art(lang, sets):
         a = art.get(x["id"]) or {}
         if a.get("logo"):
             x["logo"] = a["logo"]
-        if a.get("symbol") and not x.get("symbol"):
+        if a.get("symbol"):   # his symbols win too: many of the database's symbol links are dead
             x["symbol"] = a["symbol"]
 
 

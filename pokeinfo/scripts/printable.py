@@ -13,11 +13,12 @@ groups = {}
 for x in sets:
     groups.setdefault(x.get("serie") or "Other", []).append(x)
 order = sorted(groups, key=lambda g: (bool(SIDE.search(g)), list(groups).index(g)))
+art = json.loads((ROOT / "manual/art.json").read_text(encoding="utf-8")).get("en", {})
 rows = []
 for g in order:
     rows.append(f'<tr class="g"><td colspan="4">{html.escape(g)}</td></tr>')
     for x in groups[g]:
-        sym = x.get("symbol") or ""
+        sym = art.get(x["id"], {}).get("symbol") or x.get("symbol") or ""
         if sym.startswith("http"):   # save a local copy so the PDF printer doesn't have to wait on the network
             local = ROOT / "print" / "sym" / (x["id"] + Path(sym).suffix)
             got = ""
