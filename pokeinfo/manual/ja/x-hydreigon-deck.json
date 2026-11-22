@@ -1,0 +1,100 @@
+{
+ "id": "x-hydreigon-deck",
+ "name": "Hydreigon Deck",
+ "name_en": "Hydreigon Deck",
+ "date": "2012-03-16",
+ "official": 15,
+ "logo": "img/logos/ja/x-hydreigon-deck.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Grass, Psychic and Darkness Energy.",
+ "cards": [
+  {
+   "n": "001/015",
+   "name": "Roselia",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "002/015",
+   "name": "Roserade",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "003/015",
+   "name": "Foongus",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "004/015",
+   "name": "Drifloon",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "005/015",
+   "name": "Houndour",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "006/015",
+   "name": "Houndoom",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "007/015",
+   "name": "Deino",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "008/015",
+   "name": "Zweilous",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "009/015",
+   "name": "Hydreigon",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "010/015",
+   "name": "Ultra Ball",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "011/015",
+   "name": "Rare Candy",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "012/015",
+   "name": "Rescue Scarf",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "013/015",
+   "name": "Professor Juniper",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "014/015",
+   "name": "Cheren",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "015/015",
+   "name": "Blend Energy GRPD",
+   "v": "h"
+  }
+ ]
+}

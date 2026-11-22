@@ -1,0 +1,91 @@
+{
+ "id": "x-mewtwo-vs-genesect-genesect",
+ "name": "Mewtwo VS Genesect - Genesect",
+ "name_en": "Mewtwo VS Genesect - Genesect",
+ "date": "2013-07-13",
+ "official": 16,
+ "logo": "img/logos/ja/x-mewtwo-vs-genesect-genesect.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Grass Energy.",
+ "cards": [
+  {
+   "n": "001/016",
+   "name": "Tangela",
+   "v": "n"
+  },
+  {
+   "n": "002/016",
+   "name": "Tangrowth",
+   "v": "n"
+  },
+  {
+   "n": "003/016",
+   "name": "Cherubi",
+   "v": "n"
+  },
+  {
+   "n": "004/016",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "005/016",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "006/016",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "007/016",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "008/016",
+   "name": "Genesect",
+   "v": "h"
+  },
+  {
+   "n": "009/016",
+   "name": "Energy Switch",
+   "v": "n"
+  },
+  {
+   "n": "010/016",
+   "name": "Great Ball",
+   "v": "n"
+  },
+  {
+   "n": "011/016",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "012/016",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "013/016",
+   "name": "Giant Cape",
+   "v": "n"
+  },
+  {
+   "n": "014/016",
+   "name": "Cheren",
+   "v": "n"
+  },
+  {
+   "n": "015/016",
+   "name": "Bianca",
+   "v": "n"
+  },
+  {
+   "n": "016/016",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  }
+ ]
+}

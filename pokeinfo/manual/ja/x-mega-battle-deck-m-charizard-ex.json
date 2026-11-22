@@ -1,0 +1,117 @@
+{
+ "id": "x-mega-battle-deck-m-charizard-ex",
+ "name": "Mega Battle Deck M Charizard EX",
+ "name_en": "Mega Battle Deck M Charizard EX",
+ "date": "2014-03-15",
+ "official": 21,
+ "logo": "img/logos/ja/x-mega-battle-deck-m-charizard-ex.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Fire and Darkness Energy.",
+ "cards": [
+  {
+   "n": "001/021",
+   "name": "Charizard-EX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "002/021",
+   "name": "M Charizard-EX",
+   "v": "h"
+  },
+  {
+   "n": "003/021",
+   "name": "Torkoal",
+   "v": "n"
+  },
+  {
+   "n": "004/021",
+   "name": "Fletchinder",
+   "v": "n"
+  },
+  {
+   "n": "005/021",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "006/021",
+   "name": "Stunky",
+   "v": "n"
+  },
+  {
+   "n": "007/021",
+   "name": "Scraggy",
+   "v": "n"
+  },
+  {
+   "n": "008/021",
+   "name": "Scrafty",
+   "v": "n"
+  },
+  {
+   "n": "009/021",
+   "name": "Fletchling",
+   "v": "n"
+  },
+  {
+   "n": "010/021",
+   "name": "Furfrou",
+   "v": "n"
+  },
+  {
+   "n": "011/021",
+   "name": "Pal Pad",
+   "v": "n"
+  },
+  {
+   "n": "012/021",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "013/021",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "014/021",
+   "name": "Red Card",
+   "v": "n"
+  },
+  {
+   "n": "015/021",
+   "name": "Roller Skates",
+   "v": "n"
+  },
+  {
+   "n": "016/021",
+   "name": "Blacksmith",
+   "v": "n"
+  },
+  {
+   "n": "017/021",
+   "name": "Shauna",
+   "v": "n"
+  },
+  {
+   "n": "018/021",
+   "name": "Tierno",
+   "v": "n"
+  },
+  {
+   "n": "019/021",
+   "name": "Professor Sycamore",
+   "v": "n"
+  },
+  {
+   "n": "020/021",
+   "name": "Lysandre",
+   "v": "n"
+  },
+  {
+   "n": "021/021",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  }
+ ]
+}

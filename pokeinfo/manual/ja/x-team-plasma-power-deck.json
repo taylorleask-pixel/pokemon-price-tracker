@@ -1,0 +1,112 @@
+{
+ "id": "x-team-plasma-power-deck",
+ "name": "Team Plasma Power Deck",
+ "name_en": "Team Plasma Power Deck",
+ "date": "2012-09-14",
+ "official": 17,
+ "logo": "img/logos/ja/x-team-plasma-power-deck.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Psychic and Metal Energy.",
+ "cards": [
+  {
+   "n": "001/017",
+   "name": "Zubat",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "002/017",
+   "name": "Koffing",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "003/017",
+   "name": "Trubbish",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "004/017",
+   "name": "Garbodor",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "005/017",
+   "name": "Elgyem",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "006/017",
+   "name": "Klink",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "007/017",
+   "name": "Klang",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "008/017",
+   "name": "Klinklang",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "009/017",
+   "name": "Durant",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "010/017",
+   "name": "Patrat",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "011/017",
+   "name": "Watchog",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "012/017",
+   "name": "Colress Machine",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "013/017",
+   "name": "Hypnotoxic Laser",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "014/017",
+   "name": "Colress",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "015/017",
+   "name": "Team Plasma Grunt",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "016/017",
+   "name": "Plasma Frigate",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "017/017",
+   "name": "Plasma Energy",
+   "v": "n"
+  }
+ ]
+}

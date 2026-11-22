@@ -1,0 +1,91 @@
+{
+ "id": "x-mewtwo-vs-genesect-mewtwo",
+ "name": "Mewtwo VS Genesect - Mewtwo",
+ "name_en": "Mewtwo VS Genesect - Mewtwo",
+ "date": "2013-07-13",
+ "official": 16,
+ "logo": "img/logos/ja/x-mewtwo-vs-genesect-mewtwo.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Psychic Energy.",
+ "cards": [
+  {
+   "n": "001M/034",
+   "name": "Mewtwo",
+   "v": "h"
+  },
+  {
+   "n": "002M/034",
+   "name": "Misdreavus",
+   "v": "n"
+  },
+  {
+   "n": "003M/034",
+   "name": "Mismagius",
+   "v": "n"
+  },
+  {
+   "n": "004M/034",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "005M/034",
+   "name": "Woobat",
+   "v": "n"
+  },
+  {
+   "n": "006M/034",
+   "name": "Swoobat",
+   "v": "n"
+  },
+  {
+   "n": "007M/034",
+   "name": "Gothita",
+   "v": "n"
+  },
+  {
+   "n": "008M/034",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "009M/034",
+   "name": "Crushing Hammer",
+   "v": "n"
+  },
+  {
+   "n": "010M/034",
+   "name": "Great Ball",
+   "v": "n"
+  },
+  {
+   "n": "011M/034",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "012M/034",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "013M/034",
+   "name": "Rocky Helmet",
+   "v": "n"
+  },
+  {
+   "n": "014M/034",
+   "name": "Cheren",
+   "v": "n"
+  },
+  {
+   "n": "015M/034",
+   "name": "Bianca",
+   "v": "n"
+  },
+  {
+   "n": "016M/034",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  }
+ ]
+}
