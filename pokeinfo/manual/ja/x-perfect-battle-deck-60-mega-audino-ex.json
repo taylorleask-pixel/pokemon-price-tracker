@@ -1,0 +1,143 @@
+{
+ "id": "x-perfect-battle-deck-60-mega-audino-ex",
+ "name": "Perfect Battle Deck 60 Mega Audino EX",
+ "name_en": "Perfect Battle Deck 60 Mega Audino EX",
+ "date": "2015-03-18",
+ "official": 26,
+ "logo": "img/logos/ja/x-perfect-battle-deck-60-mega-audino-ex.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Fairy Energy.",
+ "cards": [
+  {
+   "n": "001/026",
+   "name": "Deerling",
+   "v": "n"
+  },
+  {
+   "n": "002/026",
+   "name": "Fennekin",
+   "v": "n"
+  },
+  {
+   "n": "003/026",
+   "name": "Gothita",
+   "v": "n"
+  },
+  {
+   "n": "004/026",
+   "name": "Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "005/026",
+   "name": "Snubbull",
+   "v": "n"
+  },
+  {
+   "n": "006/026",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "007/026",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "008/026",
+   "name": "Diancie-EX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "009/026",
+   "name": "Meowth",
+   "v": "n"
+  },
+  {
+   "n": "010/026",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "011/026",
+   "name": "Audino-EX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "012/026",
+   "name": "M Audino-EX",
+   "v": "h"
+  },
+  {
+   "n": "013/026",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "014/026",
+   "name": "Cinccino",
+   "v": "n"
+  },
+  {
+   "n": "015/026",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "016/026",
+   "name": "Fairy Drop",
+   "v": "n"
+  },
+  {
+   "n": "017/026",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "018/026",
+   "name": "Random Receiver",
+   "v": "n"
+  },
+  {
+   "n": "019/026",
+   "name": "Audino Spirit Link",
+   "v": "n"
+  },
+  {
+   "n": "020/026",
+   "name": "Shauna",
+   "v": "n"
+  },
+  {
+   "n": "021/026",
+   "name": "Tierno",
+   "v": "n"
+  },
+  {
+   "n": "022/026",
+   "name": "Professor Sycamore",
+   "v": "n"
+  },
+  {
+   "n": "023/026",
+   "name": "Pokémon Fan Club",
+   "v": "n"
+  },
+  {
+   "n": "024/026",
+   "name": "Lass's Special",
+   "v": "n"
+  },
+  {
+   "n": "025/026",
+   "name": "Fairy Garden",
+   "v": "n"
+  },
+  {
+   "n": "026/026",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  }
+ ]
+}

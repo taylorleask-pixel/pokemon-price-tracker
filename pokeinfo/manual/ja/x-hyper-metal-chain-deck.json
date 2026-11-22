@@ -1,0 +1,107 @@
+{
+ "id": "x-hyper-metal-chain-deck",
+ "name": "Hyper Metal Chain Deck",
+ "name_en": "Hyper Metal Chain Deck",
+ "date": "2014-09-13",
+ "official": 18,
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Metal Energy.",
+ "cards": [
+  {
+   "n": "001/018",
+   "name": "Skarmory",
+   "v": "n"
+  },
+  {
+   "n": "002/018",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "003/018",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "004/018",
+   "name": "Dialga-EX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "005/018",
+   "name": "Aegislash-EX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "006/018",
+   "name": "Klefki",
+   "v": "n"
+  },
+  {
+   "n": "007/018",
+   "name": "Furfrou",
+   "v": "n"
+  },
+  {
+   "n": "008/018",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "009/018",
+   "name": "VS Seeker",
+   "v": "n"
+  },
+  {
+   "n": "010/018",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "011/018",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "012/018",
+   "name": "Red Card",
+   "v": "n"
+  },
+  {
+   "n": "013/018",
+   "name": "Roller Skates",
+   "v": "n"
+  },
+  {
+   "n": "014/018",
+   "name": "Shauna",
+   "v": "n"
+  },
+  {
+   "n": "015/018",
+   "name": "Tierno",
+   "v": "n"
+  },
+  {
+   "n": "016/018",
+   "name": "Professor Sycamore",
+   "v": "n"
+  },
+  {
+   "n": "017/018",
+   "name": "Steel Shelter",
+   "v": "n"
+  },
+  {
+   "n": "018/018",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "019/018",
+   "name": "Dialga-EX",
+   "v": "h"
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "id": "x-mega-battle-deck-m-rayquaza-ex",
+ "name": "Mega Battle Deck M Rayquaza EX",
+ "name_en": "Mega Battle Deck M Rayquaza EX",
+ "date": "2015-03-14",
+ "official": 18,
+ "logo": "img/logos/ja/x-mega-battle-deck-m-rayquaza-ex.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Basic Fire and Lightning Energy.",
+ "cards": [
+  {
+   "n": "001/018",
+   "name": "Victini",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "002/018",
+   "name": "Electrike",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "003/018",
+   "name": "Manectric",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "004/018",
+   "name": "Bagon",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "005/018",
+   "name": "Rayquaza-EX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "006/018",
+   "name": "M Rayquaza-EX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "007/018",
+   "name": "Zekrom",
+   "v": "n",
+   "r": "R"
+  },
+  {
+   "n": "008/018",
+   "name": "Acro Bike",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "009/018",
+   "name": "Ultra Ball",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "010/018",
+   "name": "Switch",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "011/018",
+   "name": "Mega Turbo",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "012/018",
+   "name": "Rayquaza Spirit Link",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "013/018",
+   "name": "Professor Birch's Observations",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "014/018",
+   "name": "Steven",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "015/018",
+   "name": "Tierno",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "016/018",
+   "name": "Professor Sycamore",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "017/018",
+   "name": "Lysandre",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "018/018",
+   "name": "Double Dragon Energy",
+   "v": "n",
+   "r": "U"
+  }
+ ]
+}
