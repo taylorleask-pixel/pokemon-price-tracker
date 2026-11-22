@@ -239,6 +239,9 @@ def add_manual(lang, sets):
 RARE_ORDER = ["mega hyper", "hyper", "special illustration", "illustration", "ultra", "secret", "shiny ultra", "double", "holo", "rare"]
 
 
+NAME_FIX = {"ja": {"CP5": "幻・伝説ドリームキラコレクション"}}   # database calls CP5 "Cruel Traitor" (that's XY11b)
+
+
 def add_extra_sets(lang, sets):
     """Sets the card database doesn't list at all (from Taylor's set lists): added with no cards, so they show
     under Missing sets with their logo, ready for a pasted card list."""
@@ -411,6 +414,8 @@ def build_lang(lang):
     sets = [x for x in sets if x.get("serie_id") not in SKIP_SERIES]
     if lang == "en":
         fill_pictures(sets)
+    for x in sets:   # the card database has a few set names wrong
+        x["name"] = NAME_FIX.get(lang, {}).get(x["id"], x["name"])
     add_extra_sets(lang, sets)
     add_manual(lang, sets)
     apply_pictures(lang, sets)
