@@ -1,0 +1,16 @@
+name: PokeInfo - printable sheet
+
+on:
+  workflow_dispatch:
+
+jobs:
+  print:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 pokeinfo/scripts/printable.py
+      - run: google-chrome --headless --no-sandbox --disable-gpu --no-pdf-header-footer --virtual-time-budget=20000 --print-to-pdf=cover-art-pages.pdf pokeinfo/print/cover-art-pages.html
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cover-art-pages
+          path: cover-art-pages.pdf
