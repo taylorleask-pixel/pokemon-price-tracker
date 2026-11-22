@@ -9,6 +9,15 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SIDE = re.compile(r"mcdonald|trick or trade|pokéween|miscellaneous|^misc|other", re.I)
 sets = [x for x in json.loads((ROOT / "data/en/sets.json").read_text(encoding="utf-8"))["sets"] if x.get("cards_n")][::-1]
+SUB_OF = {"Radiant Collection": "Legendary Treasures", "Yellow A Alternate": "XY"}
+names = {x["name"] for x in sets}
+def parent(x):
+    return SUB_OF.get(x["name"]) or next((p["name"] for p in sets if p is not x and x["name"].startswith(p["name"] + " ")), None)
+kids, rest = {}, []
+for x in sets:
+    p = parent(x)
+    (kids.setdefault(p, []) if p in names else rest).append(x)
+sets = [y for x in rest for y in [x] + kids.get(x["name"], [])]
 groups = {}
 for x in sets:
     groups.setdefault(x.get("serie") or "Other", []).append(x)

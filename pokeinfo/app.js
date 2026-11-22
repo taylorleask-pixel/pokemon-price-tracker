@@ -305,6 +305,17 @@ function renderHome() {
     let list = sets.filter((s) => (!q || setText(s).includes(q) || q.split(/\s+/).some((w) => isCode(s, w))) &&
       (S.show === "all" || (S.show === "started" ? own[s.id]?.cards : own[s.id]?.cards >= s.cards_n)));
     if (S.newest) list = list.slice().reverse();
+    // a subset (Trainer Gallery, Shiny Vault, Classic Collection...) sits straight after its main set
+    {
+      const SUB_OF = { "Radiant Collection": "Legendary Treasures", "Yellow A Alternate": "XY" };
+      const parentOf = (x) => SUB_OF[x.name] || list.find((p) => p !== x && x.name.startsWith(p.name + " "))?.name;
+      const kids = new Map(), rest = [];
+      for (const x of list) {
+        const p = parentOf(x);
+        if (p && list.some((y) => y.name === p)) { if (!kids.has(p)) kids.set(p, []); kids.get(p).push(x); } else rest.push(x);
+      }
+      list = rest.flatMap((x) => [x, ...(kids.get(x.name) || [])]);
+    }
     // one group per series (not split up by side releases), newest series first; side releases go last
     const SIDE = /mcdonald|trick or trade|pokéween|miscellaneous|^misc|other/i;
     const byName = new Map();
