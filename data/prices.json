@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-21T21:03+10:00",
+"updated": "2026-11-22T11:21+10:00",
 "listings": [
 {
 "store": "misty",
@@ -1644,7 +1644,7 @@
 {
 "store": "misty",
 "title": "Rebel Clash Booster Box",
-"price": 799.88,
+"price": 800.89,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/rebel-clash-booster-box",
 "image": "https://images.scrydex.com/pokemon/swsh2-s2/large",
@@ -1659,7 +1659,7 @@
 "key": "box|Rebel Clash",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-20T12:20+10:00"
+"changed": "2026-11-22T11:21+10:00"
 },
 {
 "store": "misty",
@@ -1704,7 +1704,7 @@
 {
 "store": "misty",
 "title": "Scarlet & Violet Booster Box",
-"price": 488.83,
+"price": 487.58,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
 "image": "https://images.scrydex.com/pokemon/sv1-s2/large",
@@ -1719,7 +1719,7 @@
 "key": "box|Scarlet & Violet",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-19T12:35+10:00"
+"changed": "2026-11-22T11:21+10:00"
 },
 {
 "store": "misty",
@@ -2194,10 +2194,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 475.0,
+"price": 499.95,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -2219,10 +2219,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 499.95,
+"price": 475.0,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -3244,10 +3244,10 @@
 {
 "store": "misty",
 "title": "Black Bolt Elite Trainer Box",
-"price": 261.8,
+"price": 299.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box-zsv10pt5-s3",
-"image": "https://images.scrydex.com/pokemon/zsv10pt5-s3/large",
+"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxj8jb07317vfqbvxkatz1/art-7dcbcfb4.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -3264,10 +3264,10 @@
 {
 "store": "misty",
 "title": "Black Bolt Elite Trainer Box",
-"price": 299.0,
+"price": 261.8,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxj8jb07317vfqbvxkatz1/art-7dcbcfb4.png",
+"url": "https://mistyscollectables.com.au/sealed/product/black-bolt-elite-trainer-box-zsv10pt5-s3",
+"image": "https://images.scrydex.com/pokemon/zsv10pt5-s3/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -4174,10 +4174,10 @@
 {
 "store": "misty",
 "title": "Brilliant Stars Booster Box",
-"price": 949.0,
+"price": 889.81,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxa41w071m7vfqjtk2iusu/art-a220b297.png",
+"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box-swsh9-s2",
+"image": "https://images.scrydex.com/pokemon/swsh9-s2/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -4194,10 +4194,10 @@
 {
 "store": "misty",
 "title": "Brilliant Stars Booster Box",
-"price": 889.81,
+"price": 949.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box-swsh9-s2",
-"image": "https://images.scrydex.com/pokemon/swsh9-s2/large",
+"url": "https://mistyscollectables.com.au/sealed/product/brilliant-stars-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmtrxa41w071m7vfqjtk2iusu/art-a220b297.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -5839,26 +5839,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Booster Box",
-"price": 334.3,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box-me6-s2",
-"image": "https://images.scrydex.com/pokemon/me6-s2/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "box",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 36,
-"key": "box|Delta Reign",
-"skip": null,
-"first_seen": "2026-11-07T11:01+10:00",
-"changed": "2026-11-07T11:01+10:00"
-},
-{
-"store": "misty",
-"title": "Delta Reign Booster Box",
 "price": 349.0,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box",
@@ -5875,6 +5855,26 @@
 "skip": null,
 "first_seen": null,
 "changed": null
+},
+{
+"store": "misty",
+"title": "Delta Reign Booster Box",
+"price": 334.3,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-booster-box-me6-s2",
+"image": "https://images.scrydex.com/pokemon/me6-s2/large",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "box",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 36,
+"key": "box|Delta Reign",
+"skip": null,
+"first_seen": "2026-11-07T11:01+10:00",
+"changed": "2026-11-07T11:01+10:00"
 },
 {
 "store": "misty",
@@ -6009,26 +6009,6 @@
 {
 "store": "misty",
 "title": "Delta Reign Elite Trainer Box",
-"price": 129.99,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu73zs37ytn13axz2ofp2se/art-7ce3c0f6.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "etb",
-"set": "Delta Reign",
-"year": 2026,
-"product": null,
-"packs": 9,
-"key": "etb|Delta Reign",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Delta Reign Elite Trainer Box",
 "price": 140.59,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box-me6-s9",
@@ -6045,6 +6025,26 @@
 "skip": null,
 "first_seen": "2026-11-07T11:01+10:00",
 "changed": "2026-11-07T11:01+10:00"
+},
+{
+"store": "misty",
+"title": "Delta Reign Elite Trainer Box",
+"price": 129.99,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/delta-reign-elite-trainer-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmvu73zs37ytn13axz2ofp2se/art-7ce3c0f6.png",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "etb",
+"set": "Delta Reign",
+"year": 2026,
+"product": null,
+"packs": 9,
+"key": "etb|Delta Reign",
+"skip": null,
+"first_seen": null,
+"changed": null
 },
 {
 "store": "misty",
@@ -7751,8 +7751,8 @@
 "title": "EX Trainer Kit - Latias & Latios",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios",
-"image": "https://images.scrydex.com/pokemon/tk1a-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios-tk1b-s1",
+"image": "https://images.scrydex.com/pokemon/tk1b-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -7771,8 +7771,8 @@
 "title": "EX Trainer Kit - Latias & Latios",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios-tk1b-s1",
-"image": "https://images.scrydex.com/pokemon/tk1b-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios",
+"image": "https://images.scrydex.com/pokemon/tk1a-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -8894,26 +8894,6 @@
 {
 "store": "misty",
 "title": "Fusion Strike Build & Battle Stadium",
-"price": 474.74,
-"available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/fusion-strike-build-battle-stadium-swsh8-s8",
-"image": "https://images.scrydex.com/pokemon/swsh8-s8/large",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "other",
-"set": "Fusion Strike",
-"year": 2021,
-"product": "Fusion Strike Build & Battle Stadium",
-"packs": 12,
-"key": "other|Fusion Strike Build & Battle Stadium",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "misty",
-"title": "Fusion Strike Build & Battle Stadium",
 "price": 449.0,
 "available": false,
 "url": "https://mistyscollectables.com.au/sealed/product/fusion-strike-build-battle-stadium",
@@ -8930,6 +8910,26 @@
 "skip": null,
 "first_seen": null,
 "changed": "2026-11-19T21:41+10:00"
+},
+{
+"store": "misty",
+"title": "Fusion Strike Build & Battle Stadium",
+"price": 474.74,
+"available": false,
+"url": "https://mistyscollectables.com.au/sealed/product/fusion-strike-build-battle-stadium-swsh8-s8",
+"image": "https://images.scrydex.com/pokemon/swsh8-s8/large",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "other",
+"set": "Fusion Strike",
+"year": 2021,
+"product": "Fusion Strike Build & Battle Stadium",
+"packs": 12,
+"key": "other|Fusion Strike Build & Battle Stadium",
+"skip": null,
+"first_seen": null,
+"changed": null
 },
 {
 "store": "misty",
@@ -23339,7 +23339,7 @@
 {
 "store": "sidequest",
 "title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
-"price": 863.8,
+"price": 870.1,
 "available": false,
 "url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/673a5c23-8c43-4c7d-81f1-932eb26ab7e9.jpg?v=1780062987",
@@ -23354,7 +23354,7 @@
 "key": "etb|Fusion Strike",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-20T12:20+10:00"
+"changed": "2026-11-22T11:21+10:00"
 },
 {
 "store": "sidequest",
