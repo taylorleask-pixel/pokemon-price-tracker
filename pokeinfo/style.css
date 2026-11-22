@@ -1,5 +1,5 @@
 :root {
-  /* three cozy colour sets, picked at the bottom of the page: cottage (default), cocoa, dusk */
+  /* Cottage: forest green, oatmeal, tomato red and mustard gold */
   --paper: #F3EEE2; --paper2: #E7DFCC; --surface: #FFFCF5; --ink: #2B2A22; --muted: #6B6858; --line: #E0D7C3;
   --red: #B4412C; --red-ink: #FFFFFF; --gold: #E2A93B; --gold-ink: #2A1E0C; --head: #34503F; --head-ink: #F3EEE2;
   --rose: #B4412C; --slate: #4E7A5F; --teal: #E2A93B; --plum: #2B2A22; --fan1: #4C6E58; --fan2: #22352A;
@@ -12,31 +12,11 @@
   --mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
   color-scheme: light;
 }
-:root[data-palette="cocoa"] {
-  --paper: #F4ECE3; --paper2: #E9DACB; --surface: #FFF9F3; --ink: #33241C; --muted: #7A6556; --line: #E5D4C4;
-  --red: #A8322D; --red-ink: #FFFFFF; --gold: #E7A94A; --gold-ink: #2A1E0C; --head: #5A3A2B; --head-ink: #F7EDE4;
-  --rose: #A8322D; --slate: #8A5A3F; --teal: #E7A94A; --plum: #33241C; --fan1: #7A5240; --fan2: #2E1E16;
-}
-:root[data-palette="dusk"] {
-  --paper: #EEEFF4; --paper2: #DFE2EC; --surface: #FBFBFD; --ink: #1F2638; --muted: #5D6479; --line: #D8DCE7;
-  --red: #B8406A; --red-ink: #FFFFFF; --gold: #F0B65E; --gold-ink: #2A1E0C; --head: #2D3A5C; --head-ink: #F2EEE8;
-  --rose: #B8406A; --slate: #4D6AA8; --teal: #F0B65E; --plum: #1F2638; --fan1: #43558A; --fan2: #1A2136;
-}
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --paper: #191E1A; --paper2: #212923; --surface: #222A24; --ink: #ECE7DA; --muted: #A9A595; --line: #34403A;
   --red: #E8826A; --red-ink: #1A1410; --gold: #E8B65A; --gold-ink: #2A1E0C; --head: #1F2E25; --head-ink: #ECE7DA;
   --rose: #E8826A; --slate: #7FAE8E; --teal: #E8B65A; --plum: #ECE7DA; --fan1: #3A5545; --fan2: #141D17; color-scheme: dark;
-  }
-  :root:not([data-theme="light"])[data-palette="cocoa"] {
-    --paper: #1E1713; --paper2: #2A201A; --surface: #2A1F19; --ink: #F3E7DC; --muted: #B9A595; --line: #46362B;
-  --red: #E5766B; --red-ink: #1A1410; --gold: #E9B15C; --gold-ink: #2A1E0C; --head: #3A251C; --head-ink: #F3E7DC;
-  --rose: #E5766B; --slate: #C08A68; --teal: #E9B15C; --plum: #F3E7DC; --fan1: #5A3B2D; --fan2: #1A110C; color-scheme: dark;
-  }
-  :root:not([data-theme="light"])[data-palette="dusk"] {
-    --paper: #151A26; --paper2: #1C2232; --surface: #1E2434; --ink: #E9ECF3; --muted: #A2A9BC; --line: #2F3750;
-  --red: #EE7B9C; --red-ink: #1A1410; --gold: #F2BE6E; --gold-ink: #2A1E0C; --head: #1B2440; --head-ink: #E9ECF3;
-  --rose: #EE7B9C; --slate: #8AA4E0; --teal: #F2BE6E; --plum: #E9ECF3; --fan1: #34436E; --fan2: #0F1422; color-scheme: dark;
   }
 }
 
@@ -367,8 +347,3 @@ h2.sub small { font: 400 14px var(--body); color: var(--muted); margin-left: 6px
 }
 .fancard:not(.ok) { visibility: hidden; }   /* a card shows once its picture has loaded; missing pictures drop out */
 
-/* colour picker in the footer */
-.palettes { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin: 0 0 10px; }
-.palettes button { display: inline-flex; align-items: center; gap: 7px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 5px 12px 5px 6px; cursor: pointer; font-weight: 600; font-size: 14px; }
-.palettes button[aria-pressed="true"] { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
-.palettes i { width: 22px; height: 22px; border-radius: 50%; display: inline-block; }
