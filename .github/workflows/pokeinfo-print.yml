@@ -3,14 +3,17 @@ name: PokeInfo - printable sheet
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   print:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - run: python3 pokeinfo/scripts/printable.py
-      - run: google-chrome --headless --no-sandbox --disable-gpu --no-pdf-header-footer --virtual-time-budget=20000 --print-to-pdf=cover-art-pages.pdf pokeinfo/print/cover-art-pages.html
-      - uses: actions/upload-artifact@v4
-        with:
-          name: cover-art-pages
-          path: cover-art-pages.pdf
+      - run: google-chrome --headless --no-sandbox --disable-gpu --no-pdf-header-footer --virtual-time-budget=20000 --print-to-pdf=pokeinfo/print/cover-art-pages.pdf pokeinfo/print/cover-art-pages.html
+      - run: |
+          git config user.name "print-bot"; git config user.email "print-bot@users.noreply.github.com"
+          git add pokeinfo/print/cover-art-pages.pdf; git commit -qm "PokeInfo: printable sheet" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && break; sleep 5; done
