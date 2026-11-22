@@ -385,6 +385,58 @@ const HOW = { traded: "Traded", sold: "Sold" };
 function defaultVersion(c) { return ["n", "h", "f", "r", "p", "m", "s"].find((v) => (c.v || "").includes(v)) || "n"; }
 function versions(c) { return (c.v || "n").split("").sort((a, b) => "nhfrqwpms".indexOf(a) - "nhfrqwpms".indexOf(b)); }
 
+// ---- prices (English only): TCGplayer market price in US$, shown in A$ at the day's exchange rate
+D.prices = {};
+async function setPrices(id) {
+  if (S.lang !== "en") return null;
+  if (!D.priceMeta) D.priceMeta = (await load("data/en/prices/_meta.json")) || { aud: 1.53 };
+  if (!(id in D.prices)) D.prices[id] = (await load(`data/en/prices/${encodeURIComponent(id)}.json`))?.c || null;
+  return D.prices[id];
+}
+// US$ price of one version of a card (falls back to the card's cheapest price, then the weekly card-list price)
+function usdOf(c, v, P) {
+  const p = P?.[c.id];
+  if (p && Object.keys(p).length) return p[v] ?? Math.min(...Object.values(p));
+  return c.usd || 0;
+}
+const aud = (usd) => usd * (D.priceMeta?.aud || 1.53);
+const money = (a) => `A$${a >= 1000 ? Math.round(a).toLocaleString("en-AU") : a.toLocaleString("en-AU", { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
+// rarest first, for picking a set's top hits when there are no prices
+const RANK = ["MUR", "UR", "HR", "SAR", "SSR", "SR", "MA", "CSR", "AR", "CHR", "S", "RRR", "ACE", "K", "RR", "R", "PR", "U", "C"];
+const rankOf = (c) => { const x = rarity(c.r); const i = RANK.indexOf(x?.code || ""); return i < 0 ? RANK.length : i; };
+function topHits(cards, P) {
+  const withPic = cards.filter((c) => pic(c));
+  const priced = S.lang === "en" && withPic.some((c) => usdOf(c, "n", P) > 0);
+  const best = withPic.map((c, i) => ({ c, i, usd: priced ? Math.max(...versions(c).map((v) => usdOf(c, v, P))) : 0 }))
+    .sort((a, b) => priced ? b.usd - a.usd : rankOf(a.c) - rankOf(b.c) || b.i - a.i)
+    .slice(0, 7);
+  return best.length >= 3 ? best : [];
+}
+// a progress ring: share done, with the count under it
+function ring(label, h, t, cls = "") {
+  const r = 34, L = 2 * Math.PI * r, f = t ? Math.min(h / t, 1) : 0;
+  return `<div class="ring ${cls}${t && h >= t ? " done" : ""}">
+    <svg viewBox="0 0 80 80" aria-hidden="true"><circle cx="40" cy="40" r="${r}" class="track"/><circle cx="40" cy="40" r="${r}" class="fill" stroke-dasharray="${(f * L).toFixed(1)} ${L.toFixed(1)}" transform="rotate(-90 40 40)"/></svg>
+    <b>${pct(h, t)}</b><span class="rl">${label}</span><span class="rc">${h} / ${t}</span></div>`;
+}
+// value over time: one line, newest on the right
+function valueChart(points, which, W = 640) {
+  const pts = points.map((p) => [Date.parse(p[0]), p[which === "master" ? 2 : 1]]).filter((p) => p[1] > 0);
+  if (pts.length < 2) return "";
+  W = Math.max(280, Math.round(W)); const H = Math.round(Math.min(220, Math.max(150, W * 0.3))), pad = { l: 52, r: 10, t: 10, b: 24 };
+  const x0 = pts[0][0], x1 = pts[pts.length - 1][0], ys = pts.map((p) => p[1]);
+  let lo = Math.min(...ys), hi = Math.max(...ys); if (hi - lo < 1) { lo -= 1; hi += 1; }
+  lo = Math.max(0, lo - (hi - lo) * 0.15); hi += (hi - lo) * 0.1;
+  const X = (t) => pad.l + ((t - x0) / (x1 - x0 || 1)) * (W - pad.l - pad.r), Y = (v) => pad.t + (1 - (v - lo) / (hi - lo)) * (H - pad.t - pad.b);
+  const d = pts.map((p, i) => `${i ? "L" : "M"}${X(p[0]).toFixed(1)} ${Y(p[1]).toFixed(1)}`).join("");
+  const ticks = [lo, (lo + hi) / 2, hi];
+  const day = (t) => new Date(t).toLocaleDateString("en-AU", { day: "numeric", month: "short" });
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" role="img" aria-label="Set value from ${day(x0)} to ${day(x1)}: ${money(pts[0][1])} to ${money(pts[pts.length - 1][1])}">
+    ${ticks.map((v) => `<line x1="${pad.l}" x2="${W - pad.r}" y1="${Y(v)}" y2="${Y(v)}" class="grid"/><text x="${pad.l - 6}" y="${Y(v) + 4}" text-anchor="end">${money(v).replace(/\.\d\d$/, "")}</text>`).join("")}
+    <path d="${d} L${X(x1)} ${H - pad.b} L${X(x0)} ${H - pad.b}Z" class="area"/><path d="${d}" class="line"/>
+    <text x="${pad.l}" y="${H - 6}">${day(x0)}</text><text x="${W - pad.r}" y="${H - 6}" text-anchor="end">${day(x1)}</text></svg>`;
+}
+
 async function renderSet(id) {
   const meta = D.sets[S.lang].sets.find((s) => s.id === id);
   const fk = `${S.lang}/${id}`;
@@ -393,6 +445,8 @@ async function renderSet(id) {
     D.setFiles[fk] = await load(`data/${S.lang}/sets/${encodeURIComponent(id)}.json`);
   }
   const set = D.setFiles[fk];
+  const P = set ? await setPrices(id) : null;
+  if (S.lang === "en" && !D.hist) D.hist = (await load("data/en/value-history.json")) || {};
   if (!set || !meta) { $("#view").innerHTML = `<button class="back" id="back">← All sets</button><p class="none">That set isn't in the card list.</p>`; $("#back").onclick = () => go(S.lang); return; }
   if (S.setId !== id) { S.setId = id; S.type = null; S.own = "all"; S.cq = ""; }
   S.curSerie = meta?.serie_id || "";
@@ -408,40 +462,102 @@ async function renderSet(id) {
   const types = {};
   for (const c of cards) { const t = rKey(c); (types[t] ??= { n: 0, have: 0 }).n++; if (C.cards[k(c)]) types[t].have++; }
   const rev = cards.filter((c) => isRev(c.v)).length;
-  const typeList = Object.entries(types);
+  const typeList = Object.entries(types).sort((a, b) => rankOf({ r: b[0] }) - rankOf({ r: a[0] }));   // commons first, rarest last
   const showTypes = typeList.length > 1 || typeList[0]?.[0] !== "Unknown rarity";
   const official = meta.official && meta.official !== cards.length ? ` (${meta.official} in the main set, the rest are secret rares)` : "";
 
+  const stamped = set.stamped || [];
+  const sk = (st) => key(S.lang, st.set, st.id);
+  const gmTotal = varTotal + stamped.reduce((a, st) => a + (st.v || "n").length, 0);
+  const gmHave = varHave + stamped.reduce((a, st) => a + (C.cards[sk(st)] || "").length, 0);
+  const hits = topHits(cards, P);
+  const priced = S.lang === "en" && cards.some((c) => usdOf(c, "n", P) > 0);
+  const hist = (D.hist?.[id] || []);
+  const openOv = store.get("pi-ov", true);
+  S.chartWhich ??= "complete"; S.chartRange ??= "all";
+  const LBL = { complete: "Complete", master: "Master" };
+
   $("#view").innerHTML = `<button class="back" id="back">← All ${esc(LANGS.find((l) => l.id === S.lang).name)} sets</button>
+    ${hits.length ? `<section class="fan" aria-label="Top hits">
+      <div class="fanstage" style="--n:${hits.length}">${hits.map((h, i) => `<button type="button" class="fancard" data-hit="${h.i}" style="--i:${i}"
+        aria-label="${esc(`${h.c.name} ${h.c.n}${h.usd ? `, about ${money(aud(h.usd))}` : ""}`)}"><img src="${esc(pic(h.c))}" alt="" loading="lazy" onerror="this.closest('.fancard').remove()"></button>`).join("")}</div>
+      <p class="fancap" id="fancap">${priced ? "Top hits by market price" : "Top hits by rarity"}</p>
+    </section>` : ""}
     <div class="sethead">
-      ${meta.logo ? `<img class="logo" src="${esc(meta.logo)}" alt="" onerror="this.remove()">` : meta.cover ? `<img class="logo cover" src="${esc(meta.cover)}" alt="" onerror="this.remove()">` : ""}
+      ${meta.logo ? `<img class="logo" src="${esc(meta.logo)}" alt="" onerror="this.remove()">` : meta.cover && !hits.length ? `<img class="logo cover" src="${esc(meta.cover)}" alt="" onerror="this.remove()">` : ""}
       <h1>${symImg(meta, "sym big")}${esc(set.name || meta.name)}${setCode(meta) ? ` <span class="code big" title="Set code printed on the cards">${esc(setCode(meta))}</span>` : ""}</h1>
       ${enName(meta) ? `<p class="en-title">${esc(enName(meta))}</p>` : ""}
       <p>${esc([meta.serie, fmtDate(meta.date), meta.abbr].filter(Boolean).join(" · "))}</p>
       ${FULL_LISTS[S.lang] && set.cards.some((c) => !pic(c)) ? `<p class="note">Pictures missing? See this set on ${fullListLink(S.lang, FULL_LISTS[S.lang].site)}</p>` : ""}
     </div>
-    <div class="prog">
-      <div><div class="lbl">Cards</div><div class="num">${have}<small> / ${cards.length} · ${pct(have, cards.length)}</small></div>
-        <div class="bar${have === cards.length ? " done" : ""}"><i style="width:${(have / cards.length) * 100}%"></i></div></div>
-      ${varTotal > cards.length ? `<div><div class="lbl">Master set (every version, e.g. reverse holos)</div><div class="num">${varHave}<small> / ${varTotal} · ${pct(varHave, varTotal)}</small></div>
-        <div class="bar${varHave === varTotal ? " done" : ""}"><i style="width:${(varHave / varTotal) * 100}%"></i></div></div>` : ""}
-    </div>
-    <p class="note" style="margin-top:-4px">${cards.length} cards${esc(official)}${rev ? `. ${rev} also come as a reverse holo` : ""}.${hadN ? ` You've traded or sold ${hadN}.` : ""}</p>
+    <details class="overview" id="overview" ${openOv ? "open" : ""}>
+      <summary>Overview</summary>
+      <div class="ovbody">
+        <div class="rings">
+          ${ring("Complete", have, cards.length, "r1")}
+          ${ring("Master", varHave, varTotal, "r2")}
+          ${ring("Grandmaster", gmHave, gmTotal, "r3")}
+        </div>
+        <div class="ovtext">
+          <p class="note">Complete is every card once. Master adds every version (reverse holos and other foils). Grandmaster adds stamped copies from other sets${stamped.length ? ` (${stamped.length} known, listed under the binder)` : " (none known for this set yet)"}.</p>
+          ${priced ? `<dl class="values">
+            <div><dt>Complete set</dt><dd><b id="vc">${money(aud(cards.reduce((a, c) => a + (C.cards[k(c)] ? Math.min(...versions(c).filter((v) => C.cards[k(c)].includes(v)).map((v) => usdOf(c, v, P))) : 0), 0)))}</b> <span>/ ${money(aud(cards.reduce((a, c) => a + Math.min(...versions(c).map((v) => usdOf(c, v, P))), 0)))}</span></dd></div>
+            <div><dt>Master set</dt><dd><b id="vm">${money(aud(cards.reduce((a, c) => a + versions(c).filter((v) => (C.cards[k(c)] || "").includes(v)).reduce((x, v) => x + usdOf(c, v, P), 0), 0)))}</b> <span>/ ${money(aud(cards.reduce((a, c) => a + versions(c).reduce((x, v) => x + usdOf(c, v, P), 0), 0)))}</span></dd></div>
+          </dl><p class="note">Your cards / the whole set, at TCGplayer market prices in Australian dollars (US$1 = A$${(D.priceMeta?.aud || 1.53).toFixed(2)}).</p>` : S.lang === "en" ? "" : `<p class="note">Prices are only available for English cards.</p>`}
+        </div>
+        ${priced ? `<div class="ovchart">
+          <div class="chartbar"><span class="lbl">Set value over time</span>
+            <div class="seg small" role="group" aria-label="Which set">${["complete", "master"].map((w) => `<button type="button" data-cw="${w}" aria-pressed="${S.chartWhich === w}">${LBL[w]}</button>`).join("")}</div>
+            <div class="seg small" role="group" aria-label="Time range">${[["1m", "1M"], ["3m", "3M"], ["all", "All"]].map(([v, l]) => `<button type="button" data-cr="${v}" aria-pressed="${S.chartRange === v}">${l}</button>`).join("")}</div></div>
+          <div id="chart"></div></div>` : ""}
+        ${meta.hits?.length ? `<div class="ovhits"><span class="lbl">Pull rates</span><ul class="hitrates">${meta.hits.map(([r, n]) => { const x = rarity(r); return `<li><span>${x?.sym ? rarSym(x.sym) + " " : ""}${esc(r)}</span><b>1 in ${n.toLocaleString()}</b></li>`; }).join("")}</ul>
+          <p class="note">Packs per hit, on average. Measured by TCGplayer from thousands of English packs.</p></div>` : ""}
+      </div>
+    </details>
+    <p class="note setnote">${cards.length} cards${esc(official)}${rev ? `. ${rev} also come as a reverse holo` : ""}.${hadN ? ` You've traded or sold ${hadN}.` : ""}</p>
     ${set.note ? `<p class="note">${esc(set.note)}</p>` : ""}
-    ${showTypes ? `<ul class="types" aria-label="Filter by type">
+    ${showTypes ? `<div class="pillbar"><ul class="types" aria-label="Filter by rarity">
       <li><button type="button" data-type="" aria-pressed="${!S.type}">All</button></li>
-      ${typeList.map(([t, o]) => { const x = rarity(t); return `<li><button type="button" data-type="${esc(t)}" aria-pressed="${S.type === t}"><b>${o.n}</b> ${x?.sym ? rarSym(x.sym) + " " : ""}${x && x.code && S.lang !== "en" ? `${esc(x.code)} · ` : ""}${esc(x ? x.en : t)}${o.have ? ` · ${o.have} ✓` : ""}</button></li>`; }).join("")}
-      ${rev ? `<li><button type="button" data-type="__rev" aria-pressed="${S.type === "__rev"}"><b>${rev}</b> Reverse holo</button></li>` : ""}
-    </ul>` : ""}
+      ${typeList.map(([t, o]) => { const x = rarity(t); return `<li><button type="button" data-type="${esc(t)}" aria-pressed="${S.type === t}" title="${o.n} cards${o.have ? `, ${o.have} ticked` : ""}">${x?.sym ? rarSym(x.sym) + " " : ""}${x && x.code && S.lang !== "en" ? `${esc(x.code)} · ` : ""}${esc(x ? x.en : t)} <small>${o.have ? `${o.have}/` : ""}${o.n}</small></button></li>`; }).join("")}
+      ${rev ? `<li><button type="button" data-type="__rev" aria-pressed="${S.type === "__rev"}">Reverse holo <small>${rev}</small></button></li>` : ""}
+    </ul></div>` : ""}
     <div class="tools">
       <input class="search" id="cq" type="search" placeholder="Search cards: name or number" value="${esc(S.cq || "")}" aria-label="Search cards in this set" autocomplete="off">
-    </div>
-    <div class="tools">
       <div class="seg" role="group" aria-label="Show">${[["all", "All"], ["have", "Have"], ["need", "Need"], ...(hadN ? [["had", "Had"]] : [])].map(([v, l]) =>
         `<button type="button" data-own="${v}" aria-pressed="${S.own === v}">${l}</button>`).join("")}</div>
-      <span class="note">Tap a card to tick it. Reverse holos have their own card. Tap <b>i</b> for details or to mark it traded or sold.</span>
     </div>
-    <div class="grid" id="grid"></div>`;
+    <p class="note hint">Tap a card to tick it. Reverse holos have their own card. Tap <b>i</b> for details or to mark it traded or sold.</p>
+    <div class="grid" id="grid"></div>
+    ${stamped.length ? `<h2 class="sub">Stamped copies <small>${stamped.length} for the Grandmaster set</small></h2>
+      <div class="grid" id="stgrid">${stamped.map((st, i) => cardTile({ c: st, v: (st.v || "n")[0], multi: false, src: st.src }, C.cards[sk(st)] || "", i, C.had[sk(st)])).join("")}</div>` : ""}`;
+
+  const drawChart = () => {
+    const box = $("#chart"); if (!box) return;
+    const days = { "1m": 31, "3m": 92 }[S.chartRange];
+    const from = days ? new Date(Date.now() - days * 864e5).toISOString().slice(0, 10) : "";
+    const pts = hist.filter((p) => p[0] >= from);
+    box.innerHTML = valueChart(pts, S.chartWhich, box.clientWidth) || `<p class="note chartwait">${hist.length ? `Value tracking started ${esc(fmtDate(hist[0][0]))}. The graph appears after the second day.` : "Value tracking starts with the next daily price update. The graph fills in a little each day."}</p>`;
+  };
+  drawChart();
+  document.querySelectorAll("[data-cw]").forEach((b) => b.addEventListener("click", () => { S.chartWhich = b.dataset.cw; document.querySelectorAll("[data-cw]").forEach((x) => x.setAttribute("aria-pressed", x === b)); drawChart(); }));
+  document.querySelectorAll("[data-cr]").forEach((b) => b.addEventListener("click", () => { S.chartRange = b.dataset.cr; document.querySelectorAll("[data-cr]").forEach((x) => x.setAttribute("aria-pressed", x === b)); drawChart(); }));
+  $("#overview").addEventListener("toggle", (e) => store.set("pi-ov", e.target.open));
+  const cap = $("#fancap"), capText = cap?.textContent;
+  document.querySelectorAll(".fancard").forEach((b) => {
+    const h = hits.find((x) => x.i === +b.dataset.hit);
+    const show = () => { if (cap) cap.innerHTML = `<b>${esc(h.c.name)}</b> · ${esc(h.c.n)}${h.usd ? ` · ${money(aud(h.usd))}` : ""}`; };
+    b.addEventListener("mouseenter", show); b.addEventListener("focus", show);
+    b.addEventListener("mouseleave", () => { if (cap) cap.textContent = capText; });
+    b.addEventListener("click", () => openCard(id, h.i, cards));
+  });
+  $("#stgrid")?.addEventListener("click", (e) => {
+    const tile = e.target.closest(".card"); if (!tile) return;
+    const st = stamped[+tile.dataset.i], kk = sk(st), before = C.cards[kk] || "", v = (st.v || "n")[0];
+    setOwned(kk, before ? "" : v, { name: st.name, n: st.n, set: st.src });
+    tile.outerHTML = cardTile({ c: st, v, multi: false, src: st.src }, C.cards[kk] || "", +tile.dataset.i, C.had[kk]);
+    toast(before ? `Removed ${st.name} (${st.src})` : `Ticked ${st.name} (${st.src})`, () => { setOwned(kk, before, { name: st.name, n: st.n, set: st.src }); renderSet(id); });
+    refreshProgress(id);
+  });
 
   const draw = () => {
     S.list = cards.filter((c) => (!S.type || (S.type === "__rev" ? isRev(c.v) : rKey(c) === S.type)) &&
@@ -509,28 +625,31 @@ function cardTile(t, ownedAll, i, had) {
       ${owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}
       ${had ? `<span class="hadtag">Had · ${HOW[had.how]}</span>` : ""}
       ${label ? `<span class="vlabel">${esc(VLABEL[v] || label)}</span>` : ""}
-      <span class="info" role="button" aria-label="Versions and details">i</span></span>
-    <span class="cap"><span>${esc(c.name)}</span><span>${rarTag(c.r)}${esc(c.n)}</span></span></button>`;
+      ${t.src ? "" : `<span class="info" role="button" aria-label="Versions and details">i</span>`}</span>
+    <span class="cap"><span>${esc(c.name)}</span><span>${rarTag(c.r)}${esc(c.n)}</span></span>${t.src ? `<span class="hitset">${esc(t.src)}</span>` : ""}</button>`;
 }
 function refreshProgress(id) {
-  // cheap redraw of the numbers without rebuilding the grid (keeps scroll position)
+  // cheap redraw of the rings and values without rebuilding the grid (keeps scroll position)
   const set = D.setFiles[`${S.lang}/${id}`]; if (!set) return;
-  const k = (c) => key(S.lang, id, c.id);
-  const have = set.cards.filter((c) => C.cards[k(c)]).length;
-  const varTotal = set.cards.reduce((a, c) => a + versions(c).length, 0);
-  const varHave = set.cards.reduce((a, c) => a + (C.cards[k(c)] || "").length, 0);
-  const boxes = document.querySelectorAll(".prog > div");
-  [[have, set.cards.length], [varHave, varTotal]].forEach(([h, t], i) => {
-    const b = boxes[i]; if (!b) return;
-    b.querySelector(".num").innerHTML = `${h}<small> / ${t} · ${pct(h, t)}</small>`;
-    b.querySelector(".bar").classList.toggle("done", h === t);
-    b.querySelector(".bar i").style.width = `${(h / t) * 100}%`;
-  });
+  const P = D.prices[id], cards = set.cards, stamped = set.stamped || [];
+  const k = (c) => key(S.lang, id, c.id), sk = (st) => key(S.lang, st.set, st.id);
+  const have = cards.filter((c) => C.cards[k(c)]).length;
+  const varTotal = cards.reduce((a, c) => a + versions(c).length, 0);
+  const varHave = cards.reduce((a, c) => a + (C.cards[k(c)] || "").length, 0);
+  const gmTotal = varTotal + stamped.reduce((a, st) => a + (st.v || "n").length, 0);
+  const gmHave = varHave + stamped.reduce((a, st) => a + (C.cards[sk(st)] || "").length, 0);
+  const rings = $(".rings");
+  if (rings) rings.innerHTML = ring("Complete", have, cards.length, "r1") + ring("Master", varHave, varTotal, "r2") + ring("Grandmaster", gmHave, gmTotal, "r3");
+  if ($("#vc")) {
+    $("#vc").textContent = money(aud(cards.reduce((a, c) => a + (C.cards[k(c)] ? Math.min(...versions(c).filter((v) => C.cards[k(c)].includes(v)).map((v) => usdOf(c, v, P))) : 0), 0)));
+    $("#vm").textContent = money(aud(cards.reduce((a, c) => a + versions(c).filter((v) => (C.cards[k(c)] || "").includes(v)).reduce((x, v) => x + usdOf(c, v, P), 0), 0)));
+  }
 }
 
 // ---------------------------------------------------------------- card sheet: versions + details
-function openCard(setId, i) {
-  const dlg = $("#cardsheet"), c = S.list[i]; if (!c) return;
+function openCard(setId, i, list = S.list) {
+  S.sheetList = list;
+  const dlg = $("#cardsheet"), c = list[i]; if (!c) return;
   let rr;
   const kk = key(S.lang, setId, c.id), owned = C.cards[kk] || "", had = !owned && C.had[kk];
   const meta = D.sets[S.lang].sets.find((s) => s.id === setId);
@@ -546,7 +665,7 @@ function openCard(setId, i) {
             ${rr.desc ? `<p class="rdesc">${esc(rr.desc)}</p>` : ""}` : ""}
           ${c.cat ? `<div><dt>Type</dt><dd>${esc(c.cat)}</dd></div>` : ""}
           ${c.from ? `<div><dt>Original card</dt><dd>${esc(c.from)}</dd></div>` : ""}
-          ${c.usd ? `<div><dt>Market (TCGplayer)</dt><dd>US$${c.usd.toFixed(2)}</dd></div>` : ""}
+          ${S.lang === "en" && usdOf(c, "n", D.prices[setId]) ? versions(c).map((v) => `<div><dt>Market${versions(c).length > 1 ? `, ${esc(VNAME[v].toLowerCase())}` : ""}</dt><dd>${money(aud(usdOf(c, v, D.prices[setId])))}</dd></div>`).join("") : ""}
         </dl>
         ${had ? `<p class="hadnote"><b>${HOW[had.how]}</b> on ${esc(fmtDate(had.d))}${had.note ? `: ${esc(had.note)}` : ""}. Tap a version below if you get it back.</p>` : ""}
         <div class="vbtns" role="group" aria-label="Versions you have">${versions(c).map((v) =>
@@ -560,10 +679,10 @@ function openCard(setId, i) {
       </div>
     </div>
     <div class="nav2"><button type="button" class="btn ghost" id="csprev" ${i ? "" : "disabled"}>← Previous</button>
-      <button type="button" class="btn ghost" id="csnext" ${i < S.list.length - 1 ? "" : "disabled"}>Next →</button></div></div>`;
+      <button type="button" class="btn ghost" id="csnext" ${i < list.length - 1 ? "" : "disabled"}>Next →</button></div></div>`;
   $("#csx").onclick = () => dlg.close();
-  $("#csprev").onclick = () => openCard(setId, i - 1);
-  $("#csnext").onclick = () => openCard(setId, i + 1);
+  $("#csprev").onclick = () => openCard(setId, i - 1, list);
+  $("#csnext").onclick = () => openCard(setId, i + 1, list);
   dlg.querySelectorAll(".vbtn").forEach((b) => b.addEventListener("click", () => {
     const cur = C.cards[kk] || "", v = b.dataset.v;
     const next = cur.includes(v) ? cur.replace(v, "") : versions(c).filter((x) => cur.includes(x) || x === v).join("");
@@ -589,7 +708,7 @@ function openCard(setId, i) {
 }
 
 function redrawCard(setId, c, kk, i) {
-  openCard(setId, i);
+  openCard(setId, i, S.sheetList);
   S.redraw?.();
   refreshProgress(setId);
 }

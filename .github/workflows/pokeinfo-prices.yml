@@ -1,0 +1,36 @@
+name: PokeInfo - prices
+
+on:
+  schedule:
+    - cron: "43 18 * * *"   # every day about 4:45am Brisbane
+  workflow_dispatch:
+    inputs:
+      all:
+        description: "Look up every English set, not just the last three years"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency: pokeinfo-prices
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python pokeinfo/scripts/prices.py ${{ (github.event_name == 'workflow_dispatch' && inputs.all) && '--all' || '' }}
+      - name: Save
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add pokeinfo/data/en/prices pokeinfo/data/en/value-history.json
+          git diff --cached --quiet && exit 0
+          git commit -qm "PokeInfo: prices"
+          for i in 1 2 3 4 5 6; do git pull -q --rebase -X theirs && git push -q && break; sleep $((i*5)); done

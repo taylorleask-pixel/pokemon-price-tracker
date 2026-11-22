@@ -1,0 +1,577 @@
+{
+ "_source": "Per-pack odds measured by TCGplayer, collected on pullrates.com (Nov 2026). Rounded: 1 in X packs.",
+ "en": {
+  "me01": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    9
+   ],
+   [
+    "Ultra Rare",
+    12
+   ],
+   [
+    "Special Illustration Rare",
+    101
+   ],
+   [
+    "Mega Hyper Rare",
+    1260
+   ]
+  ],
+  "me02": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    9
+   ],
+   [
+    "Ultra Rare",
+    12
+   ],
+   [
+    "Special Illustration Rare",
+    80
+   ],
+   [
+    "Mega Hyper Rare",
+    1260
+   ]
+  ],
+  "me02.5": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    9
+   ],
+   [
+    "Ultra Rare",
+    21
+   ],
+   [
+    "Mega Attack Rare",
+    29
+   ],
+   [
+    "Special Illustration Rare",
+    70
+   ],
+   [
+    "Mega Hyper Rare",
+    540
+   ]
+  ],
+  "me03": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    9
+   ],
+   [
+    "Ultra Rare",
+    12
+   ],
+   [
+    "Special Illustration Rare",
+    81
+   ],
+   [
+    "Mega Hyper Rare",
+    1786
+   ]
+  ],
+  "me04": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    9
+   ],
+   [
+    "Ultra Rare",
+    12
+   ],
+   [
+    "Special Illustration Rare",
+    83
+   ],
+   [
+    "Mega Hyper Rare",
+    956
+   ]
+  ],
+  "me05": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    9
+   ],
+   [
+    "Ultra Rare",
+    12
+   ],
+   [
+    "Special Illustration Rare",
+    80
+   ],
+   [
+    "Mega Hyper Rare",
+    1081
+   ]
+  ],
+  "30th": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    5
+   ],
+   [
+    "Classic Collection",
+    10
+   ],
+   [
+    "Special Illustration Rare",
+    21
+   ],
+   [
+    "Futuristic Rare",
+    120
+   ]
+  ],
+  "me06": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    9
+   ],
+   [
+    "Ultra Rare",
+    12
+   ],
+   [
+    "Special Illustration Rare",
+    84
+   ],
+   [
+    "Mega Hyper Rare",
+    1250
+   ]
+  ],
+  "sv10.5b": [
+   [
+    "Poké Ball reverse holo",
+    3
+   ],
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    6
+   ],
+   [
+    "Ultra Rare",
+    17
+   ],
+   [
+    "Master Ball reverse holo",
+    19
+   ],
+   [
+    "Special Illustration Rare",
+    80
+   ]
+  ],
+  "sv10.5w": [
+   [
+    "Poké Ball reverse holo",
+    3
+   ],
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    6
+   ],
+   [
+    "Ultra Rare",
+    17
+   ],
+   [
+    "Master Ball reverse holo",
+    19
+   ],
+   [
+    "Special Illustration Rare",
+    80
+   ]
+  ],
+  "sv10": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    12
+   ],
+   [
+    "Ultra Rare",
+    16
+   ],
+   [
+    "Special Illustration Rare",
+    94
+   ],
+   [
+    "Hyper Rare",
+    149
+   ]
+  ],
+  "sv09": [
+   [
+    "Double Rare",
+    5
+   ],
+   [
+    "Illustration Rare",
+    12
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "Special Illustration Rare",
+    86
+   ],
+   [
+    "Hyper Rare",
+    137
+   ]
+  ],
+  "sv08.5": [
+   [
+    "Poké Ball reverse holo",
+    3
+   ],
+   [
+    "Double Rare",
+    6
+   ],
+   [
+    "Ultra Rare",
+    13
+   ],
+   [
+    "Master Ball reverse holo",
+    20
+   ],
+   [
+    "ACE SPEC Rare",
+    21
+   ],
+   [
+    "Special Illustration Rare",
+    45
+   ],
+   [
+    "Hyper Rare",
+    180
+   ]
+  ],
+  "sv08": [
+   [
+    "Double Rare",
+    6
+   ],
+   [
+    "Illustration Rare",
+    13
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "ACE SPEC Rare",
+    20
+   ],
+   [
+    "Special Illustration Rare",
+    87
+   ],
+   [
+    "Hyper Rare",
+    188
+   ]
+  ],
+  "sv07": [
+   [
+    "Double Rare",
+    6
+   ],
+   [
+    "Illustration Rare",
+    13
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "ACE SPEC Rare",
+    20
+   ],
+   [
+    "Special Illustration Rare",
+    90
+   ],
+   [
+    "Hyper Rare",
+    137
+   ]
+  ],
+  "sv06.5": [
+   [
+    "Double Rare",
+    6
+   ],
+   [
+    "Illustration Rare",
+    12
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "ACE SPEC Rare",
+    20
+   ],
+   [
+    "Special Illustration Rare",
+    67
+   ]
+  ],
+  "sv06": [
+   [
+    "Double Rare",
+    6
+   ],
+   [
+    "Illustration Rare",
+    13
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "ACE SPEC Rare",
+    20
+   ],
+   [
+    "Special Illustration Rare",
+    86
+   ],
+   [
+    "Hyper Rare",
+    146
+   ]
+  ],
+  "sv05": [
+   [
+    "Double Rare",
+    6
+   ],
+   [
+    "Illustration Rare",
+    13
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "ACE SPEC Rare",
+    20
+   ],
+   [
+    "Special Illustration Rare",
+    86
+   ],
+   [
+    "Hyper Rare",
+    139
+   ]
+  ],
+  "sv04.5": [
+   [
+    "Shiny Rare",
+    4
+   ],
+   [
+    "Double Rare",
+    6
+   ],
+   [
+    "Shiny Ultra Rare",
+    13
+   ],
+   [
+    "Illustration Rare",
+    14
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "Special Illustration Rare",
+    58
+   ],
+   [
+    "Hyper Rare",
+    62
+   ]
+  ],
+  "sv04": [
+   [
+    "Double Rare",
+    6
+   ],
+   [
+    "Illustration Rare",
+    13
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "Special Illustration Rare",
+    47
+   ],
+   [
+    "Hyper Rare",
+    82
+   ]
+  ],
+  "sv03.5": [
+   [
+    "Double Rare",
+    8
+   ],
+   [
+    "Illustration Rare",
+    12
+   ],
+   [
+    "Ultra Rare",
+    16
+   ],
+   [
+    "Special Illustration Rare",
+    32
+   ],
+   [
+    "Hyper Rare",
+    51
+   ]
+  ],
+  "sv03": [
+   [
+    "Double Rare",
+    7
+   ],
+   [
+    "Illustration Rare",
+    13
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "Special Illustration Rare",
+    32
+   ],
+   [
+    "Hyper Rare",
+    52
+   ]
+  ],
+  "sv02": [
+   [
+    "Double Rare",
+    7
+   ],
+   [
+    "Illustration Rare",
+    13
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "Special Illustration Rare",
+    32
+   ],
+   [
+    "Hyper Rare",
+    57
+   ]
+  ],
+  "sv01": [
+   [
+    "Double Rare",
+    7
+   ],
+   [
+    "Illustration Rare",
+    13
+   ],
+   [
+    "Ultra Rare",
+    15
+   ],
+   [
+    "Special Illustration Rare",
+    32
+   ],
+   [
+    "Hyper Rare",
+    54
+   ]
+  ]
+ }
+}

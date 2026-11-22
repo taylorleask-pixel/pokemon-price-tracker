@@ -366,6 +366,39 @@ def borrow_rarity(lang, sets):
     print(f"   rarity copied from the Japanese sets for {filled} cards")
 
 
+def link_stamped(lang, sets):
+    """Grandmaster set: stamped reprints of a set's cards that live in other sets (Trick or Trade pumpkin stamps,
+    holiday calendar snowflakes, prerelease stamps...). Each card in those sets says which set it was first in
+    ("from"); here every set gets the list of its stamped copies, so its page can show and count them."""
+    by_name = {}
+    for x in sets:
+        by_name.setdefault(x["name"], x)
+    found = {}
+    for x in sets:
+        path = OUT / lang / "sets" / f"{x['id']}.json"
+        if not x.get("cards_n") or not path.exists():
+            continue
+        for r in json.loads(path.read_text(encoding="utf-8"))["cards"]:
+            home = by_name.get(r.get("from") or "")
+            if home and home["id"] != x["id"]:
+                found.setdefault(home["id"], []).append({"set": x["id"], "src": x["name"], **{k: r[k] for k in ("id", "n", "name", "img", "ps", "pl", "r", "v") if r.get(k)}})
+    for x in sets:
+        path = OUT / lang / "sets" / f"{x['id']}.json"
+        if not x.get("cards_n") or not path.exists():
+            continue
+        data = json.loads(path.read_text(encoding="utf-8"))
+        st = found.get(x["id"], [])
+        if data.get("stamped", []) != st:
+            if st:
+                data["stamped"] = st
+            else:
+                data.pop("stamped", None)
+            path.write_text(json.dumps(data, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        if st:
+            x["gm_n"] = sum(len(r.get("v") or "n") for r in st)
+    print(f"   stamped copies linked to {len(found)} sets")
+
+
 def write_index(lang, sets):
     """One small file listing every card in the language, so the app can search all sets at once.
     cards: [set index, card id (0 when it's "<set>-<number>"), number, name, rarity, picture (1 = the set's usual picture address)]"""
@@ -430,6 +463,14 @@ def build_lang(lang):
         borrow_rarity(lang, sets)
     apply_art(lang, sets)
     fill_logos(lang, sets)
+    link_stamped(lang, sets)
+    try:   # pull rates per rarity (manual/hit-rates.json), shown in the set overview
+        hits = json.loads((MANUAL / "hit-rates.json").read_text(encoding="utf-8")).get(lang, {})
+    except Exception:  # noqa: BLE001
+        hits = {}
+    for x in sets:
+        if hits.get(x["id"]):
+            x["hits"] = hits[x["id"]]
     sets.sort(key=lambda x: (x["date"] or "9999", x["id"]))
     rep = {"name": LANGS[lang], "sets": len(sets), "sets_with_cards": sum(1 for x in sets if x["cards_n"]),
            "cards": sum(x["cards_n"] for x in sets), "cards_with_pictures": sum(x["img_n"] for x in sets),
