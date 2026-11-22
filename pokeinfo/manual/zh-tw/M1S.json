@@ -1,0 +1,565 @@
+{
+ "id": "M1S",
+ "name": "超級交響樂",
+ "serie": "MEGA",
+ "serie_id": "M",
+ "date": "2025-08-15",
+ "official": 63,
+ "logo": "img/logos/ja/M1S.webp",
+ "abbr": "M1S",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/063",
+   "name": "Tangela",
+   "zh": "蔓藤怪",
+   "v": "n"
+  },
+  {
+   "n": "002/063",
+   "name": "Tangrowth",
+   "zh": "巨蔓藤",
+   "v": "n"
+  },
+  {
+   "n": "003/063",
+   "name": "Chikorita",
+   "zh": "菊草葉",
+   "v": "n"
+  },
+  {
+   "n": "004/063",
+   "name": "Bayleef",
+   "zh": "月桂葉",
+   "v": "n"
+  },
+  {
+   "n": "005/063",
+   "name": "Meganium",
+   "zh": "大竺葵",
+   "v": "n"
+  },
+  {
+   "n": "006/063",
+   "name": "Shuckle",
+   "zh": "壺壺",
+   "v": "n"
+  },
+  {
+   "n": "007/063",
+   "name": "Nincada",
+   "zh": "土居忍士",
+   "v": "n"
+  },
+  {
+   "n": "008/063",
+   "name": "Ninjask",
+   "zh": "鐵面忍者",
+   "v": "n"
+  },
+  {
+   "n": "009/063",
+   "name": "Dhelmise",
+   "zh": "破破舵輪",
+   "v": "n"
+  },
+  {
+   "n": "010/063",
+   "name": "Litleo",
+   "zh": "小獅獅",
+   "v": "n"
+  },
+  {
+   "n": "011/063",
+   "name": "Pyroar",
+   "zh": "火炎獅",
+   "v": "n"
+  },
+  {
+   "n": "012/063",
+   "name": "Sizzlipede",
+   "zh": "燒火蚣",
+   "v": "n"
+  },
+  {
+   "n": "013/063",
+   "name": "Centiskorch",
+   "zh": "焚焰蚣",
+   "v": "n"
+  },
+  {
+   "n": "014/063",
+   "name": "Chi-Yu",
+   "zh": "古玉魚",
+   "v": "n"
+  },
+  {
+   "n": "015/063",
+   "name": "Mantine",
+   "zh": "巨翅飛魚",
+   "v": "n"
+  },
+  {
+   "n": "016/063",
+   "name": "Kyogre",
+   "zh": "蓋歐卡",
+   "v": "n"
+  },
+  {
+   "n": "017/063",
+   "name": "Snover",
+   "zh": "雪笠怪",
+   "v": "n"
+  },
+  {
+   "n": "018/063",
+   "name": "Mega Abomasnow ex",
+   "zh": "超級暴雪王ex",
+   "v": "n"
+  },
+  {
+   "n": "019/063",
+   "name": "Clauncher",
+   "zh": "鐵臂槍蝦",
+   "v": "n"
+  },
+  {
+   "n": "020/063",
+   "name": "Clawitzer",
+   "zh": "鋼炮臂蝦",
+   "v": "n"
+  },
+  {
+   "n": "021/063",
+   "name": "Sobble",
+   "zh": "淚眼蜥",
+   "v": "n"
+  },
+  {
+   "n": "022/063",
+   "name": "Drizzile",
+   "zh": "變澀蜥",
+   "v": "n"
+  },
+  {
+   "n": "023/063",
+   "name": "Inteleon",
+   "zh": "千面避役",
+   "v": "n"
+  },
+  {
+   "n": "024/063",
+   "name": "Snom",
+   "zh": "雪吞蟲",
+   "v": "n"
+  },
+  {
+   "n": "025/063",
+   "name": "Frosmoth",
+   "zh": "雪絨蛾",
+   "v": "n"
+  },
+  {
+   "n": "026/063",
+   "name": "Eiscue",
+   "zh": "冰砌鵝",
+   "v": "n"
+  },
+  {
+   "n": "027/063",
+   "name": "Magnemite",
+   "zh": "小磁怪",
+   "v": "n"
+  },
+  {
+   "n": "028/063",
+   "name": "Magneton",
+   "zh": "三合一磁怪",
+   "v": "n"
+  },
+  {
+   "n": "029/063",
+   "name": "Magnezone",
+   "zh": "自爆磁怪",
+   "v": "n"
+  },
+  {
+   "n": "030/063",
+   "name": "Raikou",
+   "zh": "雷公",
+   "v": "n"
+  },
+  {
+   "n": "031/063",
+   "name": "Electrike",
+   "zh": "落雷獸",
+   "v": "n"
+  },
+  {
+   "n": "032/063",
+   "name": "Mega Manectric ex",
+   "zh": "超級雷電獸ex",
+   "v": "n"
+  },
+  {
+   "n": "033/063",
+   "name": "Pachirisu",
+   "zh": "帕奇利茲",
+   "v": "n"
+  },
+  {
+   "n": "034/063",
+   "name": "Helioptile",
+   "zh": "傘電蜥",
+   "v": "n"
+  },
+  {
+   "n": "035/063",
+   "name": "Heliolisk",
+   "zh": "光電傘蜥",
+   "v": "n"
+  },
+  {
+   "n": "036/063",
+   "name": "Abra",
+   "zh": "凱西",
+   "v": "n"
+  },
+  {
+   "n": "037/063",
+   "name": "Kadabra",
+   "zh": "勇基拉",
+   "v": "n"
+  },
+  {
+   "n": "038/063",
+   "name": "Alakazam",
+   "zh": "胡地",
+   "v": "n"
+  },
+  {
+   "n": "039/063",
+   "name": "Jynx",
+   "zh": "迷唇姐",
+   "v": "n"
+  },
+  {
+   "n": "040/063",
+   "name": "Ralts",
+   "zh": "拉魯拉絲",
+   "v": "n"
+  },
+  {
+   "n": "041/063",
+   "name": "Kirlia",
+   "zh": "奇魯莉安",
+   "v": "n"
+  },
+  {
+   "n": "042/063",
+   "name": "Mega Gardevoir ex",
+   "zh": "超級沙奈朵ex",
+   "v": "n"
+  },
+  {
+   "n": "043/063",
+   "name": "Shedinja",
+   "zh": "脫殼忍者",
+   "v": "n"
+  },
+  {
+   "n": "044/063",
+   "name": "Spoink",
+   "zh": "跳跳豬",
+   "v": "n"
+  },
+  {
+   "n": "045/063",
+   "name": "Grumpig",
+   "zh": "噗噗豬",
+   "v": "n"
+  },
+  {
+   "n": "046/063",
+   "name": "Xerneas",
+   "zh": "哲爾尼亞斯",
+   "v": "n"
+  },
+  {
+   "n": "047/063",
+   "name": "Greavard",
+   "zh": "墓仔狗",
+   "v": "n"
+  },
+  {
+   "n": "048/063",
+   "name": "Houndstone",
+   "zh": "墓揚犬",
+   "v": "n"
+  },
+  {
+   "n": "049/063",
+   "name": "Mega Latias ex",
+   "zh": "超級拉帝亞斯ex",
+   "v": "n"
+  },
+  {
+   "n": "050/063",
+   "name": "Latios",
+   "zh": "拉帝歐斯",
+   "v": "n"
+  },
+  {
+   "n": "051/063",
+   "name": "Mega Kangaskhan ex",
+   "zh": "超級袋獸ex",
+   "v": "n"
+  },
+  {
+   "n": "052/063",
+   "name": "Delibird",
+   "zh": "信使鳥",
+   "v": "n"
+  },
+  {
+   "n": "053/063",
+   "name": "Buneary",
+   "zh": "捲捲耳",
+   "v": "n"
+  },
+  {
+   "n": "054/063",
+   "name": "Lopunny",
+   "zh": "長耳兔",
+   "v": "n"
+  },
+  {
+   "n": "055/063",
+   "name": "Stufful",
+   "zh": "童偶熊",
+   "v": "n"
+  },
+  {
+   "n": "056/063",
+   "name": "Bewear",
+   "zh": "穿著熊",
+   "v": "n"
+  },
+  {
+   "n": "057/063",
+   "name": "Strange Timepiece",
+   "zh": "奇異時鐘",
+   "v": "n"
+  },
+  {
+   "n": "058/063",
+   "name": "Mega Signal",
+   "zh": "超級信號",
+   "v": "n"
+  },
+  {
+   "n": "059/063",
+   "name": "Acerola's Mischief",
+   "zh": "阿塞蘿拉的惡作劇",
+   "v": "n"
+  },
+  {
+   "n": "060/063",
+   "name": "Wally's Compassion",
+   "zh": "滿充的體貼",
+   "v": "n"
+  },
+  {
+   "n": "061/063",
+   "name": "Forest of Vitality",
+   "zh": "活力森林",
+   "v": "n"
+  },
+  {
+   "n": "062/063",
+   "name": "Surfing Beach",
+   "zh": "衝浪海灘",
+   "v": "n"
+  },
+  {
+   "n": "063/063",
+   "name": "Mystery Garden",
+   "zh": "神秘花園",
+   "v": "n"
+  },
+  {
+   "n": "064/063",
+   "name": "Shuckle",
+   "zh": "壺壺",
+   "v": "h"
+  },
+  {
+   "n": "065/063",
+   "name": "Ninjask",
+   "zh": "鐵面忍者",
+   "v": "h"
+  },
+  {
+   "n": "066/063",
+   "name": "Litleo",
+   "zh": "小獅獅",
+   "v": "h"
+  },
+  {
+   "n": "067/063",
+   "name": "Snover",
+   "zh": "雪笠怪",
+   "v": "h"
+  },
+  {
+   "n": "068/063",
+   "name": "Clawitzer",
+   "zh": "鋼炮臂蝦",
+   "v": "h"
+  },
+  {
+   "n": "069/063",
+   "name": "Inteleon",
+   "zh": "千面避役",
+   "v": "h"
+  },
+  {
+   "n": "070/063",
+   "name": "Helioptile",
+   "zh": "傘電蜥",
+   "v": "h"
+  },
+  {
+   "n": "071/063",
+   "name": "Alakazam",
+   "zh": "胡地",
+   "v": "h"
+  },
+  {
+   "n": "072/063",
+   "name": "Shedinja",
+   "zh": "脫殼忍者",
+   "v": "h"
+  },
+  {
+   "n": "073/063",
+   "name": "Houndstone",
+   "zh": "墓揚犬",
+   "v": "h"
+  },
+  {
+   "n": "074/063",
+   "name": "Delibird",
+   "zh": "信使鳥",
+   "v": "h"
+  },
+  {
+   "n": "075/063",
+   "name": "Stufful",
+   "zh": "童偶熊",
+   "v": "h"
+  },
+  {
+   "n": "076/063",
+   "name": "Mega Abomasnow ex",
+   "zh": "超級暴雪王ex",
+   "v": "h"
+  },
+  {
+   "n": "077/063",
+   "name": "Mega Manectric ex",
+   "zh": "超級雷電獸ex",
+   "v": "h"
+  },
+  {
+   "n": "078/063",
+   "name": "Mega Gardevoir ex",
+   "zh": "超級沙奈朵ex",
+   "v": "h"
+  },
+  {
+   "n": "079/063",
+   "name": "Mega Latias ex",
+   "zh": "超級拉帝亞斯ex",
+   "v": "h"
+  },
+  {
+   "n": "080/063",
+   "name": "Mega Kangaskhan ex",
+   "zh": "超級袋獸ex",
+   "v": "h"
+  },
+  {
+   "n": "081/063",
+   "name": "Buddy-Buddy Poffin",
+   "zh": "好友寶芬",
+   "v": "h"
+  },
+  {
+   "n": "082/063",
+   "name": "Rare Candy",
+   "zh": "神奇糖果",
+   "v": "h"
+  },
+  {
+   "n": "083/063",
+   "name": "Mega Signal",
+   "zh": "超級信號",
+   "v": "h"
+  },
+  {
+   "n": "084/063",
+   "name": "Acerola's Mischief",
+   "zh": "阿塞蘿拉的惡作劇",
+   "v": "h"
+  },
+  {
+   "n": "085/063",
+   "name": "Wally's Compassion",
+   "zh": "滿充的體貼",
+   "v": "h"
+  },
+  {
+   "n": "086/063",
+   "name": "Mystery Garden",
+   "zh": "神秘花園",
+   "v": "h"
+  },
+  {
+   "n": "087/063",
+   "name": "Mega Gardevoir ex",
+   "zh": "超級沙奈朵ex",
+   "v": "h"
+  },
+  {
+   "n": "088/063",
+   "name": "Mega Latias ex",
+   "zh": "超級拉帝亞斯ex",
+   "v": "h"
+  },
+  {
+   "n": "089/063",
+   "name": "Mega Kangaskhan ex",
+   "zh": "超級袋獸ex",
+   "v": "h"
+  },
+  {
+   "n": "090/063",
+   "name": "Acerola's Mischief",
+   "zh": "阿塞蘿拉的惡作劇",
+   "v": "h"
+  },
+  {
+   "n": "091/063",
+   "name": "Wally's Compassion",
+   "zh": "滿充的體貼",
+   "v": "h"
+  },
+  {
+   "n": "092/063",
+   "name": "Mega Gardevoir ex",
+   "zh": "超級沙奈朵ex",
+   "v": "h"
+  }
+ ]
+}

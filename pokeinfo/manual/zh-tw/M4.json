@@ -1,0 +1,733 @@
+{
+ "id": "M4",
+ "name": "Ninja Spinner",
+ "serie": "MEGA",
+ "serie_id": "M",
+ "date": "2026-03-13",
+ "official": 83,
+ "logo": "img/logos/ja/M4.webp",
+ "abbr": "M4",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/083",
+   "name": "Weedle",
+   "zh": "獨角蟲",
+   "v": "n"
+  },
+  {
+   "n": "002/083",
+   "name": "Kakuna",
+   "zh": "鐵殼蛹",
+   "v": "n"
+  },
+  {
+   "n": "003/083",
+   "name": "Beedrill ex",
+   "zh": "大針蜂ex",
+   "v": "n"
+  },
+  {
+   "n": "004/083",
+   "name": "Carnivine",
+   "zh": "尖牙籠",
+   "v": "n"
+  },
+  {
+   "n": "005/083",
+   "name": "Chespin",
+   "zh": "哈力栗",
+   "v": "n"
+  },
+  {
+   "n": "006/083",
+   "name": "Quilladin",
+   "zh": "胖胖哈力",
+   "v": "n"
+  },
+  {
+   "n": "007/083",
+   "name": "Chesnaught",
+   "zh": "布里卡隆",
+   "v": "n"
+  },
+  {
+   "n": "008/083",
+   "name": "Vulpix",
+   "zh": "六尾",
+   "v": "n"
+  },
+  {
+   "n": "009/083",
+   "name": "Ninetales",
+   "zh": "九尾",
+   "v": "n"
+  },
+  {
+   "n": "010/083",
+   "name": "Ho-Oh",
+   "zh": "鳳王",
+   "v": "n"
+  },
+  {
+   "n": "011/083",
+   "name": "Fennekin",
+   "zh": "火狐狸",
+   "v": "n"
+  },
+  {
+   "n": "012/083",
+   "name": "Braixen",
+   "zh": "長尾火狐",
+   "v": "n"
+  },
+  {
+   "n": "013/083",
+   "name": "Delphox",
+   "zh": "妖火紅狐",
+   "v": "n"
+  },
+  {
+   "n": "014/083",
+   "name": "Litleo",
+   "zh": "小獅獅",
+   "v": "n"
+  },
+  {
+   "n": "015/083",
+   "name": "Mega Pyroar ex",
+   "zh": "超級火炎獅ex",
+   "v": "n"
+  },
+  {
+   "n": "016/083",
+   "name": "Remoraid",
+   "zh": "鐵炮魚",
+   "v": "n"
+  },
+  {
+   "n": "017/083",
+   "name": "Octillery",
+   "zh": "章魚桶",
+   "v": "n"
+  },
+  {
+   "n": "018/083",
+   "name": "Delibird",
+   "zh": "信使鳥",
+   "v": "n"
+  },
+  {
+   "n": "019/083",
+   "name": "Keldeo",
+   "zh": "凱路迪歐",
+   "v": "n"
+  },
+  {
+   "n": "020/083",
+   "name": "Froakie",
+   "zh": "呱呱泡蛙",
+   "v": "n"
+  },
+  {
+   "n": "021/083",
+   "name": "Frogadier",
+   "zh": "呱頭蛙",
+   "v": "n"
+  },
+  {
+   "n": "022/083",
+   "name": "Mega Greninja ex",
+   "zh": "超級甲賀忍蛙ex",
+   "v": "n"
+  },
+  {
+   "n": "023/083",
+   "name": "Bergmite",
+   "zh": "冰寶",
+   "v": "n"
+  },
+  {
+   "n": "024/083",
+   "name": "Avalugg",
+   "zh": "冰岩怪",
+   "v": "n"
+  },
+  {
+   "n": "025/083",
+   "name": "Wimpod",
+   "zh": "膽小蟲",
+   "v": "n"
+  },
+  {
+   "n": "026/083",
+   "name": "Golisopod",
+   "zh": "具甲武者",
+   "v": "n"
+  },
+  {
+   "n": "027/083",
+   "name": "Mareep",
+   "zh": "咩利羊",
+   "v": "n"
+  },
+  {
+   "n": "028/083",
+   "name": "Flaaffy",
+   "zh": "茸茸羊",
+   "v": "n"
+  },
+  {
+   "n": "029/083",
+   "name": "Ampharos",
+   "zh": "電龍",
+   "v": "n"
+  },
+  {
+   "n": "030/083",
+   "name": "Emolga",
+   "zh": "電飛鼠",
+   "v": "n"
+  },
+  {
+   "n": "031/083",
+   "name": "Deoxys",
+   "zh": "代歐奇希斯",
+   "v": "n"
+  },
+  {
+   "n": "032/083",
+   "name": "Deoxys",
+   "zh": "代歐奇希斯",
+   "v": "n"
+  },
+  {
+   "n": "033/083",
+   "name": "Deoxys",
+   "zh": "代歐奇希斯",
+   "v": "n"
+  },
+  {
+   "n": "034/083",
+   "name": "Deoxys",
+   "zh": "代歐奇希斯",
+   "v": "n"
+  },
+  {
+   "n": "035/083",
+   "name": "Mega Floette ex",
+   "zh": "超級花葉蒂ex",
+   "v": "n"
+  },
+  {
+   "n": "036/083",
+   "name": "Espurr",
+   "zh": "妙喵",
+   "v": "n"
+  },
+  {
+   "n": "037/083",
+   "name": "Meowstic",
+   "zh": "超能妙喵",
+   "v": "n"
+  },
+  {
+   "n": "038/083",
+   "name": "Phantump",
+   "zh": "小木靈",
+   "v": "n"
+  },
+  {
+   "n": "039/083",
+   "name": "Trevenant",
+   "zh": "朽木妖",
+   "v": "n"
+  },
+  {
+   "n": "040/083",
+   "name": "Pumpkaboo",
+   "zh": "南瓜精",
+   "v": "n"
+  },
+  {
+   "n": "041/083",
+   "name": "Gourgeist ex",
+   "zh": "南瓜怪人ex",
+   "v": "n"
+  },
+  {
+   "n": "042/083",
+   "name": "Xerneas",
+   "zh": "哲爾尼亞斯",
+   "v": "n"
+  },
+  {
+   "n": "043/083",
+   "name": "Sudowoodo",
+   "zh": "樹才怪",
+   "v": "n"
+  },
+  {
+   "n": "044/083",
+   "name": "Phanpy",
+   "zh": "小小象",
+   "v": "n"
+  },
+  {
+   "n": "045/083",
+   "name": "Donphan",
+   "zh": "頓甲",
+   "v": "n"
+  },
+  {
+   "n": "046/083",
+   "name": "Baltoy",
+   "zh": "天秤偶",
+   "v": "n"
+  },
+  {
+   "n": "047/083",
+   "name": "Claydol",
+   "zh": "念力土偶",
+   "v": "n"
+  },
+  {
+   "n": "048/083",
+   "name": "Zubat",
+   "zh": "超音蝠",
+   "v": "n"
+  },
+  {
+   "n": "049/083",
+   "name": "Golbat",
+   "zh": "大嘴蝠",
+   "v": "n"
+  },
+  {
+   "n": "050/083",
+   "name": "Crobat",
+   "zh": "叉字蝠",
+   "v": "n"
+  },
+  {
+   "n": "051/083",
+   "name": "Qwilfish",
+   "zh": "千針魚",
+   "v": "n"
+  },
+  {
+   "n": "052/083",
+   "name": "Stunky",
+   "zh": "臭鼬噗",
+   "v": "n"
+  },
+  {
+   "n": "053/083",
+   "name": "Skuntank",
+   "zh": "坦克臭鼬",
+   "v": "n"
+  },
+  {
+   "n": "054/083",
+   "name": "Trubbish",
+   "zh": "破破袋",
+   "v": "n"
+  },
+  {
+   "n": "055/083",
+   "name": "Garbodor",
+   "zh": "灰塵山",
+   "v": "n"
+  },
+  {
+   "n": "056/083",
+   "name": "Skrelp",
+   "zh": "垃垃藻",
+   "v": "n"
+  },
+  {
+   "n": "057/083",
+   "name": "Beldum",
+   "zh": "鐵啞鈴",
+   "v": "n"
+  },
+  {
+   "n": "058/083",
+   "name": "Metang",
+   "zh": "金屬怪",
+   "v": "n"
+  },
+  {
+   "n": "059/083",
+   "name": "Metagross",
+   "zh": "巨金怪",
+   "v": "n"
+  },
+  {
+   "n": "060/083",
+   "name": "Ferroseed",
+   "zh": "種子鐵球",
+   "v": "n"
+  },
+  {
+   "n": "061/083",
+   "name": "Ferrothorn",
+   "zh": "堅果啞鈴",
+   "v": "n"
+  },
+  {
+   "n": "062/083",
+   "name": "Cobalion ex",
+   "zh": "勾帕路翁ex",
+   "v": "n"
+  },
+  {
+   "n": "063/083",
+   "name": "Mega Dragalge ex",
+   "zh": "超級毒藻龍ex",
+   "v": "n"
+  },
+  {
+   "n": "064/083",
+   "name": "Goomy",
+   "zh": "黏黏寶",
+   "v": "n"
+  },
+  {
+   "n": "065/083",
+   "name": "Sliggoo",
+   "zh": "黏美兒",
+   "v": "n"
+  },
+  {
+   "n": "066/083",
+   "name": "Goodra",
+   "zh": "黏美龍",
+   "v": "n"
+  },
+  {
+   "n": "067/083",
+   "name": "Tauros",
+   "zh": "肯泰羅",
+   "v": "n"
+  },
+  {
+   "n": "068/083",
+   "name": "Patrat",
+   "zh": "探探鼠",
+   "v": "n"
+  },
+  {
+   "n": "069/083",
+   "name": "Watchog",
+   "zh": "步哨鼠",
+   "v": "n"
+  },
+  {
+   "n": "070/083",
+   "name": "Minccino",
+   "zh": "泡沫栗鼠",
+   "v": "n"
+  },
+  {
+   "n": "071/083",
+   "name": "Cinccino ex",
+   "zh": "奇諾栗鼠ex",
+   "v": "n"
+  },
+  {
+   "n": "072/083",
+   "name": "Special Red Card",
+   "zh": "特殊紅牌",
+   "v": "n"
+  },
+  {
+   "n": "073/083",
+   "name": "Great Haul Net",
+   "zh": "豐收漁網",
+   "v": "n"
+  },
+  {
+   "n": "074/083",
+   "name": "Transformation Tome",
+   "zh": "變化之書",
+   "v": "n"
+  },
+  {
+   "n": "075/083",
+   "name": "AZ",
+   "zh": "AZ的平和",
+   "v": "n"
+  },
+  {
+   "n": "076/083",
+   "name": "Philippe",
+   "zh": "吉普索",
+   "v": "n"
+  },
+  {
+   "n": "077/083",
+   "name": "Roxie",
+   "zh": "霍米加的演奏",
+   "v": "n"
+  },
+  {
+   "n": "078/083",
+   "name": "Emma",
+   "zh": "瑪琪艾兒",
+   "v": "n"
+  },
+  {
+   "n": "079/083",
+   "name": "Ange Floette",
+   "zh": "昂主花葉蒂",
+   "v": "n"
+  },
+  {
+   "n": "080/083",
+   "name": "Prism Tower",
+   "zh": "稜鏡塔",
+   "v": "n"
+  },
+  {
+   "n": "081/083",
+   "name": "Nitro R Energy",
+   "zh": "燃料【火】能量",
+   "v": "n"
+  },
+  {
+   "n": "082/083",
+   "name": "Bubbly W Energy",
+   "zh": "泡沫【水】能量",
+   "v": "n"
+  },
+  {
+   "n": "083/083",
+   "name": "Magnetic M Energy",
+   "zh": "磁鐵【鋼】能量",
+   "v": "n"
+  },
+  {
+   "n": "084/083",
+   "name": "Chespin",
+   "zh": "哈力栗",
+   "v": "h"
+  },
+  {
+   "n": "085/083",
+   "name": "Fennekin",
+   "zh": "火狐狸",
+   "v": "h"
+  },
+  {
+   "n": "086/083",
+   "name": "Froakie",
+   "zh": "呱呱泡蛙",
+   "v": "h"
+  },
+  {
+   "n": "087/083",
+   "name": "Frogadier",
+   "zh": "呱頭蛙",
+   "v": "h"
+  },
+  {
+   "n": "088/083",
+   "name": "Ampharos",
+   "zh": "電龍",
+   "v": "h"
+  },
+  {
+   "n": "089/083",
+   "name": "Xerneas",
+   "zh": "哲爾尼亞斯",
+   "v": "h"
+  },
+  {
+   "n": "090/083",
+   "name": "Claydol",
+   "zh": "念力土偶",
+   "v": "h"
+  },
+  {
+   "n": "091/083",
+   "name": "Crobat",
+   "zh": "叉字蝠",
+   "v": "h"
+  },
+  {
+   "n": "092/083",
+   "name": "Metang",
+   "zh": "金屬怪",
+   "v": "h"
+  },
+  {
+   "n": "093/083",
+   "name": "Sliggoo",
+   "zh": "黏美兒",
+   "v": "h"
+  },
+  {
+   "n": "094/083",
+   "name": "Tauros",
+   "zh": "肯泰羅",
+   "v": "h"
+  },
+  {
+   "n": "095/083",
+   "name": "Watchog",
+   "zh": "步哨鼠",
+   "v": "h"
+  },
+  {
+   "n": "096/083",
+   "name": "Beedrill ex",
+   "zh": "大針蜂ex",
+   "v": "h"
+  },
+  {
+   "n": "097/083",
+   "name": "Mega Pyroar ex",
+   "zh": "超級火炎獅ex",
+   "v": "h"
+  },
+  {
+   "n": "098/083",
+   "name": "Mega Greninja ex",
+   "zh": "超級甲賀忍蛙ex",
+   "v": "h"
+  },
+  {
+   "n": "099/083",
+   "name": "Mega Floette ex",
+   "zh": "超級花葉蒂ex",
+   "v": "h"
+  },
+  {
+   "n": "100/083",
+   "name": "Gourgeist ex",
+   "zh": "南瓜怪人ex",
+   "v": "h"
+  },
+  {
+   "n": "101/083",
+   "name": "Cobalion ex",
+   "zh": "勾帕路翁ex",
+   "v": "h"
+  },
+  {
+   "n": "102/083",
+   "name": "Mega Dragalge ex",
+   "zh": "超級毒藻龍ex",
+   "v": "h"
+  },
+  {
+   "n": "103/083",
+   "name": "Cinccino ex",
+   "zh": "奇諾栗鼠ex",
+   "v": "h"
+  },
+  {
+   "n": "104/083",
+   "name": "Energy Retrieval",
+   "zh": "能量回收",
+   "v": "h"
+  },
+  {
+   "n": "105/083",
+   "name": "Jumbo Ice Cream",
+   "zh": "超大冰淇淋",
+   "v": "h"
+  },
+  {
+   "n": "106/083",
+   "name": "Special Red Card",
+   "zh": "特殊紅牌",
+   "v": "h"
+  },
+  {
+   "n": "107/083",
+   "name": "Tool Scrapper",
+   "zh": "道具拆除器",
+   "v": "h"
+  },
+  {
+   "n": "108/083",
+   "name": "AZ",
+   "zh": "AZ的平和",
+   "v": "h"
+  },
+  {
+   "n": "109/083",
+   "name": "Philippe",
+   "zh": "吉普索",
+   "v": "h"
+  },
+  {
+   "n": "110/083",
+   "name": "Roxie",
+   "zh": "霍米加的演奏",
+   "v": "h"
+  },
+  {
+   "n": "111/083",
+   "name": "Emma",
+   "zh": "瑪琪艾兒",
+   "v": "h"
+  },
+  {
+   "n": "112/083",
+   "name": "Surfing Beach",
+   "zh": "衝浪海灘",
+   "v": "h"
+  },
+  {
+   "n": "113/083",
+   "name": "Prism Tower",
+   "zh": "稜鏡塔",
+   "v": "h"
+  },
+  {
+   "n": "114/083",
+   "name": "Mega Greninja ex",
+   "zh": "超級甲賀忍蛙ex",
+   "v": "h"
+  },
+  {
+   "n": "115/083",
+   "name": "Mega Floette ex",
+   "zh": "超級花葉蒂ex",
+   "v": "h"
+  },
+  {
+   "n": "116/083",
+   "name": "Mega Dragalge ex",
+   "zh": "超級毒藻龍ex",
+   "v": "h"
+  },
+  {
+   "n": "117/083",
+   "name": "Cinccino ex",
+   "zh": "奇諾栗鼠ex",
+   "v": "h"
+  },
+  {
+   "n": "118/083",
+   "name": "AZ",
+   "zh": "AZ的平和",
+   "v": "h"
+  },
+  {
+   "n": "119/083",
+   "name": "Roxie",
+   "zh": "霍米加的演奏",
+   "v": "h"
+  },
+  {
+   "n": "120/083",
+   "name": "Mega Greninja ex",
+   "zh": "超級甲賀忍蛙ex",
+   "v": "h"
+  }
+ ]
+}

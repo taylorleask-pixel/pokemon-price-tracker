@@ -1,0 +1,565 @@
+{
+ "id": "M1L",
+ "name": "超級勇氣",
+ "serie": "MEGA",
+ "serie_id": "M",
+ "date": "2025-08-15",
+ "official": 63,
+ "logo": "img/logos/ja/M1L.webp",
+ "abbr": "M1L",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/063",
+   "name": "Bulbasaur",
+   "zh": "妙蛙種子",
+   "v": "n"
+  },
+  {
+   "n": "002/063",
+   "name": "Ivysaur",
+   "zh": "妙蛙草",
+   "v": "n"
+  },
+  {
+   "n": "003/063",
+   "name": "Mega Venusaur ex",
+   "zh": "超級妙蛙花ex",
+   "v": "n"
+  },
+  {
+   "n": "004/063",
+   "name": "Exeggcute",
+   "zh": "蛋蛋",
+   "v": "n"
+  },
+  {
+   "n": "005/063",
+   "name": "Exeggutor",
+   "zh": "椰蛋樹",
+   "v": "n"
+  },
+  {
+   "n": "006/063",
+   "name": "Celebi",
+   "zh": "時拉比",
+   "v": "n"
+  },
+  {
+   "n": "007/063",
+   "name": "Seedot",
+   "zh": "橡實果",
+   "v": "n"
+  },
+  {
+   "n": "008/063",
+   "name": "Nuzleaf",
+   "zh": "長鼻葉",
+   "v": "n"
+  },
+  {
+   "n": "009/063",
+   "name": "Shiftry",
+   "zh": "狡猾天狗",
+   "v": "n"
+  },
+  {
+   "n": "010/063",
+   "name": "Vulpix",
+   "zh": "六尾",
+   "v": "n"
+  },
+  {
+   "n": "011/063",
+   "name": "Ninetales",
+   "zh": "九尾",
+   "v": "n"
+  },
+  {
+   "n": "012/063",
+   "name": "Numel",
+   "zh": "呆火駝",
+   "v": "n"
+  },
+  {
+   "n": "013/063",
+   "name": "Mega Camerupt ex",
+   "zh": "超級噴火駝ex",
+   "v": "n"
+  },
+  {
+   "n": "014/063",
+   "name": "Volcanion",
+   "zh": "波爾凱尼恩",
+   "v": "n"
+  },
+  {
+   "n": "015/063",
+   "name": "Scorbunny",
+   "zh": "炎兔兒",
+   "v": "n"
+  },
+  {
+   "n": "016/063",
+   "name": "Raboot",
+   "zh": "騰蹴小將",
+   "v": "n"
+  },
+  {
+   "n": "017/063",
+   "name": "Cinderace",
+   "zh": "閃焰王牌",
+   "v": "n"
+  },
+  {
+   "n": "018/063",
+   "name": "Corphish",
+   "zh": "龍蝦小兵",
+   "v": "n"
+  },
+  {
+   "n": "019/063",
+   "name": "Gimmighoul",
+   "zh": "索財靈",
+   "v": "n"
+  },
+  {
+   "n": "020/063",
+   "name": "Sandshrew",
+   "zh": "穿山鼠",
+   "v": "n"
+  },
+  {
+   "n": "021/063",
+   "name": "Sandslash",
+   "zh": "穿山王",
+   "v": "n"
+  },
+  {
+   "n": "022/063",
+   "name": "Onix",
+   "zh": "大岩蛇",
+   "v": "n"
+  },
+  {
+   "n": "023/063",
+   "name": "Tyrogue",
+   "zh": "無畏小子",
+   "v": "n"
+  },
+  {
+   "n": "024/063",
+   "name": "Makuhita",
+   "zh": "幕下力士",
+   "v": "n"
+  },
+  {
+   "n": "025/063",
+   "name": "Hariyama",
+   "zh": "鐵掌力士",
+   "v": "n"
+  },
+  {
+   "n": "026/063",
+   "name": "Lunatone",
+   "zh": "月石",
+   "v": "n"
+  },
+  {
+   "n": "027/063",
+   "name": "Solrock",
+   "zh": "太陽岩",
+   "v": "n"
+  },
+  {
+   "n": "028/063",
+   "name": "Riolu",
+   "zh": "利歐路",
+   "v": "n"
+  },
+  {
+   "n": "029/063",
+   "name": "Mega Lucario ex",
+   "zh": "超級路卡利歐ex",
+   "v": "n"
+  },
+  {
+   "n": "030/063",
+   "name": "Croagunk",
+   "zh": "不良蛙",
+   "v": "n"
+  },
+  {
+   "n": "031/063",
+   "name": "Toxicroak",
+   "zh": "毒骷蛙",
+   "v": "n"
+  },
+  {
+   "n": "032/063",
+   "name": "Marshadow",
+   "zh": "瑪夏多",
+   "v": "n"
+  },
+  {
+   "n": "033/063",
+   "name": "Stonjourner",
+   "zh": "巨石丁",
+   "v": "n"
+  },
+  {
+   "n": "034/063",
+   "name": "Nacli",
+   "zh": "鹽石寶",
+   "v": "n"
+  },
+  {
+   "n": "035/063",
+   "name": "Naclstack",
+   "zh": "鹽石壘",
+   "v": "n"
+  },
+  {
+   "n": "036/063",
+   "name": "Garganacl",
+   "zh": "鹽石巨靈",
+   "v": "n"
+  },
+  {
+   "n": "037/063",
+   "name": "Crawdaunt",
+   "zh": "鐵螯龍蝦",
+   "v": "n"
+  },
+  {
+   "n": "038/063",
+   "name": "Mega Absol ex",
+   "zh": "超級阿勃梭魯ex",
+   "v": "n"
+  },
+  {
+   "n": "039/063",
+   "name": "Spiritomb",
+   "zh": "花岩怪",
+   "v": "n"
+  },
+  {
+   "n": "040/063",
+   "name": "Yveltal",
+   "zh": "伊裴爾塔爾",
+   "v": "n"
+  },
+  {
+   "n": "041/063",
+   "name": "Nickit",
+   "zh": "偷兒狐",
+   "v": "n"
+  },
+  {
+   "n": "042/063",
+   "name": "Thievul",
+   "zh": "狐大盜",
+   "v": "n"
+  },
+  {
+   "n": "043/063",
+   "name": "Shroodle",
+   "zh": "滋汁鼴",
+   "v": "n"
+  },
+  {
+   "n": "044/063",
+   "name": "Grafaiai",
+   "zh": "塗標客",
+   "v": "n"
+  },
+  {
+   "n": "045/063",
+   "name": "Steelix",
+   "zh": "大鋼蛇",
+   "v": "n"
+  },
+  {
+   "n": "046/063",
+   "name": "Mega Mawile ex",
+   "zh": "超級大嘴娃ex",
+   "v": "n"
+  },
+  {
+   "n": "047/063",
+   "name": "Dialga",
+   "zh": "帝牙盧卡",
+   "v": "n"
+  },
+  {
+   "n": "048/063",
+   "name": "Tinkatink",
+   "zh": "小鍛匠",
+   "v": "n"
+  },
+  {
+   "n": "049/063",
+   "name": "Tinkatuff",
+   "zh": "巧鍛匠",
+   "v": "n"
+  },
+  {
+   "n": "050/063",
+   "name": "Tinkaton",
+   "zh": "巨鍛匠",
+   "v": "n"
+  },
+  {
+   "n": "051/063",
+   "name": "Gholdengo",
+   "zh": "賽富豪",
+   "v": "n"
+  },
+  {
+   "n": "052/063",
+   "name": "Spearow",
+   "zh": "烈雀",
+   "v": "n"
+  },
+  {
+   "n": "053/063",
+   "name": "Fearow",
+   "zh": "大嘴雀",
+   "v": "n"
+  },
+  {
+   "n": "054/063",
+   "name": "Miltank",
+   "zh": "大奶罐",
+   "v": "n"
+  },
+  {
+   "n": "055/063",
+   "name": "Yungoos",
+   "zh": "貓鼬少",
+   "v": "n"
+  },
+  {
+   "n": "056/063",
+   "name": "Gumshoos",
+   "zh": "貓鼬探長",
+   "v": "n"
+  },
+  {
+   "n": "057/063",
+   "name": "Iron Defender",
+   "zh": "鐵之防禦強化",
+   "v": "n"
+  },
+  {
+   "n": "058/063",
+   "name": "Premium Power Pro",
+   "zh": "力量蛋白飲",
+   "v": "n"
+  },
+  {
+   "n": "059/063",
+   "name": "Fighting Gong",
+   "zh": "戰鬥鑼",
+   "v": "n"
+  },
+  {
+   "n": "060/063",
+   "name": "Repel",
+   "zh": "除蟲噴霧",
+   "v": "n"
+  },
+  {
+   "n": "061/063",
+   "name": "Lt. Surge's Bargain",
+   "zh": "馬志士的交易",
+   "v": "n"
+  },
+  {
+   "n": "062/063",
+   "name": "Lillie's Determination",
+   "zh": "莉莉艾的決意",
+   "v": "n"
+  },
+  {
+   "n": "063/063",
+   "name": "Risky Ruins",
+   "zh": "險惡廢墟",
+   "v": "n"
+  },
+  {
+   "n": "064/063",
+   "name": "Bulbasaur",
+   "zh": "妙蛙種子",
+   "v": "h"
+  },
+  {
+   "n": "065/063",
+   "name": "Ivysaur",
+   "zh": "妙蛙草",
+   "v": "h"
+  },
+  {
+   "n": "066/063",
+   "name": "Exeggutor",
+   "zh": "椰蛋樹",
+   "v": "h"
+  },
+  {
+   "n": "067/063",
+   "name": "Vulpix",
+   "zh": "六尾",
+   "v": "h"
+  },
+  {
+   "n": "068/063",
+   "name": "Riolu",
+   "zh": "利歐路",
+   "v": "h"
+  },
+  {
+   "n": "069/063",
+   "name": "Marshadow",
+   "zh": "瑪夏多",
+   "v": "h"
+  },
+  {
+   "n": "070/063",
+   "name": "Garganacl",
+   "zh": "鹽石巨靈",
+   "v": "h"
+  },
+  {
+   "n": "071/063",
+   "name": "Spiritomb",
+   "zh": "花岩怪",
+   "v": "h"
+  },
+  {
+   "n": "072/063",
+   "name": "Shroodle",
+   "zh": "滋汁鼴",
+   "v": "h"
+  },
+  {
+   "n": "073/063",
+   "name": "Steelix",
+   "zh": "大鋼蛇",
+   "v": "h"
+  },
+  {
+   "n": "074/063",
+   "name": "Spearow",
+   "zh": "烈雀",
+   "v": "h"
+  },
+  {
+   "n": "075/063",
+   "name": "Gumshoos",
+   "zh": "貓鼬探長",
+   "v": "h"
+  },
+  {
+   "n": "076/063",
+   "name": "Mega Venusaur ex",
+   "zh": "超級妙蛙花ex",
+   "v": "h"
+  },
+  {
+   "n": "077/063",
+   "name": "Mega Camerupt ex",
+   "zh": "超級噴火駝ex",
+   "v": "h"
+  },
+  {
+   "n": "078/063",
+   "name": "Mega Lucario ex",
+   "zh": "超級路卡利歐ex",
+   "v": "h"
+  },
+  {
+   "n": "079/063",
+   "name": "Mega Absol ex",
+   "zh": "超級阿勃梭魯ex",
+   "v": "h"
+  },
+  {
+   "n": "080/063",
+   "name": "Mega Mawile ex",
+   "zh": "超級大嘴娃ex",
+   "v": "h"
+  },
+  {
+   "n": "081/063",
+   "name": "Premium Power Pro",
+   "zh": "力量蛋白飲",
+   "v": "h"
+  },
+  {
+   "n": "082/063",
+   "name": "Fighting Gong",
+   "zh": "戰鬥鑼",
+   "v": "h"
+  },
+  {
+   "n": "083/063",
+   "name": "Night Stretcher",
+   "zh": "夜間擔架",
+   "v": "h"
+  },
+  {
+   "n": "084/063",
+   "name": "Air Balloon",
+   "zh": "氣球",
+   "v": "h"
+  },
+  {
+   "n": "085/063",
+   "name": "Lt. Surge's Bargain",
+   "zh": "馬志士的交易",
+   "v": "h"
+  },
+  {
+   "n": "086/063",
+   "name": "Lillie's Determination",
+   "zh": "莉莉艾的決意",
+   "v": "h"
+  },
+  {
+   "n": "087/063",
+   "name": "Mega Venusaur ex",
+   "zh": "超級妙蛙花ex",
+   "v": "h"
+  },
+  {
+   "n": "088/063",
+   "name": "Mega Lucario ex",
+   "zh": "超級路卡利歐ex",
+   "v": "h"
+  },
+  {
+   "n": "089/063",
+   "name": "Mega Absol ex",
+   "zh": "超級阿勃梭魯ex",
+   "v": "h"
+  },
+  {
+   "n": "090/063",
+   "name": "Lt. Surge's Bargain",
+   "zh": "馬志士的交易",
+   "v": "h"
+  },
+  {
+   "n": "091/063",
+   "name": "Lillie's Determination",
+   "zh": "莉莉艾的決意",
+   "v": "h"
+  },
+  {
+   "n": "092/063",
+   "name": "Mega Lucario ex",
+   "zh": "超級路卡利歐ex",
+   "v": "h"
+  }
+ ]
+}

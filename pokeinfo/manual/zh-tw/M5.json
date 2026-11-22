@@ -1,0 +1,721 @@
+{
+ "id": "M5",
+ "name": "Abyss Eye",
+ "serie": "MEGA",
+ "serie_id": "M",
+ "date": "2026-05-22",
+ "official": 81,
+ "logo": "img/logos/ja/M5.webp",
+ "abbr": "M5",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/081",
+   "name": "Tropius",
+   "zh": "熱帶龍",
+   "v": "n"
+  },
+  {
+   "n": "002/081",
+   "name": "Grubbin",
+   "zh": "強顎雞母蟲",
+   "v": "n"
+  },
+  {
+   "n": "003/081",
+   "name": "Fomantis",
+   "zh": "偽螳草",
+   "v": "n"
+  },
+  {
+   "n": "004/081",
+   "name": "Lurantis ex",
+   "zh": "蘭螳花ex",
+   "v": "n"
+  },
+  {
+   "n": "005/081",
+   "name": "Poltchageist",
+   "zh": "斯魔茶",
+   "v": "n"
+  },
+  {
+   "n": "006/081",
+   "name": "Sinistcha",
+   "zh": "來悲粗茶",
+   "v": "n"
+  },
+  {
+   "n": "007/081",
+   "name": "Heatran",
+   "zh": "席多藍恩",
+   "v": "n"
+  },
+  {
+   "n": "008/081",
+   "name": "Sizzlipede",
+   "zh": "燒火蚣",
+   "v": "n"
+  },
+  {
+   "n": "009/081",
+   "name": "Centiskorch",
+   "zh": "焚焰蚣",
+   "v": "n"
+  },
+  {
+   "n": "010/081",
+   "name": "Charcadet",
+   "zh": "炭小侍",
+   "v": "n"
+  },
+  {
+   "n": "011/081",
+   "name": "Armarouge",
+   "zh": "紅蓮鎧騎",
+   "v": "n"
+  },
+  {
+   "n": "012/081",
+   "name": "Goldeen",
+   "zh": "角金魚",
+   "v": "n"
+  },
+  {
+   "n": "013/081",
+   "name": "Seaking",
+   "zh": "金魚王",
+   "v": "n"
+  },
+  {
+   "n": "014/081",
+   "name": "Wailmer",
+   "zh": "吼吼鯨",
+   "v": "n"
+  },
+  {
+   "n": "015/081",
+   "name": "Wailord ex",
+   "zh": "吼鯨王ex",
+   "v": "n"
+  },
+  {
+   "n": "016/081",
+   "name": "Relicanth",
+   "zh": "古空棘魚",
+   "v": "n"
+  },
+  {
+   "n": "017/081",
+   "name": "Popplio",
+   "zh": "球球海獅",
+   "v": "n"
+  },
+  {
+   "n": "018/081",
+   "name": "Brionne",
+   "zh": "花漾海獅",
+   "v": "n"
+  },
+  {
+   "n": "019/081",
+   "name": "Primarina",
+   "zh": "西獅海壬",
+   "v": "n"
+  },
+  {
+   "n": "020/081",
+   "name": "Finizen",
+   "zh": "波普海豚",
+   "v": "n"
+  },
+  {
+   "n": "021/081",
+   "name": "Palafin",
+   "zh": "海豚俠",
+   "v": "n"
+  },
+  {
+   "n": "022/081",
+   "name": "Electrike",
+   "zh": "落雷獸",
+   "v": "n"
+  },
+  {
+   "n": "023/081",
+   "name": "Manectric",
+   "zh": "雷電獸",
+   "v": "n"
+  },
+  {
+   "n": "024/081",
+   "name": "Charjabug",
+   "zh": "蟲電寶",
+   "v": "n"
+  },
+  {
+   "n": "025/081",
+   "name": "Vikavolt",
+   "zh": "鍬農炮蟲",
+   "v": "n"
+  },
+  {
+   "n": "026/081",
+   "name": "Mega Zeraora ex",
+   "zh": "超級捷拉奧拉ex",
+   "v": "n"
+  },
+  {
+   "n": "027/081",
+   "name": "Miraidon",
+   "zh": "密勒頓",
+   "v": "n"
+  },
+  {
+   "n": "028/081",
+   "name": "Slowpoke",
+   "zh": "呆呆獸",
+   "v": "n"
+  },
+  {
+   "n": "029/081",
+   "name": "Slowbro",
+   "zh": "呆殼獸",
+   "v": "n"
+  },
+  {
+   "n": "030/081",
+   "name": "Jynx",
+   "zh": "迷唇姐",
+   "v": "n"
+  },
+  {
+   "n": "031/081",
+   "name": "Shuppet",
+   "zh": "怨影娃娃",
+   "v": "n"
+  },
+  {
+   "n": "032/081",
+   "name": "Banette",
+   "zh": "詛咒娃娃",
+   "v": "n"
+  },
+  {
+   "n": "033/081",
+   "name": "Spiritomb",
+   "zh": "花岩怪",
+   "v": "n"
+  },
+  {
+   "n": "034/081",
+   "name": "Litwick",
+   "zh": "燭光靈",
+   "v": "n"
+  },
+  {
+   "n": "035/081",
+   "name": "Lampent",
+   "zh": "燈火幽靈",
+   "v": "n"
+  },
+  {
+   "n": "036/081",
+   "name": "Mega Chandelure ex",
+   "zh": "超級水晶燈火靈ex",
+   "v": "n"
+  },
+  {
+   "n": "037/081",
+   "name": "Dhelmise",
+   "zh": "破破舵輪",
+   "v": "n"
+  },
+  {
+   "n": "038/081",
+   "name": "Marshadow",
+   "zh": "瑪夏多",
+   "v": "n"
+  },
+  {
+   "n": "039/081",
+   "name": "Annihilape",
+   "zh": "棄世猴",
+   "v": "n"
+  },
+  {
+   "n": "040/081",
+   "name": "Mankey",
+   "zh": "猴怪",
+   "v": "n"
+  },
+  {
+   "n": "041/081",
+   "name": "Primeape",
+   "zh": "火爆猴",
+   "v": "n"
+  },
+  {
+   "n": "042/081",
+   "name": "Cranidos",
+   "zh": "頭蓋龍",
+   "v": "n"
+  },
+  {
+   "n": "043/081",
+   "name": "Rampardos ex",
+   "zh": "戰槌龍ex",
+   "v": "n"
+  },
+  {
+   "n": "044/081",
+   "name": "Drilbur",
+   "zh": "螺釘地鼠",
+   "v": "n"
+  },
+  {
+   "n": "045/081",
+   "name": "Koraidon",
+   "zh": "故勒頓",
+   "v": "n"
+  },
+  {
+   "n": "046/081",
+   "name": "Mega Darkrai ex",
+   "zh": "超級達克萊伊ex",
+   "v": "n"
+  },
+  {
+   "n": "047/081",
+   "name": "Vullaby",
+   "zh": "禿鷹丫頭",
+   "v": "n"
+  },
+  {
+   "n": "048/081",
+   "name": "Mandibuzz",
+   "zh": "禿鷹娜",
+   "v": "n"
+  },
+  {
+   "n": "049/081",
+   "name": "Inkay",
+   "zh": "好啦魷",
+   "v": "n"
+  },
+  {
+   "n": "050/081",
+   "name": "Malamar",
+   "zh": "烏賊王",
+   "v": "n"
+  },
+  {
+   "n": "051/081",
+   "name": "Nickit",
+   "zh": "偷兒狐",
+   "v": "n"
+  },
+  {
+   "n": "052/081",
+   "name": "Thievul",
+   "zh": "狐大盜",
+   "v": "n"
+  },
+  {
+   "n": "053/081",
+   "name": "Morpeko ex",
+   "zh": "莫魯貝可ex",
+   "v": "n"
+  },
+  {
+   "n": "054/081",
+   "name": "Zarude",
+   "zh": "薩戮德",
+   "v": "n"
+  },
+  {
+   "n": "055/081",
+   "name": "Maschiff",
+   "zh": "偶叫獒",
+   "v": "n"
+  },
+  {
+   "n": "056/081",
+   "name": "Mabosstiff",
+   "zh": "獒教父",
+   "v": "n"
+  },
+  {
+   "n": "057/081",
+   "name": "Chi-Yu",
+   "zh": "古玉魚",
+   "v": "n"
+  },
+  {
+   "n": "058/081",
+   "name": "Skarmory",
+   "zh": "盔甲鳥",
+   "v": "n"
+  },
+  {
+   "n": "059/081",
+   "name": "Shieldon",
+   "zh": "盾甲龍",
+   "v": "n"
+  },
+  {
+   "n": "060/081",
+   "name": "Bastiodon",
+   "zh": "護城龍",
+   "v": "n"
+  },
+  {
+   "n": "061/081",
+   "name": "Bronzor",
+   "zh": "銅鏡怪",
+   "v": "n"
+  },
+  {
+   "n": "062/081",
+   "name": "Bronzong",
+   "zh": "青銅鐘",
+   "v": "n"
+  },
+  {
+   "n": "063/081",
+   "name": "Mega Excadrill ex",
+   "zh": "超級龍頭地鼠ex",
+   "v": "n"
+  },
+  {
+   "n": "064/081",
+   "name": "Pikipek",
+   "zh": "小篤兒",
+   "v": "n"
+  },
+  {
+   "n": "065/081",
+   "name": "Trumbeak",
+   "zh": "喇叭啄鳥",
+   "v": "n"
+  },
+  {
+   "n": "066/081",
+   "name": "Toucannon",
+   "zh": "銃嘴大鳥",
+   "v": "n"
+  },
+  {
+   "n": "067/081",
+   "name": "Type: Null",
+   "zh": "屬性：空",
+   "v": "n"
+  },
+  {
+   "n": "068/081",
+   "name": "Silvally",
+   "zh": "銀伴戰獸",
+   "v": "n"
+  },
+  {
+   "n": "069/081",
+   "name": "Bombirdier",
+   "zh": "下石鳥",
+   "v": "n"
+  },
+  {
+   "n": "070/081",
+   "name": "Dark Bell",
+   "zh": "暗黑鈴",
+   "v": "n"
+  },
+  {
+   "n": "071/081",
+   "name": "Antique Skull Fossil",
+   "zh": "陳舊的頭蓋化石",
+   "v": "n"
+  },
+  {
+   "n": "072/081",
+   "name": "Antique Armor Fossil",
+   "zh": "陳舊的盾甲化石",
+   "v": "n"
+  },
+  {
+   "n": "073/081",
+   "name": "Terrific Bomb",
+   "zh": "豪邁炸彈",
+   "v": "n"
+  },
+  {
+   "n": "074/081",
+   "name": "Backtrack Badge",
+   "zh": "重試徽章",
+   "v": "n"
+  },
+  {
+   "n": "075/081",
+   "name": "Misty's Spirit",
+   "zh": "小霞的朝氣",
+   "v": "n"
+  },
+  {
+   "n": "076/081",
+   "name": "Gladion's Final Battle",
+   "zh": "格拉吉歐的決戰",
+   "v": "n"
+  },
+  {
+   "n": "077/081",
+   "name": "Rust Syndicate Grunt",
+   "zh": "鏽蝕組手下",
+   "v": "n"
+  },
+  {
+   "n": "078/081",
+   "name": "Gwynn",
+   "zh": "沐淨",
+   "v": "n"
+  },
+  {
+   "n": "079/081",
+   "name": "Fossil Quarry",
+   "zh": "化石採掘場",
+   "v": "n"
+  },
+  {
+   "n": "080/081",
+   "name": "Voltaic L Energy",
+   "zh": "伏特【雷】能量",
+   "v": "n"
+  },
+  {
+   "n": "081/081",
+   "name": "Shadow Darkness Energy",
+   "zh": "暗影【惡】能量",
+   "v": "n"
+  },
+  {
+   "n": "082/081",
+   "name": "Fomantis",
+   "zh": "偽螳草",
+   "v": "h"
+  },
+  {
+   "n": "083/081",
+   "name": "Armarouge",
+   "zh": "紅蓮鎧騎",
+   "v": "h"
+  },
+  {
+   "n": "084/081",
+   "name": "Goldeen",
+   "zh": "角金魚",
+   "v": "h"
+  },
+  {
+   "n": "085/081",
+   "name": "Primarina",
+   "zh": "西獅海壬",
+   "v": "h"
+  },
+  {
+   "n": "086/081",
+   "name": "Manectric",
+   "zh": "雷電獸",
+   "v": "h"
+  },
+  {
+   "n": "087/081",
+   "name": "Slowbro",
+   "zh": "呆殼獸",
+   "v": "h"
+  },
+  {
+   "n": "088/081",
+   "name": "Dhelmise",
+   "zh": "破破舵輪",
+   "v": "h"
+  },
+  {
+   "n": "089/081",
+   "name": "Thievul",
+   "zh": "狐大盜",
+   "v": "h"
+  },
+  {
+   "n": "090/081",
+   "name": "Zarude",
+   "zh": "薩戮德",
+   "v": "h"
+  },
+  {
+   "n": "091/081",
+   "name": "Bastiodon",
+   "zh": "護城龍",
+   "v": "h"
+  },
+  {
+   "n": "092/081",
+   "name": "Toucannon",
+   "zh": "銃嘴大鳥",
+   "v": "h"
+  },
+  {
+   "n": "093/081",
+   "name": "Silvally",
+   "zh": "銀伴戰獸",
+   "v": "h"
+  },
+  {
+   "n": "094/081",
+   "name": "Lurantis ex",
+   "zh": "蘭螳花ex",
+   "v": "h"
+  },
+  {
+   "n": "095/081",
+   "name": "Wailord ex",
+   "zh": "吼鯨王ex",
+   "v": "h"
+  },
+  {
+   "n": "096/081",
+   "name": "Mega Zeraora ex",
+   "zh": "超級捷拉奧拉ex",
+   "v": "h"
+  },
+  {
+   "n": "097/081",
+   "name": "Mega Chandelure ex",
+   "zh": "超級水晶燈火靈ex",
+   "v": "h"
+  },
+  {
+   "n": "098/081",
+   "name": "Rampardos ex",
+   "zh": "戰槌龍ex",
+   "v": "h"
+  },
+  {
+   "n": "099/081",
+   "name": "Mega Darkrai ex",
+   "zh": "超級達克萊伊ex",
+   "v": "h"
+  },
+  {
+   "n": "100/081",
+   "name": "Morpeko ex",
+   "zh": "莫魯貝可ex",
+   "v": "h"
+  },
+  {
+   "n": "101/081",
+   "name": "Mega Excadrill ex",
+   "zh": "超級龍頭地鼠ex",
+   "v": "h"
+  },
+  {
+   "n": "102/081",
+   "name": "Iron Defender",
+   "zh": "鐵之防禦強化",
+   "v": "h"
+  },
+  {
+   "n": "103/081",
+   "name": "Energy Switch",
+   "zh": "能量轉移",
+   "v": "h"
+  },
+  {
+   "n": "104/081",
+   "name": "Crushing Hammer",
+   "zh": "粉碎之錘",
+   "v": "h"
+  },
+  {
+   "n": "105/081",
+   "name": "Dark Bell",
+   "zh": "暗黑鈴",
+   "v": "h"
+  },
+  {
+   "n": "106/081",
+   "name": "Terrific Bomb",
+   "zh": "豪邁炸彈",
+   "v": "h"
+  },
+  {
+   "n": "107/081",
+   "name": "Brave Bangle",
+   "zh": "猛攻手鐲",
+   "v": "h"
+  },
+  {
+   "n": "108/081",
+   "name": "Misty's Spirit",
+   "zh": "小霞的朝氣",
+   "v": "h"
+  },
+  {
+   "n": "109/081",
+   "name": "Gladion's Final Battle",
+   "zh": "格拉吉歐的決戰",
+   "v": "h"
+  },
+  {
+   "n": "110/081",
+   "name": "Rust Syndicate Grunt",
+   "zh": "鏽蝕組手下",
+   "v": "h"
+  },
+  {
+   "n": "111/081",
+   "name": "Gwynn",
+   "zh": "沐淨",
+   "v": "h"
+  },
+  {
+   "n": "112/081",
+   "name": "Mega Zeraora ex",
+   "zh": "超級捷拉奧拉ex",
+   "v": "h"
+  },
+  {
+   "n": "113/081",
+   "name": "Mega Chandelure ex",
+   "zh": "超級水晶燈火靈ex",
+   "v": "h"
+  },
+  {
+   "n": "114/081",
+   "name": "Mega Darkrai ex",
+   "zh": "超級達克萊伊ex",
+   "v": "h"
+  },
+  {
+   "n": "115/081",
+   "name": "Morpeko ex",
+   "zh": "莫魯貝可ex",
+   "v": "h"
+  },
+  {
+   "n": "116/081",
+   "name": "Gladion's Final Battle",
+   "zh": "格拉吉歐的決戰",
+   "v": "h"
+  },
+  {
+   "n": "117/081",
+   "name": "Gwynn",
+   "zh": "沐淨",
+   "v": "h"
+  },
+  {
+   "n": "118/081",
+   "name": "Mega Darkrai ex",
+   "zh": "超級達克萊伊ex",
+   "v": "h"
+  }
+ ]
+}

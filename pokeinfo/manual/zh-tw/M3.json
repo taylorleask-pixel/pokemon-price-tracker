@@ -1,0 +1,715 @@
+{
+ "id": "M3",
+ "name": "Nullifying Zero",
+ "serie": "MEGA",
+ "serie_id": "M",
+ "date": "2026-01-23",
+ "official": 80,
+ "logo": "img/logos/ja/M3.webp",
+ "abbr": "M3",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/080",
+   "name": "Spinarak",
+   "zh": "圓絲蛛",
+   "v": "n"
+  },
+  {
+   "n": "002/080",
+   "name": "Ariados",
+   "zh": "阿利多斯",
+   "v": "n"
+  },
+  {
+   "n": "003/080",
+   "name": "Shaymin",
+   "zh": "謝米",
+   "v": "n"
+  },
+  {
+   "n": "004/080",
+   "name": "Snivy",
+   "zh": "藤藤蛇",
+   "v": "n"
+  },
+  {
+   "n": "005/080",
+   "name": "Servine",
+   "zh": "青藤蛇",
+   "v": "n"
+  },
+  {
+   "n": "006/080",
+   "name": "Serperior",
+   "zh": "君主蛇",
+   "v": "n"
+  },
+  {
+   "n": "007/080",
+   "name": "Scatterbug",
+   "zh": "粉蝶蟲",
+   "v": "n"
+  },
+  {
+   "n": "008/080",
+   "name": "Spewpa",
+   "zh": "粉蝶蛹",
+   "v": "n"
+  },
+  {
+   "n": "009/080",
+   "name": "Vivillon",
+   "zh": "彩粉蝶",
+   "v": "n"
+  },
+  {
+   "n": "010/080",
+   "name": "Rowlet",
+   "zh": "木木梟",
+   "v": "n"
+  },
+  {
+   "n": "011/080",
+   "name": "Dartrix",
+   "zh": "投羽梟",
+   "v": "n"
+  },
+  {
+   "n": "012/080",
+   "name": "Decidueye ex",
+   "zh": "狙射樹梟ex",
+   "v": "n"
+  },
+  {
+   "n": "013/080",
+   "name": "Fletchinder",
+   "zh": "火箭雀",
+   "v": "n"
+  },
+  {
+   "n": "014/080",
+   "name": "Talonflame",
+   "zh": "烈箭鷹",
+   "v": "n"
+  },
+  {
+   "n": "015/080",
+   "name": "Salandit",
+   "zh": "夜盜火蜥",
+   "v": "n"
+  },
+  {
+   "n": "016/080",
+   "name": "Salazzle ex",
+   "zh": "焰后蜥ex",
+   "v": "n"
+  },
+  {
+   "n": "017/080",
+   "name": "Turtonator",
+   "zh": "爆焰龜獸",
+   "v": "n"
+  },
+  {
+   "n": "018/080",
+   "name": "Seel",
+   "zh": "小海獅",
+   "v": "n"
+  },
+  {
+   "n": "019/080",
+   "name": "Dewgong",
+   "zh": "白海獅",
+   "v": "n"
+  },
+  {
+   "n": "020/080",
+   "name": "Staryu",
+   "zh": "海星星",
+   "v": "n"
+  },
+  {
+   "n": "021/080",
+   "name": "Mega Starmie ex",
+   "zh": "超級寶石海星ex",
+   "v": "n"
+  },
+  {
+   "n": "022/080",
+   "name": "Amaura",
+   "zh": "冰雪龍",
+   "v": "n"
+  },
+  {
+   "n": "023/080",
+   "name": "Aurorus",
+   "zh": "冰雪巨龍",
+   "v": "n"
+  },
+  {
+   "n": "024/080",
+   "name": "Volcanion",
+   "zh": "波爾凱尼恩",
+   "v": "n"
+  },
+  {
+   "n": "025/080",
+   "name": "Shinx",
+   "zh": "小貓怪",
+   "v": "n"
+  },
+  {
+   "n": "026/080",
+   "name": "Luxio",
+   "zh": "勒克貓",
+   "v": "n"
+  },
+  {
+   "n": "027/080",
+   "name": "Luxray",
+   "zh": "倫琴貓",
+   "v": "n"
+  },
+  {
+   "n": "028/080",
+   "name": "Dedenne",
+   "zh": "咚咚鼠",
+   "v": "n"
+  },
+  {
+   "n": "029/080",
+   "name": "Clefairy",
+   "zh": "皮皮",
+   "v": "n"
+  },
+  {
+   "n": "030/080",
+   "name": "Mega Clefable ex",
+   "zh": "超級皮可西ex",
+   "v": "n"
+  },
+  {
+   "n": "031/080",
+   "name": "Mawile",
+   "zh": "大嘴娃",
+   "v": "n"
+  },
+  {
+   "n": "032/080",
+   "name": "Espurr",
+   "zh": "妙喵",
+   "v": "n"
+  },
+  {
+   "n": "033/080",
+   "name": "Meowstic",
+   "zh": "超能妙喵",
+   "v": "n"
+  },
+  {
+   "n": "034/080",
+   "name": "Spritzee",
+   "zh": "粉香香",
+   "v": "n"
+  },
+  {
+   "n": "035/080",
+   "name": "Aromatisse",
+   "zh": "芳香精",
+   "v": "n"
+  },
+  {
+   "n": "036/080",
+   "name": "Nosepass",
+   "zh": "朝北鼻",
+   "v": "n"
+  },
+  {
+   "n": "037/080",
+   "name": "Probopass",
+   "zh": "大朝北鼻",
+   "v": "n"
+  },
+  {
+   "n": "038/080",
+   "name": "Hippopotas",
+   "zh": "沙河馬",
+   "v": "n"
+  },
+  {
+   "n": "039/080",
+   "name": "Hippowdon",
+   "zh": "河馬獸",
+   "v": "n"
+  },
+  {
+   "n": "040/080",
+   "name": "Landorus",
+   "zh": "土地雲",
+   "v": "n"
+  },
+  {
+   "n": "041/080",
+   "name": "Binacle",
+   "zh": "龜腳腳",
+   "v": "n"
+  },
+  {
+   "n": "042/080",
+   "name": "Barbaracle",
+   "zh": "龜足巨鎧",
+   "v": "n"
+  },
+  {
+   "n": "043/080",
+   "name": "Tyrunt",
+   "zh": "寶寶暴龍",
+   "v": "n"
+  },
+  {
+   "n": "044/080",
+   "name": "Tyrantrum",
+   "zh": "怪顎龍",
+   "v": "n"
+  },
+  {
+   "n": "045/080",
+   "name": "Hawlucha",
+   "zh": "摔角鷹人",
+   "v": "n"
+  },
+  {
+   "n": "046/080",
+   "name": "Mega Zygarde ex",
+   "zh": "超級基格爾德ex",
+   "v": "n"
+  },
+  {
+   "n": "047/080",
+   "name": "Gastly",
+   "zh": "鬼斯",
+   "v": "n"
+  },
+  {
+   "n": "048/080",
+   "name": "Haunter",
+   "zh": "鬼斯通",
+   "v": "n"
+  },
+  {
+   "n": "049/080",
+   "name": "Gengar",
+   "zh": "耿鬼",
+   "v": "n"
+  },
+  {
+   "n": "050/080",
+   "name": "Skorupi",
+   "zh": "鉗尾蠍",
+   "v": "n"
+  },
+  {
+   "n": "051/080",
+   "name": "Drapion",
+   "zh": "龍王蠍",
+   "v": "n"
+  },
+  {
+   "n": "052/080",
+   "name": "Yveltal ex",
+   "zh": "伊裴爾塔爾ex",
+   "v": "n"
+  },
+  {
+   "n": "053/080",
+   "name": "Chien-Pao",
+   "zh": "古劍豹",
+   "v": "n"
+  },
+  {
+   "n": "054/080",
+   "name": "Mega Skarmory ex",
+   "zh": "超級盔甲鳥ex",
+   "v": "n"
+  },
+  {
+   "n": "055/080",
+   "name": "Honedge",
+   "zh": "獨劍鞘",
+   "v": "n"
+  },
+  {
+   "n": "056/080",
+   "name": "Doublade",
+   "zh": "雙劍鞘",
+   "v": "n"
+  },
+  {
+   "n": "057/080",
+   "name": "Aegislash",
+   "zh": "堅盾劍怪",
+   "v": "n"
+  },
+  {
+   "n": "058/080",
+   "name": "Klefki",
+   "zh": "鑰圈兒",
+   "v": "n"
+  },
+  {
+   "n": "059/080",
+   "name": "Rattata",
+   "zh": "小拉達",
+   "v": "n"
+  },
+  {
+   "n": "060/080",
+   "name": "Raticate",
+   "zh": "拉達",
+   "v": "n"
+  },
+  {
+   "n": "061/080",
+   "name": "Meowth ex",
+   "zh": "喵喵ex",
+   "v": "n"
+  },
+  {
+   "n": "062/080",
+   "name": "Snorlax",
+   "zh": "卡比獸",
+   "v": "n"
+  },
+  {
+   "n": "063/080",
+   "name": "Bunnelby",
+   "zh": "掘掘兔",
+   "v": "n"
+  },
+  {
+   "n": "064/080",
+   "name": "Diggersby",
+   "zh": "掘地兔",
+   "v": "n"
+  },
+  {
+   "n": "065/080",
+   "name": "Fletchling",
+   "zh": "小箭雀",
+   "v": "n"
+  },
+  {
+   "n": "066/080",
+   "name": "Furfrou",
+   "zh": "多麗米亞",
+   "v": "n"
+  },
+  {
+   "n": "067/080",
+   "name": "Energy Swatter",
+   "zh": "能量撢子",
+   "v": "n"
+  },
+  {
+   "n": "068/080",
+   "name": "Antique Jaw Fossil",
+   "zh": "陳舊的顎之化石",
+   "v": "n"
+  },
+  {
+   "n": "069/080",
+   "name": "Antique Sail Fossil",
+   "zh": "陳舊的鰭之化石",
+   "v": "n"
+  },
+  {
+   "n": "070/080",
+   "name": "Poké Pad",
+   "zh": "寶可平板",
+   "v": "n"
+  },
+  {
+   "n": "071/080",
+   "name": "Lumiose Galette",
+   "zh": "密阿雷格雷派餅",
+   "v": "n"
+  },
+  {
+   "n": "072/080",
+   "name": "Core Memory",
+   "zh": "核心記憶碟",
+   "v": "n"
+  },
+  {
+   "n": "073/080",
+   "name": "Tarragon",
+   "zh": "塔拉剛",
+   "v": "n"
+  },
+  {
+   "n": "074/080",
+   "name": "Naveen",
+   "zh": "琵魯",
+   "v": "n"
+  },
+  {
+   "n": "075/080",
+   "name": "Rosa's Encouragement",
+   "zh": "鳴依的勉勵",
+   "v": "n"
+  },
+  {
+   "n": "076/080",
+   "name": "Jacinthe",
+   "zh": "由紫",
+   "v": "n"
+  },
+  {
+   "n": "077/080",
+   "name": "Lumiose City",
+   "zh": "密阿雷市",
+   "v": "n"
+  },
+  {
+   "n": "078/080",
+   "name": "Growing Grass Energy",
+   "zh": "增強【草】能量",
+   "v": "n"
+  },
+  {
+   "n": "079/080",
+   "name": "Telepath Psychic Energy",
+   "zh": "感應【超】能量",
+   "v": "n"
+  },
+  {
+   "n": "080/080",
+   "name": "Rocky Fighting Energy",
+   "zh": "硬岩【鬥】能量",
+   "v": "n"
+  },
+  {
+   "n": "081/080",
+   "name": "Spewpa",
+   "zh": "粉蝶蛹",
+   "v": "h"
+  },
+  {
+   "n": "082/080",
+   "name": "Rowlet",
+   "zh": "木木梟",
+   "v": "h"
+  },
+  {
+   "n": "083/080",
+   "name": "Talonflame",
+   "zh": "烈箭鷹",
+   "v": "h"
+  },
+  {
+   "n": "084/080",
+   "name": "Aurorus",
+   "zh": "冰雪巨龍",
+   "v": "h"
+  },
+  {
+   "n": "085/080",
+   "name": "Dedenne",
+   "zh": "咚咚鼠",
+   "v": "h"
+  },
+  {
+   "n": "086/080",
+   "name": "Clefairy",
+   "zh": "皮皮",
+   "v": "h"
+  },
+  {
+   "n": "087/080",
+   "name": "Espurr",
+   "zh": "妙喵",
+   "v": "h"
+  },
+  {
+   "n": "088/080",
+   "name": "Probopass",
+   "zh": "大朝北鼻",
+   "v": "h"
+  },
+  {
+   "n": "089/080",
+   "name": "Tyrunt",
+   "zh": "寶寶暴龍",
+   "v": "h"
+  },
+  {
+   "n": "090/080",
+   "name": "Drapion",
+   "zh": "龍王蠍",
+   "v": "h"
+  },
+  {
+   "n": "091/080",
+   "name": "Doublade",
+   "zh": "雙劍鞘",
+   "v": "h"
+  },
+  {
+   "n": "092/080",
+   "name": "Raticate",
+   "zh": "拉達",
+   "v": "h"
+  },
+  {
+   "n": "093/080",
+   "name": "Decidueye ex",
+   "zh": "狙射樹梟ex",
+   "v": "h"
+  },
+  {
+   "n": "094/080",
+   "name": "Salazzle ex",
+   "zh": "焰后蜥ex",
+   "v": "h"
+  },
+  {
+   "n": "095/080",
+   "name": "Mega Starmie ex",
+   "zh": "超級寶石海星ex",
+   "v": "h"
+  },
+  {
+   "n": "096/080",
+   "name": "Mega Clefable ex",
+   "zh": "超級皮可西ex",
+   "v": "h"
+  },
+  {
+   "n": "097/080",
+   "name": "Mega Zygarde ex",
+   "zh": "超級基格爾德ex",
+   "v": "h"
+  },
+  {
+   "n": "098/080",
+   "name": "Yveltal ex",
+   "zh": "伊裴爾塔爾ex",
+   "v": "h"
+  },
+  {
+   "n": "099/080",
+   "name": "Mega Skarmory ex",
+   "zh": "超級盔甲鳥ex",
+   "v": "h"
+  },
+  {
+   "n": "100/080",
+   "name": "Meowth ex",
+   "zh": "喵喵ex",
+   "v": "h"
+  },
+  {
+   "n": "101/080",
+   "name": "Energy Recycler",
+   "zh": "能量回收器",
+   "v": "h"
+  },
+  {
+   "n": "102/080",
+   "name": "Sacred Ash",
+   "zh": "聖灰",
+   "v": "h"
+  },
+  {
+   "n": "103/080",
+   "name": "Poké Pad",
+   "zh": "寶可平板",
+   "v": "h"
+  },
+  {
+   "n": "104/080",
+   "name": "Wondrous Patch",
+   "zh": "奇跡修正檔",
+   "v": "h"
+  },
+  {
+   "n": "105/080",
+   "name": "Tarragon",
+   "zh": "塔拉剛",
+   "v": "h"
+  },
+  {
+   "n": "106/080",
+   "name": "Naveen",
+   "zh": "琵魯",
+   "v": "h"
+  },
+  {
+   "n": "107/080",
+   "name": "Rosa's Encouragement",
+   "zh": "鳴依的勉勵",
+   "v": "h"
+  },
+  {
+   "n": "108/080",
+   "name": "Jacinthe",
+   "zh": "由紫",
+   "v": "h"
+  },
+  {
+   "n": "109/080",
+   "name": "Forest of Vitality",
+   "zh": "活力森林",
+   "v": "h"
+  },
+  {
+   "n": "110/080",
+   "name": "Lumiose City",
+   "zh": "密阿雷市",
+   "v": "h"
+  },
+  {
+   "n": "111/080",
+   "name": "Mega Starmie ex",
+   "zh": "超級寶石海星ex",
+   "v": "h"
+  },
+  {
+   "n": "112/080",
+   "name": "Mega Clefable ex",
+   "zh": "超級皮可西ex",
+   "v": "h"
+  },
+  {
+   "n": "113/080",
+   "name": "Mega Zygarde ex",
+   "zh": "超級基格爾德ex",
+   "v": "h"
+  },
+  {
+   "n": "114/080",
+   "name": "Meowth ex",
+   "zh": "喵喵ex",
+   "v": "h"
+  },
+  {
+   "n": "115/080",
+   "name": "Rosa's Encouragement",
+   "zh": "鳴依的勉勵",
+   "v": "h"
+  },
+  {
+   "n": "116/080",
+   "name": "Jacinthe",
+   "zh": "由紫",
+   "v": "h"
+  },
+  {
+   "n": "117/080",
+   "name": "Mega Zygarde ex",
+   "zh": "超級基格爾德ex",
+   "v": "h"
+  }
+ ]
+}

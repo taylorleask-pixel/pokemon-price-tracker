@@ -1,0 +1,1513 @@
+{
+ "id": "M2a",
+ "name": "超級進化夢想ex",
+ "serie": "MEGA",
+ "serie_id": "M",
+ "date": "2025-12-05",
+ "official": 193,
+ "logo": "img/logos/ja/M2a.webp",
+ "abbr": "M2a",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/193",
+   "name": "Ethan's Pinsir",
+   "zh": "<阿響的>凱羅斯",
+   "v": "npm"
+  },
+  {
+   "n": "002/193",
+   "name": "Yanma",
+   "zh": "蜻蜻蜓",
+   "v": "npm"
+  },
+  {
+   "n": "003/193",
+   "name": "Yanmega ex",
+   "zh": "遠古巨蜓ex",
+   "v": "n"
+  },
+  {
+   "n": "004/193",
+   "name": "Wurmple",
+   "zh": "刺尾蟲",
+   "v": "npm"
+  },
+  {
+   "n": "005/193",
+   "name": "Silcoon",
+   "zh": "甲殼繭",
+   "v": "npm"
+  },
+  {
+   "n": "006/193",
+   "name": "Beautifly",
+   "zh": "狩獵鳳蝶",
+   "v": "npm"
+  },
+  {
+   "n": "007/193",
+   "name": "Cascoon",
+   "zh": "盾甲繭",
+   "v": "npm"
+  },
+  {
+   "n": "008/193",
+   "name": "Dustox",
+   "zh": "毒粉蛾",
+   "v": "npm"
+  },
+  {
+   "n": "009/193",
+   "name": "Cynthia's Roselia",
+   "zh": "竹蘭的毒薔薇",
+   "v": "npm"
+  },
+  {
+   "n": "010/193",
+   "name": "Cynthia's Roserade",
+   "zh": "<竹蘭的>羅絲雷朵",
+   "v": "npm"
+  },
+  {
+   "n": "011/193",
+   "name": "Budew",
+   "zh": "含羞苞",
+   "v": "npm"
+  },
+  {
+   "n": "012/193",
+   "name": "Shaymin",
+   "zh": "謝米",
+   "v": "npm"
+  },
+  {
+   "n": "013/193",
+   "name": "Dwebble",
+   "zh": "石居蟹",
+   "v": "npm"
+  },
+  {
+   "n": "014/193",
+   "name": "Crustle",
+   "zh": "岩殿居蟹",
+   "v": "npm"
+  },
+  {
+   "n": "015/193",
+   "name": "Team Rocket's Tarountula",
+   "zh": "<火箭隊的>團珠蛛",
+   "v": "npm"
+  },
+  {
+   "n": "016/193",
+   "name": "Team Rocket's Spidops",
+   "zh": "<火箭隊的>操陷蛛",
+   "v": "npm"
+  },
+  {
+   "n": "017/193",
+   "name": "Teal Mask Ogerpon ex",
+   "zh": "厄鬼椪 碧草面具ex",
+   "v": "n"
+  },
+  {
+   "n": "018/193",
+   "name": "Ethan's Slugma",
+   "zh": "<阿響的>熔岩蟲",
+   "v": "npm"
+  },
+  {
+   "n": "019/193",
+   "name": "Ethan's Magcargo",
+   "zh": "<阿響的>熔岩蝸牛",
+   "v": "npm"
+  },
+  {
+   "n": "020/193",
+   "name": "Entei",
+   "zh": "炎帝",
+   "v": "npm"
+  },
+  {
+   "n": "021/193",
+   "name": "Ethan's Ho-Oh ex",
+   "zh": "<阿響的>鳳王ex",
+   "v": "n"
+  },
+  {
+   "n": "022/193",
+   "name": "Numel",
+   "zh": "呆火駝",
+   "v": "npm"
+  },
+  {
+   "n": "023/193",
+   "name": "Camerupt",
+   "zh": "噴火駝",
+   "v": "npm"
+  },
+  {
+   "n": "024/193",
+   "name": "Tepig",
+   "zh": "暖暖豬",
+   "v": "npm"
+  },
+  {
+   "n": "025/193",
+   "name": "Pignite",
+   "zh": "炒炒豬",
+   "v": "npm"
+  },
+  {
+   "n": "026/193",
+   "name": "Emboar",
+   "zh": "炎武王",
+   "v": "npm"
+  },
+  {
+   "n": "027/193",
+   "name": "N's Darumaka",
+   "zh": "N的火紅不倒翁",
+   "v": "npm"
+  },
+  {
+   "n": "028/193",
+   "name": "N's Darmanitan",
+   "zh": "N的達摩狒狒",
+   "v": "npm"
+  },
+  {
+   "n": "029/193",
+   "name": "Reshiram ex",
+   "zh": "萊希拉姆ex",
+   "v": "n"
+  },
+  {
+   "n": "030/193",
+   "name": "Charcadet",
+   "zh": "炭小侍",
+   "v": "npm"
+  },
+  {
+   "n": "031/193",
+   "name": "Ceruledge ex",
+   "zh": "蒼炎刃鬼ex",
+   "v": "n"
+  },
+  {
+   "n": "032/193",
+   "name": "Psyduck",
+   "zh": "可達鴨",
+   "v": "npm"
+  },
+  {
+   "n": "033/193",
+   "name": "Golduck",
+   "zh": "哥達鴨",
+   "v": "npm"
+  },
+  {
+   "n": "034/193",
+   "name": "Team Rocket's Articuno",
+   "zh": "<火箭隊的>急凍鳥",
+   "v": "npm"
+  },
+  {
+   "n": "035/193",
+   "name": "Snorunt",
+   "zh": "雪童子",
+   "v": "npm"
+  },
+  {
+   "n": "036/193",
+   "name": "Mega Froslass ex",
+   "zh": "超級雪妖女ex",
+   "v": "n"
+  },
+  {
+   "n": "037/193",
+   "name": "N's Vanillite",
+   "zh": "N的迷你冰",
+   "v": "npm"
+  },
+  {
+   "n": "038/193",
+   "name": "N's Vanillish",
+   "zh": "N的多多冰",
+   "v": "npm"
+  },
+  {
+   "n": "039/193",
+   "name": "N's Vanilluxe",
+   "zh": "N的雙倍多多冰",
+   "v": "npm"
+  },
+  {
+   "n": "040/193",
+   "name": "Snom",
+   "zh": "雪吞蟲",
+   "v": "npm"
+  },
+  {
+   "n": "041/193",
+   "name": "Frosmoth",
+   "zh": "雪絨蛾",
+   "v": "npm"
+  },
+  {
+   "n": "042/193",
+   "name": "Glastrier",
+   "zh": "雪暴馬",
+   "v": "npm"
+  },
+  {
+   "n": "043/193",
+   "name": "Chien-Pao",
+   "zh": "古劍豹",
+   "v": "npm"
+  },
+  {
+   "n": "044/193",
+   "name": "Pikachu ex",
+   "zh": "皮卡丘ex",
+   "v": "n"
+  },
+  {
+   "n": "045/193",
+   "name": "Magnemite",
+   "zh": "小磁怪",
+   "v": "npm"
+  },
+  {
+   "n": "046/193",
+   "name": "Magneton",
+   "zh": "三合一磁怪",
+   "v": "npm"
+  },
+  {
+   "n": "047/193",
+   "name": "Tynamo",
+   "zh": "麻麻小魚",
+   "v": "npm"
+  },
+  {
+   "n": "048/193",
+   "name": "Eelektrik",
+   "zh": "麻麻鰻",
+   "v": "npm"
+  },
+  {
+   "n": "049/193",
+   "name": "Mega Eelektross ex",
+   "zh": "超級麻麻鰻魚王ex",
+   "v": "n"
+  },
+  {
+   "n": "050/193",
+   "name": "Stunfisk",
+   "zh": "泥巴魚",
+   "v": "npm"
+  },
+  {
+   "n": "051/193",
+   "name": "Zekrom ex",
+   "zh": "捷克羅姆ex",
+   "v": "n"
+  },
+  {
+   "n": "052/193",
+   "name": "Helioptile",
+   "zh": "傘電蜥",
+   "v": "npm"
+  },
+  {
+   "n": "053/193",
+   "name": "Heliolisk",
+   "zh": "光電傘蜥",
+   "v": "npm"
+  },
+  {
+   "n": "054/193",
+   "name": "Tapu Koko",
+   "zh": "卡璞・鳴鳴",
+   "v": "npm"
+  },
+  {
+   "n": "055/193",
+   "name": "Zeraora",
+   "zh": "捷拉奧拉",
+   "v": "npm"
+  },
+  {
+   "n": "056/193",
+   "name": "Iono's Tadbulb",
+   "zh": "奇樹的光蚪仔",
+   "v": "npm"
+  },
+  {
+   "n": "057/193",
+   "name": "Iono's Bellibolt ex",
+   "zh": "奇樹的電肚蛙ex",
+   "v": "n"
+  },
+  {
+   "n": "058/193",
+   "name": "Iono's Wattrel",
+   "zh": "奇樹的電海燕",
+   "v": "npm"
+  },
+  {
+   "n": "059/193",
+   "name": "Iono's Kilowattrel",
+   "zh": "奇樹的大電海燕",
+   "v": "npm"
+  },
+  {
+   "n": "060/193",
+   "name": "Lillie's Clefairy ex",
+   "zh": "莉莉艾的皮皮ex",
+   "v": "n"
+  },
+  {
+   "n": "061/193",
+   "name": "Team Rocket's Exeggcute",
+   "zh": "火箭隊的蛋蛋",
+   "v": "npm"
+  },
+  {
+   "n": "062/193",
+   "name": "Team Rocket's Exeggutor",
+   "zh": "火箭隊的椰蛋樹",
+   "v": "npm"
+  },
+  {
+   "n": "063/193",
+   "name": "Team Rocket's Mewtwo ex",
+   "zh": "<火箭隊的>超夢ex",
+   "v": "n"
+  },
+  {
+   "n": "064/193",
+   "name": "Togepi",
+   "zh": "波克比",
+   "v": "npm"
+  },
+  {
+   "n": "065/193",
+   "name": "Togetic",
+   "zh": "波克基古",
+   "v": "npm"
+  },
+  {
+   "n": "066/193",
+   "name": "Togekiss",
+   "zh": "波克基斯",
+   "v": "npm"
+  },
+  {
+   "n": "067/193",
+   "name": "Misdreavus",
+   "zh": "夢妖",
+   "v": "npm"
+  },
+  {
+   "n": "068/193",
+   "name": "Mismagius",
+   "zh": "夢妖魔",
+   "v": "npm"
+  },
+  {
+   "n": "069/193",
+   "name": "Ralts",
+   "zh": "拉魯拉絲",
+   "v": "npm"
+  },
+  {
+   "n": "070/193",
+   "name": "Kirlia",
+   "zh": "奇魯莉安",
+   "v": "npm"
+  },
+  {
+   "n": "071/193",
+   "name": "Mega Gardevoir ex",
+   "zh": "超級沙奈朵ex",
+   "v": "n"
+  },
+  {
+   "n": "072/193",
+   "name": "Duskull",
+   "zh": "夜巡靈",
+   "v": "npm"
+  },
+  {
+   "n": "073/193",
+   "name": "Dusclops",
+   "zh": "彷徨夜靈",
+   "v": "npm"
+  },
+  {
+   "n": "074/193",
+   "name": "Dusknoir",
+   "zh": "黑夜魔靈",
+   "v": "npm"
+  },
+  {
+   "n": "075/193",
+   "name": "Latias ex",
+   "zh": "拉帝亞斯ex",
+   "v": "n"
+  },
+  {
+   "n": "076/193",
+   "name": "Rotom",
+   "zh": "洛托姆",
+   "v": "npm"
+  },
+  {
+   "n": "077/193",
+   "name": "Hop's Phantump",
+   "zh": "赫普的小木靈",
+   "v": "npm"
+  },
+  {
+   "n": "078/193",
+   "name": "Hop's Trevenant",
+   "zh": "赫普的朽木妖",
+   "v": "npm"
+  },
+  {
+   "n": "079/193",
+   "name": "Team Rocket's Mimikyu",
+   "zh": "<火箭隊的>謎擬Q",
+   "v": "npm"
+  },
+  {
+   "n": "080/193",
+   "name": "Spectrier",
+   "zh": "靈幽馬",
+   "v": "npm"
+  },
+  {
+   "n": "081/193",
+   "name": "Munkidori",
+   "zh": "願增猿",
+   "v": "npm"
+  },
+  {
+   "n": "082/193",
+   "name": "Team Rocket's Diglett",
+   "zh": "火箭隊的地鼠",
+   "v": "npm"
+  },
+  {
+   "n": "083/193",
+   "name": "Team Rocket's Dugtrio",
+   "zh": "火箭隊的三地鼠",
+   "v": "npm"
+  },
+  {
+   "n": "084/193",
+   "name": "Meditite",
+   "zh": "瑪沙那",
+   "v": "npm"
+  },
+  {
+   "n": "085/193",
+   "name": "Medicham",
+   "zh": "恰雷姆",
+   "v": "npm"
+  },
+  {
+   "n": "086/193",
+   "name": "Lunatone",
+   "zh": "月石",
+   "v": "npm"
+  },
+  {
+   "n": "087/193",
+   "name": "Solrock",
+   "zh": "太陽岩",
+   "v": "npm"
+  },
+  {
+   "n": "088/193",
+   "name": "Cynthia's Gible",
+   "zh": "竹蘭的圓陸鯊",
+   "v": "npm"
+  },
+  {
+   "n": "089/193",
+   "name": "Cynthia's Gabite",
+   "zh": "竹蘭的尖牙陸鯊",
+   "v": "npm"
+  },
+  {
+   "n": "090/193",
+   "name": "Cynthia's Garchomp ex",
+   "zh": "<竹蘭的>烈咬陸鯊ex",
+   "v": "n"
+  },
+  {
+   "n": "091/193",
+   "name": "Riolu",
+   "zh": "利歐路",
+   "v": "npm"
+  },
+  {
+   "n": "092/193",
+   "name": "Mega Lucario ex",
+   "zh": "超級路卡利歐ex",
+   "v": "n"
+  },
+  {
+   "n": "093/193",
+   "name": "Pancham",
+   "zh": "頑皮熊貓",
+   "v": "npm"
+  },
+  {
+   "n": "094/193",
+   "name": "Mega Hawlucha ex",
+   "zh": "超級摔角鷹人ex",
+   "v": "n"
+  },
+  {
+   "n": "095/193",
+   "name": "Rolycoly",
+   "zh": "小炭仔",
+   "v": "npm"
+  },
+  {
+   "n": "096/193",
+   "name": "Carkol",
+   "zh": "大炭車",
+   "v": "npm"
+  },
+  {
+   "n": "097/193",
+   "name": "Coalossal",
+   "zh": "巨炭山",
+   "v": "npm"
+  },
+  {
+   "n": "098/193",
+   "name": "Okidogi",
+   "zh": "夠讚狗",
+   "v": "npm"
+  },
+  {
+   "n": "099/193",
+   "name": "Team Rocket's Zubat",
+   "zh": "火箭隊的超音蝠",
+   "v": "npm"
+  },
+  {
+   "n": "100/193",
+   "name": "Team Rocket's Golbat",
+   "zh": "火箭隊的大嘴蝠",
+   "v": "npm"
+  },
+  {
+   "n": "101/193",
+   "name": "Team Rocket's Crobat ex",
+   "zh": "<火箭隊的>叉字蝠ex",
+   "v": "n"
+  },
+  {
+   "n": "102/193",
+   "name": "Team Rocket's Murkrow",
+   "zh": "<火箭隊的>黑暗鴉",
+   "v": "npm"
+  },
+  {
+   "n": "103/193",
+   "name": "Team Rocket's Honchkrow",
+   "zh": "火箭隊的烏鴉頭頭",
+   "v": "npm"
+  },
+  {
+   "n": "104/193",
+   "name": "Team Rocket's Sneasel",
+   "zh": "<火箭隊的>狃拉",
+   "v": "npm"
+  },
+  {
+   "n": "105/193",
+   "name": "Galarian Zigzagoon",
+   "zh": "伽勒爾 蛇紋熊",
+   "v": "npm"
+  },
+  {
+   "n": "106/193",
+   "name": "Galarian Linoone",
+   "zh": "伽勒爾 直衝熊",
+   "v": "npm"
+  },
+  {
+   "n": "107/193",
+   "name": "Galarian Obstagoon",
+   "zh": "伽勒爾 堵攔熊",
+   "v": "npm"
+  },
+  {
+   "n": "108/193",
+   "name": "Cynthia's Spiritomb",
+   "zh": "<竹蘭的>花岩怪",
+   "v": "npm"
+  },
+  {
+   "n": "109/193",
+   "name": "Scraggy",
+   "zh": "滑滑小子",
+   "v": "npm"
+  },
+  {
+   "n": "110/193",
+   "name": "Mega Scrafty ex",
+   "zh": "超級頭巾混混ex",
+   "v": "n"
+  },
+  {
+   "n": "111/193",
+   "name": "N's Zorua",
+   "zh": "N的索羅亞",
+   "v": "npm"
+  },
+  {
+   "n": "112/193",
+   "name": "N's Zoroark ex",
+   "zh": "N的索羅亞克ex",
+   "v": "n"
+  },
+  {
+   "n": "113/193",
+   "name": "Pangoro",
+   "zh": "流氓熊貓",
+   "v": "npm"
+  },
+  {
+   "n": "114/193",
+   "name": "Fezandipiti ex",
+   "zh": "吉雉雞ex",
+   "v": "n"
+  },
+  {
+   "n": "115/193",
+   "name": "Pecharunt",
+   "zh": "桃歹郎",
+   "v": "npm"
+  },
+  {
+   "n": "116/193",
+   "name": "Pawniard",
+   "zh": "駒刀小兵",
+   "v": "npm"
+  },
+  {
+   "n": "117/193",
+   "name": "Bisharp",
+   "zh": "劈斬司令",
+   "v": "npm"
+  },
+  {
+   "n": "118/193",
+   "name": "Kingambit",
+   "zh": "仆斬將軍",
+   "v": "npm"
+  },
+  {
+   "n": "119/193",
+   "name": "Genesect ex",
+   "zh": "蓋諾賽克特ex",
+   "v": "n"
+  },
+  {
+   "n": "120/193",
+   "name": "Magearna",
+   "zh": "瑪機雅娜",
+   "v": "npm"
+  },
+  {
+   "n": "121/193",
+   "name": "Duraludon",
+   "zh": "鋁鋼龍",
+   "v": "npm"
+  },
+  {
+   "n": "122/193",
+   "name": "Archaludon ex",
+   "zh": "鋁鋼橋龍ex",
+   "v": "n"
+  },
+  {
+   "n": "123/193",
+   "name": "Hop's Zacian ex",
+   "zh": "赫普的蒼響ex",
+   "v": "n"
+  },
+  {
+   "n": "124/193",
+   "name": "Dratini",
+   "zh": "迷你龍",
+   "v": "npm"
+  },
+  {
+   "n": "125/193",
+   "name": "Dragonair",
+   "zh": "哈克龍",
+   "v": "npm"
+  },
+  {
+   "n": "126/193",
+   "name": "Mega Dragonite ex",
+   "zh": "超級快龍ex",
+   "v": "n"
+  },
+  {
+   "n": "127/193",
+   "name": "Rayquaza",
+   "zh": "烈空坐",
+   "v": "npm"
+  },
+  {
+   "n": "128/193",
+   "name": "N's Reshiram",
+   "zh": "N的萊希拉姆",
+   "v": "npm"
+  },
+  {
+   "n": "129/193",
+   "name": "N's Zekrom",
+   "zh": "N的捷克羅姆",
+   "v": "npm"
+  },
+  {
+   "n": "130/193",
+   "name": "Noibat",
+   "zh": "嗡蝠",
+   "v": "npm"
+  },
+  {
+   "n": "131/193",
+   "name": "Noivern",
+   "zh": "音波龍",
+   "v": "npm"
+  },
+  {
+   "n": "132/193",
+   "name": "Dreepy",
+   "zh": "多龍梅西亞",
+   "v": "npm"
+  },
+  {
+   "n": "133/193",
+   "name": "Drakloak",
+   "zh": "多龍奇",
+   "v": "npm"
+  },
+  {
+   "n": "134/193",
+   "name": "Dragapult ex",
+   "zh": "多龍巴魯托ex",
+   "v": "n"
+  },
+  {
+   "n": "135/193",
+   "name": "Tatsugiri",
+   "zh": "米立龍",
+   "v": "npm"
+  },
+  {
+   "n": "136/193",
+   "name": "Hop's Snorlax",
+   "zh": "赫普的卡比獸",
+   "v": "npm"
+  },
+  {
+   "n": "137/193",
+   "name": "Hoothoot",
+   "zh": "咕咕",
+   "v": "npm"
+  },
+  {
+   "n": "138/193",
+   "name": "Noctowl",
+   "zh": "貓頭夜鷹",
+   "v": "npm"
+  },
+  {
+   "n": "139/193",
+   "name": "Fan Rotom",
+   "zh": "旋轉洛托姆",
+   "v": "npm"
+  },
+  {
+   "n": "140/193",
+   "name": "Bouffalant",
+   "zh": "爆炸頭水牛",
+   "v": "npm"
+  },
+  {
+   "n": "141/193",
+   "name": "Hop's Wooloo",
+   "zh": "赫普的毛辮羊",
+   "v": "npm"
+  },
+  {
+   "n": "142/193",
+   "name": "Hop's Dubwool",
+   "zh": "赫普的毛毛角羊",
+   "v": "npm"
+  },
+  {
+   "n": "143/193",
+   "name": "Hop's Cramorant",
+   "zh": "赫普的古月鳥",
+   "v": "npm"
+  },
+  {
+   "n": "144/193",
+   "name": "Terapagos",
+   "zh": "太樂巴戈斯",
+   "v": "npm"
+  },
+  {
+   "n": "145/193",
+   "name": "Terapagos ex",
+   "zh": "太樂巴戈斯ex",
+   "v": "n"
+  },
+  {
+   "n": "146/193",
+   "name": "N's PP Up",
+   "zh": "N的ＰＰ提升劑",
+   "v": "n"
+  },
+  {
+   "n": "147/193",
+   "name": "Energy Recycler",
+   "zh": "能量回收器",
+   "v": "n"
+  },
+  {
+   "n": "148/193",
+   "name": "Enhanced Hammer",
+   "zh": "改造之錘",
+   "v": "n"
+  },
+  {
+   "n": "149/193",
+   "name": "Glass Trumpet",
+   "zh": "玻璃喇叭",
+   "v": "n"
+  },
+  {
+   "n": "150/193",
+   "name": "Sacred Ash",
+   "zh": "聖灰",
+   "v": "n"
+  },
+  {
+   "n": "151/193",
+   "name": "Tool Scrapper",
+   "zh": "道具拆除器",
+   "v": "n"
+  },
+  {
+   "n": "152/193",
+   "name": "Tera Orb",
+   "zh": "太晶珠",
+   "v": "n"
+  },
+  {
+   "n": "153/193",
+   "name": "Buddy-Buddy Poffin",
+   "zh": "好友寶芬",
+   "v": "n"
+  },
+  {
+   "n": "154/193",
+   "name": "Premium Power Pro",
+   "zh": "力量蛋白飲",
+   "v": "n"
+  },
+  {
+   "n": "155/193",
+   "name": "Fighting Gong",
+   "zh": "戰鬥鑼",
+   "v": "n"
+  },
+  {
+   "n": "156/193",
+   "name": "Hop's Bag",
+   "zh": "赫普的包包",
+   "v": "n"
+  },
+  {
+   "n": "157/193",
+   "name": "Bug Catching Set",
+   "zh": "捕蟲組合",
+   "v": "n"
+  },
+  {
+   "n": "158/193",
+   "name": "Mega Signal",
+   "zh": "超級信號",
+   "v": "n"
+  },
+  {
+   "n": "159/193",
+   "name": "Night Stretcher",
+   "zh": "夜間擔架",
+   "v": "n"
+  },
+  {
+   "n": "160/193",
+   "name": "Team Rocket's Transceiver",
+   "zh": "火箭隊的接收器",
+   "v": "n"
+  },
+  {
+   "n": "161/193",
+   "name": "Counter Gain",
+   "zh": "反擊增幅器",
+   "v": "n"
+  },
+  {
+   "n": "162/193",
+   "name": "Cynthia's Power Weight",
+   "zh": "竹蘭的力量負重",
+   "v": "n"
+  },
+  {
+   "n": "163/193",
+   "name": "Light Ball",
+   "zh": "電氣球",
+   "v": "n"
+  },
+  {
+   "n": "164/193",
+   "name": "Thick Scale",
+   "zh": "渾厚鱗片",
+   "v": "n"
+  },
+  {
+   "n": "165/193",
+   "name": "Air Balloon",
+   "zh": "氣球",
+   "v": "n"
+  },
+  {
+   "n": "166/193",
+   "name": "Brave Bangle",
+   "zh": "猛攻手鐲",
+   "v": "n"
+  },
+  {
+   "n": "167/193",
+   "name": "Hop's Choice Band",
+   "zh": "赫普的講究頭帶",
+   "v": "n"
+  },
+  {
+   "n": "168/193",
+   "name": "Iris's Fighting Spirit",
+   "zh": "艾莉絲的鬥志",
+   "v": "n"
+  },
+  {
+   "n": "169/193",
+   "name": "Acerola's Mischief",
+   "zh": "阿塞蘿拉的惡作劇",
+   "v": "n"
+  },
+  {
+   "n": "170/193",
+   "name": "Canari",
+   "zh": "卡娜莉",
+   "v": "n"
+  },
+  {
+   "n": "171/193",
+   "name": "Surfer",
+   "zh": "衝浪手",
+   "v": "n"
+  },
+  {
+   "n": "172/193",
+   "name": "Hilda",
+   "zh": "鬥子",
+   "v": "n"
+  },
+  {
+   "n": "173/193",
+   "name": "Anthea & Concordia",
+   "zh": "巴貝娜與荷蓮娜",
+   "v": "n"
+  },
+  {
+   "n": "174/193",
+   "name": "Ethan's Adventure",
+   "zh": "阿響的冒險",
+   "v": "n"
+  },
+  {
+   "n": "175/193",
+   "name": "Lillie's Determination",
+   "zh": "莉莉艾的決意",
+   "v": "n"
+  },
+  {
+   "n": "176/193",
+   "name": "Team Rocket's Ariana",
+   "zh": "火箭隊的雅典娜",
+   "v": "n"
+  },
+  {
+   "n": "177/193",
+   "name": "Team Rocket's Archer",
+   "zh": "火箭隊的阿波羅",
+   "v": "n"
+  },
+  {
+   "n": "178/193",
+   "name": "Team Rocket's Giovanni",
+   "zh": "火箭隊的坂木",
+   "v": "n"
+  },
+  {
+   "n": "179/193",
+   "name": "Team Rocket's Petrel",
+   "zh": "火箭隊的拉姆達",
+   "v": "n"
+  },
+  {
+   "n": "180/193",
+   "name": "Team Rocket's Proton",
+   "zh": "火箭隊的蘭斯",
+   "v": "n"
+  },
+  {
+   "n": "181/193",
+   "name": "N's Castle",
+   "zh": "N的城堡",
+   "v": "n"
+  },
+  {
+   "n": "182/193",
+   "name": "Forest of Vitality",
+   "zh": "活力森林",
+   "v": "n"
+  },
+  {
+   "n": "183/193",
+   "name": "Gravity Mountain",
+   "zh": "引力山岳",
+   "v": "n"
+  },
+  {
+   "n": "184/193",
+   "name": "Area Zero Underdepths",
+   "zh": "零之大空洞",
+   "v": "n"
+  },
+  {
+   "n": "185/193",
+   "name": "Levincia",
+   "zh": "釀光市",
+   "v": "n"
+  },
+  {
+   "n": "186/193",
+   "name": "Postwick",
+   "zh": "化朗鎮",
+   "v": "n"
+  },
+  {
+   "n": "187/193",
+   "name": "Mystery Garden",
+   "zh": "神秘花園",
+   "v": "n"
+  },
+  {
+   "n": "188/193",
+   "name": "Nighttime Mine",
+   "zh": "夜間礦山",
+   "v": "n"
+  },
+  {
+   "n": "189/193",
+   "name": "Team Rocket's Watchtower",
+   "zh": "火箭隊的監視塔",
+   "v": "n"
+  },
+  {
+   "n": "190/193",
+   "name": "Team Rocket's Factory",
+   "zh": "火箭隊的工廠",
+   "v": "n"
+  },
+  {
+   "n": "191/193",
+   "name": "Ignition Energy",
+   "zh": "燃火能量",
+   "v": "n"
+  },
+  {
+   "n": "192/193",
+   "name": "Prism Energy",
+   "zh": "稜鏡能量",
+   "v": "n"
+  },
+  {
+   "n": "193/193",
+   "name": "Team Rocket's Energy",
+   "zh": "火箭隊能量",
+   "v": "n"
+  },
+  {
+   "n": "194/193",
+   "name": "Beautifly",
+   "zh": "狩獵鳳蝶",
+   "v": "h"
+  },
+  {
+   "n": "195/193",
+   "name": "Dustox",
+   "zh": "毒粉蛾",
+   "v": "h"
+  },
+  {
+   "n": "196/193",
+   "name": "Budew",
+   "zh": "含羞苞",
+   "v": "h"
+  },
+  {
+   "n": "197/193",
+   "name": "Ethan's Magcargo",
+   "zh": "<阿響的>熔岩蝸牛",
+   "v": "h"
+  },
+  {
+   "n": "198/193",
+   "name": "Numel",
+   "zh": "呆火駝",
+   "v": "h"
+  },
+  {
+   "n": "199/193",
+   "name": "Psyduck",
+   "zh": "可達鴨",
+   "v": "h"
+  },
+  {
+   "n": "200/193",
+   "name": "Snorunt",
+   "zh": "雪童子",
+   "v": "h"
+  },
+  {
+   "n": "201/193",
+   "name": "Heliolisk",
+   "zh": "光電傘蜥",
+   "v": "h"
+  },
+  {
+   "n": "202/193",
+   "name": "Misdreavus",
+   "zh": "夢妖",
+   "v": "h"
+  },
+  {
+   "n": "203/193",
+   "name": "Togekiss",
+   "zh": "波克基斯",
+   "v": "h"
+  },
+  {
+   "n": "204/193",
+   "name": "Hop's Trevenant",
+   "zh": "赫普的朽木妖",
+   "v": "h"
+  },
+  {
+   "n": "205/193",
+   "name": "Team Rocket's Mimikyu",
+   "zh": "<火箭隊的>謎擬Q",
+   "v": "h"
+  },
+  {
+   "n": "206/193",
+   "name": "Team Rocket's Dugtrio",
+   "zh": "火箭隊的三地鼠",
+   "v": "h"
+  },
+  {
+   "n": "207/193",
+   "name": "Medicham",
+   "zh": "恰雷姆",
+   "v": "h"
+  },
+  {
+   "n": "208/193",
+   "name": "Cynthia's Spiritomb",
+   "zh": "<竹蘭的>花岩怪",
+   "v": "h"
+  },
+  {
+   "n": "209/193",
+   "name": "Galarian Obstagoon",
+   "zh": "伽勒爾 堵攔熊",
+   "v": "h"
+  },
+  {
+   "n": "210/193",
+   "name": "N's Zekrom",
+   "zh": "N的捷克羅姆",
+   "v": "h"
+  },
+  {
+   "n": "211/193",
+   "name": "Dreepy",
+   "zh": "多龍梅西亞",
+   "v": "h"
+  },
+  {
+   "n": "212/193",
+   "name": "Drakloak",
+   "zh": "多龍奇",
+   "v": "h"
+  },
+  {
+   "n": "213/193",
+   "name": "Fan Rotom",
+   "zh": "旋轉洛托姆",
+   "v": "h"
+  },
+  {
+   "n": "214/193",
+   "name": "N's PP Up",
+   "zh": "N的ＰＰ提升劑",
+   "v": "h"
+  },
+  {
+   "n": "215/193",
+   "name": "Glass Trumpet",
+   "zh": "玻璃喇叭",
+   "v": "h"
+  },
+  {
+   "n": "216/193",
+   "name": "Ultra Ball",
+   "zh": "高級球",
+   "v": "h"
+  },
+  {
+   "n": "217/193",
+   "name": "Team Rocket's Transceiver",
+   "zh": "火箭隊的接收器",
+   "v": "h"
+  },
+  {
+   "n": "218/193",
+   "name": "Counter Gain",
+   "zh": "反擊增幅器",
+   "v": "h"
+  },
+  {
+   "n": "219/193",
+   "name": "Canari",
+   "zh": "卡娜莉",
+   "v": "h"
+  },
+  {
+   "n": "220/193",
+   "name": "Black Belt's Training",
+   "zh": "空手道王的演練",
+   "v": "h"
+  },
+  {
+   "n": "221/193",
+   "name": "Anthea & Concordia",
+   "zh": "巴貝娜與荷蓮娜",
+   "v": "h"
+  },
+  {
+   "n": "222/193",
+   "name": "Jamming Tower",
+   "zh": "阻礙之塔",
+   "v": "h"
+  },
+  {
+   "n": "223/193",
+   "name": "Mega Charizard X ex",
+   "zh": "超級噴火龍Xex",
+   "v": "h"
+  },
+  {
+   "n": "224/193",
+   "name": "Mega Froslass ex",
+   "zh": "超級雪妖女ex",
+   "v": "h"
+  },
+  {
+   "n": "225/193",
+   "name": "Mega Eelektross ex",
+   "zh": "超級麻麻鰻魚王ex",
+   "v": "h"
+  },
+  {
+   "n": "226/193",
+   "name": "Mega Gardevoir ex",
+   "zh": "超級沙奈朵ex",
+   "v": "h"
+  },
+  {
+   "n": "227/193",
+   "name": "Mega Diancie ex",
+   "zh": "超級蒂安希ex",
+   "v": "h"
+  },
+  {
+   "n": "228/193",
+   "name": "Mega Lucario ex",
+   "zh": "超級路卡利歐ex",
+   "v": "h"
+  },
+  {
+   "n": "229/193",
+   "name": "Mega Hawlucha ex",
+   "zh": "超級摔角鷹人ex",
+   "v": "h"
+  },
+  {
+   "n": "230/193",
+   "name": "Mega Gengar ex",
+   "zh": "超級耿鬼ex",
+   "v": "h"
+  },
+  {
+   "n": "231/193",
+   "name": "Mega Scrafty ex",
+   "zh": "超級頭巾混混ex",
+   "v": "h"
+  },
+  {
+   "n": "232/193",
+   "name": "Mega Dragonite ex",
+   "zh": "超級快龍ex",
+   "v": "h"
+  },
+  {
+   "n": "233/193",
+   "name": "Mega Froslass ex",
+   "zh": "超級雪妖女ex",
+   "v": "h"
+  },
+  {
+   "n": "234/193",
+   "name": "Pikachu ex",
+   "zh": "皮卡丘ex",
+   "v": "h"
+  },
+  {
+   "n": "235/193",
+   "name": "Mega Eelektross ex",
+   "zh": "超級麻麻鰻魚王ex",
+   "v": "h"
+  },
+  {
+   "n": "236/193",
+   "name": "Iono's Bellibolt ex",
+   "zh": "奇樹的電肚蛙ex",
+   "v": "h"
+  },
+  {
+   "n": "237/193",
+   "name": "Team Rocket's Mewtwo ex",
+   "zh": "<火箭隊的>超夢ex",
+   "v": "h"
+  },
+  {
+   "n": "238/193",
+   "name": "Mega Diancie ex",
+   "zh": "超級蒂安希ex",
+   "v": "h"
+  },
+  {
+   "n": "239/193",
+   "name": "Mega Hawlucha ex",
+   "zh": "超級摔角鷹人ex",
+   "v": "h"
+  },
+  {
+   "n": "240/193",
+   "name": "Mega Gengar ex",
+   "zh": "超級耿鬼ex",
+   "v": "h"
+  },
+  {
+   "n": "241/193",
+   "name": "Mega Scrafty ex",
+   "zh": "超級頭巾混混ex",
+   "v": "h"
+  },
+  {
+   "n": "242/193",
+   "name": "N's Zoroark ex",
+   "zh": "N的索羅亞克ex",
+   "v": "h"
+  },
+  {
+   "n": "243/193",
+   "name": "Marnie's Grimmsnarl ex",
+   "zh": "<瑪俐的>長毛巨魔ex",
+   "v": "h"
+  },
+  {
+   "n": "244/193",
+   "name": "Fezandipiti ex",
+   "zh": "吉雉雞ex",
+   "v": "h"
+  },
+  {
+   "n": "245/193",
+   "name": "Steven's Metagross ex",
+   "zh": "<大吾的>巨金怪ex",
+   "v": "h"
+  },
+  {
+   "n": "246/193",
+   "name": "Mega Dragonite ex",
+   "zh": "超級快龍ex",
+   "v": "h"
+  },
+  {
+   "n": "247/193",
+   "name": "Iris's Fighting Spirit",
+   "zh": "艾莉絲的鬥志",
+   "v": "h"
+  },
+  {
+   "n": "248/193",
+   "name": "Canari",
+   "zh": "卡娜莉",
+   "v": "h"
+  },
+  {
+   "n": "249/193",
+   "name": "Surfer",
+   "zh": "衝浪手",
+   "v": "h"
+  },
+  {
+   "n": "250/193",
+   "name": "Mega Dragonite ex",
+   "zh": "超級快龍ex",
+   "v": "h"
+  }
+ ]
+}

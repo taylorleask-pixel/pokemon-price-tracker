@@ -1,0 +1,655 @@
+{
+ "id": "M6",
+ "name": "Storm Emeralda",
+ "serie": "MEGA",
+ "serie_id": "M",
+ "date": "2026-07-31",
+ "official": 76,
+ "logo": "img/logos/ja/M6.webp",
+ "abbr": "M6",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/076",
+   "name": "Heracross",
+   "zh": "赫拉克羅斯",
+   "v": "n"
+  },
+  {
+   "n": "002/076",
+   "name": "Surskit",
+   "zh": "溜溜糖球",
+   "v": "n"
+  },
+  {
+   "n": "003/076",
+   "name": "Masquerain",
+   "zh": "雨翅蛾",
+   "v": "n"
+  },
+  {
+   "n": "004/076",
+   "name": "Cacnea",
+   "zh": "刺球仙人掌",
+   "v": "n"
+  },
+  {
+   "n": "005/076",
+   "name": "Cacturne",
+   "zh": "夢歌仙人掌",
+   "v": "n"
+  },
+  {
+   "n": "006/076",
+   "name": "Combee",
+   "zh": "三蜜蜂",
+   "v": "n"
+  },
+  {
+   "n": "007/076",
+   "name": "Vespiquen",
+   "zh": "蜂女王",
+   "v": "n"
+  },
+  {
+   "n": "008/076",
+   "name": "Wimpod",
+   "zh": "膽小蟲",
+   "v": "n"
+  },
+  {
+   "n": "009/076",
+   "name": "Mega Golisopod ex",
+   "zh": "超級具甲武者ex",
+   "v": "n"
+  },
+  {
+   "n": "010/076",
+   "name": "Growlithe",
+   "zh": "卡蒂狗",
+   "v": "n"
+  },
+  {
+   "n": "011/076",
+   "name": "Arcanine",
+   "zh": "風速狗",
+   "v": "n"
+  },
+  {
+   "n": "012/076",
+   "name": "Magmar",
+   "zh": "鴨嘴火獸",
+   "v": "n"
+  },
+  {
+   "n": "013/076",
+   "name": "Magmortar",
+   "zh": "鴨嘴炎獸",
+   "v": "n"
+  },
+  {
+   "n": "014/076",
+   "name": "Torkoal",
+   "zh": "煤炭龜",
+   "v": "n"
+  },
+  {
+   "n": "015/076",
+   "name": "Heat Rotom ex",
+   "zh": "加熱洛托姆ex",
+   "v": "n"
+  },
+  {
+   "n": "016/076",
+   "name": "Heatmor",
+   "zh": "熔蟻獸",
+   "v": "n"
+  },
+  {
+   "n": "017/076",
+   "name": "Mantine",
+   "zh": "巨翅飛魚",
+   "v": "n"
+  },
+  {
+   "n": "018/076",
+   "name": "Kyogre",
+   "zh": "蓋歐卡",
+   "v": "n"
+  },
+  {
+   "n": "019/076",
+   "name": "Frillish",
+   "zh": "輕飄飄",
+   "v": "n"
+  },
+  {
+   "n": "020/076",
+   "name": "Jellicent",
+   "zh": "胖嘟嘟",
+   "v": "n"
+  },
+  {
+   "n": "021/076",
+   "name": "Wishiwashi ex",
+   "zh": "弱丁魚ex",
+   "v": "n"
+  },
+  {
+   "n": "022/076",
+   "name": "Electabuzz",
+   "zh": "電擊獸",
+   "v": "n"
+  },
+  {
+   "n": "023/076",
+   "name": "Electivire",
+   "zh": "電擊魔獸",
+   "v": "n"
+  },
+  {
+   "n": "024/076",
+   "name": "Raikou ex",
+   "zh": "雷公ex",
+   "v": "n"
+  },
+  {
+   "n": "025/076",
+   "name": "Thundurus",
+   "zh": "雷電雲",
+   "v": "n"
+  },
+  {
+   "n": "026/076",
+   "name": "Pincurchin",
+   "zh": "啪嚓海膽",
+   "v": "n"
+  },
+  {
+   "n": "027/076",
+   "name": "Wattrel",
+   "zh": "電海燕",
+   "v": "n"
+  },
+  {
+   "n": "028/076",
+   "name": "Kilowattrel",
+   "zh": "大電海燕",
+   "v": "n"
+  },
+  {
+   "n": "029/076",
+   "name": "Drowzee",
+   "zh": "催眠貘",
+   "v": "n"
+  },
+  {
+   "n": "030/076",
+   "name": "Hypno",
+   "zh": "引夢貘人",
+   "v": "n"
+  },
+  {
+   "n": "031/076",
+   "name": "Giratina",
+   "zh": "騎拉帝納",
+   "v": "n"
+  },
+  {
+   "n": "032/076",
+   "name": "Golett",
+   "zh": "泥偶小人",
+   "v": "n"
+  },
+  {
+   "n": "033/076",
+   "name": "Mega Golurk ex",
+   "zh": "超級泥偶巨人ex",
+   "v": "n"
+  },
+  {
+   "n": "034/076",
+   "name": "Enamorus",
+   "zh": "眷戀雲",
+   "v": "n"
+  },
+  {
+   "n": "035/076",
+   "name": "Sandshrew",
+   "zh": "穿山鼠",
+   "v": "n"
+  },
+  {
+   "n": "036/076",
+   "name": "Sandslash",
+   "zh": "穿山王",
+   "v": "n"
+  },
+  {
+   "n": "037/076",
+   "name": "Onix",
+   "zh": "大岩蛇",
+   "v": "n"
+  },
+  {
+   "n": "038/076",
+   "name": "Steelix",
+   "zh": "大鋼蛇",
+   "v": "n"
+  },
+  {
+   "n": "039/076",
+   "name": "Groudon",
+   "zh": "固拉多",
+   "v": "n"
+  },
+  {
+   "n": "040/076",
+   "name": "Landorus",
+   "zh": "土地雲",
+   "v": "n"
+  },
+  {
+   "n": "041/076",
+   "name": "Nidoran♀",
+   "zh": "尼多蘭",
+   "v": "n"
+  },
+  {
+   "n": "042/076",
+   "name": "Nidorina",
+   "zh": "尼多娜",
+   "v": "n"
+  },
+  {
+   "n": "043/076",
+   "name": "Nidoqueen",
+   "zh": "尼多后",
+   "v": "n"
+  },
+  {
+   "n": "044/076",
+   "name": "Spinarak",
+   "zh": "圓絲蛛",
+   "v": "n"
+  },
+  {
+   "n": "045/076",
+   "name": "Ariados",
+   "zh": "阿利多斯",
+   "v": "n"
+  },
+  {
+   "n": "046/076",
+   "name": "Sableye",
+   "zh": "勾魂眼",
+   "v": "n"
+  },
+  {
+   "n": "047/076",
+   "name": "Inkay",
+   "zh": "好啦魷",
+   "v": "n"
+  },
+  {
+   "n": "048/076",
+   "name": "Mega Malamar ex",
+   "zh": "超級烏賊王ex",
+   "v": "n"
+  },
+  {
+   "n": "049/076",
+   "name": "Druddigon",
+   "zh": "赤面龍",
+   "v": "n"
+  },
+  {
+   "n": "050/076",
+   "name": "Jangmo-o",
+   "zh": "心鱗寶",
+   "v": "n"
+  },
+  {
+   "n": "051/076",
+   "name": "Hakamo-o",
+   "zh": "鱗甲龍",
+   "v": "n"
+  },
+  {
+   "n": "052/076",
+   "name": "Kommo-o",
+   "zh": "杖尾鱗甲龍",
+   "v": "n"
+  },
+  {
+   "n": "053/076",
+   "name": "Cyclizar",
+   "zh": "摩托蜥",
+   "v": "n"
+  },
+  {
+   "n": "054/076",
+   "name": "Azurill",
+   "zh": "露力麗",
+   "v": "n"
+  },
+  {
+   "n": "055/076",
+   "name": "Swablu",
+   "zh": "青綿鳥",
+   "v": "n"
+  },
+  {
+   "n": "056/076",
+   "name": "Altaria",
+   "zh": "七夕青鳥",
+   "v": "n"
+  },
+  {
+   "n": "057/076",
+   "name": "Kecleon",
+   "zh": "變隱龍",
+   "v": "n"
+  },
+  {
+   "n": "058/076",
+   "name": "Mega Rayquaza ex",
+   "zh": "超級烈空坐ex",
+   "v": "n"
+  },
+  {
+   "n": "059/076",
+   "name": "Tornadus",
+   "zh": "龍捲雲",
+   "v": "n"
+  },
+  {
+   "n": "060/076",
+   "name": "Fletchling",
+   "zh": "小箭雀",
+   "v": "n"
+  },
+  {
+   "n": "061/076",
+   "name": "Fletchinder",
+   "zh": "火箭雀",
+   "v": "n"
+  },
+  {
+   "n": "062/076",
+   "name": "Talonflame ex",
+   "zh": "烈箭鷹ex",
+   "v": "n"
+  },
+  {
+   "n": "063/076",
+   "name": "Delicious Onigiri",
+   "zh": "美味飯糰",
+   "v": "n"
+  },
+  {
+   "n": "064/076",
+   "name": "Adventuring Lantern",
+   "zh": "冒險提燈",
+   "v": "n"
+  },
+  {
+   "n": "065/076",
+   "name": "Custom Vest",
+   "zh": "訂製背心",
+   "v": "n"
+  },
+  {
+   "n": "066/076",
+   "name": "Mega Rayquaza Cap",
+   "zh": "超級烈空坐帽子",
+   "v": "n"
+  },
+  {
+   "n": "067/076",
+   "name": "Emcee's Hype",
+   "zh": "主持人的帶動",
+   "v": "n"
+  },
+  {
+   "n": "068/076",
+   "name": "Aarune",
+   "zh": "基利",
+   "v": "n"
+  },
+  {
+   "n": "069/076",
+   "name": "Zinnia",
+   "zh": "希嘉娜的信賴",
+   "v": "n"
+  },
+  {
+   "n": "070/076",
+   "name": "Tate & Liza's Training",
+   "zh": "小楓與小南的修行",
+   "v": "n"
+  },
+  {
+   "n": "077/076",
+   "name": "Masquerain",
+   "zh": "雨翅蛾",
+   "v": "h"
+  },
+  {
+   "n": "078/076",
+   "name": "Growlithe",
+   "zh": "卡蒂狗",
+   "v": "h"
+  },
+  {
+   "n": "079/076",
+   "name": "Magmortar",
+   "zh": "鴨嘴炎獸",
+   "v": "h"
+  },
+  {
+   "n": "080/076",
+   "name": "Kyogre",
+   "zh": "蓋歐卡",
+   "v": "h"
+  },
+  {
+   "n": "081/076",
+   "name": "Electivire",
+   "zh": "電擊魔獸",
+   "v": "h"
+  },
+  {
+   "n": "082/076",
+   "name": "Pincurchin",
+   "zh": "啪嚓海膽",
+   "v": "h"
+  },
+  {
+   "n": "083/076",
+   "name": "Enamorus",
+   "zh": "眷戀雲",
+   "v": "h"
+  },
+  {
+   "n": "084/076",
+   "name": "Groudon",
+   "zh": "固拉多",
+   "v": "h"
+  },
+  {
+   "n": "085/076",
+   "name": "Inkay",
+   "zh": "好啦魷",
+   "v": "h"
+  },
+  {
+   "n": "086/076",
+   "name": "Azurill",
+   "zh": "露力麗",
+   "v": "h"
+  },
+  {
+   "n": "087/076",
+   "name": "Altaria",
+   "zh": "七夕青鳥",
+   "v": "h"
+  },
+  {
+   "n": "088/076",
+   "name": "Kecleon",
+   "zh": "變隱龍",
+   "v": "h"
+  },
+  {
+   "n": "089/076",
+   "name": "Mega Golisopod ex",
+   "zh": "超級具甲武者ex",
+   "v": "h"
+  },
+  {
+   "n": "090/076",
+   "name": "Heat Rotom ex",
+   "zh": "加熱洛托姆ex",
+   "v": "h"
+  },
+  {
+   "n": "091/076",
+   "name": "Wishiwashi ex",
+   "zh": "弱丁魚ex",
+   "v": "h"
+  },
+  {
+   "n": "092/076",
+   "name": "Raikou ex",
+   "zh": "雷公ex",
+   "v": "h"
+  },
+  {
+   "n": "093/076",
+   "name": "Mega Golurk ex",
+   "zh": "超級泥偶巨人ex",
+   "v": "h"
+  },
+  {
+   "n": "094/076",
+   "name": "Mega Malamar ex",
+   "zh": "超級烏賊王ex",
+   "v": "h"
+  },
+  {
+   "n": "095/076",
+   "name": "Mega Rayquaza ex",
+   "zh": "超級烈空坐ex",
+   "v": "h"
+  },
+  {
+   "n": "096/076",
+   "name": "Talonflame ex",
+   "zh": "烈箭鷹ex",
+   "v": "h"
+  },
+  {
+   "n": "097/076",
+   "name": "Adventuring Lantern",
+   "zh": "冒險提燈",
+   "v": "h"
+  },
+  {
+   "n": "098/076",
+   "name": "Pokémon Catcher",
+   "zh": "寶可夢捕捉器",
+   "v": "h"
+  },
+  {
+   "n": "099/076",
+   "name": "Custom Vest",
+   "zh": "訂製背心",
+   "v": "h"
+  },
+  {
+   "n": "100/076",
+   "name": "Emcee's Hype",
+   "zh": "主持人的帶動",
+   "v": "h"
+  },
+  {
+   "n": "101/076",
+   "name": "Aarune",
+   "zh": "基利",
+   "v": "h"
+  },
+  {
+   "n": "102/076",
+   "name": "Zinnia",
+   "zh": "希嘉娜的信賴",
+   "v": "h"
+  },
+  {
+   "n": "103/076",
+   "name": "Tate & Liza's Training",
+   "zh": "小楓與小南的修行",
+   "v": "h"
+  },
+  {
+   "n": "104/076",
+   "name": "Growing Grass Energy",
+   "zh": "增強【草】能量",
+   "v": "h"
+  },
+  {
+   "n": "105/076",
+   "name": "Nitro Fire Energy",
+   "zh": "燃料【火】能量",
+   "v": "h"
+  },
+  {
+   "n": "106/076",
+   "name": "Bubbly Water Energy",
+   "zh": "泡沫【水】能量",
+   "v": "h"
+  },
+  {
+   "n": "107/076",
+   "name": "Mega Golisopod ex",
+   "zh": "超級具甲武者ex",
+   "v": "h"
+  },
+  {
+   "n": "108/076",
+   "name": "Raikou ex",
+   "zh": "雷公ex",
+   "v": "h"
+  },
+  {
+   "n": "109/076",
+   "name": "Mega Golurk ex",
+   "zh": "超級泥偶巨人ex",
+   "v": "h"
+  },
+  {
+   "n": "110/076",
+   "name": "Mega Rayquaza ex",
+   "zh": "超級烈空坐ex",
+   "v": "h"
+  },
+  {
+   "n": "111/076",
+   "name": "Aarune",
+   "zh": "基利",
+   "v": "h"
+  },
+  {
+   "n": "112/076",
+   "name": "Zinnia",
+   "zh": "希嘉娜的信賴",
+   "v": "h"
+  },
+  {
+   "n": "113/076",
+   "name": "Mega Rayquaza ex",
+   "zh": "超級烈空坐ex",
+   "v": "h"
+  }
+ ]
+}

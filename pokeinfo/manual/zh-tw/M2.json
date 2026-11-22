@@ -1,0 +1,709 @@
+{
+ "id": "M2",
+ "name": "烈獄狂火X",
+ "serie": "MEGA",
+ "serie_id": "M",
+ "date": "2025-10-09",
+ "official": 80,
+ "logo": "img/logos/ja/M2.webp",
+ "abbr": "M2",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/080",
+   "name": "Oddish",
+   "zh": "走路草",
+   "v": "n"
+  },
+  {
+   "n": "002/080",
+   "name": "Gloom",
+   "zh": "臭臭花",
+   "v": "n"
+  },
+  {
+   "n": "003/080",
+   "name": "Vileplume",
+   "zh": "霸王花",
+   "v": "n"
+  },
+  {
+   "n": "004/080",
+   "name": "Mega Heracross ex",
+   "zh": "超級赫拉克羅斯ex",
+   "v": "n"
+  },
+  {
+   "n": "005/080",
+   "name": "Lotad",
+   "zh": "蓮葉童子",
+   "v": "n"
+  },
+  {
+   "n": "006/080",
+   "name": "Lombre",
+   "zh": "蓮帽小童",
+   "v": "n"
+  },
+  {
+   "n": "007/080",
+   "name": "Ludicolo",
+   "zh": "樂天河童",
+   "v": "n"
+  },
+  {
+   "n": "008/080",
+   "name": "Genesect",
+   "zh": "蓋諾賽克特",
+   "v": "n"
+  },
+  {
+   "n": "009/080",
+   "name": "Nymble",
+   "zh": "豆蟋蟀",
+   "v": "n"
+  },
+  {
+   "n": "010/080",
+   "name": "Lokix",
+   "zh": "烈腿蝗",
+   "v": "n"
+  },
+  {
+   "n": "011/080",
+   "name": "Charmander",
+   "zh": "小火龍",
+   "v": "n"
+  },
+  {
+   "n": "012/080",
+   "name": "Charmeleon",
+   "zh": "火恐龍",
+   "v": "n"
+  },
+  {
+   "n": "013/080",
+   "name": "Mega Charizard X ex",
+   "zh": "超級噴火龍Xex",
+   "v": "n"
+  },
+  {
+   "n": "014/080",
+   "name": "Moltres",
+   "zh": "火焰鳥",
+   "v": "n"
+  },
+  {
+   "n": "015/080",
+   "name": "Darumaka",
+   "zh": "火紅不倒翁",
+   "v": "n"
+  },
+  {
+   "n": "016/080",
+   "name": "Darmanitan",
+   "zh": "達摩狒狒",
+   "v": "n"
+  },
+  {
+   "n": "017/080",
+   "name": "Reshiram",
+   "zh": "萊希拉姆",
+   "v": "n"
+  },
+  {
+   "n": "018/080",
+   "name": "Oricorio ex",
+   "zh": "花舞鳥ex",
+   "v": "n"
+  },
+  {
+   "n": "019/080",
+   "name": "Charcadet",
+   "zh": "炭小侍",
+   "v": "n"
+  },
+  {
+   "n": "020/080",
+   "name": "Ceruledge",
+   "zh": "蒼炎刃鬼",
+   "v": "n"
+  },
+  {
+   "n": "021/080",
+   "name": "Seel",
+   "zh": "小海獅",
+   "v": "n"
+  },
+  {
+   "n": "022/080",
+   "name": "Dewgong",
+   "zh": "白海獅",
+   "v": "n"
+  },
+  {
+   "n": "023/080",
+   "name": "Swinub",
+   "zh": "小山豬",
+   "v": "n"
+  },
+  {
+   "n": "024/080",
+   "name": "Piloswine",
+   "zh": "長毛豬",
+   "v": "n"
+  },
+  {
+   "n": "025/080",
+   "name": "Mamoswine",
+   "zh": "象牙豬",
+   "v": "n"
+  },
+  {
+   "n": "026/080",
+   "name": "Suicune",
+   "zh": "水君",
+   "v": "n"
+  },
+  {
+   "n": "027/080",
+   "name": "Piplup",
+   "zh": "波加曼",
+   "v": "n"
+  },
+  {
+   "n": "028/080",
+   "name": "Prinplup",
+   "zh": "波皇子",
+   "v": "n"
+  },
+  {
+   "n": "029/080",
+   "name": "Rotom ex",
+   "zh": "洛托姆ex",
+   "v": "n"
+  },
+  {
+   "n": "030/080",
+   "name": "Yamper",
+   "zh": "來電汪",
+   "v": "n"
+  },
+  {
+   "n": "031/080",
+   "name": "Boltund",
+   "zh": "逐電犬",
+   "v": "n"
+  },
+  {
+   "n": "032/080",
+   "name": "Pawmi",
+   "zh": "布撥",
+   "v": "n"
+  },
+  {
+   "n": "033/080",
+   "name": "Pawmo",
+   "zh": "布土撥",
+   "v": "n"
+  },
+  {
+   "n": "034/080",
+   "name": "Pawmot",
+   "zh": "巴布土撥",
+   "v": "n"
+  },
+  {
+   "n": "035/080",
+   "name": "Misdreavus",
+   "zh": "夢妖",
+   "v": "n"
+  },
+  {
+   "n": "036/080",
+   "name": "Mismagius ex",
+   "zh": "夢妖魔ex",
+   "v": "n"
+  },
+  {
+   "n": "037/080",
+   "name": "Cottonee",
+   "zh": "木棉球",
+   "v": "n"
+  },
+  {
+   "n": "038/080",
+   "name": "Whimsicott",
+   "zh": "風妖精",
+   "v": "n"
+  },
+  {
+   "n": "039/080",
+   "name": "Zacian",
+   "zh": "蒼響",
+   "v": "n"
+  },
+  {
+   "n": "040/080",
+   "name": "Bramblin",
+   "zh": "納噬草",
+   "v": "n"
+  },
+  {
+   "n": "041/080",
+   "name": "Brambleghast",
+   "zh": "怖納噬草",
+   "v": "n"
+  },
+  {
+   "n": "042/080",
+   "name": "Paldean Tauros",
+   "zh": "帕底亞 肯泰羅",
+   "v": "n"
+  },
+  {
+   "n": "043/080",
+   "name": "Gligar",
+   "zh": "天蠍",
+   "v": "n"
+  },
+  {
+   "n": "044/080",
+   "name": "Gliscor",
+   "zh": "天蠍王",
+   "v": "n"
+  },
+  {
+   "n": "045/080",
+   "name": "Trapinch",
+   "zh": "大顎蟻",
+   "v": "n"
+  },
+  {
+   "n": "046/080",
+   "name": "Vibrava",
+   "zh": "超音波幼蟲",
+   "v": "n"
+  },
+  {
+   "n": "047/080",
+   "name": "Flygon",
+   "zh": "沙漠蜻蜓",
+   "v": "n"
+  },
+  {
+   "n": "048/080",
+   "name": "Sneasel",
+   "zh": "狃拉",
+   "v": "n"
+  },
+  {
+   "n": "049/080",
+   "name": "Weavile",
+   "zh": "瑪狃拉",
+   "v": "n"
+  },
+  {
+   "n": "050/080",
+   "name": "Carvanha",
+   "zh": "利牙魚",
+   "v": "n"
+  },
+  {
+   "n": "051/080",
+   "name": "MEGA Sharpedo ex",
+   "zh": "超級巨牙鯊ex",
+   "v": "n"
+  },
+  {
+   "n": "052/080",
+   "name": "Seviper",
+   "zh": "飯匙蛇",
+   "v": "n"
+  },
+  {
+   "n": "053/080",
+   "name": "Sandile",
+   "zh": "黑眼鱷",
+   "v": "n"
+  },
+  {
+   "n": "054/080",
+   "name": "Krokorok",
+   "zh": "混混鱷",
+   "v": "n"
+  },
+  {
+   "n": "055/080",
+   "name": "Krookodile",
+   "zh": "流氓鱷",
+   "v": "n"
+  },
+  {
+   "n": "056/080",
+   "name": "Toxel",
+   "zh": "毒電嬰",
+   "v": "n"
+  },
+  {
+   "n": "057/080",
+   "name": "Toxtricity",
+   "zh": "顫弦蠑螈",
+   "v": "n"
+  },
+  {
+   "n": "058/080",
+   "name": "Empoleon ex",
+   "zh": "帝王拿波ex",
+   "v": "n"
+  },
+  {
+   "n": "059/080",
+   "name": "Bronzor",
+   "zh": "銅鏡怪",
+   "v": "n"
+  },
+  {
+   "n": "060/080",
+   "name": "Bronzong",
+   "zh": "青銅鐘",
+   "v": "n"
+  },
+  {
+   "n": "061/080",
+   "name": "Togedemaru",
+   "zh": "托戈德瑪爾",
+   "v": "n"
+  },
+  {
+   "n": "062/080",
+   "name": "Duraludon",
+   "zh": "鋁鋼龍",
+   "v": "n"
+  },
+  {
+   "n": "063/080",
+   "name": "Archaludon",
+   "zh": "鋁鋼橋龍",
+   "v": "n"
+  },
+  {
+   "n": "064/080",
+   "name": "Jigglypuff",
+   "zh": "胖丁",
+   "v": "n"
+  },
+  {
+   "n": "065/080",
+   "name": "Wigglytuff",
+   "zh": "胖可丁",
+   "v": "n"
+  },
+  {
+   "n": "066/080",
+   "name": "Aipom",
+   "zh": "長尾怪手",
+   "v": "n"
+  },
+  {
+   "n": "067/080",
+   "name": "Ambipom",
+   "zh": "雙尾怪手",
+   "v": "n"
+  },
+  {
+   "n": "068/080",
+   "name": "Smeargle",
+   "zh": "圖圖犬",
+   "v": "n"
+  },
+  {
+   "n": "069/080",
+   "name": "Zigzagoon",
+   "zh": "蛇紋熊",
+   "v": "n"
+  },
+  {
+   "n": "070/080",
+   "name": "Linoone",
+   "zh": "直衝熊",
+   "v": "n"
+  },
+  {
+   "n": "071/080",
+   "name": "Buneary",
+   "zh": "捲捲耳",
+   "v": "n"
+  },
+  {
+   "n": "072/080",
+   "name": "Mega Lopunny ex",
+   "zh": "超級長耳兔ex",
+   "v": "n"
+  },
+  {
+   "n": "073/080",
+   "name": "Jumbo Ice Cream",
+   "zh": "超大冰淇淋",
+   "v": "n"
+  },
+  {
+   "n": "074/080",
+   "name": "Blowtorch",
+   "zh": "高溫燃燒器",
+   "v": "n"
+  },
+  {
+   "n": "075/080",
+   "name": "Sacred Charm",
+   "zh": "神聖護符",
+   "v": "n"
+  },
+  {
+   "n": "076/080",
+   "name": "Grimsley's Move",
+   "zh": "越橘的一步棋",
+   "v": "n"
+  },
+  {
+   "n": "077/080",
+   "name": "Dawn",
+   "zh": "小光",
+   "v": "n"
+  },
+  {
+   "n": "078/080",
+   "name": "Firebreather",
+   "zh": "吹火人",
+   "v": "n"
+  },
+  {
+   "n": "079/080",
+   "name": "Battle Cage",
+   "zh": "對戰圓形競技場",
+   "v": "n"
+  },
+  {
+   "n": "080/080",
+   "name": "Dizzying Valley",
+   "zh": "暈眩山谷",
+   "v": "n"
+  },
+  {
+   "n": "081/080",
+   "name": "Ludicolo",
+   "zh": "樂天河童",
+   "v": "h"
+  },
+  {
+   "n": "082/080",
+   "name": "Nymble",
+   "zh": "豆蟋蟀",
+   "v": "h"
+  },
+  {
+   "n": "083/080",
+   "name": "Charcadet",
+   "zh": "炭小侍",
+   "v": "h"
+  },
+  {
+   "n": "084/080",
+   "name": "Dewgong",
+   "zh": "白海獅",
+   "v": "h"
+  },
+  {
+   "n": "085/080",
+   "name": "Piplup",
+   "zh": "波加曼",
+   "v": "h"
+  },
+  {
+   "n": "086/080",
+   "name": "Yamper",
+   "zh": "來電汪",
+   "v": "h"
+  },
+  {
+   "n": "087/080",
+   "name": "Zacian",
+   "zh": "蒼響",
+   "v": "h"
+  },
+  {
+   "n": "088/080",
+   "name": "Flygon",
+   "zh": "沙漠蜻蜓",
+   "v": "h"
+  },
+  {
+   "n": "089/080",
+   "name": "Toxtricity",
+   "zh": "顫弦蠑螈",
+   "v": "h"
+  },
+  {
+   "n": "090/080",
+   "name": "Togedemaru",
+   "zh": "托戈德瑪爾",
+   "v": "h"
+  },
+  {
+   "n": "091/080",
+   "name": "Wigglytuff",
+   "zh": "胖可丁",
+   "v": "h"
+  },
+  {
+   "n": "092/080",
+   "name": "Ambipom",
+   "zh": "雙尾怪手",
+   "v": "h"
+  },
+  {
+   "n": "093/080",
+   "name": "Mega Heracross ex",
+   "zh": "超級赫拉克羅斯ex",
+   "v": "h"
+  },
+  {
+   "n": "094/080",
+   "name": "Mega Charizard X ex",
+   "zh": "超級噴火龍Xex",
+   "v": "h"
+  },
+  {
+   "n": "095/080",
+   "name": "Oricorio ex",
+   "zh": "花舞鳥ex",
+   "v": "h"
+  },
+  {
+   "n": "096/080",
+   "name": "Rotom ex",
+   "zh": "洛托姆ex",
+   "v": "h"
+  },
+  {
+   "n": "097/080",
+   "name": "Mismagius ex",
+   "zh": "夢妖魔ex",
+   "v": "h"
+  },
+  {
+   "n": "098/080",
+   "name": "Mega Sharpedo ex",
+   "zh": "超級巨牙鯊ex",
+   "v": "h"
+  },
+  {
+   "n": "099/080",
+   "name": "Empoleon ex",
+   "zh": "帝王拿波ex",
+   "v": "h"
+  },
+  {
+   "n": "100/080",
+   "name": "Mega Lopunny ex",
+   "zh": "超級長耳兔ex",
+   "v": "h"
+  },
+  {
+   "n": "101/080",
+   "name": "Blowtorch",
+   "zh": "高溫燃燒器",
+   "v": "h"
+  },
+  {
+   "n": "102/080",
+   "name": "Switch",
+   "zh": "寶可夢交替",
+   "v": "h"
+  },
+  {
+   "n": "103/080",
+   "name": "Sacred Charm",
+   "zh": "神聖護符",
+   "v": "h"
+  },
+  {
+   "n": "104/080",
+   "name": "Punk Helmet",
+   "zh": "龐克頭盔",
+   "v": "h"
+  },
+  {
+   "n": "105/080",
+   "name": "Grimsley's Move",
+   "zh": "越橘的一步棋",
+   "v": "h"
+  },
+  {
+   "n": "106/080",
+   "name": "Dawn",
+   "zh": "小光",
+   "v": "h"
+  },
+  {
+   "n": "107/080",
+   "name": "Firebreather",
+   "zh": "吹火人",
+   "v": "h"
+  },
+  {
+   "n": "108/080",
+   "name": "Battle Cage",
+   "zh": "對戰圓形競技場",
+   "v": "h"
+  },
+  {
+   "n": "109/080",
+   "name": "Ignition Energy",
+   "zh": "燃火能量",
+   "v": "h"
+  },
+  {
+   "n": "110/080",
+   "name": "Mega Charizard X ex",
+   "zh": "超級噴火龍Xex",
+   "v": "h"
+  },
+  {
+   "n": "111/080",
+   "name": "Oricorio ex",
+   "zh": "花舞鳥ex",
+   "v": "h"
+  },
+  {
+   "n": "112/080",
+   "name": "Rotom ex",
+   "zh": "洛托姆ex",
+   "v": "h"
+  },
+  {
+   "n": "113/080",
+   "name": "Mega Sharpedo ex",
+   "zh": "超級巨牙鯊ex",
+   "v": "h"
+  },
+  {
+   "n": "114/080",
+   "name": "Mega Lopunny ex",
+   "zh": "超級長耳兔ex",
+   "v": "h"
+  },
+  {
+   "n": "115/080",
+   "name": "Dawn",
+   "zh": "小光",
+   "v": "h"
+  },
+  {
+   "n": "116/080",
+   "name": "Mega Charizard X ex",
+   "zh": "超級噴火龍Xex",
+   "v": "h"
+  }
+ ]
+}
