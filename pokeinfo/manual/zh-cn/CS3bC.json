@@ -1,0 +1,907 @@
+{
+ "id": "CS3bC",
+ "name": "洪荒演武 激",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2023-11-17",
+ "official": 122,
+ "abbr": "CS3bC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/122",
+   "name": "Cherubi",
+   "v": "n"
+  },
+  {
+   "n": "002/122",
+   "name": "Cherrim",
+   "v": "n"
+  },
+  {
+   "n": "003/122",
+   "name": "Carnivine",
+   "v": "n"
+  },
+  {
+   "n": "004/122",
+   "name": "Petilil",
+   "v": "n"
+  },
+  {
+   "n": "005/122",
+   "name": "Lilligant",
+   "v": "n"
+  },
+  {
+   "n": "006/122",
+   "name": "Dwebble",
+   "v": "n"
+  },
+  {
+   "n": "007/122",
+   "name": "Crustle",
+   "v": "n"
+  },
+  {
+   "n": "008/122",
+   "name": "Deerling",
+   "v": "n"
+  },
+  {
+   "n": "009/122",
+   "name": "Sawsbuck",
+   "v": "n"
+  },
+  {
+   "n": "010/122",
+   "name": "Bounsweet",
+   "v": "n"
+  },
+  {
+   "n": "011/122",
+   "name": "Steenee",
+   "v": "n"
+  },
+  {
+   "n": "012/122",
+   "name": "Tsareena",
+   "v": "n"
+  },
+  {
+   "n": "013/122",
+   "name": "Tapu Bulu",
+   "v": "n"
+  },
+  {
+   "n": "014/122",
+   "name": "Grookey",
+   "v": "n"
+  },
+  {
+   "n": "015/122",
+   "name": "Thwackey",
+   "v": "n"
+  },
+  {
+   "n": "016/122",
+   "name": "Rillaboom",
+   "v": "n"
+  },
+  {
+   "n": "017/122",
+   "name": "Blipbug",
+   "v": "n"
+  },
+  {
+   "n": "018/122",
+   "name": "Flapple V",
+   "v": "n"
+  },
+  {
+   "n": "019/122",
+   "name": "Flapple VMAX",
+   "v": "n"
+  },
+  {
+   "n": "020/122",
+   "name": "Blaziken V",
+   "v": "n"
+  },
+  {
+   "n": "021/122",
+   "name": "Blaziken VMAX",
+   "v": "n"
+  },
+  {
+   "n": "022/122",
+   "name": "Heatmor",
+   "v": "n"
+  },
+  {
+   "n": "023/122",
+   "name": "Litleo",
+   "v": "n"
+  },
+  {
+   "n": "024/122",
+   "name": "Pyroar",
+   "v": "n"
+  },
+  {
+   "n": "025/122",
+   "name": "Blastoise V",
+   "v": "n"
+  },
+  {
+   "n": "026/122",
+   "name": "Blastoise VMAX",
+   "v": "n"
+  },
+  {
+   "n": "027/122",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "028/122",
+   "name": "Tentacruel",
+   "v": "n"
+  },
+  {
+   "n": "029/122",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "030/122",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "031/122",
+   "name": "Kingdra",
+   "v": "n"
+  },
+  {
+   "n": "032/122",
+   "name": "Galarian Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "033/122",
+   "name": "Galarian Mr. Rime",
+   "v": "n"
+  },
+  {
+   "n": "034/122",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "035/122",
+   "name": "Remoraid",
+   "v": "n"
+  },
+  {
+   "n": "036/122",
+   "name": "Octillery",
+   "v": "n"
+  },
+  {
+   "n": "037/122",
+   "name": "Carvanha",
+   "v": "n"
+  },
+  {
+   "n": "038/122",
+   "name": "Sharpedo",
+   "v": "n"
+  },
+  {
+   "n": "039/122",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "040/122",
+   "name": "Froslass",
+   "v": "n"
+  },
+  {
+   "n": "041/122",
+   "name": "Frillish",
+   "v": "n"
+  },
+  {
+   "n": "042/122",
+   "name": "Jellicent",
+   "v": "n"
+  },
+  {
+   "n": "043/122",
+   "name": "Tapu Fini",
+   "v": "n"
+  },
+  {
+   "n": "044/122",
+   "name": "Ice Rider Calyrex V",
+   "v": "n"
+  },
+  {
+   "n": "045/122",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "n"
+  },
+  {
+   "n": "046/122",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "047/122",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "048/122",
+   "name": "Shinx",
+   "v": "n"
+  },
+  {
+   "n": "049/122",
+   "name": "Luxio",
+   "v": "n"
+  },
+  {
+   "n": "050/122",
+   "name": "Luxray",
+   "v": "n"
+  },
+  {
+   "n": "051/122",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "052/122",
+   "name": "Blitzle",
+   "v": "n"
+  },
+  {
+   "n": "053/122",
+   "name": "Zebstrika",
+   "v": "n"
+  },
+  {
+   "n": "054/122",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "055/122",
+   "name": "Zeraora V",
+   "v": "n"
+  },
+  {
+   "n": "056/122",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "057/122",
+   "name": "Hypno",
+   "v": "n"
+  },
+  {
+   "n": "058/122",
+   "name": "Galarian Articuno V",
+   "v": "n"
+  },
+  {
+   "n": "059/122",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "060/122",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "061/122",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "062/122",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "063/122",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "064/122",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "065/122",
+   "name": "Necrozma V",
+   "v": "n"
+  },
+  {
+   "n": "066/122",
+   "name": "Dottler",
+   "v": "n"
+  },
+  {
+   "n": "067/122",
+   "name": "Orbeetle",
+   "v": "n"
+  },
+  {
+   "n": "068/122",
+   "name": "Diglett",
+   "v": "n"
+  },
+  {
+   "n": "069/122",
+   "name": "Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "070/122",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "071/122",
+   "name": "Cubone",
+   "v": "n"
+  },
+  {
+   "n": "072/122",
+   "name": "Marowak",
+   "v": "n"
+  },
+  {
+   "n": "073/122",
+   "name": "Gallade",
+   "v": "n"
+  },
+  {
+   "n": "074/122",
+   "name": "Roggenrola",
+   "v": "n"
+  },
+  {
+   "n": "075/122",
+   "name": "Boldore",
+   "v": "n"
+  },
+  {
+   "n": "076/122",
+   "name": "Gigalith",
+   "v": "n"
+  },
+  {
+   "n": "077/122",
+   "name": "Mienfoo",
+   "v": "n"
+  },
+  {
+   "n": "078/122",
+   "name": "Mienshao",
+   "v": "n"
+  },
+  {
+   "n": "079/122",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "080/122",
+   "name": "Silicobra",
+   "v": "n"
+  },
+  {
+   "n": "081/122",
+   "name": "Sandaconda",
+   "v": "n"
+  },
+  {
+   "n": "082/122",
+   "name": "Sandaconda V",
+   "v": "n"
+  },
+  {
+   "n": "083/122",
+   "name": "Sandaconda VMAX",
+   "v": "n"
+  },
+  {
+   "n": "084/122",
+   "name": "Falinks",
+   "v": "n"
+  },
+  {
+   "n": "085/122",
+   "name": "Rapid Strike Urshifu V",
+   "v": "n"
+  },
+  {
+   "n": "086/122",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "n"
+  },
+  {
+   "n": "087/122",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "088/122",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "089/122",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "090/122",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "091/122",
+   "name": "Metagross V",
+   "v": "n"
+  },
+  {
+   "n": "092/122",
+   "name": "Metagross VMAX",
+   "v": "n"
+  },
+  {
+   "n": "093/122",
+   "name": "Pawniard",
+   "v": "n"
+  },
+  {
+   "n": "094/122",
+   "name": "Bisharp",
+   "v": "n"
+  },
+  {
+   "n": "095/122",
+   "name": "Porygon",
+   "v": "n"
+  },
+  {
+   "n": "096/122",
+   "name": "Porygon2",
+   "v": "n"
+  },
+  {
+   "n": "097/122",
+   "name": "Porygon-Z",
+   "v": "n"
+  },
+  {
+   "n": "098/122",
+   "name": "Zangoose",
+   "v": "n"
+  },
+  {
+   "n": "099/122",
+   "name": "Kecleon",
+   "v": "n"
+  },
+  {
+   "n": "100/122",
+   "name": "Stoutland V",
+   "v": "n"
+  },
+  {
+   "n": "101/122",
+   "name": "Rufflet",
+   "v": "n"
+  },
+  {
+   "n": "102/122",
+   "name": "Braviary",
+   "v": "n"
+  },
+  {
+   "n": "103/122",
+   "name": "Furfrou",
+   "v": "n"
+  },
+  {
+   "n": "104/122",
+   "name": "Escape Rope",
+   "v": "n"
+  },
+  {
+   "n": "105/122",
+   "name": "Fan of Waves",
+   "v": "n"
+  },
+  {
+   "n": "106/122",
+   "name": "Expedition Uniform",
+   "v": "n"
+  },
+  {
+   "n": "107/122",
+   "name": "Level Ball",
+   "v": "n"
+  },
+  {
+   "n": "108/122",
+   "name": "Rugged Helmet",
+   "v": "n"
+  },
+  {
+   "n": "109/122",
+   "name": "Justified Gloves",
+   "v": "n"
+  },
+  {
+   "n": "110/122",
+   "name": "Fire-Resistant Gloves",
+   "v": "n"
+  },
+  {
+   "n": "111/122",
+   "name": "Rapid Strike Scroll of the Skies",
+   "v": "n"
+  },
+  {
+   "n": "112/122",
+   "name": "Rapid Strike Scroll of Swirls",
+   "v": "n"
+  },
+  {
+   "n": "113/122",
+   "name": "Caitlin",
+   "v": "n"
+  },
+  {
+   "n": "114/122",
+   "name": "Korrina's Focus",
+   "v": "n"
+  },
+  {
+   "n": "115/122",
+   "name": "Siebold",
+   "v": "n"
+  },
+  {
+   "n": "116/122",
+   "name": "Brawly",
+   "v": "n"
+  },
+  {
+   "n": "117/122",
+   "name": "Doctor",
+   "v": "n"
+  },
+  {
+   "n": "118/122",
+   "name": "Rapid Strike Style Mustard",
+   "v": "n"
+  },
+  {
+   "n": "119/122",
+   "name": "Melony",
+   "v": "n"
+  },
+  {
+   "n": "120/122",
+   "name": "Dyna Tree Hill",
+   "v": "n"
+  },
+  {
+   "n": "121/122",
+   "name": "Tower of Waters",
+   "v": "n"
+  },
+  {
+   "n": "122/122",
+   "name": "Rapid Strike Energy",
+   "v": "n"
+  },
+  {
+   "n": "123/122",
+   "name": "Kingdra",
+   "v": "h"
+  },
+  {
+   "n": "124/122",
+   "name": "Gardevoir",
+   "v": "h"
+  },
+  {
+   "n": "125/122",
+   "name": "Passimian",
+   "v": "h"
+  },
+  {
+   "n": "126/122",
+   "name": "Falinks",
+   "v": "h"
+  },
+  {
+   "n": "127/122",
+   "name": "Flapple V",
+   "v": "h"
+  },
+  {
+   "n": "128/122",
+   "name": "Blaziken V",
+   "v": "h"
+  },
+  {
+   "n": "129/122",
+   "name": "Blastoise V",
+   "v": "h"
+  },
+  {
+   "n": "130/122",
+   "name": "Ice Rider Calyrex V",
+   "v": "h"
+  },
+  {
+   "n": "131/122",
+   "name": "Ice Rider Calyrex V",
+   "v": "h"
+  },
+  {
+   "n": "132/122",
+   "name": "Zeraora V",
+   "v": "h"
+  },
+  {
+   "n": "133/122",
+   "name": "Zeraora V",
+   "v": "h"
+  },
+  {
+   "n": "134/122",
+   "name": "Galarian Articuno V",
+   "v": "h"
+  },
+  {
+   "n": "135/122",
+   "name": "Galarian Articuno V",
+   "v": "h"
+  },
+  {
+   "n": "136/122",
+   "name": "Necrozma V",
+   "v": "h"
+  },
+  {
+   "n": "137/122",
+   "name": "Sandaconda V",
+   "v": "h"
+  },
+  {
+   "n": "138/122",
+   "name": "Sandaconda V",
+   "v": "h"
+  },
+  {
+   "n": "139/122",
+   "name": "Rapid Strike Urshifu V",
+   "v": "h"
+  },
+  {
+   "n": "140/122",
+   "name": "Rapid Strike Urshifu V",
+   "v": "h"
+  },
+  {
+   "n": "141/122",
+   "name": "Metagross V",
+   "v": "h"
+  },
+  {
+   "n": "142/122",
+   "name": "Stoutland V",
+   "v": "h"
+  },
+  {
+   "n": "143/122",
+   "name": "Caitlin",
+   "v": "h"
+  },
+  {
+   "n": "144/122",
+   "name": "Korrina's Focus",
+   "v": "h"
+  },
+  {
+   "n": "145/122",
+   "name": "Siebold",
+   "v": "h"
+  },
+  {
+   "n": "146/122",
+   "name": "Brawly",
+   "v": "h"
+  },
+  {
+   "n": "147/122",
+   "name": "Doctor",
+   "v": "h"
+  },
+  {
+   "n": "148/122",
+   "name": "Rapid Strike Style Mustard",
+   "v": "h"
+  },
+  {
+   "n": "149/122",
+   "name": "Melony",
+   "v": "h"
+  },
+  {
+   "n": "150/122",
+   "name": "Blaziken V",
+   "v": "h"
+  },
+  {
+   "n": "151/122",
+   "name": "Blaziken VMAX",
+   "v": "h"
+  },
+  {
+   "n": "152/122",
+   "name": "Ice Rider Calyrex V",
+   "v": "h"
+  },
+  {
+   "n": "153/122",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "h"
+  },
+  {
+   "n": "154/122",
+   "name": "Galarian Articuno V",
+   "v": "h"
+  },
+  {
+   "n": "155/122",
+   "name": "Rapid Strike Urshifu V",
+   "v": "h"
+  },
+  {
+   "n": "156/122",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "h"
+  },
+  {
+   "n": "157/122",
+   "name": "Flapple VMAX",
+   "v": "h"
+  },
+  {
+   "n": "158/122",
+   "name": "Blaziken VMAX",
+   "v": "h"
+  },
+  {
+   "n": "159/122",
+   "name": "Blaziken VMAX",
+   "v": "h"
+  },
+  {
+   "n": "160/122",
+   "name": "Blastoise VMAX",
+   "v": "h"
+  },
+  {
+   "n": "161/122",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "h"
+  },
+  {
+   "n": "162/122",
+   "name": "Ice Rider Calyrex VMAX",
+   "v": "h"
+  },
+  {
+   "n": "163/122",
+   "name": "Sandaconda VMAX",
+   "v": "h"
+  },
+  {
+   "n": "164/122",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "h"
+  },
+  {
+   "n": "165/122",
+   "name": "Rapid Strike Urshifu VMAX",
+   "v": "h"
+  },
+  {
+   "n": "166/122",
+   "name": "Metagross VMAX",
+   "v": "h"
+  },
+  {
+   "n": "167/122",
+   "name": "Caitlin",
+   "v": "h"
+  },
+  {
+   "n": "168/122",
+   "name": "Korrina's Focus",
+   "v": "h"
+  },
+  {
+   "n": "169/122",
+   "name": "Siebold",
+   "v": "h"
+  },
+  {
+   "n": "170/122",
+   "name": "Brawly",
+   "v": "h"
+  },
+  {
+   "n": "171/122",
+   "name": "Doctor",
+   "v": "h"
+  },
+  {
+   "n": "172/122",
+   "name": "Rapid Strike Style Mustard",
+   "v": "h"
+  },
+  {
+   "n": "173/122",
+   "name": "Melony",
+   "v": "h"
+  },
+  {
+   "n": "174/122",
+   "name": "Octillery",
+   "v": "h"
+  },
+  {
+   "n": "175/122",
+   "name": "Froslass",
+   "v": "h"
+  },
+  {
+   "n": "176/122",
+   "name": "Fan of Waves",
+   "v": "h"
+  },
+  {
+   "n": "177/122",
+   "name": "Level Ball",
+   "v": "h"
+  },
+  {
+   "n": "178/122",
+   "name": "Rugged Helmet",
+   "v": "h"
+  },
+  {
+   "n": "179/122",
+   "name": "Rapid Strike Energy",
+   "v": "h"
+  }
+ ]
+}

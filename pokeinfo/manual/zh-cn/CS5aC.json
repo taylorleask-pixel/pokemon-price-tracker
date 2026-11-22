@@ -1,0 +1,1068 @@
+{
+ "id": "CS5aC",
+ "name": "勇魅群星 魅",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-06-18",
+ "official": 127,
+ "abbr": "CS5aC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/127",
+   "name": "Charmander",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "002/127",
+   "name": "Charmeleon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "003/127",
+   "name": "Charizard",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "004/127",
+   "name": "Charizard V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "005/127",
+   "name": "Charizard VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "006/127",
+   "name": "Moltres",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "007/127",
+   "name": "Cyndaquil",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "008/127",
+   "name": "Quilava",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "009/127",
+   "name": "Chimchar",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "010/127",
+   "name": "Monferno",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "011/127",
+   "name": "Infernape",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "012/127",
+   "name": "Heatran V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "013/127",
+   "name": "Heatran VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "014/127",
+   "name": "Radiant Heatran",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "015/127",
+   "name": "Oshawott",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "016/127",
+   "name": "Dewott",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "017/127",
+   "name": "Pikachu",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "018/127",
+   "name": "Raichu",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "019/127",
+   "name": "Raichu V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "020/127",
+   "name": "Electrike",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "021/127",
+   "name": "Manectric",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "022/127",
+   "name": "Shinx",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "023/127",
+   "name": "Luxio",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "024/127",
+   "name": "Luxray",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "025/127",
+   "name": "Pachirisu",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "026/127",
+   "name": "Rotom",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "027/127",
+   "name": "Zeraora V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "028/127",
+   "name": "Zeraora VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "029/127",
+   "name": "Clefairy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "030/127",
+   "name": "Clefable",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "031/127",
+   "name": "Mr. Mime",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "032/127",
+   "name": "Jynx",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "033/127",
+   "name": "Mewtwo V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "034/127",
+   "name": "Mewtwo VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "035/127",
+   "name": "Hisuian Typhlosion",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "036/127",
+   "name": "Hisuian Typhlosion V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "037/127",
+   "name": "Hisuian Typhlosion VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "038/127",
+   "name": "Togepi",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "039/127",
+   "name": "Togetic",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "040/127",
+   "name": "Togekiss",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "041/127",
+   "name": "Misdreavus",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "042/127",
+   "name": "Mismagius",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "043/127",
+   "name": "Ralts",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "044/127",
+   "name": "Kirlia",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "045/127",
+   "name": "Gallade",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "046/127",
+   "name": "Radiant Gardevoir",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "047/127",
+   "name": "Mawile V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "048/127",
+   "name": "Mawile VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "049/127",
+   "name": "Lunatone",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "050/127",
+   "name": "Baltoy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "051/127",
+   "name": "Claydol",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "052/127",
+   "name": "Deoxys V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "053/127",
+   "name": "Deoxys VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "054/127",
+   "name": "Drifloon",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "055/127",
+   "name": "Drifblim",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "056/127",
+   "name": "Uxie",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "057/127",
+   "name": "Mesprit",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "058/127",
+   "name": "Azelf",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "059/127",
+   "name": "Inkay",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "060/127",
+   "name": "Malamar",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "061/127",
+   "name": "Wyrdeer",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "062/127",
+   "name": "Enamorus V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "063/127",
+   "name": "Solrock",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "064/127",
+   "name": "Alolan Rattata",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "065/127",
+   "name": "Alolan Raticate",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "066/127",
+   "name": "Zubat",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "067/127",
+   "name": "Golbat",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "068/127",
+   "name": "Crobat",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "069/127",
+   "name": "Grimer",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "070/127",
+   "name": "Muk",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "071/127",
+   "name": "Spinarak",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "072/127",
+   "name": "Ariados",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "073/127",
+   "name": "Hisuian Qwilfish",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "074/127",
+   "name": "Hisuian Overqwil",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "075/127",
+   "name": "Sneasel",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "076/127",
+   "name": "Weavile",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "077/127",
+   "name": "Hisuian Sneasel",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "078/127",
+   "name": "Hisuian Sneasler",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "079/127",
+   "name": "Radiant Hisuian Sneasler",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "080/127",
+   "name": "Poochyena",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "081/127",
+   "name": "Mightyena",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "082/127",
+   "name": "Honchkrow V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "083/127",
+   "name": "Spiritomb",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "084/127",
+   "name": "Hisuian Samurott",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "085/127",
+   "name": "Hisuian Samurott V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "086/127",
+   "name": "Hisuian Samurott VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "087/127",
+   "name": "Flygon V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "088/127",
+   "name": "Gible",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "089/127",
+   "name": "Gabite",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "090/127",
+   "name": "Garchomp",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "091/127",
+   "name": "Garchomp V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "092/127",
+   "name": "Radiant Eevee",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "093/127",
+   "name": "Snorlax",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "094/127",
+   "name": "Hoothoot",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "095/127",
+   "name": "Noctowl",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "096/127",
+   "name": "Teddiursa",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "097/127",
+   "name": "Ursaring",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "098/127",
+   "name": "Ursaluna",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "099/127",
+   "name": "Stantler",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "100/127",
+   "name": "Castform",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "101/127",
+   "name": "Starly",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "102/127",
+   "name": "Staravia",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "103/127",
+   "name": "Staraptor",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "104/127",
+   "name": "Bidoof",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "105/127",
+   "name": "Bibarel",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "106/127",
+   "name": "Arceus V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "107/127",
+   "name": "Arceus VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "108/127",
+   "name": "Tornadus",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "109/127",
+   "name": "Skwovet",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "110/127",
+   "name": "Greedent",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "111/127",
+   "name": "Wyrdeer V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "112/127",
+   "name": "Arc Phone",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "113/127",
+   "name": "Canceling Cologne",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "114/127",
+   "name": "Dark Patch",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "115/127",
+   "name": "Ultra Ball",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "116/127",
+   "name": "Feather Ball",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "117/127",
+   "name": "Pot Helmet",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "118/127",
+   "name": "Supereffective Glasses",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "119/127",
+   "name": "Kindler",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "120/127",
+   "name": "Cyllene",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "121/127",
+   "name": "Cynthia's Ambition",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "122/127",
+   "name": "Kamado",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "123/127",
+   "name": "Arezu",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "124/127",
+   "name": "Zisu",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "125/127",
+   "name": "Jubilife Village",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "126/127",
+   "name": "Magma Basin",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "127/127",
+   "name": "Double Turbo Energy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "128/127",
+   "name": "Lunatone",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "129/127",
+   "name": "Solrock",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "130/127",
+   "name": "Bibarel",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "131/127",
+   "name": "Charizard V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "132/127",
+   "name": "Charizard V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "133/127",
+   "name": "Heatran V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "134/127",
+   "name": "Raichu V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "135/127",
+   "name": "Mewtwo V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "136/127",
+   "name": "Hisuian Typhlosion V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "137/127",
+   "name": "Mawile V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "138/127",
+   "name": "Enamorus V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "139/127",
+   "name": "Honchkrow V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "140/127",
+   "name": "Honchkrow V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "141/127",
+   "name": "Hisuian Samurott V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "142/127",
+   "name": "Flygon V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "143/127",
+   "name": "Garchomp V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "144/127",
+   "name": "Arceus V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "145/127",
+   "name": "Arceus V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "146/127",
+   "name": "Wyrdeer V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "147/127",
+   "name": "Cyllene",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "148/127",
+   "name": "Cynthia's Ambition",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "149/127",
+   "name": "Kamado",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "150/127",
+   "name": "Arezu",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "151/127",
+   "name": "Zisu",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "152/127",
+   "name": "Charizard V",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "153/127",
+   "name": "Zeraora VMAX",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "154/127",
+   "name": "Deoxys VMAX",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "155/127",
+   "name": "Hisuian Samurott V",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "156/127",
+   "name": "Hisuian Samurott VSTAR",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "157/127",
+   "name": "Cynthia's Ambition",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "158/127",
+   "name": "Charizard VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "159/127",
+   "name": "Heatran VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "160/127",
+   "name": "Mewtwo VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "161/127",
+   "name": "Hisuian Typhlosion VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "162/127",
+   "name": "Mawile VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "163/127",
+   "name": "Hisuian Samurott VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "164/127",
+   "name": "Arceus VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "165/127",
+   "name": "Cyllene",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "166/127",
+   "name": "Cynthia's Ambition",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "167/127",
+   "name": "Kamado",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "168/127",
+   "name": "Arezu",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "169/127",
+   "name": "Zisu",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "170/127",
+   "name": "Mewtwo VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "171/127",
+   "name": "Hisuian Samurott VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "172/127",
+   "name": "Arceus VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "173/127",
+   "name": "Dark Patch",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "174/127",
+   "name": "Jubilife Village",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "175/127",
+   "name": "Magma Basin",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "176/127",
+   "name": "Double Turbo Energy",
+   "r": "UR",
+   "v": "h"
+  }
+ ]
+}

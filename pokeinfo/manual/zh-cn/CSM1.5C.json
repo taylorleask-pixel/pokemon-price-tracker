@@ -1,0 +1,452 @@
+{
+ "id": "CSM1.5C",
+ "name": "对战精英",
+ "serie": "太阳&月亮",
+ "serie_id": "SM",
+ "date": "2022-12-16",
+ "official": 60,
+ "abbr": "CSM1.5C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/060",
+   "name": "Litten",
+   "v": "n"
+  },
+  {
+   "n": "002/060",
+   "name": "Torracat",
+   "v": "n"
+  },
+  {
+   "n": "003/060",
+   "name": "Blacephalon-GX",
+   "v": "n"
+  },
+  {
+   "n": "004/060",
+   "name": "Horsea",
+   "v": "n"
+  },
+  {
+   "n": "005/060",
+   "name": "Seadra",
+   "v": "n"
+  },
+  {
+   "n": "006/060",
+   "name": "Kingdra-GX",
+   "v": "n"
+  },
+  {
+   "n": "007/060",
+   "name": "Pachirisu",
+   "v": "n"
+  },
+  {
+   "n": "008/060",
+   "name": "Emolga",
+   "v": "n"
+  },
+  {
+   "n": "009/060",
+   "name": "Tapu Koko ◇",
+   "v": "n"
+  },
+  {
+   "n": "010/060",
+   "name": "Zeraora-GX",
+   "v": "n"
+  },
+  {
+   "n": "011/060",
+   "name": "Alolan Grimer",
+   "v": "n"
+  },
+  {
+   "n": "012/060",
+   "name": "Alolan Muk",
+   "v": "n"
+  },
+  {
+   "n": "013/060",
+   "name": "Giratina",
+   "v": "n"
+  },
+  {
+   "n": "014/060",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "015/060",
+   "name": "Dhelmise",
+   "v": "n"
+  },
+  {
+   "n": "016/060",
+   "name": "Tapu Lele",
+   "v": "n"
+  },
+  {
+   "n": "017/060",
+   "name": "Cosmog",
+   "v": "n"
+  },
+  {
+   "n": "018/060",
+   "name": "Cosmoem",
+   "v": "n"
+  },
+  {
+   "n": "019/060",
+   "name": "Lunala ◇",
+   "v": "n"
+  },
+  {
+   "n": "020/060",
+   "name": "Dawn Wings Necrozma",
+   "v": "n"
+  },
+  {
+   "n": "021/060",
+   "name": "Dawn Wings Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "022/060",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "023/060",
+   "name": "Lycanroc-GX",
+   "v": "n"
+  },
+  {
+   "n": "024/060",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "025/060",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "026/060",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "027/060",
+   "name": "Absol",
+   "v": "n"
+  },
+  {
+   "n": "028/060",
+   "name": "Hoopa",
+   "v": "n"
+  },
+  {
+   "n": "029/060",
+   "name": "Incineroar-GX",
+   "v": "n"
+  },
+  {
+   "n": "030/060",
+   "name": "Alolan Diglett",
+   "v": "n"
+  },
+  {
+   "n": "031/060",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "032/060",
+   "name": "Solgaleo-GX",
+   "v": "n"
+  },
+  {
+   "n": "033/060",
+   "name": "Solgaleo ◇",
+   "v": "n"
+  },
+  {
+   "n": "034/060",
+   "name": "Dusk Mane Necrozma",
+   "v": "n"
+  },
+  {
+   "n": "035/060",
+   "name": "Dusk Mane Necrozma-GX",
+   "v": "n"
+  },
+  {
+   "n": "036/060",
+   "name": "Latias ◇",
+   "v": "n"
+  },
+  {
+   "n": "037/060",
+   "name": "Ditto ◇",
+   "v": "n"
+  },
+  {
+   "n": "038/060",
+   "name": "Lugia-GX",
+   "v": "n"
+  },
+  {
+   "n": "039/060",
+   "name": "Electropower",
+   "v": "n"
+  },
+  {
+   "n": "040/060",
+   "name": "Mysterious Treasure",
+   "v": "n"
+  },
+  {
+   "n": "041/060",
+   "name": "Missing Clover",
+   "v": "n"
+  },
+  {
+   "n": "042/060",
+   "name": "Fairy Charm UB",
+   "v": "n"
+  },
+  {
+   "n": "043/060",
+   "name": "Fairy Charm Fighting",
+   "v": "n"
+  },
+  {
+   "n": "044/060",
+   "name": "Professor Elm's Lecture",
+   "v": "n"
+  },
+  {
+   "n": "045/060",
+   "name": "Volkner",
+   "v": "n"
+  },
+  {
+   "n": "046/060",
+   "name": "Lysandre ◇",
+   "v": "n"
+  },
+  {
+   "n": "047/060",
+   "name": "Apricorn Maker",
+   "v": "n"
+  },
+  {
+   "n": "048/060",
+   "name": "Lisia",
+   "v": "n"
+  },
+  {
+   "n": "049/060",
+   "name": "Lance ◇",
+   "v": "n"
+  },
+  {
+   "n": "050/060",
+   "name": "Morgan",
+   "v": "n"
+  },
+  {
+   "n": "051/060",
+   "name": "Dana",
+   "v": "n"
+  },
+  {
+   "n": "052/060",
+   "name": "Evelyn",
+   "v": "n"
+  },
+  {
+   "n": "053/060",
+   "name": "Nita",
+   "v": "n"
+  },
+  {
+   "n": "054/060",
+   "name": "Shrine of Punishment",
+   "v": "n"
+  },
+  {
+   "n": "055/060",
+   "name": "Devoured Field",
+   "v": "n"
+  },
+  {
+   "n": "056/060",
+   "name": "Mt. Coronet",
+   "v": "n"
+  },
+  {
+   "n": "057/060",
+   "name": "Wondrous Labyrinth ◇",
+   "v": "n"
+  },
+  {
+   "n": "058/060",
+   "name": "Unit Energy GFW",
+   "v": "n"
+  },
+  {
+   "n": "059/060",
+   "name": "Unit Energy LPM",
+   "v": "n"
+  },
+  {
+   "n": "060/060",
+   "name": "Unit Energy FDF",
+   "v": "n"
+  },
+  {
+   "n": "061/060",
+   "name": "Blacephalon-GX",
+   "v": "h"
+  },
+  {
+   "n": "062/060",
+   "name": "Kingdra-GX",
+   "v": "h"
+  },
+  {
+   "n": "063/060",
+   "name": "Zeraora-GX",
+   "v": "h"
+  },
+  {
+   "n": "064/060",
+   "name": "Dawn Wings Necrozma-GX",
+   "v": "h"
+  },
+  {
+   "n": "065/060",
+   "name": "Incineroar-GX",
+   "v": "h"
+  },
+  {
+   "n": "066/060",
+   "name": "Dusk Mane Necrozma-GX",
+   "v": "h"
+  },
+  {
+   "n": "067/060",
+   "name": "Lugia-GX",
+   "v": "h"
+  },
+  {
+   "n": "068/060",
+   "name": "Volkner",
+   "v": "h"
+  },
+  {
+   "n": "069/060",
+   "name": "Lisia",
+   "v": "h"
+  },
+  {
+   "n": "070/060",
+   "name": "Morgan",
+   "v": "h"
+  },
+  {
+   "n": "071/060",
+   "name": "Dana",
+   "v": "h"
+  },
+  {
+   "n": "072/060",
+   "name": "Evelyn",
+   "v": "h"
+  },
+  {
+   "n": "073/060",
+   "name": "Nita",
+   "v": "h"
+  },
+  {
+   "n": "074/060",
+   "name": "Blacephalon-GX",
+   "v": "h"
+  },
+  {
+   "n": "075/060",
+   "name": "Kingdra-GX",
+   "v": "h"
+  },
+  {
+   "n": "076/060",
+   "name": "Zeraora-GX",
+   "v": "h"
+  },
+  {
+   "n": "077/060",
+   "name": "Dawn Wings Necrozma-GX",
+   "v": "h"
+  },
+  {
+   "n": "078/060",
+   "name": "Incineroar-GX",
+   "v": "h"
+  },
+  {
+   "n": "079/060",
+   "name": "Dusk Mane Necrozma-GX",
+   "v": "h"
+  },
+  {
+   "n": "080/060",
+   "name": "Lugia-GX",
+   "v": "h"
+  },
+  {
+   "n": "081/060",
+   "name": "Solgaleo-GX",
+   "v": "h"
+  },
+  {
+   "n": "082/060",
+   "name": "Electropower",
+   "v": "h"
+  },
+  {
+   "n": "083/060",
+   "name": "Mysterious Treasure",
+   "v": "h"
+  },
+  {
+   "n": "084/060",
+   "name": "Missing Clover",
+   "v": "h"
+  },
+  {
+   "n": "085/060",
+   "name": "Shrine of Punishment",
+   "v": "h"
+  },
+  {
+   "n": "086/060",
+   "name": "Unit Energy GFW",
+   "v": "h"
+  },
+  {
+   "n": "087/060",
+   "name": "Unit Energy LPM",
+   "v": "h"
+  },
+  {
+   "n": "088/060",
+   "name": "Unit Energy FDF",
+   "v": "h"
+  }
+ ]
+}

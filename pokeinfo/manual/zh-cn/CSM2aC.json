@@ -1,0 +1,982 @@
+{
+ "id": "CSM2aC",
+ "name": "交相辉映 沐",
+ "serie": "太阳&月亮",
+ "serie_id": "SM",
+ "date": "2023-01-18",
+ "official": 150,
+ "abbr": "CSM2aC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/150",
+   "name": "Karrablast",
+   "v": "n"
+  },
+  {
+   "n": "002/150",
+   "name": "Grubbin",
+   "v": "n"
+  },
+  {
+   "n": "003/150",
+   "name": "Blastoise & Piplup-GX",
+   "v": "n"
+  },
+  {
+   "n": "004/150",
+   "name": "Slowpoke & Psyduck-GX",
+   "v": "n"
+  },
+  {
+   "n": "005/150",
+   "name": "Magikarp & Wailord-GX",
+   "v": "n"
+  },
+  {
+   "n": "006/150",
+   "name": "Squirtle",
+   "v": "n"
+  },
+  {
+   "n": "007/150",
+   "name": "Wartortle",
+   "v": "n"
+  },
+  {
+   "n": "008/150",
+   "name": "Blastoise",
+   "v": "n"
+  },
+  {
+   "n": "009/150",
+   "name": "Blastoise-GX",
+   "v": "n"
+  },
+  {
+   "n": "010/150",
+   "name": "Alolan Sandslash-GX",
+   "v": "n"
+  },
+  {
+   "n": "011/150",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "012/150",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "013/150",
+   "name": "Poliwag",
+   "v": "n"
+  },
+  {
+   "n": "014/150",
+   "name": "Poliwhirl",
+   "v": "n"
+  },
+  {
+   "n": "015/150",
+   "name": "Poliwrath",
+   "v": "n"
+  },
+  {
+   "n": "016/150",
+   "name": "Tentacool",
+   "v": "n"
+  },
+  {
+   "n": "017/150",
+   "name": "Tentacruel",
+   "v": "n"
+  },
+  {
+   "n": "018/150",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "019/150",
+   "name": "Slowbro",
+   "v": "n"
+  },
+  {
+   "n": "020/150",
+   "name": "Seel",
+   "v": "n"
+  },
+  {
+   "n": "021/150",
+   "name": "Dewgong",
+   "v": "n"
+  },
+  {
+   "n": "022/150",
+   "name": "Goldeen",
+   "v": "n"
+  },
+  {
+   "n": "023/150",
+   "name": "Seaking",
+   "v": "n"
+  },
+  {
+   "n": "024/150",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "025/150",
+   "name": "Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "026/150",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "027/150",
+   "name": "Articuno",
+   "v": "n"
+  },
+  {
+   "n": "028/150",
+   "name": "Wailmer",
+   "v": "n"
+  },
+  {
+   "n": "029/150",
+   "name": "Wailord",
+   "v": "n"
+  },
+  {
+   "n": "030/150",
+   "name": "Snorunt",
+   "v": "n"
+  },
+  {
+   "n": "031/150",
+   "name": "Glalie",
+   "v": "n"
+  },
+  {
+   "n": "032/150",
+   "name": "Froslass",
+   "v": "n"
+  },
+  {
+   "n": "033/150",
+   "name": "Spheal",
+   "v": "n"
+  },
+  {
+   "n": "034/150",
+   "name": "Sealeo",
+   "v": "n"
+  },
+  {
+   "n": "035/150",
+   "name": "Walrein",
+   "v": "n"
+  },
+  {
+   "n": "036/150",
+   "name": "Kyogre",
+   "v": "n"
+  },
+  {
+   "n": "037/150",
+   "name": "Piplup",
+   "v": "n"
+  },
+  {
+   "n": "038/150",
+   "name": "Prinplup",
+   "v": "n"
+  },
+  {
+   "n": "039/150",
+   "name": "Empoleon",
+   "v": "n"
+  },
+  {
+   "n": "040/150",
+   "name": "Phione",
+   "v": "n"
+  },
+  {
+   "n": "041/150",
+   "name": "Basculin",
+   "v": "n"
+  },
+  {
+   "n": "042/150",
+   "name": "Cryogonal",
+   "v": "n"
+  },
+  {
+   "n": "043/150",
+   "name": "Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "044/150",
+   "name": "Black Kyurem",
+   "v": "n"
+  },
+  {
+   "n": "045/150",
+   "name": "Keldeo-GX",
+   "v": "n"
+  },
+  {
+   "n": "046/150",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "047/150",
+   "name": "Wishiwashi-GX",
+   "v": "n"
+  },
+  {
+   "n": "048/150",
+   "name": "Dewpider",
+   "v": "n"
+  },
+  {
+   "n": "049/150",
+   "name": "Araquanid",
+   "v": "n"
+  },
+  {
+   "n": "050/150",
+   "name": "Wimpod",
+   "v": "n"
+  },
+  {
+   "n": "051/150",
+   "name": "Golisopod",
+   "v": "n"
+  },
+  {
+   "n": "052/150",
+   "name": "Pyukumuku",
+   "v": "n"
+  },
+  {
+   "n": "053/150",
+   "name": "Tapu Fini",
+   "v": "n"
+  },
+  {
+   "n": "054/150",
+   "name": "Pikachu & Zekrom-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/150",
+   "name": "Raichu & Alolan Raichu-GX",
+   "v": "n"
+  },
+  {
+   "n": "056/150",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "057/150",
+   "name": "Raichu",
+   "v": "n"
+  },
+  {
+   "n": "058/150",
+   "name": "Alolan Geodude",
+   "v": "n"
+  },
+  {
+   "n": "059/150",
+   "name": "Alolan Graveler",
+   "v": "n"
+  },
+  {
+   "n": "060/150",
+   "name": "Alolan Golem",
+   "v": "n"
+  },
+  {
+   "n": "061/150",
+   "name": "Magnemite",
+   "v": "n"
+  },
+  {
+   "n": "062/150",
+   "name": "Magneton",
+   "v": "n"
+  },
+  {
+   "n": "063/150",
+   "name": "Magnezone",
+   "v": "n"
+  },
+  {
+   "n": "064/150",
+   "name": "Voltorb",
+   "v": "n"
+  },
+  {
+   "n": "065/150",
+   "name": "Electrode",
+   "v": "n"
+  },
+  {
+   "n": "066/150",
+   "name": "Chinchou",
+   "v": "n"
+  },
+  {
+   "n": "067/150",
+   "name": "Lanturn",
+   "v": "n"
+  },
+  {
+   "n": "068/150",
+   "name": "Joltik",
+   "v": "n"
+  },
+  {
+   "n": "069/150",
+   "name": "Galvantula",
+   "v": "n"
+  },
+  {
+   "n": "070/150",
+   "name": "Tynamo",
+   "v": "n"
+  },
+  {
+   "n": "071/150",
+   "name": "Eelektrik",
+   "v": "n"
+  },
+  {
+   "n": "072/150",
+   "name": "Eelektross",
+   "v": "n"
+  },
+  {
+   "n": "073/150",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "074/150",
+   "name": "Thundurus",
+   "v": "n"
+  },
+  {
+   "n": "075/150",
+   "name": "Dedenne-GX",
+   "v": "n"
+  },
+  {
+   "n": "076/150",
+   "name": "Charjabug",
+   "v": "n"
+  },
+  {
+   "n": "077/150",
+   "name": "Vikavolt",
+   "v": "n"
+  },
+  {
+   "n": "078/150",
+   "name": "Togedemaru",
+   "v": "n"
+  },
+  {
+   "n": "079/150",
+   "name": "Tapu Koko",
+   "v": "n"
+  },
+  {
+   "n": "080/150",
+   "name": "Xurkitree",
+   "v": "n"
+  },
+  {
+   "n": "081/150",
+   "name": "Zeraora",
+   "v": "n"
+  },
+  {
+   "n": "082/150",
+   "name": "Cosmog",
+   "v": "n"
+  },
+  {
+   "n": "083/150",
+   "name": "Cosmoem",
+   "v": "n"
+  },
+  {
+   "n": "084/150",
+   "name": "Lunala",
+   "v": "n"
+  },
+  {
+   "n": "085/150",
+   "name": "Onix",
+   "v": "n"
+  },
+  {
+   "n": "086/150",
+   "name": "Wooper",
+   "v": "n"
+  },
+  {
+   "n": "087/150",
+   "name": "Quagsire",
+   "v": "n"
+  },
+  {
+   "n": "088/150",
+   "name": "Nosepass",
+   "v": "n"
+  },
+  {
+   "n": "089/150",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "090/150",
+   "name": "Lucario & Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "091/150",
+   "name": "Alolan Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "092/150",
+   "name": "Alolan Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "093/150",
+   "name": "Alolan Diglett",
+   "v": "n"
+  },
+  {
+   "n": "094/150",
+   "name": "Alolan Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "095/150",
+   "name": "Steelix",
+   "v": "n"
+  },
+  {
+   "n": "096/150",
+   "name": "Mawile",
+   "v": "n"
+  },
+  {
+   "n": "097/150",
+   "name": "Aron",
+   "v": "n"
+  },
+  {
+   "n": "098/150",
+   "name": "Lairon",
+   "v": "n"
+  },
+  {
+   "n": "099/150",
+   "name": "Aggron",
+   "v": "n"
+  },
+  {
+   "n": "100/150",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "101/150",
+   "name": "Probopass",
+   "v": "n"
+  },
+  {
+   "n": "102/150",
+   "name": "Escavalier",
+   "v": "n"
+  },
+  {
+   "n": "103/150",
+   "name": "Genesect",
+   "v": "n"
+  },
+  {
+   "n": "104/150",
+   "name": "Solgaleo",
+   "v": "n"
+  },
+  {
+   "n": "105/150",
+   "name": "Meltan",
+   "v": "n"
+  },
+  {
+   "n": "106/150",
+   "name": "Melmetal",
+   "v": "n"
+  },
+  {
+   "n": "107/150",
+   "name": "Melmetal-GX",
+   "v": "n"
+  },
+  {
+   "n": "108/150",
+   "name": "Latias & Latios-GX",
+   "v": "n"
+  },
+  {
+   "n": "109/150",
+   "name": "Dratini",
+   "v": "n"
+  },
+  {
+   "n": "110/150",
+   "name": "Dragonair",
+   "v": "n"
+  },
+  {
+   "n": "111/150",
+   "name": "Dragonite",
+   "v": "n"
+  },
+  {
+   "n": "112/150",
+   "name": "Dragonite-GX",
+   "v": "n"
+  },
+  {
+   "n": "113/150",
+   "name": "Jangmo-o",
+   "v": "n"
+  },
+  {
+   "n": "114/150",
+   "name": "Hakamo-o",
+   "v": "n"
+  },
+  {
+   "n": "115/150",
+   "name": "Kommo-o",
+   "v": "n"
+  },
+  {
+   "n": "116/150",
+   "name": "Pidgey",
+   "v": "n"
+  },
+  {
+   "n": "117/150",
+   "name": "Pidgeotto",
+   "v": "n"
+  },
+  {
+   "n": "118/150",
+   "name": "Pidgeot",
+   "v": "n"
+  },
+  {
+   "n": "119/150",
+   "name": "Farfetch'd",
+   "v": "n"
+  },
+  {
+   "n": "120/150",
+   "name": "Eevee-GX",
+   "v": "n"
+  },
+  {
+   "n": "121/150",
+   "name": "Aipom",
+   "v": "n"
+  },
+  {
+   "n": "122/150",
+   "name": "Ambipom",
+   "v": "n"
+  },
+  {
+   "n": "123/150",
+   "name": "Bidoof",
+   "v": "n"
+  },
+  {
+   "n": "124/150",
+   "name": "Bibarel",
+   "v": "n"
+  },
+  {
+   "n": "125/150",
+   "name": "Tornadus",
+   "v": "n"
+  },
+  {
+   "n": "126/150",
+   "name": "Yungoos",
+   "v": "n"
+  },
+  {
+   "n": "127/150",
+   "name": "Gumshoos",
+   "v": "n"
+  },
+  {
+   "n": "128/150",
+   "name": "Oranguru",
+   "v": "n"
+  },
+  {
+   "n": "129/150",
+   "name": "Komala",
+   "v": "n"
+  },
+  {
+   "n": "130/150",
+   "name": "Celesteela-GX",
+   "v": "n"
+  },
+  {
+   "n": "131/150",
+   "name": "Great Potion",
+   "v": "n"
+  },
+  {
+   "n": "132/150",
+   "name": "Tag Switch",
+   "v": "n"
+  },
+  {
+   "n": "133/150",
+   "name": "Pokégear 3.0",
+   "v": "n"
+  },
+  {
+   "n": "134/150",
+   "name": "Pokémon Communication",
+   "v": "n"
+  },
+  {
+   "n": "135/150",
+   "name": "Dragonium Z: Dragon Claw",
+   "v": "n"
+  },
+  {
+   "n": "136/150",
+   "name": "Beastite",
+   "v": "n"
+  },
+  {
+   "n": "137/150",
+   "name": "Buff Padding",
+   "v": "n"
+  },
+  {
+   "n": "138/150",
+   "name": "Metal Core Barrier",
+   "v": "n"
+  },
+  {
+   "n": "139/150",
+   "name": "U-Turn Board",
+   "v": "n"
+  },
+  {
+   "n": "140/150",
+   "name": "Will",
+   "v": "n"
+  },
+  {
+   "n": "141/150",
+   "name": "Ultra Forest Kartenvoy",
+   "v": "n"
+  },
+  {
+   "n": "142/150",
+   "name": "Misty's Favor",
+   "v": "n"
+  },
+  {
+   "n": "143/150",
+   "name": "Grimsley",
+   "v": "n"
+  },
+  {
+   "n": "144/150",
+   "name": "Coach Trainer",
+   "v": "n"
+  },
+  {
+   "n": "145/150",
+   "name": "Green's Exploration",
+   "v": "n"
+  },
+  {
+   "n": "146/150",
+   "name": "Molayne",
+   "v": "n"
+  },
+  {
+   "n": "147/150",
+   "name": "Mallow & Lana",
+   "v": "n"
+  },
+  {
+   "n": "148/150",
+   "name": "Lt. Surge's Strategy",
+   "v": "n"
+  },
+  {
+   "n": "149/150",
+   "name": "Viridian Forest",
+   "v": "n"
+  },
+  {
+   "n": "150/150",
+   "name": "Recycle Energy",
+   "v": "n"
+  },
+  {
+   "n": "151/150",
+   "name": "Piplup",
+   "v": "h"
+  },
+  {
+   "n": "152/150",
+   "name": "Wishiwashi",
+   "v": "h"
+  },
+  {
+   "n": "153/150",
+   "name": "Pikachu",
+   "v": "h"
+  },
+  {
+   "n": "154/150",
+   "name": "Magnemite",
+   "v": "h"
+  },
+  {
+   "n": "155/150",
+   "name": "Steelix",
+   "v": "h"
+  },
+  {
+   "n": "156/150",
+   "name": "Blastoise & Piplup-GX",
+   "v": "h"
+  },
+  {
+   "n": "157/150",
+   "name": "Blastoise & Piplup-GX",
+   "v": "h"
+  },
+  {
+   "n": "158/150",
+   "name": "Slowpoke & Psyduck-GX",
+   "v": "h"
+  },
+  {
+   "n": "159/150",
+   "name": "Slowpoke & Psyduck-GX",
+   "v": "h"
+  },
+  {
+   "n": "160/150",
+   "name": "Magikarp & Wailord-GX",
+   "v": "h"
+  },
+  {
+   "n": "161/150",
+   "name": "Magikarp & Wailord-GX",
+   "v": "h"
+  },
+  {
+   "n": "162/150",
+   "name": "Blastoise-GX",
+   "v": "h"
+  },
+  {
+   "n": "163/150",
+   "name": "Keldeo-GX",
+   "v": "h"
+  },
+  {
+   "n": "164/150",
+   "name": "Wishiwashi-GX",
+   "v": "h"
+  },
+  {
+   "n": "165/150",
+   "name": "Pikachu & Zekrom-GX",
+   "v": "h"
+  },
+  {
+   "n": "166/150",
+   "name": "Pikachu & Zekrom-GX",
+   "v": "h"
+  },
+  {
+   "n": "167/150",
+   "name": "Raichu & Alolan Raichu-GX",
+   "v": "h"
+  },
+  {
+   "n": "168/150",
+   "name": "Raichu & Alolan Raichu-GX",
+   "v": "h"
+  },
+  {
+   "n": "169/150",
+   "name": "Dedenne-GX",
+   "v": "h"
+  },
+  {
+   "n": "170/150",
+   "name": "Dedenne-GX",
+   "v": "h"
+  },
+  {
+   "n": "171/150",
+   "name": "Lucario & Melmetal-GX",
+   "v": "h"
+  },
+  {
+   "n": "172/150",
+   "name": "Lucario & Melmetal-GX",
+   "v": "h"
+  },
+  {
+   "n": "173/150",
+   "name": "Melmetal-GX",
+   "v": "h"
+  },
+  {
+   "n": "174/150",
+   "name": "Latias & Latios-GX",
+   "v": "h"
+  },
+  {
+   "n": "175/150",
+   "name": "Latias & Latios-GX",
+   "v": "h"
+  },
+  {
+   "n": "176/150",
+   "name": "Dragonite-GX",
+   "v": "h"
+  },
+  {
+   "n": "177/150",
+   "name": "Eevee-GX",
+   "v": "h"
+  },
+  {
+   "n": "178/150",
+   "name": "Celesteela-GX",
+   "v": "h"
+  },
+  {
+   "n": "179/150",
+   "name": "Will",
+   "v": "h"
+  },
+  {
+   "n": "180/150",
+   "name": "Misty's Favor",
+   "v": "h"
+  },
+  {
+   "n": "181/150",
+   "name": "Grimsley",
+   "v": "h"
+  },
+  {
+   "n": "182/150",
+   "name": "Coach Trainer",
+   "v": "h"
+  },
+  {
+   "n": "183/150",
+   "name": "Green's Exploration",
+   "v": "h"
+  },
+  {
+   "n": "184/150",
+   "name": "Molayne",
+   "v": "h"
+  },
+  {
+   "n": "185/150",
+   "name": "Mallow & Lana",
+   "v": "h"
+  },
+  {
+   "n": "186/150",
+   "name": "Pikachu & Zekrom-GX",
+   "v": "h"
+  },
+  {
+   "n": "187/150",
+   "name": "Lucario & Melmetal-GX",
+   "v": "h"
+  },
+  {
+   "n": "188/150",
+   "name": "Tag Switch",
+   "v": "h"
+  },
+  {
+   "n": "189/150",
+   "name": "Pokégear 3.0",
+   "v": "h"
+  },
+  {
+   "n": "190/150",
+   "name": "Pokémon Communication",
+   "v": "h"
+  },
+  {
+   "n": "191/150",
+   "name": "Metal Core Barrier",
+   "v": "h"
+  },
+  {
+   "n": "192/150",
+   "name": "U-Turn Board",
+   "v": "h"
+  },
+  {
+   "n": "193/150",
+   "name": "Viridian Forest",
+   "v": "h"
+  },
+  {
+   "n": "194/150",
+   "name": "Recycle Energy",
+   "v": "h"
+  }
+ ]
+}

@@ -1,0 +1,977 @@
+{
+ "id": "CSM2bC",
+ "name": "交相辉映 魁",
+ "serie": "太阳&月亮",
+ "serie_id": "SM",
+ "date": "2023-01-18",
+ "official": 150,
+ "abbr": "CSM2bC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/150",
+   "name": "Celebi & Venusaur-GX",
+   "v": "n"
+  },
+  {
+   "n": "002/150",
+   "name": "Rowlet & Alolan Exeggutor-GX",
+   "v": "n"
+  },
+  {
+   "n": "003/150",
+   "name": "Pheromosa & Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "004/150",
+   "name": "Caterpie",
+   "v": "n"
+  },
+  {
+   "n": "005/150",
+   "name": "Metapod",
+   "v": "n"
+  },
+  {
+   "n": "006/150",
+   "name": "Butterfree",
+   "v": "n"
+  },
+  {
+   "n": "007/150",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "008/150",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "009/150",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "010/150",
+   "name": "Paras",
+   "v": "n"
+  },
+  {
+   "n": "011/150",
+   "name": "Parasect",
+   "v": "n"
+  },
+  {
+   "n": "012/150",
+   "name": "Venonat",
+   "v": "n"
+  },
+  {
+   "n": "013/150",
+   "name": "Venomoth",
+   "v": "n"
+  },
+  {
+   "n": "014/150",
+   "name": "Venomoth-GX",
+   "v": "n"
+  },
+  {
+   "n": "015/150",
+   "name": "Pinsir",
+   "v": "n"
+  },
+  {
+   "n": "016/150",
+   "name": "Celebi",
+   "v": "n"
+  },
+  {
+   "n": "017/150",
+   "name": "Shroomish",
+   "v": "n"
+  },
+  {
+   "n": "018/150",
+   "name": "Lileep",
+   "v": "n"
+  },
+  {
+   "n": "019/150",
+   "name": "Cradily",
+   "v": "n"
+  },
+  {
+   "n": "020/150",
+   "name": "Sewaddle",
+   "v": "n"
+  },
+  {
+   "n": "021/150",
+   "name": "Swadloon",
+   "v": "n"
+  },
+  {
+   "n": "022/150",
+   "name": "Leavanny",
+   "v": "n"
+  },
+  {
+   "n": "023/150",
+   "name": "Foongus",
+   "v": "n"
+  },
+  {
+   "n": "024/150",
+   "name": "Amoonguss",
+   "v": "n"
+  },
+  {
+   "n": "025/150",
+   "name": "Rowlet",
+   "v": "n"
+  },
+  {
+   "n": "026/150",
+   "name": "Dartrix",
+   "v": "n"
+  },
+  {
+   "n": "027/150",
+   "name": "Decidueye",
+   "v": "n"
+  },
+  {
+   "n": "028/150",
+   "name": "Buzzwole",
+   "v": "n"
+  },
+  {
+   "n": "029/150",
+   "name": "Kartana",
+   "v": "n"
+  },
+  {
+   "n": "030/150",
+   "name": "Tirtouga",
+   "v": "n"
+  },
+  {
+   "n": "031/150",
+   "name": "Carracosta",
+   "v": "n"
+  },
+  {
+   "n": "032/150",
+   "name": "Muk & Alolan Muk-GX",
+   "v": "n"
+  },
+  {
+   "n": "033/150",
+   "name": "Gengar & Mimikyu-GX",
+   "v": "n"
+  },
+  {
+   "n": "034/150",
+   "name": "Mewtwo & Mew-GX",
+   "v": "n"
+  },
+  {
+   "n": "035/150",
+   "name": "Espeon & Deoxys-GX",
+   "v": "n"
+  },
+  {
+   "n": "036/150",
+   "name": "Solgaleo & Lunala-GX",
+   "v": "n"
+  },
+  {
+   "n": "037/150",
+   "name": "Ekans",
+   "v": "n"
+  },
+  {
+   "n": "038/150",
+   "name": "Arbok",
+   "v": "n"
+  },
+  {
+   "n": "039/150",
+   "name": "Nidoran ♀",
+   "v": "n"
+  },
+  {
+   "n": "040/150",
+   "name": "Nidorina",
+   "v": "n"
+  },
+  {
+   "n": "041/150",
+   "name": "Nidoqueen",
+   "v": "n"
+  },
+  {
+   "n": "042/150",
+   "name": "Nidoran ♂",
+   "v": "n"
+  },
+  {
+   "n": "043/150",
+   "name": "Nidorino",
+   "v": "n"
+  },
+  {
+   "n": "044/150",
+   "name": "Nidoking",
+   "v": "n"
+  },
+  {
+   "n": "045/150",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "046/150",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "047/150",
+   "name": "Gengar",
+   "v": "n"
+  },
+  {
+   "n": "048/150",
+   "name": "Drowzee",
+   "v": "n"
+  },
+  {
+   "n": "049/150",
+   "name": "Hypno",
+   "v": "n"
+  },
+  {
+   "n": "050/150",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "051/150",
+   "name": "Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "052/150",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "053/150",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "054/150",
+   "name": "Mr. Mime",
+   "v": "n"
+  },
+  {
+   "n": "055/150",
+   "name": "Mewtwo",
+   "v": "n"
+  },
+  {
+   "n": "056/150",
+   "name": "Mew",
+   "v": "n"
+  },
+  {
+   "n": "057/150",
+   "name": "Natu",
+   "v": "n"
+  },
+  {
+   "n": "058/150",
+   "name": "Xatu",
+   "v": "n"
+  },
+  {
+   "n": "059/150",
+   "name": "Duskull",
+   "v": "n"
+  },
+  {
+   "n": "060/150",
+   "name": "Dusclops",
+   "v": "n"
+  },
+  {
+   "n": "061/150",
+   "name": "Dusknoir",
+   "v": "n"
+  },
+  {
+   "n": "062/150",
+   "name": "Latios-GX",
+   "v": "n"
+  },
+  {
+   "n": "063/150",
+   "name": "Drifloon",
+   "v": "n"
+  },
+  {
+   "n": "064/150",
+   "name": "Drifblim",
+   "v": "n"
+  },
+  {
+   "n": "065/150",
+   "name": "Rotom",
+   "v": "n"
+  },
+  {
+   "n": "066/150",
+   "name": "Giratina",
+   "v": "n"
+  },
+  {
+   "n": "067/150",
+   "name": "Elgyem",
+   "v": "n"
+  },
+  {
+   "n": "068/150",
+   "name": "Beheeyem",
+   "v": "n"
+  },
+  {
+   "n": "069/150",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "070/150",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "071/150",
+   "name": "Espurr",
+   "v": "n"
+  },
+  {
+   "n": "072/150",
+   "name": "Meowstic",
+   "v": "n"
+  },
+  {
+   "n": "073/150",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "074/150",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "075/150",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "076/150",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "077/150",
+   "name": "Necrozma",
+   "v": "n"
+  },
+  {
+   "n": "078/150",
+   "name": "Poipole",
+   "v": "n"
+  },
+  {
+   "n": "079/150",
+   "name": "Blacephalon",
+   "v": "n"
+  },
+  {
+   "n": "080/150",
+   "name": "Marshadow & Machamp-GX",
+   "v": "n"
+  },
+  {
+   "n": "081/150",
+   "name": "Diglett",
+   "v": "n"
+  },
+  {
+   "n": "082/150",
+   "name": "Dugtrio",
+   "v": "n"
+  },
+  {
+   "n": "083/150",
+   "name": "Tyrogue",
+   "v": "n"
+  },
+  {
+   "n": "084/150",
+   "name": "Hitmonlee",
+   "v": "n"
+  },
+  {
+   "n": "085/150",
+   "name": "Hitmonchan",
+   "v": "n"
+  },
+  {
+   "n": "086/150",
+   "name": "Hitmontop",
+   "v": "n"
+  },
+  {
+   "n": "087/150",
+   "name": "Rhyhorn",
+   "v": "n"
+  },
+  {
+   "n": "088/150",
+   "name": "Rhydon",
+   "v": "n"
+  },
+  {
+   "n": "089/150",
+   "name": "Rhyperior",
+   "v": "n"
+  },
+  {
+   "n": "090/150",
+   "name": "Omanyte",
+   "v": "n"
+  },
+  {
+   "n": "091/150",
+   "name": "Omastar",
+   "v": "n"
+  },
+  {
+   "n": "092/150",
+   "name": "Kabuto",
+   "v": "n"
+  },
+  {
+   "n": "093/150",
+   "name": "Kabutops",
+   "v": "n"
+  },
+  {
+   "n": "094/150",
+   "name": "Aerodactyl-GX",
+   "v": "n"
+  },
+  {
+   "n": "095/150",
+   "name": "Gligar",
+   "v": "n"
+  },
+  {
+   "n": "096/150",
+   "name": "Gliscor",
+   "v": "n"
+  },
+  {
+   "n": "097/150",
+   "name": "Breloom",
+   "v": "n"
+  },
+  {
+   "n": "098/150",
+   "name": "Meditite",
+   "v": "n"
+  },
+  {
+   "n": "099/150",
+   "name": "Medicham",
+   "v": "n"
+  },
+  {
+   "n": "100/150",
+   "name": "Anorith",
+   "v": "n"
+  },
+  {
+   "n": "101/150",
+   "name": "Armaldo",
+   "v": "n"
+  },
+  {
+   "n": "102/150",
+   "name": "Groudon",
+   "v": "n"
+  },
+  {
+   "n": "103/150",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "104/150",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "105/150",
+   "name": "Drilbur",
+   "v": "n"
+  },
+  {
+   "n": "106/150",
+   "name": "Excadrill",
+   "v": "n"
+  },
+  {
+   "n": "107/150",
+   "name": "Carracosta-GX",
+   "v": "n"
+  },
+  {
+   "n": "108/150",
+   "name": "Terrakion",
+   "v": "n"
+  },
+  {
+   "n": "109/150",
+   "name": "Meloetta",
+   "v": "n"
+  },
+  {
+   "n": "110/150",
+   "name": "Zygarde",
+   "v": "n"
+  },
+  {
+   "n": "111/150",
+   "name": "Stakataka",
+   "v": "n"
+  },
+  {
+   "n": "112/150",
+   "name": "Garchomp & Giratina-GX",
+   "v": "n"
+  },
+  {
+   "n": "113/150",
+   "name": "Axew",
+   "v": "n"
+  },
+  {
+   "n": "114/150",
+   "name": "Fraxure",
+   "v": "n"
+  },
+  {
+   "n": "115/150",
+   "name": "Haxorus",
+   "v": "n"
+  },
+  {
+   "n": "116/150",
+   "name": "Drampa",
+   "v": "n"
+  },
+  {
+   "n": "117/150",
+   "name": "Naganadel-GX",
+   "v": "n"
+  },
+  {
+   "n": "118/150",
+   "name": "Meowth",
+   "v": "n"
+  },
+  {
+   "n": "119/150",
+   "name": "Persian",
+   "v": "n"
+  },
+  {
+   "n": "120/150",
+   "name": "Persian-GX",
+   "v": "n"
+  },
+  {
+   "n": "121/150",
+   "name": "Kangaskhan",
+   "v": "n"
+  },
+  {
+   "n": "122/150",
+   "name": "Tauros",
+   "v": "n"
+  },
+  {
+   "n": "123/150",
+   "name": "Aerodactyl",
+   "v": "n"
+  },
+  {
+   "n": "124/150",
+   "name": "Snorlax",
+   "v": "n"
+  },
+  {
+   "n": "125/150",
+   "name": "Glameow",
+   "v": "n"
+  },
+  {
+   "n": "126/150",
+   "name": "Purugly",
+   "v": "n"
+  },
+  {
+   "n": "127/150",
+   "name": "Happiny",
+   "v": "n"
+  },
+  {
+   "n": "128/150",
+   "name": "Stadium Nav",
+   "v": "n"
+  },
+  {
+   "n": "129/150",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "130/150",
+   "name": "Surprise Box",
+   "v": "n"
+  },
+  {
+   "n": "131/150",
+   "name": "Cherish Ball",
+   "v": "n"
+  },
+  {
+   "n": "132/150",
+   "name": "Stealthy Hood",
+   "v": "n"
+  },
+  {
+   "n": "133/150",
+   "name": "Karate Belt",
+   "v": "n"
+  },
+  {
+   "n": "134/150",
+   "name": "Normalium Z: Tackle",
+   "v": "n"
+  },
+  {
+   "n": "135/150",
+   "name": "Beast Bringer",
+   "v": "n"
+  },
+  {
+   "n": "136/150",
+   "name": "Janine",
+   "v": "n"
+  },
+  {
+   "n": "137/150",
+   "name": "Koga's Trap",
+   "v": "n"
+  },
+  {
+   "n": "138/150",
+   "name": "Guzma & Hala",
+   "v": "n"
+  },
+  {
+   "n": "139/150",
+   "name": "Blue's Tactics",
+   "v": "n"
+  },
+  {
+   "n": "140/150",
+   "name": "Giovanni's Exile",
+   "v": "n"
+  },
+  {
+   "n": "141/150",
+   "name": "Hapu",
+   "v": "n"
+  },
+  {
+   "n": "142/150",
+   "name": "Jessie & James",
+   "v": "n"
+  },
+  {
+   "n": "143/150",
+   "name": "Clay",
+   "v": "n"
+  },
+  {
+   "n": "144/150",
+   "name": "Lillie's Full Force",
+   "v": "n"
+  },
+  {
+   "n": "145/150",
+   "name": "Red & Blue",
+   "v": "n"
+  },
+  {
+   "n": "146/150",
+   "name": "Roller Skater",
+   "v": "n"
+  },
+  {
+   "n": "147/150",
+   "name": "Martial Arts Dojo",
+   "v": "n"
+  },
+  {
+   "n": "148/150",
+   "name": "Lavender Town",
+   "v": "n"
+  },
+  {
+   "n": "149/150",
+   "name": "Pokémon Research Lab",
+   "v": "n"
+  },
+  {
+   "n": "150/150",
+   "name": "Draw Energy",
+   "v": "n"
+  },
+  {
+   "n": "151/150",
+   "name": "Mimikyu",
+   "v": "h"
+  },
+  {
+   "n": "152/150",
+   "name": "Excadrill",
+   "v": "h"
+  },
+  {
+   "n": "153/150",
+   "name": "Celebi & Venusaur-GX",
+   "v": "h"
+  },
+  {
+   "n": "154/150",
+   "name": "Celebi & Venusaur-GX",
+   "v": "h"
+  },
+  {
+   "n": "155/150",
+   "name": "Rowlet & Alolan Exeggutor-GX",
+   "v": "h"
+  },
+  {
+   "n": "156/150",
+   "name": "Rowlet & Alolan Exeggutor-GX",
+   "v": "h"
+  },
+  {
+   "n": "157/150",
+   "name": "Pheromosa & Buzzwole-GX",
+   "v": "h"
+  },
+  {
+   "n": "158/150",
+   "name": "Pheromosa & Buzzwole-GX",
+   "v": "h"
+  },
+  {
+   "n": "159/150",
+   "name": "Venomoth-GX",
+   "v": "h"
+  },
+  {
+   "n": "160/150",
+   "name": "Muk & Alolan Muk-GX",
+   "v": "h"
+  },
+  {
+   "n": "161/150",
+   "name": "Muk & Alolan Muk-GX",
+   "v": "h"
+  },
+  {
+   "n": "162/150",
+   "name": "Gengar & Mimikyu-GX",
+   "v": "h"
+  },
+  {
+   "n": "163/150",
+   "name": "Gengar & Mimikyu-GX",
+   "v": "h"
+  },
+  {
+   "n": "164/150",
+   "name": "Mewtwo & Mew-GX",
+   "v": "h"
+  },
+  {
+   "n": "165/150",
+   "name": "Mewtwo & Mew-GX",
+   "v": "h"
+  },
+  {
+   "n": "166/150",
+   "name": "Espeon & Deoxys-GX",
+   "v": "h"
+  },
+  {
+   "n": "167/150",
+   "name": "Espeon & Deoxys-GX",
+   "v": "h"
+  },
+  {
+   "n": "168/150",
+   "name": "Solgaleo & Lunala-GX",
+   "v": "h"
+  },
+  {
+   "n": "169/150",
+   "name": "Latios-GX",
+   "v": "h"
+  },
+  {
+   "n": "170/150",
+   "name": "Marshadow & Machamp-GX",
+   "v": "h"
+  },
+  {
+   "n": "171/150",
+   "name": "Marshadow & Machamp-GX",
+   "v": "h"
+  },
+  {
+   "n": "172/150",
+   "name": "Aerodactyl-GX",
+   "v": "h"
+  },
+  {
+   "n": "173/150",
+   "name": "Garchomp & Giratina-GX",
+   "v": "h"
+  },
+  {
+   "n": "174/150",
+   "name": "Garchomp & Giratina-GX",
+   "v": "h"
+  },
+  {
+   "n": "175/150",
+   "name": "Naganadel-GX",
+   "v": "h"
+  },
+  {
+   "n": "176/150",
+   "name": "Persian-GX",
+   "v": "h"
+  },
+  {
+   "n": "177/150",
+   "name": "Janine",
+   "v": "h"
+  },
+  {
+   "n": "178/150",
+   "name": "Koga's Trap",
+   "v": "h"
+  },
+  {
+   "n": "179/150",
+   "name": "Guzma & Hala",
+   "v": "h"
+  },
+  {
+   "n": "180/150",
+   "name": "Blue's Tactics",
+   "v": "h"
+  },
+  {
+   "n": "181/150",
+   "name": "Giovanni's Exile",
+   "v": "h"
+  },
+  {
+   "n": "182/150",
+   "name": "Hapu",
+   "v": "h"
+  },
+  {
+   "n": "183/150",
+   "name": "Jessie & James",
+   "v": "h"
+  },
+  {
+   "n": "184/150",
+   "name": "Clay",
+   "v": "h"
+  },
+  {
+   "n": "185/150",
+   "name": "Lillie's Full Force",
+   "v": "h"
+  },
+  {
+   "n": "186/150",
+   "name": "Red & Blue",
+   "v": "h"
+  },
+  {
+   "n": "187/150",
+   "name": "Roller Skater",
+   "v": "h"
+  },
+  {
+   "n": "188/150",
+   "name": "Mewtwo & Mew-GX",
+   "v": "h"
+  },
+  {
+   "n": "189/150",
+   "name": "Garchomp & Giratina-GX",
+   "v": "h"
+  },
+  {
+   "n": "190/150",
+   "name": "Cherish Ball",
+   "v": "h"
+  },
+  {
+   "n": "191/150",
+   "name": "Karate Belt",
+   "v": "h"
+  },
+  {
+   "n": "192/150",
+   "name": "Martial Arts Dojo",
+   "v": "h"
+  },
+  {
+   "n": "193/150",
+   "name": "Draw Energy",
+   "v": "h"
+  }
+ ]
+}

@@ -1,0 +1,1080 @@
+{
+ "id": "CS5bC",
+ "name": "勇魅群星 勇",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-06-18",
+ "official": 128,
+ "abbr": "CS5bC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/128",
+   "name": "Bulbasaur",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "002/128",
+   "name": "Ivysaur",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "003/128",
+   "name": "Venusaur",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "004/128",
+   "name": "Radiant Venusaur",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "005/128",
+   "name": "Oddish",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "006/128",
+   "name": "Gloom",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "007/128",
+   "name": "Vileplume",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "008/128",
+   "name": "Hisuian Voltorb",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "009/128",
+   "name": "Hisuian Electrode",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "010/128",
+   "name": "Scyther",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "011/128",
+   "name": "Yanma",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "012/128",
+   "name": "Yanmega",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "013/128",
+   "name": "Wurmple",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "014/128",
+   "name": "Silcoon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "015/128",
+   "name": "Beautifly",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "016/128",
+   "name": "Cascoon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "017/128",
+   "name": "Dustox",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "018/128",
+   "name": "Shroomish",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "019/128",
+   "name": "Breloom",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "020/128",
+   "name": "Roselia",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "021/128",
+   "name": "Roserade",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "022/128",
+   "name": "Turtwig",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "023/128",
+   "name": "Grotle",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "024/128",
+   "name": "Torterra",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "025/128",
+   "name": "Burmy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "026/128",
+   "name": "Wormadam",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "027/128",
+   "name": "Mothim",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "028/128",
+   "name": "Combee",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "029/128",
+   "name": "Vespiquen",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "030/128",
+   "name": "Shaymin V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "031/128",
+   "name": "Shaymin VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "032/128",
+   "name": "Serperior V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "033/128",
+   "name": "Serperior VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "034/128",
+   "name": "Petilil",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "035/128",
+   "name": "Hisuian Lilligant",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "036/128",
+   "name": "Blipbug",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "037/128",
+   "name": "Dottler",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "038/128",
+   "name": "Orbeetle",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "039/128",
+   "name": "Slowpoke",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "040/128",
+   "name": "Slowbro",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "041/128",
+   "name": "Starmie V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "042/128",
+   "name": "Swinub",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "043/128",
+   "name": "Piloswine",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "044/128",
+   "name": "Mamoswine",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "045/128",
+   "name": "Mantine",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "046/128",
+   "name": "Suicune V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "047/128",
+   "name": "Luvdisc",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "048/128",
+   "name": "Shellos",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "049/128",
+   "name": "Lumineon V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "050/128",
+   "name": "Origin Forme Palkia V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "051/128",
+   "name": "Origin Forme Palkia VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "052/128",
+   "name": "Manaphy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "053/128",
+   "name": "Hisuian Basculin",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "054/128",
+   "name": "Hisuian Basculegion",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "055/128",
+   "name": "Bergmite",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "056/128",
+   "name": "Hisuian Avalugg",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "057/128",
+   "name": "Hisuian Growlithe",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "058/128",
+   "name": "Hisuian Arcanine",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "059/128",
+   "name": "Machamp V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "060/128",
+   "name": "Machamp VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "061/128",
+   "name": "Rhyhorn",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "062/128",
+   "name": "Rhydon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "063/128",
+   "name": "Rhyperior",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "064/128",
+   "name": "Sudowoodo",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "065/128",
+   "name": "Gligar",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "066/128",
+   "name": "Gliscor",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "067/128",
+   "name": "Nosepass",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "068/128",
+   "name": "Cranidos",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "069/128",
+   "name": "Rampardos",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "070/128",
+   "name": "Wormadam",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "071/128",
+   "name": "Gastrodon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "072/128",
+   "name": "Riolu",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "073/128",
+   "name": "Lucario",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "074/128",
+   "name": "Lucario V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "075/128",
+   "name": "Lucario VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "076/128",
+   "name": "Gallade V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "077/128",
+   "name": "Conkeldurr V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "078/128",
+   "name": "Throh",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "079/128",
+   "name": "Sawk",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "080/128",
+   "name": "Radiant Hawlucha",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "081/128",
+   "name": "Falinks",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "082/128",
+   "name": "Kleavor",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "083/128",
+   "name": "Kleavor V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "084/128",
+   "name": "Kleavor VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "085/128",
+   "name": "Magnemite",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "086/128",
+   "name": "Magneton",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "087/128",
+   "name": "Magnezone",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "088/128",
+   "name": "Radiant Steelix",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "089/128",
+   "name": "Shieldon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "090/128",
+   "name": "Bastiodon",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "091/128",
+   "name": "Wormadam",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "092/128",
+   "name": "Bronzor",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "093/128",
+   "name": "Bronzong",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "094/128",
+   "name": "Probopass",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "095/128",
+   "name": "Origin Forme Dialga V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "096/128",
+   "name": "Origin Forme Dialga VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "097/128",
+   "name": "Heatran",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "098/128",
+   "name": "Klink",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "099/128",
+   "name": "Klang",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "100/128",
+   "name": "Klinklang",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "101/128",
+   "name": "Pawniard",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "102/128",
+   "name": "Bisharp",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "103/128",
+   "name": "Melmetal V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "104/128",
+   "name": "Melmetal VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "105/128",
+   "name": "Goomy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "106/128",
+   "name": "Hisuian Sliggoo",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "107/128",
+   "name": "Hisuian Goodra",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "108/128",
+   "name": "Aipom",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "109/128",
+   "name": "Ambipom",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "110/128",
+   "name": "Slaking V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "111/128",
+   "name": "Bidoof",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "112/128",
+   "name": "Bibarel",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "113/128",
+   "name": "Oranguru V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "114/128",
+   "name": "Wait and See Turbo",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "115/128",
+   "name": "Sweet Honey",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "116/128",
+   "name": "Switch Cart",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "117/128",
+   "name": "Unidentified Fossil",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "118/128",
+   "name": "Ultra Ball",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "119/128",
+   "name": "Choice Belt",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "120/128",
+   "name": "Leafy Camo Poncho",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "121/128",
+   "name": "Irida",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "122/128",
+   "name": "Iscan",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "123/128",
+   "name": "Adaman",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "124/128",
+   "name": "Choy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "125/128",
+   "name": "Roseanne's Backup",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "126/128",
+   "name": "Furisode Girl",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "127/128",
+   "name": "Lake Acuity",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "128/128",
+   "name": "Temple of Sinnoh",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "129/128",
+   "name": "Hisuian Voltorb",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "130/128",
+   "name": "Manaphy",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "131/128",
+   "name": "Magnezone",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "132/128",
+   "name": "Hisuian Goodra",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "133/128",
+   "name": "Shaymin V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "134/128",
+   "name": "Serperior V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "135/128",
+   "name": "Starmie V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "136/128",
+   "name": "Lumineon V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "137/128",
+   "name": "Lumineon V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "138/128",
+   "name": "Origin Forme Palkia V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "139/128",
+   "name": "Origin Forme Palkia V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "140/128",
+   "name": "Machamp V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "141/128",
+   "name": "Machamp V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "142/128",
+   "name": "Lucario V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "143/128",
+   "name": "Gallade V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "144/128",
+   "name": "Conkeldurr V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "145/128",
+   "name": "Kleavor V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "146/128",
+   "name": "Origin Forme Dialga V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "147/128",
+   "name": "Origin Forme Dialga V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "148/128",
+   "name": "Melmetal V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "149/128",
+   "name": "Slaking V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "150/128",
+   "name": "Oranguru V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "151/128",
+   "name": "Irida",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "152/128",
+   "name": "Iscan",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "153/128",
+   "name": "Adaman",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "154/128",
+   "name": "Choy",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "155/128",
+   "name": "Roseanne's Backup",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "156/128",
+   "name": "Suicune V",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "157/128",
+   "name": "Lumineon V",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "158/128",
+   "name": "Lucario VSTAR",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "159/128",
+   "name": "Shaymin VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "160/128",
+   "name": "Serperior VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "161/128",
+   "name": "Origin Forme Palkia VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "162/128",
+   "name": "Machamp VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "163/128",
+   "name": "Lucario VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "164/128",
+   "name": "Kleavor VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "165/128",
+   "name": "Origin Forme Dialga VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "166/128",
+   "name": "Melmetal VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "167/128",
+   "name": "Irida",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "168/128",
+   "name": "Iscan",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "169/128",
+   "name": "Adaman",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "170/128",
+   "name": "Choy",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "171/128",
+   "name": "Roseanne's Backup",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "172/128",
+   "name": "Serperior VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "173/128",
+   "name": "Origin Forme Palkia VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "174/128",
+   "name": "Origin Forme Dialga VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "175/128",
+   "name": "Ultra Ball",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "176/128",
+   "name": "Choice Belt",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "177/128",
+   "name": "Leafy Camo Poncho",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "178/128",
+   "name": "Temple of Sinnoh",
+   "r": "UR",
+   "v": "h"
+  }
+ ]
+}

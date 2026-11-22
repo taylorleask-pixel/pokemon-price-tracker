@@ -1,0 +1,510 @@
+{
+ "id": "CS4.5C",
+ "name": "终末炎舞",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-04-26",
+ "official": 63,
+ "abbr": "CS4.5C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/063",
+   "name": "Entei",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "002/063",
+   "name": "Victini",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "003/063",
+   "name": "Volcarona V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "004/063",
+   "name": "Oricorio",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "005/063",
+   "name": "Lapras",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "006/063",
+   "name": "Marill",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "007/063",
+   "name": "Azumarill",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "008/063",
+   "name": "Suicune V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "009/063",
+   "name": "Lotad",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "010/063",
+   "name": "Lombre",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "011/063",
+   "name": "Ludicolo",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "012/063",
+   "name": "Basculin",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "013/063",
+   "name": "Cryogonal",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "014/063",
+   "name": "Inteleon V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "015/063",
+   "name": "Inteleon VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "016/063",
+   "name": "Plusle",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "017/063",
+   "name": "Minun",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "018/063",
+   "name": "Regieleki",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "019/063",
+   "name": "Jigglypuff",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "020/063",
+   "name": "Wigglytuff",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "021/063",
+   "name": "Galarian Articuno",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "022/063",
+   "name": "Deoxys",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "023/063",
+   "name": "Meloetta",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "024/063",
+   "name": "Mimikyu V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "025/063",
+   "name": "Mimikyu VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "026/063",
+   "name": "Marshadow",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "027/063",
+   "name": "Milcery",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "028/063",
+   "name": "Alcremie",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "029/063",
+   "name": "Sandshrew",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "030/063",
+   "name": "Sandslash",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "031/063",
+   "name": "Landorus",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "032/063",
+   "name": "Garbodor V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "033/063",
+   "name": "Garbodor VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "034/063",
+   "name": "Zorua",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "035/063",
+   "name": "Zoroark",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "036/063",
+   "name": "Yveltal",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "037/063",
+   "name": "Togedemaru",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "038/063",
+   "name": "Dragonite V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "039/063",
+   "name": "Noivern V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "040/063",
+   "name": "Regidrago",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "041/063",
+   "name": "Chansey",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "042/063",
+   "name": "Blissey",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "043/063",
+   "name": "Buneary",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "044/063",
+   "name": "Lopunny",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "045/063",
+   "name": "Hawlucha",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "046/063",
+   "name": "Wooloo",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "047/063",
+   "name": "Dubwool",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "048/063",
+   "name": "Cram-o-matic",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "049/063",
+   "name": "Cross Switcher",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "050/063",
+   "name": "Boost Shake",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "051/063",
+   "name": "Toy Catcher",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "052/063",
+   "name": "Battle VIP Pass",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "053/063",
+   "name": "Elemental Badge",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "054/063",
+   "name": "Snow Leaf Badge",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "055/063",
+   "name": "Spongy Gloves",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "056/063",
+   "name": "Moon & Sun Badge",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "057/063",
+   "name": "Ribbon Badge",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "058/063",
+   "name": "Spirit Mask",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "059/063",
+   "name": "Acerola's Premonition",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "060/063",
+   "name": "Aroma Lady",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "061/063",
+   "name": "Adventurer's Discovery",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "062/063",
+   "name": "Café Master",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "063/063",
+   "name": "Gloria",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "064/063",
+   "name": "Volcarona V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "065/063",
+   "name": "Suicune V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "066/063",
+   "name": "Mimikyu V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "067/063",
+   "name": "Garbodor V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "068/063",
+   "name": "Dragonite V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "069/063",
+   "name": "Dragonite V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "070/063",
+   "name": "Noivern V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "071/063",
+   "name": "Noivern V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "072/063",
+   "name": "Acerola's Premonition",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "073/063",
+   "name": "Aroma Lady",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "074/063",
+   "name": "Adventurer's Discovery",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "075/063",
+   "name": "Café Master",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "076/063",
+   "name": "Gloria",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "077/063",
+   "name": "Mimikyu V",
+   "r": "CSR",
+   "v": "h"
+  },
+  {
+   "n": "078/063",
+   "name": "Mimikyu VMAX",
+   "r": "CSR",
+   "v": "h"
+  },
+  {
+   "n": "079/063",
+   "name": "Inteleon VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "080/063",
+   "name": "Garbodor VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "081/063",
+   "name": "Aroma Lady",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "082/063",
+   "name": "Boost Shake",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "083/063",
+   "name": "Toy Catcher",
+   "r": "UR",
+   "v": "h"
+  }
+ ]
+}

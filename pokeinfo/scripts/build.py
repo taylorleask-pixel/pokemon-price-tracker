@@ -418,6 +418,13 @@ def build_lang(lang):
         x["name"] = NAME_FIX.get(lang, {}).get(x["id"], x["name"])
     add_extra_sets(lang, sets)
     add_manual(lang, sets)
+    # the database lists some sets twice (CSV1C twice; empty lowercase "csm1a" beside "CSM1aC")
+    best = {}
+    for x in sets:
+        if x["id"] not in best or x["cards_n"] > best[x["id"]]["cards_n"]:
+            best[x["id"]] = x
+    have = {i.lower() for i in best}
+    sets[:] = [x for i, x in best.items() if x["cards_n"] or (i.lower() + "c") not in have]
     apply_pictures(lang, sets)
     if lang in ("ko", "zh-tw", "zh-cn"):
         borrow_rarity(lang, sets)

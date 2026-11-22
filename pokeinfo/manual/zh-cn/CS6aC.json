@@ -1,0 +1,1026 @@
+{
+ "id": "CS6aC",
+ "name": "碧海暗影 啸",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-09-20",
+ "official": 131,
+ "abbr": "CS6aC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/131",
+   "name": "Beedrill V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "002/131",
+   "name": "Oddish",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "003/131",
+   "name": "Gloom",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "004/131",
+   "name": "Bellossom",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "005/131",
+   "name": "Venonat",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "006/131",
+   "name": "Venomoth",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "007/131",
+   "name": "Tangela",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "008/131",
+   "name": "Tangrowth",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "009/131",
+   "name": "Scyther",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "010/131",
+   "name": "Spinarak",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "011/131",
+   "name": "Ariados",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "012/131",
+   "name": "Sunkern",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "013/131",
+   "name": "Sunflora",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "014/131",
+   "name": "Yanma",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "015/131",
+   "name": "Yanmega",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "016/131",
+   "name": "Tropius",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "017/131",
+   "name": "Petilil",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "018/131",
+   "name": "Hisuian Lilligant",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "019/131",
+   "name": "Hisuian Lilligant V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "020/131",
+   "name": "Hisuian Lilligant VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "021/131",
+   "name": "Foongus",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "022/131",
+   "name": "Amoonguss",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "023/131",
+   "name": "Durant",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "024/131",
+   "name": "Virizion",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "025/131",
+   "name": "Phantump",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "026/131",
+   "name": "Trevenant",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "027/131",
+   "name": "Radiant Tsareena",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "028/131",
+   "name": "Zarude",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "029/131",
+   "name": "Vulpix",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "030/131",
+   "name": "Ninetales",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "031/131",
+   "name": "Growlithe",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "032/131",
+   "name": "Arcanine",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "033/131",
+   "name": "Ponyta",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "034/131",
+   "name": "Rapidash",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "035/131",
+   "name": "Magmar",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "036/131",
+   "name": "Magmortar",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "037/131",
+   "name": "Entei V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "038/131",
+   "name": "Victini",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "039/131",
+   "name": "Simisear V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "040/131",
+   "name": "Simisear VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "041/131",
+   "name": "Larvesta",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "042/131",
+   "name": "Volcarona",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "043/131",
+   "name": "Reshiram V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "044/131",
+   "name": "Fennekin",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "045/131",
+   "name": "Braixen",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "046/131",
+   "name": "Delphox",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "047/131",
+   "name": "Fletchinder",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "048/131",
+   "name": "Talonflame",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "049/131",
+   "name": "Volcanion",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "050/131",
+   "name": "Litten",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "051/131",
+   "name": "Torracat",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "052/131",
+   "name": "Incineroar",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "053/131",
+   "name": "Salandit",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "054/131",
+   "name": "Salazzle",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "055/131",
+   "name": "Electabuzz",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "056/131",
+   "name": "Electivire",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "057/131",
+   "name": "Zapdos",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "058/131",
+   "name": "Chinchou",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "059/131",
+   "name": "Lanturn",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "060/131",
+   "name": "Raikou V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "061/131",
+   "name": "Shinx",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "062/131",
+   "name": "Luxio",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "063/131",
+   "name": "Luxray",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "064/131",
+   "name": "Magnezone V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "065/131",
+   "name": "Magnezone VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "066/131",
+   "name": "Emolga",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "067/131",
+   "name": "Tynamo",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "068/131",
+   "name": "Eelektrik",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "069/131",
+   "name": "Eelektross",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "070/131",
+   "name": "Stunfisk",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "071/131",
+   "name": "Helioptile",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "072/131",
+   "name": "Heliolisk",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "073/131",
+   "name": "Zeraora",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "074/131",
+   "name": "Regieleki V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "075/131",
+   "name": "Regieleki VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "076/131",
+   "name": "Galarian Meowth",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "077/131",
+   "name": "Galarian Perrserker",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "078/131",
+   "name": "Galarian Perrserker V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "079/131",
+   "name": "Scizor",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "080/131",
+   "name": "Aron",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "081/131",
+   "name": "Lairon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "082/131",
+   "name": "Aggron",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "083/131",
+   "name": "Beldum",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "084/131",
+   "name": "Metang",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "085/131",
+   "name": "Metagross",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "086/131",
+   "name": "Radiant Jirachi",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "087/131",
+   "name": "Bronzor",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "088/131",
+   "name": "Bronzong",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "089/131",
+   "name": "Ferroseed",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "090/131",
+   "name": "Ferrothorn",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "091/131",
+   "name": "Galarian Stunfisk",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "092/131",
+   "name": "Pawniard",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "093/131",
+   "name": "Bisharp",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "094/131",
+   "name": "Cobalion",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "095/131",
+   "name": "Magearna V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "096/131",
+   "name": "Zacian V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "097/131",
+   "name": "Zacian VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "098/131",
+   "name": "Zamazenta V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "099/131",
+   "name": "Zamazenta VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "100/131",
+   "name": "Tauros",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "101/131",
+   "name": "Miltank",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "102/131",
+   "name": "Lugia V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "103/131",
+   "name": "Lugia VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "104/131",
+   "name": "Ho-Oh V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "105/131",
+   "name": "Swablu",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "106/131",
+   "name": "Altaria",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "107/131",
+   "name": "Buneary",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "108/131",
+   "name": "Lopunny",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "109/131",
+   "name": "Glameow",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "110/131",
+   "name": "Purugly",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "111/131",
+   "name": "Shaymin",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "112/131",
+   "name": "Archen",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "113/131",
+   "name": "Archeops",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "114/131",
+   "name": "Rufflet",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "115/131",
+   "name": "Hisuian Braviary",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "116/131",
+   "name": "Fletchling",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "117/131",
+   "name": "Yungoos",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "118/131",
+   "name": "Gumshoos",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "119/131",
+   "name": "Oranguru",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "120/131",
+   "name": "Capturing Aroma",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "121/131",
+   "name": "Quad Stone",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "122/131",
+   "name": "Unidentified Fossil",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "123/131",
+   "name": "Sky Seal Stone",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "124/131",
+   "name": "Volo",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "125/131",
+   "name": "Worker",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "126/131",
+   "name": "Serena",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "127/131",
+   "name": "Thorton",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "128/131",
+   "name": "Wallace",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "129/131",
+   "name": "Miss Fortune Sisters",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "130/131",
+   "name": "Primordial Altar",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "131/131",
+   "name": "Gift Energy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "132/131",
+   "name": "Magmortar",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "133/131",
+   "name": "Electivire",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "134/131",
+   "name": "Miltank",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "135/131",
+   "name": "Beedrill V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "136/131",
+   "name": "Beedrill V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "137/131",
+   "name": "Hisuian Lilligant V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "138/131",
+   "name": "Hisuian Lilligant V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "139/131",
+   "name": "Reshiram V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "140/131",
+   "name": "Magnezone V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "141/131",
+   "name": "Regieleki V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "142/131",
+   "name": "Magearna V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "143/131",
+   "name": "Galarian Perrserker V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "144/131",
+   "name": "Galarian Perrserker V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "145/131",
+   "name": "Lugia V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "146/131",
+   "name": "Lugia V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "147/131",
+   "name": "Ho-Oh V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "148/131",
+   "name": "Volo",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "149/131",
+   "name": "Volo",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "150/131",
+   "name": "Serena",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "151/131",
+   "name": "Thorton",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "152/131",
+   "name": "Wallace",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "153/131",
+   "name": "Miss Fortune Sisters",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "154/131",
+   "name": "Entei V",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "155/131",
+   "name": "Simisear VSTAR",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "156/131",
+   "name": "Raikou V",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "157/131",
+   "name": "Zamazenta V",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "158/131",
+   "name": "Hisuian Lilligant VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "159/131",
+   "name": "Magnezone VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "160/131",
+   "name": "Regieleki VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "161/131",
+   "name": "Lugia VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "162/131",
+   "name": "Volo",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "163/131",
+   "name": "Serena",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "164/131",
+   "name": "Thorton",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "165/131",
+   "name": "Wallace",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "166/131",
+   "name": "Miss Fortune Sisters",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "167/131",
+   "name": "Lugia VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "168/131",
+   "name": "Grass Energy",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "169/131",
+   "name": "Metal Energy",
+   "r": "UR",
+   "v": "h"
+  }
+ ]
+}

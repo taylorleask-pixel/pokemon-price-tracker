@@ -1,0 +1,1044 @@
+{
+ "id": "CS6bC",
+ "name": "碧海暗影 逐",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-09-20",
+ "official": 131,
+ "abbr": "CS6bC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/131",
+   "name": "Seel",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "002/131",
+   "name": "Dewgong",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "003/131",
+   "name": "Horsea",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "004/131",
+   "name": "Seadra",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "005/131",
+   "name": "Kingdra",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "006/131",
+   "name": "Lapras",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "007/131",
+   "name": "Omastar V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "008/131",
+   "name": "Articuno",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "009/131",
+   "name": "Wailmer",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "010/131",
+   "name": "Wailord",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "011/131",
+   "name": "Snorunt",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "012/131",
+   "name": "Glalie",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "013/131",
+   "name": "Froslass",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "014/131",
+   "name": "Relicanth",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "015/131",
+   "name": "Luvdisc",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "016/131",
+   "name": "Finneon",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "017/131",
+   "name": "Lumineon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "018/131",
+   "name": "Phione",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "019/131",
+   "name": "Hisuian Basculin",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "020/131",
+   "name": "Hisuian Basculegion",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "021/131",
+   "name": "Kyurem V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "022/131",
+   "name": "Kyurem VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "023/131",
+   "name": "Keldeo",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "024/131",
+   "name": "Dewpider",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "025/131",
+   "name": "Araquanid",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "026/131",
+   "name": "Cramorant",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "027/131",
+   "name": "Glastrier",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "028/131",
+   "name": "Radiant Alakazam",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "029/131",
+   "name": "Drowzee",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "030/131",
+   "name": "Hypno",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "031/131",
+   "name": "Exeggcute",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "032/131",
+   "name": "Exeggutor",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "033/131",
+   "name": "Mewtwo",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "034/131",
+   "name": "Girafarig",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "035/131",
+   "name": "Mawile",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "036/131",
+   "name": "Meditite",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "037/131",
+   "name": "Medicham",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "038/131",
+   "name": "Shuppet",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "039/131",
+   "name": "Banette",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "040/131",
+   "name": "Chimecho",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "041/131",
+   "name": "Whimsicott V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "042/131",
+   "name": "Whimsicott VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "043/131",
+   "name": "Sigilyph",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "044/131",
+   "name": "Solosis",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "045/131",
+   "name": "Duosion",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "046/131",
+   "name": "Reuniclus",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "047/131",
+   "name": "Elgyem",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "048/131",
+   "name": "Beheeyem",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "049/131",
+   "name": "Swirlix",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "050/131",
+   "name": "Slurpuff",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "051/131",
+   "name": "Diancie",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "052/131",
+   "name": "Comfey",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "053/131",
+   "name": "Mimikyu",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "054/131",
+   "name": "Tapu Lele",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "055/131",
+   "name": "Indeedee",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "056/131",
+   "name": "Dreepy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "057/131",
+   "name": "Drakloak",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "058/131",
+   "name": "Dragapult",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "059/131",
+   "name": "Spectrier",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "060/131",
+   "name": "Hisuian Arcanine V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "061/131",
+   "name": "Aerodactyl V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "062/131",
+   "name": "Aerodactyl VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "063/131",
+   "name": "Phanpy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "064/131",
+   "name": "Donphan",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "065/131",
+   "name": "Meditite",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "066/131",
+   "name": "Medicham",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "067/131",
+   "name": "Baltoy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "068/131",
+   "name": "Claydol",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "069/131",
+   "name": "Anorith",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "070/131",
+   "name": "Armaldo",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "071/131",
+   "name": "Relicanth",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "072/131",
+   "name": "Golett",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "073/131",
+   "name": "Golurk",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "074/131",
+   "name": "Terrakion",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "075/131",
+   "name": "Pancham",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "076/131",
+   "name": "Binacle",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "077/131",
+   "name": "Barbaracle",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "078/131",
+   "name": "Hawlucha",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "079/131",
+   "name": "Rockruff",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "080/131",
+   "name": "Lycanroc",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "081/131",
+   "name": "Sandygast",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "082/131",
+   "name": "Palossand",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "083/131",
+   "name": "Stonjourner",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "084/131",
+   "name": "Stonjourner",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "085/131",
+   "name": "Hisuian Qwilfish",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "086/131",
+   "name": "Hisuian Overqwil",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "087/131",
+   "name": "Absol",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "088/131",
+   "name": "Skuntank V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "089/131",
+   "name": "Drapion V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "090/131",
+   "name": "Drapion VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "091/131",
+   "name": "Purrloin",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "092/131",
+   "name": "Liepard",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "093/131",
+   "name": "Sandile",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "094/131",
+   "name": "Krokorok",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "095/131",
+   "name": "Krookodile",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "096/131",
+   "name": "Pangoro",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "097/131",
+   "name": "Skrelp",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "098/131",
+   "name": "Dragalge",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "099/131",
+   "name": "Hoopa",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "100/131",
+   "name": "Mareanie",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "101/131",
+   "name": "Toxapex",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "102/131",
+   "name": "Nickit",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "103/131",
+   "name": "Thievul",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "104/131",
+   "name": "Hisuian Sneasler V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "105/131",
+   "name": "Dragonite V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "106/131",
+   "name": "Dragonite VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "107/131",
+   "name": "Giratina V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "108/131",
+   "name": "Giratina VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "109/131",
+   "name": "Noibat",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "110/131",
+   "name": "Noivern",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "111/131",
+   "name": "Radiant Eternatus",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "112/131",
+   "name": "Pidgeot V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "113/131",
+   "name": "Snorlax",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "114/131",
+   "name": "Spinda",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "115/131",
+   "name": "Regigigas V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "116/131",
+   "name": "Regigigas VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "117/131",
+   "name": "Minccino",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "118/131",
+   "name": "Cinccino",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "119/131",
+   "name": "Bouffalant",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "120/131",
+   "name": "Komala",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "121/131",
+   "name": "Unidentified Fossil",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "122/131",
+   "name": "Mirage Gate",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "123/131",
+   "name": "Lost Vacuum",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "124/131",
+   "name": "Earthen Seal Stone",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "125/131",
+   "name": "Colress's Experiment",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "126/131",
+   "name": "Lady",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "127/131",
+   "name": "Brandon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "128/131",
+   "name": "Candice",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "129/131",
+   "name": "Fantina",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "130/131",
+   "name": "Lost City",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "131/131",
+   "name": "Regenerative Energy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "132/131",
+   "name": "Lapras",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "133/131",
+   "name": "Diancie",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "134/131",
+   "name": "Comfey",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "135/131",
+   "name": "Absol",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "136/131",
+   "name": "Thievul",
+   "r": "AR",
+   "v": "h"
+  },
+  {
+   "n": "137/131",
+   "name": "Omastar V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "138/131",
+   "name": "Kyurem V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "139/131",
+   "name": "Whimsicott V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "140/131",
+   "name": "Hisuian Arcanine V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "141/131",
+   "name": "Aerodactyl V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "142/131",
+   "name": "Aerodactyl V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "143/131",
+   "name": "Skuntank V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "144/131",
+   "name": "Skuntank V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "145/131",
+   "name": "Drapion V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "146/131",
+   "name": "Hisuian Sneasler V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "147/131",
+   "name": "Hisuian Sneasler V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "148/131",
+   "name": "Dragonite V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "149/131",
+   "name": "Giratina V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "150/131",
+   "name": "Giratina V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "151/131",
+   "name": "Pidgeot V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "152/131",
+   "name": "Colress's Experiment",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "153/131",
+   "name": "Brandon",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "154/131",
+   "name": "Candice",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "155/131",
+   "name": "Fantina",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "156/131",
+   "name": "Drapion V",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "157/131",
+   "name": "Regigigas VSTAR",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "158/131",
+   "name": "Colress's Experiment",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "159/131",
+   "name": "Kyurem VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "160/131",
+   "name": "Whimsicott VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "161/131",
+   "name": "Aerodactyl VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "162/131",
+   "name": "Drapion VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "163/131",
+   "name": "Dragonite VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "164/131",
+   "name": "Giratina VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "165/131",
+   "name": "Colress's Experiment",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "166/131",
+   "name": "Brandon",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "167/131",
+   "name": "Candice",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "168/131",
+   "name": "Fantina",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "169/131",
+   "name": "Giratina VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "170/131",
+   "name": "Lost Vacuum",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "171/131",
+   "name": "Water Energy",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "172/131",
+   "name": "Fighting Energy",
+   "r": "UR",
+   "v": "h"
+  }
+ ]
+}

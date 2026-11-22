@@ -1,0 +1,712 @@
+{
+ "id": "CBB2C",
+ "name": "宝石包Vol.2",
+ "serie": "朱&紫",
+ "serie_id": "SV",
+ "date": "2025-05-16",
+ "official": null,
+ "abbr": "CBB2C",
+ "note": "Card list from Taylor. Card names are in English. Numbers are Pokémon slot + version (0101 = slot 1, version 1).",
+ "cards": [
+  {
+   "n": "0101",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0102",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0103",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0104",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0105",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0106",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0107",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0108",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0109",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0110",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0111",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0112",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0113",
+   "name": "Eevee V",
+   "v": "h"
+  },
+  {
+   "n": "0114",
+   "name": "Eevee VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0115",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0201",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0202",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0203",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0204",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0205",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0206",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0207",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0208",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0209",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0210",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0211",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0212",
+   "name": "Vaporeon",
+   "v": "h"
+  },
+  {
+   "n": "0213",
+   "name": "Vaporeon V",
+   "v": "h"
+  },
+  {
+   "n": "0214",
+   "name": "Vaporeon VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0301",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0302",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0303",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0304",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0305",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0306",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0307",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0308",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0309",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0310",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0311",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0312",
+   "name": "Jolteon",
+   "v": "h"
+  },
+  {
+   "n": "0313",
+   "name": "Jolteon V",
+   "v": "h"
+  },
+  {
+   "n": "0314",
+   "name": "Jolteon VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0401",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0402",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0403",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0404",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0405",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0406",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0407",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0408",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0409",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0410",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0411",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0412",
+   "name": "Flareon",
+   "v": "h"
+  },
+  {
+   "n": "0413",
+   "name": "Flareon V",
+   "v": "h"
+  },
+  {
+   "n": "0414",
+   "name": "Flareon VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0501",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0502",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0503",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0504",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0505",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0506",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0507",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0508",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0509",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0510",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0511",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0512",
+   "name": "Espeon",
+   "v": "h"
+  },
+  {
+   "n": "0513",
+   "name": "Espeon V",
+   "v": "h"
+  },
+  {
+   "n": "0514",
+   "name": "Espeon VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0601",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0602",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0603",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0604",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0605",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0606",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0607",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0608",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0609",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0610",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0611",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0612",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0613",
+   "name": "Umbreon V",
+   "v": "h"
+  },
+  {
+   "n": "0614",
+   "name": "Umbreon VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0615",
+   "name": "Umbreon",
+   "v": "h"
+  },
+  {
+   "n": "0701",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0702",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0703",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0704",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0705",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0706",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0707",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0708",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0709",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0710",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0711",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0712",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0713",
+   "name": "Leafeon V",
+   "v": "h"
+  },
+  {
+   "n": "0714",
+   "name": "Leafeon VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0715",
+   "name": "Leafeon",
+   "v": "h"
+  },
+  {
+   "n": "0801",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0802",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0803",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0804",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0805",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0806",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0807",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0808",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0809",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0810",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0811",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0812",
+   "name": "Glaceon",
+   "v": "h"
+  },
+  {
+   "n": "0813",
+   "name": "Glaceon V",
+   "v": "h"
+  },
+  {
+   "n": "0814",
+   "name": "Glaceon VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0901",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0902",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0903",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0904",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0905",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0906",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0907",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0908",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0909",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0910",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0911",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0912",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "0913",
+   "name": "Sylveon V",
+   "v": "h"
+  },
+  {
+   "n": "0914",
+   "name": "Sylveon VMAX",
+   "v": "h"
+  },
+  {
+   "n": "0915",
+   "name": "Sylveon",
+   "v": "h"
+  },
+  {
+   "n": "1001",
+   "name": "Poké Ball",
+   "v": "h"
+  },
+  {
+   "n": "1002",
+   "name": "Level Ball",
+   "v": "h"
+  },
+  {
+   "n": "1003",
+   "name": "Quick Ball",
+   "v": "h"
+  },
+  {
+   "n": "1004",
+   "name": "Penny",
+   "v": "h"
+  },
+  {
+   "n": "1101",
+   "name": "Basic Lightning Energy",
+   "v": "h"
+  },
+  {
+   "n": "1102",
+   "name": "Basic Psychic Energy",
+   "v": "h"
+  },
+  {
+   "n": "1103",
+   "name": "Basic Darkness Energy",
+   "v": "h"
+  },
+  {
+   "n": "1104",
+   "name": "Basic Lightning Energy",
+   "v": "h"
+  },
+  {
+   "n": "1105",
+   "name": "Basic Psychic Energy",
+   "v": "h"
+  },
+  {
+   "n": "1106",
+   "name": "Basic Darkness Energy",
+   "v": "h"
+  }
+ ]
+}

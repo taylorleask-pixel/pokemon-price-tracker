@@ -1,0 +1,1072 @@
+{
+ "id": "CSM1cC",
+ "name": "横空出世 泽",
+ "serie": "太阳&月亮",
+ "serie_id": "SM",
+ "date": "2020-10-28",
+ "official": 151,
+ "abbr": "CSM1cC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/151",
+   "name": "Alolan Sandshrew",
+   "v": "n"
+  },
+  {
+   "n": "002/151",
+   "name": "Alolan Sandslash",
+   "v": "n"
+  },
+  {
+   "n": "003/151",
+   "name": "Alolan Vulpix",
+   "v": "n"
+  },
+  {
+   "n": "004/151",
+   "name": "Alolan Ninetales",
+   "v": "n"
+  },
+  {
+   "n": "005/151",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "006/151",
+   "name": "Poliwag",
+   "v": "n"
+  },
+  {
+   "n": "007/151",
+   "name": "Poliwhirl",
+   "v": "n"
+  },
+  {
+   "n": "008/151",
+   "name": "Poliwrath",
+   "v": "n"
+  },
+  {
+   "n": "009/151",
+   "name": "Politoed",
+   "v": "n"
+  },
+  {
+   "n": "010/151",
+   "name": "Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "011/151",
+   "name": "Slowking",
+   "v": "n"
+  },
+  {
+   "n": "012/151",
+   "name": "Magikarp",
+   "v": "n"
+  },
+  {
+   "n": "013/151",
+   "name": "Gyarados",
+   "v": "n"
+  },
+  {
+   "n": "014/151",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "015/151",
+   "name": "Lapras-GX",
+   "v": "n"
+  },
+  {
+   "n": "016/151",
+   "name": "Articuno-GX",
+   "v": "n"
+  },
+  {
+   "n": "017/151",
+   "name": "Wooper",
+   "v": "n"
+  },
+  {
+   "n": "018/151",
+   "name": "Quagsire",
+   "v": "n"
+  },
+  {
+   "n": "019/151",
+   "name": "Corsola",
+   "v": "n"
+  },
+  {
+   "n": "020/151",
+   "name": "Suicune",
+   "v": "n"
+  },
+  {
+   "n": "021/151",
+   "name": "Suicune-GX",
+   "v": "n"
+  },
+  {
+   "n": "022/151",
+   "name": "Mudkip",
+   "v": "n"
+  },
+  {
+   "n": "023/151",
+   "name": "Marshtomp",
+   "v": "n"
+  },
+  {
+   "n": "024/151",
+   "name": "Swampert",
+   "v": "n"
+  },
+  {
+   "n": "025/151",
+   "name": "Shellos",
+   "v": "n"
+  },
+  {
+   "n": "026/151",
+   "name": "Glaceon-GX",
+   "v": "n"
+  },
+  {
+   "n": "027/151",
+   "name": "Wash Rotom",
+   "v": "n"
+  },
+  {
+   "n": "028/151",
+   "name": "Frost Rotom",
+   "v": "n"
+  },
+  {
+   "n": "029/151",
+   "name": "Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "030/151",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "031/151",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "032/151",
+   "name": "Greninja-GX",
+   "v": "n"
+  },
+  {
+   "n": "033/151",
+   "name": "Volcanion ◇",
+   "v": "n"
+  },
+  {
+   "n": "034/151",
+   "name": "Wishiwashi",
+   "v": "n"
+  },
+  {
+   "n": "035/151",
+   "name": "Wishiwashi-GX",
+   "v": "n"
+  },
+  {
+   "n": "036/151",
+   "name": "Tapu Fini-GX",
+   "v": "n"
+  },
+  {
+   "n": "037/151",
+   "name": "Sudowoodo",
+   "v": "n"
+  },
+  {
+   "n": "038/151",
+   "name": "Phanpy",
+   "v": "n"
+  },
+  {
+   "n": "039/151",
+   "name": "Donphan",
+   "v": "n"
+  },
+  {
+   "n": "040/151",
+   "name": "Baltoy",
+   "v": "n"
+  },
+  {
+   "n": "041/151",
+   "name": "Claydol",
+   "v": "n"
+  },
+  {
+   "n": "042/151",
+   "name": "Cranidos",
+   "v": "n"
+  },
+  {
+   "n": "043/151",
+   "name": "Rampardos",
+   "v": "n"
+  },
+  {
+   "n": "044/151",
+   "name": "Gastrodon",
+   "v": "n"
+  },
+  {
+   "n": "045/151",
+   "name": "Gible",
+   "v": "n"
+  },
+  {
+   "n": "046/151",
+   "name": "Gabite",
+   "v": "n"
+  },
+  {
+   "n": "047/151",
+   "name": "Garchomp",
+   "v": "n"
+  },
+  {
+   "n": "048/151",
+   "name": "Riolu",
+   "v": "n"
+  },
+  {
+   "n": "049/151",
+   "name": "Lucario",
+   "v": "n"
+  },
+  {
+   "n": "050/151",
+   "name": "Lucario-GX",
+   "v": "n"
+  },
+  {
+   "n": "051/151",
+   "name": "Tyrunt",
+   "v": "n"
+  },
+  {
+   "n": "052/151",
+   "name": "Tyrantrum",
+   "v": "n"
+  },
+  {
+   "n": "053/151",
+   "name": "Zygarde",
+   "v": "n"
+  },
+  {
+   "n": "054/151",
+   "name": "Zygarde-GX",
+   "v": "n"
+  },
+  {
+   "n": "055/151",
+   "name": "Diancie ◇",
+   "v": "n"
+  },
+  {
+   "n": "056/151",
+   "name": "Crabrawler",
+   "v": "n"
+  },
+  {
+   "n": "057/151",
+   "name": "Crabominable",
+   "v": "n"
+  },
+  {
+   "n": "058/151",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "059/151",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "060/151",
+   "name": "Lycanroc-GX",
+   "v": "n"
+  },
+  {
+   "n": "061/151",
+   "name": "Passimian",
+   "v": "n"
+  },
+  {
+   "n": "062/151",
+   "name": "Minior",
+   "v": "n"
+  },
+  {
+   "n": "063/151",
+   "name": "Buzzwole",
+   "v": "n"
+  },
+  {
+   "n": "064/151",
+   "name": "Buzzwole-GX",
+   "v": "n"
+  },
+  {
+   "n": "065/151",
+   "name": "Marshadow-GX",
+   "v": "n"
+  },
+  {
+   "n": "066/151",
+   "name": "Clefairy",
+   "v": "n"
+  },
+  {
+   "n": "067/151",
+   "name": "Clefable",
+   "v": "n"
+  },
+  {
+   "n": "068/151",
+   "name": "Alolan Ninetales-GX",
+   "v": "n"
+  },
+  {
+   "n": "069/151",
+   "name": "Jigglypuff",
+   "v": "n"
+  },
+  {
+   "n": "070/151",
+   "name": "Wigglytuff",
+   "v": "n"
+  },
+  {
+   "n": "071/151",
+   "name": "Snubbull",
+   "v": "n"
+  },
+  {
+   "n": "072/151",
+   "name": "Granbull",
+   "v": "n"
+  },
+  {
+   "n": "073/151",
+   "name": "Ralts",
+   "v": "n"
+  },
+  {
+   "n": "074/151",
+   "name": "Kirlia",
+   "v": "n"
+  },
+  {
+   "n": "075/151",
+   "name": "Gardevoir",
+   "v": "n"
+  },
+  {
+   "n": "076/151",
+   "name": "Gardevoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "077/151",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "078/151",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "079/151",
+   "name": "Flabébé",
+   "v": "n"
+  },
+  {
+   "n": "080/151",
+   "name": "Floette",
+   "v": "n"
+  },
+  {
+   "n": "081/151",
+   "name": "Florges",
+   "v": "n"
+  },
+  {
+   "n": "082/151",
+   "name": "Sylveon",
+   "v": "n"
+  },
+  {
+   "n": "083/151",
+   "name": "Sylveon-GX",
+   "v": "n"
+  },
+  {
+   "n": "084/151",
+   "name": "Xerneas-GX",
+   "v": "n"
+  },
+  {
+   "n": "085/151",
+   "name": "Xerneas ◇",
+   "v": "n"
+  },
+  {
+   "n": "086/151",
+   "name": "Diancie",
+   "v": "n"
+  },
+  {
+   "n": "087/151",
+   "name": "Cutiefly",
+   "v": "n"
+  },
+  {
+   "n": "088/151",
+   "name": "Ribombee",
+   "v": "n"
+  },
+  {
+   "n": "089/151",
+   "name": "Morelull",
+   "v": "n"
+  },
+  {
+   "n": "090/151",
+   "name": "Shiinotic",
+   "v": "n"
+  },
+  {
+   "n": "091/151",
+   "name": "Comfey",
+   "v": "n"
+  },
+  {
+   "n": "092/151",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "093/151",
+   "name": "Mimikyu-GX",
+   "v": "n"
+  },
+  {
+   "n": "094/151",
+   "name": "Tapu Lele",
+   "v": "n"
+  },
+  {
+   "n": "095/151",
+   "name": "Altaria",
+   "v": "n"
+  },
+  {
+   "n": "096/151",
+   "name": "Altaria-GX",
+   "v": "n"
+  },
+  {
+   "n": "097/151",
+   "name": "Latios ◇",
+   "v": "n"
+  },
+  {
+   "n": "098/151",
+   "name": "Druddigon",
+   "v": "n"
+  },
+  {
+   "n": "099/151",
+   "name": "White Kyurem-GX",
+   "v": "n"
+  },
+  {
+   "n": "100/151",
+   "name": "Tauros-GX",
+   "v": "n"
+  },
+  {
+   "n": "101/151",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "102/151",
+   "name": "Snorlax-GX",
+   "v": "n"
+  },
+  {
+   "n": "103/151",
+   "name": "Whismur",
+   "v": "n"
+  },
+  {
+   "n": "104/151",
+   "name": "Loudred",
+   "v": "n"
+  },
+  {
+   "n": "105/151",
+   "name": "Exploud",
+   "v": "n"
+  },
+  {
+   "n": "106/151",
+   "name": "Swablu",
+   "v": "n"
+  },
+  {
+   "n": "107/151",
+   "name": "Bunnelby",
+   "v": "n"
+  },
+  {
+   "n": "108/151",
+   "name": "Diggersby",
+   "v": "n"
+  },
+  {
+   "n": "109/151",
+   "name": "Pikipek",
+   "v": "n"
+  },
+  {
+   "n": "110/151",
+   "name": "Trumbeak",
+   "v": "n"
+  },
+  {
+   "n": "111/151",
+   "name": "Toucannon",
+   "v": "n"
+  },
+  {
+   "n": "112/151",
+   "name": "Yungoos",
+   "v": "n"
+  },
+  {
+   "n": "113/151",
+   "name": "Gumshoos",
+   "v": "n"
+  },
+  {
+   "n": "114/151",
+   "name": "Stufful",
+   "v": "n"
+  },
+  {
+   "n": "115/151",
+   "name": "Bewear-GX",
+   "v": "n"
+  },
+  {
+   "n": "116/151",
+   "name": "Type: Null",
+   "v": "n"
+  },
+  {
+   "n": "117/151",
+   "name": "Silvally-GX",
+   "v": "n"
+  },
+  {
+   "n": "118/151",
+   "name": "Aqua Patch",
+   "v": "n"
+  },
+  {
+   "n": "119/151",
+   "name": "Escape Rope",
+   "v": "n"
+  },
+  {
+   "n": "120/151",
+   "name": "Energy Loto",
+   "v": "n"
+  },
+  {
+   "n": "121/151",
+   "name": "Energy Recycler",
+   "v": "n"
+  },
+  {
+   "n": "122/151",
+   "name": "Counter Catcher",
+   "v": "n"
+  },
+  {
+   "n": "123/151",
+   "name": "Last Chance Potion",
+   "v": "n"
+  },
+  {
+   "n": "124/151",
+   "name": "Acro Bike",
+   "v": "n"
+  },
+  {
+   "n": "125/151",
+   "name": "Unidentified Fossil",
+   "v": "n"
+  },
+  {
+   "n": "126/151",
+   "name": "Ultra Ball",
+   "v": "n"
+  },
+  {
+   "n": "127/151",
+   "name": "PokéNav",
+   "v": "n"
+  },
+  {
+   "n": "128/151",
+   "name": "Water Memory",
+   "v": "n"
+  },
+  {
+   "n": "129/151",
+   "name": "Choice Band",
+   "v": "n"
+  },
+  {
+   "n": "130/151",
+   "name": "Psychic Memory",
+   "v": "n"
+  },
+  {
+   "n": "131/151",
+   "name": "Fighting Memory",
+   "v": "n"
+  },
+  {
+   "n": "132/151",
+   "name": "Fire Memory",
+   "v": "n"
+  },
+  {
+   "n": "133/151",
+   "name": "Fairy Charm Grass",
+   "v": "n"
+  },
+  {
+   "n": "134/151",
+   "name": "Fairy Charm Psychic",
+   "v": "n"
+  },
+  {
+   "n": "135/151",
+   "name": "Fairy Charm Dragon",
+   "v": "n"
+  },
+  {
+   "n": "136/151",
+   "name": "Cyrus ◇",
+   "v": "n"
+  },
+  {
+   "n": "137/151",
+   "name": "Acerola",
+   "v": "n"
+  },
+  {
+   "n": "138/151",
+   "name": "Sightseer",
+   "v": "n"
+  },
+  {
+   "n": "139/151",
+   "name": "Professor Kukui",
+   "v": "n"
+  },
+  {
+   "n": "140/151",
+   "name": "Gladion",
+   "v": "n"
+  },
+  {
+   "n": "141/151",
+   "name": "Cynthia",
+   "v": "n"
+  },
+  {
+   "n": "142/151",
+   "name": "Lana",
+   "v": "n"
+  },
+  {
+   "n": "143/151",
+   "name": "Pokémon Fan Club",
+   "v": "n"
+  },
+  {
+   "n": "144/151",
+   "name": "Mina",
+   "v": "n"
+  },
+  {
+   "n": "145/151",
+   "name": "Bonnie",
+   "v": "n"
+  },
+  {
+   "n": "146/151",
+   "name": "Brooklet Hill",
+   "v": "n"
+  },
+  {
+   "n": "147/151",
+   "name": "Sky Pillar",
+   "v": "n"
+  },
+  {
+   "n": "148/151",
+   "name": "Po Town",
+   "v": "n"
+  },
+  {
+   "n": "149/151",
+   "name": "Double Colorless Energy",
+   "v": "n"
+  },
+  {
+   "n": "150/151",
+   "name": "Super Boost Energy ◇",
+   "v": "n"
+  },
+  {
+   "n": "151/151",
+   "name": "Memory Energy",
+   "v": "n"
+  },
+  {
+   "n": "152/151",
+   "name": "Alolan Vulpix",
+   "v": "h"
+  },
+  {
+   "n": "153/151",
+   "name": "Wooper",
+   "v": "h"
+  },
+  {
+   "n": "154/151",
+   "name": "Quagsire",
+   "v": "h"
+  },
+  {
+   "n": "155/151",
+   "name": "Froakie",
+   "v": "h"
+  },
+  {
+   "n": "156/151",
+   "name": "Frogadier",
+   "v": "h"
+  },
+  {
+   "n": "157/151",
+   "name": "Sudowoodo",
+   "v": "h"
+  },
+  {
+   "n": "158/151",
+   "name": "Riolu",
+   "v": "h"
+  },
+  {
+   "n": "159/151",
+   "name": "Lucario",
+   "v": "h"
+  },
+  {
+   "n": "160/151",
+   "name": "Rockruff",
+   "v": "h"
+  },
+  {
+   "n": "161/151",
+   "name": "Buzzwole",
+   "v": "h"
+  },
+  {
+   "n": "162/151",
+   "name": "Ralts",
+   "v": "h"
+  },
+  {
+   "n": "163/151",
+   "name": "Kirlia",
+   "v": "h"
+  },
+  {
+   "n": "164/151",
+   "name": "Diancie",
+   "v": "h"
+  },
+  {
+   "n": "165/151",
+   "name": "Altaria",
+   "v": "h"
+  },
+  {
+   "n": "166/151",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "167/151",
+   "name": "Swablu",
+   "v": "h"
+  },
+  {
+   "n": "168/151",
+   "name": "Type: Null",
+   "v": "h"
+  },
+  {
+   "n": "169/151",
+   "name": "Alolan Ninetales-GX",
+   "v": "h"
+  },
+  {
+   "n": "170/151",
+   "name": "Articuno-GX",
+   "v": "h"
+  },
+  {
+   "n": "171/151",
+   "name": "Glaceon-GX",
+   "v": "h"
+  },
+  {
+   "n": "172/151",
+   "name": "Greninja-GX",
+   "v": "h"
+  },
+  {
+   "n": "173/151",
+   "name": "Tapu Fini-GX",
+   "v": "h"
+  },
+  {
+   "n": "174/151",
+   "name": "Lucario-GX",
+   "v": "h"
+  },
+  {
+   "n": "175/151",
+   "name": "Zygarde-GX",
+   "v": "h"
+  },
+  {
+   "n": "176/151",
+   "name": "Lycanroc-GX",
+   "v": "h"
+  },
+  {
+   "n": "177/151",
+   "name": "Buzzwole-GX",
+   "v": "h"
+  },
+  {
+   "n": "178/151",
+   "name": "Gardevoir-GX",
+   "v": "h"
+  },
+  {
+   "n": "179/151",
+   "name": "Sylveon-GX",
+   "v": "h"
+  },
+  {
+   "n": "180/151",
+   "name": "Altaria-GX",
+   "v": "h"
+  },
+  {
+   "n": "181/151",
+   "name": "Silvally-GX",
+   "v": "h"
+  },
+  {
+   "n": "182/151",
+   "name": "Acerola",
+   "v": "h"
+  },
+  {
+   "n": "183/151",
+   "name": "Sightseer",
+   "v": "h"
+  },
+  {
+   "n": "184/151",
+   "name": "Professor Kukui",
+   "v": "h"
+  },
+  {
+   "n": "185/151",
+   "name": "Gladion",
+   "v": "h"
+  },
+  {
+   "n": "186/151",
+   "name": "Cynthia",
+   "v": "h"
+  },
+  {
+   "n": "187/151",
+   "name": "Lana",
+   "v": "h"
+  },
+  {
+   "n": "188/151",
+   "name": "Pokémon Fan Club",
+   "v": "h"
+  },
+  {
+   "n": "189/151",
+   "name": "Mina",
+   "v": "h"
+  },
+  {
+   "n": "190/151",
+   "name": "Bonnie",
+   "v": "h"
+  },
+  {
+   "n": "191/151",
+   "name": "Alolan Ninetales-GX",
+   "v": "h"
+  },
+  {
+   "n": "192/151",
+   "name": "Articuno-GX",
+   "v": "h"
+  },
+  {
+   "n": "193/151",
+   "name": "Glaceon-GX",
+   "v": "h"
+  },
+  {
+   "n": "194/151",
+   "name": "Greninja-GX",
+   "v": "h"
+  },
+  {
+   "n": "195/151",
+   "name": "Lucario-GX",
+   "v": "h"
+  },
+  {
+   "n": "196/151",
+   "name": "Zygarde-GX",
+   "v": "h"
+  },
+  {
+   "n": "197/151",
+   "name": "Lycanroc-GX",
+   "v": "h"
+  },
+  {
+   "n": "198/151",
+   "name": "Buzzwole-GX",
+   "v": "h"
+  },
+  {
+   "n": "199/151",
+   "name": "Gardevoir-GX",
+   "v": "h"
+  },
+  {
+   "n": "200/151",
+   "name": "Sylveon-GX",
+   "v": "h"
+  },
+  {
+   "n": "201/151",
+   "name": "Altaria-GX",
+   "v": "h"
+  },
+  {
+   "n": "202/151",
+   "name": "Silvally-GX",
+   "v": "h"
+  },
+  {
+   "n": "203/151",
+   "name": "Tapu Fini-GX",
+   "v": "h"
+  },
+  {
+   "n": "204/151",
+   "name": "Aqua Patch",
+   "v": "h"
+  },
+  {
+   "n": "205/151",
+   "name": "Escape Rope",
+   "v": "h"
+  },
+  {
+   "n": "206/151",
+   "name": "Energy Recycler",
+   "v": "h"
+  },
+  {
+   "n": "207/151",
+   "name": "Counter Catcher",
+   "v": "h"
+  },
+  {
+   "n": "208/151",
+   "name": "Acro Bike",
+   "v": "h"
+  },
+  {
+   "n": "209/151",
+   "name": "Ultra Ball",
+   "v": "h"
+  },
+  {
+   "n": "210/151",
+   "name": "Choice Band",
+   "v": "h"
+  },
+  {
+   "n": "211/151",
+   "name": "Brooklet Hill",
+   "v": "h"
+  },
+  {
+   "n": "212/151",
+   "name": "Double Colorless Energy",
+   "v": "h"
+  }
+ ]
+}

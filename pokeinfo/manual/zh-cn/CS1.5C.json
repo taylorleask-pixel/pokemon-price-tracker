@@ -1,0 +1,492 @@
+{
+ "id": "CS1.5C",
+ "name": "极巨攻防",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2023-06-28",
+ "official": 55,
+ "abbr": "CS1.5C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/055",
+   "name": "Dhelmise V",
+   "v": "n"
+  },
+  {
+   "n": "002/055",
+   "name": "Dhelmise VMAX",
+   "v": "n"
+  },
+  {
+   "n": "003/055",
+   "name": "Blipbug",
+   "v": "nr"
+  },
+  {
+   "n": "004/055",
+   "name": "Dottler",
+   "v": "nr"
+  },
+  {
+   "n": "005/055",
+   "name": "Orbeetle",
+   "v": "nr"
+  },
+  {
+   "n": "006/055",
+   "name": "Eldegoss V",
+   "v": "n"
+  },
+  {
+   "n": "007/055",
+   "name": "Applin",
+   "v": "nr"
+  },
+  {
+   "n": "008/055",
+   "name": "Flapple",
+   "v": "nr"
+  },
+  {
+   "n": "009/055",
+   "name": "Appletun",
+   "v": "nr"
+  },
+  {
+   "n": "010/055",
+   "name": "Galarian Mr. Mime",
+   "v": "nr"
+  },
+  {
+   "n": "011/055",
+   "name": "Galarian Mr. Rime",
+   "v": "nr"
+  },
+  {
+   "n": "012/055",
+   "name": "Feebas",
+   "v": "nr"
+  },
+  {
+   "n": "013/055",
+   "name": "Milotic",
+   "v": "nr"
+  },
+  {
+   "n": "014/055",
+   "name": "Milotic V",
+   "v": "n"
+  },
+  {
+   "n": "015/055",
+   "name": "Chinchou",
+   "v": "nr"
+  },
+  {
+   "n": "016/055",
+   "name": "Lanturn",
+   "v": "nr"
+  },
+  {
+   "n": "017/055",
+   "name": "Vikavolt V",
+   "v": "n"
+  },
+  {
+   "n": "018/055",
+   "name": "Toxel",
+   "v": "nr"
+  },
+  {
+   "n": "019/055",
+   "name": "Toxtricity",
+   "v": "nr"
+  },
+  {
+   "n": "020/055",
+   "name": "Clefairy",
+   "v": "nr"
+  },
+  {
+   "n": "021/055",
+   "name": "Clefable",
+   "v": "nr"
+  },
+  {
+   "n": "022/055",
+   "name": "Dedenne",
+   "v": "nr"
+  },
+  {
+   "n": "023/055",
+   "name": "Sinistea",
+   "v": "nr"
+  },
+  {
+   "n": "024/055",
+   "name": "Polteageist",
+   "v": "nr"
+  },
+  {
+   "n": "025/055",
+   "name": "Dragapult V",
+   "v": "n"
+  },
+  {
+   "n": "026/055",
+   "name": "Dragapult VMAX",
+   "v": "n"
+  },
+  {
+   "n": "027/055",
+   "name": "Koffing",
+   "v": "nr"
+  },
+  {
+   "n": "028/055",
+   "name": "Galarian Weezing",
+   "v": "nr"
+  },
+  {
+   "n": "029/055",
+   "name": "Galarian Meowth",
+   "v": "nr"
+  },
+  {
+   "n": "030/055",
+   "name": "Galarian Perrserker",
+   "v": "nr"
+  },
+  {
+   "n": "031/055",
+   "name": "Galarian Stunfisk V",
+   "v": "n"
+  },
+  {
+   "n": "032/055",
+   "name": "Hoothoot",
+   "v": "nr"
+  },
+  {
+   "n": "033/055",
+   "name": "Noctowl",
+   "v": "nr"
+  },
+  {
+   "n": "034/055",
+   "name": "Bunnelby",
+   "v": "nr"
+  },
+  {
+   "n": "035/055",
+   "name": "Diggersby",
+   "v": "nr"
+  },
+  {
+   "n": "036/055",
+   "name": "Oranguru",
+   "v": "nr"
+  },
+  {
+   "n": "037/055",
+   "name": "Rookidee",
+   "v": "nr"
+  },
+  {
+   "n": "038/055",
+   "name": "Corvisquire",
+   "v": "nr"
+  },
+  {
+   "n": "039/055",
+   "name": "Corviknight",
+   "v": "nr"
+  },
+  {
+   "n": "040/055",
+   "name": "Cramorant V",
+   "v": "n"
+  },
+  {
+   "n": "041/055",
+   "name": "Cramorant VMAX",
+   "v": "n"
+  },
+  {
+   "n": "042/055",
+   "name": "Suspicious Food Tin",
+   "v": "nr"
+  },
+  {
+   "n": "043/055",
+   "name": "Scoop Up Net",
+   "v": "nr"
+  },
+  {
+   "n": "044/055",
+   "name": "Great Ball",
+   "v": "nr"
+  },
+  {
+   "n": "045/055",
+   "name": "Familiar Bell",
+   "v": "nr"
+  },
+  {
+   "n": "046/055",
+   "name": "Capacious Bucket",
+   "v": "nr"
+  },
+  {
+   "n": "047/055",
+   "name": "Tool Scrapper",
+   "v": "nr"
+  },
+  {
+   "n": "048/055",
+   "name": "Oleana",
+   "v": "nr"
+  },
+  {
+   "n": "049/055",
+   "name": "Kabu",
+   "v": "nr"
+  },
+  {
+   "n": "050/055",
+   "name": "Pokémon Breeder's Nurturing",
+   "v": "nr"
+  },
+  {
+   "n": "051/055",
+   "name": "Galar Mine",
+   "v": "nr"
+  },
+  {
+   "n": "052/055",
+   "name": "Heat Fire Energy",
+   "v": "nr"
+  },
+  {
+   "n": "053/055",
+   "name": "Speed Lightning Energy",
+   "v": "nr"
+  },
+  {
+   "n": "054/055",
+   "name": "Horror Psychic Energy",
+   "v": "nr"
+  },
+  {
+   "n": "055/055",
+   "name": "Capture Energy",
+   "v": "nr"
+  },
+  {
+   "n": "056/055",
+   "name": "Blipbug",
+   "v": "h"
+  },
+  {
+   "n": "057/055",
+   "name": "Dottler",
+   "v": "h"
+  },
+  {
+   "n": "058/055",
+   "name": "Orbeetle",
+   "v": "h"
+  },
+  {
+   "n": "059/055",
+   "name": "Applin",
+   "v": "h"
+  },
+  {
+   "n": "060/055",
+   "name": "Flapple",
+   "v": "h"
+  },
+  {
+   "n": "061/055",
+   "name": "Appletun",
+   "v": "h"
+  },
+  {
+   "n": "062/055",
+   "name": "Galarian Mr. Mime",
+   "v": "h"
+  },
+  {
+   "n": "063/055",
+   "name": "Galarian Mr. Rime",
+   "v": "h"
+  },
+  {
+   "n": "064/055",
+   "name": "Dedenne",
+   "v": "h"
+  },
+  {
+   "n": "065/055",
+   "name": "Sinistea",
+   "v": "h"
+  },
+  {
+   "n": "066/055",
+   "name": "Polteageist",
+   "v": "h"
+  },
+  {
+   "n": "067/055",
+   "name": "Koffing",
+   "v": "h"
+  },
+  {
+   "n": "068/055",
+   "name": "Galarian Weezing",
+   "v": "h"
+  },
+  {
+   "n": "069/055",
+   "name": "Galarian Meowth",
+   "v": "h"
+  },
+  {
+   "n": "070/055",
+   "name": "Galarian Perrserker",
+   "v": "h"
+  },
+  {
+   "n": "071/055",
+   "name": "Bunnelby",
+   "v": "h"
+  },
+  {
+   "n": "072/055",
+   "name": "Oranguru",
+   "v": "h"
+  },
+  {
+   "n": "073/055",
+   "name": "Dhelmise V",
+   "v": "h"
+  },
+  {
+   "n": "074/055",
+   "name": "Eldegoss V",
+   "v": "h"
+  },
+  {
+   "n": "075/055",
+   "name": "Milotic V",
+   "v": "h"
+  },
+  {
+   "n": "076/055",
+   "name": "Vikavolt V",
+   "v": "h"
+  },
+  {
+   "n": "077/055",
+   "name": "Dragapult V",
+   "v": "h"
+  },
+  {
+   "n": "078/055",
+   "name": "Galarian Stunfisk V",
+   "v": "h"
+  },
+  {
+   "n": "079/055",
+   "name": "Cramorant V",
+   "v": "h"
+  },
+  {
+   "n": "080/055",
+   "name": "Oleana",
+   "v": "h"
+  },
+  {
+   "n": "081/055",
+   "name": "Kabu",
+   "v": "h"
+  },
+  {
+   "n": "082/055",
+   "name": "Pokémon Breeder's Nurturing",
+   "v": "h"
+  },
+  {
+   "n": "083/055",
+   "name": "Eldegoss V",
+   "v": "h"
+  },
+  {
+   "n": "084/055",
+   "name": "Dragapult V",
+   "v": "h"
+  },
+  {
+   "n": "085/055",
+   "name": "Dragapult VMAX",
+   "v": "h"
+  },
+  {
+   "n": "086/055",
+   "name": "Cramorant V",
+   "v": "h"
+  },
+  {
+   "n": "087/055",
+   "name": "Dragapult VMAX",
+   "v": "h"
+  },
+  {
+   "n": "088/055",
+   "name": "Oleana",
+   "v": "h"
+  },
+  {
+   "n": "089/055",
+   "name": "Kabu",
+   "v": "h"
+  },
+  {
+   "n": "090/055",
+   "name": "Pokémon Breeder's Nurturing",
+   "v": "h"
+  },
+  {
+   "n": "091/055",
+   "name": "Galarian Perrserker",
+   "v": "h"
+  },
+  {
+   "n": "092/055",
+   "name": "Oranguru",
+   "v": "h"
+  },
+  {
+   "n": "093/055",
+   "name": "Suspicious Food Tin",
+   "v": "h"
+  },
+  {
+   "n": "094/055",
+   "name": "Scoop Up Net",
+   "v": "h"
+  },
+  {
+   "n": "095/055",
+   "name": "Tool Scrapper",
+   "v": "h"
+  },
+  {
+   "n": "096/055",
+   "name": "Capture Energy",
+   "v": "h"
+  }
+ ]
+}

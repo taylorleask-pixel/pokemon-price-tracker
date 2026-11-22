@@ -1,0 +1,727 @@
+{
+ "id": "CS2aC",
+ "name": "浓墨重彩 黎",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2023-08-18",
+ "official": 115,
+ "abbr": "CS2aC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/115",
+   "name": "Weedle",
+   "v": "nr"
+  },
+  {
+   "n": "002/115",
+   "name": "Kakuna",
+   "v": "nr"
+  },
+  {
+   "n": "003/115",
+   "name": "Beedrill",
+   "v": "nr"
+  },
+  {
+   "n": "004/115",
+   "name": "Paras",
+   "v": "nr"
+  },
+  {
+   "n": "005/115",
+   "name": "Parasect",
+   "v": "nr"
+  },
+  {
+   "n": "006/115",
+   "name": "Exeggcute",
+   "v": "nr"
+  },
+  {
+   "n": "007/115",
+   "name": "Exeggutor",
+   "v": "nr"
+  },
+  {
+   "n": "008/115",
+   "name": "Yanma",
+   "v": "nr"
+  },
+  {
+   "n": "009/115",
+   "name": "Yanmega",
+   "v": "nr"
+  },
+  {
+   "n": "010/115",
+   "name": "Pineco",
+   "v": "nr"
+  },
+  {
+   "n": "011/115",
+   "name": "Nincada",
+   "v": "nr"
+  },
+  {
+   "n": "012/115",
+   "name": "Ninjask",
+   "v": "nr"
+  },
+  {
+   "n": "013/115",
+   "name": "Carnivine",
+   "v": "nr"
+  },
+  {
+   "n": "014/115",
+   "name": "Shaymin",
+   "v": "nr"
+  },
+  {
+   "n": "015/115",
+   "name": "Pansage",
+   "v": "nr"
+  },
+  {
+   "n": "016/115",
+   "name": "Simisage",
+   "v": "nr"
+  },
+  {
+   "n": "017/115",
+   "name": "Genesect",
+   "v": "nr"
+  },
+  {
+   "n": "018/115",
+   "name": "Skiddo",
+   "v": "nr"
+  },
+  {
+   "n": "019/115",
+   "name": "Gogoat",
+   "v": "nr"
+  },
+  {
+   "n": "020/115",
+   "name": "Rowlet",
+   "v": "nr"
+  },
+  {
+   "n": "021/115",
+   "name": "Dartrix",
+   "v": "nr"
+  },
+  {
+   "n": "022/115",
+   "name": "Decidueye",
+   "v": "nr"
+  },
+  {
+   "n": "023/115",
+   "name": "Dhelmise",
+   "v": "nr"
+  },
+  {
+   "n": "024/115",
+   "name": "Orbeetle V",
+   "v": "n"
+  },
+  {
+   "n": "025/115",
+   "name": "Orbeetle VMAX",
+   "v": "n"
+  },
+  {
+   "n": "026/115",
+   "name": "Zarude V",
+   "v": "n"
+  },
+  {
+   "n": "027/115",
+   "name": "Charmander",
+   "v": "nr"
+  },
+  {
+   "n": "028/115",
+   "name": "Charmeleon",
+   "v": "nr"
+  },
+  {
+   "n": "029/115",
+   "name": "Charizard",
+   "v": "nr"
+  },
+  {
+   "n": "030/115",
+   "name": "Charizard V",
+   "v": "n"
+  },
+  {
+   "n": "031/115",
+   "name": "Charizard VMAX",
+   "v": "n"
+  },
+  {
+   "n": "032/115",
+   "name": "Slugma",
+   "v": "nr"
+  },
+  {
+   "n": "033/115",
+   "name": "Magcargo",
+   "v": "nr"
+  },
+  {
+   "n": "034/115",
+   "name": "Houndoom V",
+   "v": "n"
+  },
+  {
+   "n": "035/115",
+   "name": "Pansear",
+   "v": "nr"
+  },
+  {
+   "n": "036/115",
+   "name": "Simisear",
+   "v": "nr"
+  },
+  {
+   "n": "037/115",
+   "name": "Reshiram",
+   "v": "n"
+  },
+  {
+   "n": "038/115",
+   "name": "Shedinja",
+   "v": "nr"
+  },
+  {
+   "n": "039/115",
+   "name": "Wooper",
+   "v": "nr"
+  },
+  {
+   "n": "040/115",
+   "name": "Quagsire",
+   "v": "nr"
+  },
+  {
+   "n": "041/115",
+   "name": "Shuckle",
+   "v": "nr"
+  },
+  {
+   "n": "042/115",
+   "name": "Phanpy",
+   "v": "nr"
+  },
+  {
+   "n": "043/115",
+   "name": "Donphan",
+   "v": "nr"
+  },
+  {
+   "n": "044/115",
+   "name": "Hitmontop",
+   "v": "nr"
+  },
+  {
+   "n": "045/115",
+   "name": "Trapinch",
+   "v": "nr"
+  },
+  {
+   "n": "046/115",
+   "name": "Vibrava",
+   "v": "nr"
+  },
+  {
+   "n": "047/115",
+   "name": "Flygon",
+   "v": "nr"
+  },
+  {
+   "n": "048/115",
+   "name": "Regirock",
+   "v": "nr"
+  },
+  {
+   "n": "049/115",
+   "name": "Riolu",
+   "v": "nr"
+  },
+  {
+   "n": "050/115",
+   "name": "Hippopotas",
+   "v": "nr"
+  },
+  {
+   "n": "051/115",
+   "name": "Hippowdon",
+   "v": "nr"
+  },
+  {
+   "n": "052/115",
+   "name": "Rhyperior V",
+   "v": "n"
+  },
+  {
+   "n": "053/115",
+   "name": "Drilbur",
+   "v": "nr"
+  },
+  {
+   "n": "054/115",
+   "name": "Terrakion",
+   "v": "nr"
+  },
+  {
+   "n": "055/115",
+   "name": "Zygarde",
+   "v": "nr"
+  },
+  {
+   "n": "056/115",
+   "name": "Rockruff",
+   "v": "nr"
+  },
+  {
+   "n": "057/115",
+   "name": "Lycanroc",
+   "v": "nr"
+  },
+  {
+   "n": "058/115",
+   "name": "Mudbray",
+   "v": "nr"
+  },
+  {
+   "n": "059/115",
+   "name": "Mudsdale",
+   "v": "nr"
+  },
+  {
+   "n": "060/115",
+   "name": "Passimian",
+   "v": "nr"
+  },
+  {
+   "n": "061/115",
+   "name": "Coalossal V",
+   "v": "n"
+  },
+  {
+   "n": "062/115",
+   "name": "Coalossal VMAX",
+   "v": "n"
+  },
+  {
+   "n": "063/115",
+   "name": "Clobbopus",
+   "v": "nr"
+  },
+  {
+   "n": "064/115",
+   "name": "Grapploct",
+   "v": "nr"
+  },
+  {
+   "n": "065/115",
+   "name": "Zamazenta",
+   "v": "n"
+  },
+  {
+   "n": "066/115",
+   "name": "Galarian Meowth",
+   "v": "nr"
+  },
+  {
+   "n": "067/115",
+   "name": "Galarian Perrserker",
+   "v": "nr"
+  },
+  {
+   "n": "068/115",
+   "name": "Forretress",
+   "v": "nr"
+  },
+  {
+   "n": "069/115",
+   "name": "Steelix V",
+   "v": "n"
+  },
+  {
+   "n": "070/115",
+   "name": "Scizor V",
+   "v": "n"
+  },
+  {
+   "n": "071/115",
+   "name": "Scizor VMAX",
+   "v": "n"
+  },
+  {
+   "n": "072/115",
+   "name": "Skarmory",
+   "v": "nr"
+  },
+  {
+   "n": "073/115",
+   "name": "Beldum",
+   "v": "nr"
+  },
+  {
+   "n": "074/115",
+   "name": "Metang",
+   "v": "nr"
+  },
+  {
+   "n": "075/115",
+   "name": "Metagross",
+   "v": "nr"
+  },
+  {
+   "n": "076/115",
+   "name": "Lucario",
+   "v": "nr"
+  },
+  {
+   "n": "077/115",
+   "name": "Dialga",
+   "v": "nr"
+  },
+  {
+   "n": "078/115",
+   "name": "Excadrill",
+   "v": "nr"
+  },
+  {
+   "n": "079/115",
+   "name": "Ferroseed",
+   "v": "nr"
+  },
+  {
+   "n": "080/115",
+   "name": "Ferrothorn",
+   "v": "nr"
+  },
+  {
+   "n": "081/115",
+   "name": "Galarian Stunfisk",
+   "v": "nr"
+  },
+  {
+   "n": "082/115",
+   "name": "Magearna",
+   "v": "nr"
+  },
+  {
+   "n": "083/115",
+   "name": "Duraludon",
+   "v": "nr"
+  },
+  {
+   "n": "084/115",
+   "name": "Zacian",
+   "v": "nr"
+  },
+  {
+   "n": "085/115",
+   "name": "Zamazenta",
+   "v": "nr"
+  },
+  {
+   "n": "086/115",
+   "name": "Snorlax",
+   "v": "nr"
+  },
+  {
+   "n": "087/115",
+   "name": "Teddiursa",
+   "v": "nr"
+  },
+  {
+   "n": "088/115",
+   "name": "Ursaring",
+   "v": "nr"
+  },
+  {
+   "n": "089/115",
+   "name": "Skitty",
+   "v": "nr"
+  },
+  {
+   "n": "090/115",
+   "name": "Delcatty",
+   "v": "nr"
+  },
+  {
+   "n": "091/115",
+   "name": "Salamence V",
+   "v": "n"
+  },
+  {
+   "n": "092/115",
+   "name": "Salamence VMAX",
+   "v": "n"
+  },
+  {
+   "n": "093/115",
+   "name": "Rayquaza",
+   "v": "n"
+  },
+  {
+   "n": "094/115",
+   "name": "Starly",
+   "v": "nr"
+  },
+  {
+   "n": "095/115",
+   "name": "Staravia",
+   "v": "nr"
+  },
+  {
+   "n": "096/115",
+   "name": "Staraptor",
+   "v": "nr"
+  },
+  {
+   "n": "097/115",
+   "name": "Ducklett",
+   "v": "nr"
+  },
+  {
+   "n": "098/115",
+   "name": "Swanna",
+   "v": "nr"
+  },
+  {
+   "n": "099/115",
+   "name": "Pikipek",
+   "v": "nr"
+  },
+  {
+   "n": "100/115",
+   "name": "Trumbeak",
+   "v": "nr"
+  },
+  {
+   "n": "101/115",
+   "name": "Toucannon",
+   "v": "nr"
+  },
+  {
+   "n": "102/115",
+   "name": "Yell Horn",
+   "v": "nr"
+  },
+  {
+   "n": "103/115",
+   "name": "Moomoo Cheese",
+   "v": "nr"
+  },
+  {
+   "n": "104/115",
+   "name": "Struggle Gloves",
+   "v": "nr"
+  },
+  {
+   "n": "105/115",
+   "name": "Cape of Toughness",
+   "v": "nr"
+  },
+  {
+   "n": "106/115",
+   "name": "Billowing Smoke",
+   "v": "nr"
+  },
+  {
+   "n": "107/115",
+   "name": "Allister",
+   "v": "nr"
+  },
+  {
+   "n": "108/115",
+   "name": "Bea",
+   "v": "nr"
+  },
+  {
+   "n": "109/115",
+   "name": "Leon",
+   "v": "nr"
+  },
+  {
+   "n": "110/115",
+   "name": "Bird Keeper",
+   "v": "nr"
+  },
+  {
+   "n": "111/115",
+   "name": "League Staff",
+   "v": "nr"
+  },
+  {
+   "n": "112/115",
+   "name": "Circhester Bath",
+   "v": "nr"
+  },
+  {
+   "n": "113/115",
+   "name": "Wyndon Stadium",
+   "v": "nr"
+  },
+  {
+   "n": "114/115",
+   "name": "Stone Fighting Energy",
+   "v": "nr"
+  },
+  {
+   "n": "115/115",
+   "name": "Powerful Colorless Energy",
+   "v": "nr"
+  },
+  {
+   "n": "116/115",
+   "name": "Rowlet",
+   "v": "h"
+  },
+  {
+   "n": "117/115",
+   "name": "Dartrix",
+   "v": "h"
+  },
+  {
+   "n": "118/115",
+   "name": "Decidueye",
+   "v": "h"
+  },
+  {
+   "n": "119/115",
+   "name": "Ducklett",
+   "v": "h"
+  },
+  {
+   "n": "120/115",
+   "name": "Swanna",
+   "v": "h"
+  },
+  {
+   "n": "121/115",
+   "name": "Orbeetle V",
+   "v": "h"
+  },
+  {
+   "n": "122/115",
+   "name": "Zarude V",
+   "v": "h"
+  },
+  {
+   "n": "123/115",
+   "name": "Houndoom V",
+   "v": "h"
+  },
+  {
+   "n": "124/115",
+   "name": "Rhyperior V",
+   "v": "h"
+  },
+  {
+   "n": "125/115",
+   "name": "Coalossal V",
+   "v": "h"
+  },
+  {
+   "n": "126/115",
+   "name": "Steelix V",
+   "v": "h"
+  },
+  {
+   "n": "127/115",
+   "name": "Scizor V",
+   "v": "h"
+  },
+  {
+   "n": "128/115",
+   "name": "Salamence V",
+   "v": "h"
+  },
+  {
+   "n": "129/115",
+   "name": "Allister",
+   "v": "h"
+  },
+  {
+   "n": "130/115",
+   "name": "Bea",
+   "v": "h"
+  },
+  {
+   "n": "131/115",
+   "name": "Leon",
+   "v": "h"
+  },
+  {
+   "n": "132/115",
+   "name": "Bird Keeper",
+   "v": "h"
+  },
+  {
+   "n": "133/115",
+   "name": "Charizard V",
+   "v": "h"
+  },
+  {
+   "n": "134/115",
+   "name": "Charizard VMAX",
+   "v": "h"
+  },
+  {
+   "n": "135/115",
+   "name": "Orbeetle VMAX",
+   "v": "h"
+  },
+  {
+   "n": "136/115",
+   "name": "Coalossal VMAX",
+   "v": "h"
+  },
+  {
+   "n": "137/115",
+   "name": "Scizor VMAX",
+   "v": "h"
+  },
+  {
+   "n": "138/115",
+   "name": "Salamence VMAX",
+   "v": "h"
+  },
+  {
+   "n": "139/115",
+   "name": "Allister",
+   "v": "h"
+  },
+  {
+   "n": "140/115",
+   "name": "Bea",
+   "v": "h"
+  },
+  {
+   "n": "141/115",
+   "name": "Leon",
+   "v": "h"
+  },
+  {
+   "n": "142/115",
+   "name": "Snorlax",
+   "v": "h"
+  },
+  {
+   "n": "143/115",
+   "name": "Cape of Toughness",
+   "v": "h"
+  }
+ ]
+}

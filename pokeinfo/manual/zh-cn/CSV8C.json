@@ -1,0 +1,1332 @@
+{
+ "id": "CSV8C",
+ "name": "璀璨诡幻",
+ "serie": "朱&紫",
+ "serie_id": "SV",
+ "date": "2026-03-13",
+ "official": 207,
+ "abbr": "CSV8C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/207",
+   "name": "Exeggcute",
+   "v": "nrq"
+  },
+  {
+   "n": "002/207",
+   "name": "Exeggutor",
+   "v": "nrq"
+  },
+  {
+   "n": "003/207",
+   "name": "Ledyba",
+   "v": "nrq"
+  },
+  {
+   "n": "004/207",
+   "name": "Ledian",
+   "v": "nrq"
+  },
+  {
+   "n": "005/207",
+   "name": "Volbeat",
+   "v": "nrq"
+  },
+  {
+   "n": "006/207",
+   "name": "Illumise",
+   "v": "nrq"
+  },
+  {
+   "n": "007/207",
+   "name": "Foongus",
+   "v": "nrq"
+  },
+  {
+   "n": "008/207",
+   "name": "Amoonguss ex",
+   "v": "n"
+  },
+  {
+   "n": "009/207",
+   "name": "Joltik",
+   "v": "nrq"
+  },
+  {
+   "n": "010/207",
+   "name": "Galvantula",
+   "v": "nrq"
+  },
+  {
+   "n": "011/207",
+   "name": "Scatterbug",
+   "v": "nrq"
+  },
+  {
+   "n": "012/207",
+   "name": "Spewpa",
+   "v": "nrq"
+  },
+  {
+   "n": "013/207",
+   "name": "Vivillon",
+   "v": "nrq"
+  },
+  {
+   "n": "014/207",
+   "name": "Rowlet",
+   "v": "nrq"
+  },
+  {
+   "n": "015/207",
+   "name": "Dartrix",
+   "v": "nrq"
+  },
+  {
+   "n": "016/207",
+   "name": "Decidueye",
+   "v": "nrq"
+  },
+  {
+   "n": "017/207",
+   "name": "Morelull",
+   "v": "nrq"
+  },
+  {
+   "n": "018/207",
+   "name": "Shiinotic",
+   "v": "nrq"
+  },
+  {
+   "n": "019/207",
+   "name": "Tapu Bulu",
+   "v": "nrq"
+  },
+  {
+   "n": "020/207",
+   "name": "Grookey",
+   "v": "nrq"
+  },
+  {
+   "n": "021/207",
+   "name": "Thwackey",
+   "v": "nrq"
+  },
+  {
+   "n": "022/207",
+   "name": "Rillaboom",
+   "v": "nrq"
+  },
+  {
+   "n": "023/207",
+   "name": "Applin",
+   "v": "nrq"
+  },
+  {
+   "n": "024/207",
+   "name": "Dipplin",
+   "v": "nrq"
+  },
+  {
+   "n": "025/207",
+   "name": "Poltchageist",
+   "v": "nrq"
+  },
+  {
+   "n": "026/207",
+   "name": "Sinistcha",
+   "v": "nrq"
+  },
+  {
+   "n": "027/207",
+   "name": "Teal Mask Ogerpon",
+   "v": "nrq"
+  },
+  {
+   "n": "028/207",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "029/207",
+   "name": "Slugma",
+   "v": "nrq"
+  },
+  {
+   "n": "030/207",
+   "name": "Magcargo",
+   "v": "nrq"
+  },
+  {
+   "n": "031/207",
+   "name": "Houndour",
+   "v": "nrq"
+  },
+  {
+   "n": "032/207",
+   "name": "Houndoom",
+   "v": "nrq"
+  },
+  {
+   "n": "033/207",
+   "name": "Litwick",
+   "v": "nrq"
+  },
+  {
+   "n": "034/207",
+   "name": "Lampent",
+   "v": "nrq"
+  },
+  {
+   "n": "035/207",
+   "name": "Chandelure",
+   "v": "nrq"
+  },
+  {
+   "n": "036/207",
+   "name": "Larvesta",
+   "v": "nrq"
+  },
+  {
+   "n": "037/207",
+   "name": "Volcarona",
+   "v": "nrq"
+  },
+  {
+   "n": "038/207",
+   "name": "Reshiram ex",
+   "v": "n"
+  },
+  {
+   "n": "039/207",
+   "name": "Charcadet",
+   "v": "nrq"
+  },
+  {
+   "n": "040/207",
+   "name": "Armarouge",
+   "v": "nrq"
+  },
+  {
+   "n": "041/207",
+   "name": "Ceruledge",
+   "v": "nrq"
+  },
+  {
+   "n": "042/207",
+   "name": "Iron Moth",
+   "v": "nrq"
+  },
+  {
+   "n": "043/207",
+   "name": "Hearthflame Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "044/207",
+   "name": "Poliwag",
+   "v": "nrq"
+  },
+  {
+   "n": "045/207",
+   "name": "Poliwhirl",
+   "v": "nrq"
+  },
+  {
+   "n": "046/207",
+   "name": "Poliwrath",
+   "v": "nrq"
+  },
+  {
+   "n": "047/207",
+   "name": "Horsea",
+   "v": "nrq"
+  },
+  {
+   "n": "048/207",
+   "name": "Seadra",
+   "v": "nrq"
+  },
+  {
+   "n": "049/207",
+   "name": "Kingdra ex",
+   "v": "n"
+  },
+  {
+   "n": "050/207",
+   "name": "Goldeen",
+   "v": "nrq"
+  },
+  {
+   "n": "051/207",
+   "name": "Seaking",
+   "v": "nrq"
+  },
+  {
+   "n": "052/207",
+   "name": "Sneasel",
+   "v": "nrq"
+  },
+  {
+   "n": "053/207",
+   "name": "Weavile",
+   "v": "nrq"
+  },
+  {
+   "n": "054/207",
+   "name": "Corphish",
+   "v": "nrq"
+  },
+  {
+   "n": "055/207",
+   "name": "Crawdaunt",
+   "v": "nrq"
+  },
+  {
+   "n": "056/207",
+   "name": "Feebas",
+   "v": "nrq"
+  },
+  {
+   "n": "057/207",
+   "name": "Milotic ex",
+   "v": "n"
+  },
+  {
+   "n": "058/207",
+   "name": "Black Kyurem ex",
+   "v": "n"
+  },
+  {
+   "n": "059/207",
+   "name": "Crabominable",
+   "v": "nrq"
+  },
+  {
+   "n": "060/207",
+   "name": "Chewtle",
+   "v": "nrq"
+  },
+  {
+   "n": "061/207",
+   "name": "Drednaw",
+   "v": "nrq"
+  },
+  {
+   "n": "062/207",
+   "name": "Finizen",
+   "v": "nrq"
+  },
+  {
+   "n": "063/207",
+   "name": "Palafin",
+   "v": "nrq"
+  },
+  {
+   "n": "064/207",
+   "name": "Palafin ex",
+   "v": "n"
+  },
+  {
+   "n": "065/207",
+   "name": "Cetoddle",
+   "v": "nrq"
+  },
+  {
+   "n": "066/207",
+   "name": "Cetitan",
+   "v": "nrq"
+  },
+  {
+   "n": "067/207",
+   "name": "Wellspring Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "068/207",
+   "name": "Tadbulb",
+   "v": "nrq"
+  },
+  {
+   "n": "069/207",
+   "name": "Bellibolt",
+   "v": "nrq"
+  },
+  {
+   "n": "070/207",
+   "name": "Wattrel",
+   "v": "nrq"
+  },
+  {
+   "n": "071/207",
+   "name": "Kilowattrel",
+   "v": "nrq"
+  },
+  {
+   "n": "072/207",
+   "name": "Revavroom ex",
+   "v": "n"
+  },
+  {
+   "n": "073/207",
+   "name": "Abra",
+   "v": "nrq"
+  },
+  {
+   "n": "074/207",
+   "name": "Kadabra",
+   "v": "nrq"
+  },
+  {
+   "n": "075/207",
+   "name": "Alakazam",
+   "v": "nrq"
+  },
+  {
+   "n": "076/207",
+   "name": "Drowzee",
+   "v": "nrq"
+  },
+  {
+   "n": "077/207",
+   "name": "Hypno",
+   "v": "nrq"
+  },
+  {
+   "n": "078/207",
+   "name": "Girafarig",
+   "v": "nrq"
+  },
+  {
+   "n": "079/207",
+   "name": "Farigiraf",
+   "v": "nrq"
+  },
+  {
+   "n": "080/207",
+   "name": "Smoochum",
+   "v": "nrq"
+  },
+  {
+   "n": "081/207",
+   "name": "Duskull",
+   "v": "nrq"
+  },
+  {
+   "n": "082/207",
+   "name": "Dusclops",
+   "v": "nrq"
+  },
+  {
+   "n": "083/207",
+   "name": "Dusknoir",
+   "v": "nrq"
+  },
+  {
+   "n": "084/207",
+   "name": "Chimecho",
+   "v": "nrq"
+  },
+  {
+   "n": "085/207",
+   "name": "Swirlix",
+   "v": "nrq"
+  },
+  {
+   "n": "086/207",
+   "name": "Slurpuff",
+   "v": "nrq"
+  },
+  {
+   "n": "087/207",
+   "name": "Sylveon",
+   "v": "nrq"
+  },
+  {
+   "n": "088/207",
+   "name": "Xerneas ex",
+   "v": "n"
+  },
+  {
+   "n": "089/207",
+   "name": "Tapu Lele",
+   "v": "nrq"
+  },
+  {
+   "n": "090/207",
+   "name": "Milcery",
+   "v": "nrq"
+  },
+  {
+   "n": "091/207",
+   "name": "Alcremie",
+   "v": "nrq"
+  },
+  {
+   "n": "092/207",
+   "name": "Flittle",
+   "v": "nrq"
+  },
+  {
+   "n": "093/207",
+   "name": "Espathra",
+   "v": "nrq"
+  },
+  {
+   "n": "094/207",
+   "name": "Munkidori",
+   "v": "nrq"
+  },
+  {
+   "n": "095/207",
+   "name": "Fezandipiti",
+   "v": "nrq"
+  },
+  {
+   "n": "096/207",
+   "name": "Iron Boulder",
+   "v": "nrq"
+  },
+  {
+   "n": "097/207",
+   "name": "Hisuian Growlithe",
+   "v": "nrq"
+  },
+  {
+   "n": "098/207",
+   "name": "Hisuian Arcanine",
+   "v": "nrq"
+  },
+  {
+   "n": "099/207",
+   "name": "Cubone",
+   "v": "nrq"
+  },
+  {
+   "n": "100/207",
+   "name": "Marowak",
+   "v": "nrq"
+  },
+  {
+   "n": "101/207",
+   "name": "Rhyhorn",
+   "v": "nrq"
+  },
+  {
+   "n": "102/207",
+   "name": "Rhydon",
+   "v": "nrq"
+  },
+  {
+   "n": "103/207",
+   "name": "Rhyperior",
+   "v": "nrq"
+  },
+  {
+   "n": "104/207",
+   "name": "Phanpy",
+   "v": "nrq"
+  },
+  {
+   "n": "105/207",
+   "name": "Donphan",
+   "v": "nrq"
+  },
+  {
+   "n": "106/207",
+   "name": "Meditite",
+   "v": "nrq"
+  },
+  {
+   "n": "107/207",
+   "name": "Medicham ex",
+   "v": "n"
+  },
+  {
+   "n": "108/207",
+   "name": "Croagunk",
+   "v": "nrq"
+  },
+  {
+   "n": "109/207",
+   "name": "Toxicroak",
+   "v": "nrq"
+  },
+  {
+   "n": "110/207",
+   "name": "Timburr",
+   "v": "nrq"
+  },
+  {
+   "n": "111/207",
+   "name": "Gurdurr",
+   "v": "nrq"
+  },
+  {
+   "n": "112/207",
+   "name": "Conkeldurr",
+   "v": "nrq"
+  },
+  {
+   "n": "113/207",
+   "name": "Mienfoo",
+   "v": "nrq"
+  },
+  {
+   "n": "114/207",
+   "name": "Mienshao",
+   "v": "nrq"
+  },
+  {
+   "n": "115/207",
+   "name": "Crabrawler",
+   "v": "nrq"
+  },
+  {
+   "n": "116/207",
+   "name": "Bloodmoon Ursaluna",
+   "v": "nrq"
+  },
+  {
+   "n": "117/207",
+   "name": "Glimmet",
+   "v": "nrq"
+  },
+  {
+   "n": "118/207",
+   "name": "Glimmora",
+   "v": "nrq"
+  },
+  {
+   "n": "119/207",
+   "name": "Slither Wing",
+   "v": "nrq"
+  },
+  {
+   "n": "120/207",
+   "name": "Okidogi",
+   "v": "nrq"
+  },
+  {
+   "n": "121/207",
+   "name": "Cornerstone Mask Ogerpon ex",
+   "v": "n"
+  },
+  {
+   "n": "122/207",
+   "name": "Zubat",
+   "v": "nrq"
+  },
+  {
+   "n": "123/207",
+   "name": "Golbat",
+   "v": "nrq"
+  },
+  {
+   "n": "124/207",
+   "name": "Crobat",
+   "v": "nrq"
+  },
+  {
+   "n": "125/207",
+   "name": "Poochyena",
+   "v": "nrq"
+  },
+  {
+   "n": "126/207",
+   "name": "Mightyena",
+   "v": "nrq"
+  },
+  {
+   "n": "127/207",
+   "name": "Absol",
+   "v": "nrq"
+  },
+  {
+   "n": "128/207",
+   "name": "Venipede",
+   "v": "nrq"
+  },
+  {
+   "n": "129/207",
+   "name": "Whirlipede",
+   "v": "nrq"
+  },
+  {
+   "n": "130/207",
+   "name": "Scolipede",
+   "v": "nrq"
+  },
+  {
+   "n": "131/207",
+   "name": "Inkay",
+   "v": "nrq"
+  },
+  {
+   "n": "132/207",
+   "name": "Malamar",
+   "v": "nrq"
+  },
+  {
+   "n": "133/207",
+   "name": "Okidogi ex",
+   "v": "n"
+  },
+  {
+   "n": "134/207",
+   "name": "Munkidori ex",
+   "v": "n"
+  },
+  {
+   "n": "135/207",
+   "name": "Fezandipiti ex",
+   "v": "n"
+  },
+  {
+   "n": "136/207",
+   "name": "Pecharunt ex",
+   "v": "n"
+  },
+  {
+   "n": "137/207",
+   "name": "Skarmory",
+   "v": "nrq"
+  },
+  {
+   "n": "138/207",
+   "name": "Aron",
+   "v": "nrq"
+  },
+  {
+   "n": "139/207",
+   "name": "Lairon",
+   "v": "nrq"
+  },
+  {
+   "n": "140/207",
+   "name": "Aggron",
+   "v": "nrq"
+  },
+  {
+   "n": "141/207",
+   "name": "Dialga ex",
+   "v": "n"
+  },
+  {
+   "n": "142/207",
+   "name": "Heatran",
+   "v": "nrq"
+  },
+  {
+   "n": "143/207",
+   "name": "Klink",
+   "v": "nrq"
+  },
+  {
+   "n": "144/207",
+   "name": "Klang",
+   "v": "nrq"
+  },
+  {
+   "n": "145/207",
+   "name": "Klinklang",
+   "v": "nrq"
+  },
+  {
+   "n": "146/207",
+   "name": "Klefki",
+   "v": "nrq"
+  },
+  {
+   "n": "147/207",
+   "name": "Cufant",
+   "v": "nrq"
+  },
+  {
+   "n": "148/207",
+   "name": "Copperajah",
+   "v": "nrq"
+  },
+  {
+   "n": "149/207",
+   "name": "Varoom",
+   "v": "nrq"
+  },
+  {
+   "n": "150/207",
+   "name": "Orthworm ex",
+   "v": "n"
+  },
+  {
+   "n": "151/207",
+   "name": "Axew",
+   "v": "nrq"
+  },
+  {
+   "n": "152/207",
+   "name": "Fraxure",
+   "v": "nrq"
+  },
+  {
+   "n": "153/207",
+   "name": "Haxorus",
+   "v": "nrq"
+  },
+  {
+   "n": "154/207",
+   "name": "Turtonator",
+   "v": "nrq"
+  },
+  {
+   "n": "155/207",
+   "name": "Applin",
+   "v": "nrq"
+  },
+  {
+   "n": "156/207",
+   "name": "Dipplin",
+   "v": "nrq"
+  },
+  {
+   "n": "157/207",
+   "name": "Dreepy",
+   "v": "nrq"
+  },
+  {
+   "n": "158/207",
+   "name": "Drakloak",
+   "v": "nrq"
+  },
+  {
+   "n": "159/207",
+   "name": "Dragapult ex",
+   "v": "n"
+  },
+  {
+   "n": "160/207",
+   "name": "Tatsugiri",
+   "v": "nrq"
+  },
+  {
+   "n": "161/207",
+   "name": "Raging Bolt",
+   "v": "nrq"
+  },
+  {
+   "n": "162/207",
+   "name": "Meowth",
+   "v": "nrq"
+  },
+  {
+   "n": "163/207",
+   "name": "Persian",
+   "v": "nrq"
+  },
+  {
+   "n": "164/207",
+   "name": "Chansey",
+   "v": "nrq"
+  },
+  {
+   "n": "165/207",
+   "name": "Blissey ex",
+   "v": "n"
+  },
+  {
+   "n": "166/207",
+   "name": "Eevee",
+   "v": "nrq"
+  },
+  {
+   "n": "167/207",
+   "name": "Ducklett",
+   "v": "nrq"
+  },
+  {
+   "n": "168/207",
+   "name": "Swanna",
+   "v": "nrq"
+  },
+  {
+   "n": "169/207",
+   "name": "Bouffalant",
+   "v": "nrq"
+  },
+  {
+   "n": "170/207",
+   "name": "Stufful",
+   "v": "nrq"
+  },
+  {
+   "n": "171/207",
+   "name": "Bewear",
+   "v": "nrq"
+  },
+  {
+   "n": "172/207",
+   "name": "Bloodmoon Ursaluna ex",
+   "v": "n"
+  },
+  {
+   "n": "173/207",
+   "name": "Unfair Stamp",
+   "v": "n"
+  },
+  {
+   "n": "174/207",
+   "name": "Ogre’s Mask",
+   "v": "nrq"
+  },
+  {
+   "n": "175/207",
+   "name": "Accompanying Flute",
+   "v": "nrq"
+  },
+  {
+   "n": "176/207",
+   "name": "Secret Box",
+   "v": "n"
+  },
+  {
+   "n": "177/207",
+   "name": "Dusk Ball",
+   "v": "nrq"
+  },
+  {
+   "n": "178/207",
+   "name": "Dangerous Laser",
+   "v": "n"
+  },
+  {
+   "n": "179/207",
+   "name": "Meddling Memo",
+   "v": "nrq"
+  },
+  {
+   "n": "180/207",
+   "name": "Poké-Vital A",
+   "v": "n"
+  },
+  {
+   "n": "181/207",
+   "name": "Scoop Up Cyclone",
+   "v": "n"
+  },
+  {
+   "n": "182/207",
+   "name": "Bug Catching Set",
+   "v": "nrq"
+  },
+  {
+   "n": "183/207",
+   "name": "Night Stretcher",
+   "v": "nrq"
+  },
+  {
+   "n": "184/207",
+   "name": "Payapa Berry",
+   "v": "nrq"
+  },
+  {
+   "n": "185/207",
+   "name": "Occa Berry",
+   "v": "nrq"
+  },
+  {
+   "n": "186/207",
+   "name": "Sparkling Crystal",
+   "v": "n"
+  },
+  {
+   "n": "187/207",
+   "name": "Binding Mochi",
+   "v": "nrq"
+  },
+  {
+   "n": "188/207",
+   "name": "Power Hourglass",
+   "v": "nrq"
+  },
+  {
+   "n": "189/207",
+   "name": "Deluxe Bomb",
+   "v": "n"
+  },
+  {
+   "n": "190/207",
+   "name": "Handheld Fan",
+   "v": "nrq"
+  },
+  {
+   "n": "191/207",
+   "name": "Colress’s Tenacity",
+   "v": "nrq"
+  },
+  {
+   "n": "192/207",
+   "name": "Janine’s Secret Technique",
+   "v": "nrq"
+  },
+  {
+   "n": "193/207",
+   "name": "Cassiopeia",
+   "v": "nrq"
+  },
+  {
+   "n": "194/207",
+   "name": "Caretaker",
+   "v": "nrq"
+  },
+  {
+   "n": "195/207",
+   "name": "Xerosic’s Scheme",
+   "v": "nrq"
+  },
+  {
+   "n": "196/207",
+   "name": "Surfer",
+   "v": "nrq"
+  },
+  {
+   "n": "197/207",
+   "name": "Perrin",
+   "v": "nrq"
+  },
+  {
+   "n": "198/207",
+   "name": "Kieran",
+   "v": "nrq"
+  },
+  {
+   "n": "199/207",
+   "name": "Carmine",
+   "v": "nrq"
+  },
+  {
+   "n": "200/207",
+   "name": "Kofu",
+   "v": "nrq"
+  },
+  {
+   "n": "201/207",
+   "name": "Festival Grounds",
+   "v": "nrq"
+  },
+  {
+   "n": "202/207",
+   "name": "Community Center",
+   "v": "nrq"
+  },
+  {
+   "n": "203/207",
+   "name": "Jamming Tower",
+   "v": "nrq"
+  },
+  {
+   "n": "204/207",
+   "name": "Neutral Center",
+   "v": "n"
+  },
+  {
+   "n": "205/207",
+   "name": "Night Academy",
+   "v": "nrq"
+  },
+  {
+   "n": "206/207",
+   "name": "Boomerang Energy",
+   "v": "nrq"
+  },
+  {
+   "n": "207/207",
+   "name": "Legacy Energy",
+   "v": "n"
+  },
+  {
+   "n": "208/207",
+   "name": "Larvesta",
+   "v": "h"
+  },
+  {
+   "n": "209/207",
+   "name": "Feebas",
+   "v": "h"
+  },
+  {
+   "n": "210/207",
+   "name": "Duskull",
+   "v": "h"
+  },
+  {
+   "n": "211/207",
+   "name": "Dusclops",
+   "v": "h"
+  },
+  {
+   "n": "212/207",
+   "name": "Dusknoir",
+   "v": "h"
+  },
+  {
+   "n": "213/207",
+   "name": "Fraxure",
+   "v": "h"
+  },
+  {
+   "n": "214/207",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "215/207",
+   "name": "Hearthflame Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "216/207",
+   "name": "Kingdra ex",
+   "v": "h"
+  },
+  {
+   "n": "217/207",
+   "name": "Milotic ex",
+   "v": "h"
+  },
+  {
+   "n": "218/207",
+   "name": "Black Kyurem ex",
+   "v": "h"
+  },
+  {
+   "n": "219/207",
+   "name": "Palafin ex",
+   "v": "h"
+  },
+  {
+   "n": "220/207",
+   "name": "Wellspring Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "221/207",
+   "name": "Revavroom ex",
+   "v": "h"
+  },
+  {
+   "n": "222/207",
+   "name": "Medicham ex",
+   "v": "h"
+  },
+  {
+   "n": "223/207",
+   "name": "Cornerstone Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "224/207",
+   "name": "Okidogi ex",
+   "v": "h"
+  },
+  {
+   "n": "225/207",
+   "name": "Munkidori ex",
+   "v": "h"
+  },
+  {
+   "n": "226/207",
+   "name": "Fezandipiti ex",
+   "v": "h"
+  },
+  {
+   "n": "227/207",
+   "name": "Pecharunt ex",
+   "v": "h"
+  },
+  {
+   "n": "228/207",
+   "name": "Orthworm ex",
+   "v": "h"
+  },
+  {
+   "n": "229/207",
+   "name": "Dragapult ex",
+   "v": "h"
+  },
+  {
+   "n": "230/207",
+   "name": "Blissey ex",
+   "v": "h"
+  },
+  {
+   "n": "231/207",
+   "name": "Bloodmoon Ursaluna ex",
+   "v": "h"
+  },
+  {
+   "n": "232/207",
+   "name": "Colress’s Tenacity",
+   "v": "h"
+  },
+  {
+   "n": "233/207",
+   "name": "Janine’s Secret Technique",
+   "v": "h"
+  },
+  {
+   "n": "234/207",
+   "name": "Cassiopeia",
+   "v": "h"
+  },
+  {
+   "n": "235/207",
+   "name": "Caretaker",
+   "v": "h"
+  },
+  {
+   "n": "236/207",
+   "name": "Xerosic’s Scheme",
+   "v": "h"
+  },
+  {
+   "n": "237/207",
+   "name": "Surfer",
+   "v": "h"
+  },
+  {
+   "n": "238/207",
+   "name": "Perrin",
+   "v": "h"
+  },
+  {
+   "n": "239/207",
+   "name": "Kieran",
+   "v": "h"
+  },
+  {
+   "n": "240/207",
+   "name": "Carmine",
+   "v": "h"
+  },
+  {
+   "n": "241/207",
+   "name": "Kofu",
+   "v": "h"
+  },
+  {
+   "n": "242/207",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "243/207",
+   "name": "Hearthflame Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "244/207",
+   "name": "Milotic ex",
+   "v": "h"
+  },
+  {
+   "n": "245/207",
+   "name": "Wellspring Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "246/207",
+   "name": "Cornerstone Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "247/207",
+   "name": "Okidogi ex",
+   "v": "h"
+  },
+  {
+   "n": "248/207",
+   "name": "Munkidori ex",
+   "v": "h"
+  },
+  {
+   "n": "249/207",
+   "name": "Fezandipiti ex",
+   "v": "h"
+  },
+  {
+   "n": "250/207",
+   "name": "Pecharunt ex",
+   "v": "h"
+  },
+  {
+   "n": "251/207",
+   "name": "Bloodmoon Ursaluna ex",
+   "v": "h"
+  },
+  {
+   "n": "252/207",
+   "name": "Cassiopeia",
+   "v": "h"
+  },
+  {
+   "n": "253/207",
+   "name": "Perrin",
+   "v": "h"
+  },
+  {
+   "n": "254/207",
+   "name": "Kieran",
+   "v": "h"
+  },
+  {
+   "n": "255/207",
+   "name": "Carmine",
+   "v": "h"
+  },
+  {
+   "n": "256/207",
+   "name": "Teal Mask Ogerpon ex",
+   "v": "h"
+  },
+  {
+   "n": "257/207",
+   "name": "Pecharunt ex",
+   "v": "h"
+  },
+  {
+   "n": "258/207",
+   "name": "Bloodmoon Ursaluna ex",
+   "v": "h"
+  },
+  {
+   "n": "259/207",
+   "name": "Enhanced Hammer",
+   "v": "h"
+  },
+  {
+   "n": "260/207",
+   "name": "Bravery Charm",
+   "v": "h"
+  },
+  {
+   "n": "261/207",
+   "name": "Gravity Mountain",
+   "v": "h"
+  },
+  {
+   "n": "262/207",
+   "name": "Jamming Tower",
+   "v": "h"
+  },
+  {
+   "n": "263/207",
+   "name": "Jet Energy",
+   "v": "h"
+  },
+  {
+   "n": "264/207",
+   "name": "Luminous Energy",
+   "v": "h"
+  }
+ ]
+}

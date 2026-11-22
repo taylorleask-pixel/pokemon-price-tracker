@@ -1,0 +1,507 @@
+{
+ "id": "CSM2.5C",
+ "name": "炫奇争胜",
+ "serie": "太阳&月亮",
+ "serie_id": "SM",
+ "date": "2023-03-17",
+ "official": 61,
+ "abbr": "CSM2.5C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/061",
+   "name": "Venusaur & Snivy-GX",
+   "v": "n"
+  },
+  {
+   "n": "002/061",
+   "name": "Exeggcute",
+   "v": "n"
+  },
+  {
+   "n": "003/061",
+   "name": "Bounsweet",
+   "v": "n"
+  },
+  {
+   "n": "004/061",
+   "name": "Steenee",
+   "v": "n"
+  },
+  {
+   "n": "005/061",
+   "name": "Tsareena",
+   "v": "n"
+  },
+  {
+   "n": "006/061",
+   "name": "Charizard & Braixen-GX",
+   "v": "n"
+  },
+  {
+   "n": "007/061",
+   "name": "Flareon",
+   "v": "n"
+  },
+  {
+   "n": "008/061",
+   "name": "Volcanion",
+   "v": "n"
+  },
+  {
+   "n": "009/061",
+   "name": "Blacephalon",
+   "v": "n"
+  },
+  {
+   "n": "010/061",
+   "name": "Vaporeon",
+   "v": "n"
+  },
+  {
+   "n": "011/061",
+   "name": "Froakie",
+   "v": "n"
+  },
+  {
+   "n": "012/061",
+   "name": "Frogadier",
+   "v": "n"
+  },
+  {
+   "n": "013/061",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "014/061",
+   "name": "Alolan Raichu",
+   "v": "n"
+  },
+  {
+   "n": "015/061",
+   "name": "Jolteon",
+   "v": "n"
+  },
+  {
+   "n": "016/061",
+   "name": "Trevenant & Dusknoir-GX",
+   "v": "n"
+  },
+  {
+   "n": "017/061",
+   "name": "Koffing",
+   "v": "n"
+  },
+  {
+   "n": "018/061",
+   "name": "Weezing",
+   "v": "n"
+  },
+  {
+   "n": "019/061",
+   "name": "Jynx",
+   "v": "n"
+  },
+  {
+   "n": "020/061",
+   "name": "Jirachi-GX",
+   "v": "n"
+  },
+  {
+   "n": "021/061",
+   "name": "Oricorio-GX",
+   "v": "n"
+  },
+  {
+   "n": "022/061",
+   "name": "Mimikyu",
+   "v": "n"
+  },
+  {
+   "n": "023/061",
+   "name": "Marshadow",
+   "v": "n"
+  },
+  {
+   "n": "024/061",
+   "name": "Landorus",
+   "v": "n"
+  },
+  {
+   "n": "025/061",
+   "name": "Rockruff",
+   "v": "n"
+  },
+  {
+   "n": "026/061",
+   "name": "Lycanroc",
+   "v": "n"
+  },
+  {
+   "n": "027/061",
+   "name": "Alolan Meowth",
+   "v": "n"
+  },
+  {
+   "n": "028/061",
+   "name": "Alolan Persian-GX",
+   "v": "n"
+  },
+  {
+   "n": "029/061",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "030/061",
+   "name": "Weavile-GX",
+   "v": "n"
+  },
+  {
+   "n": "031/061",
+   "name": "Greninja",
+   "v": "n"
+  },
+  {
+   "n": "032/061",
+   "name": "Mawile-GX",
+   "v": "n"
+  },
+  {
+   "n": "033/061",
+   "name": "Cottonee",
+   "v": "n"
+  },
+  {
+   "n": "034/061",
+   "name": "Whimsicott",
+   "v": "n"
+  },
+  {
+   "n": "035/061",
+   "name": "Sylveon",
+   "v": "n"
+  },
+  {
+   "n": "036/061",
+   "name": "Arceus & Dialga & Palkia-GX",
+   "v": "n"
+  },
+  {
+   "n": "037/061",
+   "name": "Naganadel & Guzzlord-GX",
+   "v": "n"
+  },
+  {
+   "n": "038/061",
+   "name": "Alolan Exeggutor",
+   "v": "n"
+  },
+  {
+   "n": "039/061",
+   "name": "Mega Lopunny & Jigglypuff-GX",
+   "v": "n"
+  },
+  {
+   "n": "040/061",
+   "name": "Eevee",
+   "v": "n"
+  },
+  {
+   "n": "041/061",
+   "name": "Porygon",
+   "v": "n"
+  },
+  {
+   "n": "042/061",
+   "name": "Porygon2",
+   "v": "n"
+  },
+  {
+   "n": "043/061",
+   "name": "Porygon-Z",
+   "v": "n"
+  },
+  {
+   "n": "044/061",
+   "name": "Porygon-Z-GX",
+   "v": "n"
+  },
+  {
+   "n": "045/061",
+   "name": "Great Catcher",
+   "v": "n"
+  },
+  {
+   "n": "046/061",
+   "name": "Devolution Spray Z",
+   "v": "n"
+  },
+  {
+   "n": "047/061",
+   "name": "Electromagnetic Radar",
+   "v": "n"
+  },
+  {
+   "n": "048/061",
+   "name": "Fire Crystal",
+   "v": "n"
+  },
+  {
+   "n": "049/061",
+   "name": "Island Challenge Amulet",
+   "v": "n"
+  },
+  {
+   "n": "050/061",
+   "name": "Fairy Charm Lightning",
+   "v": "n"
+  },
+  {
+   "n": "051/061",
+   "name": "Ear-Ringing Bell",
+   "v": "n"
+  },
+  {
+   "n": "052/061",
+   "name": "Professor Oak's Setup",
+   "v": "n"
+  },
+  {
+   "n": "053/061",
+   "name": "Misty & Lorelei",
+   "v": "n"
+  },
+  {
+   "n": "054/061",
+   "name": "Channeler",
+   "v": "n"
+  },
+  {
+   "n": "055/061",
+   "name": "Roxie",
+   "v": "n"
+  },
+  {
+   "n": "056/061",
+   "name": "Rosa",
+   "v": "n"
+  },
+  {
+   "n": "057/061",
+   "name": "Chaotic Swell",
+   "v": "n"
+  },
+  {
+   "n": "058/061",
+   "name": "Dust Island",
+   "v": "n"
+  },
+  {
+   "n": "059/061",
+   "name": "Blizzard Town",
+   "v": "n"
+  },
+  {
+   "n": "060/061",
+   "name": "Power Plant",
+   "v": "n"
+  },
+  {
+   "n": "061/061",
+   "name": "Weakness Guard Energy",
+   "v": "n"
+  },
+  {
+   "n": "062/061",
+   "name": "Venusaur & Snivy-GX",
+   "v": "h"
+  },
+  {
+   "n": "063/061",
+   "name": "Venusaur & Snivy-GX",
+   "v": "h"
+  },
+  {
+   "n": "064/061",
+   "name": "Charizard & Braixen-GX",
+   "v": "h"
+  },
+  {
+   "n": "065/061",
+   "name": "Charizard & Braixen-GX",
+   "v": "h"
+  },
+  {
+   "n": "066/061",
+   "name": "Trevenant & Dusknoir-GX",
+   "v": "h"
+  },
+  {
+   "n": "067/061",
+   "name": "Trevenant & Dusknoir-GX",
+   "v": "h"
+  },
+  {
+   "n": "068/061",
+   "name": "Oricorio-GX",
+   "v": "h"
+  },
+  {
+   "n": "069/061",
+   "name": "Jirachi-GX",
+   "v": "h"
+  },
+  {
+   "n": "070/061",
+   "name": "Alolan Persian-GX",
+   "v": "h"
+  },
+  {
+   "n": "071/061",
+   "name": "Weavile-GX",
+   "v": "h"
+  },
+  {
+   "n": "072/061",
+   "name": "Mawile-GX",
+   "v": "h"
+  },
+  {
+   "n": "073/061",
+   "name": "Arceus & Dialga & Palkia-GX",
+   "v": "h"
+  },
+  {
+   "n": "074/061",
+   "name": "Naganadel & Guzzlord-GX",
+   "v": "h"
+  },
+  {
+   "n": "075/061",
+   "name": "Naganadel & Guzzlord-GX",
+   "v": "h"
+  },
+  {
+   "n": "076/061",
+   "name": "Mega Lopunny & Jigglypuff-GX",
+   "v": "h"
+  },
+  {
+   "n": "077/061",
+   "name": "Mega Lopunny & Jigglypuff-GX",
+   "v": "h"
+  },
+  {
+   "n": "078/061",
+   "name": "Professor Oak's Setup",
+   "v": "h"
+  },
+  {
+   "n": "079/061",
+   "name": "Misty & Lorelei",
+   "v": "h"
+  },
+  {
+   "n": "080/061",
+   "name": "Channeler",
+   "v": "h"
+  },
+  {
+   "n": "081/061",
+   "name": "Roxie",
+   "v": "h"
+  },
+  {
+   "n": "082/061",
+   "name": "Rosa",
+   "v": "h"
+  },
+  {
+   "n": "083/061",
+   "name": "Venusaur & Snivy-GX",
+   "v": "h"
+  },
+  {
+   "n": "084/061",
+   "name": "Charizard & Braixen-GX",
+   "v": "h"
+  },
+  {
+   "n": "085/061",
+   "name": "Trevenant & Dusknoir-GX",
+   "v": "h"
+  },
+  {
+   "n": "086/061",
+   "name": "Oricorio-GX",
+   "v": "h"
+  },
+  {
+   "n": "087/061",
+   "name": "Jirachi-GX",
+   "v": "h"
+  },
+  {
+   "n": "088/061",
+   "name": "Alolan Persian-GX",
+   "v": "h"
+  },
+  {
+   "n": "089/061",
+   "name": "Weavile-GX",
+   "v": "h"
+  },
+  {
+   "n": "090/061",
+   "name": "Mawile-GX",
+   "v": "h"
+  },
+  {
+   "n": "091/061",
+   "name": "Arceus & Dialga & Palkia-GX",
+   "v": "h"
+  },
+  {
+   "n": "092/061",
+   "name": "Naganadel & Guzzlord-GX",
+   "v": "h"
+  },
+  {
+   "n": "093/061",
+   "name": "Mega Lopunny & Jigglypuff-GX",
+   "v": "h"
+  },
+  {
+   "n": "094/061",
+   "name": "Great Catcher",
+   "v": "h"
+  },
+  {
+   "n": "095/061",
+   "name": "Electromagnetic Radar",
+   "v": "h"
+  },
+  {
+   "n": "096/061",
+   "name": "Fire Crystal",
+   "v": "h"
+  },
+  {
+   "n": "097/061",
+   "name": "Island Challenge Amulet",
+   "v": "h"
+  },
+  {
+   "n": "098/061",
+   "name": "Power Plant",
+   "v": "h"
+  },
+  {
+   "n": "099/061",
+   "name": "Draw Energy",
+   "v": "h"
+  }
+ ]
+}

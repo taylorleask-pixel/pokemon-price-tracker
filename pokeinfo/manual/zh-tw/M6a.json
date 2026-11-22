@@ -7,7 +7,7 @@
  "official": 103,
  "logo": "img/logos/ja/M6a.webp",
  "abbr": "M6a",
- "note": "Card list from Taylor. Card names are in English. A few secret rare numbers (119, 128, 129, 131, 151, 152) were missing from the list.",
+ "note": "Card list from Taylor. Card names are in English.",
  "cards": [
   {
    "n": "001/103",
@@ -600,6 +600,12 @@
    "v": "h"
   },
   {
+   "n": "119/103",
+   "name": "Kommo-o",
+   "v": "h",
+   "r": "AR"
+  },
+  {
    "n": "120/103",
    "name": "Meowth",
    "v": "h"
@@ -640,9 +646,27 @@
    "v": "h"
   },
   {
+   "n": "128/103",
+   "name": "Mewtwo ex",
+   "v": "h",
+   "r": "SAR"
+  },
+  {
+   "n": "129/103",
+   "name": "Mew ex",
+   "v": "h",
+   "r": "SAR"
+  },
+  {
    "n": "130/103",
    "name": "Sylveon ex",
    "v": "h"
+  },
+  {
+   "n": "131/103",
+   "name": "Gengar ex",
+   "v": "h",
+   "r": "SAR"
   },
   {
    "n": "132/103",
@@ -740,6 +764,16 @@
    "v": "h"
   },
   {
+   "n": "151/103",
+   "name": "Darkrai & Cresselia LEGEND (Top)",
+   "v": "h"
+  },
+  {
+   "n": "152/103",
+   "name": "Darkrai & Cresselia LEGEND (Bottom)",
+   "v": "h"
+  },
+  {
    "n": "153/103",
    "name": "N",
    "v": "h"
@@ -807,42 +841,42 @@
   {
    "n": "DAR",
    "name": "Basic Darkness Energy",
-   "v": "h"
+   "v": "n"
   },
   {
    "n": "FIG",
    "name": "Basic Fighting Energy",
-   "v": "h"
+   "v": "n"
   },
   {
    "n": "FIR",
    "name": "Basic Fire Energy",
-   "v": "h"
+   "v": "n"
   },
   {
    "n": "GRA",
    "name": "Basic Grass Energy",
-   "v": "h"
+   "v": "n"
   },
   {
    "n": "LIG",
    "name": "Basic Lightning Energy",
-   "v": "h"
+   "v": "n"
   },
   {
    "n": "MET",
    "name": "Basic Metal Energy",
-   "v": "h"
+   "v": "n"
   },
   {
    "n": "PSY",
    "name": "Basic Psychic Energy",
-   "v": "h"
+   "v": "n"
   },
   {
    "n": "WAT",
    "name": "Basic Water Energy",
-   "v": "h"
+   "v": "n"
   }
  ]
 }

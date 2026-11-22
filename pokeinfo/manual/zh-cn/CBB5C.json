@@ -1,0 +1,992 @@
+{
+ "id": "CBB5C",
+ "name": "宝石包 Vol.5",
+ "serie": "朱&紫",
+ "serie_id": "SV",
+ "date": "2026-04-24",
+ "official": null,
+ "abbr": "CBB5C",
+ "note": "Card list from Taylor. Card names are in English. Numbers are Pokémon slot + version (0101 = slot 1, version 1).",
+ "cards": [
+  {
+   "n": "0101",
+   "name": "Captain Pikachu",
+   "v": "h"
+  },
+  {
+   "n": "0102",
+   "name": "Captain Pikachu",
+   "v": "h"
+  },
+  {
+   "n": "0103",
+   "name": "Captain Pikachu",
+   "v": "h"
+  },
+  {
+   "n": "0104",
+   "name": "Captain Pikachu",
+   "v": "h"
+  },
+  {
+   "n": "0105",
+   "name": "Captain Pikachu",
+   "v": "h"
+  },
+  {
+   "n": "0106",
+   "name": "Captain Pikachu",
+   "v": "h"
+  },
+  {
+   "n": "0107",
+   "name": "Captain Pikachu",
+   "v": "h"
+  },
+  {
+   "n": "0201",
+   "name": "Hisuian Growlithe",
+   "v": "h"
+  },
+  {
+   "n": "0202",
+   "name": "Hisuian Growlithe",
+   "v": "h"
+  },
+  {
+   "n": "0203",
+   "name": "Hisuian Growlithe",
+   "v": "h"
+  },
+  {
+   "n": "0204",
+   "name": "Hisuian Growlithe",
+   "v": "h"
+  },
+  {
+   "n": "0205",
+   "name": "Hisuian Growlithe",
+   "v": "h"
+  },
+  {
+   "n": "0206",
+   "name": "Hisuian Growlithe",
+   "v": "h"
+  },
+  {
+   "n": "0207",
+   "name": "Hisuian Growlithe",
+   "v": "h"
+  },
+  {
+   "n": "0301",
+   "name": "Magneton",
+   "v": "h"
+  },
+  {
+   "n": "0302",
+   "name": "Magneton",
+   "v": "h"
+  },
+  {
+   "n": "0303",
+   "name": "Magneton",
+   "v": "h"
+  },
+  {
+   "n": "0304",
+   "name": "Magneton",
+   "v": "h"
+  },
+  {
+   "n": "0305",
+   "name": "Magneton",
+   "v": "h"
+  },
+  {
+   "n": "0306",
+   "name": "Magneton",
+   "v": "h"
+  },
+  {
+   "n": "0307",
+   "name": "Magneton",
+   "v": "h"
+  },
+  {
+   "n": "0401",
+   "name": "Chansey",
+   "v": "h"
+  },
+  {
+   "n": "0402",
+   "name": "Chansey",
+   "v": "h"
+  },
+  {
+   "n": "0403",
+   "name": "Chansey",
+   "v": "h"
+  },
+  {
+   "n": "0404",
+   "name": "Chansey",
+   "v": "h"
+  },
+  {
+   "n": "0405",
+   "name": "Chansey",
+   "v": "h"
+  },
+  {
+   "n": "0406",
+   "name": "Chansey",
+   "v": "h"
+  },
+  {
+   "n": "0407",
+   "name": "Chansey",
+   "v": "h"
+  },
+  {
+   "n": "0501",
+   "name": "Horsea",
+   "v": "h"
+  },
+  {
+   "n": "0502",
+   "name": "Horsea",
+   "v": "h"
+  },
+  {
+   "n": "0503",
+   "name": "Horsea",
+   "v": "h"
+  },
+  {
+   "n": "0504",
+   "name": "Horsea",
+   "v": "h"
+  },
+  {
+   "n": "0505",
+   "name": "Horsea",
+   "v": "h"
+  },
+  {
+   "n": "0506",
+   "name": "Horsea",
+   "v": "h"
+  },
+  {
+   "n": "0507",
+   "name": "Horsea",
+   "v": "h"
+  },
+  {
+   "n": "0601",
+   "name": "Sunflora",
+   "v": "h"
+  },
+  {
+   "n": "0602",
+   "name": "Sunflora",
+   "v": "h"
+  },
+  {
+   "n": "0603",
+   "name": "Sunflora",
+   "v": "h"
+  },
+  {
+   "n": "0604",
+   "name": "Sunflora",
+   "v": "h"
+  },
+  {
+   "n": "0605",
+   "name": "Sunflora",
+   "v": "h"
+  },
+  {
+   "n": "0606",
+   "name": "Sunflora",
+   "v": "h"
+  },
+  {
+   "n": "0607",
+   "name": "Sunflora",
+   "v": "h"
+  },
+  {
+   "n": "0701",
+   "name": "Skarmory",
+   "v": "h"
+  },
+  {
+   "n": "0702",
+   "name": "Skarmory",
+   "v": "h"
+  },
+  {
+   "n": "0703",
+   "name": "Skarmory",
+   "v": "h"
+  },
+  {
+   "n": "0704",
+   "name": "Skarmory",
+   "v": "h"
+  },
+  {
+   "n": "0705",
+   "name": "Skarmory",
+   "v": "h"
+  },
+  {
+   "n": "0706",
+   "name": "Skarmory",
+   "v": "h"
+  },
+  {
+   "n": "0707",
+   "name": "Skarmory",
+   "v": "h"
+  },
+  {
+   "n": "0801",
+   "name": "Houndoom",
+   "v": "h"
+  },
+  {
+   "n": "0802",
+   "name": "Houndoom",
+   "v": "h"
+  },
+  {
+   "n": "0803",
+   "name": "Houndoom",
+   "v": "h"
+  },
+  {
+   "n": "0804",
+   "name": "Houndoom",
+   "v": "h"
+  },
+  {
+   "n": "0805",
+   "name": "Houndoom",
+   "v": "h"
+  },
+  {
+   "n": "0806",
+   "name": "Houndoom",
+   "v": "h"
+  },
+  {
+   "n": "0807",
+   "name": "Houndoom",
+   "v": "h"
+  },
+  {
+   "n": "0901",
+   "name": "Phanpy",
+   "v": "h"
+  },
+  {
+   "n": "0902",
+   "name": "Phanpy",
+   "v": "h"
+  },
+  {
+   "n": "0903",
+   "name": "Phanpy",
+   "v": "h"
+  },
+  {
+   "n": "0904",
+   "name": "Phanpy",
+   "v": "h"
+  },
+  {
+   "n": "0905",
+   "name": "Phanpy",
+   "v": "h"
+  },
+  {
+   "n": "0906",
+   "name": "Phanpy",
+   "v": "h"
+  },
+  {
+   "n": "0907",
+   "name": "Phanpy",
+   "v": "h"
+  },
+  {
+   "n": "1001",
+   "name": "Vibrava",
+   "v": "h"
+  },
+  {
+   "n": "1002",
+   "name": "Vibrava",
+   "v": "h"
+  },
+  {
+   "n": "1003",
+   "name": "Vibrava",
+   "v": "h"
+  },
+  {
+   "n": "1004",
+   "name": "Vibrava",
+   "v": "h"
+  },
+  {
+   "n": "1005",
+   "name": "Vibrava",
+   "v": "h"
+  },
+  {
+   "n": "1006",
+   "name": "Vibrava",
+   "v": "h"
+  },
+  {
+   "n": "1007",
+   "name": "Vibrava",
+   "v": "h"
+  },
+  {
+   "n": "1101",
+   "name": "Chimecho",
+   "v": "h"
+  },
+  {
+   "n": "1102",
+   "name": "Chimecho",
+   "v": "h"
+  },
+  {
+   "n": "1103",
+   "name": "Chimecho",
+   "v": "h"
+  },
+  {
+   "n": "1104",
+   "name": "Chimecho",
+   "v": "h"
+  },
+  {
+   "n": "1105",
+   "name": "Chimecho",
+   "v": "h"
+  },
+  {
+   "n": "1106",
+   "name": "Chimecho",
+   "v": "h"
+  },
+  {
+   "n": "1107",
+   "name": "Chimecho",
+   "v": "h"
+  },
+  {
+   "n": "1201",
+   "name": "Spheal",
+   "v": "h"
+  },
+  {
+   "n": "1202",
+   "name": "Spheal",
+   "v": "h"
+  },
+  {
+   "n": "1203",
+   "name": "Spheal",
+   "v": "h"
+  },
+  {
+   "n": "1204",
+   "name": "Spheal",
+   "v": "h"
+  },
+  {
+   "n": "1205",
+   "name": "Spheal",
+   "v": "h"
+  },
+  {
+   "n": "1206",
+   "name": "Spheal",
+   "v": "h"
+  },
+  {
+   "n": "1207",
+   "name": "Spheal",
+   "v": "h"
+  },
+  {
+   "n": "1301",
+   "name": "Latios",
+   "v": "h"
+  },
+  {
+   "n": "1302",
+   "name": "Latios",
+   "v": "h"
+  },
+  {
+   "n": "1303",
+   "name": "Latios",
+   "v": "h"
+  },
+  {
+   "n": "1304",
+   "name": "Latios",
+   "v": "h"
+  },
+  {
+   "n": "1305",
+   "name": "Latios",
+   "v": "h"
+  },
+  {
+   "n": "1306",
+   "name": "Latios",
+   "v": "h"
+  },
+  {
+   "n": "1307",
+   "name": "Latios",
+   "v": "h"
+  },
+  {
+   "n": "1401",
+   "name": "Timburr",
+   "v": "h"
+  },
+  {
+   "n": "1402",
+   "name": "Timburr",
+   "v": "h"
+  },
+  {
+   "n": "1403",
+   "name": "Timburr",
+   "v": "h"
+  },
+  {
+   "n": "1404",
+   "name": "Timburr",
+   "v": "h"
+  },
+  {
+   "n": "1405",
+   "name": "Timburr",
+   "v": "h"
+  },
+  {
+   "n": "1406",
+   "name": "Timburr",
+   "v": "h"
+  },
+  {
+   "n": "1407",
+   "name": "Timburr",
+   "v": "h"
+  },
+  {
+   "n": "1501",
+   "name": "Joltik",
+   "v": "h"
+  },
+  {
+   "n": "1502",
+   "name": "Joltik",
+   "v": "h"
+  },
+  {
+   "n": "1503",
+   "name": "Joltik",
+   "v": "h"
+  },
+  {
+   "n": "1504",
+   "name": "Joltik",
+   "v": "h"
+  },
+  {
+   "n": "1505",
+   "name": "Joltik",
+   "v": "h"
+  },
+  {
+   "n": "1506",
+   "name": "Joltik",
+   "v": "h"
+  },
+  {
+   "n": "1507",
+   "name": "Joltik",
+   "v": "h"
+  },
+  {
+   "n": "1601",
+   "name": "Stunfisk",
+   "v": "h"
+  },
+  {
+   "n": "1602",
+   "name": "Stunfisk",
+   "v": "h"
+  },
+  {
+   "n": "1603",
+   "name": "Stunfisk",
+   "v": "h"
+  },
+  {
+   "n": "1604",
+   "name": "Stunfisk",
+   "v": "h"
+  },
+  {
+   "n": "1605",
+   "name": "Stunfisk",
+   "v": "h"
+  },
+  {
+   "n": "1606",
+   "name": "Stunfisk",
+   "v": "h"
+  },
+  {
+   "n": "1607",
+   "name": "Stunfisk",
+   "v": "h"
+  },
+  {
+   "n": "1701",
+   "name": "Braviary",
+   "v": "h"
+  },
+  {
+   "n": "1702",
+   "name": "Braviary",
+   "v": "h"
+  },
+  {
+   "n": "1703",
+   "name": "Braviary",
+   "v": "h"
+  },
+  {
+   "n": "1704",
+   "name": "Braviary",
+   "v": "h"
+  },
+  {
+   "n": "1705",
+   "name": "Braviary",
+   "v": "h"
+  },
+  {
+   "n": "1706",
+   "name": "Braviary",
+   "v": "h"
+  },
+  {
+   "n": "1707",
+   "name": "Braviary",
+   "v": "h"
+  },
+  {
+   "n": "1801",
+   "name": "Vivillon",
+   "v": "h"
+  },
+  {
+   "n": "1802",
+   "name": "Vivillon",
+   "v": "h"
+  },
+  {
+   "n": "1803",
+   "name": "Vivillon",
+   "v": "h"
+  },
+  {
+   "n": "1804",
+   "name": "Vivillon",
+   "v": "h"
+  },
+  {
+   "n": "1805",
+   "name": "Vivillon",
+   "v": "h"
+  },
+  {
+   "n": "1806",
+   "name": "Vivillon",
+   "v": "h"
+  },
+  {
+   "n": "1807",
+   "name": "Vivillon",
+   "v": "h"
+  },
+  {
+   "n": "1901",
+   "name": "Raboot",
+   "v": "h"
+  },
+  {
+   "n": "1902",
+   "name": "Raboot",
+   "v": "h"
+  },
+  {
+   "n": "1903",
+   "name": "Raboot",
+   "v": "h"
+  },
+  {
+   "n": "1904",
+   "name": "Raboot",
+   "v": "h"
+  },
+  {
+   "n": "1905",
+   "name": "Raboot",
+   "v": "h"
+  },
+  {
+   "n": "1906",
+   "name": "Raboot",
+   "v": "h"
+  },
+  {
+   "n": "1907",
+   "name": "Raboot",
+   "v": "h"
+  },
+  {
+   "n": "2001",
+   "name": "Applin",
+   "v": "h"
+  },
+  {
+   "n": "2002",
+   "name": "Applin",
+   "v": "h"
+  },
+  {
+   "n": "2003",
+   "name": "Applin",
+   "v": "h"
+  },
+  {
+   "n": "2004",
+   "name": "Applin",
+   "v": "h"
+  },
+  {
+   "n": "2005",
+   "name": "Applin",
+   "v": "h"
+  },
+  {
+   "n": "2006",
+   "name": "Applin",
+   "v": "h"
+  },
+  {
+   "n": "2007",
+   "name": "Applin",
+   "v": "h"
+  },
+  {
+   "n": "2101",
+   "name": "Milcery",
+   "v": "h"
+  },
+  {
+   "n": "2102",
+   "name": "Milcery",
+   "v": "h"
+  },
+  {
+   "n": "2103",
+   "name": "Milcery",
+   "v": "h"
+  },
+  {
+   "n": "2104",
+   "name": "Milcery",
+   "v": "h"
+  },
+  {
+   "n": "2105",
+   "name": "Milcery",
+   "v": "h"
+  },
+  {
+   "n": "2106",
+   "name": "Milcery",
+   "v": "h"
+  },
+  {
+   "n": "2107",
+   "name": "Milcery",
+   "v": "h"
+  },
+  {
+   "n": "2201",
+   "name": "Floragato",
+   "v": "h"
+  },
+  {
+   "n": "2202",
+   "name": "Floragato",
+   "v": "h"
+  },
+  {
+   "n": "2203",
+   "name": "Floragato",
+   "v": "h"
+  },
+  {
+   "n": "2204",
+   "name": "Floragato",
+   "v": "h"
+  },
+  {
+   "n": "2205",
+   "name": "Floragato",
+   "v": "h"
+  },
+  {
+   "n": "2206",
+   "name": "Floragato",
+   "v": "h"
+  },
+  {
+   "n": "2207",
+   "name": "Floragato",
+   "v": "h"
+  },
+  {
+   "n": "2301",
+   "name": "Crocalor",
+   "v": "h"
+  },
+  {
+   "n": "2302",
+   "name": "Crocalor",
+   "v": "h"
+  },
+  {
+   "n": "2303",
+   "name": "Crocalor",
+   "v": "h"
+  },
+  {
+   "n": "2304",
+   "name": "Crocalor",
+   "v": "h"
+  },
+  {
+   "n": "2305",
+   "name": "Crocalor",
+   "v": "h"
+  },
+  {
+   "n": "2306",
+   "name": "Crocalor",
+   "v": "h"
+  },
+  {
+   "n": "2307",
+   "name": "Crocalor",
+   "v": "h"
+  },
+  {
+   "n": "2401",
+   "name": "Quaxwell",
+   "v": "h"
+  },
+  {
+   "n": "2402",
+   "name": "Quaxwell",
+   "v": "h"
+  },
+  {
+   "n": "2403",
+   "name": "Quaxwell",
+   "v": "h"
+  },
+  {
+   "n": "2404",
+   "name": "Quaxwell",
+   "v": "h"
+  },
+  {
+   "n": "2405",
+   "name": "Quaxwell",
+   "v": "h"
+  },
+  {
+   "n": "2406",
+   "name": "Quaxwell",
+   "v": "h"
+  },
+  {
+   "n": "2407",
+   "name": "Quaxwell",
+   "v": "h"
+  },
+  {
+   "n": "2501",
+   "name": "Ceruledge",
+   "v": "h"
+  },
+  {
+   "n": "2502",
+   "name": "Ceruledge",
+   "v": "h"
+  },
+  {
+   "n": "2503",
+   "name": "Ceruledge",
+   "v": "h"
+  },
+  {
+   "n": "2504",
+   "name": "Ceruledge",
+   "v": "h"
+  },
+  {
+   "n": "2505",
+   "name": "Ceruledge",
+   "v": "h"
+  },
+  {
+   "n": "2506",
+   "name": "Ceruledge",
+   "v": "h"
+  },
+  {
+   "n": "2507",
+   "name": "Ceruledge",
+   "v": "h"
+  },
+  {
+   "n": "2601",
+   "name": "Wattrel",
+   "v": "h"
+  },
+  {
+   "n": "2602",
+   "name": "Wattrel",
+   "v": "h"
+  },
+  {
+   "n": "2603",
+   "name": "Wattrel",
+   "v": "h"
+  },
+  {
+   "n": "2604",
+   "name": "Wattrel",
+   "v": "h"
+  },
+  {
+   "n": "2605",
+   "name": "Wattrel",
+   "v": "h"
+  },
+  {
+   "n": "2606",
+   "name": "Wattrel",
+   "v": "h"
+  },
+  {
+   "n": "2607",
+   "name": "Wattrel",
+   "v": "h"
+  },
+  {
+   "n": "2701",
+   "name": "Cetitan",
+   "v": "h"
+  },
+  {
+   "n": "2702",
+   "name": "Cetitan",
+   "v": "h"
+  },
+  {
+   "n": "2703",
+   "name": "Cetitan",
+   "v": "h"
+  },
+  {
+   "n": "2704",
+   "name": "Cetitan",
+   "v": "h"
+  },
+  {
+   "n": "2705",
+   "name": "Cetitan",
+   "v": "h"
+  },
+  {
+   "n": "2706",
+   "name": "Cetitan",
+   "v": "h"
+  },
+  {
+   "n": "2707",
+   "name": "Cetitan",
+   "v": "h"
+  },
+  {
+   "n": "2801",
+   "name": "Tatsugiri",
+   "v": "h"
+  },
+  {
+   "n": "2802",
+   "name": "Tatsugiri",
+   "v": "h"
+  },
+  {
+   "n": "2803",
+   "name": "Tatsugiri",
+   "v": "h"
+  },
+  {
+   "n": "2804",
+   "name": "Tatsugiri",
+   "v": "h"
+  },
+  {
+   "n": "2805",
+   "name": "Tatsugiri",
+   "v": "h"
+  },
+  {
+   "n": "2806",
+   "name": "Tatsugiri",
+   "v": "h"
+  },
+  {
+   "n": "2807",
+   "name": "Tatsugiri",
+   "v": "h"
+  }
+ ]
+}

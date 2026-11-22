@@ -1,0 +1,837 @@
+{
+ "id": "CSV3C",
+ "name": "无畏太晶",
+ "serie": "朱&紫",
+ "serie_id": "SV",
+ "date": "2025-05-16",
+ "official": 130,
+ "abbr": "CSV3C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/130",
+   "name": "Hoppip",
+   "v": "nrq"
+  },
+  {
+   "n": "002/130",
+   "name": "Skiploom",
+   "v": "nrq"
+  },
+  {
+   "n": "003/130",
+   "name": "Jumpluff",
+   "v": "nrq"
+  },
+  {
+   "n": "004/130",
+   "name": "Pineco",
+   "v": "nrq"
+  },
+  {
+   "n": "005/130",
+   "name": "Forretress ex",
+   "v": "n"
+  },
+  {
+   "n": "006/130",
+   "name": "Surskit",
+   "v": "nrq"
+  },
+  {
+   "n": "007/130",
+   "name": "Masquerain",
+   "v": "nrq"
+  },
+  {
+   "n": "008/130",
+   "name": "Snover",
+   "v": "nrq"
+  },
+  {
+   "n": "009/130",
+   "name": "Abomasnow",
+   "v": "nrq"
+  },
+  {
+   "n": "010/130",
+   "name": "Bounsweet",
+   "v": "nrq"
+  },
+  {
+   "n": "011/130",
+   "name": "Steenee",
+   "v": "nrq"
+  },
+  {
+   "n": "012/130",
+   "name": "Tsareena",
+   "v": "nrq"
+  },
+  {
+   "n": "013/130",
+   "name": "Tarountula",
+   "v": "nrq"
+  },
+  {
+   "n": "014/130",
+   "name": "Spidops",
+   "v": "nrq"
+  },
+  {
+   "n": "015/130",
+   "name": "Wo-Chien ex",
+   "v": "n"
+  },
+  {
+   "n": "016/130",
+   "name": "Growlithe",
+   "v": "nrq"
+  },
+  {
+   "n": "017/130",
+   "name": "Arcanine",
+   "v": "nrq"
+  },
+  {
+   "n": "018/130",
+   "name": "Arcanine ex",
+   "v": "n"
+  },
+  {
+   "n": "019/130",
+   "name": "Numel",
+   "v": "nrq"
+  },
+  {
+   "n": "020/130",
+   "name": "Camerupt",
+   "v": "nrq"
+  },
+  {
+   "n": "021/130",
+   "name": "Torkoal",
+   "v": "nrq"
+  },
+  {
+   "n": "022/130",
+   "name": "Litwick",
+   "v": "nrq"
+  },
+  {
+   "n": "023/130",
+   "name": "Lampent",
+   "v": "nrq"
+  },
+  {
+   "n": "024/130",
+   "name": "Chandelure",
+   "v": "nrq"
+  },
+  {
+   "n": "025/130",
+   "name": "Larvesta",
+   "v": "nrq"
+  },
+  {
+   "n": "026/130",
+   "name": "Volcarona",
+   "v": "nrq"
+  },
+  {
+   "n": "027/130",
+   "name": "Fletchinder",
+   "v": "nrq"
+  },
+  {
+   "n": "028/130",
+   "name": "Talonflame",
+   "v": "nrq"
+  },
+  {
+   "n": "029/130",
+   "name": "Charcadet",
+   "v": "nrq"
+  },
+  {
+   "n": "030/130",
+   "name": "Armarouge",
+   "v": "nrq"
+  },
+  {
+   "n": "031/130",
+   "name": "Chi-Yu ex",
+   "v": "n"
+  },
+  {
+   "n": "032/130",
+   "name": "Magikarp",
+   "v": "nrq"
+  },
+  {
+   "n": "033/130",
+   "name": "Gyarados ex",
+   "v": "n"
+  },
+  {
+   "n": "034/130",
+   "name": "Marill",
+   "v": "nrq"
+  },
+  {
+   "n": "035/130",
+   "name": "Azumarill",
+   "v": "nrq"
+  },
+  {
+   "n": "036/130",
+   "name": "Luvdisc",
+   "v": "nrq"
+  },
+  {
+   "n": "037/130",
+   "name": "Eiscue",
+   "v": "nrq"
+  },
+  {
+   "n": "038/130",
+   "name": "Cetoddle",
+   "v": "nrq"
+  },
+  {
+   "n": "039/130",
+   "name": "Cetitan",
+   "v": "nrq"
+  },
+  {
+   "n": "040/130",
+   "name": "Frigibax",
+   "v": "nrq"
+  },
+  {
+   "n": "041/130",
+   "name": "Arctibax",
+   "v": "nrq"
+  },
+  {
+   "n": "042/130",
+   "name": "Baxcalibur",
+   "v": "nrq"
+  },
+  {
+   "n": "043/130",
+   "name": "Chien-Pao ex",
+   "v": "n"
+  },
+  {
+   "n": "044/130",
+   "name": "Pikachu",
+   "v": "nrq"
+  },
+  {
+   "n": "045/130",
+   "name": "Raichu",
+   "v": "nrq"
+  },
+  {
+   "n": "046/130",
+   "name": "Voltorb",
+   "v": "nrq"
+  },
+  {
+   "n": "047/130",
+   "name": "Electrode",
+   "v": "nrq"
+  },
+  {
+   "n": "048/130",
+   "name": "Mareep",
+   "v": "nrq"
+  },
+  {
+   "n": "049/130",
+   "name": "Flaaffy",
+   "v": "nrq"
+  },
+  {
+   "n": "050/130",
+   "name": "Ampharos ex",
+   "v": "n"
+  },
+  {
+   "n": "051/130",
+   "name": "Pincurchin",
+   "v": "nrq"
+  },
+  {
+   "n": "052/130",
+   "name": "Tadbulb",
+   "v": "nrq"
+  },
+  {
+   "n": "053/130",
+   "name": "Bellibolt ex",
+   "v": "n"
+  },
+  {
+   "n": "054/130",
+   "name": "Wattrel",
+   "v": "nrq"
+  },
+  {
+   "n": "055/130",
+   "name": "Kilowattrel",
+   "v": "nrq"
+  },
+  {
+   "n": "056/130",
+   "name": "Jigglypuff",
+   "v": "nrq"
+  },
+  {
+   "n": "057/130",
+   "name": "Wigglytuff",
+   "v": "nrq"
+  },
+  {
+   "n": "058/130",
+   "name": "Latios",
+   "v": "nrq"
+  },
+  {
+   "n": "059/130",
+   "name": "Oranguru",
+   "v": "nrq"
+  },
+  {
+   "n": "060/130",
+   "name": "Sandygast",
+   "v": "nrq"
+  },
+  {
+   "n": "061/130",
+   "name": "Palossand",
+   "v": "nrq"
+  },
+  {
+   "n": "062/130",
+   "name": "Mimikyu",
+   "v": "nrq"
+  },
+  {
+   "n": "063/130",
+   "name": "Mimikyu ex",
+   "v": "n"
+  },
+  {
+   "n": "064/130",
+   "name": "Flittle",
+   "v": "nrq"
+  },
+  {
+   "n": "065/130",
+   "name": "Espathra",
+   "v": "nrq"
+  },
+  {
+   "n": "066/130",
+   "name": "Greavard",
+   "v": "nrq"
+  },
+  {
+   "n": "067/130",
+   "name": "Houndstone",
+   "v": "nrq"
+  },
+  {
+   "n": "068/130",
+   "name": "Sudowoodo",
+   "v": "nrq"
+  },
+  {
+   "n": "069/130",
+   "name": "Barboach",
+   "v": "nrq"
+  },
+  {
+   "n": "070/130",
+   "name": "Whiscash",
+   "v": "nrq"
+  },
+  {
+   "n": "071/130",
+   "name": "Croagunk",
+   "v": "nrq"
+  },
+  {
+   "n": "072/130",
+   "name": "Toxicroak",
+   "v": "nrq"
+  },
+  {
+   "n": "073/130",
+   "name": "Drilbur",
+   "v": "nrq"
+  },
+  {
+   "n": "074/130",
+   "name": "Crabrawler",
+   "v": "nrq"
+  },
+  {
+   "n": "075/130",
+   "name": "Crabominable",
+   "v": "nrq"
+  },
+  {
+   "n": "076/130",
+   "name": "Passimian",
+   "v": "nrq"
+  },
+  {
+   "n": "077/130",
+   "name": "Klawf ex",
+   "v": "n"
+  },
+  {
+   "n": "078/130",
+   "name": "Glimmet",
+   "v": "nrq"
+  },
+  {
+   "n": "079/130",
+   "name": "Glimmora",
+   "v": "nrq"
+  },
+  {
+   "n": "080/130",
+   "name": "Ting-Lu ex",
+   "v": "n"
+  },
+  {
+   "n": "081/130",
+   "name": "Sneasel",
+   "v": "nrq"
+  },
+  {
+   "n": "082/130",
+   "name": "Weavile",
+   "v": "nrq"
+  },
+  {
+   "n": "083/130",
+   "name": "Houndour",
+   "v": "nrq"
+  },
+  {
+   "n": "084/130",
+   "name": "Houndoom ex",
+   "v": "n"
+  },
+  {
+   "n": "085/130",
+   "name": "Seviper",
+   "v": "nrq"
+  },
+  {
+   "n": "086/130",
+   "name": "Morpeko",
+   "v": "nrq"
+  },
+  {
+   "n": "087/130",
+   "name": "Maschiff",
+   "v": "nrq"
+  },
+  {
+   "n": "088/130",
+   "name": "Mabosstiff",
+   "v": "nrq"
+  },
+  {
+   "n": "089/130",
+   "name": "Bronzor",
+   "v": "nrq"
+  },
+  {
+   "n": "090/130",
+   "name": "Bronzong",
+   "v": "nrq"
+  },
+  {
+   "n": "091/130",
+   "name": "Excadrill",
+   "v": "nrq"
+  },
+  {
+   "n": "092/130",
+   "name": "Meltan",
+   "v": "nrq"
+  },
+  {
+   "n": "093/130",
+   "name": "Melmetal ex",
+   "v": "n"
+  },
+  {
+   "n": "094/130",
+   "name": "Corviknight",
+   "v": "nrq"
+  },
+  {
+   "n": "095/130",
+   "name": "Orthworm",
+   "v": "nrq"
+  },
+  {
+   "n": "096/130",
+   "name": "Girafarig",
+   "v": "nrq"
+  },
+  {
+   "n": "097/130",
+   "name": "Farigiraf",
+   "v": "nrq"
+  },
+  {
+   "n": "098/130",
+   "name": "Dunsparce",
+   "v": "nrq"
+  },
+  {
+   "n": "099/130",
+   "name": "Dudunsparce",
+   "v": "nrq"
+  },
+  {
+   "n": "100/130",
+   "name": "Wingull",
+   "v": "nrq"
+  },
+  {
+   "n": "101/130",
+   "name": "Pelipper",
+   "v": "nrq"
+  },
+  {
+   "n": "102/130",
+   "name": "Slakoth",
+   "v": "nrq"
+  },
+  {
+   "n": "103/130",
+   "name": "Vigoroth",
+   "v": "nrq"
+  },
+  {
+   "n": "104/130",
+   "name": "Slaking",
+   "v": "nrq"
+  },
+  {
+   "n": "105/130",
+   "name": "Zangoose",
+   "v": "nrq"
+  },
+  {
+   "n": "106/130",
+   "name": "Fletchling",
+   "v": "nrq"
+  },
+  {
+   "n": "107/130",
+   "name": "Yungoos",
+   "v": "nrq"
+  },
+  {
+   "n": "108/130",
+   "name": "Gumshoos",
+   "v": "nrq"
+  },
+  {
+   "n": "109/130",
+   "name": "Rookidee",
+   "v": "nrq"
+  },
+  {
+   "n": "110/130",
+   "name": "Corvisquire",
+   "v": "nrq"
+  },
+  {
+   "n": "111/130",
+   "name": "Lechonk",
+   "v": "nrq"
+  },
+  {
+   "n": "112/130",
+   "name": "Oinkologne ex",
+   "v": "n"
+  },
+  {
+   "n": "113/130",
+   "name": "Cyclizar",
+   "v": "nrq"
+  },
+  {
+   "n": "114/130",
+   "name": "Flamigo",
+   "v": "nrq"
+  },
+  {
+   "n": "115/130",
+   "name": "Super Energy Retrieval",
+   "v": "nrq"
+  },
+  {
+   "n": "116/130",
+   "name": "Great Ball",
+   "v": "nrq"
+  },
+  {
+   "n": "117/130",
+   "name": "Picnic Basket",
+   "v": "nrq"
+  },
+  {
+   "n": "118/130",
+   "name": "Protective Goggles",
+   "v": "nrq"
+  },
+  {
+   "n": "119/130",
+   "name": "Big Air Balloon",
+   "v": "nrq"
+  },
+  {
+   "n": "120/130",
+   "name": "Vengeful Punch",
+   "v": "nrq"
+  },
+  {
+   "n": "121/130",
+   "name": "Grusha",
+   "v": "nrq"
+  },
+  {
+   "n": "122/130",
+   "name": "Brassius",
+   "v": "nrq"
+  },
+  {
+   "n": "123/130",
+   "name": "Iono",
+   "v": "nrq"
+  },
+  {
+   "n": "124/130",
+   "name": "Falkner",
+   "v": "nrq"
+  },
+  {
+   "n": "125/130",
+   "name": "Giacomo",
+   "v": "nrq"
+  },
+  {
+   "n": "126/130",
+   "name": "Bill’s Transfer",
+   "v": "nrq"
+  },
+  {
+   "n": "127/130",
+   "name": "Ryme",
+   "v": "nrq"
+  },
+  {
+   "n": "128/130",
+   "name": "Calamitous Wasteland",
+   "v": "nrq"
+  },
+  {
+   "n": "129/130",
+   "name": "Calamitous Snowy Mountain",
+   "v": "nrq"
+  },
+  {
+   "n": "130/130",
+   "name": "Therapeutic Energy",
+   "v": "nrq"
+  },
+  {
+   "n": "131/130",
+   "name": "Frigibax",
+   "v": "h"
+  },
+  {
+   "n": "132/130",
+   "name": "Arctibax",
+   "v": "h"
+  },
+  {
+   "n": "133/130",
+   "name": "Baxcalibur",
+   "v": "h"
+  },
+  {
+   "n": "134/130",
+   "name": "Sandygast",
+   "v": "h"
+  },
+  {
+   "n": "135/130",
+   "name": "Mabosstiff",
+   "v": "h"
+  },
+  {
+   "n": "136/130",
+   "name": "Orthworm",
+   "v": "h"
+  },
+  {
+   "n": "137/130",
+   "name": "Farigiraf",
+   "v": "h"
+  },
+  {
+   "n": "138/130",
+   "name": "Dudunsparce",
+   "v": "h"
+  },
+  {
+   "n": "139/130",
+   "name": "Forretress ex",
+   "v": "h"
+  },
+  {
+   "n": "140/130",
+   "name": "Wo-Chien ex",
+   "v": "h"
+  },
+  {
+   "n": "141/130",
+   "name": "Arcanine ex",
+   "v": "h"
+  },
+  {
+   "n": "142/130",
+   "name": "Chi-Yu ex",
+   "v": "h"
+  },
+  {
+   "n": "143/130",
+   "name": "Gyarados ex",
+   "v": "h"
+  },
+  {
+   "n": "144/130",
+   "name": "Chien-Pao ex",
+   "v": "h"
+  },
+  {
+   "n": "145/130",
+   "name": "Bellibolt ex",
+   "v": "h"
+  },
+  {
+   "n": "146/130",
+   "name": "Ting-Lu ex",
+   "v": "h"
+  },
+  {
+   "n": "147/130",
+   "name": "Oinkologne ex",
+   "v": "h"
+  },
+  {
+   "n": "148/130",
+   "name": "Grusha",
+   "v": "h"
+  },
+  {
+   "n": "149/130",
+   "name": "Iono",
+   "v": "h"
+  },
+  {
+   "n": "150/130",
+   "name": "Falkner",
+   "v": "h"
+  },
+  {
+   "n": "151/130",
+   "name": "Giacomo",
+   "v": "h"
+  },
+  {
+   "n": "152/130",
+   "name": "Bill’s Transfer",
+   "v": "h"
+  },
+  {
+   "n": "153/130",
+   "name": "Ryme",
+   "v": "h"
+  },
+  {
+   "n": "154/130",
+   "name": "Wo-Chien ex",
+   "v": "h"
+  },
+  {
+   "n": "155/130",
+   "name": "Arcanine ex",
+   "v": "h"
+  },
+  {
+   "n": "156/130",
+   "name": "Chi-Yu ex",
+   "v": "h"
+  },
+  {
+   "n": "157/130",
+   "name": "Chien-Pao ex",
+   "v": "h"
+  },
+  {
+   "n": "158/130",
+   "name": "Ting-Lu ex",
+   "v": "h"
+  },
+  {
+   "n": "159/130",
+   "name": "Grusha",
+   "v": "h"
+  },
+  {
+   "n": "160/130",
+   "name": "Iono",
+   "v": "h"
+  },
+  {
+   "n": "161/130",
+   "name": "Giacomo",
+   "v": "h"
+  },
+  {
+   "n": "162/130",
+   "name": "Chien-Pao ex",
+   "v": "h"
+  },
+  {
+   "n": "163/130",
+   "name": "Ting-Lu ex",
+   "v": "h"
+  },
+  {
+   "n": "164/130",
+   "name": "Super Energy Retrieval",
+   "v": "h"
+  },
+  {
+   "n": "165/130",
+   "name": "Reversal Energy",
+   "v": "h"
+  }
+ ]
+}

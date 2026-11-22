@@ -1,0 +1,588 @@
+{
+ "id": "CS6.5C",
+ "name": "胜象星引",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-11-15",
+ "official": 72,
+ "abbr": "CS6.5C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/072",
+   "name": "Alolan Exeggutor V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "002/072",
+   "name": "Seedot",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "003/072",
+   "name": "Nuzleaf",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "004/072",
+   "name": "Shiftry",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "005/072",
+   "name": "Carnivine",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "006/072",
+   "name": "Leafeon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "007/072",
+   "name": "Chesnaught V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "008/072",
+   "name": "Calyrex",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "009/072",
+   "name": "Slugma",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "010/072",
+   "name": "Magcargo",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "011/072",
+   "name": "Entei",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "012/072",
+   "name": "Delphox V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "013/072",
+   "name": "Alolan Vulpix V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "014/072",
+   "name": "Alolan Vulpix VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "015/072",
+   "name": "Articuno",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "016/072",
+   "name": "Feebas",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "017/072",
+   "name": "Milotic",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "018/072",
+   "name": "Kyogre",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "019/072",
+   "name": "Glaceon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "020/072",
+   "name": "Radiant Greninja",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "021/072",
+   "name": "Pikachu",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "022/072",
+   "name": "Raichu",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "023/072",
+   "name": "Rotom V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "024/072",
+   "name": "Rotom VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "025/072",
+   "name": "Radiant Charjabug",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "026/072",
+   "name": "Jynx",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "027/072",
+   "name": "Unown V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "028/072",
+   "name": "Unown VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "029/072",
+   "name": "Ralts",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "030/072",
+   "name": "Kirlia",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "031/072",
+   "name": "Gardevoir",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "032/072",
+   "name": "Sableye",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "033/072",
+   "name": "Cresselia",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "034/072",
+   "name": "Espurr",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "035/072",
+   "name": "Meowstic",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "036/072",
+   "name": "Dedenne",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "037/072",
+   "name": "Hatterene V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "038/072",
+   "name": "Hatterene VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "039/072",
+   "name": "Murkrow",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "040/072",
+   "name": "Honchkrow",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "041/072",
+   "name": "Spiritomb",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "042/072",
+   "name": "Morpeko",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "043/072",
+   "name": "Klink",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "044/072",
+   "name": "Klang",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "045/072",
+   "name": "Klinklang",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "046/072",
+   "name": "Togedemaru",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "047/072",
+   "name": "Magearna",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "048/072",
+   "name": "Zacian",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "049/072",
+   "name": "Zamazenta",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "050/072",
+   "name": "Dratini",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "051/072",
+   "name": "Dragonair",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "052/072",
+   "name": "Dragonite",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "053/072",
+   "name": "Zygarde",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "054/072",
+   "name": "Regidrago V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "055/072",
+   "name": "Regidrago VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "056/072",
+   "name": "Eevee",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "057/072",
+   "name": "Porygon",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "058/072",
+   "name": "Porygon2",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "059/072",
+   "name": "Porygon-Z",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "060/072",
+   "name": "Smeargle",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "061/072",
+   "name": "Chatot",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "062/072",
+   "name": "Tool Box",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "063/072",
+   "name": "Trekking Shoes",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "064/072",
+   "name": "Emergency Jelly",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "065/072",
+   "name": "Panic Mask",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "066/072",
+   "name": "Forest Seal Stone",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "067/072",
+   "name": "Raihan",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "068/072",
+   "name": "Gardenia's Vigor",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "069/072",
+   "name": "Melony",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "070/072",
+   "name": "Lance",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "071/072",
+   "name": "Collapsed Stadium",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "072/072",
+   "name": "V Guard Energy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "073/072",
+   "name": "Alolan Exeggutor V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "074/072",
+   "name": "Chesnaught V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "075/072",
+   "name": "Delphox V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "076/072",
+   "name": "Alolan Vulpix V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "077/072",
+   "name": "Rotom V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "078/072",
+   "name": "Rotom V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "079/072",
+   "name": "Unown V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "080/072",
+   "name": "Unown V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "081/072",
+   "name": "Regidrago V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "082/072",
+   "name": "Regidrago V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "083/072",
+   "name": "Gardenia's Vigor",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "084/072",
+   "name": "Lance",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "085/072",
+   "name": "Hatterene VMAX",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "086/072",
+   "name": "Raihan",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "087/072",
+   "name": "Gardenia's Vigor",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "088/072",
+   "name": "Melony",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "089/072",
+   "name": "Alolan Vulpix VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "090/072",
+   "name": "Unown VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "091/072",
+   "name": "Regidrago VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "092/072",
+   "name": "Gardenia's Vigor",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "093/072",
+   "name": "Lance",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "094/072",
+   "name": "Trekking Shoes",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "095/072",
+   "name": "Collapsed Stadium",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "096/072",
+   "name": "V Guard Energy",
+   "r": "UR",
+   "v": "h"
+  }
+ ]
+}

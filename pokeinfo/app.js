@@ -25,9 +25,9 @@ const FULL_LISTS = {
 };
 const fullListLink = (lang, text) => FULL_LISTS[lang]
   ? `<a class="extlink" href="${esc(FULL_LISTS[lang].url)}" target="_blank" rel="noopener">${esc(text || `Every ${LANGS.find((l) => l.id === lang).name} set on ${FULL_LISTS[lang].site}`)} ↗</a>` : "";
-const VNAME = { n: "Normal", h: "Holo", r: "Reverse holo", f: "1st edition", p: "Poké Ball reverse holo", m: "Master Ball reverse holo", s: "Starlight holo" };
-const VLABEL = { r: "Reverse", h: "Holo", f: "1st Ed.", p: "Poké Ball", m: "Master Ball", s: "Starlight" };
-const isRev = (v) => /[rpm]/.test(v || "");
+const VNAME = { n: "Normal", h: "Holo", r: "Reverse holo", f: "1st edition", p: "Poké Ball reverse holo", m: "Master Ball reverse holo", s: "Starlight holo", q: "Reverse holo 2", w: "Reverse holo 3" };
+const VLABEL = { r: "Reverse", h: "Holo", f: "1st Ed.", p: "Poké Ball", m: "Master Ball", s: "Starlight", q: "Reverse 2", w: "Reverse 3" };
+const isRev = (v) => /[rpmqw]/.test(v || "");
 const VSHORT = { n: "N", h: "H", r: "R", f: "1st", p: "PB", m: "MB" };
 
 const store = {
@@ -383,7 +383,7 @@ function drawCardHits() {
 const pic = (c, size = "low") => c.img ? `${c.img}/${size}.webp` : c.ps ? (size === "low" ? c.ps : c.pl || c.ps) : null;
 const HOW = { traded: "Traded", sold: "Sold" };
 function defaultVersion(c) { return ["n", "h", "f", "r", "p", "m", "s"].find((v) => (c.v || "").includes(v)) || "n"; }
-function versions(c) { return (c.v || "n").split("").sort((a, b) => "nhfrpms".indexOf(a) - "nhfrpms".indexOf(b)); }
+function versions(c) { return (c.v || "n").split("").sort((a, b) => "nhfrqwpms".indexOf(a) - "nhfrqwpms".indexOf(b)); }
 
 async function renderSet(id) {
   const meta = D.sets[S.lang].sets.find((s) => s.id === id);

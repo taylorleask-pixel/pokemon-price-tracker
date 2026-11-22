@@ -1,0 +1,462 @@
+{
+ "id": "CS3.5C",
+ "name": "怒炎灼天",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-01-05",
+ "official": 66,
+ "abbr": "CS3.5C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/066",
+   "name": "Weedle",
+   "v": "n"
+  },
+  {
+   "n": "002/066",
+   "name": "Kakuna",
+   "v": "n"
+  },
+  {
+   "n": "003/066",
+   "name": "Beedrill",
+   "v": "n"
+  },
+  {
+   "n": "004/066",
+   "name": "Celebi",
+   "v": "n"
+  },
+  {
+   "n": "005/066",
+   "name": "Kricketune V",
+   "v": "n"
+  },
+  {
+   "n": "006/066",
+   "name": "Durant",
+   "v": "n"
+  },
+  {
+   "n": "007/066",
+   "name": "Castform Sunny Form",
+   "v": "n"
+  },
+  {
+   "n": "008/066",
+   "name": "Victini V",
+   "v": "n"
+  },
+  {
+   "n": "009/066",
+   "name": "Victini VMAX",
+   "v": "n"
+  },
+  {
+   "n": "010/066",
+   "name": "Tepig",
+   "v": "n"
+  },
+  {
+   "n": "011/066",
+   "name": "Pignite",
+   "v": "n"
+  },
+  {
+   "n": "012/066",
+   "name": "Emboar",
+   "v": "n"
+  },
+  {
+   "n": "013/066",
+   "name": "Volcanion V",
+   "v": "n"
+  },
+  {
+   "n": "014/066",
+   "name": "Sizzlipede",
+   "v": "n"
+  },
+  {
+   "n": "015/066",
+   "name": "Centiskorch",
+   "v": "n"
+  },
+  {
+   "n": "016/066",
+   "name": "Sneasel",
+   "v": "n"
+  },
+  {
+   "n": "017/066",
+   "name": "Weavile",
+   "v": "n"
+  },
+  {
+   "n": "018/066",
+   "name": "Delibird",
+   "v": "n"
+  },
+  {
+   "n": "019/066",
+   "name": "Castform Rainy Form",
+   "v": "n"
+  },
+  {
+   "n": "020/066",
+   "name": "Castform Snowy Form",
+   "v": "n"
+  },
+  {
+   "n": "021/066",
+   "name": "Empoleon V",
+   "v": "n"
+  },
+  {
+   "n": "022/066",
+   "name": "Manaphy",
+   "v": "n"
+  },
+  {
+   "n": "023/066",
+   "name": "Sobble",
+   "v": "n"
+  },
+  {
+   "n": "024/066",
+   "name": "Drizzile",
+   "v": "n"
+  },
+  {
+   "n": "025/066",
+   "name": "Inteleon",
+   "v": "n"
+  },
+  {
+   "n": "026/066",
+   "name": "Arctovish V",
+   "v": "n"
+  },
+  {
+   "n": "027/066",
+   "name": "Rapid Strike Urshifu",
+   "v": "n"
+  },
+  {
+   "n": "028/066",
+   "name": "Dracozolt V",
+   "v": "n"
+  },
+  {
+   "n": "029/066",
+   "name": "Dracozolt VMAX",
+   "v": "n"
+  },
+  {
+   "n": "030/066",
+   "name": "Galarian Slowpoke",
+   "v": "n"
+  },
+  {
+   "n": "031/066",
+   "name": "Woobat",
+   "v": "n"
+  },
+  {
+   "n": "032/066",
+   "name": "Swoobat",
+   "v": "n"
+  },
+  {
+   "n": "033/066",
+   "name": "Inkay",
+   "v": "n"
+  },
+  {
+   "n": "034/066",
+   "name": "Malamar",
+   "v": "n"
+  },
+  {
+   "n": "035/066",
+   "name": "Hatenna",
+   "v": "n"
+  },
+  {
+   "n": "036/066",
+   "name": "Hattrem",
+   "v": "n"
+  },
+  {
+   "n": "037/066",
+   "name": "Hatterene",
+   "v": "n"
+  },
+  {
+   "n": "038/066",
+   "name": "Galarian Yamask",
+   "v": "n"
+  },
+  {
+   "n": "039/066",
+   "name": "Galarian Runerigus",
+   "v": "n"
+  },
+  {
+   "n": "040/066",
+   "name": "Kubfu",
+   "v": "n"
+  },
+  {
+   "n": "041/066",
+   "name": "Galarian Moltres V",
+   "v": "n"
+  },
+  {
+   "n": "042/066",
+   "name": "Galarian Slowking",
+   "v": "n"
+  },
+  {
+   "n": "043/066",
+   "name": "Spiritomb",
+   "v": "n"
+  },
+  {
+   "n": "044/066",
+   "name": "Single Strike Urshifu",
+   "v": "n"
+  },
+  {
+   "n": "045/066",
+   "name": "Honedge",
+   "v": "n"
+  },
+  {
+   "n": "046/066",
+   "name": "Doublade",
+   "v": "n"
+  },
+  {
+   "n": "047/066",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "048/066",
+   "name": "Aegislash",
+   "v": "n"
+  },
+  {
+   "n": "049/066",
+   "name": "Lickitung",
+   "v": "n"
+  },
+  {
+   "n": "050/066",
+   "name": "Lickilicky",
+   "v": "n"
+  },
+  {
+   "n": "051/066",
+   "name": "Castform",
+   "v": "n"
+  },
+  {
+   "n": "052/066",
+   "name": "Bouffalant",
+   "v": "n"
+  },
+  {
+   "n": "053/066",
+   "name": "Skwovet",
+   "v": "n"
+  },
+  {
+   "n": "054/066",
+   "name": "Greedent",
+   "v": "n"
+  },
+  {
+   "n": "055/066",
+   "name": "Energy Recycler",
+   "v": "n"
+  },
+  {
+   "n": "056/066",
+   "name": "Great Ball",
+   "v": "n"
+  },
+  {
+   "n": "057/066",
+   "name": "Echoing Horn",
+   "v": "n"
+  },
+  {
+   "n": "058/066",
+   "name": "Galarian Chestplate",
+   "v": "n"
+  },
+  {
+   "n": "059/066",
+   "name": "Tool Jammer",
+   "v": "n"
+  },
+  {
+   "n": "060/066",
+   "name": "Klara",
+   "v": "n"
+  },
+  {
+   "n": "061/066",
+   "name": "Avery",
+   "v": "n"
+  },
+  {
+   "n": "062/066",
+   "name": "Peony",
+   "v": "n"
+  },
+  {
+   "n": "063/066",
+   "name": "Path to the Peak",
+   "v": "n"
+  },
+  {
+   "n": "064/066",
+   "name": "Impact Energy",
+   "v": "n"
+  },
+  {
+   "n": "065/066",
+   "name": "Spiral Energy",
+   "v": "n"
+  },
+  {
+   "n": "066/066",
+   "name": "Lucky Energy",
+   "v": "n"
+  },
+  {
+   "n": "067/066",
+   "name": "Malamar",
+   "v": "h"
+  },
+  {
+   "n": "068/066",
+   "name": "Castform",
+   "v": "h"
+  },
+  {
+   "n": "069/066",
+   "name": "Kricketune V",
+   "v": "h"
+  },
+  {
+   "n": "070/066",
+   "name": "Victini V",
+   "v": "h"
+  },
+  {
+   "n": "071/066",
+   "name": "Volcanion V",
+   "v": "h"
+  },
+  {
+   "n": "072/066",
+   "name": "Empoleon V",
+   "v": "h"
+  },
+  {
+   "n": "073/066",
+   "name": "Empoleon V",
+   "v": "h"
+  },
+  {
+   "n": "074/066",
+   "name": "Arctovish V",
+   "v": "h"
+  },
+  {
+   "n": "075/066",
+   "name": "Dracozolt V",
+   "v": "h"
+  },
+  {
+   "n": "076/066",
+   "name": "Galarian Moltres V",
+   "v": "h"
+  },
+  {
+   "n": "077/066",
+   "name": "Galarian Moltres V",
+   "v": "h"
+  },
+  {
+   "n": "078/066",
+   "name": "Klara",
+   "v": "h"
+  },
+  {
+   "n": "079/066",
+   "name": "Avery",
+   "v": "h"
+  },
+  {
+   "n": "080/066",
+   "name": "Peony",
+   "v": "h"
+  },
+  {
+   "n": "081/066",
+   "name": "Kricketune V",
+   "v": "h"
+  },
+  {
+   "n": "082/066",
+   "name": "Galarian Moltres V",
+   "v": "h"
+  },
+  {
+   "n": "083/066",
+   "name": "Victini VMAX",
+   "v": "h"
+  },
+  {
+   "n": "084/066",
+   "name": "Dracozolt VMAX",
+   "v": "h"
+  },
+  {
+   "n": "085/066",
+   "name": "Klara",
+   "v": "h"
+  },
+  {
+   "n": "086/066",
+   "name": "Avery",
+   "v": "h"
+  },
+  {
+   "n": "087/066",
+   "name": "Peony",
+   "v": "h"
+  },
+  {
+   "n": "088/066",
+   "name": "Inteleon",
+   "v": "h"
+  },
+  {
+   "n": "089/066",
+   "name": "Echoing Horn",
+   "v": "h"
+  },
+  {
+   "n": "090/066",
+   "name": "Path to the Peak",
+   "v": "h"
+  }
+ ]
+}

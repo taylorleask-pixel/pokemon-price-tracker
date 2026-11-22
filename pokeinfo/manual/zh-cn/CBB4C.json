@@ -1,0 +1,992 @@
+{
+ "id": "CBB4C",
+ "name": "宝石包 Vol.4",
+ "serie": "朱&紫",
+ "serie_id": "SV",
+ "date": "2026-02-26",
+ "official": null,
+ "abbr": "CBB4C",
+ "note": "Card list from Taylor. Card names are in English. Numbers are Pokémon slot + version (0101 = slot 1, version 1).",
+ "cards": [
+  {
+   "n": "0101",
+   "name": "Ponyta",
+   "v": "h"
+  },
+  {
+   "n": "0102",
+   "name": "Ponyta",
+   "v": "h"
+  },
+  {
+   "n": "0103",
+   "name": "Ponyta",
+   "v": "h"
+  },
+  {
+   "n": "0104",
+   "name": "Ponyta",
+   "v": "h"
+  },
+  {
+   "n": "0105",
+   "name": "Ponyta",
+   "v": "h"
+  },
+  {
+   "n": "0106",
+   "name": "Ponyta",
+   "v": "h"
+  },
+  {
+   "n": "0107",
+   "name": "Ponyta",
+   "v": "h"
+  },
+  {
+   "n": "0201",
+   "name": "Lickitung",
+   "v": "h"
+  },
+  {
+   "n": "0202",
+   "name": "Lickitung",
+   "v": "h"
+  },
+  {
+   "n": "0203",
+   "name": "Lickitung",
+   "v": "h"
+  },
+  {
+   "n": "0204",
+   "name": "Lickitung",
+   "v": "h"
+  },
+  {
+   "n": "0205",
+   "name": "Lickitung",
+   "v": "h"
+  },
+  {
+   "n": "0206",
+   "name": "Lickitung",
+   "v": "h"
+  },
+  {
+   "n": "0207",
+   "name": "Lickitung",
+   "v": "h"
+  },
+  {
+   "n": "0301",
+   "name": "Pinsir",
+   "v": "h"
+  },
+  {
+   "n": "0302",
+   "name": "Pinsir",
+   "v": "h"
+  },
+  {
+   "n": "0303",
+   "name": "Pinsir",
+   "v": "h"
+  },
+  {
+   "n": "0304",
+   "name": "Pinsir",
+   "v": "h"
+  },
+  {
+   "n": "0305",
+   "name": "Pinsir",
+   "v": "h"
+  },
+  {
+   "n": "0306",
+   "name": "Pinsir",
+   "v": "h"
+  },
+  {
+   "n": "0307",
+   "name": "Pinsir",
+   "v": "h"
+  },
+  {
+   "n": "0401",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0402",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0403",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0404",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0405",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0406",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0407",
+   "name": "Eevee",
+   "v": "h"
+  },
+  {
+   "n": "0501",
+   "name": "Paldean Wooper",
+   "v": "h"
+  },
+  {
+   "n": "0502",
+   "name": "Paldean Wooper",
+   "v": "h"
+  },
+  {
+   "n": "0503",
+   "name": "Paldean Wooper",
+   "v": "h"
+  },
+  {
+   "n": "0504",
+   "name": "Paldean Wooper",
+   "v": "h"
+  },
+  {
+   "n": "0505",
+   "name": "Paldean Wooper",
+   "v": "h"
+  },
+  {
+   "n": "0506",
+   "name": "Paldean Wooper",
+   "v": "h"
+  },
+  {
+   "n": "0507",
+   "name": "Paldean Wooper",
+   "v": "h"
+  },
+  {
+   "n": "0601",
+   "name": "Torkoal",
+   "v": "h"
+  },
+  {
+   "n": "0602",
+   "name": "Torkoal",
+   "v": "h"
+  },
+  {
+   "n": "0603",
+   "name": "Torkoal",
+   "v": "h"
+  },
+  {
+   "n": "0604",
+   "name": "Torkoal",
+   "v": "h"
+  },
+  {
+   "n": "0605",
+   "name": "Torkoal",
+   "v": "h"
+  },
+  {
+   "n": "0606",
+   "name": "Torkoal",
+   "v": "h"
+  },
+  {
+   "n": "0607",
+   "name": "Torkoal",
+   "v": "h"
+  },
+  {
+   "n": "0701",
+   "name": "Relicanth",
+   "v": "h"
+  },
+  {
+   "n": "0702",
+   "name": "Relicanth",
+   "v": "h"
+  },
+  {
+   "n": "0703",
+   "name": "Relicanth",
+   "v": "h"
+  },
+  {
+   "n": "0704",
+   "name": "Relicanth",
+   "v": "h"
+  },
+  {
+   "n": "0705",
+   "name": "Relicanth",
+   "v": "h"
+  },
+  {
+   "n": "0706",
+   "name": "Relicanth",
+   "v": "h"
+  },
+  {
+   "n": "0707",
+   "name": "Relicanth",
+   "v": "h"
+  },
+  {
+   "n": "0801",
+   "name": "Grotle",
+   "v": "h"
+  },
+  {
+   "n": "0802",
+   "name": "Grotle",
+   "v": "h"
+  },
+  {
+   "n": "0803",
+   "name": "Grotle",
+   "v": "h"
+  },
+  {
+   "n": "0804",
+   "name": "Grotle",
+   "v": "h"
+  },
+  {
+   "n": "0805",
+   "name": "Grotle",
+   "v": "h"
+  },
+  {
+   "n": "0806",
+   "name": "Grotle",
+   "v": "h"
+  },
+  {
+   "n": "0807",
+   "name": "Grotle",
+   "v": "h"
+  },
+  {
+   "n": "0901",
+   "name": "Infernape",
+   "v": "h"
+  },
+  {
+   "n": "0902",
+   "name": "Infernape",
+   "v": "h"
+  },
+  {
+   "n": "0903",
+   "name": "Infernape",
+   "v": "h"
+  },
+  {
+   "n": "0904",
+   "name": "Infernape",
+   "v": "h"
+  },
+  {
+   "n": "0905",
+   "name": "Infernape",
+   "v": "h"
+  },
+  {
+   "n": "0906",
+   "name": "Infernape",
+   "v": "h"
+  },
+  {
+   "n": "0907",
+   "name": "Infernape",
+   "v": "h"
+  },
+  {
+   "n": "1001",
+   "name": "Chatot",
+   "v": "h"
+  },
+  {
+   "n": "1002",
+   "name": "Chatot",
+   "v": "h"
+  },
+  {
+   "n": "1003",
+   "name": "Chatot",
+   "v": "h"
+  },
+  {
+   "n": "1004",
+   "name": "Chatot",
+   "v": "h"
+  },
+  {
+   "n": "1005",
+   "name": "Chatot",
+   "v": "h"
+  },
+  {
+   "n": "1006",
+   "name": "Chatot",
+   "v": "h"
+  },
+  {
+   "n": "1007",
+   "name": "Chatot",
+   "v": "h"
+  },
+  {
+   "n": "1101",
+   "name": "Probopass",
+   "v": "h"
+  },
+  {
+   "n": "1102",
+   "name": "Probopass",
+   "v": "h"
+  },
+  {
+   "n": "1103",
+   "name": "Probopass",
+   "v": "h"
+  },
+  {
+   "n": "1104",
+   "name": "Probopass",
+   "v": "h"
+  },
+  {
+   "n": "1105",
+   "name": "Probopass",
+   "v": "h"
+  },
+  {
+   "n": "1106",
+   "name": "Probopass",
+   "v": "h"
+  },
+  {
+   "n": "1107",
+   "name": "Probopass",
+   "v": "h"
+  },
+  {
+   "n": "1201",
+   "name": "Froslass",
+   "v": "h"
+  },
+  {
+   "n": "1202",
+   "name": "Froslass",
+   "v": "h"
+  },
+  {
+   "n": "1203",
+   "name": "Froslass",
+   "v": "h"
+  },
+  {
+   "n": "1204",
+   "name": "Froslass",
+   "v": "h"
+  },
+  {
+   "n": "1205",
+   "name": "Froslass",
+   "v": "h"
+  },
+  {
+   "n": "1206",
+   "name": "Froslass",
+   "v": "h"
+  },
+  {
+   "n": "1207",
+   "name": "Froslass",
+   "v": "h"
+  },
+  {
+   "n": "1301",
+   "name": "Phione",
+   "v": "h"
+  },
+  {
+   "n": "1302",
+   "name": "Phione",
+   "v": "h"
+  },
+  {
+   "n": "1303",
+   "name": "Phione",
+   "v": "h"
+  },
+  {
+   "n": "1304",
+   "name": "Phione",
+   "v": "h"
+  },
+  {
+   "n": "1305",
+   "name": "Phione",
+   "v": "h"
+  },
+  {
+   "n": "1306",
+   "name": "Phione",
+   "v": "h"
+  },
+  {
+   "n": "1307",
+   "name": "Phione",
+   "v": "h"
+  },
+  {
+   "n": "1401",
+   "name": "Excadrill",
+   "v": "h"
+  },
+  {
+   "n": "1402",
+   "name": "Excadrill",
+   "v": "h"
+  },
+  {
+   "n": "1403",
+   "name": "Excadrill",
+   "v": "h"
+  },
+  {
+   "n": "1404",
+   "name": "Excadrill",
+   "v": "h"
+  },
+  {
+   "n": "1405",
+   "name": "Excadrill",
+   "v": "h"
+  },
+  {
+   "n": "1406",
+   "name": "Excadrill",
+   "v": "h"
+  },
+  {
+   "n": "1407",
+   "name": "Excadrill",
+   "v": "h"
+  },
+  {
+   "n": "1501",
+   "name": "Minccino",
+   "v": "h"
+  },
+  {
+   "n": "1502",
+   "name": "Minccino",
+   "v": "h"
+  },
+  {
+   "n": "1503",
+   "name": "Minccino",
+   "v": "h"
+  },
+  {
+   "n": "1504",
+   "name": "Minccino",
+   "v": "h"
+  },
+  {
+   "n": "1505",
+   "name": "Minccino",
+   "v": "h"
+  },
+  {
+   "n": "1506",
+   "name": "Minccino",
+   "v": "h"
+  },
+  {
+   "n": "1507",
+   "name": "Minccino",
+   "v": "h"
+  },
+  {
+   "n": "1601",
+   "name": "Cinccino",
+   "v": "h"
+  },
+  {
+   "n": "1602",
+   "name": "Cinccino",
+   "v": "h"
+  },
+  {
+   "n": "1603",
+   "name": "Cinccino",
+   "v": "h"
+  },
+  {
+   "n": "1604",
+   "name": "Cinccino",
+   "v": "h"
+  },
+  {
+   "n": "1605",
+   "name": "Cinccino",
+   "v": "h"
+  },
+  {
+   "n": "1606",
+   "name": "Cinccino",
+   "v": "h"
+  },
+  {
+   "n": "1607",
+   "name": "Cinccino",
+   "v": "h"
+  },
+  {
+   "n": "1701",
+   "name": "Deerling",
+   "v": "h"
+  },
+  {
+   "n": "1702",
+   "name": "Deerling",
+   "v": "h"
+  },
+  {
+   "n": "1703",
+   "name": "Deerling",
+   "v": "h"
+  },
+  {
+   "n": "1704",
+   "name": "Deerling",
+   "v": "h"
+  },
+  {
+   "n": "1705",
+   "name": "Deerling",
+   "v": "h"
+  },
+  {
+   "n": "1706",
+   "name": "Deerling",
+   "v": "h"
+  },
+  {
+   "n": "1707",
+   "name": "Deerling",
+   "v": "h"
+  },
+  {
+   "n": "1801",
+   "name": "Sawsbuck",
+   "v": "h"
+  },
+  {
+   "n": "1802",
+   "name": "Sawsbuck",
+   "v": "h"
+  },
+  {
+   "n": "1803",
+   "name": "Sawsbuck",
+   "v": "h"
+  },
+  {
+   "n": "1804",
+   "name": "Sawsbuck",
+   "v": "h"
+  },
+  {
+   "n": "1805",
+   "name": "Sawsbuck",
+   "v": "h"
+  },
+  {
+   "n": "1806",
+   "name": "Sawsbuck",
+   "v": "h"
+  },
+  {
+   "n": "1807",
+   "name": "Sawsbuck",
+   "v": "h"
+  },
+  {
+   "n": "1901",
+   "name": "Heliolisk",
+   "v": "h"
+  },
+  {
+   "n": "1902",
+   "name": "Heliolisk",
+   "v": "h"
+  },
+  {
+   "n": "1903",
+   "name": "Heliolisk",
+   "v": "h"
+  },
+  {
+   "n": "1904",
+   "name": "Heliolisk",
+   "v": "h"
+  },
+  {
+   "n": "1905",
+   "name": "Heliolisk",
+   "v": "h"
+  },
+  {
+   "n": "1906",
+   "name": "Heliolisk",
+   "v": "h"
+  },
+  {
+   "n": "1907",
+   "name": "Heliolisk",
+   "v": "h"
+  },
+  {
+   "n": "2001",
+   "name": "Litten",
+   "v": "h"
+  },
+  {
+   "n": "2002",
+   "name": "Litten",
+   "v": "h"
+  },
+  {
+   "n": "2003",
+   "name": "Litten",
+   "v": "h"
+  },
+  {
+   "n": "2004",
+   "name": "Litten",
+   "v": "h"
+  },
+  {
+   "n": "2005",
+   "name": "Litten",
+   "v": "h"
+  },
+  {
+   "n": "2006",
+   "name": "Litten",
+   "v": "h"
+  },
+  {
+   "n": "2007",
+   "name": "Litten",
+   "v": "h"
+  },
+  {
+   "n": "2101",
+   "name": "Charjabug",
+   "v": "h"
+  },
+  {
+   "n": "2102",
+   "name": "Charjabug",
+   "v": "h"
+  },
+  {
+   "n": "2103",
+   "name": "Charjabug",
+   "v": "h"
+  },
+  {
+   "n": "2104",
+   "name": "Charjabug",
+   "v": "h"
+  },
+  {
+   "n": "2105",
+   "name": "Charjabug",
+   "v": "h"
+  },
+  {
+   "n": "2106",
+   "name": "Charjabug",
+   "v": "h"
+  },
+  {
+   "n": "2107",
+   "name": "Charjabug",
+   "v": "h"
+  },
+  {
+   "n": "2201",
+   "name": "Cutiefly",
+   "v": "h"
+  },
+  {
+   "n": "2202",
+   "name": "Cutiefly",
+   "v": "h"
+  },
+  {
+   "n": "2203",
+   "name": "Cutiefly",
+   "v": "h"
+  },
+  {
+   "n": "2204",
+   "name": "Cutiefly",
+   "v": "h"
+  },
+  {
+   "n": "2205",
+   "name": "Cutiefly",
+   "v": "h"
+  },
+  {
+   "n": "2206",
+   "name": "Cutiefly",
+   "v": "h"
+  },
+  {
+   "n": "2207",
+   "name": "Cutiefly",
+   "v": "h"
+  },
+  {
+   "n": "2301",
+   "name": "Mudsdale",
+   "v": "h"
+  },
+  {
+   "n": "2302",
+   "name": "Mudsdale",
+   "v": "h"
+  },
+  {
+   "n": "2303",
+   "name": "Mudsdale",
+   "v": "h"
+  },
+  {
+   "n": "2304",
+   "name": "Mudsdale",
+   "v": "h"
+  },
+  {
+   "n": "2305",
+   "name": "Mudsdale",
+   "v": "h"
+  },
+  {
+   "n": "2306",
+   "name": "Mudsdale",
+   "v": "h"
+  },
+  {
+   "n": "2307",
+   "name": "Mudsdale",
+   "v": "h"
+  },
+  {
+   "n": "2401",
+   "name": "Meltan",
+   "v": "h"
+  },
+  {
+   "n": "2402",
+   "name": "Meltan",
+   "v": "h"
+  },
+  {
+   "n": "2403",
+   "name": "Meltan",
+   "v": "h"
+  },
+  {
+   "n": "2404",
+   "name": "Meltan",
+   "v": "h"
+  },
+  {
+   "n": "2405",
+   "name": "Meltan",
+   "v": "h"
+  },
+  {
+   "n": "2406",
+   "name": "Meltan",
+   "v": "h"
+  },
+  {
+   "n": "2407",
+   "name": "Meltan",
+   "v": "h"
+  },
+  {
+   "n": "2501",
+   "name": "Cramorant",
+   "v": "h"
+  },
+  {
+   "n": "2502",
+   "name": "Cramorant",
+   "v": "h"
+  },
+  {
+   "n": "2503",
+   "name": "Cramorant",
+   "v": "h"
+  },
+  {
+   "n": "2504",
+   "name": "Cramorant",
+   "v": "h"
+  },
+  {
+   "n": "2505",
+   "name": "Cramorant",
+   "v": "h"
+  },
+  {
+   "n": "2506",
+   "name": "Cramorant",
+   "v": "h"
+  },
+  {
+   "n": "2507",
+   "name": "Cramorant",
+   "v": "h"
+  },
+  {
+   "n": "2601",
+   "name": "Snom",
+   "v": "h"
+  },
+  {
+   "n": "2602",
+   "name": "Snom",
+   "v": "h"
+  },
+  {
+   "n": "2603",
+   "name": "Snom",
+   "v": "h"
+  },
+  {
+   "n": "2604",
+   "name": "Snom",
+   "v": "h"
+  },
+  {
+   "n": "2605",
+   "name": "Snom",
+   "v": "h"
+  },
+  {
+   "n": "2606",
+   "name": "Snom",
+   "v": "h"
+  },
+  {
+   "n": "2607",
+   "name": "Snom",
+   "v": "h"
+  },
+  {
+   "n": "2701",
+   "name": "Enamorus",
+   "v": "h"
+  },
+  {
+   "n": "2702",
+   "name": "Enamorus",
+   "v": "h"
+  },
+  {
+   "n": "2703",
+   "name": "Enamorus",
+   "v": "h"
+  },
+  {
+   "n": "2704",
+   "name": "Enamorus",
+   "v": "h"
+  },
+  {
+   "n": "2705",
+   "name": "Enamorus",
+   "v": "h"
+  },
+  {
+   "n": "2706",
+   "name": "Enamorus",
+   "v": "h"
+  },
+  {
+   "n": "2707",
+   "name": "Enamorus",
+   "v": "h"
+  },
+  {
+   "n": "2801",
+   "name": "Flutter Mane",
+   "v": "h"
+  },
+  {
+   "n": "2802",
+   "name": "Flutter Mane",
+   "v": "h"
+  },
+  {
+   "n": "2803",
+   "name": "Flutter Mane",
+   "v": "h"
+  },
+  {
+   "n": "2804",
+   "name": "Flutter Mane",
+   "v": "h"
+  },
+  {
+   "n": "2805",
+   "name": "Flutter Mane",
+   "v": "h"
+  },
+  {
+   "n": "2806",
+   "name": "Flutter Mane",
+   "v": "h"
+  },
+  {
+   "n": "2807",
+   "name": "Flutter Mane",
+   "v": "h"
+  }
+ ]
+}

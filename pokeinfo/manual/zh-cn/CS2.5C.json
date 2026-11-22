@@ -1,0 +1,407 @@
+{
+ "id": "CS2.5C",
+ "name": "璀璨反击",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2023-09-29",
+ "official": 59,
+ "abbr": "CS2.5C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/059",
+   "name": "Celebi",
+   "v": "n"
+  },
+  {
+   "n": "002/059",
+   "name": "Seedot",
+   "v": "nr"
+  },
+  {
+   "n": "003/059",
+   "name": "Nuzleaf",
+   "v": "nr"
+  },
+  {
+   "n": "004/059",
+   "name": "Shiftry",
+   "v": "nr"
+  },
+  {
+   "n": "005/059",
+   "name": "Flareon",
+   "v": "nr"
+  },
+  {
+   "n": "006/059",
+   "name": "Torchic",
+   "v": "nr"
+  },
+  {
+   "n": "007/059",
+   "name": "Combusken",
+   "v": "nr"
+  },
+  {
+   "n": "008/059",
+   "name": "Blaziken",
+   "v": "nr"
+  },
+  {
+   "n": "009/059",
+   "name": "Talonflame V",
+   "v": "n"
+  },
+  {
+   "n": "010/059",
+   "name": "Vaporeon",
+   "v": "nr"
+  },
+  {
+   "n": "011/059",
+   "name": "Oshawott",
+   "v": "nr"
+  },
+  {
+   "n": "012/059",
+   "name": "Dewott",
+   "v": "nr"
+  },
+  {
+   "n": "013/059",
+   "name": "Samurott",
+   "v": "nr"
+  },
+  {
+   "n": "014/059",
+   "name": "Jolteon",
+   "v": "nr"
+  },
+  {
+   "n": "015/059",
+   "name": "Electrike",
+   "v": "nr"
+  },
+  {
+   "n": "016/059",
+   "name": "Manectric",
+   "v": "nr"
+  },
+  {
+   "n": "017/059",
+   "name": "Duskull",
+   "v": "nr"
+  },
+  {
+   "n": "018/059",
+   "name": "Dusclops",
+   "v": "nr"
+  },
+  {
+   "n": "019/059",
+   "name": "Dusknoir",
+   "v": "nr"
+  },
+  {
+   "n": "020/059",
+   "name": "Mimikyu",
+   "v": "nr"
+  },
+  {
+   "n": "021/059",
+   "name": "Galarian Cursola V",
+   "v": "n"
+  },
+  {
+   "n": "022/059",
+   "name": "Machop",
+   "v": "nr"
+  },
+  {
+   "n": "023/059",
+   "name": "Machoke",
+   "v": "nr"
+  },
+  {
+   "n": "024/059",
+   "name": "Machamp",
+   "v": "nr"
+  },
+  {
+   "n": "025/059",
+   "name": "Galarian Sirfetch'd V",
+   "v": "n"
+  },
+  {
+   "n": "026/059",
+   "name": "Galarian Zigzagoon",
+   "v": "nr"
+  },
+  {
+   "n": "027/059",
+   "name": "Galarian Linoone",
+   "v": "nr"
+  },
+  {
+   "n": "028/059",
+   "name": "Galarian Obstagoon",
+   "v": "nr"
+  },
+  {
+   "n": "029/059",
+   "name": "Yveltal",
+   "v": "n"
+  },
+  {
+   "n": "030/059",
+   "name": "Jirachi",
+   "v": "n"
+  },
+  {
+   "n": "031/059",
+   "name": "Klink",
+   "v": "nr"
+  },
+  {
+   "n": "032/059",
+   "name": "Klang",
+   "v": "nr"
+  },
+  {
+   "n": "033/059",
+   "name": "Klinklang",
+   "v": "nr"
+  },
+  {
+   "n": "034/059",
+   "name": "Aegislash V",
+   "v": "n"
+  },
+  {
+   "n": "035/059",
+   "name": "Aegislash VMAX",
+   "v": "n"
+  },
+  {
+   "n": "036/059",
+   "name": "Cufant",
+   "v": "nr"
+  },
+  {
+   "n": "037/059",
+   "name": "Copperajah",
+   "v": "nr"
+  },
+  {
+   "n": "038/059",
+   "name": "Ditto V",
+   "v": "n"
+  },
+  {
+   "n": "039/059",
+   "name": "Ditto VMAX",
+   "v": "n"
+  },
+  {
+   "n": "040/059",
+   "name": "Eevee",
+   "v": "nr"
+  },
+  {
+   "n": "041/059",
+   "name": "Lugia",
+   "v": "nr"
+  },
+  {
+   "n": "042/059",
+   "name": "Taillow",
+   "v": "nr"
+  },
+  {
+   "n": "043/059",
+   "name": "Swellow",
+   "v": "nr"
+  },
+  {
+   "n": "044/059",
+   "name": "Togekiss V",
+   "v": "n"
+  },
+  {
+   "n": "045/059",
+   "name": "Togekiss VMAX",
+   "v": "n"
+  },
+  {
+   "n": "046/059",
+   "name": "Quick Ball",
+   "v": "nr"
+  },
+  {
+   "n": "047/059",
+   "name": "Turbo Patch",
+   "v": "nr"
+  },
+  {
+   "n": "048/059",
+   "name": "Rusted Sword",
+   "v": "nr"
+  },
+  {
+   "n": "049/059",
+   "name": "Rusted Shield",
+   "v": "nr"
+  },
+  {
+   "n": "050/059",
+   "name": "Memory Capsule",
+   "v": "nr"
+  },
+  {
+   "n": "051/059",
+   "name": "Beauty",
+   "v": "nr"
+  },
+  {
+   "n": "052/059",
+   "name": "Sordward & Shielbert",
+   "v": "nr"
+  },
+  {
+   "n": "053/059",
+   "name": "Professor's Research",
+   "v": "nr"
+  },
+  {
+   "n": "054/059",
+   "name": "Ball Guy",
+   "v": "nr"
+  },
+  {
+   "n": "055/059",
+   "name": "Boss's Orders",
+   "v": "nr"
+  },
+  {
+   "n": "056/059",
+   "name": "Rose",
+   "v": "nr"
+  },
+  {
+   "n": "057/059",
+   "name": "Rose Tower",
+   "v": "nr"
+  },
+  {
+   "n": "058/059",
+   "name": "Aromatic Grass Energy",
+   "v": "nr"
+  },
+  {
+   "n": "059/059",
+   "name": "Coating Metal Energy",
+   "v": "nr"
+  },
+  {
+   "n": "060/059",
+   "name": "Cufant",
+   "v": "h"
+  },
+  {
+   "n": "061/059",
+   "name": "Copperajah",
+   "v": "h"
+  },
+  {
+   "n": "062/059",
+   "name": "Talonflame V",
+   "v": "h"
+  },
+  {
+   "n": "063/059",
+   "name": "Galarian Cursola V",
+   "v": "h"
+  },
+  {
+   "n": "064/059",
+   "name": "Galarian Sirfetch'd V",
+   "v": "h"
+  },
+  {
+   "n": "065/059",
+   "name": "Aegislash V",
+   "v": "h"
+  },
+  {
+   "n": "066/059",
+   "name": "Togekiss V",
+   "v": "h"
+  },
+  {
+   "n": "067/059",
+   "name": "Beauty",
+   "v": "h"
+  },
+  {
+   "n": "068/059",
+   "name": "Professor's Research",
+   "v": "h"
+  },
+  {
+   "n": "069/059",
+   "name": "Ball Guy",
+   "v": "h"
+  },
+  {
+   "n": "070/059",
+   "name": "Boss's Orders",
+   "v": "h"
+  },
+  {
+   "n": "071/059",
+   "name": "Rose",
+   "v": "h"
+  },
+  {
+   "n": "072/059",
+   "name": "Ditto V",
+   "v": "h"
+  },
+  {
+   "n": "073/059",
+   "name": "Ditto VMAX",
+   "v": "h"
+  },
+  {
+   "n": "074/059",
+   "name": "Aegislash VMAX",
+   "v": "h"
+  },
+  {
+   "n": "075/059",
+   "name": "Togekiss VMAX",
+   "v": "h"
+  },
+  {
+   "n": "076/059",
+   "name": "Beauty",
+   "v": "h"
+  },
+  {
+   "n": "077/059",
+   "name": "Rose",
+   "v": "h"
+  },
+  {
+   "n": "078/059",
+   "name": "Turbo Patch",
+   "v": "h"
+  },
+  {
+   "n": "079/059",
+   "name": "Memory Capsule",
+   "v": "h"
+  }
+ ]
+}

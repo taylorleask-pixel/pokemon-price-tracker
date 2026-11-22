@@ -1,0 +1,1074 @@
+{
+ "id": "CS4bC",
+ "name": "九彩汇聚 源",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-03-01",
+ "official": 132,
+ "abbr": "CS4bC",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/132",
+   "name": "Hoppip",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "002/132",
+   "name": "Skiploom",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "003/132",
+   "name": "Jumpluff",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "004/132",
+   "name": "Sewaddle",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "005/132",
+   "name": "Swadloon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "006/132",
+   "name": "Leavanny",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "007/132",
+   "name": "Shelmet",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "008/132",
+   "name": "Accelgor",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "009/132",
+   "name": "Trevenant V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "010/132",
+   "name": "Trevenant VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "011/132",
+   "name": "Dewpider",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "012/132",
+   "name": "Araquanid",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "013/132",
+   "name": "Applin",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "014/132",
+   "name": "Growlithe",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "015/132",
+   "name": "Arcanine",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "016/132",
+   "name": "Slugma",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "017/132",
+   "name": "Magcargo",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "018/132",
+   "name": "Chandelure V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "019/132",
+   "name": "Chandelure VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "020/132",
+   "name": "Heatmor",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "021/132",
+   "name": "Shellder",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "022/132",
+   "name": "Cloyster",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "023/132",
+   "name": "Staryu",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "024/132",
+   "name": "Starmie",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "025/132",
+   "name": "Gyarados V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "026/132",
+   "name": "Gyarados VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "027/132",
+   "name": "Totodile",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "028/132",
+   "name": "Croconaw",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "029/132",
+   "name": "Feraligatr",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "030/132",
+   "name": "Clamperl",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "031/132",
+   "name": "Huntail",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "032/132",
+   "name": "Gorebyss",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "033/132",
+   "name": "Galarian Darumaka",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "034/132",
+   "name": "Galarian Darmanitan",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "035/132",
+   "name": "Snom",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "036/132",
+   "name": "Frosmoth",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "037/132",
+   "name": "Eiscue",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "038/132",
+   "name": "Mareep",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "039/132",
+   "name": "Flaaffy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "040/132",
+   "name": "Ampharos",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "041/132",
+   "name": "Rotom",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "042/132",
+   "name": "Helioptile",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "043/132",
+   "name": "Heliolisk",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "044/132",
+   "name": "Boltund V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "045/132",
+   "name": "Boltund VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "046/132",
+   "name": "Toxel",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "047/132",
+   "name": "Toxtricity",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "048/132",
+   "name": "Mew V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "049/132",
+   "name": "Mew VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "050/132",
+   "name": "Galarian Corsola",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "051/132",
+   "name": "Galarian Cursola",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "052/132",
+   "name": "Munna",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "053/132",
+   "name": "Musharna",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "054/132",
+   "name": "Golurk V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "055/132",
+   "name": "Indeedee",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "056/132",
+   "name": "Dreepy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "057/132",
+   "name": "Drakloak",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "058/132",
+   "name": "Dragapult",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "059/132",
+   "name": "Onix",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "060/132",
+   "name": "Steelix",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "061/132",
+   "name": "Hitmonchan",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "062/132",
+   "name": "Galarian Zapdos",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "063/132",
+   "name": "Makuhita",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "064/132",
+   "name": "Hariyama",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "065/132",
+   "name": "Drilbur",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "066/132",
+   "name": "Pancham",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "067/132",
+   "name": "Lycanroc V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "068/132",
+   "name": "Lycanroc VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "069/132",
+   "name": "Stufful",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "070/132",
+   "name": "Bewear",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "071/132",
+   "name": "Falinks",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "072/132",
+   "name": "Gengar V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "073/132",
+   "name": "Gengar VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "074/132",
+   "name": "Galarian Zigzagoon",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "075/132",
+   "name": "Galarian Linoone",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "076/132",
+   "name": "Galarian Obstagoon",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "077/132",
+   "name": "Absol",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "078/132",
+   "name": "Pangoro",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "079/132",
+   "name": "Hoopa V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "080/132",
+   "name": "Nickit",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "081/132",
+   "name": "Thievul",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "082/132",
+   "name": "Morpeko",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "083/132",
+   "name": "Excadrill",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "084/132",
+   "name": "Durant",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "085/132",
+   "name": "Genesect V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "086/132",
+   "name": "Meltan",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "087/132",
+   "name": "Melmetal",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "088/132",
+   "name": "Corviknight",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "089/132",
+   "name": "Cufant",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "090/132",
+   "name": "Copperajah",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "091/132",
+   "name": "Altaria",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "092/132",
+   "name": "Bagon",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "093/132",
+   "name": "Shelgon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "094/132",
+   "name": "Salamence",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "095/132",
+   "name": "Latias",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "096/132",
+   "name": "Latios",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "097/132",
+   "name": "Rayquaza V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "098/132",
+   "name": "Rayquaza VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "099/132",
+   "name": "Druddigon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "100/132",
+   "name": "Goomy",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "101/132",
+   "name": "Sliggoo",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "102/132",
+   "name": "Goodra",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "103/132",
+   "name": "Turtonator",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "104/132",
+   "name": "Flapple",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "105/132",
+   "name": "Appletun",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "106/132",
+   "name": "Smeargle",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "107/132",
+   "name": "Skitty",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "108/132",
+   "name": "Delcatty",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "109/132",
+   "name": "Swablu",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "110/132",
+   "name": "Bunnelby",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "111/132",
+   "name": "Diggersby",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "112/132",
+   "name": "Greedent V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "113/132",
+   "name": "Greedent VMAX",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "114/132",
+   "name": "Rookidee",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "115/132",
+   "name": "Corvisquire",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "116/132",
+   "name": "Lucky Ice Pop",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "117/132",
+   "name": "Crossceiver",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "118/132",
+   "name": "Power Tablet",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "119/132",
+   "name": "Cleansing Gloves",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "120/132",
+   "name": "Farewell Bell",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "121/132",
+   "name": "Hunting Gloves",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "122/132",
+   "name": "Rapid Strike Scroll of the Flying Dragon",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "123/132",
+   "name": "Sidney",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "124/132",
+   "name": "Elesa's Sparkle",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "125/132",
+   "name": "Schoolboy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "126/132",
+   "name": "Dancer",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "127/132",
+   "name": "Professor Burnet",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "128/132",
+   "name": "Zinnia's Resolve",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "129/132",
+   "name": "Chili & Cilan & Cress",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "130/132",
+   "name": "Stormy Mountains",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "131/132",
+   "name": "Skaters' Park",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "132/132",
+   "name": "Fusion Strike Energy",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "133/132",
+   "name": "Trevenant V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "134/132",
+   "name": "Chandelure V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "135/132",
+   "name": "Gyarados V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "136/132",
+   "name": "Boltund V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "137/132",
+   "name": "Mew V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "138/132",
+   "name": "Mew V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "139/132",
+   "name": "Golurk V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "140/132",
+   "name": "Golurk V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "141/132",
+   "name": "Lycanroc V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "142/132",
+   "name": "Hoopa V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "143/132",
+   "name": "Genesect V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "144/132",
+   "name": "Genesect V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "145/132",
+   "name": "Rayquaza V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "146/132",
+   "name": "Rayquaza V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "147/132",
+   "name": "Greedent V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "148/132",
+   "name": "Greedent V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "149/132",
+   "name": "Sidney",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "150/132",
+   "name": "Elesa's Sparkle",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "151/132",
+   "name": "Schoolboy",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "152/132",
+   "name": "Dancer",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "153/132",
+   "name": "Professor Burnet",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "154/132",
+   "name": "Zinnia's Resolve",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "155/132",
+   "name": "Chili & Cilan & Cress",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "156/132",
+   "name": "Rayquaza VMAX",
+   "r": "CSR",
+   "v": "h"
+  },
+  {
+   "n": "157/132",
+   "name": "Trevenant VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "158/132",
+   "name": "Chandelure VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "159/132",
+   "name": "Gyarados VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "160/132",
+   "name": "Boltund VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "161/132",
+   "name": "Mew VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "162/132",
+   "name": "Mew VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "163/132",
+   "name": "Lycanroc VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "164/132",
+   "name": "Rayquaza VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "165/132",
+   "name": "Rayquaza VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "166/132",
+   "name": "Greedent VMAX",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "167/132",
+   "name": "Sidney",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "168/132",
+   "name": "Elesa's Sparkle",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "169/132",
+   "name": "Schoolboy",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "170/132",
+   "name": "Dancer",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "171/132",
+   "name": "Zinnia's Resolve",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "172/132",
+   "name": "Chili & Cilan & Cress",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "173/132",
+   "name": "Flaaffy",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "174/132",
+   "name": "Power Tablet",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "175/132",
+   "name": "Stormy Mountains",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "176/132",
+   "name": "Lightning Energy",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "177/132",
+   "name": "Psychic Energy",
+   "r": "UR",
+   "v": "h"
+  }
+ ]
+}

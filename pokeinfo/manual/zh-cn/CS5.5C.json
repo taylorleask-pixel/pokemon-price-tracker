@@ -1,0 +1,546 @@
+{
+ "id": "CS5.5C",
+ "name": "暗影夺辉",
+ "serie": "剑&盾",
+ "serie_id": "S",
+ "date": "2024-08-02",
+ "official": 66,
+ "abbr": "CS5.5C",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/066",
+   "name": "Paras",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "002/066",
+   "name": "Parasect",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "003/066",
+   "name": "Hisuian Electrode V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "004/066",
+   "name": "Kricketot",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "005/066",
+   "name": "Kricketune",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "006/066",
+   "name": "Virizion V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "007/066",
+   "name": "Radiant Charizard",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "008/066",
+   "name": "Moltres",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "009/066",
+   "name": "Litwick",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "010/066",
+   "name": "Lampent",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "011/066",
+   "name": "Chandelure",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "012/066",
+   "name": "Squirtle",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "013/066",
+   "name": "Wartortle",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "014/066",
+   "name": "Blastoise",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "015/066",
+   "name": "Radiant Blastoise",
+   "r": "K",
+   "v": "n"
+  },
+  {
+   "n": "016/066",
+   "name": "Poliwag",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "017/066",
+   "name": "Poliwhirl",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "018/066",
+   "name": "Politoed",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "019/066",
+   "name": "Wailmer",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "020/066",
+   "name": "Wailord",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "021/066",
+   "name": "Regice",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "022/066",
+   "name": "Piplup",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "023/066",
+   "name": "Prinplup",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "024/066",
+   "name": "Empoleon",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "025/066",
+   "name": "Luxray V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "026/066",
+   "name": "Regieleki",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "027/066",
+   "name": "Gastly",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "028/066",
+   "name": "Haunter",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "029/066",
+   "name": "Gengar",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "030/066",
+   "name": "Misdreavus",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "031/066",
+   "name": "Mismagius",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "032/066",
+   "name": "Duskull",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "033/066",
+   "name": "Dusclops",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "034/066",
+   "name": "Dusknoir",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "035/066",
+   "name": "Chimecho",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "036/066",
+   "name": "Jirachi V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "037/066",
+   "name": "Sigilyph",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "038/066",
+   "name": "Hisuian Zorua",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "039/066",
+   "name": "Hisuian Zoroark",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "040/066",
+   "name": "Hisuian Growlithe",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "041/066",
+   "name": "Hisuian Arcanine",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "042/066",
+   "name": "Poliwrath",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "043/066",
+   "name": "Machop",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "044/066",
+   "name": "Machoke",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "045/066",
+   "name": "Machamp",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "046/066",
+   "name": "Sudowoodo",
+   "r": "C",
+   "v": "n"
+  },
+  {
+   "n": "047/066",
+   "name": "Regirock",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "048/066",
+   "name": "Carbink",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "049/066",
+   "name": "Hisuian Decidueye V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "050/066",
+   "name": "Hisuian Decidueye VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "051/066",
+   "name": "Registeel",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "052/066",
+   "name": "Hisuian Goodra V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "053/066",
+   "name": "Hisuian Goodra VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "054/066",
+   "name": "Regidrago",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "055/066",
+   "name": "Ditto",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "056/066",
+   "name": "Regigigas",
+   "r": "R",
+   "v": "n"
+  },
+  {
+   "n": "057/066",
+   "name": "Hisuian Zoroark V",
+   "r": "RR",
+   "v": "n"
+  },
+  {
+   "n": "058/066",
+   "name": "Hisuian Zoroark VSTAR",
+   "r": "RRR",
+   "v": "n"
+  },
+  {
+   "n": "059/066",
+   "name": "Damage Pump",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "060/066",
+   "name": "Hisuian Heavy Ball",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "061/066",
+   "name": "Windup Arm",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "062/066",
+   "name": "Box of Disaster",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "063/066",
+   "name": "Grant",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "064/066",
+   "name": "Cheren's Care",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "065/066",
+   "name": "Roxanne",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "066/066",
+   "name": "Gapejaw Bog",
+   "r": "U",
+   "v": "n"
+  },
+  {
+   "n": "067/066",
+   "name": "Hisuian Electrode V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "068/066",
+   "name": "Virizion V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "069/066",
+   "name": "Luxray V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "070/066",
+   "name": "Jirachi V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "071/066",
+   "name": "Hisuian Decidueye V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "072/066",
+   "name": "Hisuian Goodra V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "073/066",
+   "name": "Hisuian Zoroark V",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "074/066",
+   "name": "Grant",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "075/066",
+   "name": "Cheren's Care",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "076/066",
+   "name": "Roxanne",
+   "r": "SR",
+   "v": "h"
+  },
+  {
+   "n": "077/066",
+   "name": "Hisuian Zoroark VSTAR",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "078/066",
+   "name": "Grant",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "079/066",
+   "name": "Cheren's Care",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "080/066",
+   "name": "Roxanne",
+   "r": "SAR",
+   "v": "h"
+  },
+  {
+   "n": "081/066",
+   "name": "Hisuian Decidueye VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "082/066",
+   "name": "Hisuian Goodra VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "083/066",
+   "name": "Hisuian Zoroark VSTAR",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "084/066",
+   "name": "Grant",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "085/066",
+   "name": "Cheren's Care",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "086/066",
+   "name": "Roxanne",
+   "r": "HR",
+   "v": "h"
+  },
+  {
+   "n": "087/066",
+   "name": "Hisuian Zoroark VSTAR",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "088/066",
+   "name": "Box of Disaster",
+   "r": "UR",
+   "v": "h"
+  },
+  {
+   "n": "089/066",
+   "name": "Gapejaw Bog",
+   "r": "UR",
+   "v": "h"
+  }
+ ]
+}
