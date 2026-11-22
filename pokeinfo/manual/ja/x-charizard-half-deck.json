@@ -1,0 +1,91 @@
+{
+ "id": "x-charizard-half-deck",
+ "name": "Charizard Half Deck",
+ "name_en": "Charizard Half Deck",
+ "date": "2009-03-06",
+ "official": 16,
+ "logo": "img/logos/ja/x-charizard-half-deck.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/016",
+   "name": "Charizard G",
+   "v": "h"
+  },
+  {
+   "n": "002/016",
+   "name": "Charizard G LV.X",
+   "v": "h"
+  },
+  {
+   "n": "003/016",
+   "name": "Arcanine G",
+   "v": "n"
+  },
+  {
+   "n": "004/016",
+   "name": "Camerupt G",
+   "v": "n"
+  },
+  {
+   "n": "005/016",
+   "name": "Manectric G",
+   "v": "n"
+  },
+  {
+   "n": "006/016",
+   "name": "Sableye G",
+   "v": "n"
+  },
+  {
+   "n": "007/016",
+   "name": "Crawdaunt G",
+   "v": "n"
+  },
+  {
+   "n": "008/016",
+   "name": "Raticate G",
+   "v": "n"
+  },
+  {
+   "n": "009/016",
+   "name": "Energy Restore",
+   "v": "n"
+  },
+  {
+   "n": "010/016",
+   "name": "Energy Search",
+   "v": "n"
+  },
+  {
+   "n": "011/016",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "012/016",
+   "name": "Pokédex HANDY910is",
+   "v": "n"
+  },
+  {
+   "n": "013/016",
+   "name": "Poké Ball",
+   "v": "n"
+  },
+  {
+   "n": "014/016",
+   "name": "Team Galactic's Invention G-107",
+   "v": "h"
+  },
+  {
+   "n": "015/016",
+   "name": "Cyrus's Initiative",
+   "v": "n"
+  },
+  {
+   "n": "016/016",
+   "name": "SP Energy",
+   "v": "h"
+  }
+ ]
+}
