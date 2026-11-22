@@ -1023,5 +1023,13 @@
   "30th-c": {
    "logo": "img/logos/en/30th-c.webp"
   }
+ },
+ "ko": {
+  "SM10a": {
+   "logo": "img/logos/ja/SM10a.webp"
+  },
+  "SM10b": {
+   "logo": "img/logos/ja/SM10b.webp"
+  }
  }
 }
