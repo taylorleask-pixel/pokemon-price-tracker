@@ -1,0 +1,488 @@
+{
+ "id": "M7",
+ "name": "Aura Seeker",
+ "name_en": "Aura Seeker",
+ "serie": "メガシンカ",
+ "serie_id": "M",
+ "date": "2026-11-27",
+ "official": 78,
+ "logo": "img/logos/ja/x-aura-seeker.webp",
+ "note": "Card list from Taylor. Card names are in English. The secret rares aren't listed yet apart from #113.",
+ "cards": [
+  {
+   "n": "001/078",
+   "name": "Bellsprout",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "002/078",
+   "name": "Weepinbell",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "003/078",
+   "name": "Victreebel",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "004/078",
+   "name": "Yanma",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "005/078",
+   "name": "Yanmega",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "006/078",
+   "name": "Treecko",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "007/078",
+   "name": "Grovyle",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "008/078",
+   "name": "Sceptile ex",
+   "r": "RR",
+   "v": "h"
+  },
+  {
+   "n": "009/078",
+   "name": "Karrablast",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "010/078",
+   "name": "Shelmet",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "011/078",
+   "name": "Accelgor",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "012/078",
+   "name": "Vulpix",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "013/078",
+   "name": "Ninetales",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "014/078",
+   "name": "Squirtle",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "015/078",
+   "name": "Wartortle",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "016/078",
+   "name": "Blastoise",
+   "r": "R",
+   "v": "nr"
+  },
+  {
+   "n": "017/078",
+   "name": "Wooper",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "018/078",
+   "name": "Quagsire",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "019/078",
+   "name": "Buizel",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "020/078",
+   "name": "Floatzel ex",
+   "r": "RR",
+   "v": "h"
+  },
+  {
+   "n": "021/078",
+   "name": "Cryogonal",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "022/078",
+   "name": "Oricorio",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "023/078",
+   "name": "Pawmi",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "024/078",
+   "name": "Pawmo",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "025/078",
+   "name": "Pawmot",
+   "r": "R",
+   "v": "nr"
+  },
+  {
+   "n": "026/078",
+   "name": "Natu",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "027/078",
+   "name": "Xatu",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "028/078",
+   "name": "Meditite",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "029/078",
+   "name": "Medicham",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "030/078",
+   "name": "Mega Absol Z ex",
+   "r": "RR",
+   "v": "h"
+  },
+  {
+   "n": "031/078",
+   "name": "Sigilyph ex",
+   "r": "RR",
+   "v": "h"
+  },
+  {
+   "n": "032/078",
+   "name": "Meloetta",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "033/078",
+   "name": "Oranguru",
+   "r": "R",
+   "v": "nr"
+  },
+  {
+   "n": "034/078",
+   "name": "Hatenna",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "035/078",
+   "name": "Hattrem",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "036/078",
+   "name": "Hatterene",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "037/078",
+   "name": "Machop",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "038/078",
+   "name": "Machoke",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "039/078",
+   "name": "Machamp",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "040/078",
+   "name": "Hitmontop",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "041/078",
+   "name": "Trapinch",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "042/078",
+   "name": "Barboach",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "043/078",
+   "name": "Whiscash",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "044/078",
+   "name": "Riolu",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "045/078",
+   "name": "Throh",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "046/078",
+   "name": "Hawlucha",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "047/078",
+   "name": "Falinks",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "048/078",
+   "name": "Kubfu",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "049/078",
+   "name": "Single Strike Urshifu",
+   "r": "R",
+   "v": "nr"
+  },
+  {
+   "n": "050/078",
+   "name": "Rapid Strike Urshifu",
+   "r": "R",
+   "v": "nr"
+  },
+  {
+   "n": "051/078",
+   "name": "Inkay",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "052/078",
+   "name": "Malamar",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "053/078",
+   "name": "Glimmet",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "054/078",
+   "name": "Mega Glimmora ex",
+   "r": "RR",
+   "v": "h"
+  },
+  {
+   "n": "055/078",
+   "name": "Ting-Lu",
+   "r": "R",
+   "v": "nr"
+  },
+  {
+   "n": "056/078",
+   "name": "Mawile",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "057/078",
+   "name": "Mega Lucario Z ex",
+   "r": "RR",
+   "v": "h"
+  },
+  {
+   "n": "058/078",
+   "name": "Escavalier",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "059/078",
+   "name": "Togedemaru ex",
+   "r": "RR",
+   "v": "h"
+  },
+  {
+   "n": "060/078",
+   "name": "Varoom",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "061/078",
+   "name": "Revavroom",
+   "r": "R",
+   "v": "nr"
+  },
+  {
+   "n": "062/078",
+   "name": "Orthworm",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "063/078",
+   "name": "Vibrava",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "064/078",
+   "name": "Flygon",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "065/078",
+   "name": "Gible",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "066/078",
+   "name": "Gabite",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "067/078",
+   "name": "Mega Garchomp Z ex",
+   "r": "RR",
+   "v": "h"
+  },
+  {
+   "n": "068/078",
+   "name": "Drampa",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "069/078",
+   "name": "Meowth",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "070/078",
+   "name": "Persian",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "071/078",
+   "name": "Kecleon",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "072/078",
+   "name": "Munchlax",
+   "r": "C",
+   "v": "nr"
+  },
+  {
+   "n": "073/078",
+   "name": "Regigigas",
+   "r": "R",
+   "v": "nr"
+  },
+  {
+   "n": "074/078",
+   "name": "Bond Sash",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "075/078",
+   "name": "Korrina's Full Force",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "076/078",
+   "name": "Crasher Wake's Fervor",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "077/078",
+   "name": "Reporter",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "078/078",
+   "name": "Fight Arena",
+   "r": "U",
+   "v": "nr"
+  },
+  {
+   "n": "113/078",
+   "name": "Crasher Wake's Fervor",
+   "r": "SAR",
+   "v": "h"
+  }
+ ],
+ "abbr": "M7"
+}

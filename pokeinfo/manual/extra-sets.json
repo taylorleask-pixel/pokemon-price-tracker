@@ -1,12 +1,13 @@
 {
  "ja": [
   {
-   "id": "x-aura-seeker",
+   "id": "M7",
    "name": "Aura Seeker",
    "name_en": "Aura Seeker",
    "date": "2026-11-27",
    "official": 78,
-   "logo": "img/logos/ja/x-aura-seeker.webp"
+   "logo": "img/logos/ja/x-aura-seeker.webp",
+   "serie_id": "M"
   },
   {
    "id": "x-starter-set-tapu-bulu-gx",

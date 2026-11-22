@@ -1,0 +1,421 @@
+{
+ "id": "SM10b",
+ "name": "스카이레전드",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-04-26",
+ "official": 54,
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/054",
+   "name": "Rowlet & Alolan Exeggutor GX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "002/054",
+   "name": "Dwebble",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "003/054",
+   "name": "Crustle",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "004/054",
+   "name": "Fomantis",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "005/054",
+   "name": "Lurantis",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "006/054",
+   "name": "Bounsweet",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "007/054",
+   "name": "Steenee",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "008/054",
+   "name": "Tsareena",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "009/054",
+   "name": "Numel",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "010/054",
+   "name": "Camerupt",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "011/054",
+   "name": "Victini",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "012/054",
+   "name": "Fletchinder",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "013/054",
+   "name": "Talonflame",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "014/054",
+   "name": "Snorunt",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "015/054",
+   "name": "Froslass",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "016/054",
+   "name": "Snover",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "017/054",
+   "name": "Abomasnow",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "018/054",
+   "name": "Cryogonal",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "019/054",
+   "name": "Keldeo GX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "020/054",
+   "name": "Tapu Fini",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "021/054",
+   "name": "Magnemite",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "022/054",
+   "name": "Magneton",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "023/054",
+   "name": "Magnezone",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "024/054",
+   "name": "Xurkitree",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "025/054",
+   "name": "Ekans",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "026/054",
+   "name": "Arbok",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "027/054",
+   "name": "Koffing",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "028/054",
+   "name": "Weezing",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "029/054",
+   "name": "Uxie",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "030/054",
+   "name": "Mesprit",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "031/054",
+   "name": "Azelf",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "032/054",
+   "name": "Poipole",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "033/054",
+   "name": "Druddigon",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "034/054",
+   "name": "Naganadel GX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "035/054",
+   "name": "Moltres & Zapdos & Articuno GX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "036/054",
+   "name": "Lickitung",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "037/054",
+   "name": "Lickilicky",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "038/054",
+   "name": "Hoothoot",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "039/054",
+   "name": "Noctowl",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "040/054",
+   "name": "Audino",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "041/054",
+   "name": "Fletchling",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "042/054",
+   "name": "Type: Null",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "043/054",
+   "name": "Silvally",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "044/054",
+   "name": "Normalium Z: Tackle",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "045/054",
+   "name": "Flyinium Z: Air Slash",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "046/054",
+   "name": "U-turn Board",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "047/054",
+   "name": "Poké Maniac",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "048/054",
+   "name": "Jessie & James",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "049/054",
+   "name": "Charmeleon",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "050/054",
+   "name": "Recycle Energy",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "051/054",
+   "name": "Net Ball",
+   "v": "h"
+  },
+  {
+   "n": "052/054",
+   "name": "Gladion",
+   "v": "h"
+  },
+  {
+   "n": "053/054",
+   "name": "Lusamine",
+   "v": "h"
+  },
+  {
+   "n": "054/054",
+   "name": "Lillie",
+   "v": "h"
+  },
+  {
+   "n": "055/054",
+   "name": "Rowlet & Alolan Exeggutor GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "056/054",
+   "name": "Rowlet & Alolan Exeggutor GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "057/054",
+   "name": "Keldeo GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "058/054",
+   "name": "Naganadel GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "059/054",
+   "name": "Moltres & Zapdos & Articuno GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "060/054",
+   "name": "Moltres & Zapdos & Articuno GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "061/054",
+   "name": "Poké Maniac",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "062/054",
+   "name": "Jessie & James",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "063/054",
+   "name": "Rowlet & Alolan Exeggutor GX",
+   "v": "h",
+   "r": "HR"
+  },
+  {
+   "n": "064/054",
+   "name": "Keldeo GX",
+   "v": "h",
+   "r": "HR"
+  },
+  {
+   "n": "065/054",
+   "name": "Naganadel GX",
+   "v": "h",
+   "r": "HR"
+  },
+  {
+   "n": "066/054",
+   "name": "Moltres & Zapdos & Articuno GX",
+   "v": "h",
+   "r": "HR"
+  },
+  {
+   "n": "067/054",
+   "name": "U-turn Board",
+   "v": "h",
+   "r": "UR"
+  },
+  {
+   "n": "068/054",
+   "name": "Viridian Forest",
+   "v": "h",
+   "r": "UR"
+  },
+  {
+   "n": "069/054",
+   "name": "Recycle Energy",
+   "v": "h",
+   "r": "UR"
+  }
+ ]
+}

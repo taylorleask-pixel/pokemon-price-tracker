@@ -1,0 +1,421 @@
+{
+ "id": "SM10a",
+ "name": "GG엔드",
+ "serie": "썬&문",
+ "serie_id": "SM",
+ "date": "2019-04-05",
+ "official": 54,
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/054",
+   "name": "Karrablast",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "002/054",
+   "name": "Magmar",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "003/054",
+   "name": "Magmortar",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "004/054",
+   "name": "Heatran GX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "005/054",
+   "name": "Litwick",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "006/054",
+   "name": "Lampent",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "007/054",
+   "name": "Chandelure",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "008/054",
+   "name": "Raichu & Alolan Raichu GX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "009/054",
+   "name": "Pikachu",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "010/054",
+   "name": "Alolan Raichu",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "011/054",
+   "name": "Stunfisk",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "012/054",
+   "name": "Thundurus",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "013/054",
+   "name": "Alolan Marowak",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "014/054",
+   "name": "Drifloon",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "015/054",
+   "name": "Drifblim",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "016/054",
+   "name": "Giratina",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "017/054",
+   "name": "Munna",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "018/054",
+   "name": "Musharna",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "019/054",
+   "name": "Cubone",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "020/054",
+   "name": "Meditite",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "021/054",
+   "name": "Medicham",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "022/054",
+   "name": "Gible",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "023/054",
+   "name": "Gabite",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "024/054",
+   "name": "Garchomp",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "025/054",
+   "name": "Riolu",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "026/054",
+   "name": "Lucario",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "027/054",
+   "name": "Meloetta",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "028/054",
+   "name": "Zygarde",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "029/054",
+   "name": "Hoopa",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "030/054",
+   "name": "Mawile GX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "031/054",
+   "name": "Escavalier",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "032/054",
+   "name": "Garchomp & Giratina GX",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "033/054",
+   "name": "Latias",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "034/054",
+   "name": "Axew",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "035/054",
+   "name": "Fraxure",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "036/054",
+   "name": "Haxorus",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "037/054",
+   "name": "Kangaskhan",
+   "v": "h",
+   "r": "R"
+  },
+  {
+   "n": "038/054",
+   "name": "Bidoof",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "039/054",
+   "name": "Bibarel",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "040/054",
+   "name": "Munchlax",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "041/054",
+   "name": "Pidove",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "042/054",
+   "name": "Tranquill",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "043/054",
+   "name": "Unfezant",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "044/054",
+   "name": "Tornadus",
+   "v": "n",
+   "r": "C"
+  },
+  {
+   "n": "045/054",
+   "name": "Tag Switch",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "046/054",
+   "name": "Reset Stamp",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "047/054",
+   "name": "Black Belt",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "048/054",
+   "name": "Grimsley",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "049/054",
+   "name": "Coach Trainer",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "050/054",
+   "name": "Giant Hearth",
+   "v": "n",
+   "r": "U"
+  },
+  {
+   "n": "051/054",
+   "name": "Escape Rope",
+   "v": "h"
+  },
+  {
+   "n": "052/054",
+   "name": "Nest Ball",
+   "v": "h"
+  },
+  {
+   "n": "053/054",
+   "name": "Rotom Dex",
+   "v": "h"
+  },
+  {
+   "n": "054/054",
+   "name": "Tate & Liza",
+   "v": "h"
+  },
+  {
+   "n": "055/054",
+   "name": "Heatran GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "056/054",
+   "name": "Raichu & Alolan Raichu GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "057/054",
+   "name": "Raichu & Alolan Raichu GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "058/054",
+   "name": "Mawile GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "059/054",
+   "name": "Garchomp & Giratina GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "060/054",
+   "name": "Garchomp & Giratina GX",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "061/054",
+   "name": "Grimsley",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "062/054",
+   "name": "Coach Trainer",
+   "v": "h",
+   "r": "SR"
+  },
+  {
+   "n": "063/054",
+   "name": "Heatran GX",
+   "v": "h",
+   "r": "HR"
+  },
+  {
+   "n": "064/054",
+   "name": "Raichu & Alolan Raichu GX",
+   "v": "h",
+   "r": "HR"
+  },
+  {
+   "n": "065/054",
+   "name": "Mawile GX",
+   "v": "h",
+   "r": "HR"
+  },
+  {
+   "n": "066/054",
+   "name": "Garchomp & Giratina GX",
+   "v": "h",
+   "r": "HR"
+  },
+  {
+   "n": "067/054",
+   "name": "Tag Switch",
+   "v": "h",
+   "r": "UR"
+  },
+  {
+   "n": "068/054",
+   "name": "Reset Stamp",
+   "v": "h",
+   "r": "UR"
+  },
+  {
+   "n": "069/054",
+   "name": "Black Belt",
+   "v": "h",
+   "r": "UR"
+  }
+ ]
+}
