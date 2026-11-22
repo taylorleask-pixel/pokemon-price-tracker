@@ -1,0 +1,91 @@
+{
+ "id": "x-break-combo-deck-golduck-break-palkia-ex",
+ "name": "Break Combo Deck Golduck BREAK Palkia EX",
+ "name_en": "Break Combo Deck Golduck BREAK Palkia EX",
+ "date": "2015-10-09",
+ "official": 16,
+ "logo": "img/logos/ja/x-break-combo-deck-golduck-break-palkia-ex.webp",
+ "note": "Card list from Taylor. Card names are in English. The deck also comes with Basic Water Energy.",
+ "cards": [
+  {
+   "n": "001/016",
+   "name": "Psyduck",
+   "v": "n"
+  },
+  {
+   "n": "002/016",
+   "name": "Golduck",
+   "v": "n"
+  },
+  {
+   "n": "003/016",
+   "name": "Golduck BREAK",
+   "v": "h"
+  },
+  {
+   "n": "004/016",
+   "name": "Shellder",
+   "v": "n"
+  },
+  {
+   "n": "005/016",
+   "name": "Staryu",
+   "v": "n"
+  },
+  {
+   "n": "006/016",
+   "name": "Lapras",
+   "v": "n"
+  },
+  {
+   "n": "007/016",
+   "name": "Palkia-EX",
+   "v": "h"
+  },
+  {
+   "n": "008/016",
+   "name": "Dive Ball",
+   "v": "n"
+  },
+  {
+   "n": "009/016",
+   "name": "VS Seeker",
+   "v": "n"
+  },
+  {
+   "n": "010/016",
+   "name": "Switch",
+   "v": "n"
+  },
+  {
+   "n": "011/016",
+   "name": "Pokémon Catcher",
+   "v": "n"
+  },
+  {
+   "n": "012/016",
+   "name": "Max Potion",
+   "v": "n"
+  },
+  {
+   "n": "013/016",
+   "name": "Professor Birch's Observations",
+   "v": "n"
+  },
+  {
+   "n": "014/016",
+   "name": "Misty's Determination",
+   "v": "n"
+  },
+  {
+   "n": "015/016",
+   "name": "Tierno",
+   "v": "n"
+  },
+  {
+   "n": "016/016",
+   "name": "Professor Sycamore",
+   "v": "n"
+  }
+ ]
+}

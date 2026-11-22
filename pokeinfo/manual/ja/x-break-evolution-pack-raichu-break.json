@@ -1,0 +1,62 @@
+{
+ "id": "x-break-evolution-pack-raichu-break",
+ "name": "Break Evolution Pack Raichu BREAK",
+ "name_en": "Break Evolution Pack Raichu BREAK",
+ "date": "2015-09-26",
+ "official": 10,
+ "logo": "img/logos/ja/x-break-evolution-pack-raichu-break.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/010",
+   "name": "Pikachu",
+   "v": "n"
+  },
+  {
+   "n": "002/010",
+   "name": "Raichu",
+   "v": "h"
+  },
+  {
+   "n": "003/010",
+   "name": "Raichu BREAK",
+   "v": "h",
+   "r": "RR"
+  },
+  {
+   "n": "004/010",
+   "name": "Stunfisk",
+   "v": "n"
+  },
+  {
+   "n": "005/010",
+   "name": "Town Map",
+   "v": "n"
+  },
+  {
+   "n": "006/010",
+   "name": "Buddy-Buddy Rescue",
+   "v": "n"
+  },
+  {
+   "n": "007/010",
+   "name": "Professor's Letter",
+   "v": "n"
+  },
+  {
+   "n": "008/010",
+   "name": "Level Ball",
+   "v": "n"
+  },
+  {
+   "n": "009/010",
+   "name": "Fisherman",
+   "v": "n"
+  },
+  {
+   "n": "010/010",
+   "name": "Skyla",
+   "v": "n"
+  }
+ ]
+}

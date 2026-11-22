@@ -1,0 +1,61 @@
+{
+ "id": "x-break-evolution-pack-noivern-break",
+ "name": "Break Evolution Pack Noivern BREAK",
+ "name_en": "Break Evolution Pack Noivern BREAK",
+ "date": "2015-09-26",
+ "official": 10,
+ "logo": "img/logos/ja/x-break-evolution-pack-noivern-break.webp",
+ "note": "Card list from Taylor. Card names are in English.",
+ "cards": [
+  {
+   "n": "001/010",
+   "name": "Noivern",
+   "v": "h"
+  },
+  {
+   "n": "002/010",
+   "name": "Noivern BREAK",
+   "v": "h"
+  },
+  {
+   "n": "003/010",
+   "name": "Chatot",
+   "v": "n"
+  },
+  {
+   "n": "004/010",
+   "name": "Noibat",
+   "v": "n"
+  },
+  {
+   "n": "005/010",
+   "name": "Super Rod",
+   "v": "n"
+  },
+  {
+   "n": "006/010",
+   "name": "Professor's Letter",
+   "v": "n"
+  },
+  {
+   "n": "007/010",
+   "name": "Reserved Ticket",
+   "v": "n"
+  },
+  {
+   "n": "008/010",
+   "name": "Level Ball",
+   "v": "n"
+  },
+  {
+   "n": "009/010",
+   "name": "Judge",
+   "v": "n"
+  },
+  {
+   "n": "010/010",
+   "name": "Skyla",
+   "v": "n"
+  }
+ ]
+}
