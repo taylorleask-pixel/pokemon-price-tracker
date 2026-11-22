@@ -305,20 +305,24 @@ function renderHome() {
     let list = sets.filter((s) => (!q || setText(s).includes(q) || q.split(/\s+/).some((w) => isCode(s, w))) &&
       (S.show === "all" || (S.show === "started" ? own[s.id]?.cards : own[s.id]?.cards >= s.cards_n)));
     if (S.newest) list = list.slice().reverse();
-    const eras = [];
+    // one group per series (not split up by side releases), newest series first; side releases go last
+    const SIDE = /mcdonald|trick or trade|pokéween|miscellaneous|^misc|other/i;
+    const byName = new Map();
     for (const s of list) {
-      const e = eras[eras.length - 1];
-      if (e && e.name === (s.serie || "Other")) e.sets.push(s); else eras.push({ name: s.serie || "Other", sets: [s] });
+      const n = s.serie || "Other";
+      if (!byName.has(n)) byName.set(n, { name: n, sets: [], first: byName.size });
+      byName.get(n).sets.push(s);
     }
+    const eras = [...byName.values()].sort((a, b) => (SIDE.test(a.name) - SIDE.test(b.name)) || a.first - b.first);
     $("#setlist").innerHTML = eras.map((e) => `<div class="era"><h2>${esc(e.name)}${enSerie(e.name) ? ` <small class="en">${esc(enSerie(e.name))}</small>` : ""}</h2><span>${e.sets.length} set${e.sets.length === 1 ? "" : "s"}</span></div>
       <div class="sets">${e.sets.map((s) => {
-        const h = own[s.id]?.cards || 0;
-        return `<a class="set" href="#${S.lang}/set/${encodeURIComponent(s.id)}">
-          <span class="logo${!s.logo && s.cover ? " cover" : ""}">${s.logo || s.cover ? `<img src="${esc(s.logo || s.cover)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'abbr',textContent:this.dataset.a}))" data-a="${esc(s.abbr || s.id)}">`
-            : `<span class="abbr">${esc(s.abbr || s.id)}</span>`}</span>
-          <b>${esc(s.name)}${enName(s) ? `<small class="en">${esc(enName(s))}</small>` : ""}</b>
-          <span class="meta"><span>${symImg(s)}${codeTag(s)}${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n} <span class="pct">${pct(h, s.cards_n)}</span></span></span>
-          <span class="bar${h >= s.cards_n ? " done" : ""}"><i style="width:${(h / s.cards_n) * 100}%"></i></span></a>`;
+        const h = own[s.id]?.cards || 0, logo = s.logo || "";
+        return `<a class="set${s.art ? "" : " noart"}" href="#${S.lang}/set/${encodeURIComponent(s.id)}">
+          <span class="art">${s.art ? `<img class="cardart" src="${esc(s.art)}" alt="" loading="lazy" onerror="this.closest('.set').classList.add('noart');this.remove()">` : ""}
+            ${logo ? `<img class="setlogo" src="${esc(logo)}" alt="" loading="lazy" onerror="this.remove()">` : `<span class="abbr">${esc(s.abbr || s.id)}</span>`}</span>
+          <span class="body"><b>${esc(s.name)}${enName(s) ? `<small class="en">${esc(enName(s))}</small>` : ""}</b>
+            <span class="meta"><span>${symImg(s)}${codeTag(s)}${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n} <span class="pct">${pct(h, s.cards_n)}</span></span></span>
+            <span class="bar${h >= s.cards_n ? " done" : ""}"><i style="width:${(h / s.cards_n) * 100}%"></i></span></span></a>`;
       }).join("")}</div>`).join("") || `<p class="none">No sets match.</p>`;
   };
   $("#q").addEventListener("input", (e) => { S.q = e.target.value; draw(); });
@@ -412,11 +416,20 @@ function topHits(cards, P) {
     .slice(0, 7);
   return best.length >= 3 ? best : [];
 }
+// a top-hit card whose picture won't load leaves the fan, and the rest close up around the gap
+function fanDrop(img) {
+  const st = img.closest(".fanstage"); img.closest(".fancard").remove();
+  if (!st) return;
+  [...st.children].forEach((c, i) => c.style.setProperty("--i", i));
+  st.style.setProperty("--n", st.children.length);
+  if (!st.children.length) st.closest(".fan")?.remove();
+}
+window.fanDrop = fanDrop;
 // a progress ring: share done, with the count under it
 function ring(label, h, t, cls = "") {
   const r = 34, L = 2 * Math.PI * r, f = t ? Math.min(h / t, 1) : 0;
   return `<div class="ring ${cls}${t && h >= t ? " done" : ""}">
-    <svg viewBox="0 0 80 80" aria-hidden="true"><circle cx="40" cy="40" r="${r}" class="track"/><circle cx="40" cy="40" r="${r}" class="fill" stroke-dasharray="${(f * L).toFixed(1)} ${L.toFixed(1)}" transform="rotate(-90 40 40)"/></svg>
+    <svg viewBox="0 0 80 80" aria-hidden="true"><circle cx="40" cy="40" r="${r}" class="track"/>${f > 0 ? `<circle cx="40" cy="40" r="${r}" class="fill" stroke-dasharray="${(f * L).toFixed(1)} ${L.toFixed(1)}" transform="rotate(-90 40 40)"/>` : ""}</svg>
     <b>${pct(h, t)}</b><span class="rl">${label}</span><span class="rc">${h} / ${t}</span></div>`;
 }
 // value over time: one line, newest on the right
@@ -480,7 +493,7 @@ async function renderSet(id) {
   $("#view").innerHTML = `<button class="back" id="back">← All ${esc(LANGS.find((l) => l.id === S.lang).name)} sets</button>
     ${hits.length ? `<section class="fan" aria-label="Top hits">
       <div class="fanstage" style="--n:${hits.length}">${hits.map((h, i) => `<button type="button" class="fancard" data-hit="${h.i}" style="--i:${i}"
-        aria-label="${esc(`${h.c.name} ${h.c.n}${h.usd ? `, about ${money(aud(h.usd))}` : ""}`)}"><img src="${esc(pic(h.c))}" alt="" loading="lazy" onerror="this.closest('.fancard').remove()"></button>`).join("")}</div>
+        aria-label="${esc(`${h.c.name} ${h.c.n}${h.usd ? `, about ${money(aud(h.usd))}` : ""}`)}"><img src="${esc(pic(h.c))}" alt="" onload="this.closest('.fancard').classList.add('ok')" onerror="fanDrop(this)"></button>`).join("")}</div>
       <p class="fancap" id="fancap">${priced ? "Top hits by market price" : "Top hits by rarity"}</p>
     </section>` : ""}
     <div class="sethead">

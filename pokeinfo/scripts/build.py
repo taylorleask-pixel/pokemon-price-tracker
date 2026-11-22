@@ -366,6 +366,40 @@ def borrow_rarity(lang, sets):
     print(f"   rarity copied from the Japanese sets for {filled} cards")
 
 
+def chase_card(rows):
+    """The set's chase card: most valuable if there are prices, else the rarest Pokémon (not a trainer)."""
+    codes = {"MUR": 0, "SAR": 1, "UR": 2, "HR": 2, "SR": 3, "CSR": 3, "AR": 4, "CHR": 4, "RRR": 5, "RR": 6, "K": 6, "R": 9}
+    def rank(r):
+        rr = (r.get("r") or "").strip()
+        if rr.upper() in codes:
+            return codes[rr.upper()]
+        return next((i for i, w in enumerate(RARE_ORDER) if w in rr.lower()), len(RARE_ORDER))
+    def not_star(r):
+        return re.search(r"(\bex|\bv|vmax|vstar|gx|ＥＸ|ｅｘ)\s*$", r.get("name", ""), re.I) is None
+    pics = [r for r in rows if r.get("img") or r.get("ps")]
+    if not pics:
+        return None
+    best = min(pics, key=lambda r: (-(r.get("usd") or 0), (r.get("cat") or "Pokemon").lower() not in ("pokemon", "pokémon"),
+                                    rank(r), not_star(r), -rows.index(r)))
+    return f"{best['img']}/low.webp" if best.get("img") else best["ps"]
+
+
+def add_art(lang, sets):
+    """Every set's tile on the front page shows its chase card's artwork."""
+    for x in sets:
+        try:
+            rows = json.loads((OUT / lang / "sets" / f"{x['id']}.json").read_text(encoding="utf-8"))["cards"]
+        except Exception:  # noqa: BLE001
+            rows = []
+        pick = x.get("cover_pick")
+        if pick and not str(pick).startswith("http") and "/" in str(pick):
+            x["art"] = pick
+        else:
+            art = chase_card(rows)
+            if art:
+                x["art"] = art
+
+
 def link_stamped(lang, sets):
     """Grandmaster set: stamped reprints of a set's cards that live in other sets (Trick or Trade pumpkin stamps,
     holiday calendar snowflakes, prerelease stamps...). Each card in those sets says which set it was first in
@@ -463,6 +497,7 @@ def build_lang(lang):
         borrow_rarity(lang, sets)
     apply_art(lang, sets)
     fill_logos(lang, sets)
+    add_art(lang, sets)
     link_stamped(lang, sets)
     try:   # pull rates per rarity (manual/hit-rates.json), shown in the set overview
         hits = json.loads((MANUAL / "hit-rates.json").read_text(encoding="utf-8")).get(lang, {})
