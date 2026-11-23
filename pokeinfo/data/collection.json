@@ -251,7 +251,8 @@
   "en|sv05|sv05-035": "n",
   "en|sv05|sv05-077": "n",
   "en|sv05|sv05-117": "h",
-  "en|sv05|sv05-014": "r"
+  "en|sv05|sv05-014": "r",
+  "en|sv05|sv05-004": "r"
  },
  "had": {},
  "log": [
@@ -3044,7 +3045,17 @@
    "name": "Cottonee",
    "n": "014",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-23T06:51:50.853Z",
+   "k": "en|sv05|sv05-004",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Nuzleaf",
+   "n": "004",
+   "set": "Temporal Forces"
   }
  ],
- "updated": "2026-11-23T06:51:47.729Z"
+ "updated": "2026-11-23T06:51:53.235Z"
 }
