@@ -180,7 +180,8 @@
   "en|me01|me01-093": "h",
   "en|me01|me01-012": "r",
   "en|me01|me01-034": "r",
-  "en|me01|me01-004": "r"
+  "en|me01|me01-004": "r",
+  "en|swsh8|swsh8-167": "r"
  },
  "had": {},
  "log": [
@@ -2203,7 +2204,17 @@
    "name": "Exeggcute",
    "n": "004",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:20:31.555Z",
+   "k": "en|swsh8|swsh8-167",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Darkrai",
+   "n": "167",
+   "set": "Fusion Strike"
   }
  ],
- "updated": "2026-11-23T06:19:40.815Z"
+ "updated": "2026-11-23T06:20:34.096Z"
 }
