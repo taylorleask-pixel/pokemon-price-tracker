@@ -164,7 +164,8 @@
   "en|sv08|sv08-105": "r",
   "en|sv08|sv08-038": "r",
   "en|sv08|sv08-152": "r",
-  "en|sv08|sv08-087": "r"
+  "en|sv08|sv08-087": "r",
+  "en|me01|me01-050": "h"
  },
  "had": {},
  "log": [
@@ -2007,7 +2008,17 @@
    "name": "Dedenne",
    "n": "087",
    "set": "Surging Sparks"
+  },
+  {
+   "t": "2026-11-23T06:16:14.257Z",
+   "k": "en|me01|me01-050",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Mega Manectric ex",
+   "n": "050",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-21T01:59:35.512Z"
+ "updated": "2026-11-23T06:16:16.705Z"
 }
