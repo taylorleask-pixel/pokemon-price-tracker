@@ -166,7 +166,8 @@
   "en|sv08|sv08-152": "r",
   "en|sv08|sv08-087": "r",
   "en|me01|me01-050": "h",
-  "en|me01|me01-036": "h"
+  "en|me01|me01-036": "h",
+  "en|me01|me01-065": "r"
  },
  "had": {},
  "log": [
@@ -2049,7 +2050,17 @@
    "name": "Mega Abomasnow ex",
    "n": "036",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:17:38.135Z",
+   "k": "en|me01|me01-065",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Greavard",
+   "n": "065",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:16:49.545Z"
+ "updated": "2026-11-23T06:17:40.481Z"
 }
