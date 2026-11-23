@@ -169,7 +169,8 @@
   "en|me01|me01-036": "h",
   "en|me01|me01-065": "r",
   "en|me01|me01-063": "n",
-  "en|me01|me01-011": "n"
+  "en|me01|me01-011": "n",
+  "en|me01|me01-018": "n"
  },
  "had": {},
  "log": [
@@ -2082,7 +2083,17 @@
    "name": "Shuckle",
    "n": "011",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:17:58.728Z",
+   "k": "en|me01|me01-018",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Dhelmise",
+   "n": "018",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:17:50.710Z"
+ "updated": "2026-11-23T06:18:00.111Z"
 }
