@@ -329,7 +329,7 @@ function renderHome() {
       <div class="sets">${e.sets.map((s) => {
         const h = own[s.id]?.cards || 0, logo = s.logo || "";
         return `<a class="set${s.art ? "" : " noart"}" href="#${S.lang}/set/${encodeURIComponent(s.id)}">
-          <span class="art">${s.art ? `<img class="cardart" src="${esc(s.art)}" alt="" loading="lazy" onerror="this.closest('.set').classList.add('noart');this.remove()">` : ""}
+          <span class="art">${s.art ? `<img class="cardart${s.art.startsWith("img/covers/") ? " mine" : ""}" src="${esc(s.art)}" alt="" loading="lazy" onerror="this.closest('.set').classList.add('noart');this.remove()">` : ""}
             ${logo ? `<img class="setlogo" src="${esc(logo)}" alt="" loading="lazy" onerror="this.remove()">` : `<span class="abbr">${esc(s.abbr || s.id)}</span>`}</span>
           <span class="body"><b>${esc(s.name)}${enName(s) ? `<small class="en">${esc(enName(s))}</small>` : ""}</b>
             <span class="meta"><span>${symImg(s)}${codeTag(s)}${esc(s.date ? s.date.slice(0, 4) : "")}</span><span><b>${h}</b>/${s.cards_n} <span class="pct">${pct(h, s.cards_n)}</span></span></span>

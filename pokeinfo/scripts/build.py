@@ -387,6 +387,10 @@ def chase_card(rows):
 def add_art(lang, sets):
     """Every set's tile on the front page shows its chase card's artwork."""
     for x in sets:
+        mine = OUT.parent / "img" / "covers" / lang / f"{x['id']}.webp"   # Taylor's own cover art wins
+        if mine.exists():
+            x["art"] = f"img/covers/{lang}/{x['id']}.webp"
+            continue
         try:
             rows = json.loads((OUT / lang / "sets" / f"{x['id']}.json").read_text(encoding="utf-8"))["cards"]
         except Exception:  # noqa: BLE001
