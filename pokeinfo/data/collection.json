@@ -246,7 +246,8 @@
   "en|sv05|sv05-112": "n",
   "en|sv05|sv05-126": "n",
   "en|sv05|sv05-079": "n",
-  "en|sv05|sv05-057": "n"
+  "en|sv05|sv05-057": "n",
+  "en|sv05|sv05-082": "n"
  },
  "had": {},
  "log": [
@@ -2979,7 +2980,17 @@
    "name": "Zeraora",
    "n": "057",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-23T06:51:15.707Z",
+   "k": "en|sv05|sv05-082",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Meditite",
+   "n": "082",
+   "set": "Temporal Forces"
   }
  ],
- "updated": "2026-11-23T06:51:13.333Z"
+ "updated": "2026-11-23T06:51:18.230Z"
 }
