@@ -205,7 +205,8 @@
   "en|sm1|sm1-83": "n",
   "en|sm1|sm1-68": "n",
   "en|sm1|sm1-73": "n",
-  "en|sm1|sm1-55": "n"
+  "en|sm1|sm1-55": "n",
+  "en|sm1|sm1-97": "n"
  },
  "had": {},
  "log": [
@@ -2478,7 +2479,17 @@
    "name": "Golbat",
    "n": "55",
    "set": "Sun & Moon"
+  },
+  {
+   "t": "2026-11-23T06:24:47.072Z",
+   "k": "en|sm1|sm1-97",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Spearow",
+   "n": "97",
+   "set": "Sun & Moon"
   }
  ],
- "updated": "2026-11-23T06:24:45.260Z"
+ "updated": "2026-11-23T06:24:47.722Z"
 }
