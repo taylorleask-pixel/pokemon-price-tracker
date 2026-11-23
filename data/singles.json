@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T11:44+10:00",
+"updated": "2026-11-23T22:44+10:00",
 "singles": [
 {
 "store": "eden",
@@ -98,6 +98,16 @@
 "available": false,
 "url": "https://raptorgames.com/products/psa-graded-card-folder-binder-album-60-slabs-crystal-clear-pokemon-tcg",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/psa-graded-card-folder-binder-album-fits-60-slabs-crystal-clear-pokemon-tcg-gd-games-26454_600x600_7523cd1f-9c10-44c5-92d7-b3a23cf70ca3.webp?v=1763413805",
+"set": null,
+"year": null
+},
+{
+"store": "gatekeepers",
+"title": "Luxray 004/012 Mewtwo LV.X Deck Pokemon Japanese Holo MP (swirl)",
+"price": 7.0,
+"available": false,
+"url": "https://gatekeeperstcg.com/products/luxray-004012-mewtwo-lvx-deck-pokemon-japanese-holo-mp-swirl-167401",
+"image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/6aacb7d8d3b3744de83b3e0bfb14a702.jpg?v=1795158700",
 "set": null,
 "year": null
 },
@@ -615,7 +625,7 @@
 "store": "gatekeepers",
 "title": "Arceus 003/017 Holo Arceus Deck Lightning Psychic Pokemon Japanese HP (swirl)",
 "price": 15.0,
-"available": true,
+"available": false,
 "url": "https://gatekeeperstcg.com/products/arceus-003017-holo-arceus-deck-lightning-psychic-pokemon-japanese-hp-swirl-993878",
 "image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/06ebe3bba04b6b84b0537423882fa925.jpg?v=1795316483",
 "set": "Arceus",
@@ -625,7 +635,7 @@
 "store": "gatekeepers",
 "title": "Aggron DPBP#357 Rare Secret of the Lakes Pokemon Japanese Unlimited Holo HP",
 "price": 10.0,
-"available": true,
+"available": false,
 "url": "https://gatekeeperstcg.com/products/aggron-dpbp357-rare-secret-of-the-lakes-pokemon-japanese-unlimited-holo-hp-842832",
 "image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/1fe66ff443e9dd007f43d2ce32b98a43.jpg?v=1795316482",
 "set": null,
@@ -1178,16 +1188,6 @@
 "available": true,
 "url": "https://gatekeeperstcg.com/products/palkia-005013-entry-pack-dpt-palkia-deck-pokemon-japanese-mp-swirl-504290",
 "image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/fb666b80b8330792ce28babbe269cd9e.jpg?v=1795158701",
-"set": null,
-"year": null
-},
-{
-"store": "gatekeepers",
-"title": "Luxray 004/012 Mewtwo LV.X Deck Pokemon Japanese Holo MP (swirl)",
-"price": 7.0,
-"available": true,
-"url": "https://gatekeeperstcg.com/products/luxray-004012-mewtwo-lvx-deck-pokemon-japanese-holo-mp-swirl-167401",
-"image": "https://cdn.shopify.com/s/files/1/0799/4179/6058/files/6aacb7d8d3b3744de83b3e0bfb14a702.jpg?v=1795158700",
 "set": null,
 "year": null
 },

@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T11:44+10:00",
+"updated": "2026-11-23T22:44+10:00",
 "listings": [
 {
 "store": "misty",
@@ -20338,26 +20338,6 @@
 },
 {
 "store": "evo",
-"title": "Pokémon TCG: Scarlet & Violet Booster Pack",
-"price": 20.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pok-mon-tcg-scarlet-violet-booster-pack/359",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/CGJOPCFCHFEOH7YK3JDEDAFB.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "pack",
-"set": "Scarlet & Violet",
-"year": 2023,
-"product": null,
-"packs": 1,
-"key": "pack|Scarlet & Violet",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "evo",
 "title": "Pokémon TCG: Astral Radiance Booster Pack",
 "price": 20.0,
 "available": true,
@@ -23689,8 +23669,8 @@
 {
 "store": "raptor",
 "title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
-"price": 150.0,
-"available": false,
+"price": 250.0,
+"available": true,
 "url": "https://raptorgames.com/products/pokemon-tcg-30th-celebration-elite-trainer-box",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/shopping_33cb08ec-3b87-4271-825d-ce12723411e1.webp?v=1787202836",
 "lang": "EN",
@@ -23704,7 +23684,7 @@
 "key": "etb|30th Celebration",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-23T22:44+10:00"
 },
 {
 "store": "raptor",
@@ -24575,7 +24555,7 @@
 "store": "raptor",
 "title": "Pokemon TCG: Mega Evolution Chaos Rising Booster Pack",
 "price": 12.0,
-"available": false,
+"available": true,
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-pack",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/ddcac2c59d154c11abfdd6c65e938e34_Large_6cb91f8d-d23b-42f2-bc6a-fc2005427dc0.jpg?v=1779511648",
 "lang": "EN",
@@ -24589,13 +24569,13 @@
 "key": "pack|Chaos Rising",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-08T18:58+10:00"
+"changed": "2026-11-23T22:44+10:00"
 },
 {
 "store": "raptor",
 "title": "Pokemon TCG: Mega Lucario ex League Battle Deck",
 "price": 55.0,
-"available": true,
+"available": false,
 "url": "https://raptorgames.com/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokemon-TCG-Mega-Lucario-ex-League-Battle-Deck-Front_EN.jpg?v=1778031196",
 "lang": "EN",
@@ -24609,7 +24589,7 @@
 "key": "other|pokemon tcg mega lucario ex league battle deck",
 "skip": null,
 "first_seen": null,
-"changed": null
+"changed": "2026-11-23T22:44+10:00"
 },
 {
 "store": "raptor",
@@ -29410,7 +29390,7 @@
 "store": "everson",
 "title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Box",
 "price": 320.0,
-"available": false,
+"available": true,
 "url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster",
 "image": "https://cdn.shopify.com/s/files/1/0417/0219/5361/files/Pokemon-TCG-Mega-Evolution_Flowing-Fists-Booster-Display_EN.jpg?v=1795134725",
 "lang": "EN",
@@ -29424,7 +29404,7 @@
 "key": "box|Mega Evolution",
 "skip": null,
 "first_seen": "2026-11-20T12:20+10:00",
-"changed": "2026-11-21T12:16+10:00"
+"changed": "2026-11-23T22:44+10:00"
 },
 {
 "store": "everson",
@@ -29445,6 +29425,26 @@
 "skip": null,
 "first_seen": "2026-11-20T12:20+10:00",
 "changed": "2026-11-20T12:20+10:00"
+},
+{
+"store": "everson",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Bundle",
+"price": 55.0,
+"available": false,
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster-bundle",
+"image": "https://cdn.shopify.com/s/files/1/0417/0219/5361/files/Pokemon-TCG-Mega-Evolution_Flowing-Fists-Booster-Bundle_EN.jpg?v=1795136920",
+"lang": "EN",
+"auto_packs": null,
+"variant": null,
+"category": "bundle",
+"set": "Mega Evolution",
+"year": 2025,
+"product": null,
+"packs": 6,
+"key": "bundle|Mega Evolution",
+"skip": null,
+"first_seen": "2026-11-23T22:44+10:00",
+"changed": "2026-11-23T22:44+10:00"
 },
 {
 "store": "everson",

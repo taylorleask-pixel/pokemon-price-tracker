@@ -1,6 +1,85 @@
 {
-"updated": "2026-11-23T11:44+10:00",
+"updated": "2026-11-23T22:44+10:00",
 "events": [
+{
+"time": "2026-11-23T22:44+10:00",
+"store": "raptor",
+"key": "etb|30th Celebration",
+"title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+"category": "etb",
+"lang": "EN",
+"type": "in-stock",
+"new": 250.0
+},
+{
+"time": "2026-11-23T22:44+10:00",
+"store": "raptor",
+"key": "etb|30th Celebration",
+"title": "Pokemon TCG: 30th Celebration Elite Trainer Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+"category": "etb",
+"lang": "EN",
+"type": "price-up",
+"old": 150.0,
+"new": 250.0
+},
+{
+"time": "2026-11-23T22:44+10:00",
+"store": "raptor",
+"key": "pack|Chaos Rising",
+"title": "Pokemon TCG: Mega Evolution Chaos Rising Booster Pack",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-chaos-rising-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "in-stock",
+"new": 12.0
+},
+{
+"time": "2026-11-23T22:44+10:00",
+"store": "raptor",
+"key": "other|pokemon tcg mega lucario ex league battle deck",
+"title": "Pokemon TCG: Mega Lucario ex League Battle Deck",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-lucario-ex-league-battle-deck",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 55.0
+},
+{
+"time": "2026-11-23T22:44+10:00",
+"store": "everson",
+"key": "box|Mega Evolution",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Box",
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster",
+"category": "box",
+"lang": "EN",
+"type": "in-stock",
+"new": 320.0
+},
+{
+"time": "2026-11-23T22:44+10:00",
+"store": "everson",
+"key": "bundle|Mega Evolution",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Bundle",
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster-bundle",
+"category": "bundle",
+"lang": "EN",
+"type": "new",
+"new": 55.0,
+"available": false
+},
+{
+"time": "2026-11-23T22:44+10:00",
+"store": "evo",
+"key": "pack|Scarlet & Violet",
+"title": "Pokémon TCG: Scarlet & Violet Booster Pack",
+"url": "https://www.evogames.com.au/product/pok-mon-tcg-scarlet-violet-booster-pack/359",
+"category": "pack",
+"lang": "EN",
+"type": "removed",
+"old": 20.0
+},
 {
 "time": "2026-11-23T11:44+10:00",
 "store": "misty",
