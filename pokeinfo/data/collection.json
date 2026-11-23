@@ -248,7 +248,8 @@
   "en|sv05|sv05-079": "n",
   "en|sv05|sv05-057": "n",
   "en|sv05|sv05-082": "n",
-  "en|sv05|sv05-035": "n"
+  "en|sv05|sv05-035": "n",
+  "en|sv05|sv05-077": "n"
  },
  "had": {},
  "log": [
@@ -3001,7 +3002,17 @@
    "name": "Turtonator",
    "n": "035",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-23T06:51:26.631Z",
+   "k": "en|sv05|sv05-077",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Scream Tail",
+   "n": "077",
+   "set": "Temporal Forces"
   }
  ],
- "updated": "2026-11-23T06:51:24.147Z"
+ "updated": "2026-11-23T06:51:29.310Z"
 }
