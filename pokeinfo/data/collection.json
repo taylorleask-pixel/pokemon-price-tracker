@@ -231,7 +231,8 @@
   "en|me02|me02-025": "n",
   "en|me02|me02-077": "n",
   "en|me02|me02-067": "n",
-  "en|me02|me02-072": "r"
+  "en|me02|me02-072": "r",
+  "en|me02|me02-101": "h"
  },
  "had": {},
  "log": [
@@ -2814,7 +2815,17 @@
    "name": "Bronzong",
    "n": "072",
    "set": "Phantasmal Flames"
+  },
+  {
+   "t": "2026-11-23T06:48:14.307Z",
+   "k": "en|me02|me02-101",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Flygon",
+   "n": "101",
+   "set": "Phantasmal Flames"
   }
  ],
- "updated": "2026-11-23T06:48:11.453Z"
+ "updated": "2026-11-23T06:48:16.600Z"
 }
