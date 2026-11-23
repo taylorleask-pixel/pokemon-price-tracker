@@ -204,7 +204,8 @@
   "en|sm1|sm1-106": "n",
   "en|sm1|sm1-83": "n",
   "en|sm1|sm1-68": "n",
-  "en|sm1|sm1-73": "n"
+  "en|sm1|sm1-73": "n",
+  "en|sm1|sm1-55": "n"
  },
  "had": {},
  "log": [
@@ -2467,7 +2468,17 @@
    "name": "Passimian",
    "n": "73",
    "set": "Sun & Moon"
+  },
+  {
+   "t": "2026-11-23T06:24:42.910Z",
+   "k": "en|sm1|sm1-55",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Golbat",
+   "n": "55",
+   "set": "Sun & Moon"
   }
  ],
- "updated": "2026-11-23T06:24:39.148Z"
+ "updated": "2026-11-23T06:24:45.260Z"
 }
