@@ -183,7 +183,8 @@
   "en|me01|me01-004": "r",
   "en|swsh8|swsh8-167": "r",
   "en|swsh8|swsh8-62": "n",
-  "en|swsh8|swsh8-56": "n"
+  "en|swsh8|swsh8-56": "n",
+  "en|swsh8|swsh8-147": "n"
  },
  "had": {},
  "log": [
@@ -2236,7 +2237,17 @@
    "name": "Croconaw",
    "n": "56",
    "set": "Fusion Strike"
+  },
+  {
+   "t": "2026-11-23T06:20:59.474Z",
+   "k": "en|swsh8|swsh8-147",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Drilbur",
+   "n": "147",
+   "set": "Fusion Strike"
   }
  ],
- "updated": "2026-11-23T06:20:51.757Z"
+ "updated": "2026-11-23T06:21:01.819Z"
 }
