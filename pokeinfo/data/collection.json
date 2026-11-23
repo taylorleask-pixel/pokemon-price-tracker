@@ -195,7 +195,8 @@
   "en|swsh8|swsh8-10": "n",
   "en|swsh8|swsh8-229": "n",
   "en|swsh8|swsh8-142": "n",
-  "en|swsh8|swsh8-1": "n"
+  "en|swsh8|swsh8-1": "n",
+  "en|swsh8|swsh8-205": "n"
  },
  "had": {},
  "log": [
@@ -2368,7 +2369,17 @@
    "name": "Caterpie",
    "n": "1",
    "set": "Fusion Strike"
+  },
+  {
+   "t": "2026-11-23T06:22:57.539Z",
+   "k": "en|swsh8|swsh8-205",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Eevee",
+   "n": "205",
+   "set": "Fusion Strike"
   }
  ],
- "updated": "2026-11-23T06:22:50.919Z"
+ "updated": "2026-11-23T06:22:59.879Z"
 }
