@@ -249,7 +249,8 @@
   "en|sv05|sv05-057": "n",
   "en|sv05|sv05-082": "n",
   "en|sv05|sv05-035": "n",
-  "en|sv05|sv05-077": "n"
+  "en|sv05|sv05-077": "n",
+  "en|sv05|sv05-117": "r"
  },
  "had": {},
  "log": [
@@ -3012,7 +3013,17 @@
    "name": "Scream Tail",
    "n": "077",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-23T06:51:37.078Z",
+   "k": "en|sv05|sv05-117",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Melmetal",
+   "n": "117",
+   "set": "Temporal Forces"
   }
  ],
- "updated": "2026-11-23T06:51:29.310Z"
+ "updated": "2026-11-23T06:51:39.416Z"
 }
