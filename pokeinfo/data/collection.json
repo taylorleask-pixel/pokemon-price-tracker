@@ -197,7 +197,8 @@
   "en|swsh8|swsh8-142": "n",
   "en|swsh8|swsh8-1": "n",
   "en|swsh8|swsh8-205": "n",
-  "en|swsh8|swsh8-47": "r"
+  "en|swsh8|swsh8-47": "r",
+  "en|swsh8|swsh8-212": "r"
  },
  "had": {},
  "log": [
@@ -2390,7 +2391,17 @@
    "name": "Sizzlipede",
    "n": "47",
    "set": "Fusion Strike"
+  },
+  {
+   "t": "2026-11-23T06:23:09.512Z",
+   "k": "en|swsh8|swsh8-212",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Buneary",
+   "n": "212",
+   "set": "Fusion Strike"
   }
  ],
- "updated": "2026-11-23T06:23:06.383Z"
+ "updated": "2026-11-23T06:23:11.852Z"
 }
