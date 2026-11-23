@@ -7,556 +7,697 @@
  "date": "2024-01-26",
  "official": 71,
  "abbr": "SV5K",
- "note": "The card database only had 49 of these 100 cards. The full list follows the Japanese Wild Force, with Korean Pokémon names; a few trainer cards are in English.",
+ "note": "Full list follows the Japanese Wild Force (the card database only had 49 cards). Pokémon have Korean and English names; trainers without a confirmed Korean name show the English one. Pictures come from Pokémon Korea's card site.",
  "cards": [
   {
    "n": "001/071",
    "name": "로젤리아",
    "v": "n",
-   "r": "Common"
+   "en": "Roselia",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_001.png"
   },
   {
    "n": "002/071",
    "name": "로즈레이드",
    "v": "n",
-   "r": "Uncommon"
+   "en": "Roserade",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_002.png"
   },
   {
    "n": "003/071",
    "name": "모부기",
    "v": "n",
-   "r": "Common"
+   "en": "Turtwig",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_003.png"
   },
   {
    "n": "004/071",
    "name": "수풀부기",
    "v": "n",
-   "r": "Common"
+   "en": "Grotle",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_004.png"
   },
   {
    "n": "005/071",
    "name": "토대부기 ex",
    "v": "h",
-   "r": "Double rare"
+   "en": "Torterra ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_005.png"
   },
   {
    "n": "006/071",
    "name": "쉐이미",
    "v": "n",
-   "r": "Uncommon"
+   "en": "Shaymin",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_006.png"
   },
   {
    "n": "007/071",
    "name": "소미안",
    "v": "n",
-   "r": "Common"
+   "en": "Cottonee",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_007.png"
   },
   {
    "n": "008/071",
    "name": "엘풍",
    "v": "h",
-   "r": "Rare"
+   "en": "Whimsicott",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_008.png"
   },
   {
    "n": "009/071",
    "name": "앤티골",
    "v": "n",
-   "r": "Common"
+   "en": "Heatmor",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_009.png"
   },
   {
    "n": "010/071",
    "name": "태우지네",
    "v": "n",
-   "r": "Common"
+   "en": "Sizzlipede",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_010.png"
   },
   {
    "n": "011/071",
    "name": "다태우지네",
    "v": "n",
-   "r": "Uncommon"
+   "en": "Centiskorch",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_011.png"
   },
   {
    "n": "012/071",
    "name": "꿰뚫는화염 ex",
    "v": "h",
-   "r": "Double rare"
+   "en": "Gouging Fire ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_012.png"
   },
   {
    "n": "013/071",
    "name": "리아코",
    "v": "n",
-   "r": "Common"
+   "en": "Totodile",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_013.png"
   },
   {
    "n": "014/071",
    "name": "엘리게이",
    "v": "n",
-   "r": "Common"
+   "en": "Croconaw",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_014.png"
   },
   {
    "n": "015/071",
    "name": "장크로다일",
    "v": "h",
-   "r": "Rare"
+   "en": "Feraligatr",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_015.png"
   },
   {
    "n": "016/071",
    "name": "샤프니아",
    "v": "n",
-   "r": "Common"
+   "en": "Carvanha",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_016.png"
   },
   {
    "n": "017/071",
    "name": "샤크니아",
    "v": "n",
-   "r": "Uncommon"
+   "en": "Sharpedo",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_017.png"
   },
   {
    "n": "018/071",
    "name": "케르디오",
    "v": "n",
-   "r": "Uncommon"
+   "en": "Keldeo",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_018.png"
   },
   {
    "n": "019/071",
    "name": "누니머기",
    "v": "n",
-   "r": "Common"
+   "en": "Snom",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_019.png"
   },
   {
    "n": "020/071",
    "name": "모스노우",
    "v": "n",
-   "r": "Common"
+   "en": "Frosmoth",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_020.png"
   },
   {
    "n": "021/071",
    "name": "바다그다",
    "v": "n",
-   "r": "Common"
+   "en": "Wiglett",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_021.png"
   },
   {
    "n": "022/071",
    "name": "맨돌핀",
-   "v": "n"
+   "v": "n",
+   "en": "Finizen",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_022.png"
   },
   {
    "n": "023/071",
    "name": "돌핀맨",
-   "v": "n"
+   "v": "n",
+   "en": "Palafin",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_023.png"
   },
   {
    "n": "024/071",
    "name": "굽이치는물결 ex",
-   "v": "h"
+   "v": "h",
+   "en": "Walking Wake ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_024.png"
   },
   {
    "n": "025/071",
    "name": "바닥트리오 ex",
-   "v": "h"
+   "v": "h",
+   "en": "Wugtrio ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_025.png"
   },
   {
    "n": "026/071",
    "name": "마릴",
-   "v": "n"
+   "v": "n",
+   "en": "Marill",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_026.png"
   },
   {
    "n": "027/071",
    "name": "마릴리",
-   "v": "n"
+   "v": "n",
+   "en": "Azumarill",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_027.png"
   },
   {
    "n": "028/071",
    "name": "동미러",
-   "v": "n"
+   "v": "n",
+   "en": "Bronzor",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_028.png"
   },
   {
    "n": "029/071",
    "name": "동탁군",
-   "v": "n"
+   "v": "n",
+   "en": "Bronzong",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_029.png"
   },
   {
    "n": "030/071",
    "name": "유니란",
-   "v": "n"
+   "v": "n",
+   "en": "Solosis",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_030.png"
   },
   {
    "n": "031/071",
    "name": "듀란",
-   "v": "n"
+   "v": "n",
+   "en": "Duosion",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_031.png"
   },
   {
    "n": "032/071",
    "name": "란쿨루스",
-   "v": "n"
+   "v": "n",
+   "en": "Reuniclus",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_032.png"
   },
   {
    "n": "033/071",
    "name": "날개치는머리",
-   "v": "h"
+   "v": "h",
+   "en": "Flutter Mane",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_033.png"
   },
   {
    "n": "034/071",
    "name": "시라칸",
-   "v": "h"
+   "v": "h",
+   "en": "Relicanth",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_034.png"
   },
   {
    "n": "035/071",
    "name": "골비람",
-   "v": "n"
+   "v": "n",
+   "en": "Golett",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_035.png"
   },
   {
    "n": "036/071",
    "name": "골루그",
-   "v": "n"
+   "v": "n",
+   "en": "Golurk",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_036.png"
   },
   {
    "n": "037/071",
    "name": "머드나기",
-   "v": "n"
+   "v": "n",
+   "en": "Mudbray",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_037.png"
   },
   {
    "n": "038/071",
    "name": "만마드",
-   "v": "n"
+   "v": "n",
+   "en": "Mudsdale",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_038.png"
   },
   {
    "n": "039/071",
    "name": "탄동",
-   "v": "n"
+   "v": "n",
+   "en": "Rolycoly",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_039.png"
   },
   {
    "n": "040/071",
    "name": "탄차곤",
-   "v": "n"
+   "v": "n",
+   "en": "Carkol",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_040.png"
   },
   {
    "n": "041/071",
    "name": "석탄산",
-   "v": "n"
+   "v": "n",
+   "en": "Coalossal",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_041.png"
   },
   {
    "n": "042/071",
    "name": "위대한엄니",
-   "v": "n"
+   "v": "n",
+   "en": "Great Tusk",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_042.png"
   },
   {
    "n": "043/071",
    "name": "아보",
-   "v": "n"
+   "v": "n",
+   "en": "Ekans",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_043.png"
   },
   {
    "n": "044/071",
    "name": "아보크",
-   "v": "n"
+   "v": "n",
+   "en": "Arbok",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_044.png"
   },
   {
    "n": "045/071",
    "name": "고오스",
-   "v": "n"
+   "v": "n",
+   "en": "Gastly",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_045.png"
   },
   {
    "n": "046/071",
    "name": "고우스트",
-   "v": "n"
+   "v": "n",
+   "en": "Haunter",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_046.png"
   },
   {
    "n": "047/071",
    "name": "팬텀 ex",
-   "v": "h"
+   "v": "h",
+   "en": "Gengar ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_047.png"
   },
   {
    "n": "048/071",
    "name": "포챠나",
-   "v": "n"
+   "v": "n",
+   "en": "Poochyena",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_048.png"
   },
   {
    "n": "049/071",
    "name": "그라에나",
-   "v": "n"
+   "v": "n",
+   "en": "Mightyena",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_049.png"
   },
   {
    "n": "050/071",
    "name": "깜까미",
-   "v": "n"
+   "v": "n",
+   "en": "Sableye",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_050.png"
   },
   {
    "n": "051/071",
    "name": "고동치는달",
-   "v": "h"
+   "v": "h",
+   "en": "Roaring Moon",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_051.png"
   },
   {
    "n": "052/071",
    "name": "코라이돈",
-   "v": "h"
+   "v": "h",
+   "en": "Koraidon",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_052.png"
   },
   {
    "n": "053/071",
    "name": "날뛰는우레 ex",
-   "v": "h"
+   "v": "h",
+   "en": "Raging Bolt ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_053.png"
   },
   {
    "n": "054/071",
    "name": "부우부",
-   "v": "n"
+   "v": "n",
+   "en": "Hoothoot",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_054.png"
   },
   {
    "n": "055/071",
    "name": "야부엉",
-   "v": "n"
+   "v": "n",
+   "en": "Noctowl",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_055.png"
   },
   {
    "n": "056/071",
    "name": "노고치",
-   "v": "n"
+   "v": "n",
+   "en": "Dunsparce",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_056.png"
   },
   {
    "n": "057/071",
    "name": "노고고치",
-   "v": "h"
+   "v": "h",
+   "en": "Dudunsparce",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_057.png"
   },
   {
    "n": "058/071",
    "name": "페라페",
-   "v": "n"
+   "v": "n",
+   "en": "Chatot",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_058.png"
   },
   {
    "n": "059/071",
    "name": "치라미",
-   "v": "n"
+   "v": "n",
+   "en": "Minccino",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_059.png"
   },
   {
    "n": "060/071",
    "name": "치라치노",
-   "v": "n"
+   "v": "n",
+   "en": "Cinccino",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_060.png"
   },
   {
    "n": "061/071",
-   "name": "Delivery Box",
-   "v": "n"
+   "name": "주문박스",
+   "v": "n",
+   "en": "Boxed Order",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_061.png"
   },
   {
    "n": "062/071",
    "name": "Awakening Drum",
-   "v": "h"
+   "v": "h",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_062.png"
   },
   {
    "n": "063/071",
-   "name": "주문박스",
+   "name": "Buddy-Buddy Poffin",
    "v": "n",
-   "r": "Uncommon"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_063.png"
   },
   {
    "n": "064/071",
-   "name": "Technical Machine: Evolution",
-   "v": "n"
+   "name": "Rescue Board",
+   "v": "n",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_064.png"
   },
   {
    "n": "065/071",
-   "name": "Sparkling Crystal",
-   "v": "n"
+   "name": "Ancient Booster Energy Capsule",
+   "v": "n",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_065.png"
   },
   {
    "n": "066/071",
-   "name": "Future Booster Energy Capsule",
-   "v": "h"
+   "name": "Maximum Belt",
+   "v": "h",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_066.png"
   },
   {
    "n": "067/071",
    "name": "탐험가의 선도",
-   "v": "n"
+   "v": "n",
+   "en": "Explorer's Guidance",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_067.png"
   },
   {
    "n": "068/071",
    "name": "비파",
-   "v": "n"
+   "v": "n",
+   "en": "Briar",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_068.png"
   },
   {
    "n": "069/071",
    "name": "유빈의 확신",
-   "v": "n"
+   "v": "n",
+   "en": "Morty's Conviction",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_069.png"
   },
   {
    "n": "070/071",
    "name": "Perilous Jungle",
-   "v": "n"
+   "v": "n",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_070.png"
   },
   {
    "n": "071/071",
    "name": "Neo Upper Energy",
-   "v": "h"
+   "v": "h",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_071.png"
   },
   {
    "n": "072/071",
    "name": "수풀부기",
-   "v": "h"
+   "v": "h",
+   "en": "Grotle",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_072.png"
   },
   {
    "n": "073/071",
    "name": "누니머기",
-   "v": "h"
+   "v": "h",
+   "en": "Snom",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_073.png"
   },
   {
    "n": "074/071",
    "name": "동미러",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Bronzor",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_074.png"
   },
   {
    "n": "075/071",
    "name": "란쿨루스",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Reuniclus",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_075.png"
   },
   {
    "n": "076/071",
    "name": "날개치는머리",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Flutter Mane",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_076.png"
   },
   {
    "n": "077/071",
    "name": "시라칸",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Relicanth",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_077.png"
   },
   {
    "n": "078/071",
    "name": "만마드",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Mudsdale",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_078.png"
   },
   {
    "n": "079/071",
    "name": "아보크",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Arbok",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_079.png"
   },
   {
    "n": "080/071",
    "name": "고오스",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Gastly",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_080.png"
   },
   {
    "n": "081/071",
    "name": "페라페",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Chatot",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_081.png"
   },
   {
    "n": "082/071",
    "name": "치라미",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Minccino",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_082.png"
   },
   {
    "n": "083/071",
    "name": "치라치노",
    "v": "h",
-   "r": "Illustration rare"
+   "en": "Cinccino",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_083.png"
   },
   {
    "n": "084/071",
    "name": "토대부기 ex",
    "v": "h",
-   "r": "Ultra Rare"
+   "en": "Torterra ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_084.png"
   },
   {
    "n": "085/071",
    "name": "꿰뚫는화염 ex",
    "v": "h",
-   "r": "Ultra Rare"
+   "en": "Gouging Fire ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_085.png"
   },
   {
    "n": "086/071",
    "name": "굽이치는물결 ex",
    "v": "h",
-   "r": "Ultra Rare"
+   "en": "Walking Wake ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_086.png"
   },
   {
    "n": "087/071",
    "name": "바닥트리오 ex",
    "v": "h",
-   "r": "Ultra Rare"
+   "en": "Wugtrio ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_087.png"
   },
   {
    "n": "088/071",
    "name": "팬텀 ex",
    "v": "h",
-   "r": "Ultra Rare"
+   "en": "Gengar ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_088.png"
   },
   {
    "n": "089/071",
    "name": "날뛰는우레 ex",
    "v": "h",
-   "r": "Ultra Rare"
+   "en": "Raging Bolt ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_089.png"
   },
   {
    "n": "090/071",
    "name": "탐험가의 선도",
    "v": "h",
-   "r": "Ultra Rare"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_090.png"
   },
   {
    "n": "091/071",
    "name": "비파",
    "v": "h",
-   "r": "Ultra Rare"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_091.png"
   },
   {
    "n": "092/071",
    "name": "유빈의 확신",
    "v": "h",
-   "r": "Ultra Rare"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_092.png"
   },
   {
    "n": "093/071",
    "name": "꿰뚫는화염 ex",
    "v": "h",
-   "r": "Special illustration rare"
+   "en": "Gouging Fire ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_093.png"
   },
   {
    "n": "094/071",
    "name": "굽이치는물결 ex",
    "v": "h",
-   "r": "Special illustration rare"
+   "en": "Walking Wake ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_094.png"
   },
   {
    "n": "095/071",
    "name": "날뛰는우레 ex",
    "v": "h",
-   "r": "Special illustration rare"
+   "en": "Raging Bolt ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_095.png"
   },
   {
    "n": "096/071",
    "name": "비파",
    "v": "h",
-   "r": "Special illustration rare"
+   "en": "Briar",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_096.png"
   },
   {
    "n": "097/071",
    "name": "유빈의 확신",
    "v": "h",
-   "r": "Special illustration rare"
+   "en": "Morty's Conviction",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_097.png"
   },
   {
    "n": "098/071",
    "name": "꿰뚫는화염 ex",
    "v": "h",
-   "r": "Mega Hyper Rare"
+   "en": "Gouging Fire ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_098.png"
   },
   {
    "n": "099/071",
    "name": "굽이치는물결 ex",
    "v": "h",
-   "r": "Mega Hyper Rare"
+   "en": "Walking Wake ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_099.png"
   },
   {
    "n": "100/071",
    "name": "날뛰는우레 ex",
    "v": "h",
-   "r": "Mega Hyper Rare"
+   "en": "Raging Bolt ex",
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_100.png"
   }
  ]
 }

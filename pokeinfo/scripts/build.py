@@ -217,6 +217,8 @@ def add_manual(lang, sets):
                 row.update(ps=c["ps"], pl=c.get("pl", c["ps"]))
             if c.get("from"):
                 row["from"] = c["from"]
+            if c.get("en"):
+                row["en"] = c["en"]
             orig = find_original(lang, sets, c["n"], c["name"])
             if orig:
                 found += 1
