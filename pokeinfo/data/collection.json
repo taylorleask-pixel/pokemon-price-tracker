@@ -250,7 +250,7 @@
   "en|sv05|sv05-082": "n",
   "en|sv05|sv05-035": "n",
   "en|sv05|sv05-077": "n",
-  "en|sv05|sv05-117": "r"
+  "en|sv05|sv05-117": "h"
  },
  "had": {},
  "log": [
@@ -3023,7 +3023,17 @@
    "name": "Melmetal",
    "n": "117",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-23T06:51:41.060Z",
+   "k": "en|sv05|sv05-117",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Melmetal",
+   "n": "117",
+   "set": "Temporal Forces"
   }
  ],
- "updated": "2026-11-23T06:51:39.416Z"
+ "updated": "2026-11-23T06:51:42.088Z"
 }
