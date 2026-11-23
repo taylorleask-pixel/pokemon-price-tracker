@@ -225,7 +225,8 @@
   "ko|SV5K|SV5K-039-071": "n",
   "en|me02|me02-003": "h",
   "en|me02|me02-080": "n",
-  "en|me02|me02-091": "n"
+  "en|me02|me02-091": "n",
+  "en|me02|me02-049": "n"
  },
  "had": {},
  "log": [
@@ -2738,7 +2739,17 @@
    "name": "Jumbo Ice Cream",
    "n": "091",
    "set": "Phantasmal Flames"
+  },
+  {
+   "t": "2026-11-23T06:47:43.305Z",
+   "k": "en|me02|me02-049",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Gligar",
+   "n": "049",
+   "set": "Phantasmal Flames"
   }
  ],
- "updated": "2026-11-23T06:47:39.532Z"
+ "updated": "2026-11-23T06:47:45.634Z"
 }
