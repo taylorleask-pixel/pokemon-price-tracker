@@ -613,7 +613,7 @@ async function renderSet(id) {
     const next = before.includes(t.v) ? before.replace(t.v, "") : versions(c).filter((x) => before.includes(x) || x === t.v).join("");
     setOwned(kk, next, info(c));
     // redraw every tile of this card (its other versions show which ones you have)
-    document.querySelectorAll(".card").forEach((el) => {
+    document.querySelectorAll("#grid .card").forEach((el) => {   // only the binder: stamped copies number their tiles separately
       const tt = S.tiles[+el.dataset.i];
       if (tt && tt.c === c) el.outerHTML = cardTile(tt, C.cards[kk] || "", +el.dataset.i, C.had[kk]);
     });
