@@ -176,7 +176,8 @@
   "en|me01|me01-049": "n",
   "en|me01|me01-039": "n",
   "en|me01|me01-024": "n",
-  "en|me01|me01-118": "n"
+  "en|me01|me01-118": "n",
+  "en|me01|me01-093": "h"
  },
  "had": {},
  "log": [
@@ -2159,7 +2160,17 @@
    "name": "Iron Defender",
    "n": "118",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:19:15.034Z",
+   "k": "en|me01|me01-093",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Steelix",
+   "n": "093",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:19:09.828Z"
+ "updated": "2026-11-23T06:19:17.413Z"
 }
