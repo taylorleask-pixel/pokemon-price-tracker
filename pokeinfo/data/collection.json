@@ -175,7 +175,8 @@
   "en|me01|me01-026": "r",
   "en|me01|me01-049": "n",
   "en|me01|me01-039": "n",
-  "en|me01|me01-024": "n"
+  "en|me01|me01-024": "n",
+  "en|me01|me01-118": "n"
  },
  "had": {},
  "log": [
@@ -2148,7 +2149,17 @@
    "name": "Pyroar",
    "n": "024",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:19:07.477Z",
+   "k": "en|me01|me01-118",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Iron Defender",
+   "n": "118",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:18:58.289Z"
+ "updated": "2026-11-23T06:19:09.828Z"
 }
