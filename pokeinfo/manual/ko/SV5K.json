@@ -1,0 +1,562 @@
+{
+ "id": "SV5K",
+ "name": "와일드포스",
+ "name_en": "Wild Force",
+ "serie": "스칼렛・바이올렛",
+ "serie_id": "SV",
+ "date": "2024-01-26",
+ "official": 71,
+ "abbr": "SV5K",
+ "note": "The card database only had 49 of these 100 cards. The full list follows the Japanese Wild Force; names of the missing cards are the Korean names used in other sets. Four trainer names (061, 062, 070, 071) are in English.",
+ "cards": [
+  {
+   "n": "001/071",
+   "name": "로젤리아",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "002/071",
+   "name": "로즈레이드",
+   "v": "n",
+   "r": "Uncommon"
+  },
+  {
+   "n": "003/071",
+   "name": "모부기",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "004/071",
+   "name": "수풀부기",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "005/071",
+   "name": "토대부기 ex",
+   "v": "h",
+   "r": "Double rare"
+  },
+  {
+   "n": "006/071",
+   "name": "쉐이미",
+   "v": "n",
+   "r": "Uncommon"
+  },
+  {
+   "n": "007/071",
+   "name": "소미안",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "008/071",
+   "name": "엘풍",
+   "v": "h",
+   "r": "Rare"
+  },
+  {
+   "n": "009/071",
+   "name": "앤티골",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "010/071",
+   "name": "태우지네",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "011/071",
+   "name": "다태우지네",
+   "v": "n",
+   "r": "Uncommon"
+  },
+  {
+   "n": "012/071",
+   "name": "꿰뚫는화염 ex",
+   "v": "h",
+   "r": "Double rare"
+  },
+  {
+   "n": "013/071",
+   "name": "리아코",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "014/071",
+   "name": "엘리게이",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "015/071",
+   "name": "장크로다일",
+   "v": "h",
+   "r": "Rare"
+  },
+  {
+   "n": "016/071",
+   "name": "샤프니아",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "017/071",
+   "name": "샤크니아",
+   "v": "n",
+   "r": "Uncommon"
+  },
+  {
+   "n": "018/071",
+   "name": "케르디오",
+   "v": "n",
+   "r": "Uncommon"
+  },
+  {
+   "n": "019/071",
+   "name": "누니머기",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "020/071",
+   "name": "모스노우",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "021/071",
+   "name": "바다그다",
+   "v": "n",
+   "r": "Common"
+  },
+  {
+   "n": "022/071",
+   "name": "Finizen",
+   "v": "n"
+  },
+  {
+   "n": "023/071",
+   "name": "Palafin",
+   "v": "n"
+  },
+  {
+   "n": "024/071",
+   "name": "굽이치는물결 ex",
+   "v": "h"
+  },
+  {
+   "n": "025/071",
+   "name": "바닥트리오 ex",
+   "v": "h"
+  },
+  {
+   "n": "026/071",
+   "name": "Marill",
+   "v": "n"
+  },
+  {
+   "n": "027/071",
+   "name": "Azumarill",
+   "v": "n"
+  },
+  {
+   "n": "028/071",
+   "name": "Bronzor",
+   "v": "n"
+  },
+  {
+   "n": "029/071",
+   "name": "Bronzong",
+   "v": "n"
+  },
+  {
+   "n": "030/071",
+   "name": "Solosis",
+   "v": "n"
+  },
+  {
+   "n": "031/071",
+   "name": "Duosion",
+   "v": "n"
+  },
+  {
+   "n": "032/071",
+   "name": "Reuniclus",
+   "v": "n"
+  },
+  {
+   "n": "033/071",
+   "name": "Flutter Mane",
+   "v": "h"
+  },
+  {
+   "n": "034/071",
+   "name": "Relicanth",
+   "v": "h"
+  },
+  {
+   "n": "035/071",
+   "name": "Golett",
+   "v": "n"
+  },
+  {
+   "n": "036/071",
+   "name": "Golurk",
+   "v": "n"
+  },
+  {
+   "n": "037/071",
+   "name": "Mudbray",
+   "v": "n"
+  },
+  {
+   "n": "038/071",
+   "name": "만마드",
+   "v": "n"
+  },
+  {
+   "n": "039/071",
+   "name": "Rolycoly",
+   "v": "n"
+  },
+  {
+   "n": "040/071",
+   "name": "Carkol",
+   "v": "n"
+  },
+  {
+   "n": "041/071",
+   "name": "Coalossal",
+   "v": "n"
+  },
+  {
+   "n": "042/071",
+   "name": "Great Tusk",
+   "v": "n"
+  },
+  {
+   "n": "043/071",
+   "name": "Ekans",
+   "v": "n"
+  },
+  {
+   "n": "044/071",
+   "name": "아보크",
+   "v": "n"
+  },
+  {
+   "n": "045/071",
+   "name": "Gastly",
+   "v": "n"
+  },
+  {
+   "n": "046/071",
+   "name": "Haunter",
+   "v": "n"
+  },
+  {
+   "n": "047/071",
+   "name": "팬텀 ex",
+   "v": "h"
+  },
+  {
+   "n": "048/071",
+   "name": "Poochyena",
+   "v": "n"
+  },
+  {
+   "n": "049/071",
+   "name": "Mightyena",
+   "v": "n"
+  },
+  {
+   "n": "050/071",
+   "name": "Sableye",
+   "v": "n"
+  },
+  {
+   "n": "051/071",
+   "name": "Roaring Moon",
+   "v": "h"
+  },
+  {
+   "n": "052/071",
+   "name": "Koraidon",
+   "v": "h"
+  },
+  {
+   "n": "053/071",
+   "name": "날뛰는우레 ex",
+   "v": "h"
+  },
+  {
+   "n": "054/071",
+   "name": "Hoothoot",
+   "v": "n"
+  },
+  {
+   "n": "055/071",
+   "name": "Noctowl",
+   "v": "n"
+  },
+  {
+   "n": "056/071",
+   "name": "Dunsparce",
+   "v": "n"
+  },
+  {
+   "n": "057/071",
+   "name": "Dudunsparce",
+   "v": "h"
+  },
+  {
+   "n": "058/071",
+   "name": "페라페",
+   "v": "n"
+  },
+  {
+   "n": "059/071",
+   "name": "Minccino",
+   "v": "n"
+  },
+  {
+   "n": "060/071",
+   "name": "치라치노",
+   "v": "n"
+  },
+  {
+   "n": "061/071",
+   "name": "Delivery Box",
+   "v": "n"
+  },
+  {
+   "n": "062/071",
+   "name": "Awakening Drum",
+   "v": "h"
+  },
+  {
+   "n": "063/071",
+   "name": "주문박스",
+   "v": "n",
+   "r": "Uncommon"
+  },
+  {
+   "n": "064/071",
+   "name": "Technical Machine: Evolution",
+   "v": "n"
+  },
+  {
+   "n": "065/071",
+   "name": "Sparkling Crystal",
+   "v": "n"
+  },
+  {
+   "n": "066/071",
+   "name": "Future Booster Energy Capsule",
+   "v": "h"
+  },
+  {
+   "n": "067/071",
+   "name": "탐험가의 선도",
+   "v": "n"
+  },
+  {
+   "n": "068/071",
+   "name": "비파",
+   "v": "n"
+  },
+  {
+   "n": "069/071",
+   "name": "유빈의 확신",
+   "v": "n"
+  },
+  {
+   "n": "070/071",
+   "name": "Perilous Jungle",
+   "v": "n"
+  },
+  {
+   "n": "071/071",
+   "name": "Neo Upper Energy",
+   "v": "h"
+  },
+  {
+   "n": "072/071",
+   "name": "수풀부기",
+   "v": "h"
+  },
+  {
+   "n": "073/071",
+   "name": "Snom",
+   "v": "h"
+  },
+  {
+   "n": "074/071",
+   "name": "동미러",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "075/071",
+   "name": "란쿨루스",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "076/071",
+   "name": "날개치는머리",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "077/071",
+   "name": "시라칸",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "078/071",
+   "name": "만마드",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "079/071",
+   "name": "아보크",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "080/071",
+   "name": "고오스",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "081/071",
+   "name": "페라페",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "082/071",
+   "name": "치라미",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "083/071",
+   "name": "치라치노",
+   "v": "h",
+   "r": "Illustration rare"
+  },
+  {
+   "n": "084/071",
+   "name": "토대부기 ex",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "085/071",
+   "name": "꿰뚫는화염 ex",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "086/071",
+   "name": "굽이치는물결 ex",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "087/071",
+   "name": "바닥트리오 ex",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "088/071",
+   "name": "팬텀 ex",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "089/071",
+   "name": "날뛰는우레 ex",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "090/071",
+   "name": "탐험가의 선도",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "091/071",
+   "name": "비파",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "092/071",
+   "name": "유빈의 확신",
+   "v": "h",
+   "r": "Ultra Rare"
+  },
+  {
+   "n": "093/071",
+   "name": "꿰뚫는화염 ex",
+   "v": "h",
+   "r": "Special illustration rare"
+  },
+  {
+   "n": "094/071",
+   "name": "굽이치는물결 ex",
+   "v": "h",
+   "r": "Special illustration rare"
+  },
+  {
+   "n": "095/071",
+   "name": "날뛰는우레 ex",
+   "v": "h",
+   "r": "Special illustration rare"
+  },
+  {
+   "n": "096/071",
+   "name": "비파",
+   "v": "h",
+   "r": "Special illustration rare"
+  },
+  {
+   "n": "097/071",
+   "name": "유빈의 확신",
+   "v": "h",
+   "r": "Special illustration rare"
+  },
+  {
+   "n": "098/071",
+   "name": "꿰뚫는화염 ex",
+   "v": "h",
+   "r": "Mega Hyper Rare"
+  },
+  {
+   "n": "099/071",
+   "name": "굽이치는물결 ex",
+   "v": "h",
+   "r": "Mega Hyper Rare"
+  },
+  {
+   "n": "100/071",
+   "name": "날뛰는우레 ex",
+   "v": "h",
+   "r": "Mega Hyper Rare"
+  }
+ ]
+}
