@@ -167,7 +167,8 @@
   "en|sv08|sv08-087": "r",
   "en|me01|me01-050": "h",
   "en|me01|me01-036": "h",
-  "en|me01|me01-065": "r"
+  "en|me01|me01-065": "r",
+  "en|me01|me01-063": "n"
  },
  "had": {},
  "log": [
@@ -2060,7 +2061,17 @@
    "name": "Greavard",
    "n": "065",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:17:43.317Z",
+   "k": "en|me01|me01-063",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Grumpig",
+   "n": "063",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:17:40.481Z"
+ "updated": "2026-11-23T06:17:45.762Z"
 }
