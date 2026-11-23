@@ -7,7 +7,7 @@
  "date": "2024-01-26",
  "official": 71,
  "abbr": "SV5K",
- "note": "Full list follows the Japanese Wild Force (the card database only had 49 cards). Pokémon have Korean and English names; trainers without a confirmed Korean name show the English one. Pictures come from Pokémon Korea's card site.",
+ "note": "Full list follows the Japanese Wild Force (the card database only had 49 cards). Korean and English names for every card; seven trainer names (062–066, 070, 071) are translated from Japanese and may be spaced or worded slightly differently on the Korean card.",
  "cards": [
   {
    "n": "001/071",
@@ -438,33 +438,38 @@
   },
   {
    "n": "062/071",
-   "name": "Awakening Drum",
+   "name": "각성의드럼",
    "v": "h",
-   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_062.png"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_062.png",
+   "en": "Awakening Drum"
   },
   {
    "n": "063/071",
-   "name": "Buddy-Buddy Poffin",
+   "name": "사이좋은포핀",
    "v": "n",
-   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_063.png"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_063.png",
+   "en": "Buddy-Buddy Poffin"
   },
   {
    "n": "064/071",
-   "name": "Rescue Board",
+   "name": "긴급보드",
    "v": "n",
-   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_064.png"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_064.png",
+   "en": "Rescue Board"
   },
   {
    "n": "065/071",
-   "name": "Ancient Booster Energy Capsule",
+   "name": "부스트에너지 고대",
    "v": "n",
-   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_065.png"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_065.png",
+   "en": "Ancient Booster Energy Capsule"
   },
   {
    "n": "066/071",
-   "name": "Maximum Belt",
+   "name": "맥시멈벨트",
    "v": "h",
-   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_066.png"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_066.png",
+   "en": "Maximum Belt"
   },
   {
    "n": "067/071",
@@ -489,15 +494,17 @@
   },
   {
    "n": "070/071",
-   "name": "Perilous Jungle",
+   "name": "위험한밀림",
    "v": "n",
-   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_070.png"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_070.png",
+   "en": "Perilous Jungle"
   },
   {
    "n": "071/071",
-   "name": "Neo Upper Energy",
+   "name": "네오어퍼에너지",
    "v": "h",
-   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_071.png"
+   "ps": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_071.png",
+   "en": "Neo Upper Energy"
   },
   {
    "n": "072/071",
