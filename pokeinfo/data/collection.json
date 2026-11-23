@@ -165,7 +165,8 @@
   "en|sv08|sv08-038": "r",
   "en|sv08|sv08-152": "r",
   "en|sv08|sv08-087": "r",
-  "en|me01|me01-050": "h"
+  "en|me01|me01-050": "h",
+  "en|me01|me01-036": "h"
  },
  "had": {},
  "log": [
@@ -2038,7 +2039,17 @@
    "name": "Spiritomb",
    "n": "087/132",
    "set": "Pokéween 2025"
+  },
+  {
+   "t": "2026-11-23T06:16:47.063Z",
+   "k": "en|me01|me01-036",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Mega Abomasnow ex",
+   "n": "036",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:16:23.154Z"
+ "updated": "2026-11-23T06:16:49.545Z"
 }
