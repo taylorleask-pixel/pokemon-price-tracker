@@ -173,7 +173,8 @@
   "en|me01|me01-018": "n",
   "en|me01|me01-107": "n",
   "en|me01|me01-026": "r",
-  "en|me01|me01-049": "n"
+  "en|me01|me01-049": "n",
+  "en|me01|me01-039": "n"
  },
  "had": {},
  "log": [
@@ -2126,7 +2127,17 @@
    "name": "Electrike",
    "n": "049",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:18:42.448Z",
+   "k": "en|me01|me01-039",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Sobble",
+   "n": "039",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:18:35.429Z"
+ "updated": "2026-11-23T06:18:44.792Z"
 }
