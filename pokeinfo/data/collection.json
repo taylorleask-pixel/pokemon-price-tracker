@@ -181,7 +181,8 @@
   "en|me01|me01-012": "r",
   "en|me01|me01-034": "r",
   "en|me01|me01-004": "r",
-  "en|swsh8|swsh8-167": "r"
+  "en|swsh8|swsh8-167": "r",
+  "en|swsh8|swsh8-62": "n"
  },
  "had": {},
  "log": [
@@ -2214,7 +2215,17 @@
    "name": "Darkrai",
    "n": "167",
    "set": "Fusion Strike"
+  },
+  {
+   "t": "2026-11-23T06:20:44.187Z",
+   "k": "en|swsh8|swsh8-62",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Mudkip",
+   "n": "62",
+   "set": "Fusion Strike"
   }
  ],
- "updated": "2026-11-23T06:20:34.096Z"
+ "updated": "2026-11-23T06:20:46.558Z"
 }
