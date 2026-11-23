@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T11:09+10:00",
+"updated": "2026-11-23T21:22+10:00",
 "listings": [
 {
 "store": "evo-flinders",
@@ -135,15 +135,6 @@
 "price": 65.0,
 "available": false,
 "url": "https://www.evogamesorion.com.au/products/gengar-prime-94-102-me-30th-celebration-classic-collection-holofoil?variant=67960284020957"
-},
-{
-"store": "evo-orion",
-"card": 109,
-"title": "Gengar ex 104/162 (SV05: Temporal Forces) - Holofoil",
-"condition": "NM",
-"price": 15.0,
-"available": false,
-"url": "https://www.evogamesorion.com.au/products/gengar-ex-104-162-sv05-temporal-forces-holofoil?variant=48514118779101"
 },
 {
 "store": "evo-orion",
@@ -297,6 +288,15 @@
 "price": 113.0,
 "available": false,
 "url": "https://www.evogamesorion.com.au/products/gengar-060-162-miscellaneous-cards-products-cosmo-holofoil?variant=48583849050333"
+},
+{
+"store": "evo-orion",
+"card": 109,
+"title": "Gengar ex 104/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "NM",
+"price": 15.0,
+"available": false,
+"url": "https://www.evogamesorion.com.au/products/gengar-ex-104-162-sv05-temporal-forces-holofoil?variant=48514118779101"
 },
 {
 "store": "evo-orion",
@@ -471,6 +471,15 @@
 },
 {
 "store": "mint",
+"card": 3,
+"title": "Gengar 20/62 (Fossil) - Unlimited HP/DMG",
+"condition": "HP/DMG",
+"price": 20.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-20-62-fossil-unlimited-hp-dmg?variant=57606444712100"
+},
+{
+"store": "mint",
 "card": 87,
 "title": "Gengar ex 154/128 (ME: 30th Celebration) - Holofoil",
 "condition": "NM",
@@ -516,15 +525,6 @@
 },
 {
 "store": "mint",
-"card": 3,
-"title": "Gengar 20/62 (Fossil) - Unlimited HP/DMG",
-"condition": "HP/DMG",
-"price": 20.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-20-62-fossil-unlimited-hp-dmg?variant=57606444712100"
-},
-{
-"store": "mint",
 "card": 38,
 "title": "M Gengar EX XY166 (XY Promos) - Holofoil",
 "condition": "NM",
@@ -534,12 +534,30 @@
 },
 {
 "store": "mint",
+"card": 57,
+"title": "Gengar SWSH052 (SWSH: Sword & Shield Promo Cards) - Holofoil",
+"condition": "NM",
+"price": 198.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-swsh052-swsh-sword-shield-promo-cards-holofoil?variant=57606519586980"
+},
+{
+"store": "mint",
 "card": 1,
 "title": "Gengar 05/62 (Fossil) - Unlimited Holofoil",
 "condition": "NM",
 "price": 312.5,
 "available": false,
 "url": "https://mintcollectables.com.au/products/gengar-05-62-fossil-unlimited-holofoil?variant=54288568582308"
+},
+{
+"store": "mint",
+"card": 30,
+"title": "Gengar GL 40/111 (Rising Rivals)",
+"condition": "NM",
+"price": 67.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-gl-40-111-rising-rivals?variant=57606361186468"
 },
 {
 "store": "mint",
@@ -567,15 +585,6 @@
 "price": 10.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/gengar-057-198-swsh06-chilling-reign-holofoil?variant=51405862371492"
-},
-{
-"store": "mint",
-"card": 39,
-"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil",
-"condition": "NM",
-"price": 110.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil?variant=51405656785060"
 },
 {
 "store": "mint",
@@ -696,15 +705,6 @@
 },
 {
 "store": "mint",
-"card": 30,
-"title": "Gengar GL 40/111 (Rising Rivals)",
-"condition": "NM",
-"price": 67.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-gl-40-111-rising-rivals?variant=57606361186468"
-},
-{
-"store": "mint",
 "card": 78,
 "title": "Mega Gengar ex 073 (ME: Mega Evolution Promo) - Holofoil",
 "condition": "NM",
@@ -750,21 +750,12 @@
 },
 {
 "store": "mint",
-"card": 47,
-"title": "Gengar 35/83 (Generations) - Holofoil",
+"card": 31,
+"title": "Gengar GL 40/111 (Rising Rivals) - Reverse Holofoil",
 "condition": "NM",
-"price": 60.0,
+"price": 142.5,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-35-83-generations-holofoil?variant=51408056877220"
-},
-{
-"store": "mint",
-"card": 57,
-"title": "Gengar SWSH052 (SWSH: Sword & Shield Promo Cards) - Holofoil",
-"condition": "NM",
-"price": 198.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-swsh052-swsh-sword-shield-promo-cards-holofoil?variant=57606519586980"
+"url": "https://mintcollectables.com.au/products/gengar-gl-40-111-rising-rivals-reverse-holofoil?variant=57606360858788"
 },
 {
 "store": "mint",
@@ -774,6 +765,15 @@
 "price": 20.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/gengar-057-198-swsh06-chilling-reign-reverse-holofoil?variant=57606519554212"
+},
+{
+"store": "mint",
+"card": 47,
+"title": "Gengar 35/83 (Generations) - Holofoil",
+"condition": "NM",
+"price": 60.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-35-83-generations-holofoil?variant=51408056877220"
 },
 {
 "store": "mint",
@@ -873,15 +873,6 @@
 "price": 120.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/gengar-eb-games-exclusive-050-088-miscellaneous-cards-products-cosmos-holofoil?variant=53848455184548"
-},
-{
-"store": "mint",
-"card": 31,
-"title": "Gengar GL 40/111 (Rising Rivals) - Reverse Holofoil",
-"condition": "NM",
-"price": 142.5,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-gl-40-111-rising-rivals-reverse-holofoil?variant=57606360858788"
 },
 {
 "store": "mint",
@@ -2157,7 +2148,7 @@
 "card": 99,
 "title": "Gastly (177/162) [Scarlet & Violet: Temporal Forces]",
 "condition": "Near Mint Holofoil",
-"price": 150.5,
+"price": 149.5,
 "available": true,
 "url": "https://www.cardhouse.com.au/products/gastly-177-162-scarlet-violet-temporal-forces?variant=43080527642815"
 },
@@ -2166,7 +2157,7 @@
 "card": 88,
 "title": "Gengar (Prime) 094/102 - Holofoil ME 30th Celebration Classic Collection - Classic Collection",
 "condition": "Near Mint",
-"price": 76.0,
+"price": 75.5,
 "available": true,
 "url": "https://www.cardhouse.com.au/products/gengar-prime-094-102-holofoil-me-30th-celebration-classic-collection-classic-collection?variant=46206845911231"
 },
@@ -2211,7 +2202,7 @@
 "card": 39,
 "title": "Gengar EX (34/119) [XY: Phantom Forces]",
 "condition": "Near Mint Holofoil",
-"price": 156.5,
+"price": 155.5,
 "available": false,
 "url": "https://www.cardhouse.com.au/products/gengar-ex-34-119-xy-phantom-forces?variant=42392775557311"
 },
@@ -2256,7 +2247,7 @@
 "card": 80,
 "title": "Mega Gengar ex 269/217 - Holofoil ME Ascended Heroes - Mega Attack Rare",
 "condition": "Near Mint",
-"price": 52.5,
+"price": 53.5,
 "available": true,
 "url": "https://www.cardhouse.com.au/products/mega-gengar-ex-269-217-holofoil-me-ascended-heroes-mega-attack-rare?variant=45114870563007"
 },
@@ -2292,7 +2283,7 @@
 "card": 105,
 "title": "Gengar VMAX (157/264) [Sword & Shield: Fusion Strike]",
 "condition": "Near Mint Holofoil",
-"price": 77.0,
+"price": 79.0,
 "available": false,
 "url": "https://www.cardhouse.com.au/products/gengar-vmax-157-264-sword-shield-fusion-strike?variant=42396519104703"
 },
@@ -2382,7 +2373,7 @@
 "card": 73,
 "title": "Gengar (094/165) [Scarlet & Violet 151]",
 "condition": "Near Mint Holofoil",
-"price": 6.0,
+"price": 5.5,
 "available": false,
 "url": "https://www.cardhouse.com.au/products/gengar-094-165-scarlet-violet-151?variant=42489440501951"
 },
@@ -2671,37 +2662,37 @@
 "ok": true,
 "count": 8,
 "cards": 8,
-"checked": "2026-11-23T11:09+10:00"
+"checked": "2026-11-23T21:22+10:00"
 },
 "evo-orion": {
 "ok": true,
 "count": 31,
 "cards": 31,
-"checked": "2026-11-23T11:09+10:00"
+"checked": "2026-11-23T21:22+10:00"
 },
 "mint": {
 "ok": true,
-"count": 93,
+"count": 92,
 "cards": 45,
-"checked": "2026-11-23T11:09+10:00"
+"checked": "2026-11-23T21:22+10:00"
 },
 "misty": {
 "ok": true,
 "count": 72,
 "cards": 72,
-"checked": "2026-11-23T11:09+10:00"
+"checked": "2026-11-23T21:22+10:00"
 },
 "raptor": {
 "ok": true,
 "count": 20,
 "cards": 17,
-"checked": "2026-11-23T11:09+10:00"
+"checked": "2026-11-23T21:22+10:00"
 },
 "card-house": {
 "ok": true,
 "count": 64,
 "cards": 64,
-"checked": "2026-11-23T11:09+10:00"
+"checked": "2026-11-23T21:22+10:00"
 }
 }
 }

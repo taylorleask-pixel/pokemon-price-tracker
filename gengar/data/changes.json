@@ -1,6 +1,66 @@
 {
 "events": [
 {
+"time": "2026-11-23T21:22+10:00",
+"store": "card-house",
+"card": 99,
+"condition": "Near Mint Holofoil",
+"price": 149.5,
+"url": "https://www.cardhouse.com.au/products/gastly-177-162-scarlet-violet-temporal-forces?variant=43080527642815",
+"type": "price-down",
+"old": 150.5
+},
+{
+"time": "2026-11-23T21:22+10:00",
+"store": "card-house",
+"card": 88,
+"condition": "Near Mint",
+"price": 75.5,
+"url": "https://www.cardhouse.com.au/products/gengar-prime-094-102-holofoil-me-30th-celebration-classic-collection-classic-collection?variant=46206845911231",
+"type": "price-down",
+"old": 76.0
+},
+{
+"time": "2026-11-23T21:22+10:00",
+"store": "card-house",
+"card": 39,
+"condition": "Near Mint Holofoil",
+"price": 155.5,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-34-119-xy-phantom-forces?variant=42392775557311",
+"type": "price-down",
+"old": 156.5
+},
+{
+"time": "2026-11-23T21:22+10:00",
+"store": "card-house",
+"card": 80,
+"condition": "Near Mint",
+"price": 53.5,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-269-217-holofoil-me-ascended-heroes-mega-attack-rare?variant=45114870563007",
+"type": "price-up",
+"old": 52.5
+},
+{
+"time": "2026-11-23T21:22+10:00",
+"store": "card-house",
+"card": 105,
+"condition": "Near Mint Holofoil",
+"price": 79.0,
+"url": "https://www.cardhouse.com.au/products/gengar-vmax-157-264-sword-shield-fusion-strike?variant=42396519104703",
+"type": "price-up",
+"old": 77.0
+},
+{
+"time": "2026-11-23T21:22+10:00",
+"store": "card-house",
+"card": 73,
+"condition": "Near Mint Holofoil",
+"price": 5.5,
+"url": "https://www.cardhouse.com.au/products/gengar-094-165-scarlet-violet-151?variant=42489440501951",
+"type": "price-down",
+"old": 6.0
+},
+{
 "time": "2026-11-23T11:09+10:00",
 "store": "evo-flinders",
 "card": 39,
