@@ -165,7 +165,8 @@
   "en|sv08|sv08-038": "r",
   "en|sv08|sv08-152": "r",
   "en|sv08|sv08-087": "r",
-  "en|me01|me01-050": "h"
+  "en|me01|me01-050": "h",
+  "en|pkw25|pkw25-087-132": "n"
  },
  "had": {},
  "log": [
@@ -2018,7 +2019,17 @@
    "name": "Mega Manectric ex",
    "n": "050",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:16:18.014Z",
+   "k": "en|pkw25|pkw25-087-132",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Spiritomb",
+   "n": "087/132",
+   "set": "Pokéween 2025"
   }
  ],
- "updated": "2026-11-23T06:16:16.705Z"
+ "updated": "2026-11-23T06:16:19.134Z"
 }
