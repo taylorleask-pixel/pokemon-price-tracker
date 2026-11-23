@@ -641,12 +641,16 @@ function cardMatches(c, q) {
     return name.includes(w) || num.includes(w) || (c.r || "").toLowerCase().includes(w);
   });
 }
+// stand-in for a card with no picture: its name, the English name when that's different, and its number
+function phHTML(c) {
+  return `<span class="ph"><b>${esc(c.name)}</b>${c.en && c.en !== c.name ? `<i>${esc(c.en)}</i>` : ""}<small>${esc(c.n || "")}</small></span>`;
+}
 function cardTile(t, ownedAll, i, had) {
   const c = t.c, v = t.v, owned = ownedAll.includes(v) ? ownedAll : "";
   had = !ownedAll && had;
   const label = (t.multi && v !== "n") || /[pms]/.test(v) ? VNAME[v] : "";   // Poké Ball / Master Ball / Starlight always say so
   return `<button type="button" class="card ${owned ? "have" : had ? "had" : "need"}${isRev(v) ? " rev" : ""}${v === "p" ? " pball" : v === "m" ? " mball" : v === "s" ? " sball" : ""}" data-i="${i}" aria-pressed="${!!owned}" aria-label="${esc(`${c.name} ${c.n}${label ? `, ${label}` : ""}`)}${owned ? ", have it" : had ? `, ${HOW[had.how].toLowerCase()}` : ""}">
-    <span class="pic">${pic(c) ? `<img src="${esc(pic(c))}" alt="" loading="lazy" data-ph="${esc(c.name)}" onerror="imgFail(this)">` : `<span class="ph">${esc(c.name)}</span>`}
+    <span class="pic">${pic(c) ? `<img src="${esc(pic(c))}" alt="" loading="lazy" data-phh="${esc(phHTML(c))}" onerror="imgFail(this)">` : phHTML(c)}
       ${owned ? `<span class="tick" aria-hidden="true">✓</span>` : ""}
       ${had ? `<span class="hadtag">Had · ${HOW[had.how]}</span>` : ""}
       ${label ? `<span class="vlabel">${esc(VLABEL[v] || label)}</span>` : ""}
@@ -680,7 +684,7 @@ function openCard(setId, i, list = S.list) {
   const meta = D.sets[S.lang].sets.find((s) => s.id === setId);
   const info = S.info(c);
   dlg.innerHTML = `<div class="sheet">
-    <div class="sheet-head"><h2 id="cs-name">${esc(c.name)}</h2><button type="button" class="x" id="csx" aria-label="Close">×</button></div>
+    <div class="sheet-head"><h2 id="cs-name">${esc(c.name)}${c.en && c.en !== c.name ? ` <small class="en-title">${esc(c.en)}</small>` : ""}</h2><button type="button" class="x" id="csx" aria-label="Close">×</button></div>
     <div class="cardview">
       <div class="pic">${pic(c, "high") ? `<img src="${esc(pic(c, "high"))}" alt="${esc(c.name)}" data-ph="No picture for this card" onerror="imgFail(this)">` : `<div class="ph">No picture for this card</div>`}</div>
       <div>
@@ -949,6 +953,7 @@ function openSync() {
 
 // ---------------------------------------------------------------- small things
 function imgFail(img) {   // a picture that won't load becomes a name placeholder
+  if (img.dataset.phh) { img.insertAdjacentHTML("afterend", img.dataset.phh); img.remove(); return; }   // built by phHTML, already escaped
   const ph = document.createElement("span"); ph.className = "ph"; ph.textContent = img.dataset.ph || ""; img.replaceWith(ph);
 }
 window.imgFail = imgFail;

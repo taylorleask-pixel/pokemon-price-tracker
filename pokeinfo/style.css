@@ -93,7 +93,10 @@ main { max-width: 1180px; margin: 0 auto; padding: 18px 16px 40px; }
 .card { position: relative; border: 0; background: none; padding: 0; cursor: pointer; text-align: left; min-width: 0; }
 .card .pic { display: block; position: relative; aspect-ratio: 63 / 88; border-radius: 6% / 4.3%; overflow: hidden; background: var(--line); }
 .card img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.card .ph { position: absolute; inset: 0; display: grid; place-items: center; padding: 8px; text-align: center; font-size: 13px; color: var(--muted); border: 1.5px dashed var(--muted); border-radius: inherit; }
+.card .ph { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 6px; padding: 10px; text-align: center; color: var(--muted); border: 1.5px dashed var(--muted); border-radius: inherit; background: var(--surface); }
+.card .ph b { font: 700 clamp(16px, 2.2vw, 22px)/1.2 var(--body); color: var(--ink); word-break: keep-all; }
+.card .ph i { font: italic 500 15px/1.2 var(--display); color: var(--ink); opacity: .8; }
+.card .ph small { font: 700 12px var(--mono); }
 .card .cap { display: flex; justify-content: space-between; gap: 6px; font-size: 13.5px; margin-top: 4px; color: var(--muted); }
 .card .cap span:first-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .card.need .pic { filter: grayscale(1); opacity: .38; }

@@ -7,7 +7,7 @@
  "date": "2024-01-26",
  "official": 71,
  "abbr": "SV5K",
- "note": "The card database only had 49 of these 100 cards. The full list follows the Japanese Wild Force; names of the missing cards are the Korean names used in other sets. Four trainer names (061, 062, 070, 071) are in English.",
+ "note": "The card database only had 49 of these 100 cards. The full list follows the Japanese Wild Force, with Korean Pokémon names; a few trainer cards are in English.",
  "cards": [
   {
    "n": "001/071",
@@ -137,12 +137,12 @@
   },
   {
    "n": "022/071",
-   "name": "Finizen",
+   "name": "맨돌핀",
    "v": "n"
   },
   {
    "n": "023/071",
-   "name": "Palafin",
+   "name": "돌핀맨",
    "v": "n"
   },
   {
@@ -157,62 +157,62 @@
   },
   {
    "n": "026/071",
-   "name": "Marill",
+   "name": "마릴",
    "v": "n"
   },
   {
    "n": "027/071",
-   "name": "Azumarill",
+   "name": "마릴리",
    "v": "n"
   },
   {
    "n": "028/071",
-   "name": "Bronzor",
+   "name": "동미러",
    "v": "n"
   },
   {
    "n": "029/071",
-   "name": "Bronzong",
+   "name": "동탁군",
    "v": "n"
   },
   {
    "n": "030/071",
-   "name": "Solosis",
+   "name": "유니란",
    "v": "n"
   },
   {
    "n": "031/071",
-   "name": "Duosion",
+   "name": "듀란",
    "v": "n"
   },
   {
    "n": "032/071",
-   "name": "Reuniclus",
+   "name": "란쿨루스",
    "v": "n"
   },
   {
    "n": "033/071",
-   "name": "Flutter Mane",
+   "name": "날개치는머리",
    "v": "h"
   },
   {
    "n": "034/071",
-   "name": "Relicanth",
+   "name": "시라칸",
    "v": "h"
   },
   {
    "n": "035/071",
-   "name": "Golett",
+   "name": "골비람",
    "v": "n"
   },
   {
    "n": "036/071",
-   "name": "Golurk",
+   "name": "골루그",
    "v": "n"
   },
   {
    "n": "037/071",
-   "name": "Mudbray",
+   "name": "머드나기",
    "v": "n"
   },
   {
@@ -222,27 +222,27 @@
   },
   {
    "n": "039/071",
-   "name": "Rolycoly",
+   "name": "탄동",
    "v": "n"
   },
   {
    "n": "040/071",
-   "name": "Carkol",
+   "name": "탄차곤",
    "v": "n"
   },
   {
    "n": "041/071",
-   "name": "Coalossal",
+   "name": "석탄산",
    "v": "n"
   },
   {
    "n": "042/071",
-   "name": "Great Tusk",
+   "name": "위대한엄니",
    "v": "n"
   },
   {
    "n": "043/071",
-   "name": "Ekans",
+   "name": "아보",
    "v": "n"
   },
   {
@@ -252,12 +252,12 @@
   },
   {
    "n": "045/071",
-   "name": "Gastly",
+   "name": "고오스",
    "v": "n"
   },
   {
    "n": "046/071",
-   "name": "Haunter",
+   "name": "고우스트",
    "v": "n"
   },
   {
@@ -267,27 +267,27 @@
   },
   {
    "n": "048/071",
-   "name": "Poochyena",
+   "name": "포챠나",
    "v": "n"
   },
   {
    "n": "049/071",
-   "name": "Mightyena",
+   "name": "그라에나",
    "v": "n"
   },
   {
    "n": "050/071",
-   "name": "Sableye",
+   "name": "깜까미",
    "v": "n"
   },
   {
    "n": "051/071",
-   "name": "Roaring Moon",
+   "name": "고동치는달",
    "v": "h"
   },
   {
    "n": "052/071",
-   "name": "Koraidon",
+   "name": "코라이돈",
    "v": "h"
   },
   {
@@ -297,22 +297,22 @@
   },
   {
    "n": "054/071",
-   "name": "Hoothoot",
+   "name": "부우부",
    "v": "n"
   },
   {
    "n": "055/071",
-   "name": "Noctowl",
+   "name": "야부엉",
    "v": "n"
   },
   {
    "n": "056/071",
-   "name": "Dunsparce",
+   "name": "노고치",
    "v": "n"
   },
   {
    "n": "057/071",
-   "name": "Dudunsparce",
+   "name": "노고고치",
    "v": "h"
   },
   {
@@ -322,7 +322,7 @@
   },
   {
    "n": "059/071",
-   "name": "Minccino",
+   "name": "치라미",
    "v": "n"
   },
   {
@@ -393,7 +393,7 @@
   },
   {
    "n": "073/071",
-   "name": "Snom",
+   "name": "누니머기",
    "v": "h"
   },
   {

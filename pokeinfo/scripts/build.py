@@ -503,6 +503,12 @@ def build_lang(lang):
     fill_logos(lang, sets)
     add_art(lang, sets)
     link_stamped(lang, sets)
+    if lang != "en":   # English names beside Japanese, Korean and Chinese ones, for cards with no picture
+        from en_names import add_english
+        for x in sets:
+            path = OUT / lang / "sets" / f"{x['id']}.json"
+            if path.exists():
+                add_english(path)
     try:   # how to tell a set's cards apart (manual/identify.json), shown on its page
         ident = json.loads((MANUAL / "identify.json").read_text(encoding="utf-8")).get(lang, {})
     except Exception:  # noqa: BLE001
