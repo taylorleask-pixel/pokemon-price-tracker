@@ -171,7 +171,8 @@
   "en|me01|me01-063": "n",
   "en|me01|me01-011": "n",
   "en|me01|me01-018": "n",
-  "en|me01|me01-107": "n"
+  "en|me01|me01-107": "n",
+  "en|me01|me01-026": "r"
  },
  "had": {},
  "log": [
@@ -2104,7 +2105,17 @@
    "name": "Buneary",
    "n": "107",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:18:24.184Z",
+   "k": "en|me01|me01-026",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Scorbunny",
+   "n": "026",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:18:17.296Z"
+ "updated": "2026-11-23T06:18:26.597Z"
 }
