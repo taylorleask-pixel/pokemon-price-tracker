@@ -177,7 +177,8 @@
   "en|me01|me01-039": "n",
   "en|me01|me01-024": "n",
   "en|me01|me01-118": "n",
-  "en|me01|me01-093": "h"
+  "en|me01|me01-093": "h",
+  "en|me01|me01-012": "r"
  },
  "had": {},
  "log": [
@@ -2170,7 +2171,17 @@
    "name": "Steelix",
    "n": "093",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:19:22.440Z",
+   "k": "en|me01|me01-012",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Celebi",
+   "n": "012",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:19:17.413Z"
+ "updated": "2026-11-23T06:19:24.772Z"
 }
