@@ -206,7 +206,8 @@
   "en|sm1|sm1-68": "n",
   "en|sm1|sm1-73": "n",
   "en|sm1|sm1-55": "n",
-  "en|sm1|sm1-97": "n"
+  "en|sm1|sm1-97": "n",
+  "en|sm1|sm1-76": "n"
  },
  "had": {},
  "log": [
@@ -2489,7 +2490,17 @@
    "name": "Spearow",
    "n": "97",
    "set": "Sun & Moon"
+  },
+  {
+   "t": "2026-11-23T06:24:51.254Z",
+   "k": "en|sm1|sm1-76",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Alolan Rattata",
+   "n": "76",
+   "set": "Sun & Moon"
   }
  ],
- "updated": "2026-11-23T06:24:47.722Z"
+ "updated": "2026-11-23T06:24:53.588Z"
 }
