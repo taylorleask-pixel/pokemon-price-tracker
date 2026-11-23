@@ -203,7 +203,8 @@
   "en|sm1|sm1-126": "n",
   "en|sm1|sm1-106": "n",
   "en|sm1|sm1-83": "n",
-  "en|sm1|sm1-68": "n"
+  "en|sm1|sm1-68": "n",
+  "en|sm1|sm1-73": "n"
  },
  "had": {},
  "log": [
@@ -2456,7 +2457,17 @@
    "name": "Hariyama",
    "n": "68",
    "set": "Sun & Moon"
+  },
+  {
+   "t": "2026-11-23T06:24:36.823Z",
+   "k": "en|sm1|sm1-73",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Passimian",
+   "n": "73",
+   "set": "Sun & Moon"
   }
  ],
- "updated": "2026-11-23T06:24:33.477Z"
+ "updated": "2026-11-23T06:24:39.148Z"
 }
