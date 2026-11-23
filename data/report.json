@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-22T21:26+10:00",
+ "updated": "2026-11-23T11:44+10:00",
  "stores": {
   "misty": {
    "ok": true,
-   "found": 986,
-   "kept": 963
+   "found": 965,
+   "kept": 942
   },
   "evo": {
    "ok": true,
