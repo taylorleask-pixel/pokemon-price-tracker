@@ -196,7 +196,8 @@
   "en|swsh8|swsh8-229": "n",
   "en|swsh8|swsh8-142": "n",
   "en|swsh8|swsh8-1": "n",
-  "en|swsh8|swsh8-205": "n"
+  "en|swsh8|swsh8-205": "n",
+  "en|swsh8|swsh8-47": "r"
  },
  "had": {},
  "log": [
@@ -2379,7 +2380,17 @@
    "name": "Eevee",
    "n": "205",
    "set": "Fusion Strike"
+  },
+  {
+   "t": "2026-11-23T06:23:04.044Z",
+   "k": "en|swsh8|swsh8-47",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Sizzlipede",
+   "n": "47",
+   "set": "Fusion Strike"
   }
  ],
- "updated": "2026-11-23T06:22:59.879Z"
+ "updated": "2026-11-23T06:23:06.383Z"
 }
