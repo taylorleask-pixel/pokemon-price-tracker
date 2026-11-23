@@ -187,7 +187,8 @@
   "en|swsh8|swsh8-147": "n",
   "en|swsh8|swsh8-13": "n",
   "en|swsh8|swsh8-42": "n",
-  "en|swsh8|swsh8-91": "n"
+  "en|swsh8|swsh8-91": "n",
+  "en|swsh8|swsh8-214": "n"
  },
  "had": {},
  "log": [
@@ -2280,7 +2281,17 @@
    "name": "Shinx",
    "n": "91",
    "set": "Fusion Strike"
+  },
+  {
+   "t": "2026-11-23T06:21:34.662Z",
+   "k": "en|swsh8|swsh8-214",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Bunnelby",
+   "n": "214",
+   "set": "Fusion Strike"
   }
  ],
- "updated": "2026-11-23T06:21:27.884Z"
+ "updated": "2026-11-23T06:21:37.016Z"
 }
