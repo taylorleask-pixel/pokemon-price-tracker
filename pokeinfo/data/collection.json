@@ -201,7 +201,8 @@
   "en|swsh8|swsh8-212": "r",
   "en|sm1|sm1-14": "n",
   "en|sm1|sm1-126": "n",
-  "en|sm1|sm1-106": "n"
+  "en|sm1|sm1-106": "n",
+  "en|sm1|sm1-83": "n"
  },
  "had": {},
  "log": [
@@ -2434,7 +2435,17 @@
    "name": "Pikipek",
    "n": "106",
    "set": "Sun & Moon"
+  },
+  {
+   "t": "2026-11-23T06:24:28.097Z",
+   "k": "en|sm1|sm1-83",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Sandile",
+   "n": "83",
+   "set": "Sun & Moon"
   }
  ],
- "updated": "2026-11-23T06:24:24.395Z"
+ "updated": "2026-11-23T06:24:30.943Z"
 }
