@@ -243,7 +243,8 @@
   "en|sv03.5|sv03.5-001": "n",
   "en|sv03.5|sv03.5-096": "n",
   "en|sv03.5|sv03.5-050": "n",
-  "en|sv05|sv05-112": "n"
+  "en|sv05|sv05-112": "n",
+  "en|sv05|sv05-126": "n"
  },
  "had": {},
  "log": [
@@ -2946,7 +2947,17 @@
    "name": "Mawile",
    "n": "112",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-23T06:51:01.623Z",
+   "k": "en|sv05|sv05-126",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Hoothoot",
+   "n": "126",
+   "set": "Temporal Forces"
   }
  ],
- "updated": "2026-11-23T06:50:58.983Z"
+ "updated": "2026-11-23T06:51:03.958Z"
 }
