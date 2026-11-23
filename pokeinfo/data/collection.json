@@ -178,7 +178,8 @@
   "en|me01|me01-024": "n",
   "en|me01|me01-118": "n",
   "en|me01|me01-093": "h",
-  "en|me01|me01-012": "r"
+  "en|me01|me01-012": "r",
+  "en|me01|me01-034": "r"
  },
  "had": {},
  "log": [
@@ -2181,7 +2182,17 @@
    "name": "Celebi",
    "n": "012",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:19:32.500Z",
+   "k": "en|me01|me01-034",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Kyogre",
+   "n": "034",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:19:24.772Z"
+ "updated": "2026-11-23T06:19:34.830Z"
 }
