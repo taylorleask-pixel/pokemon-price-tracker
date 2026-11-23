@@ -247,7 +247,8 @@
   "en|sv05|sv05-126": "n",
   "en|sv05|sv05-079": "n",
   "en|sv05|sv05-057": "n",
-  "en|sv05|sv05-082": "n"
+  "en|sv05|sv05-082": "n",
+  "en|sv05|sv05-035": "n"
  },
  "had": {},
  "log": [
@@ -2990,7 +2991,17 @@
    "name": "Meditite",
    "n": "082",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-23T06:51:21.694Z",
+   "k": "en|sv05|sv05-035",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Turtonator",
+   "n": "035",
+   "set": "Temporal Forces"
   }
  ],
- "updated": "2026-11-23T06:51:18.230Z"
+ "updated": "2026-11-23T06:51:24.147Z"
 }
