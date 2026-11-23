@@ -179,7 +179,8 @@
   "en|me01|me01-118": "n",
   "en|me01|me01-093": "h",
   "en|me01|me01-012": "r",
-  "en|me01|me01-034": "r"
+  "en|me01|me01-034": "r",
+  "en|me01|me01-004": "r"
  },
  "had": {},
  "log": [
@@ -2192,7 +2193,17 @@
    "name": "Kyogre",
    "n": "034",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:19:38.491Z",
+   "k": "en|me01|me01-004",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Exeggcute",
+   "n": "004",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:19:34.830Z"
+ "updated": "2026-11-23T06:19:40.815Z"
 }
