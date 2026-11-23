@@ -202,7 +202,8 @@
   "en|sm1|sm1-14": "n",
   "en|sm1|sm1-126": "n",
   "en|sm1|sm1-106": "n",
-  "en|sm1|sm1-83": "n"
+  "en|sm1|sm1-83": "n",
+  "en|sm1|sm1-68": "n"
  },
  "had": {},
  "log": [
@@ -2445,7 +2446,17 @@
    "name": "Sandile",
    "n": "83",
    "set": "Sun & Moon"
+  },
+  {
+   "t": "2026-11-23T06:24:32.503Z",
+   "k": "en|sm1|sm1-68",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Hariyama",
+   "n": "68",
+   "set": "Sun & Moon"
   }
  ],
- "updated": "2026-11-23T06:24:30.943Z"
+ "updated": "2026-11-23T06:24:33.477Z"
 }
