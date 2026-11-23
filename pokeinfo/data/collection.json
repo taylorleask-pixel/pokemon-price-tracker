@@ -250,7 +250,8 @@
   "en|sv05|sv05-082": "n",
   "en|sv05|sv05-035": "n",
   "en|sv05|sv05-077": "n",
-  "en|sv05|sv05-117": "h"
+  "en|sv05|sv05-117": "h",
+  "en|sv05|sv05-014": "r"
  },
  "had": {},
  "log": [
@@ -3033,7 +3034,17 @@
    "name": "Melmetal",
    "n": "117",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-23T06:51:45.415Z",
+   "k": "en|sv05|sv05-014",
+   "a": "added",
+   "v": "r",
+   "from": "",
+   "name": "Cottonee",
+   "n": "014",
+   "set": "Temporal Forces"
   }
  ],
- "updated": "2026-11-23T06:51:42.088Z"
+ "updated": "2026-11-23T06:51:47.729Z"
 }
