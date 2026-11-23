@@ -228,7 +228,8 @@
   "en|me02|me02-091": "n",
   "en|me02|me02-049": "n",
   "en|me02|me02-028": "n",
-  "en|me02|me02-025": "n"
+  "en|me02|me02-025": "n",
+  "en|me02|me02-077": "n"
  },
  "had": {},
  "log": [
@@ -2771,7 +2772,17 @@
    "name": "Mamoswine",
    "n": "025",
    "set": "Phantasmal Flames"
+  },
+  {
+   "t": "2026-11-23T06:47:56.355Z",
+   "k": "en|me02|me02-077",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Wigglytuff",
+   "n": "077",
+   "set": "Phantasmal Flames"
   }
  ],
- "updated": "2026-11-23T06:47:54.938Z"
+ "updated": "2026-11-23T06:47:57.139Z"
 }
