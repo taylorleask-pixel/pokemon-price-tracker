@@ -168,7 +168,8 @@
   "en|me01|me01-050": "h",
   "en|me01|me01-036": "h",
   "en|me01|me01-065": "r",
-  "en|me01|me01-063": "n"
+  "en|me01|me01-063": "n",
+  "en|me01|me01-011": "n"
  },
  "had": {},
  "log": [
@@ -2071,7 +2072,17 @@
    "name": "Grumpig",
    "n": "063",
    "set": "Mega Evolution"
+  },
+  {
+   "t": "2026-11-23T06:17:47.997Z",
+   "k": "en|me01|me01-011",
+   "a": "added",
+   "v": "n",
+   "from": "",
+   "name": "Shuckle",
+   "n": "011",
+   "set": "Mega Evolution"
   }
  ],
- "updated": "2026-11-23T06:17:45.762Z"
+ "updated": "2026-11-23T06:17:50.710Z"
 }
