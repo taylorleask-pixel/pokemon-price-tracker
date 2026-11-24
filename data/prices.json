@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-23T22:44+10:00",
+"updated": "2026-11-24T15:20+10:00",
 "listings": [
 {
 "store": "misty",
@@ -569,7 +569,7 @@
 {
 "store": "misty",
 "title": "Chilling Reign Booster Box",
-"price": 752.74,
+"price": 754.59,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
 "image": "https://images.scrydex.com/pokemon/swsh6-s2/large",
@@ -584,7 +584,7 @@
 "key": "box|Chilling Reign",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-21T12:16+10:00"
+"changed": "2026-11-24T15:20+10:00"
 },
 {
 "store": "misty",
@@ -1624,7 +1624,7 @@
 {
 "store": "misty",
 "title": "Scarlet & Violet Booster Box",
-"price": 485.17,
+"price": 484.64,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
 "image": "https://images.scrydex.com/pokemon/sv1-s2/large",
@@ -1639,7 +1639,7 @@
 "key": "box|Scarlet & Violet",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-23T11:44+10:00"
+"changed": "2026-11-24T15:20+10:00"
 },
 {
 "store": "misty",
@@ -1824,7 +1824,7 @@
 {
 "store": "misty",
 "title": "Temporal Forces Booster Box",
-"price": 532.76,
+"price": 532.82,
 "available": true,
 "url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
 "image": "https://images.scrydex.com/pokemon/sv5-s2/large",
@@ -1839,7 +1839,7 @@
 "key": "box|Temporal Forces",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-20T12:20+10:00"
+"changed": "2026-11-24T15:20+10:00"
 },
 {
 "store": "misty",
@@ -2114,10 +2114,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 499.95,
+"price": 475.0,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -2139,10 +2139,10 @@
 {
 "store": "misty",
 "title": "XY 3-Pack Blister; Xerneas Promo with Pikachu Coin · (not mint, see photo)",
-"price": 475.0,
+"price": 499.95,
 "available": true,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzbdzn5xioah7qld0czzu3/art-d42cc85a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-xerneas-promo-with-pikachu-coin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubz904a5xigah7q79mj5xiv/art-540f3c06.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -7291,8 +7291,8 @@
 "title": "EX Trainer Kit - Latias & Latios",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios-tk1b-s1",
-"image": "https://images.scrydex.com/pokemon/tk1b-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios",
+"image": "https://images.scrydex.com/pokemon/tk1a-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -7311,8 +7311,8 @@
 "title": "EX Trainer Kit - Latias & Latios",
 "price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios",
-"image": "https://images.scrydex.com/pokemon/tk1a-s1/large",
+"url": "https://mistyscollectables.com.au/sealed/product/ex-trainer-kit-latias-latios-tk1b-s1",
+"image": "https://images.scrydex.com/pokemon/tk1b-s1/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -13609,10 +13609,10 @@
 {
 "store": "misty",
 "title": "Phantom Forces Booster Box",
-"price": null,
+"price": 22000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box-xy4-s3",
-"image": "https://images.scrydex.com/pokemon/xy4-s3/large",
+"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmu1tukuhi02aeb5bogd2saa4/art-3a403ca5.png",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -13629,10 +13629,10 @@
 {
 "store": "misty",
 "title": "Phantom Forces Booster Box",
-"price": 22000.0,
+"price": null,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmu1tukuhi02aeb5bogd2saa4/art-3a403ca5.png",
+"url": "https://mistyscollectables.com.au/sealed/product/phantom-forces-booster-box-xy4-s3",
+"image": "https://images.scrydex.com/pokemon/xy4-s3/large",
 "lang": "EN",
 "auto_packs": null,
 "variant": null,
@@ -19766,8 +19766,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -19791,8 +19791,8 @@
 "title": "XY 3-Pack Blister with Groudon Pin · (not mint, see photo)",
 "price": 1000.0,
 "available": false,
-"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin",
-"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzpg3n5xjuah7qrjl1jb8r/art-7be46e5a.png",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-3-pack-blister-with-groudon-pin-2",
+"image": "https://d1r63qlt5vg4u3.cloudfront.net/products/cmubzqyr15xk2ah7qyzvs1dpa/art-e67e3f94.png",
 "lang": "EN",
 "auto_packs": [
 {
@@ -22899,7 +22899,7 @@
 {
 "store": "sidequest",
 "title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
-"price": 870.1,
+"price": 733.6,
 "available": false,
 "url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/673a5c23-8c43-4c7d-81f1-932eb26ab7e9.jpg?v=1780062987",
@@ -22914,7 +22914,7 @@
 "key": "etb|Fusion Strike",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-22T11:21+10:00"
+"changed": "2026-11-24T15:20+10:00"
 },
 {
 "store": "sidequest",
@@ -29390,7 +29390,7 @@
 "store": "everson",
 "title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Box",
 "price": 320.0,
-"available": true,
+"available": false,
 "url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster",
 "image": "https://cdn.shopify.com/s/files/1/0417/0219/5361/files/Pokemon-TCG-Mega-Evolution_Flowing-Fists-Booster-Display_EN.jpg?v=1795134725",
 "lang": "EN",
@@ -29404,7 +29404,7 @@
 "key": "box|Mega Evolution",
 "skip": null,
 "first_seen": "2026-11-20T12:20+10:00",
-"changed": "2026-11-23T22:44+10:00"
+"changed": "2026-11-24T15:20+10:00"
 },
 {
 "store": "everson",

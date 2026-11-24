@@ -1,6 +1,65 @@
 {
-"updated": "2026-11-23T22:44+10:00",
+"updated": "2026-11-24T15:20+10:00",
 "events": [
+{
+"time": "2026-11-24T15:20+10:00",
+"store": "misty",
+"key": "box|Chilling Reign",
+"title": "Chilling Reign Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/chilling-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 752.74,
+"new": 754.59
+},
+{
+"time": "2026-11-24T15:20+10:00",
+"store": "misty",
+"key": "box|Scarlet & Violet",
+"title": "Scarlet & Violet Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 485.17,
+"new": 484.64
+},
+{
+"time": "2026-11-24T15:20+10:00",
+"store": "misty",
+"key": "box|Temporal Forces",
+"title": "Temporal Forces Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/temporal-forces-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "price-up",
+"old": 532.76,
+"new": 532.82
+},
+{
+"time": "2026-11-24T15:20+10:00",
+"store": "sidequest",
+"key": "etb|Fusion Strike",
+"title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
+"url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
+"category": "etb",
+"lang": "EN",
+"type": "price-down",
+"old": 870.1,
+"new": 733.6
+},
+{
+"time": "2026-11-24T15:20+10:00",
+"store": "everson",
+"key": "box|Mega Evolution",
+"title": "Pokémon TCG: Mega Evolution - Flowing Fists Booster Box",
+"url": "https://eetcg.com.au/products/pokemon-tcg-mega-evolution-flowing-fists-booster",
+"category": "box",
+"lang": "EN",
+"type": "sold-out",
+"old": 320.0
+},
 {
 "time": "2026-11-23T22:44+10:00",
 "store": "raptor",
