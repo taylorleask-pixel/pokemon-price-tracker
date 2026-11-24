@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:20+10:00",
+ "updated": "2026-11-25T06:11+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -32,9 +32,9 @@
    "kept": 9
   },
   "dorky": {
-   "ok": true,
-   "found": 39,
-   "kept": 30
+   "ok": false,
+   "error": "RuntimeError: returned no products (had 30 last time) - the site may be down or have changed, keeping last good prices",
+   "carried_over": 30
   },
   "jojos": {
    "ok": true,
