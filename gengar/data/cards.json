@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T11:16+10:00",
- "usd_to_aud": 1.507,
+ "updated": "2026-11-24T15:14+10:00",
+ "usd_to_aud": 1.5089,
  "cards": [
   {
    "id": 3,
@@ -14,14 +14,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/base/base3/20/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/base/base3/20/high.webp",
+   "image": "https://images.pokemontcg.io/base3/20.png",
+   "image_large": "https://images.pokemontcg.io/base3/20_hires.png",
    "rarity": "Rare",
-   "set_logo": "https://assets.tcgdex.net/en/base/base3/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "set_logo": "https://images.pokemontcg.io/base3/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/base3/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base3-20",
+   "market_aud": 79.23,
+   "market_basis": "TCGplayer unlimited"
   },
   {
    "id": 4,
@@ -35,14 +35,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/base/base3/20/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/base/base3/20/high.webp",
+   "image": "https://images.pokemontcg.io/base3/20.png",
+   "image_large": "https://images.pokemontcg.io/base3/20_hires.png",
    "rarity": "Rare",
-   "set_logo": "https://assets.tcgdex.net/en/base/base3/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "set_logo": "https://images.pokemontcg.io/base3/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/base3/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base3-20",
+   "market_aud": 169.87,
+   "market_basis": "TCGplayer 1stEdition"
   },
   {
    "id": 5,
@@ -56,12 +56,12 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/base/base3/20/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/base/base3/20/high.webp",
+   "image": "https://images.pokemontcg.io/base3/20.png",
+   "image_large": "https://images.pokemontcg.io/base3/20_hires.png",
    "rarity": "Rare",
-   "set_logo": "https://assets.tcgdex.net/en/base/base3/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
+   "set_logo": "https://images.pokemontcg.io/base3/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/base3/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base3-20",
    "market_aud": null,
    "market_basis": null
   },
@@ -83,7 +83,7 @@
    "set_logo": "https://images.pokemontcg.io/base3/logo.png",
    "set_symbol": "https://images.pokemontcg.io/base3/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base3-5",
-   "market_aud": 336.64,
+   "market_aud": 337.06,
    "market_basis": "TCGplayer unlimitedHolofoil"
   },
   {
@@ -104,7 +104,7 @@
    "set_logo": "https://images.pokemontcg.io/base3/logo.png",
    "set_symbol": "https://images.pokemontcg.io/base3/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base3-5",
-   "market_aud": 1092.58,
+   "market_aud": 1093.96,
    "market_basis": "TCGplayer 1stEditionHolofoil"
   },
   {
@@ -119,14 +119,14 @@
    "approx_date": false,
    "db_name": "Imposter Oak's Revenge",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/base/base5/76/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/base/base5/76/high.webp",
+   "image": "https://images.pokemontcg.io/base5/76.png",
+   "image_large": "https://images.pokemontcg.io/base5/76_hires.png",
    "rarity": "Uncommon",
-   "set_logo": "https://assets.tcgdex.net/en/base/base5/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "set_logo": "https://images.pokemontcg.io/base5/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/base5/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base5-76",
+   "market_aud": 4.69,
+   "market_basis": "TCGplayer unlimited"
   },
   {
    "id": 90,
@@ -140,14 +140,14 @@
    "approx_date": false,
    "db_name": "Imposter Oak's Revenge",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/base/base5/76/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/base/base5/76/high.webp",
+   "image": "https://images.pokemontcg.io/base5/76.png",
+   "image_large": "https://images.pokemontcg.io/base5/76_hires.png",
    "rarity": "Uncommon",
-   "set_logo": "https://assets.tcgdex.net/en/base/base5/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "set_logo": "https://images.pokemontcg.io/base5/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/base5/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base5-76",
+   "market_aud": 24.73,
+   "market_basis": "TCGplayer 1stEdition"
   },
   {
    "id": 6,
@@ -167,7 +167,7 @@
    "set_logo": "https://images.pokemontcg.io/gym1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/gym1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/gym1-14",
-   "market_aud": 761.58,
+   "market_aud": 762.55,
    "market_basis": "TCGplayer unlimitedHolofoil"
   },
   {
@@ -188,7 +188,7 @@
    "set_logo": "https://images.pokemontcg.io/gym1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/gym1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/gym1-14",
-   "market_aud": 828.1,
+   "market_aud": 829.15,
    "market_basis": "TCGplayer 1stEditionHolofoil"
   },
   {
@@ -203,14 +203,14 @@
    "approx_date": false,
    "db_name": "Sabrina's Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/gym2/29.png",
-   "image_large": "https://images.pokemontcg.io/gym2/29_hires.png",
+   "image": "https://assets.tcgdex.net/en/gym/gym2/29/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/gym/gym2/29/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/gym2/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/gym2/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/gym2-29",
-   "market_aud": 336.14,
-   "market_basis": "TCGplayer unlimited"
+   "set_logo": "https://assets.tcgdex.net/en/gym/gym2/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 9,
@@ -224,14 +224,14 @@
    "approx_date": false,
    "db_name": "Sabrina's Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/gym2/29.png",
-   "image_large": "https://images.pokemontcg.io/gym2/29_hires.png",
+   "image": "https://assets.tcgdex.net/en/gym/gym2/29/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/gym/gym2/29/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/gym2/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/gym2/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/gym2-29",
-   "market_aud": 698.87,
-   "market_basis": "TCGplayer 1stEdition"
+   "set_logo": "https://assets.tcgdex.net/en/gym/gym2/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 91,
@@ -251,7 +251,7 @@
    "set_logo": "https://images.pokemontcg.io/neo3/logo.png",
    "set_symbol": "https://images.pokemontcg.io/neo3/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/neo3-63",
-   "market_aud": 22.7,
+   "market_aud": 22.72,
    "market_basis": "TCGplayer unlimited"
   },
   {
@@ -272,7 +272,7 @@
    "set_logo": "https://images.pokemontcg.io/neo3/logo.png",
    "set_symbol": "https://images.pokemontcg.io/neo3/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/neo3-63",
-   "market_aud": 60.75,
+   "market_aud": 60.82,
    "market_basis": "TCGplayer 1stEdition"
   },
   {
@@ -293,7 +293,7 @@
    "set_logo": "https://images.pokemontcg.io/neo4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/neo4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/neo4-6",
-   "market_aud": 1621.54,
+   "market_aud": 1623.59,
    "market_basis": "TCGplayer unlimitedHolofoil"
   },
   {
@@ -314,7 +314,7 @@
    "set_logo": "https://images.pokemontcg.io/neo4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/neo4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/neo4-6",
-   "market_aud": 1130.24,
+   "market_aud": 1131.67,
    "market_basis": "TCGplayer 1stEditionHolofoil"
   },
   {
@@ -335,7 +335,7 @@
    "set_logo": "https://images.pokemontcg.io/base6/logo.png",
    "set_symbol": "https://images.pokemontcg.io/base6/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base6-11",
-   "market_aud": 437.02,
+   "market_aud": 437.57,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -356,7 +356,7 @@
    "set_logo": "https://images.pokemontcg.io/base6/logo.png",
    "set_symbol": "https://images.pokemontcg.io/base6/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/base6-11",
-   "market_aud": 3353.08,
+   "market_aud": 3357.32,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -377,7 +377,7 @@
    "set_logo": "https://images.pokemontcg.io/ecard1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ecard1-13",
-   "market_aud": 1054.9,
+   "market_aud": 1056.24,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -398,7 +398,7 @@
    "set_logo": "https://images.pokemontcg.io/ecard1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ecard1-13",
-   "market_aud": 904.2,
+   "market_aud": 905.35,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -419,7 +419,7 @@
    "set_logo": "https://images.pokemontcg.io/ecard1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ecard1-48",
-   "market_aud": 287.7,
+   "market_aud": 288.07,
    "market_basis": "TCGplayer normal"
   },
   {
@@ -440,7 +440,7 @@
    "set_logo": "https://images.pokemontcg.io/ecard1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ecard1-48",
-   "market_aud": 471.42,
+   "market_aud": 472.02,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -455,14 +455,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/ecard3/10.png",
-   "image_large": "https://images.pokemontcg.io/ecard3/10_hires.png",
+   "image": "https://assets.tcgdex.net/en/ecard/ecard3/10/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/ecard/ecard3/10/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/ecard3/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/ecard3/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ecard3-10",
-   "market_aud": 768.56,
-   "market_basis": "TCGplayer normal"
+   "set_logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 19,
@@ -476,12 +476,12 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/ecard3/10.png",
-   "image_large": "https://images.pokemontcg.io/ecard3/10_hires.png",
+   "image": "https://assets.tcgdex.net/en/ecard/ecard3/10/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/ecard/ecard3/10/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/ecard3/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/ecard3/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ecard3-10",
+   "set_logo": "https://assets.tcgdex.net/en/ecard/ecard3/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
    "market_aud": null,
    "market_basis": null
   },
@@ -503,8 +503,8 @@
    "set_logo": "https://images.pokemontcg.io/ecard3/logo.png",
    "set_symbol": "https://images.pokemontcg.io/ecard3/symbol.png",
    "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "market_aud": 2512.02,
+   "market_basis": "Cardmarket trend"
   },
   {
    "id": 21,
@@ -518,14 +518,14 @@
    "approx_date": false,
    "db_name": "Gengar ex",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/ex6/108.png",
-   "image_large": "https://images.pokemontcg.io/ex6/108_hires.png",
-   "rarity": "Rare Holo EX",
-   "set_logo": "https://images.pokemontcg.io/ex6/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/ex6/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ex6-108",
-   "market_aud": 2109.79,
-   "market_basis": "TCGplayer holofoil"
+   "image": "https://assets.tcgdex.net/en/ex/ex6/108/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/ex/ex6/108/high.webp",
+   "rarity": "Rare",
+   "set_logo": "https://assets.tcgdex.net/en/ex/ex6/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 22,
@@ -545,7 +545,7 @@
    "set_logo": "https://images.pokemontcg.io/ex12/logo.png",
    "set_symbol": "https://images.pokemontcg.io/ex12/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ex12-5",
-   "market_aud": 272.99,
+   "market_aud": 273.34,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -566,7 +566,7 @@
    "set_logo": "https://images.pokemontcg.io/ex12/logo.png",
    "set_symbol": "https://images.pokemontcg.io/ex12/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/ex12-5",
-   "market_aud": 376.75,
+   "market_aud": 377.23,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -608,7 +608,7 @@
    "set_logo": "https://images.pokemontcg.io/dp1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/dp1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/dp1-27",
-   "market_aud": 141.24,
+   "market_aud": 141.42,
    "market_basis": "TCGplayer normal"
   },
   {
@@ -629,7 +629,7 @@
    "set_logo": "https://images.pokemontcg.io/dp1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/dp1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/dp1-27",
-   "market_aud": 301.39,
+   "market_aud": 301.77,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -650,7 +650,7 @@
    "set_logo": "https://images.pokemontcg.io/dp7/logo.png",
    "set_symbol": "https://images.pokemontcg.io/dp7/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/dp7-18",
-   "market_aud": 98.92,
+   "market_aud": 99.05,
    "market_basis": "TCGplayer normal"
   },
   {
@@ -671,7 +671,7 @@
    "set_logo": "https://images.pokemontcg.io/dp7/logo.png",
    "set_symbol": "https://images.pokemontcg.io/dp7/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/dp7-18",
-   "market_aud": 348.4,
+   "market_aud": 348.85,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -713,7 +713,7 @@
    "set_logo": "https://images.pokemontcg.io/pl2/logo.png",
    "set_symbol": "https://images.pokemontcg.io/pl2/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/pl2-40",
-   "market_aud": 45.12,
+   "market_aud": 45.18,
    "market_basis": "TCGplayer normal"
   },
   {
@@ -734,7 +734,7 @@
    "set_logo": "https://images.pokemontcg.io/pl2/logo.png",
    "set_symbol": "https://images.pokemontcg.io/pl2/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/pl2-40",
-   "market_aud": 118.47,
+   "market_aud": 118.62,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -749,14 +749,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/pl4/16.png",
-   "image_large": "https://images.pokemontcg.io/pl4/16_hires.png",
+   "image": "https://assets.tcgdex.net/en/pl/pl4/16/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/pl/pl4/16/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/pl4/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/pl4/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/pl4-16",
-   "market_aud": 67.51,
-   "market_basis": "TCGplayer normal"
+   "set_logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 33,
@@ -770,14 +770,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/pl4/16.png",
-   "image_large": "https://images.pokemontcg.io/pl4/16_hires.png",
+   "image": "https://assets.tcgdex.net/en/pl/pl4/16/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/pl/pl4/16/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/pl4/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/pl4/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/pl4-16",
-   "market_aud": 340.76,
-   "market_basis": "TCGplayer reverseHolofoil"
+   "set_logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 34,
@@ -797,7 +797,7 @@
    "set_logo": "https://images.pokemontcg.io/pl4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/pl4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/pl4-17",
-   "market_aud": 147.25,
+   "market_aud": 147.44,
    "market_basis": "TCGplayer normal"
   },
   {
@@ -818,7 +818,7 @@
    "set_logo": "https://images.pokemontcg.io/pl4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/pl4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/pl4-17",
-   "market_aud": 188.36,
+   "market_aud": 188.6,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -833,14 +833,14 @@
    "approx_date": false,
    "db_name": "Gengar LV.X",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/pl4/97.png",
-   "image_large": "https://images.pokemontcg.io/pl4/97_hires.png",
+   "image": "https://assets.tcgdex.net/en/pl/pl4/97/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/pl/pl4/97/high.webp",
    "rarity": "Rare Holo LV.X",
-   "set_logo": "https://images.pokemontcg.io/pl4/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/pl4/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/pl4-97",
-   "market_aud": 1091.15,
-   "market_basis": "TCGplayer holofoil"
+   "set_logo": "https://assets.tcgdex.net/en/pl/pl4/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 37,
@@ -881,7 +881,7 @@
    "set_logo": "https://images.pokemontcg.io/xy4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xy4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy4-114",
-   "market_aud": 1146.89,
+   "market_aud": 1148.34,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -894,16 +894,16 @@
    "date": "2014-11-05",
    "date_text": "5 Nov 2014",
    "approx_date": false,
-   "db_name": "M Gengar-EX",
+   "db_name": "M Gengar EX",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/xy4/121.png",
-   "image_large": "https://images.pokemontcg.io/xy4/121_hires.png",
-   "rarity": "Rare Secret",
-   "set_logo": "https://images.pokemontcg.io/xy4/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/xy4/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy4-121",
-   "market_aud": 758.9,
-   "market_basis": "TCGplayer holofoil"
+   "image": "https://assets.tcgdex.net/en/xy/xy4/121/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/xy/xy4/121/high.webp",
+   "rarity": "Secret Rare",
+   "set_logo": "https://assets.tcgdex.net/en/xy/xy4/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 39,
@@ -923,7 +923,7 @@
    "set_logo": "https://images.pokemontcg.io/xy4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xy4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy4-34",
-   "market_aud": 122.1,
+   "market_aud": 122.25,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -936,16 +936,16 @@
    "date": "2014-11-05",
    "date_text": "5 Nov 2014",
    "approx_date": false,
-   "db_name": "M Gengar-EX",
+   "db_name": "M Gengar EX",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/xy4/35.png",
-   "image_large": "https://images.pokemontcg.io/xy4/35_hires.png",
-   "rarity": "Rare Holo EX",
-   "set_logo": "https://images.pokemontcg.io/xy4/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/xy4/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy4-35",
-   "market_aud": 229.35,
-   "market_basis": "TCGplayer holofoil"
+   "image": "https://assets.tcgdex.net/en/xy/xy4/35/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/xy/xy4/35/high.webp",
+   "rarity": "Ultra Rare",
+   "set_logo": "https://assets.tcgdex.net/en/xy/xy4/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 93,
@@ -965,7 +965,7 @@
    "set_logo": "https://images.pokemontcg.io/xy4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xy4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy4-95",
-   "market_aud": 8.21,
+   "market_aud": 8.22,
    "market_basis": "TCGplayer normal"
   },
   {
@@ -986,7 +986,7 @@
    "set_logo": "https://images.pokemontcg.io/xy4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xy4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy4-95",
-   "market_aud": 39.14,
+   "market_aud": 39.19,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -1028,7 +1028,7 @@
    "set_logo": "https://images.pokemontcg.io/xy8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xy8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy8-60",
-   "market_aud": 69.28,
+   "market_aud": 69.36,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1049,7 +1049,7 @@
    "set_logo": "https://images.pokemontcg.io/xy8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xy8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy8-60",
-   "market_aud": 69.28,
+   "market_aud": 69.36,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1070,7 +1070,7 @@
    "set_logo": "https://images.pokemontcg.io/xy8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xy8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy8-60",
-   "market_aud": 88.21,
+   "market_aud": 88.32,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -1091,7 +1091,7 @@
    "set_logo": "https://images.pokemontcg.io/xy8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xy8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xy8-60",
-   "market_aud": 69.28,
+   "market_aud": 69.36,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1106,14 +1106,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/xy/g1/35/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/xy/g1/35/high.webp",
-   "rarity": "Rare",
-   "set_logo": "https://assets.tcgdex.net/en/xy/g1/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "image": "https://images.pokemontcg.io/g1/35.png",
+   "image_large": "https://images.pokemontcg.io/g1/35_hires.png",
+   "rarity": "Rare Holo",
+   "set_logo": "https://images.pokemontcg.io/g1/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/g1/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/g1-35",
+   "market_aud": 68.7,
+   "market_basis": "TCGplayer holofoil"
   },
   {
    "id": 48,
@@ -1127,14 +1127,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/xy/g1/35/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/xy/g1/35/high.webp",
-   "rarity": "Rare",
-   "set_logo": "https://assets.tcgdex.net/en/xy/g1/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "image": "https://images.pokemontcg.io/g1/35.png",
+   "image_large": "https://images.pokemontcg.io/g1/35_hires.png",
+   "rarity": "Rare Holo",
+   "set_logo": "https://images.pokemontcg.io/g1/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/g1/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/g1-35",
+   "market_aud": 85.39,
+   "market_basis": "TCGplayer reverseHolofoil"
   },
   {
    "id": 38,
@@ -1154,7 +1154,7 @@
    "set_logo": "https://images.pokemontcg.io/xyp/logo.png",
    "set_symbol": "https://images.pokemontcg.io/xyp/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY166",
-   "market_aud": 421.18,
+   "market_aud": 421.71,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1175,7 +1175,7 @@
    "set_logo": "https://images.pokemontcg.io/sm4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sm4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm4-38",
-   "market_aud": 39.77,
+   "market_aud": 39.82,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1196,7 +1196,7 @@
    "set_logo": "https://images.pokemontcg.io/sm4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sm4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm4-38",
-   "market_aud": 39.77,
+   "market_aud": 39.82,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1217,7 +1217,7 @@
    "set_logo": "https://images.pokemontcg.io/sm4/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sm4/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm4-38",
-   "market_aud": 40.46,
+   "market_aud": 40.51,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -1230,16 +1230,16 @@
    "date": "2019-02-01",
    "date_text": "1 Feb 2019",
    "approx_date": false,
-   "db_name": "Gengar & Mimikyu-GX",
+   "db_name": "Gengar & Mimikyu GX",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sm9/164.png",
-   "image_large": "https://images.pokemontcg.io/sm9/164_hires.png",
-   "rarity": "Rare Ultra",
-   "set_logo": "https://images.pokemontcg.io/sm9/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sm9/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm9-164",
-   "market_aud": 605.36,
-   "market_basis": "TCGplayer holofoil"
+   "image": "https://assets.tcgdex.net/en/sm/sm9/164/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sm/sm9/164/high.webp",
+   "rarity": "Ultra Rare",
+   "set_logo": "https://assets.tcgdex.net/en/sm/sm9/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 54,
@@ -1259,7 +1259,7 @@
    "set_logo": "https://images.pokemontcg.io/sm9/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sm9/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm9-165",
-   "market_aud": 3248.44,
+   "market_aud": 3252.56,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1280,7 +1280,7 @@
    "set_logo": "https://images.pokemontcg.io/sm9/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sm9/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm9-186",
-   "market_aud": 837.1,
+   "market_aud": 838.16,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1301,7 +1301,7 @@
    "set_logo": "https://images.pokemontcg.io/sm9/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sm9/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm9-53",
-   "market_aud": 583.92,
+   "market_aud": 584.66,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1316,14 +1316,14 @@
    "approx_date": false,
    "db_name": "Surprise Box",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sm10/187.png",
-   "image_large": "https://images.pokemontcg.io/sm10/187_hires.png",
+   "image": "https://assets.tcgdex.net/en/sm/sm10/187/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sm/sm10/187/high.webp",
    "rarity": "Uncommon",
-   "set_logo": "https://images.pokemontcg.io/sm10/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sm10/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm10-187",
-   "market_aud": 2.29,
-   "market_basis": "TCGplayer normal"
+   "set_logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 97,
@@ -1337,14 +1337,14 @@
    "approx_date": false,
    "db_name": "Surprise Box",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sm10/187.png",
-   "image_large": "https://images.pokemontcg.io/sm10/187_hires.png",
+   "image": "https://assets.tcgdex.net/en/sm/sm10/187/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sm/sm10/187/high.webp",
    "rarity": "Uncommon",
-   "set_logo": "https://images.pokemontcg.io/sm10/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sm10/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm10-187",
-   "market_aud": 31.13,
-   "market_basis": "TCGplayer reverseHolofoil"
+   "set_logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 56,
@@ -1358,14 +1358,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/sm/sm10/70/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/sm/sm10/70/high.webp",
+   "image": "https://images.pokemontcg.io/sm10/70.png",
+   "image_large": "https://images.pokemontcg.io/sm10/70_hires.png",
    "rarity": "Rare",
-   "set_logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "set_logo": "https://images.pokemontcg.io/sm10/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm10-70",
+   "market_aud": 85.31,
+   "market_basis": "TCGplayer reverseHolofoil"
   },
   {
    "id": 102,
@@ -1379,14 +1379,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/sm/sm10/70/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/sm/sm10/70/high.webp",
+   "image": "https://images.pokemontcg.io/sm10/70.png",
+   "image_large": "https://images.pokemontcg.io/sm10/70_hires.png",
    "rarity": "Rare",
-   "set_logo": "https://assets.tcgdex.net/en/sm/sm10/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
-   "market_aud": null,
-   "market_basis": null
+   "set_logo": "https://images.pokemontcg.io/sm10/logo.png",
+   "set_symbol": "https://images.pokemontcg.io/sm10/symbol.png",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sm10-70",
+   "market_aud": 34.43,
+   "market_basis": "TCGplayer normal"
   },
   {
    "id": 60,
@@ -1406,7 +1406,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh1-85",
-   "market_aud": 11.38,
+   "market_aud": 11.39,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1427,7 +1427,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh1/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh1/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh1-85",
-   "market_aud": 13.49,
+   "market_aud": 13.5,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -1469,7 +1469,7 @@
    "set_logo": "https://images.pokemontcg.io/swshp/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swshp/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH052",
-   "market_aud": 193.98,
+   "market_aud": 194.23,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1490,7 +1490,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh6/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh6-57",
-   "market_aud": 6.18,
+   "market_aud": 6.19,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1511,7 +1511,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh6/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh6/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh6-57",
-   "market_aud": 9.1,
+   "market_aud": 9.11,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -1553,7 +1553,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh8-156",
-   "market_aud": 16.5,
+   "market_aud": 16.52,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1574,7 +1574,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh8-156",
-   "market_aud": 16.5,
+   "market_aud": 16.52,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1595,7 +1595,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh8-157",
-   "market_aud": 63.28,
+   "market_aud": 63.36,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1616,7 +1616,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh8-157",
-   "market_aud": 63.28,
+   "market_aud": 63.36,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1637,7 +1637,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh8/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh8-271",
-   "market_aud": 1548.18,
+   "market_aud": 1550.14,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1658,7 +1658,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh9tg/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh9tg-TG16",
-   "market_aud": 123.42,
+   "market_aud": 123.58,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1679,7 +1679,7 @@
    "set_logo": "https://images.pokemontcg.io/swshp/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swshp/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH241",
-   "market_aud": 41.73,
+   "market_aud": 41.78,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1721,7 +1721,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh11/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh11-66",
-   "market_aud": 5.53,
+   "market_aud": 5.54,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1742,7 +1742,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh11/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh11-66",
-   "market_aud": 5.53,
+   "market_aud": 5.54,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1763,7 +1763,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh11/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh11-66",
-   "market_aud": 7.82,
+   "market_aud": 7.83,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -1805,7 +1805,7 @@
    "set_logo": "https://images.pokemontcg.io/swsh11tg/logo.png",
    "set_symbol": "https://images.pokemontcg.io/swsh11tg/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG06",
-   "market_aud": 68.93,
+   "market_aud": 69.02,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1820,14 +1820,14 @@
    "approx_date": false,
    "db_name": "Greavard",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sv1/214.png",
-   "image_large": "https://images.pokemontcg.io/sv1/214_hires.png",
-   "rarity": "Illustration Rare",
-   "set_logo": "https://images.pokemontcg.io/sv1/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sv1/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv1-214",
-   "market_aud": 30.86,
-   "market_basis": "TCGplayer holofoil"
+   "image": "https://assets.tcgdex.net/en/sv/sv01/214/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sv/sv01/214/high.webp",
+   "rarity": "Illustration rare",
+   "set_logo": "https://assets.tcgdex.net/en/sv/sv01/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 72,
@@ -1868,7 +1868,7 @@
    "set_logo": "https://images.pokemontcg.io/sv3pt5/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-173",
-   "market_aud": 99.72,
+   "market_aud": 99.84,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -1883,14 +1883,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sv3pt5/94.png",
-   "image_large": "https://images.pokemontcg.io/sv3pt5/94_hires.png",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/094/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sv/sv03.5/094/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/sv3pt5/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-94",
-   "market_aud": 13.05,
-   "market_basis": "TCGplayer reverseHolofoil"
+   "set_logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 74,
@@ -1904,14 +1904,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sv3pt5/94.png",
-   "image_large": "https://images.pokemontcg.io/sv3pt5/94_hires.png",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/094/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sv/sv03.5/094/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/sv3pt5/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-94",
-   "market_aud": 4.63,
-   "market_basis": "TCGplayer holofoil"
+   "set_logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 107,
@@ -1925,14 +1925,14 @@
    "approx_date": false,
    "db_name": "Gengar",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sv3pt5/94.png",
-   "image_large": "https://images.pokemontcg.io/sv3pt5/94_hires.png",
+   "image": "https://assets.tcgdex.net/en/sv/sv03.5/094/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sv/sv03.5/094/high.webp",
    "rarity": "Rare",
-   "set_logo": "https://images.pokemontcg.io/sv3pt5/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sv3pt5/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-94",
-   "market_aud": 4.63,
-   "market_basis": "TCGplayer holofoil"
+   "set_logo": "https://assets.tcgdex.net/en/sv/sv03.5/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 75,
@@ -1952,7 +1952,7 @@
    "set_logo": "https://images.pokemontcg.io/sv4pt5/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sv4pt5/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv4pt5-57",
-   "market_aud": 2.83,
+   "market_aud": 2.84,
    "market_basis": "TCGplayer reverseHolofoil"
   },
   {
@@ -2009,14 +2009,14 @@
    "approx_date": false,
    "db_name": "Gengar ex",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sv5/104.png",
-   "image_large": "https://images.pokemontcg.io/sv5/104_hires.png",
-   "rarity": "Double Rare",
-   "set_logo": "https://images.pokemontcg.io/sv5/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sv5/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv5-104",
-   "market_aud": 9.74,
-   "market_basis": "TCGplayer holofoil"
+   "image": "https://assets.tcgdex.net/en/sv/sv05/104/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sv/sv05/104/high.webp",
+   "rarity": "Double rare",
+   "set_logo": null,
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 99,
@@ -2030,14 +2030,14 @@
    "approx_date": false,
    "db_name": "Gastly",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sv5/177.png",
-   "image_large": "https://images.pokemontcg.io/sv5/177_hires.png",
-   "rarity": "Illustration Rare",
-   "set_logo": "https://images.pokemontcg.io/sv5/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sv5/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv5-177",
-   "market_aud": 137.98,
-   "market_basis": "TCGplayer holofoil"
+   "image": "https://assets.tcgdex.net/en/sv/sv05/177/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sv/sv05/177/high.webp",
+   "rarity": "Illustration rare",
+   "set_logo": null,
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 77,
@@ -2051,14 +2051,14 @@
    "approx_date": false,
    "db_name": "Gengar ex",
    "wrong_card": null,
-   "image": "https://images.pokemontcg.io/sv5/193.png",
-   "image_large": "https://images.pokemontcg.io/sv5/193_hires.png",
+   "image": "https://assets.tcgdex.net/en/sv/sv05/193/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/sv/sv05/193/high.webp",
    "rarity": "Ultra Rare",
-   "set_logo": "https://images.pokemontcg.io/sv5/logo.png",
-   "set_symbol": "https://images.pokemontcg.io/sv5/symbol.png",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv5-193",
-   "market_aud": 76.0,
-   "market_basis": "TCGplayer holofoil"
+   "set_logo": null,
+   "set_symbol": null,
+   "tcgplayer_url": null,
+   "market_aud": null,
+   "market_basis": null
   },
   {
    "id": 101,
@@ -2078,7 +2078,7 @@
    "set_logo": "https://images.pokemontcg.io/sv5/logo.png",
    "set_symbol": "https://images.pokemontcg.io/sv5/symbol.png",
    "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/sv5-211",
-   "market_aud": 74.13,
+   "market_aud": 74.22,
    "market_basis": "TCGplayer holofoil"
   },
   {
@@ -2177,12 +2177,12 @@
    "approx_date": false,
    "db_name": "Mega Gengar ex",
    "wrong_card": null,
-   "image": "https://images.scrydex.com/pokemon/me2pt5-269/small",
-   "image_large": "https://images.scrydex.com/pokemon/me2pt5-269/large",
-   "rarity": "MEGA_ATTACK_RARE",
-   "set_logo": "https://images.scrydex.com/pokemon/me2pt5-logo/logo",
-   "set_symbol": "https://images.scrydex.com/pokemon/me2pt5-symbol/symbol",
-   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/me2pt5-269",
+   "image": "https://assets.tcgdex.net/en/me/me02.5/269/low.webp",
+   "image_large": "https://assets.tcgdex.net/en/me/me02.5/269/high.webp",
+   "rarity": "Mega Attack Rare",
+   "set_logo": "https://assets.tcgdex.net/en/me/me02.5/logo.png",
+   "set_symbol": null,
+   "tcgplayer_url": null,
    "market_aud": null,
    "market_basis": null
   },
@@ -2198,12 +2198,12 @@
    "approx_date": false,
    "db_name": "Mega Gengar ex",
    "wrong_card": null,
-   "image": "https://assets.tcgdex.net/en/me/me02.5/284/low.webp",
-   "image_large": "https://assets.tcgdex.net/en/me/me02.5/284/high.webp",
-   "rarity": "Special illustration rare",
-   "set_logo": "https://assets.tcgdex.net/en/me/me02.5/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
+   "image": "https://images.scrydex.com/pokemon/me2pt5-284/small",
+   "image_large": "https://images.scrydex.com/pokemon/me2pt5-284/large",
+   "rarity": "Special Illustration Rare",
+   "set_logo": "https://images.scrydex.com/pokemon/me2pt5-logo/logo",
+   "set_symbol": "https://images.scrydex.com/pokemon/me2pt5-symbol/symbol",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/me2pt5-284",
    "market_aud": null,
    "market_basis": null
   },
@@ -2327,9 +2327,9 @@
    "image": null,
    "image_large": null,
    "rarity": "Common",
-   "set_logo": "https://assets.tcgdex.net/en/me/me03/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
+   "set_logo": "https://images.scrydex.com/pokemon/me3-logo/logo",
+   "set_symbol": "https://images.scrydex.com/pokemon/me3-symbol/symbol",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/me3-80",
    "market_aud": null,
    "market_basis": null
   },
@@ -2348,9 +2348,9 @@
    "image": null,
    "image_large": null,
    "rarity": "Common",
-   "set_logo": "https://assets.tcgdex.net/en/me/me03/logo.png",
-   "set_symbol": null,
-   "tcgplayer_url": null,
+   "set_logo": "https://images.scrydex.com/pokemon/me3-logo/logo",
+   "set_symbol": "https://images.scrydex.com/pokemon/me3-symbol/symbol",
+   "tcgplayer_url": "https://prices.pokemontcg.io/tcgplayer/me3-80",
    "market_aud": null,
    "market_basis": null
   },
