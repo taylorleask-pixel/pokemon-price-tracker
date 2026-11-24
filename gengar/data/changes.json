@@ -1,6 +1,176 @@
 {
 "events": [
 {
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 109,
+"condition": "Near Mint Holofoil",
+"price": 14.5,
+"url": "https://www.cardhouse.com.au/products/gengar-ex-104-162-scarlet-violet-temporal-forces?variant=43080542879935",
+"type": "price-down",
+"old": 15.5
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 88,
+"condition": "Near Mint",
+"price": 75.5,
+"url": "https://www.cardhouse.com.au/products/gengar-prime-094-102-holofoil-me-30th-celebration-classic-collection-classic-collection?variant=46206845911231",
+"type": "sold-out"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 67,
+"condition": "Near Mint Holofoil",
+"price": 1952.5,
+"url": "https://www.cardhouse.com.au/products/gengar-vmax-271-264-sword-shield-fusion-strike?variant=42396519432383",
+"type": "new"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 81,
+"condition": "Near Mint",
+"price": 1022.0,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes-special-illustration-rare?variant=45114874462399",
+"type": "new"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 8,
+"condition": "Near Mint",
+"price": 415.0,
+"url": "https://www.cardhouse.com.au/products/sabrinas-gengar-29-132-gym-challenge-unlimited?variant=42395229716671",
+"type": "price-up",
+"old": 408.0
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 52,
+"condition": "Near Mint Holofoil",
+"price": 739.5,
+"url": "https://www.cardhouse.com.au/products/gengar-mimikyu-gx-53-181-sun-moon-team-up?variant=42392101781695",
+"type": "price-up",
+"old": 733.5
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 29,
+"condition": "Near Mint",
+"price": 76.5,
+"url": "https://www.cardhouse.com.au/products/gengar-lv-43-18-100-queengar-jason-martinez-world-championships-2009?variant=42397585670335",
+"type": "price-up",
+"old": 75.5
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 61,
+"condition": "Near Mint Holofoil",
+"price": 20.5,
+"url": "https://www.cardhouse.com.au/products/gengar-085-202-sword-shield-base-set?variant=42396025225407",
+"type": "price-up",
+"old": 20.0
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 2,
+"condition": "Near Mint 1st Edition Holofoil",
+"price": 768.5,
+"url": "https://www.cardhouse.com.au/products/gengar-5-62-fossil-1st-edition?variant=42395597373631",
+"type": "new"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 9,
+"condition": "Heavily Played 1st Edition Normal",
+"price": 917.0,
+"url": "https://www.cardhouse.com.au/products/sabrinas-gengar-29-132-gym-challenge-1st-edition?variant=42395507359935",
+"type": "price-up",
+"old": 901.95
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 38,
+"condition": "Lightly Played Holofoil",
+"price": 531.0,
+"url": "https://www.cardhouse.com.au/products/m-gengar-ex-xy166-xy-black-star-promos?variant=42395005321407",
+"type": "new"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 31,
+"condition": "Near Mint",
+"price": 75.0,
+"url": "https://www.cardhouse.com.au/products/gengar-gl-40-111-platinum-rising-rivals?variant=42394552533183",
+"type": "price-up",
+"old": 74.0
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 13,
+"condition": "Near Mint Holofoil",
+"price": 567.0,
+"url": "https://www.cardhouse.com.au/products/gengar-11-110-legendary-collection?variant=42394172784831",
+"type": "price-up",
+"old": 558.0
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "mint",
+"card": 50,
+"condition": "NM",
+"price": 40.0,
+"url": "https://mintcollectables.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=51402597138596",
+"type": "removed"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 67,
+"condition": "Damaged Holofoil",
+"price": 976.25,
+"url": "https://www.cardhouse.com.au/products/gengar-vmax-271-264-sword-shield-fusion-strike?variant=42396519563455",
+"type": "removed"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 81,
+"condition": "Lightly Played",
+"price": 919.8,
+"url": "https://www.cardhouse.com.au/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes-special-illustration-rare?variant=45114874495167",
+"type": "removed"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 2,
+"condition": "Heavily Played 1st Edition Holofoil",
+"price": 947.45,
+"url": "https://www.cardhouse.com.au/products/gengar-5-62-fossil-1st-edition?variant=42395597471935",
+"type": "removed"
+},
+{
+"time": "2026-11-25T05:44+10:00",
+"store": "card-house",
+"card": 38,
+"condition": "Near Mint Holofoil",
+"price": 590.0,
+"url": "https://www.cardhouse.com.au/products/m-gengar-ex-xy166-xy-black-star-promos?variant=42395005288639",
+"type": "removed"
+},
+{
 "time": "2026-11-24T15:01+10:00",
 "store": "evo-flinders",
 "card": 39,
