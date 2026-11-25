@@ -1,6 +1,52 @@
 {
-"updated": "2026-11-25T06:11+10:00",
+"updated": "2026-11-25T14:13+10:00",
 "events": [
+{
+"time": "2026-11-25T14:13+10:00",
+"store": "eden",
+"key": "KOR|pack|pokemon - ninja spinner korean booster singke",
+"title": "Pokemon - Ninja Spinner Korean Booster Singke",
+"url": "https://www.edenhunter.com.au/product/pokemon-ninja-spinner-korean-booster-singke/XZYR7VUG2XHZSYT7VY37PNVE",
+"category": "pack",
+"lang": "KOR",
+"type": "new",
+"new": 4.0,
+"available": true
+},
+{
+"time": "2026-11-25T14:13+10:00",
+"store": "sidequest",
+"key": "etb|Fusion Strike",
+"title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
+"url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
+"category": "etb",
+"lang": "EN",
+"type": "price-up",
+"old": 733.6,
+"new": 738.5
+},
+{
+"time": "2026-11-25T14:13+10:00",
+"store": "evo",
+"key": "pack|Sword & Shield",
+"title": "Pokmon TCG: Sword & Shield Booster Pack",
+"url": "https://www.evogames.com.au/product/pokmon-tcg-sword-shield-booster-pack/2334",
+"category": "pack",
+"lang": "EN",
+"type": "removed",
+"old": 22.0
+},
+{
+"time": "2026-11-25T14:13+10:00",
+"store": "evo",
+"key": "pack|Delta Reign",
+"title": "Pokemon TCG Mega Evolutions - Delta Reign Booster Pack",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-mega-evolutions-delta-reign-booster-pack/TEYPVBVPEJ3OO3PT4MJWQB2J",
+"category": "pack",
+"lang": "EN",
+"type": "removed",
+"old": 10.0
+},
 {
 "time": "2026-11-24T15:20+10:00",
 "store": "misty",
