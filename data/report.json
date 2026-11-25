@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:13+10:00",
+ "updated": "2026-11-26T05:17+10:00",
  "stores": {
   "misty": {
    "ok": true,
@@ -28,8 +28,8 @@
   },
   "everson": {
    "ok": true,
-   "found": 10,
-   "kept": 9
+   "found": 11,
+   "kept": 10
   },
   "dorky": {
    "ok": true,
@@ -43,8 +43,8 @@
   },
   "gatekeepers": {
    "ok": true,
-   "found": 168,
-   "kept": 25
+   "found": 156,
+   "kept": 17
   }
  }
 }

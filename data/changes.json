@@ -1,6 +1,139 @@
 {
-"updated": "2026-11-25T14:13+10:00",
+"updated": "2026-11-26T05:17+10:00",
 "events": [
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "misty",
+"key": "JP|box|Team Rocket",
+"title": "The Glory of Team Rocket Booster Box (JPN)",
+"url": "https://mistyscollectables.com.au/sealed/product/the-glory-of-team-rocket-booster-box-jpn",
+"category": "box",
+"lang": "JP",
+"type": "sold-out",
+"old": 199.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "raptor",
+"key": "box|Chilling Reign",
+"title": "Pokemon TCG: Chilling Reign Booster Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-chilling-reign-booster-box",
+"category": "box",
+"lang": "EN",
+"type": "sold-out",
+"old": 800.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "raptor",
+"key": "other|Ascended Heroes Mega Feraligatr ex Box",
+"title": "Pokemon TCG: Mega Evolution - Ascended Heroes Mega Feraligatr ex Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-mega-evolution-ascended-heroes-mega-feraligatr-ex-box",
+"category": "other",
+"lang": "EN",
+"type": "sold-out",
+"old": 120.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "everson",
+"key": "other|30th Celebration Ditto Premium Collection",
+"title": "Pokémon TCG: 30th Celebration Ditto Premium Collection  \" Releasing 6th Nov 2026\"",
+"url": "https://eetcg.com.au/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
+"category": "other",
+"lang": "EN",
+"type": "new",
+"new": 85.0,
+"available": false
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "gatekeepers",
+"key": "other|Small But Mighty Premium Collection",
+"title": "Pokemon: Small But Mighty Premium Collection",
+"url": "https://gatekeeperstcg.com/products/pokemon-small-but-mighty-premium-collection",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 1050.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "gatekeepers",
+"key": "blister-single|Evolving Skies",
+"title": "Pokemon: Evolving Skies Sleeved Booster Pack",
+"url": "https://gatekeeperstcg.com/products/pokemon-evolving-skies-sleeved-booster-pack",
+"category": "blister-single",
+"lang": "EN",
+"type": "removed",
+"old": 110.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "gatekeepers",
+"key": "JP|other|detective pikachu 098 sv-p scarlet and violet pokemon japanese nm",
+"title": "Detective Pikachu 098/SV-P Scarlet & Violet Pokemon Japanese NM",
+"url": "https://gatekeeperstcg.com/products/detective-pikachu-098sv-p-scarlet-violet-pokemon-japanese-nm-786504",
+"category": "other",
+"lang": "JP",
+"type": "removed",
+"old": 290.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "gatekeepers",
+"key": "pack|Team Up",
+"title": "Pokemon: Team Up Booster Pack Art Set",
+"url": "https://gatekeeperstcg.com/products/pokemon-team-up-booster-pack-art-set",
+"category": "pack",
+"lang": "EN",
+"type": "removed",
+"old": 1900.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "gatekeepers",
+"key": "pack|Evolving Skies",
+"title": "Pokemon: Evolving Skies Booster Pack Art Set",
+"url": "https://gatekeeperstcg.com/products/pokemon-evolving-skies-booster-pack-art-set",
+"category": "pack",
+"lang": "EN",
+"type": "removed",
+"old": 360.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "gatekeepers",
+"key": "pack|Gym Heroes|1st Edition",
+"title": "Pokemon: Gym Heroes 1st Edition Booster Pack Art Set",
+"url": "https://gatekeeperstcg.com/products/pokemon-gym-heroes-1st-edition-booster-pack-art-set-unweighed",
+"category": "pack",
+"lang": "EN",
+"type": "removed",
+"old": 3600.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "gatekeepers",
+"key": "other|pokemon ash-greninja ex box",
+"title": "Pokemon: Ash-Greninja Ex Box",
+"url": "https://gatekeeperstcg.com/products/pokemon-ash-greninja-ex-box",
+"category": "other",
+"lang": "EN",
+"type": "removed",
+"old": 1200.0
+},
+{
+"time": "2026-11-26T05:17+10:00",
+"store": "gatekeepers",
+"key": "etb|Paldean Fates",
+"title": "Pokemon: Scarlet & Violet Paldean Fates Elite Trainer Box",
+"url": "https://gatekeeperstcg.com/products/pokemon-scarlet-violet-paldean-fates-elite-trainer-box",
+"category": "etb",
+"lang": "EN",
+"type": "removed",
+"old": 610.0
+},
 {
 "time": "2026-11-25T14:13+10:00",
 "store": "eden",
