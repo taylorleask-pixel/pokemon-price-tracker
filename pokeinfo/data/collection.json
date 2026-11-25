@@ -252,7 +252,8 @@
   "en|sv05|sv05-077": "n",
   "en|sv05|sv05-117": "h",
   "en|sv05|sv05-014": "r",
-  "en|sv05|sv05-004": "r"
+  "en|sv05|sv05-004": "r",
+  "en|sv08.5|sv08.5-043": "h"
  },
  "had": {},
  "log": [
@@ -3055,7 +3056,17 @@
    "name": "Nuzleaf",
    "n": "004",
    "set": "Temporal Forces"
+  },
+  {
+   "t": "2026-11-25T01:27:17.500Z",
+   "k": "en|sv08.5|sv08.5-043",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Flutter Mane",
+   "n": "043",
+   "set": "Prismatic Evolutions"
   }
  ],
- "updated": "2026-11-23T06:51:53.235Z"
+ "updated": "2026-11-25T01:27:20.124Z"
 }
