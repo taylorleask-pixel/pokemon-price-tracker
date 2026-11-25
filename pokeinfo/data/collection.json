@@ -253,7 +253,8 @@
   "en|sv05|sv05-117": "h",
   "en|sv05|sv05-014": "r",
   "en|sv05|sv05-004": "r",
-  "en|sv08.5|sv08.5-043": "h"
+  "en|sv08.5|sv08.5-043": "h",
+  "en|sv08.5|sv08.5-011": "h"
  },
  "had": {},
  "log": [
@@ -3066,7 +3067,17 @@
    "name": "Flutter Mane",
    "n": "043",
    "set": "Prismatic Evolutions"
+  },
+  {
+   "t": "2026-11-25T01:27:24.295Z",
+   "k": "en|sv08.5|sv08.5-011",
+   "a": "added",
+   "v": "h",
+   "from": "",
+   "name": "Hydrapple ex",
+   "n": "011",
+   "set": "Prismatic Evolutions"
   }
  ],
- "updated": "2026-11-25T01:27:20.124Z"
+ "updated": "2026-11-25T01:27:26.681Z"
 }
