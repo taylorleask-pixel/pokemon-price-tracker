@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-25T13:48+10:00",
+"updated": "2026-11-26T04:52+10:00",
 "listings": [
 {
 "store": "evo-flinders",
@@ -363,6 +363,15 @@
 },
 {
 "store": "mint",
+"card": 18,
+"title": "Gengar 010/144 (Skyridge)",
+"condition": "LP",
+"price": 775.0,
+"available": true,
+"url": "https://mintcollectables.com.au/products/gengar-010-144-skyridge?variant=57627621556388"
+},
+{
+"store": "mint",
 "card": 112,
 "title": "Gengar 050/088 (ME03: Perfect Order) - Holofoil",
 "condition": "NM",
@@ -378,15 +387,6 @@
 "price": 100.0,
 "available": true,
 "url": "https://mintcollectables.com.au/products/gengar-eb-games-exclusive-050-088-miscellaneous-cards-products-cosmos-holo-sealed-dent?variant=57606322815140"
-},
-{
-"store": "mint",
-"card": 18,
-"title": "Gengar 010/144 (Skyridge)",
-"condition": "LP",
-"price": 775.0,
-"available": true,
-"url": "https://mintcollectables.com.au/products/gengar-010-144-skyridge?variant=57627621556388"
 },
 {
 "store": "mint",
@@ -417,6 +417,15 @@
 },
 {
 "store": "mint",
+"card": 87,
+"title": "Gengar ex 154/128 (ME: 30th Celebration) - Holofoil",
+"condition": "NM",
+"price": 130.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-ex-154-128-me-30th-celebration-holofoil?variant=53844520337572"
+},
+{
+"store": "mint",
 "card": 88,
 "title": "Gengar Prime 94/102 (ME: 30th Celebration Classic Collection) - Holofoil",
 "condition": "NM",
@@ -435,15 +444,6 @@
 },
 {
 "store": "mint",
-"card": 27,
-"title": "Gengar 18/100 (Stormfront) MP/DMG",
-"condition": "MP/DMG",
-"price": 40.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-18-100-stormfront-mp-dmg?variant=57606461751460"
-},
-{
-"store": "mint",
 "card": 56,
 "title": "Gengar 70/214 (SM - Unbroken Bonds) - Reverse Holofoil",
 "condition": "NM",
@@ -453,12 +453,12 @@
 },
 {
 "store": "mint",
-"card": 87,
-"title": "Gengar ex 154/128 (ME: 30th Celebration) - Holofoil",
-"condition": "NM",
-"price": 130.0,
+"card": 27,
+"title": "Gengar 18/100 (Stormfront) MP/DMG",
+"condition": "MP/DMG",
+"price": 40.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-ex-154-128-me-30th-celebration-holofoil?variant=53844520337572"
+"url": "https://mintcollectables.com.au/products/gengar-18-100-stormfront-mp-dmg?variant=57606461751460"
 },
 {
 "store": "mint",
@@ -498,15 +498,6 @@
 },
 {
 "store": "mint",
-"card": 69,
-"title": "Gengar 066/196 (SWSH11: Lost Origin) - Holofoil",
-"condition": "NM",
-"price": 12.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-066-196-swsh11-lost-origin-holofoil-1?variant=57606519226532"
-},
-{
-"store": "mint",
 "card": 3,
 "title": "Gengar 20/62 (Fossil) - Unlimited",
 "condition": "NM",
@@ -543,39 +534,12 @@
 },
 {
 "store": "mint",
-"card": 1,
-"title": "Gengar 05/62 (Fossil) - Unlimited Holofoil",
+"card": 69,
+"title": "Gengar 066/196 (SWSH11: Lost Origin) - Holofoil",
 "condition": "NM",
-"price": 306.5,
+"price": 12.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-05-62-fossil-unlimited-holofoil?variant=54288568582308"
-},
-{
-"store": "mint",
-"card": 51,
-"title": "Gengar 38/111 (SM - Crimson Invasion) - Reverse Holofoil",
-"condition": "NM",
-"price": 55.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-38-111-sm-crimson-invasion-reverse-holofoil?variant=51408056778916"
-},
-{
-"store": "mint",
-"card": 1,
-"title": "Gengar 05/62 (Fossil) - Unlimited Holofoil LP",
-"condition": "LP",
-"price": 250.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-05-62-fossil-unlimited-holofoil-lp?variant=54288633954468"
-},
-{
-"store": "mint",
-"card": 63,
-"title": "Gengar 057/198 (SWSH06: Chilling Reign) - Holofoil",
-"condition": "NM",
-"price": 10.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-057-198-swsh06-chilling-reign-holofoil?variant=51405862371492"
+"url": "https://mintcollectables.com.au/products/gengar-066-196-swsh11-lost-origin-holofoil-1?variant=57606519226532"
 },
 {
 "store": "mint",
@@ -597,21 +561,21 @@
 },
 {
 "store": "mint",
+"card": 63,
+"title": "Gengar 057/198 (SWSH06: Chilling Reign) - Holofoil",
+"condition": "NM",
+"price": 10.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-057-198-swsh06-chilling-reign-holofoil?variant=51405862371492"
+},
+{
+"store": "mint",
 "card": 107,
 "title": "Gengar 094/165 (SV: Scarlet & Violet 151) - Holofoil",
 "condition": "NM",
 "price": 6.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/gengar-094-165-sv-scarlet-violet-151-holofoil?variant=57606360826020"
-},
-{
-"store": "mint",
-"card": 107,
-"title": "Gengar 094/165 (SV: Scarlet & Violet 151) - Holofoil LP",
-"condition": "LP",
-"price": 5.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-094-165-sv-scarlet-violet-151-holofoil-lp?variant=57606464340132"
 },
 {
 "store": "mint",
@@ -642,21 +606,21 @@
 },
 {
 "store": "mint",
-"card": 3,
-"title": "Gengar 20/62 (Fossil) - Unlimited LP",
-"condition": "LP",
-"price": 60.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-20-62-fossil-unlimited-lp?variant=57606446743716"
-},
-{
-"store": "mint",
 "card": 47,
 "title": "Gengar 35/83 (Generations) - Holofoil MP",
 "condition": "MP",
 "price": 40.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/gengar-35-83-generations-holofoil-mp?variant=57606452707492"
+},
+{
+"store": "mint",
+"card": 3,
+"title": "Gengar 20/62 (Fossil) - Unlimited LP",
+"condition": "LP",
+"price": 60.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-20-62-fossil-unlimited-lp?variant=57606446743716"
 },
 {
 "store": "mint",
@@ -687,12 +651,12 @@
 },
 {
 "store": "mint",
-"card": 58,
-"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
-"condition": "NM",
-"price": 75.0,
+"card": 107,
+"title": "Gengar 094/165 (SV: Scarlet & Violet 151) - Holofoil LP",
+"condition": "LP",
+"price": 5.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=51404997525668"
+"url": "https://mintcollectables.com.au/products/gengar-094-165-sv-scarlet-violet-151-holofoil-lp?variant=57606464340132"
 },
 {
 "store": "mint",
@@ -714,15 +678,6 @@
 },
 {
 "store": "mint",
-"card": 30,
-"title": "Gengar GL 40/111 (Rising Rivals)",
-"condition": "NM",
-"price": 67.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-gl-40-111-rising-rivals?variant=57606361186468"
-},
-{
-"store": "mint",
 "card": 78,
 "title": "Mega Gengar ex 073 (ME: Mega Evolution Promo) - Holofoil",
 "condition": "NM",
@@ -738,6 +693,15 @@
 "price": 74.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/gengar-35-83-generations-holofoil-1?variant=57606360924324"
+},
+{
+"store": "mint",
+"card": 58,
+"title": "Gengar Prerelease SWSH241 (SWSH: Sword & Shield Promo Cards) - Holofoil",
+"condition": "NM",
+"price": 75.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-prerelease-swsh241-swsh-sword-shield-promo-cards-holofoil?variant=51404997525668"
 },
 {
 "store": "mint",
@@ -786,12 +750,12 @@
 },
 {
 "store": "mint",
-"card": 22,
-"title": "Gengar 5/92 (Legend Maker) - Holofoil HP/DMG",
-"condition": "HP/DMG",
-"price": 85.0,
+"card": 72,
+"title": "Gengar 066/196 (Trick or Trade BOOster Bundle 2023) - Holofoil",
+"condition": "NM",
+"price": 2.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-5-92-legend-maker-holofoil-hp-dmg?variant=57606534103204"
+"url": "https://mintcollectables.com.au/products/gengar-066-196-trick-or-trade-booster-bundle-2023-holofoil?variant=51444209385636"
 },
 {
 "store": "mint",
@@ -804,12 +768,12 @@
 },
 {
 "store": "mint",
-"card": 72,
-"title": "Gengar 066/196 (Trick or Trade BOOster Bundle 2023) - Holofoil",
-"condition": "NM",
-"price": 2.0,
+"card": 22,
+"title": "Gengar 5/92 (Legend Maker) - Holofoil HP/DMG",
+"condition": "HP/DMG",
+"price": 85.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-066-196-trick-or-trade-booster-bundle-2023-holofoil?variant=51444209385636"
+"url": "https://mintcollectables.com.au/products/gengar-5-92-legend-maker-holofoil-hp-dmg?variant=57606534103204"
 },
 {
 "store": "mint",
@@ -849,12 +813,12 @@
 },
 {
 "store": "mint",
-"card": 77,
-"title": "Gengar ex 193/162 (SV05: Temporal Forces) - Holofoil",
-"condition": "NM",
-"price": 110.0,
+"card": 25,
+"title": "Gengar 27/130 (Diamond and Pearl) DMG",
+"condition": "DMG",
+"price": 35.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-ex-193-162-sv05-temporal-forces-holofoil?variant=51409208869028"
+"url": "https://mintcollectables.com.au/products/gengar-27-130-diamond-and-pearl-dmg?variant=51481364922532"
 },
 {
 "store": "mint",
@@ -867,12 +831,12 @@
 },
 {
 "store": "mint",
-"card": 25,
-"title": "Gengar 27/130 (Diamond and Pearl) DMG",
-"condition": "DMG",
-"price": 35.0,
+"card": 77,
+"title": "Gengar ex 193/162 (SV05: Temporal Forces) - Holofoil",
+"condition": "NM",
+"price": 110.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-27-130-diamond-and-pearl-dmg?variant=51481364922532"
+"url": "https://mintcollectables.com.au/products/gengar-ex-193-162-sv05-temporal-forces-holofoil?variant=51409208869028"
 },
 {
 "store": "mint",
@@ -891,6 +855,15 @@
 "price": 40.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/gengar-38-111-sm-crimson-invasion-holofoil?variant=51402597138596"
+},
+{
+"store": "mint",
+"card": 30,
+"title": "Gengar GL 40/111 (Rising Rivals)",
+"condition": "NM",
+"price": 67.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-gl-40-111-rising-rivals?variant=57606361186468"
 },
 {
 "store": "mint",
@@ -921,21 +894,21 @@
 },
 {
 "store": "mint",
+"card": 40,
+"title": "M Gengar EX 35/119 (XY - Phantom Forces) - Holofoil LP",
+"condition": "LP",
+"price": 180.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/m-gengar-ex-35-119-xy-phantom-forces-holofoil-lp?variant=53848468979876"
+},
+{
+"store": "mint",
 "card": 78,
 "title": "Mega Gengar ex 073 (ME: Mega Evolution Promo) - Holofoil",
 "condition": "NM",
 "price": 15.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/mega-gengar-ex-073-me-mega-evolution-promo-holofoil-1?variant=57606519619748"
-},
-{
-"store": "mint",
-"card": 80,
-"title": "Mega Gengar ex 269/217 (ME: Ascended Heroes) - Holofoil",
-"condition": "NM",
-"price": 70.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/mega-gengar-ex-269-217-me-ascended-heroes-holofoil-1?variant=54296224956580"
 },
 {
 "store": "mint",
@@ -957,6 +930,15 @@
 },
 {
 "store": "mint",
+"card": 80,
+"title": "Mega Gengar ex 269/217 (ME: Ascended Heroes) - Holofoil",
+"condition": "NM",
+"price": 70.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/mega-gengar-ex-269-217-me-ascended-heroes-holofoil-1?variant=54296224956580"
+},
+{
+"store": "mint",
 "card": 106,
 "title": "Gengar TG06/TG30 (SWSH11: Lost Origin Trainer Gallery) - Holofoil",
 "condition": "NM",
@@ -975,12 +957,12 @@
 },
 {
 "store": "mint",
-"card": 42,
-"title": "M Gengar EX 121/119 (XY - Phantom Forces) - Holofoil",
-"condition": "NM",
-"price": 830.0,
+"card": 39,
+"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil LP",
+"condition": "LP",
+"price": 110.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/m-gengar-ex-121-119-xy-phantom-forces-holofoil?variant=51429047402660"
+"url": "https://mintcollectables.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil-lp-dent?variant=53848470814884"
 },
 {
 "store": "mint",
@@ -993,12 +975,12 @@
 },
 {
 "store": "mint",
-"card": 57,
-"title": "Gengar SWSH052 (SWSH: Sword & Shield Promo Cards) - Holofoil LP",
-"condition": "LP",
-"price": 175.0,
+"card": 42,
+"title": "M Gengar EX 121/119 (XY - Phantom Forces) - Holofoil",
+"condition": "NM",
+"price": 830.0,
 "available": false,
-"url": "https://mintcollectables.com.au/products/gengar-swsh052-swsh-sword-shield-promo-cards-holofoil-lp?variant=57606536233124"
+"url": "https://mintcollectables.com.au/products/m-gengar-ex-121-119-xy-phantom-forces-holofoil?variant=51429047402660"
 },
 {
 "store": "mint",
@@ -1026,78 +1008,6 @@
 "price": 250.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/m-gengar-ex-121-119-xy-phantom-forces-holofoil-mp?variant=51429050122404"
-},
-{
-"store": "mint",
-"card": 69,
-"title": "Gengar 066/196 (SWSH11: Lost Origin) - Holofoil",
-"condition": "NM",
-"price": 7.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-066-196-swsh11-lost-origin-holofoil?variant=51405862437028"
-},
-{
-"store": "mint",
-"card": 34,
-"title": "Gengar 17/99 (Arceus)",
-"condition": "NM",
-"price": 167.5,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-17-99-arceus?variant=51419101921444"
-},
-{
-"store": "mint",
-"card": 104,
-"title": "Gengar V 156/264 (SWSH08: Fusion Strike) - Holofoil",
-"condition": "NM",
-"price": 25.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-v-156-264-swsh08-fusion-strike-holofoil-1?variant=57615501263012"
-},
-{
-"store": "mint",
-"card": 40,
-"title": "M Gengar EX 35/119 (XY - Phantom Forces) - Holofoil LP",
-"condition": "LP",
-"price": 180.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/m-gengar-ex-35-119-xy-phantom-forces-holofoil-lp?variant=53848468979876"
-},
-{
-"store": "mint",
-"card": 34,
-"title": "Gengar 17/99 (Arceus) *HP*",
-"condition": "HP",
-"price": 40.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-17-99-arceus-hp?variant=51419113193636"
-},
-{
-"store": "mint",
-"card": 39,
-"title": "Gengar EX 34/119 (XY - Phantom Forces) - Holofoil LP",
-"condition": "LP",
-"price": 110.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-ex-34-119-xy-phantom-forces-holofoil-lp-dent?variant=53848470814884"
-},
-{
-"store": "mint",
-"card": 105,
-"title": "Gengar VMAX 157/264 (SWSH08: Fusion Strike) - Holofoil LP",
-"condition": "LP",
-"price": 60.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil-lp?variant=57606376816804"
-},
-{
-"store": "mint",
-"card": 52,
-"title": "Gengar and Mimikyu GX 53/181 (SM - Team Up) - Holofoil",
-"condition": "NM",
-"price": 500.0,
-"available": false,
-"url": "https://mintcollectables.com.au/products/gengar-and-mimikyu-gx-53-181-sm-team-up-holofoil?variant=51437341540516"
 },
 {
 "store": "mint",
@@ -1152,6 +1062,15 @@
 "price": 140.0,
 "available": false,
 "url": "https://mintcollectables.com.au/products/mimikyu-v-tg16-tg30-swsh09-brilliant-stars-trainer-gallery-holofoil?variant=51405612089508"
+},
+{
+"store": "mint",
+"card": 52,
+"title": "Gengar and Mimikyu GX 53/181 (SM - Team Up) - Holofoil",
+"condition": "NM",
+"price": 500.0,
+"available": false,
+"url": "https://mintcollectables.com.au/products/gengar-and-mimikyu-gx-53-181-sm-team-up-holofoil?variant=51437341540516"
 },
 {
 "store": "mint",
@@ -1754,7 +1673,7 @@
 "card": 100,
 "title": "Pikachu 173 (151) - Unlimited",
 "condition": "",
-"price": 142.0,
+"price": 79.82,
 "available": false,
 "stock": 0,
 "url": "https://mistyscollectables.com.au/cards/cmqz57tzn1h2311fkhwxpz2jk"
@@ -1983,12 +1902,12 @@
 },
 {
 "store": "raptor",
-"card": 73,
-"title": "Gengar 094/165 Rare Reverse Holo 151 NM/M",
+"card": 106,
+"title": "Gengar (oc) TG06/TG30 Trainer Gallery Rare Lost Origin Trainer Gallery Holo NM/M",
 "condition": "",
-"price": 15.0,
+"price": 85.0,
 "available": false,
-"url": "https://raptorgames.com/products/gengar-094165-rare-reverse-holo-151-nmm-275785?variant=47969242120348"
+"url": "https://raptorgames.com/products/gengar-oc-tg06tg30-trainer-gallery-rare-lost-origin-trainer-gallery-holo-nmm-704385?variant=47513231982748"
 },
 {
 "store": "raptor",
@@ -2010,12 +1929,12 @@
 },
 {
 "store": "raptor",
-"card": 106,
-"title": "Gengar (oc) TG06/TG30 Trainer Gallery Rare Lost Origin Trainer Gallery Holo NM/M",
+"card": 73,
+"title": "Gengar 094/165 Rare Reverse Holo 151 NM/M",
 "condition": "",
-"price": 85.0,
+"price": 15.0,
 "available": false,
-"url": "https://raptorgames.com/products/gengar-oc-tg06tg30-trainer-gallery-rare-lost-origin-trainer-gallery-holo-nmm-704385?variant=47513231982748"
+"url": "https://raptorgames.com/products/gengar-094165-rare-reverse-holo-151-nmm-275785?variant=47969242120348"
 },
 {
 "store": "raptor",
@@ -2391,7 +2310,7 @@
 "card": 73,
 "title": "Gengar (094/165) [Scarlet & Violet 151]",
 "condition": "Near Mint Holofoil",
-"price": 5.5,
+"price": 6.0,
 "available": false,
 "url": "https://www.cardhouse.com.au/products/gengar-094-165-scarlet-violet-151?variant=42489440501951"
 },
@@ -2680,37 +2599,37 @@
 "ok": true,
 "count": 8,
 "cards": 8,
-"checked": "2026-11-25T13:48+10:00"
+"checked": "2026-11-26T04:52+10:00"
 },
 "evo-orion": {
 "ok": true,
 "count": 31,
 "cards": 31,
-"checked": "2026-11-25T13:48+10:00"
+"checked": "2026-11-26T04:52+10:00"
 },
 "mint": {
 "ok": true,
-"count": 93,
-"cards": 46,
-"checked": "2026-11-25T13:48+10:00"
+"count": 84,
+"cards": 43,
+"checked": "2026-11-26T04:52+10:00"
 },
 "misty": {
 "ok": true,
 "count": 72,
 "cards": 72,
-"checked": "2026-11-25T13:48+10:00"
+"checked": "2026-11-26T04:52+10:00"
 },
 "raptor": {
 "ok": true,
 "count": 21,
 "cards": 18,
-"checked": "2026-11-25T13:48+10:00"
+"checked": "2026-11-26T04:52+10:00"
 },
 "card-house": {
 "ok": true,
 "count": 64,
 "cards": 64,
-"checked": "2026-11-25T13:48+10:00"
+"checked": "2026-11-26T04:52+10:00"
 }
 }
 }

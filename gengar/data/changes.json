@@ -1,6 +1,109 @@
 {
 "events": [
 {
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 69,
+"condition": "NM",
+"price": 12.0,
+"url": "https://mintcollectables.com.au/products/gengar-066-196-swsh11-lost-origin-holofoil-1?variant=57606519226532",
+"type": "price-up",
+"old": 7.0
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 104,
+"condition": "NM",
+"price": 20.0,
+"url": "https://mintcollectables.com.au/products/gengar-v-156-264-swsh08-fusion-strike-holofoil?variant=51402597367972",
+"type": "price-down",
+"old": 25.0
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "misty",
+"card": 100,
+"condition": "",
+"price": 79.82,
+"url": "https://mistyscollectables.com.au/cards/cmqz57tzn1h2311fkhwxpz2jk",
+"type": "price-down",
+"old": 142.0
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "card-house",
+"card": 73,
+"condition": "Near Mint Holofoil",
+"price": 6.0,
+"url": "https://www.cardhouse.com.au/products/gengar-094-165-scarlet-violet-151?variant=42489440501951",
+"type": "price-up",
+"old": 5.5
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 1,
+"condition": "NM",
+"price": 306.5,
+"url": "https://mintcollectables.com.au/products/gengar-05-62-fossil-unlimited-holofoil?variant=54288568582308",
+"type": "removed"
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 51,
+"condition": "NM",
+"price": 55.0,
+"url": "https://mintcollectables.com.au/products/gengar-38-111-sm-crimson-invasion-reverse-holofoil?variant=51408056778916",
+"type": "removed"
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 1,
+"condition": "LP",
+"price": 250.0,
+"url": "https://mintcollectables.com.au/products/gengar-05-62-fossil-unlimited-holofoil-lp?variant=54288633954468",
+"type": "removed"
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 57,
+"condition": "LP",
+"price": 175.0,
+"url": "https://mintcollectables.com.au/products/gengar-swsh052-swsh-sword-shield-promo-cards-holofoil-lp?variant=57606536233124",
+"type": "removed"
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 34,
+"condition": "NM",
+"price": 167.5,
+"url": "https://mintcollectables.com.au/products/gengar-17-99-arceus?variant=51419101921444",
+"type": "removed"
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 34,
+"condition": "HP",
+"price": 40.0,
+"url": "https://mintcollectables.com.au/products/gengar-17-99-arceus-hp?variant=51419113193636",
+"type": "removed"
+},
+{
+"time": "2026-11-26T04:52+10:00",
+"store": "mint",
+"card": 105,
+"condition": "LP",
+"price": 60.0,
+"url": "https://mintcollectables.com.au/products/gengar-vmax-157-264-swsh08-fusion-strike-holofoil-lp?variant=57606376816804",
+"type": "removed"
+},
+{
 "time": "2026-11-25T13:48+10:00",
 "store": "evo-flinders",
 "card": 114,
