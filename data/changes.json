@@ -1,6 +1,62 @@
 {
-"updated": "2026-11-27T13:39+10:00",
+"updated": "2026-11-28T05:00+10:00",
 "events": [
+{
+"time": "2026-11-28T05:00+10:00",
+"store": "sidequest",
+"key": "etb|Fusion Strike",
+"title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
+"url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
+"category": "etb",
+"lang": "EN",
+"type": "price-down",
+"old": 743.4,
+"new": 738.5
+},
+{
+"time": "2026-11-28T05:00+10:00",
+"store": "raptor",
+"key": "CN|other|Espeon ex & Umbreon ex Collector's Display Gift Box (Chinese)",
+"title": "[Chinese] Pokemon TCG Espeon ex & Umbreon ex 30th Celebration Collector’s Display Gift Box",
+"url": "https://raptorgames.com/products/pokemon-espeon-ex-umbreon-ex-30th-celebration-collector-s-display-gift-box-chinese-tcg",
+"category": "other",
+"lang": "CN",
+"type": "in-stock",
+"new": 330.0
+},
+{
+"time": "2026-11-28T05:00+10:00",
+"store": "evo",
+"key": "pack|Astral Radiance",
+"title": "Pokémon TCG: Astral Radiance Booster Pack",
+"url": "https://www.evogames.com.au/product/pok-mon-tcg-astral-radiance-booster-pack/362",
+"category": "pack",
+"lang": "EN",
+"type": "removed",
+"old": 20.0
+},
+{
+"time": "2026-11-28T05:00+10:00",
+"store": "evo",
+"key": "pack|Obsidian Flames",
+"title": "Pokemon TCG: Obsidian Flames Booster Pack",
+"url": "https://www.evogames.com.au/product/pokemon-tcg-obsidian-flames-booster-pack/553",
+"category": "pack",
+"lang": "EN",
+"type": "removed",
+"old": 30.0
+},
+{
+"time": "2026-11-28T05:00+10:00",
+"store": "eden",
+"key": "KOR|pack|pokemon - ninja spinner korean booster singke",
+"title": "Pokemon - Ninja Spinner Korean Booster Singke",
+"url": "https://www.edenhunter.com.au/product/pokemon-ninja-spinner-korean-booster-singke/XZYR7VUG2XHZSYT7VY37PNVE",
+"category": "pack",
+"lang": "KOR",
+"type": "removed",
+"old": 4.0
+},
 {
 "time": "2026-11-27T13:39+10:00",
 "store": "misty",

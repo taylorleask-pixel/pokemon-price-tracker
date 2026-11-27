@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-27T13:39+10:00",
+"updated": "2026-11-28T05:00+10:00",
 "listings": [
 {
 "store": "misty",
@@ -20318,26 +20318,6 @@
 },
 {
 "store": "evo",
-"title": "Pokémon TCG: Astral Radiance Booster Pack",
-"price": 20.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pok-mon-tcg-astral-radiance-booster-pack/362",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/HEJ67U63MEVA6M6U5UO7U5IN.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "pack",
-"set": "Astral Radiance",
-"year": 2022,
-"product": null,
-"packs": 1,
-"key": "pack|Astral Radiance",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "evo",
 "title": "Pokémon TCG: Lost Origin Booster Pack",
 "price": 35.0,
 "available": true,
@@ -20412,26 +20392,6 @@
 "product": null,
 "packs": 1,
 "key": "pack|Silver Tempest",
-"skip": null,
-"first_seen": null,
-"changed": null
-},
-{
-"store": "evo",
-"title": "Pokemon TCG: Obsidian Flames Booster Pack",
-"price": 30.0,
-"available": true,
-"url": "https://www.evogames.com.au/product/pokemon-tcg-obsidian-flames-booster-pack/553",
-"image": "https://145776091.cdn6.editmysite.com/uploads/1/4/5/7/145776091/ZMZO3RDY2MKCXLNA23HAT3YG.png",
-"lang": "EN",
-"auto_packs": null,
-"variant": null,
-"category": "pack",
-"set": "Obsidian Flames",
-"year": 2023,
-"product": null,
-"packs": 1,
-"key": "pack|Obsidian Flames",
 "skip": null,
 "first_seen": null,
 "changed": null
@@ -21742,26 +21702,6 @@
 "changed": "2026-11-22T21:26+10:00"
 },
 {
-"store": "eden",
-"title": "Pokemon - Ninja Spinner Korean Booster Singke",
-"price": 4.0,
-"available": true,
-"url": "https://www.edenhunter.com.au/product/pokemon-ninja-spinner-korean-booster-singke/XZYR7VUG2XHZSYT7VY37PNVE",
-"image": "https://140825015.cdn6.editmysite.com/uploads/1/4/0/8/140825015/AMZQ737RTLR2346Y743S4YFB.jpeg",
-"lang": "KOR",
-"auto_packs": null,
-"variant": null,
-"category": "pack",
-"set": null,
-"year": null,
-"product": null,
-"packs": 1,
-"key": "KOR|pack|pokemon - ninja spinner korean booster singke",
-"skip": null,
-"first_seen": "2026-11-25T14:13+10:00",
-"changed": "2026-11-25T14:13+10:00"
-},
-{
 "store": "sidequest",
 "title": "(Simplified Chinese) Legendary Celebration Pikachu Poké Ball Gift Set",
 "price": 30.0,
@@ -22859,7 +22799,7 @@
 {
 "store": "sidequest",
 "title": "Fusion Strike Elite Trainer Box & 6 Bonus Cards (Sam's Club) [Miscellaneous Cards & Products]",
-"price": 743.4,
+"price": 738.5,
 "available": false,
 "url": "https://sidequestcards.com.au/products/fusion-strike-elite-trainer-box-6-bonus-cards-sams-club-miscellaneous-cards-products",
 "image": "https://cdn.shopify.com/s/files/1/0734/1781/8190/files/673a5c23-8c43-4c7d-81f1-932eb26ab7e9.jpg?v=1780062987",
@@ -22874,7 +22814,7 @@
 "key": "etb|Fusion Strike",
 "skip": null,
 "first_seen": null,
-"changed": "2026-11-27T05:01+10:00"
+"changed": "2026-11-28T05:00+10:00"
 },
 {
 "store": "sidequest",
@@ -23285,7 +23225,7 @@
 "store": "raptor",
 "title": "[Chinese] Pokemon TCG Espeon ex & Umbreon ex 30th Celebration Collector’s Display Gift Box",
 "price": 330.0,
-"available": false,
+"available": true,
 "url": "https://raptorgames.com/products/pokemon-espeon-ex-umbreon-ex-30th-celebration-collector-s-display-gift-box-chinese-tcg",
 "image": "https://cdn.shopify.com/s/files/1/0602/7021/5324/files/Pokemon-Espeon-ex-Umbreon-ex-30th-Celebration-Collectors-Display-Gift-Box-Chinese-TCG_recJ848B4x9a3rnaR_0.webp?v=1789605811",
 "lang": "CN",
@@ -23299,7 +23239,7 @@
 "key": "CN|other|Espeon ex & Umbreon ex Collector's Display Gift Box (Chinese)",
 "skip": null,
 "first_seen": "2026-11-06T21:58+10:00",
-"changed": "2026-11-06T21:58+10:00"
+"changed": "2026-11-28T05:00+10:00"
 },
 {
 "store": "raptor",
