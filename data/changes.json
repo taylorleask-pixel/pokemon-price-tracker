@@ -1,6 +1,40 @@
 {
-"updated": "2026-11-28T05:00+10:00",
+"updated": "2026-11-28T13:19+10:00",
 "events": [
+{
+"time": "2026-11-28T13:19+10:00",
+"store": "misty",
+"key": "box|Scarlet & Violet",
+"title": "Scarlet & Violet Booster Box",
+"url": "https://mistyscollectables.com.au/sealed/product/scarlet-violet-booster-box-sv1-s2",
+"category": "box",
+"lang": "EN",
+"type": "price-down",
+"old": 482.0,
+"new": 480.97
+},
+{
+"time": "2026-11-28T13:19+10:00",
+"store": "misty",
+"key": "pack|Evolutions",
+"title": "XY Evolutions Booster Pack",
+"url": "https://mistyscollectables.com.au/sealed/product/xy-evolutions-booster-pack",
+"category": "pack",
+"lang": "EN",
+"type": "sold-out",
+"old": 100.0
+},
+{
+"time": "2026-11-28T13:19+10:00",
+"store": "raptor",
+"key": "etb|Chilling Reign",
+"title": "Pokemon TCG: Chilling Reign Elite Trainer Box",
+"url": "https://raptorgames.com/products/pokemon-tcg-chilling-reign-elite-trainer-box",
+"category": "etb",
+"lang": "EN",
+"type": "sold-out",
+"old": 220.0
+},
 {
 "time": "2026-11-28T05:00+10:00",
 "store": "sidequest",
