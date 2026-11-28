@@ -84,6 +84,11 @@
    "date": "2026-11-14",
    "where": "Eden Hunters",
    "paid": 5.0
+  },
+  "77": {
+   "date": "2026-11-28",
+   "where": "Card show",
+   "paid": 80.0
   }
  },
  "log": [
@@ -256,6 +261,16 @@
    "where": "Eden Hunters",
    "paid": 5.0,
    "date": "2026-11-14"
+  },
+  {
+   "time": "2026-11-28T11:46+10:00",
+   "action": "add",
+   "ids": [
+    77
+   ],
+   "where": "Card show",
+   "paid": 80.0,
+   "date": "2026-11-28"
   }
  ]
 }
