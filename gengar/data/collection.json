@@ -99,6 +99,11 @@
    "date": "2026-11-28",
    "where": "Card show",
    "paid": 5.0
+  },
+  "63": {
+   "date": "2026-11-28",
+   "where": "Card show",
+   "paid": 8.0
   }
  },
  "log": [
@@ -310,6 +315,16 @@
    ],
    "where": "Card show",
    "paid": 95.0,
+   "date": "2026-11-28"
+  },
+  {
+   "time": "2026-11-28T14:39+10:00",
+   "action": "add",
+   "ids": [
+    63
+   ],
+   "where": "Card show",
+   "paid": 8.0,
    "date": "2026-11-28"
   }
  ]
